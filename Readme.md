@@ -1,17 +1,16 @@
 #Host your Twitter Archive on Github Pages
 
 
-This is the Github Pages hosted version of Martin Hawksey's **"Host your [Twitter Archive ](https://mashe.hawksey.info/2013/01/sync-twitter-archive-with-google-drive/) on Google Drive"** 
+This is the Github Pages hosted version of Martin Hawksey's [**Host your Twitter Archive on Google Drive**](https://mashe.hawksey.info/2013/01/sync-twitter-archive-with-google-drive/)
 
 Use Martin's latest [script](https://script.google.com/macros/s/AKfycbzbBwpWfqL4VMy9DYmaEaqZucGlXK6yKKEZWFqPzG6o0AKC2OjR/exec) to sync to Github Pages.
 
+---
 
 
 ## How to use your Twitter archive
 
 The simplest way to use your Twitter archive is through the archive browser interface provided in this file. Just double-click `index.html` from the root folder and you can browse your entire history of Tweets from inside your browser.
-
----
 
 In the `data` folder, your Twitter archive is present in two formats: JSON and CSV exports by month and year.
 
