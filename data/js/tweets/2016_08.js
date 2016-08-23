@@ -1,6 +1,411 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Tue Aug 23 05:39:55 +0000 2016",
+		"id": 767959532718862300,
+		"id_str": "767959532718862337",
+		"text": "RT @PAPSingapore: #RememberingSRNathan:Here is a notable quote. Learn more about his life: https://t.co/dy8vBiO2Pu #RIPPresidentNathan http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RememberingSRNathan",
+					"indices": [
+						18,
+						38
+					]
+				},
+				{
+					"text": "RIPPresidentNathan",
+					"indices": [
+						115,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PAPSingapore",
+					"name": "PAP Singapore",
+					"id": 59419156,
+					"id_str": "59419156",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dy8vBiO2Pu",
+					"expanded_url": "http://bit.ly/2bOFErR",
+					"display_url": "bit.ly/2bOFErR",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 767955766904959000,
+					"id_str": "767955766904958976",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CqhTs4GVMAA6347.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CqhTs4GVMAA6347.jpg",
+					"url": "https://t.co/l5DT1QKA5u",
+					"display_url": "pic.twitter.com/l5DT1QKA5u",
+					"expanded_url": "https://twitter.com/PAPSingapore/status/767955781303934977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 767955781303935000,
+					"source_status_id_str": "767955781303934977",
+					"source_user_id": 59419156,
+					"source_user_id_str": "59419156"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 767955766904959000,
+					"id_str": "767955766904958976",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CqhTs4GVMAA6347.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CqhTs4GVMAA6347.jpg",
+					"url": "https://t.co/l5DT1QKA5u",
+					"display_url": "pic.twitter.com/l5DT1QKA5u",
+					"expanded_url": "https://twitter.com/PAPSingapore/status/767955781303934977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 767955781303935000,
+					"source_status_id_str": "767955781303934977",
+					"source_user_id": 59419156,
+					"source_user_id_str": "59419156"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9896,
+			"friends_count": 8108,
+			"listed_count": 852,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1569,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5734,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 23 05:25:00 +0000 2016",
+			"id": 767955781303935000,
+			"id_str": "767955781303934977",
+			"text": "#RememberingSRNathan:Here is a notable quote. Learn more about his life: https://t.co/dy8vBiO2Pu #RIPPresidentNathan https://t.co/l5DT1QKA5u",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RememberingSRNathan",
+						"indices": [
+							0,
+							20
+						]
+					},
+					{
+						"text": "RIPPresidentNathan",
+						"indices": [
+							97,
+							116
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dy8vBiO2Pu",
+						"expanded_url": "http://bit.ly/2bOFErR",
+						"display_url": "bit.ly/2bOFErR",
+						"indices": [
+							73,
+							96
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 767955766904959000,
+						"id_str": "767955766904958976",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/CqhTs4GVMAA6347.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CqhTs4GVMAA6347.jpg",
+						"url": "https://t.co/l5DT1QKA5u",
+						"display_url": "pic.twitter.com/l5DT1QKA5u",
+						"expanded_url": "https://twitter.com/PAPSingapore/status/767955781303934977/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 767955766904959000,
+						"id_str": "767955766904958976",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/CqhTs4GVMAA6347.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CqhTs4GVMAA6347.jpg",
+						"url": "https://t.co/l5DT1QKA5u",
+						"display_url": "pic.twitter.com/l5DT1QKA5u",
+						"expanded_url": "https://twitter.com/PAPSingapore/status/767955781303934977/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 59419156,
+				"id_str": "59419156",
+				"name": "PAP Singapore",
+				"screen_name": "PAPSingapore",
+				"location": "Singapore",
+				"description": "Published by and at the direction of the People's Action Party, 57B New Upper Changi Road, #01-1402, Singapore 463057\n\nInstagram: @papsingapore",
+				"url": "http://t.co/TGbSRr2vVW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/TGbSRr2vVW",
+								"expanded_url": "http://bit.ly/pap_link_up",
+								"display_url": "bit.ly/pap_link_up",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 67184,
+				"friends_count": 154,
+				"listed_count": 300,
+				"created_at": "Thu Jul 23 10:19:02 +0000 2009",
+				"favourites_count": 502,
+				"utc_offset": -39600,
+				"time_zone": "International Date Line West",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4217,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0DDF0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/870572054/c8c5b5c05e9f2b5b8028d41aa2dd1160.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/870572054/c8c5b5c05e9f2b5b8028d41aa2dd1160.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/582713841059901440/qyn_YP34_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/582713841059901440/qyn_YP34_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/59419156/1471878988",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 23 04:54:22 +0000 2016",
 		"id": 767948071732863000,
 		"id_str": "767948071732862977",
