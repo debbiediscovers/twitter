@@ -1,6 +1,669 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Thu Aug 25 00:30:02 +0000 2016",
+		"id": 768606326524084200,
+		"id_str": "768606326524084224",
+		"text": "RT @StartupTabs: Featured #startup @snapwitapp \"Create fun video mojis selfie and greetings for chat\" https://t.co/toX0IMEbgG https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startup",
+					"indices": [
+						26,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupTabs",
+					"name": "Startuptabs",
+					"id": 1408850774,
+					"id_str": "1408850774",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "snapwitapp",
+					"name": "Snapwit",
+					"id": 3296697738,
+					"id_str": "3296697738",
+					"indices": [
+						35,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/toX0IMEbgG",
+					"expanded_url": "http://goo.gl/DS77oi",
+					"display_url": "goo.gl/DS77oi",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 768462883864907800,
+					"id_str": "768462883864907780",
+					"indices": [
+						126,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cqog69_XEAQJfVV.png",
+					"media_url_https": "https://pbs.twimg.com/media/Cqog69_XEAQJfVV.png",
+					"url": "https://t.co/DxMSj0Sxkp",
+					"display_url": "pic.twitter.com/DxMSj0Sxkp",
+					"expanded_url": "https://twitter.com/StartupTabs/status/768462886062678016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 250,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 250,
+							"h": 486,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 768462886062678000,
+					"source_status_id_str": "768462886062678016",
+					"source_user_id": 1408850774,
+					"source_user_id_str": "1408850774"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 768462883864907800,
+					"id_str": "768462883864907780",
+					"indices": [
+						126,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cqog69_XEAQJfVV.png",
+					"media_url_https": "https://pbs.twimg.com/media/Cqog69_XEAQJfVV.png",
+					"url": "https://t.co/DxMSj0Sxkp",
+					"display_url": "pic.twitter.com/DxMSj0Sxkp",
+					"expanded_url": "https://twitter.com/StartupTabs/status/768462886062678016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 250,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 250,
+							"h": 486,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 768462886062678000,
+					"source_status_id_str": "768462886062678016",
+					"source_user_id": 1408850774,
+					"source_user_id_str": "1408850774"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.amplfy.co\" rel=\"nofollow\">AmplfyCo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10081,
+			"friends_count": 6273,
+			"listed_count": 851,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1595,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5749,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 24 15:00:04 +0000 2016",
+			"id": 768462886062678000,
+			"id_str": "768462886062678016",
+			"text": "Featured #startup @snapwitapp \"Create fun video mojis selfie and greetings for chat\" https://t.co/toX0IMEbgG https://t.co/DxMSj0Sxkp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "startup",
+						"indices": [
+							9,
+							17
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "snapwitapp",
+						"name": "Snapwit",
+						"id": 3296697738,
+						"id_str": "3296697738",
+						"indices": [
+							18,
+							29
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/toX0IMEbgG",
+						"expanded_url": "http://goo.gl/DS77oi",
+						"display_url": "goo.gl/DS77oi",
+						"indices": [
+							85,
+							108
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 768462883864907800,
+						"id_str": "768462883864907780",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/Cqog69_XEAQJfVV.png",
+						"media_url_https": "https://pbs.twimg.com/media/Cqog69_XEAQJfVV.png",
+						"url": "https://t.co/DxMSj0Sxkp",
+						"display_url": "pic.twitter.com/DxMSj0Sxkp",
+						"expanded_url": "https://twitter.com/StartupTabs/status/768462886062678016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 250,
+								"h": 486,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 250,
+								"h": 486,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 250,
+								"h": 486,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 768462883864907800,
+						"id_str": "768462883864907780",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/Cqog69_XEAQJfVV.png",
+						"media_url_https": "https://pbs.twimg.com/media/Cqog69_XEAQJfVV.png",
+						"url": "https://t.co/DxMSj0Sxkp",
+						"display_url": "pic.twitter.com/DxMSj0Sxkp",
+						"expanded_url": "https://twitter.com/StartupTabs/status/768462886062678016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 250,
+								"h": 486,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 250,
+								"h": 486,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 250,
+								"h": 486,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.amplfy.co\" rel=\"nofollow\">AmplfyCo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1408850774,
+				"id_str": "1408850774",
+				"name": "Startuptabs",
+				"screen_name": "StartupTabs",
+				"location": "Los Angeles, CA",
+				"description": "Discover new startups now! Every tab loads a new startup. Check out our browser extension: https://t.co/AUPAzZdicz.",
+				"url": "https://t.co/PFUXu2JqOr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PFUXu2JqOr",
+								"expanded_url": "http://www.startuptabs.com",
+								"display_url": "startuptabs.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AUPAzZdicz",
+								"expanded_url": "http://startuptabs.com/chrome",
+								"display_url": "startuptabs.com/chrome",
+								"indices": [
+									91,
+									114
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2015,
+				"friends_count": 1995,
+				"listed_count": 116,
+				"created_at": "Mon May 06 22:18:02 +0000 2013",
+				"favourites_count": 11574,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1253,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/494506995521568768/P0AcRC5O_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/494506995521568768/P0AcRC5O_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1408850774/1436947494",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 25 00:00:30 +0000 2016",
+		"id": 768598890811498500,
+		"id_str": "768598890811498497",
+		"text": "RT @ElijahStroman: 10 Reasons Why Following Your #Passion Is More Important Than #Money https://t.co/5AoKSz8IYJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Passion",
+					"indices": [
+						49,
+						57
+					]
+				},
+				{
+					"text": "Money",
+					"indices": [
+						81,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ElijahStroman",
+					"name": "Elijah Stroman",
+					"id": 3727022832,
+					"id_str": "3727022832",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5AoKSz8IYJ",
+					"expanded_url": "http://www.lifehack.org/articles/money/10-reasons-why-following-your-passion-more-important-than-money.html",
+					"display_url": "lifehack.org/articles/money…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10081,
+			"friends_count": 6273,
+			"listed_count": 851,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1595,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5749,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 23 03:24:05 +0000 2016",
+			"id": 767925350391132200,
+			"id_str": "767925350391132160",
+			"text": "10 Reasons Why Following Your #Passion Is More Important Than #Money https://t.co/5AoKSz8IYJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Passion",
+						"indices": [
+							30,
+							38
+						]
+					},
+					{
+						"text": "Money",
+						"indices": [
+							62,
+							68
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5AoKSz8IYJ",
+						"expanded_url": "http://www.lifehack.org/articles/money/10-reasons-why-following-your-passion-more-important-than-money.html",
+						"display_url": "lifehack.org/articles/money…",
+						"indices": [
+							69,
+							92
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3727022832,
+				"id_str": "3727022832",
+				"name": "Elijah Stroman",
+				"screen_name": "ElijahStroman",
+				"location": "Raleigh, NC",
+				"description": "I'm a Freelance Self-Improvement Coach/ Optimistic Personality/ Natural-born Infopreneur / Wisdom and Knowledge Seeker/ There's a better version of you tomorrow",
+				"url": "https://t.co/1R6sgL32zj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1R6sgL32zj",
+								"expanded_url": "https://www.quora.com/profile/Elijah-Stroman",
+								"display_url": "quora.com/profile/Elijah…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 883,
+				"friends_count": 484,
+				"listed_count": 580,
+				"created_at": "Tue Sep 29 15:30:49 +0000 2015",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21750,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/721921456636989440/vsP3W3j4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/721921456636989440/vsP3W3j4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3727022832/1443542517",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 24 22:31:35 +0000 2016",
 		"id": 768576514937884700,
 		"id_str": "768576514937884672",
