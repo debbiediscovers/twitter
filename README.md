@@ -1,9 +1,24 @@
 #Host your Twitter Archive on Github Pages
 
 
-This is the Github Pages hosted version of Martin Hawksey's [**Host your Twitter Archive on Google Drive**](https://mashe.hawksey.info/2013/01/sync-twitter-archive-with-google-drive/)
+This is the Github Pages hosted version of Martin Hawksey's [Host your Twitter Archive on Google Drive](https://mashe.hawksey.info/2013/01/sync-twitter-archive-with-google-drive/)
 
 Use Martin's latest [script](https://script.google.com/macros/s/AKfycbzbBwpWfqL4VMy9DYmaEaqZucGlXK6yKKEZWFqPzG6o0AKC2OjR/exec) to sync to Github Pages.
+
+
+## Misc
+
+The history behind [TAGS](https://mashe.hawksey.info/2016/05/twitter-archive-google-sheets-tags-just-got-a-bit-easier-with-an-easy-setup/)
+
+## License
+
+This work is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/). CC-BY mhawksey
+
+
+## Credits
+
+Follow Martin Hawksey: [Twitter](https://twitter.com/mhawksey),[Google+](https://plus.google.com/u/0/+MartinHawksey), [GitHub](https://github.com/mhawksey), [Blog](https://mashe.hawksey.info/)
+
 
 ---
 
