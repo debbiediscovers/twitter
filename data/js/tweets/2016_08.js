@@ -1,6 +1,452 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Thu Aug 25 12:02:40 +0000 2016",
+		"id": 768780630884614100,
+		"id_str": "768780630884614145",
+		"text": "RT @PohJacqueline: Smart Nation be damned: Singaporeans aren't embracing innovation https://t.co/C6VCINm7Ef",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PohJacqueline",
+					"name": "Jacqueline Poh",
+					"id": 2526271542,
+					"id_str": "2526271542",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/C6VCINm7Ef",
+					"expanded_url": "https://e27.co/red-alert-for-apac-companies-47-not-ready-for-tech-disruption-only-14-1-in-singapore-want-innovation-says-a-new-report-by-idc-20160824/",
+					"display_url": "e27.co/red-alert-for-…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10066,
+			"friends_count": 6364,
+			"listed_count": 848,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1601,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5755,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 25 09:43:26 +0000 2016",
+			"id": 768745593124511700,
+			"id_str": "768745593124511745",
+			"text": "Smart Nation be damned: Singaporeans aren't embracing innovation https://t.co/C6VCINm7Ef",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/C6VCINm7Ef",
+						"expanded_url": "https://e27.co/red-alert-for-apac-companies-47-not-ready-for-tech-disruption-only-14-1-in-singapore-want-innovation-says-a-new-report-by-idc-20160824/",
+						"display_url": "e27.co/red-alert-for-…",
+						"indices": [
+							65,
+							88
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2526271542,
+				"id_str": "2526271542",
+				"name": "Jacqueline Poh",
+				"screen_name": "PohJacqueline",
+				"location": "Singapore",
+				"description": "Managing Director, Infocomm Development Authority. Government Technology. Digital transformation. Cybersecurity. WomenInTech. Motherof3Geeks.",
+				"url": "https://t.co/LjMTPtoWaP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LjMTPtoWaP",
+								"expanded_url": "http://www.ida.gov.sg",
+								"display_url": "ida.gov.sg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 637,
+				"friends_count": 167,
+				"listed_count": 78,
+				"created_at": "Tue May 27 01:48:00 +0000 2014",
+				"favourites_count": 44,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1246,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/616135626618830849/-KExfrXk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/616135626618830849/-KExfrXk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2526271542/1440978118",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 25 12:02:15 +0000 2016",
+		"id": 768780525729304600,
+		"id_str": "768780525729304576",
+		"text": "😱 😱  #Language!!! @PohJacqueline #Singapore Why you so like dat? #Smartnation https://t.co/uJvCGJLuQd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Language",
+					"indices": [
+						5,
+						14
+					]
+				},
+				{
+					"text": "Singapore",
+					"indices": [
+						33,
+						43
+					]
+				},
+				{
+					"text": "Smartnation",
+					"indices": [
+						65,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PohJacqueline",
+					"name": "Jacqueline Poh",
+					"id": 2526271542,
+					"id_str": "2526271542",
+					"indices": [
+						18,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uJvCGJLuQd",
+					"expanded_url": "https://twitter.com/PohJacqueline/status/768745593124511745",
+					"display_url": "twitter.com/PohJacqueline/…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10066,
+			"friends_count": 6364,
+			"listed_count": 848,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1601,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5755,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 768745593124511700,
+		"quoted_status_id_str": "768745593124511745",
+		"quoted_status": {
+			"created_at": "Thu Aug 25 09:43:26 +0000 2016",
+			"id": 768745593124511700,
+			"id_str": "768745593124511745",
+			"text": "Smart Nation be damned: Singaporeans aren't embracing innovation https://t.co/C6VCINm7Ef",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/C6VCINm7Ef",
+						"expanded_url": "https://e27.co/red-alert-for-apac-companies-47-not-ready-for-tech-disruption-only-14-1-in-singapore-want-innovation-says-a-new-report-by-idc-20160824/",
+						"display_url": "e27.co/red-alert-for-…",
+						"indices": [
+							65,
+							88
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2526271542,
+				"id_str": "2526271542",
+				"name": "Jacqueline Poh",
+				"screen_name": "PohJacqueline",
+				"location": "Singapore",
+				"description": "Managing Director, Infocomm Development Authority. Government Technology. Digital transformation. Cybersecurity. WomenInTech. Motherof3Geeks.",
+				"url": "https://t.co/LjMTPtoWaP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LjMTPtoWaP",
+								"expanded_url": "http://www.ida.gov.sg",
+								"display_url": "ida.gov.sg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 637,
+				"friends_count": 167,
+				"listed_count": 78,
+				"created_at": "Tue May 27 01:48:00 +0000 2014",
+				"favourites_count": 44,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1246,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/616135626618830849/-KExfrXk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/616135626618830849/-KExfrXk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2526271542/1440978118",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 25 08:58:00 +0000 2016",
 		"id": 768734159351144400,
 		"id_str": "768734159351144448",
