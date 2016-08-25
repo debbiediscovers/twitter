@@ -20,9 +20,9 @@ This work is licensed under a [Creative Commons Attribution 3.0 Unported License
 Follow Martin Hawksey: [Twitter](https://twitter.com/mhawksey), [Google+](https://plus.google.com/u/0/+MartinHawksey), [GitHub](https://github.com/mhawksey), [Blog](https://mashe.hawksey.info/)
 
 
-
-
-
+<br>
+<br>
+<br>
 
 ## How to use your Twitter archive
 
