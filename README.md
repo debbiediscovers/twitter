@@ -13,7 +13,7 @@ This is the (UPDATED 08/16) Github Pages hosted version of Martin Hawksey's [Hos
 6. Update the Title and Description of Page 
 7. Update the footer (else it says "offline")
 7. Add your custom favicon to the repository and this line of code before the closing tag of the header <code>&lt;/head&gt; </code> in the index.html file (add <code>&lt;link rel="shortcut icon" type="image/png" href="/favicon.png"&gt;</code>)
-8. If you did not initialise your repository with a README.md file, make a copy of this and modify accordingly
+8. Update the README.md file (if you did not create one when you initialised the repository, you can copy and modify this version)
 
 ## Free Domain for All University Students
 Namecheap is giving away a .me domain to all University students from four countries (UK, US, Canada and Australia) for one year. To get your domain, go to [nc.me][nc.me]
