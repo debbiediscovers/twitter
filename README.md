@@ -1,24 +1,37 @@
 #Host your Twitter Archive on Github Pages
 
 
-##Instructions
-This is the Github Pages hosted version of Martin Hawksey's [Host your Twitter Archive on Google Drive] (https://mashe.hawksey.info/2016/08/keeping-your-twitter-archive-fresh-and-freely-hosted-on-github-pages/)
+##Intro
+This is the Github Pages hosted version of Martin Hawksey's [Host your Twitter Archive on Google Drive]  (https://mashe.hawksey.info/2016/08/keeping-your-twitter-archive-fresh-and-freely-hosted-on-github-pages/) where there are updated instructions as well as a youtube video on how to use Github Pages.
 
+##Instructions
 1. Request for your Twitter Archive from Twitter under [Settings](https://twitter.com/settings/account#tweet_export)
-2. Make a copy of Martin's spreadsheet and follow the instructions
+2. Make a copy of Martin's spreadsheet and follow the instructions to host your Twitter archive on Google Drive
 3. Use Martin's latest [script](https://script.google.com/macros/s/AKfycbzbBwpWfqL4VMy9DYmaEaqZucGlXK6yKKEZWFqPzG6o0AKC2OjR/exec) to sync to Github Pages.
 4. Create a new Github repository.
-5. Commit (upload) Twitter Archive files to Master using Terminal or Github's desktop app
+5. Commit (upload) Twitter Archive files to Master using Terminal or Github's desktop app - instructions can also be found on my [Github home page](https://debbiediscovers.github.io)
 6. Update the Title and Description of Page
-7. Update the footnote too
-7. Add your custom favicon (add <code>&lt;link rel="shortcut icon" type="image/png" href="/favicon.png"&lg;</code>)
-8. Create a README.md file (or take mine)
-
+7. Update the footnote (else it says "offline")
+7. Add your custom favicon to the repository and this line of code before the closing tags </head> of the header in the index (add <code>&lt;link rel="shortcut icon" type="image/png" href="/favicon.png"&lg;</code>)
+8. If you did not initialise your repository with a README.md file, make a copy of this and modify accordingly
 
 ## Free Domain for All University Students
-Namecheap is giving away a .me domain to all University students from four countries (UK, US, Canada and Australia) for one year. 
+Namecheap is giving away a .me domain to all University students from four countries (UK, US, Canada and Australia) for one year. To get your domain, go to [nc.me][nc.me]
 
-If you are not from one of those countries, don't fret. Github Education has an even better offer (worth over $2,000) where you not only get a free .me domain, you also get an Atom text editor, AWS and Digital Oceon hosting accounts, SendGrid emails, waiver of Stripe fees, free courses from Thinkful and Udacity, Microsoft's Visual Studio and more.  Any student age above 13 who is enrolled in a full time degree or diploma course is eligible to apply for one. Read more about it here: [Free Domain for Students: But What's the Catch?](http://debbiediscovers.com/blog/free-domain-for-students/). 
+If you are not from one of the four countries, don't fret. [Github Education](https://education.github.com/pack) has an even better offer (worth over $2,000) where you get
+- a free .me domain
+- an Atom text editor
+- AWS
+- Digital Oceon hosting accounts
+- SendGrid emails
+- waiver of Stripe fees, 
+- free courses from Thinkful 
+- Udacity
+- Microsoft's Visual Studio
+
+*Eligibility:* Any student age above 13 who is enrolled in a full time degree or diploma course is eligible to apply for the Github Education Student Pack. 
+
+Read more about it on my blog post: [Free Domain for Students: But What's the Catch?](http://debbiediscovers.com/blog/free-domain-for-students/). 
 
 ##Custom Domain
 To add an "apex domain" (i.e. <code>"example.com"</code>), add two A records and point them to the following IP addresses:
@@ -27,9 +40,9 @@ To add an "apex domain" (i.e. <code>"example.com"</code>), add two A records and
 192.30.252.154
 </code></pre>
 
-To add a "sub-domain" (e.g."twitter.debbiediscovers.com"), point your CNAME (without the WWW) to your Github Pages default domain (debbiediscovers.github.io).
+To add a "sub-domain" (e.g."twitter.debbiediscovers.com"), point your CNAME (without the WWW) to your Github Pages default domain (debbiediscovers.github.io).(Note that your CNAME cannot point to more than one domain.If, like mine, it is already pointing somewhere else, you have to do a redirect instead of changing your DNS records. 
 
-If you use Bluehost for example, don't create subdomain as Bluehost will add a folder in your public directory and there will be a conflict. Just change the CNAME.
+Go to Settings and fill in your custom domain.
 
 
 ## Misc 
