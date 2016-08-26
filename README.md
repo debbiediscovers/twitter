@@ -16,7 +16,7 @@ This is the (UPDATED 08/16) Github Pages hosted version of Martin Hawksey's [Hos
 8. Update the README.md file (if you did not create one when you initialised the repository, you can copy and modify this version)
 
 ## Free Domain for All University Students
-Namecheap is giving away a .me domain to all University students from four countries (UK, US, Canada and Australia) for one year. To get yours, go to [nc.me][http://nc.me]. Namecheap are also offering discounted .com and other TLDs so don't settle for the .me unless you really want it (only free for one year and is 2X the price of a .com)
+Namecheap is giving away a .me domain to all University students from four countries (UK, US, Canada and Australia) for one year. To get yours, go to [nc.me](http://nc.me). Namecheap are also offering discounted .com and other TLDs so don't settle for the .me unless you really want it (only free for one year and is 2X the price of a .com)
 
 If you are not from one of the four countries, don't fret. [Github Education](https://education.github.com/pack) has an even better offer (worth over $2,000) where you get
 - a free .me domain
@@ -29,7 +29,7 @@ If you are not from one of the four countries, don't fret. [Github Education](ht
 - Udacity
 - Microsoft's Visual Studio
 
-*Eligibility:* Any student age above 13 who is enrolled in a full time degree or diploma course is eligible to apply for the Github Education Student Pack. 
+**Eligibility:** Any student age above 13 who is enrolled in a full time degree or diploma course is eligible to apply for the Github Education Student Pack. 
 
 Read more about it on my blog post: [Free Domain for Students: But What's the Catch?](http://debbiediscovers.com/blog/free-domain-for-students/). 
 
@@ -40,9 +40,13 @@ To add an "apex domain" (i.e. <code>"example.com"</code>), add two A records and
 192.30.252.154
 </code></pre>
 
-To add a "sub-domain" (e.g."twitter.debbiediscovers.com"), point your CNAME (without the WWW) to your Github Pages default domain (debbiediscovers.github.io).(Note that your CNAME cannot point to more than one domain.If, like mine, it is already pointing somewhere else, you have to do a redirect instead of changing your DNS records. 
+To add a "sub-domain" (e.g.<code>"twitter.example.com"</code>), point your CNAME (without the WWW) to your Github Pages default domain <code>("yourname.github.io")</code>.
+
+(Note: CNAME cannot point to more than one domain. If it is already pointing somewhere else, do a redirect instead)
 
 Go to Settings and fill in your custom domain.
+
+More instructions can be found [here](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
 
 
 ## Misc 
