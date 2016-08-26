@@ -16,7 +16,7 @@ This is the (UPDATED 08/16) Github Pages hosted version of Martin Hawksey's [Hos
 8. Update the README.md file (if you did not create one when you initialised the repository, you can copy and modify this version)
 
 ## Free Domain for All University Students
-Namecheap is giving away a .me domain to all University students from four countries (UK, US, Canada and Australia) for one year. To get your domain, go to [nc.me][nc.me]
+Namecheap is giving away a .me domain to all University students from four countries (UK, US, Canada and Australia) for one year. To get yours, go to [nc.me][http://nc.me]. Namecheap are also offering discounted .com and other TLDs so don't settle for the .me unless you really want it (only free for one year and is 2X the price of a .com)
 
 If you are not from one of the four countries, don't fret. [Github Education](https://education.github.com/pack) has an even better offer (worth over $2,000) where you get
 - a free .me domain
