@@ -34,19 +34,17 @@ If you are not from one of the four countries, don't fret. [Github Education](ht
 Read more about it on my blog post: [Free Domain for Students: But What's the Catch?](http://debbiediscovers.com/blog/free-domain-for-students/). 
 
 ##Custom Domain
-To add an "apex domain" (i.e. <code>"example.com"</code>), add two A records and point them to the following IP addresses:
-<pre><code>
-192.30.252.153<br>
-192.30.252.154
-</code></pre>
+1. To add an "apex domain" (i.e. <code>"example.com"</code>), add two A records and point them to the following IP addresses:
+    <pre><code>
+    192.30.252.153<br>
+    192.30.252.154
+    </code></pre>
 
-To add a "sub-domain" (e.g.<code>"twitter.example.com"</code>), point your CNAME (without the WWW) to your Github Pages default domain <code>("yourname.github.io")</code>.
+2. To add a "sub-domain" (e.g.<code>"twitter.example.com"</code>), point your CNAME (without the WWW) to your Github Pages default domain <code>("yourname.github.io")</code>.
 
-(Note: CNAME cannot point to more than one domain. If it is already pointing somewhere else, do a redirect instead)
+3. Go to Settings and fill in your custom domain.
 
-Go to Settings and fill in your custom domain.
-
-More instructions can be found [here](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
+4. (Note: CNAME cannot point to more than one domain. If it is already pointing somewhere else, do a redirect instead). More instructions can be found [here](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
 
 
 ## Misc 
