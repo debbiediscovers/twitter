@@ -2,7 +2,7 @@
 
 
 ##Intro
-This is the Github Pages hosted version of Martin Hawksey's [Host your Twitter Archive on Google Drive]  (https://mashe.hawksey.info/2016/08/keeping-your-twitter-archive-fresh-and-freely-hosted-on-github-pages/) where there are updated instructions as well as a youtube video on how to use Github Pages.
+This is the (UPDATED 08/16) Github Pages hosted version of Martin Hawksey's [Host your Twitter Archive on Google Drive]  (https://mashe.hawksey.info/2016/08/keeping-your-twitter-archive-fresh-and-freely-hosted-on-github-pages/). Useful youtube video on how to use Github Pages if you are new to it)  
 
 ##Instructions
 1. Request for your Twitter Archive from Twitter under [Settings](https://twitter.com/settings/account#tweet_export)
