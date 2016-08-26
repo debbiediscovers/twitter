@@ -19,7 +19,7 @@ This is the *UPDATED* Github Pages hosted version of Martin Hawksey's [Host your
 Namecheap is giving away a .me domain to all University students from four countries (UK, US, Canada and Australia) for one year. To get yours, go to [nc.me](http://nc.me). Namecheap are also offering discounted .com and other TLDs so don't settle for the .me unless you really want it (only free for one year and is 2X the price of a .com)
 
 If you are not from one of the four countries, don't fret. [Github Education](https://education.github.com/pack) has an even better offer (worth over $2,000) where you get
-- a free .me domain
+- a free .me domain from Namecheap
 - an Atom text editor
 - AWS
 - Digital Oceon hosting accounts
@@ -28,8 +28,9 @@ If you are not from one of the four countries, don't fret. [Github Education](ht
 - free courses from Thinkful 
 - Udacity
 - Microsoft's Visual Studio
+- many more..
 
-**Eligibility:** Any student age above 13 who is enrolled in a full time degree or diploma course is eligible to apply for the Github Education Student Pack. 
+**ELIGIBILITY:** Any student age above 13 who is enrolled in a full time degree or diploma course is eligible to apply for the Github Education Student Pack. 
 
 Read more about it on my blog post: [Free Domain for Students: But What's the Catch?](http://debbiediscovers.com/blog/free-domain-for-students/). 
 
