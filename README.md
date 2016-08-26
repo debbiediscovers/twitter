@@ -2,7 +2,7 @@
 
 
 ##Intro
-This is the (UPDATED 08/16) Github Pages hosted version of Martin Hawksey's [Host your Twitter Archive on Google Drive]  (https://mashe.hawksey.info/2016/08/keeping-your-twitter-archive-fresh-and-freely-hosted-on-github-pages/). Useful youtube video on how to use Github Pages if you are new to it)  
+This is the *UPDATED* Github Pages hosted version of Martin Hawksey's [Host your Twitter Archive on Google Drive]  (https://mashe.hawksey.info/2016/08/keeping-your-twitter-archive-fresh-and-freely-hosted-on-github-pages/). Useful youtube video on how to use Github Pages if you are new to Github  
 
 ##Instructions
 1. Request for your Twitter Archive from Twitter under [Settings](https://twitter.com/settings/account#tweet_export)
@@ -15,7 +15,7 @@ This is the (UPDATED 08/16) Github Pages hosted version of Martin Hawksey's [Hos
 7. Add your custom favicon to the repository and this line of code before the closing tag of the header <code>&lt;/head&gt; </code> in the index.html file (add <code>&lt;link rel="shortcut icon" type="image/png" href="/favicon.png"&gt;</code>)
 8. Update the README.md file (if you did not create one when you initialised the repository, you can copy and modify this version)
 
-## Free Domain for All University Students
+## Free Domain for University Students
 Namecheap is giving away a .me domain to all University students from four countries (UK, US, Canada and Australia) for one year. To get yours, go to [nc.me](http://nc.me). Namecheap are also offering discounted .com and other TLDs so don't settle for the .me unless you really want it (only free for one year and is 2X the price of a .com)
 
 If you are not from one of the four countries, don't fret. [Github Education](https://education.github.com/pack) has an even better offer (worth over $2,000) where you get
