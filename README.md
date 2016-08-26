@@ -12,7 +12,7 @@ This is the (UPDATED 08/16) Github Pages hosted version of Martin Hawksey's [Hos
 5. Commit (upload) Twitter Archive files to Master using Terminal or Github's desktop app - youtube video shows you how, also on my [Github home page](https://debbiediscovers.github.io)
 6. Update the Title and Description of Page 
 7. Update the footer (else it says "offline")
-7. Add your custom favicon to the repository and this line of code before the closing tags </head> of the header in the index (add <code>&lt;link rel="shortcut icon" type="image/png" href="/favicon.png"&lg;</code>)
+7. Add your custom favicon to the repository and this line of code before the closing tags &lt;/head&lg; of the header in the index (add <code>&lt;link rel="shortcut icon" type="image/png" href="/favicon.png"&lg;</code>)
 8. If you did not initialise your repository with a README.md file, make a copy of this and modify accordingly
 
 ## Free Domain for All University Students
