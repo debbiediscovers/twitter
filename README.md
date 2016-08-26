@@ -11,7 +11,7 @@ This is the Github Pages hosted version of Martin Hawksey's [Host your Twitter A
 5. Commit (upload) Twitter Archive files to Master using Terminal or Github's desktop app
 6. Update the Title and Description of Page
 7. Update the footnote too
-7. Add your custom favicon (add <code>&ltlink rel="shortcut icon" type="image/png" href="/favicon.png"&lg</code>)
+7. Add your custom favicon (add <code>&lt;link rel="shortcut icon" type="image/png" href="/favicon.png"&lg;</code>)
 8. Create a README.md file (or take mine)
 
 
