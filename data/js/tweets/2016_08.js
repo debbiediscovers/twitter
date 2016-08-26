@@ -1,6 +1,763 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Fri Aug 26 03:05:26 +0000 2016",
+		"id": 769007822050775000,
+		"id_str": "769007822050775044",
+		"text": "RT @SafetySolnSG: Report says that haze is also a risk factor for lung cancer: https://t.co/j9JU9TYjcK \nTake every precaution. #sghaze #saf…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sghaze",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "safetysolutions",
+					"indices": [
+						135,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SafetySolnSG",
+					"name": "Safety Solutions SG",
+					"id": 733157257282654200,
+					"id_str": "733157257282654209",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j9JU9TYjcK",
+					"expanded_url": "http://str.sg/4UyH",
+					"display_url": "str.sg/4UyH",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10071,
+			"friends_count": 6527,
+			"listed_count": 850,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1614,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5765,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 21 03:31:30 +0000 2016",
+			"id": 745096781201965000,
+			"id_str": "745096781201965057",
+			"text": "Report says that haze is also a risk factor for lung cancer: https://t.co/j9JU9TYjcK \nTake every precaution. #sghaze #safetysolutions",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sghaze",
+						"indices": [
+							109,
+							116
+						]
+					},
+					{
+						"text": "safetysolutions",
+						"indices": [
+							117,
+							133
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/j9JU9TYjcK",
+						"expanded_url": "http://str.sg/4UyH",
+						"display_url": "str.sg/4UyH",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 733157257282654200,
+				"id_str": "733157257282654209",
+				"name": "Safety Solutions SG",
+				"screen_name": "SafetySolnSG",
+				"location": "Singapore",
+				"description": "Safety Solutions Singapore is an online store that provides a reliable, affordable and convenient way to protect themselves with PPE, at work and at play.",
+				"url": "https://t.co/MYJCdlCKTt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MYJCdlCKTt",
+								"expanded_url": "http://www.safetysolutions.com.sg",
+								"display_url": "safetysolutions.com.sg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27,
+				"friends_count": 92,
+				"listed_count": 4,
+				"created_at": "Thu May 19 04:48:06 +0000 2016",
+				"favourites_count": 5,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 86,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/733158512939802628/kdSHEeQn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/733158512939802628/kdSHEeQn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/733157257282654209/1464152444",
+				"profile_link_color": "2B7BB9",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 26 02:28:19 +0000 2016",
+		"id": 768998481352650800,
+		"id_str": "768998481352650752",
+		"text": "#Free #domain for Uni students - But what's the catch 💣  &amp;  where are the secret perks💰 https://t.co/SSrrgxDZOE https://t.co/tgdqJQz8Qu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Free",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "domain",
+					"indices": [
+						6,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SSrrgxDZOE",
+					"expanded_url": "http://buff.ly/2bmwx1K",
+					"display_url": "buff.ly/2bmwx1K",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 768998479381336000,
+					"id_str": "768998479381336065",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/CqwICuxXEAEPIMK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CqwICuxXEAEPIMK.jpg",
+					"url": "https://t.co/tgdqJQz8Qu",
+					"display_url": "pic.twitter.com/tgdqJQz8Qu",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/768998481352650752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 768998479381336000,
+					"id_str": "768998479381336065",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/CqwICuxXEAEPIMK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CqwICuxXEAEPIMK.jpg",
+					"url": "https://t.co/tgdqJQz8Qu",
+					"display_url": "pic.twitter.com/tgdqJQz8Qu",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/768998481352650752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10071,
+			"friends_count": 6527,
+			"listed_count": 850,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1614,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5765,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 26 02:21:26 +0000 2016",
+		"id": 768996747687235600,
+		"id_str": "768996747687235584",
+		"text": "With #FREE domain+$2K @GitHubEducation perks #STUDENTS should try @mhawksey #Twitter Archive-&gt; #Github MAGIC!!⭐️💗👍🏼 https://t.co/9NNxtBAFjY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FREE",
+					"indices": [
+						5,
+						10
+					]
+				},
+				{
+					"text": "STUDENTS",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"text": "Twitter",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "Github",
+					"indices": [
+						98,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GitHubEducation",
+					"name": "GitHub Education",
+					"id": 1943578656,
+					"id_str": "1943578656",
+					"indices": [
+						22,
+						38
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						66,
+						75
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 768996639516139500,
+					"id_str": "768996639516139520",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/CqwGXovUIAAqlSK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CqwGXovUIAAqlSK.jpg",
+					"url": "https://t.co/9NNxtBAFjY",
+					"display_url": "pic.twitter.com/9NNxtBAFjY",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/768996747687235584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 958,
+							"h": 886,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 958,
+							"h": 886,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 768996639516139500,
+					"id_str": "768996639516139520",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/CqwGXovUIAAqlSK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CqwGXovUIAAqlSK.jpg",
+					"url": "https://t.co/9NNxtBAFjY",
+					"display_url": "pic.twitter.com/9NNxtBAFjY",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/768996747687235584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 958,
+							"h": 886,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 958,
+							"h": 886,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 768996660433211400,
+					"id_str": "768996660433211392",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/CqwGY2qVUAARsrl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CqwGY2qVUAARsrl.jpg",
+					"url": "https://t.co/9NNxtBAFjY",
+					"display_url": "pic.twitter.com/9NNxtBAFjY",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/768996747687235584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 943,
+							"h": 911,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 657,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 943,
+							"h": 911,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 768996677646585900,
+					"id_str": "768996677646585856",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/CqwGZ2yUkAAVvNh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CqwGZ2yUkAAVvNh.jpg",
+					"url": "https://t.co/9NNxtBAFjY",
+					"display_url": "pic.twitter.com/9NNxtBAFjY",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/768996747687235584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 673,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 936,
+							"h": 926,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 936,
+							"h": 926,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 768267869050118100,
+		"in_reply_to_status_id_str": "768267869050118146",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10071,
+			"friends_count": 6527,
+			"listed_count": 850,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1614,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5765,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "2509b9adc1fedfd2",
+			"url": "https://api.twitter.com/1.1/geo/id/2509b9adc1fedfd2.json",
+			"place_type": "country",
+			"name": "Singapore",
+			"full_name": "Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.5494673,
+							1.1455021
+						],
+						[
+							104.1234466,
+							1.1455021
+						],
+						[
+							104.1234466,
+							1.4784812
+						],
+						[
+							103.5494673,
+							1.4784812
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 26 02:09:53 +0000 2016",
 		"id": 768993839092604900,
 		"id_str": "768993839092604929",
