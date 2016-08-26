@@ -11,7 +11,7 @@ This is the Github Pages hosted version of Martin Hawksey's [Host your Twitter A
 5. Commit (upload) Twitter Archive files to Master using Terminal or Github's desktop app
 6. Update the Title and Description of Page
 7. Update the footnote too
-7. Add your custom favicon (add <code><link rel="shortcut icon" type="image/png" href="/favicon.png"></code>)
+7. Add your custom favicon (add <code>&ltlink rel="shortcut icon" type="image/png" href="/favicon.png"&lg</code>)
 8. Create a README.md file (or take mine)
 
 
@@ -22,10 +22,10 @@ If you are not from one of those countries, don't fret. Github Education has an 
 
 ##Custom Domain
 To add an "apex domain" (i.e. <code>"example.com"</code>), add two A records and point them to the following IP addresses:
-<code>
-192.30.252.153
+<pre><code>
+192.30.252.153<br>
 192.30.252.154
-</code>
+</code></pre>
 
 To add a "sub-domain" (e.g."twitter.debbiediscovers.com"), point your CNAME (without the WWW) to your Github Pages default domain (debbiediscovers.github.io).
 
