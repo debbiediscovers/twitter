@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Fri Aug 26 20:52:33 +0000 2016",
+		"id": 769276367321993200,
+		"id_str": "769276367321993216",
+		"text": "RT @thebuzzworthyco: #Street #food vendor in #Singapore makes history by earning a #Michelin Star. @TwitterSG \nhttps://t.co/J2elswGNbz http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Street",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"text": "food",
+					"indices": [
+						29,
+						34
+					]
+				},
+				{
+					"text": "Singapore",
+					"indices": [
+						45,
+						55
+					]
+				},
+				{
+					"text": "Michelin",
+					"indices": [
+						83,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebuzzworthyco",
+					"name": "Buzzworthy",
+					"id": 1613447581,
+					"id_str": "1613447581",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "TwitterSG",
+					"name": "Twitter Singapore",
+					"id": 2244983430,
+					"id_str": "2244983430",
+					"indices": [
+						99,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/J2elswGNbz",
+					"expanded_url": "https://www.buzzworthy.com/singapore-street-food-chef-wins-michelin-star/",
+					"display_url": "buzzworthy.com/singapore-stre…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 766322460782387200,
+					"id_str": "766322460782387200",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CqKGN8pWYAAckxl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CqKGN8pWYAAckxl.jpg",
+					"url": "https://t.co/ixquMMDiTW",
+					"display_url": "pic.twitter.com/ixquMMDiTW",
+					"expanded_url": "http://twitter.com/thebuzzworthyco/status/766322766232621057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 970,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 970,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 766322766232621000,
+					"source_status_id_str": "766322766232621057",
+					"source_user_id": 1613447581,
+					"source_user_id_str": "1613447581"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 766322460782387200,
+					"id_str": "766322460782387200",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CqKGN8pWYAAckxl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CqKGN8pWYAAckxl.jpg",
+					"url": "https://t.co/ixquMMDiTW",
+					"display_url": "pic.twitter.com/ixquMMDiTW",
+					"expanded_url": "http://twitter.com/thebuzzworthyco/status/766322766232621057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 970,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 970,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 766322766232621000,
+					"source_status_id_str": "766322766232621057",
+					"source_user_id": 1613447581,
+					"source_user_id_str": "1613447581"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10111,
+			"friends_count": 6707,
+			"listed_count": 856,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1630,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5778,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 18 17:15:59 +0000 2016",
+			"id": 766322766232621000,
+			"id_str": "766322766232621057",
+			"text": "#Street #food vendor in #Singapore makes history by earning a #Michelin Star. @TwitterSG \nhttps://t.co/J2elswGNbz https://t.co/ixquMMDiTW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Street",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"text": "food",
+						"indices": [
+							8,
+							13
+						]
+					},
+					{
+						"text": "Singapore",
+						"indices": [
+							24,
+							34
+						]
+					},
+					{
+						"text": "Michelin",
+						"indices": [
+							62,
+							71
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TwitterSG",
+						"name": "Twitter Singapore",
+						"id": 2244983430,
+						"id_str": "2244983430",
+						"indices": [
+							78,
+							88
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/J2elswGNbz",
+						"expanded_url": "https://www.buzzworthy.com/singapore-street-food-chef-wins-michelin-star/",
+						"display_url": "buzzworthy.com/singapore-stre…",
+						"indices": [
+							90,
+							113
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 766322460782387200,
+						"id_str": "766322460782387200",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CqKGN8pWYAAckxl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CqKGN8pWYAAckxl.jpg",
+						"url": "https://t.co/ixquMMDiTW",
+						"display_url": "pic.twitter.com/ixquMMDiTW",
+						"expanded_url": "http://twitter.com/thebuzzworthyco/status/766322766232621057/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 970,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 970,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 315,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 766322460782387200,
+						"id_str": "766322460782387200",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CqKGN8pWYAAckxl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CqKGN8pWYAAckxl.jpg",
+						"url": "https://t.co/ixquMMDiTW",
+						"display_url": "pic.twitter.com/ixquMMDiTW",
+						"expanded_url": "http://twitter.com/thebuzzworthyco/status/766322766232621057/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 970,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 970,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 315,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1613447581,
+				"id_str": "1613447581",
+				"name": "Buzzworthy",
+				"screen_name": "thebuzzworthyco",
+				"location": "New York City",
+				"description": "Yes to sharp content. No to cat videos.",
+				"url": "http://t.co/cIQ1wzlsue",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/cIQ1wzlsue",
+								"expanded_url": "http://Buzzworthy.com",
+								"display_url": "Buzzworthy.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10455,
+				"friends_count": 3336,
+				"listed_count": 94,
+				"created_at": "Mon Jul 22 18:43:58 +0000 2013",
+				"favourites_count": 18,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 442,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/743459072431820800/nH5bywaf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/743459072431820800/nH5bywaf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1613447581/1432000948",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 26 19:41:24 +0000 2016",
 		"id": 769258461670453200,
 		"id_str": "769258461670453248",
