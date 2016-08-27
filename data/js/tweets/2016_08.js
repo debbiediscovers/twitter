@@ -1,6 +1,1064 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Sat Aug 27 22:41:17 +0000 2016",
+		"id": 769666119816720400,
+		"id_str": "769666119816720384",
+		"text": "#Interesting: Reddit rules for journalists: 10% rule &amp; start at page 6 https://t.co/vuLHDS3QyX via @SarahMarshall https://t.co/QQcyiQaFjV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Interesting",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahMarshall",
+					"name": "Sarah Marshall",
+					"id": 17409346,
+					"id_str": "17409346",
+					"indices": [
+						103,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vuLHDS3QyX",
+					"expanded_url": "https://tmblr.co/ZevMax1ObfD41",
+					"display_url": "tmblr.co/ZevMax1ObfD41",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 769665923053563900,
+					"id_str": "769665923053563904",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Cq5nFENUsAAWPLh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cq5nFENUsAAWPLh.jpg",
+					"url": "https://t.co/QQcyiQaFjV",
+					"display_url": "pic.twitter.com/QQcyiQaFjV",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/769666119816720384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 667,
+							"h": 417,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 667,
+							"h": 417,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 667,
+							"h": 417,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 769665923053563900,
+					"id_str": "769665923053563904",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Cq5nFENUsAAWPLh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cq5nFENUsAAWPLh.jpg",
+					"url": "https://t.co/QQcyiQaFjV",
+					"display_url": "pic.twitter.com/QQcyiQaFjV",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/769666119816720384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 667,
+							"h": 417,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 667,
+							"h": 417,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 667,
+							"h": 417,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 769659532649779200,
+		"in_reply_to_status_id_str": "769659532649779201",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10105,
+			"friends_count": 6713,
+			"listed_count": 858,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1639,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5788,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "2509b9adc1fedfd2",
+			"url": "https://api.twitter.com/1.1/geo/id/2509b9adc1fedfd2.json",
+			"place_type": "country",
+			"name": "Singapore",
+			"full_name": "Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.5494673,
+							1.1455021
+						],
+						[
+							104.1234466,
+							1.1455021
+						],
+						[
+							104.1234466,
+							1.4784812
+						],
+						[
+							103.5494673,
+							1.4784812
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 27 22:30:28 +0000 2016",
+		"id": 769663397986054100,
+		"id_str": "769663397986054145",
+		"text": "RT @garrido: Learn SQL in a Spreadsheet - Coding is for Losers https://t.co/BcS6Mh6Ftq| This is pretty good stuff by @dkrevitt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "garrido",
+					"name": "Fernando Garrido Vaz",
+					"id": 1002041,
+					"id_str": "1002041",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "dkrevitt",
+					"name": "David Krevitt",
+					"id": 220387529,
+					"id_str": "220387529",
+					"indices": [
+						117,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BcS6Mh6Ftq",
+					"expanded_url": "http://bit.ly/1Qc6f0Y",
+					"display_url": "bit.ly/1Qc6f0Y",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10105,
+			"friends_count": 6713,
+			"listed_count": 858,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1639,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5788,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 17 20:13:13 +0000 2016",
+			"id": 743899320471126000,
+			"id_str": "743899320471126017",
+			"text": "Learn SQL in a Spreadsheet - Coding is for Losers https://t.co/BcS6Mh6Ftq| This is pretty good stuff by @dkrevitt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dkrevitt",
+						"name": "David Krevitt",
+						"id": 220387529,
+						"id_str": "220387529",
+						"indices": [
+							104,
+							113
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BcS6Mh6Ftq",
+						"expanded_url": "http://bit.ly/1Qc6f0Y",
+						"display_url": "bit.ly/1Qc6f0Y",
+						"indices": [
+							50,
+							73
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1002041,
+				"id_str": "1002041",
+				"name": "Fernando Garrido Vaz",
+				"screen_name": "garrido",
+				"location": "Lages, SC, Brazil",
+				"description": "Professional geek. Product Manager, making stuff online. Proud father of two girls and a boy, dog lover, aspiring guitar player.",
+				"url": "https://t.co/0WZ6FOfL2K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0WZ6FOfL2K",
+								"expanded_url": "http://blog.garridovaz.com",
+								"display_url": "blog.garridovaz.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 763,
+				"friends_count": 940,
+				"listed_count": 77,
+				"created_at": "Mon Mar 12 11:18:05 +0000 2007",
+				"favourites_count": 1216,
+				"utc_offset": -10800,
+				"time_zone": "America/Sao_Paulo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3844,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/462539011253211137/1OgbTnLt.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/462539011253211137/1OgbTnLt.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/415297222998122496/WhUeO1Pr_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/415297222998122496/WhUeO1Pr_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1002041/1398287647",
+				"profile_link_color": "209999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "666666",
+				"profile_text_color": "AAAAAA",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 27 22:19:54 +0000 2016",
+		"id": 769660738180751400,
+		"id_str": "769660738180751360",
+		"text": "RT @journalismnews: ‘Question your assumptions’: Tips from @qz on preparing for what comes next in digital media https://t.co/d52IOyBqy4 ht…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "journalismnews",
+					"name": "Journalism.co.uk",
+					"id": 3943871,
+					"id_str": "3943871",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "qz",
+					"name": "Quartz",
+					"id": 573918122,
+					"id_str": "573918122",
+					"indices": [
+						59,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d52IOyBqy4",
+					"expanded_url": "https://www.journalism.co.uk/news/-question-your-assumptions-and-more-tips-from-quartz-on-preparing-for-what-comes-next-in-digital-media/s2/a631060/",
+					"display_url": "journalism.co.uk/news/-question…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 724562669831860200,
+					"id_str": "724562669831860224",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cg4p6MjWMAAPPdj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cg4p6MjWMAAPPdj.jpg",
+					"url": "https://t.co/8VsTYwLvO7",
+					"display_url": "pic.twitter.com/8VsTYwLvO7",
+					"expanded_url": "http://twitter.com/journalismnews/status/724562931673870336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 255,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 724562931673870300,
+					"source_status_id_str": "724562931673870336",
+					"source_user_id": 3943871,
+					"source_user_id_str": "3943871"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 724562669831860200,
+					"id_str": "724562669831860224",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cg4p6MjWMAAPPdj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cg4p6MjWMAAPPdj.jpg",
+					"url": "https://t.co/8VsTYwLvO7",
+					"display_url": "pic.twitter.com/8VsTYwLvO7",
+					"expanded_url": "http://twitter.com/journalismnews/status/724562931673870336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 255,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 724562931673870300,
+					"source_status_id_str": "724562931673870336",
+					"source_user_id": 3943871,
+					"source_user_id_str": "3943871"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10105,
+			"friends_count": 6713,
+			"listed_count": 858,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1639,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5788,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 25 11:37:19 +0000 2016",
+			"id": 724562931673870300,
+			"id_str": "724562931673870336",
+			"text": "‘Question your assumptions’: Tips from @qz on preparing for what comes next in digital media https://t.co/d52IOyBqy4 https://t.co/8VsTYwLvO7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "qz",
+						"name": "Quartz",
+						"id": 573918122,
+						"id_str": "573918122",
+						"indices": [
+							39,
+							42
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/d52IOyBqy4",
+						"expanded_url": "https://www.journalism.co.uk/news/-question-your-assumptions-and-more-tips-from-quartz-on-preparing-for-what-comes-next-in-digital-media/s2/a631060/",
+						"display_url": "journalism.co.uk/news/-question…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 724562669831860200,
+						"id_str": "724562669831860224",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/Cg4p6MjWMAAPPdj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cg4p6MjWMAAPPdj.jpg",
+						"url": "https://t.co/8VsTYwLvO7",
+						"display_url": "pic.twitter.com/8VsTYwLvO7",
+						"expanded_url": "http://twitter.com/journalismnews/status/724562931673870336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 255,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 724562669831860200,
+						"id_str": "724562669831860224",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/Cg4p6MjWMAAPPdj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cg4p6MjWMAAPPdj.jpg",
+						"url": "https://t.co/8VsTYwLvO7",
+						"display_url": "pic.twitter.com/8VsTYwLvO7",
+						"expanded_url": "http://twitter.com/journalismnews/status/724562931673870336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 255,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3943871,
+				"id_str": "3943871",
+				"name": "Journalism.co.uk",
+				"screen_name": "journalismnews",
+				"location": "Brighton, United Kingdom",
+				"description": "News, digital tools and tips for journalists and publishers from http://t.co/cWhQuMYIBp. Contact: @catalinacma Tel: +44 (0)1273 384290",
+				"url": "http://t.co/wwS4woVjKP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/wwS4woVjKP",
+								"expanded_url": "http://www.journalism.co.uk",
+								"display_url": "journalism.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/cWhQuMYIBp",
+								"expanded_url": "http://Journalism.co.uk",
+								"display_url": "Journalism.co.uk",
+								"indices": [
+									65,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 131264,
+				"friends_count": 83330,
+				"listed_count": 5626,
+				"created_at": "Mon Apr 09 21:02:38 +0000 2007",
+				"favourites_count": 1212,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 36442,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/597225093/93sbyxdsumnd1uny0h0t.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/597225093/93sbyxdsumnd1uny0h0t.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2372467161/pcydvx0t1rdmysgwl3y3_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2372467161/pcydvx0t1rdmysgwl3y3_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3943871/1405009822",
+				"profile_link_color": "BE0062",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "96FFEE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 27 22:15:06 +0000 2016",
+		"id": 769659532649779200,
+		"id_str": "769659532649779201",
+		"text": "#MUSTREAD Packed with evergreen tips @WSJ editor @SarahMarshall https://t.co/GupGeAJjUS #socialmedia #storytelling #digital #journalism",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MUSTREAD",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "socialmedia",
+					"indices": [
+						88,
+						100
+					]
+				},
+				{
+					"text": "storytelling",
+					"indices": [
+						101,
+						114
+					]
+				},
+				{
+					"text": "digital",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "journalism",
+					"indices": [
+						124,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WSJ",
+					"name": "Wall Street Journal",
+					"id": 3108351,
+					"id_str": "3108351",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"screen_name": "SarahMarshall",
+					"name": "Sarah Marshall",
+					"id": 17409346,
+					"id_str": "17409346",
+					"indices": [
+						49,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GupGeAJjUS",
+					"expanded_url": "http://sarahmarshall.io/archive",
+					"display_url": "sarahmarshall.io/archive",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10105,
+			"friends_count": 6713,
+			"listed_count": 858,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1639,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5788,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "2509b9adc1fedfd2",
+			"url": "https://api.twitter.com/1.1/geo/id/2509b9adc1fedfd2.json",
+			"place_type": "country",
+			"name": "Singapore",
+			"full_name": "Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.5494673,
+							1.1455021
+						],
+						[
+							104.1234466,
+							1.1455021
+						],
+						[
+							104.1234466,
+							1.4784812
+						],
+						[
+							103.5494673,
+							1.4784812
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 27 14:49:01 +0000 2016",
 		"id": 769547269192417300,
 		"id_str": "769547269192417280",
