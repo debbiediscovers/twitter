@@ -1,6 +1,663 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Mon Aug 29 01:01:00 +0000 2016",
+		"id": 770063669141143600,
+		"id_str": "770063669141143552",
+		"text": "#TRUTH! \"Criticism and finding trouble, is in the Chinese context, a #POSITIVE #CREATIVE act\" - @brainpicker  https://t.co/rVY6kXcE1N",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TRUTH",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POSITIVE",
+					"indices": [
+						69,
+						78
+					]
+				},
+				{
+					"text": "CREATIVE",
+					"indices": [
+						79,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brainpicker",
+					"name": "Maria Popova",
+					"id": 9207632,
+					"id_str": "9207632",
+					"indices": [
+						96,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rVY6kXcE1N",
+					"expanded_url": "https://twitter.com/brainpicker/status/769988447171993600",
+					"display_url": "twitter.com/brainpicker/st…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10086,
+			"friends_count": 6840,
+			"listed_count": 858,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1648,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 769988447171993600,
+		"quoted_status_id_str": "769988447171993600",
+		"quoted_status": {
+			"created_at": "Sun Aug 28 20:02:06 +0000 2016",
+			"id": 769988447171993600,
+			"id_str": "769988447171993600",
+			"text": "\"Criticism and finding trouble is, in the Chinese context, a positive, creative act.\" Happy 59th, Ai Weiwei https://t.co/qnLUc7SsGj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qnLUc7SsGj",
+						"expanded_url": "https://www.brainpickings.org/2015/01/12/33-artists-in-3-acts-thornton/",
+						"display_url": "brainpickings.org/2015/01/12/33-…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9207632,
+				"id_str": "9207632",
+				"name": "Maria Popova",
+				"screen_name": "brainpicker",
+				"location": "Brooklyn, NY",
+				"description": "Reader/writer. Founder of @brainpickings. MIT Fellow.",
+				"url": "http://t.co/j1Rss5YgMu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/j1Rss5YgMu",
+								"expanded_url": "http://brainpickings.org",
+								"display_url": "brainpickings.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 691971,
+				"friends_count": 298,
+				"listed_count": 25299,
+				"created_at": "Tue Oct 02 14:18:16 +0000 2007",
+				"favourites_count": 195,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 108486,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFDB00",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/497431340292128768/pY1bFk_F.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/497431340292128768/pY1bFk_F.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/577255253852065794/qGnSwsBR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/577255253852065794/qGnSwsBR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9207632/1430428764",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EBEAE5",
+				"profile_text_color": "3F3F3F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 93,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 29 00:30:02 +0000 2016",
+		"id": 770055875147030500,
+		"id_str": "770055875147030528",
+		"text": "RT @StartupTabs: Featured #startup @intellifluence \"Influencer marketing made easy for small businesses\" https://t.co/KiTnITtIrU https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startup",
+					"indices": [
+						26,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupTabs",
+					"name": "Startuptabs",
+					"id": 1408850774,
+					"id_str": "1408850774",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "intellifluence",
+					"name": "Intellifluence",
+					"id": 746387470544048100,
+					"id_str": "746387470544048129",
+					"indices": [
+						35,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KiTnITtIrU",
+					"expanded_url": "http://goo.gl/RYY6Em",
+					"display_url": "goo.gl/RYY6Em",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 769912433620185100,
+					"id_str": "769912433620185089",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cq9HR3oWcAEizVe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cq9HR3oWcAEizVe.jpg",
+					"url": "https://t.co/kYbkUdzr7x",
+					"display_url": "pic.twitter.com/kYbkUdzr7x",
+					"expanded_url": "https://twitter.com/StartupTabs/status/769912437097238529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 300,
+							"h": 955,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 214,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 955,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 769912437097238500,
+					"source_status_id_str": "769912437097238529",
+					"source_user_id": 1408850774,
+					"source_user_id_str": "1408850774"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 769912433620185100,
+					"id_str": "769912433620185089",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cq9HR3oWcAEizVe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cq9HR3oWcAEizVe.jpg",
+					"url": "https://t.co/kYbkUdzr7x",
+					"display_url": "pic.twitter.com/kYbkUdzr7x",
+					"expanded_url": "https://twitter.com/StartupTabs/status/769912437097238529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 300,
+							"h": 955,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 214,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 955,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 769912437097238500,
+					"source_status_id_str": "769912437097238529",
+					"source_user_id": 1408850774,
+					"source_user_id_str": "1408850774"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.amplfy.co\" rel=\"nofollow\">AmplfyCo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10086,
+			"friends_count": 6840,
+			"listed_count": 858,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1648,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 28 15:00:03 +0000 2016",
+			"id": 769912437097238500,
+			"id_str": "769912437097238529",
+			"text": "Featured #startup @intellifluence \"Influencer marketing made easy for small businesses\" https://t.co/KiTnITtIrU https://t.co/kYbkUdzr7x",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "startup",
+						"indices": [
+							9,
+							17
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "intellifluence",
+						"name": "Intellifluence",
+						"id": 746387470544048100,
+						"id_str": "746387470544048129",
+						"indices": [
+							18,
+							33
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/KiTnITtIrU",
+						"expanded_url": "http://goo.gl/RYY6Em",
+						"display_url": "goo.gl/RYY6Em",
+						"indices": [
+							88,
+							111
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 769912433620185100,
+						"id_str": "769912433620185089",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/Cq9HR3oWcAEizVe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cq9HR3oWcAEizVe.jpg",
+						"url": "https://t.co/kYbkUdzr7x",
+						"display_url": "pic.twitter.com/kYbkUdzr7x",
+						"expanded_url": "https://twitter.com/StartupTabs/status/769912437097238529/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 300,
+								"h": 955,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 214,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 300,
+								"h": 955,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 769912433620185100,
+						"id_str": "769912433620185089",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/Cq9HR3oWcAEizVe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cq9HR3oWcAEizVe.jpg",
+						"url": "https://t.co/kYbkUdzr7x",
+						"display_url": "pic.twitter.com/kYbkUdzr7x",
+						"expanded_url": "https://twitter.com/StartupTabs/status/769912437097238529/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 300,
+								"h": 955,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 214,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 300,
+								"h": 955,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.amplfy.co\" rel=\"nofollow\">AmplfyCo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1408850774,
+				"id_str": "1408850774",
+				"name": "Startuptabs",
+				"screen_name": "StartupTabs",
+				"location": "Los Angeles, CA",
+				"description": "Discover new startups now! Every tab loads a new startup. Check out our browser extension: https://t.co/AUPAzZdicz.",
+				"url": "https://t.co/PFUXu2JqOr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PFUXu2JqOr",
+								"expanded_url": "http://www.startuptabs.com",
+								"display_url": "startuptabs.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AUPAzZdicz",
+								"expanded_url": "http://startuptabs.com/chrome",
+								"display_url": "startuptabs.com/chrome",
+								"indices": [
+									91,
+									114
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2065,
+				"friends_count": 1995,
+				"listed_count": 116,
+				"created_at": "Mon May 06 22:18:02 +0000 2013",
+				"favourites_count": 11574,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1255,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/494506995521568768/P0AcRC5O_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/494506995521568768/P0AcRC5O_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1408850774/1436947494",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 28 21:04:39 +0000 2016",
 		"id": 770004190366199800,
 		"id_str": "770004190366199808",
