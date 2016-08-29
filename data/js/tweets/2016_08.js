@@ -1,6 +1,721 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Mon Aug 29 06:38:00 +0000 2016",
+		"id": 770148479209394200,
+		"id_str": "770148479209394176",
+		"text": "@buffer @kevanlee I'll confess, thought you were reposting @bakadesuyo also my faves, but I remember the first image on your post clearly 😍😍",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "buffer",
+					"name": "Buffer",
+					"id": 197962366,
+					"id_str": "197962366",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "kevanlee",
+					"name": "Kevan Lee",
+					"id": 27715293,
+					"id_str": "27715293",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"screen_name": "bakadesuyo",
+					"name": "Eric Barker",
+					"id": 21424637,
+					"id_str": "21424637",
+					"indices": [
+						59,
+						70
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 770143718615556100,
+		"in_reply_to_status_id_str": "770143718615556096",
+		"in_reply_to_user_id": 197962366,
+		"in_reply_to_user_id_str": "197962366",
+		"in_reply_to_screen_name": "buffer",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10103,
+			"friends_count": 7019,
+			"listed_count": 859,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1639,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5804,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "2509b9adc1fedfd2",
+			"url": "https://api.twitter.com/1.1/geo/id/2509b9adc1fedfd2.json",
+			"place_type": "country",
+			"name": "Singapore",
+			"full_name": "Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.5494673,
+							1.1455021
+						],
+						[
+							104.1234466,
+							1.1455021
+						],
+						[
+							104.1234466,
+							1.4784812
+						],
+						[
+							103.5494673,
+							1.4784812
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 29 06:35:25 +0000 2016",
+		"id": 770147829583011800,
+		"id_str": "770147829583011840",
+		"text": "💖 @buffer Values have rubbed off on me. Old post (read it b4😜  @kevanlee) but I say it's #DigitalFate that we both posted today! 💓 💗 💖",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigitalFate",
+					"indices": [
+						89,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "buffer",
+					"name": "Buffer",
+					"id": 197962366,
+					"id_str": "197962366",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"screen_name": "kevanlee",
+					"name": "Kevan Lee",
+					"id": 27715293,
+					"id_str": "27715293",
+					"indices": [
+						63,
+						72
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 770087215351431200,
+		"in_reply_to_status_id_str": "770087215351431169",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10103,
+			"friends_count": 7019,
+			"listed_count": 859,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1639,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5804,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "2509b9adc1fedfd2",
+			"url": "https://api.twitter.com/1.1/geo/id/2509b9adc1fedfd2.json",
+			"place_type": "country",
+			"name": "Singapore",
+			"full_name": "Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.5494673,
+							1.1455021
+						],
+						[
+							104.1234466,
+							1.1455021
+						],
+						[
+							104.1234466,
+							1.4784812
+						],
+						[
+							103.5494673,
+							1.4784812
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 29 06:29:12 +0000 2016",
+		"id": 770146265497608200,
+		"id_str": "770146265497608192",
+		"text": "RT @buffer: Happiness Hacks: The 10 most unexpected ways to be happy, backed by science. https://t.co/8ho99GvkkV https://t.co/EkJwfEyEch",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "buffer",
+					"name": "Buffer",
+					"id": 197962366,
+					"id_str": "197962366",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8ho99GvkkV",
+					"expanded_url": "http://buff.ly/2ckD4v3",
+					"display_url": "buff.ly/2ckD4v3",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 770143713330737200,
+					"id_str": "770143713330737153",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CrAZoHsUMAERScR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CrAZoHsUMAERScR.jpg",
+					"url": "https://t.co/EkJwfEyEch",
+					"display_url": "pic.twitter.com/EkJwfEyEch",
+					"expanded_url": "https://twitter.com/buffer/status/770143718615556096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 770143718615556100,
+					"source_status_id_str": "770143718615556096",
+					"source_user_id": 197962366,
+					"source_user_id_str": "197962366"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 770143713330737200,
+					"id_str": "770143713330737153",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CrAZoHsUMAERScR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CrAZoHsUMAERScR.jpg",
+					"url": "https://t.co/EkJwfEyEch",
+					"display_url": "pic.twitter.com/EkJwfEyEch",
+					"expanded_url": "https://twitter.com/buffer/status/770143718615556096/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 770143718615556100,
+					"source_status_id_str": "770143718615556096",
+					"source_user_id": 197962366,
+					"source_user_id_str": "197962366",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/CrAZoHsUMAERScR.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10103,
+			"friends_count": 7019,
+			"listed_count": 859,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1639,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5804,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 29 06:19:05 +0000 2016",
+			"id": 770143718615556100,
+			"id_str": "770143718615556096",
+			"text": "Happiness Hacks: The 10 most unexpected ways to be happy, backed by science. https://t.co/8ho99GvkkV https://t.co/EkJwfEyEch",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8ho99GvkkV",
+						"expanded_url": "http://buff.ly/2ckD4v3",
+						"display_url": "buff.ly/2ckD4v3",
+						"indices": [
+							77,
+							100
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 770143713330737200,
+						"id_str": "770143713330737153",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CrAZoHsUMAERScR.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CrAZoHsUMAERScR.jpg",
+						"url": "https://t.co/EkJwfEyEch",
+						"display_url": "pic.twitter.com/EkJwfEyEch",
+						"expanded_url": "https://twitter.com/buffer/status/770143718615556096/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 770143713330737200,
+						"id_str": "770143713330737153",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CrAZoHsUMAERScR.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CrAZoHsUMAERScR.jpg",
+						"url": "https://t.co/EkJwfEyEch",
+						"display_url": "pic.twitter.com/EkJwfEyEch",
+						"expanded_url": "https://twitter.com/buffer/status/770143718615556096/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://pbs.twimg.com/tweet_video/CrAZoHsUMAERScR.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 197962366,
+				"id_str": "197962366",
+				"name": "Buffer",
+				"screen_name": "buffer",
+				"location": "We're Global!",
+				"description": "Simple and powerful social media scheduling, publishing & analytics! Social media insights at https://t.co/TiUBd9E48d \n@GetRespond @PabloByBuffer #SocialSmarter",
+				"url": "http://t.co/Ix2Qkepym2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Ix2Qkepym2",
+								"expanded_url": "http://buffer.com",
+								"display_url": "buffer.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TiUBd9E48d",
+								"expanded_url": "http://blog.bufferapp.com",
+								"display_url": "blog.bufferapp.com",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 634836,
+				"friends_count": 64318,
+				"listed_count": 12536,
+				"created_at": "Sat Oct 02 23:38:45 +0000 2010",
+				"favourites_count": 245231,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 307531,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D6EAF8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/711360318262218752/wdl3jY5t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/711360318262218752/wdl3jY5t_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/197962366/1469567420",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "5C5C5C",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 29 05:27:47 +0000 2016",
 		"id": 770130808258592800,
 		"id_str": "770130808258592769",
