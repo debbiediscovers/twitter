@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Mon Aug 29 02:34:34 +0000 2016",
+		"id": 770087215351431200,
+		"id_str": "770087215351431169",
+		"text": "#HAPPINESS IS A HABIT! Cultivate it! 💓 💗 💖 \nRetweet and tag a friend or 10 to send good vibes! 😘 \n\n#MondayMotivation https://t.co/9EPtl92d4i",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HAPPINESS",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "MondayMotivation",
+					"indices": [
+						99,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 770084560331833300,
+					"id_str": "770084560331833344",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cq_j09mXgAAc4F5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cq_j09mXgAAc4F5.jpg",
+					"url": "https://t.co/9EPtl92d4i",
+					"display_url": "pic.twitter.com/9EPtl92d4i",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/770087215351431169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 770084560331833300,
+					"id_str": "770084560331833344",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cq_j09mXgAAc4F5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cq_j09mXgAAc4F5.jpg",
+					"url": "https://t.co/9EPtl92d4i",
+					"display_url": "pic.twitter.com/9EPtl92d4i",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/770087215351431169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10086,
+			"friends_count": 6876,
+			"listed_count": 859,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1648,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "2509b9adc1fedfd2",
+			"url": "https://api.twitter.com/1.1/geo/id/2509b9adc1fedfd2.json",
+			"place_type": "country",
+			"name": "Singapore",
+			"full_name": "Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.5494673,
+							1.1455021
+						],
+						[
+							104.1234466,
+							1.1455021
+						],
+						[
+							104.1234466,
+							1.4784812
+						],
+						[
+							103.5494673,
+							1.4784812
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 29 01:01:00 +0000 2016",
 		"id": 770063669141143600,
 		"id_str": "770063669141143552",
