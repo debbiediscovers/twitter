@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Mon Aug 29 08:44:42 +0000 2016",
+		"id": 770180361380782100,
+		"id_str": "770180361380782080",
+		"text": "RT @SelineOK: Ladder Growth Playbook: 450+ proven #growth tactics from 2 yrs of testing via @byosko on @ProductHunt https://t.co/nKOQOGdXJ2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "growth",
+					"indices": [
+						50,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SelineOK",
+					"name": "Seline Karakaya",
+					"id": 2963757853,
+					"id_str": "2963757853",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "byosko",
+					"name": "Ben Yoskovitz",
+					"id": 815476,
+					"id_str": "815476",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"screen_name": "ProductHunt",
+					"name": "Product Hunt",
+					"id": 2208027565,
+					"id_str": "2208027565",
+					"indices": [
+						103,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nKOQOGdXJ2",
+					"expanded_url": "https://www.producthunt.com/tech/ladder-growth-playbook",
+					"display_url": "producthunt.com/tech/ladder-gr…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10112,
+			"friends_count": 7019,
+			"listed_count": 860,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1642,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5805,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 29 00:50:25 +0000 2016",
+			"id": 770061007104385000,
+			"id_str": "770061007104385024",
+			"text": "Ladder Growth Playbook: 450+ proven #growth tactics from 2 yrs of testing via @byosko on @ProductHunt https://t.co/nKOQOGdXJ2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "growth",
+						"indices": [
+							36,
+							43
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "byosko",
+						"name": "Ben Yoskovitz",
+						"id": 815476,
+						"id_str": "815476",
+						"indices": [
+							78,
+							85
+						]
+					},
+					{
+						"screen_name": "ProductHunt",
+						"name": "Product Hunt",
+						"id": 2208027565,
+						"id_str": "2208027565",
+						"indices": [
+							89,
+							101
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/nKOQOGdXJ2",
+						"expanded_url": "https://www.producthunt.com/tech/ladder-growth-playbook",
+						"display_url": "producthunt.com/tech/ladder-gr…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2963757853,
+				"id_str": "2963757853",
+				"name": "Seline Karakaya",
+				"screen_name": "SelineOK",
+				"location": "Santa Monica, CA ",
+				"description": "CEO & Founder, Excelerate Global | VC | Recovering PE Director | Foodie | Beach Bum | Design Addict | MUST LOVE DOGS + WINE + OLIVE OIL",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1218,
+				"friends_count": 367,
+				"listed_count": 249,
+				"created_at": "Wed Jan 07 18:53:29 +0000 2015",
+				"favourites_count": 4084,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1715,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/764495823954518017/-NEwcCrr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/764495823954518017/-NEwcCrr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2963757853/1469328867",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 9,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 29 06:38:00 +0000 2016",
 		"id": 770148479209394200,
 		"id_str": "770148479209394176",
