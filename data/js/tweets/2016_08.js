@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Tue Aug 30 10:46:36 +0000 2016",
+		"id": 770573426415153200,
+		"id_str": "770573426415153153",
+		"text": "Made a custom map 😁 Think they're doing supertrees tonight! @VisitSingapore Thx for suggestions all! #VisitSingapore https://t.co/qMF52x7Yio",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VisitSingapore",
+					"indices": [
+						101,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "visitsingapore",
+					"name": "VisitSingapore",
+					"id": 23299429,
+					"id_str": "23299429",
+					"indices": [
+						60,
+						75
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 770568084386000900,
+					"id_str": "770568084386000897",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/770568084386000897/pu/img/FrYlpjVExFBiJWz4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/770568084386000897/pu/img/FrYlpjVExFBiJWz4.jpg",
+					"url": "https://t.co/qMF52x7Yio",
+					"display_url": "pic.twitter.com/qMF52x7Yio",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/770573426415153153/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 332,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 188,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 566,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 770568084386000900,
+					"id_str": "770568084386000897",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/770568084386000897/pu/img/FrYlpjVExFBiJWz4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/770568084386000897/pu/img/FrYlpjVExFBiJWz4.jpg",
+					"url": "https://t.co/qMF52x7Yio",
+					"display_url": "pic.twitter.com/qMF52x7Yio",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/770573426415153153/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 332,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 188,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 566,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							177
+						],
+						"duration_millis": 15933,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/770568084386000897/pu/pl/Y4dkL2p7L2Kl02Xa.m3u8"
+							},
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/ext_tw_video/770568084386000897/pu/pl/Y4dkL2p7L2Kl02Xa.mpd"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/770568084386000897/pu/vid/650x360/Ft0ouxk51fzbzluz.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/770568084386000897/pu/vid/324x180/NHb4IPDUPtLvWM0z.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10150,
+			"friends_count": 7172,
+			"listed_count": 854,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1665,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5833,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 30 08:31:50 +0000 2016",
 		"id": 770539514280292400,
 		"id_str": "770539514280292352",
