@@ -1,6 +1,624 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Wed Aug 31 23:55:21 +0000 2016",
+		"id": 771134310980001800,
+		"id_str": "771134310980001792",
+		"text": "RT @GrantCardone: #DealBreakerIn3Words  Whos Grant Cardone https://t.co/YZvBlkKC1e",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DealBreakerIn3Words",
+					"indices": [
+						18,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GrantCardone",
+					"name": "Grant Cardone",
+					"id": 14788764,
+					"id_str": "14788764",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 771113993561841700,
+					"id_str": "771113993561841664",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CrOMF3OWIAAPL4Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CrOMF3OWIAAPL4Y.jpg",
+					"url": "https://t.co/YZvBlkKC1e",
+					"display_url": "pic.twitter.com/YZvBlkKC1e",
+					"expanded_url": "https://twitter.com/GrantCardone/status/771114041402126337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 771114041402126300,
+					"source_status_id_str": "771114041402126337",
+					"source_user_id": 14788764,
+					"source_user_id_str": "14788764"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 771113993561841700,
+					"id_str": "771113993561841664",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CrOMF3OWIAAPL4Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CrOMF3OWIAAPL4Y.jpg",
+					"url": "https://t.co/YZvBlkKC1e",
+					"display_url": "pic.twitter.com/YZvBlkKC1e",
+					"expanded_url": "https://twitter.com/GrantCardone/status/771114041402126337/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 771114041402126300,
+					"source_status_id_str": "771114041402126337",
+					"source_user_id": 14788764,
+					"source_user_id_str": "14788764",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/CrOMF3OWIAAPL4Y.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10154,
+			"friends_count": 7366,
+			"listed_count": 850,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1681,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5849,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 31 22:34:48 +0000 2016",
+			"id": 771114041402126300,
+			"id_str": "771114041402126337",
+			"text": "#DealBreakerIn3Words  Whos Grant Cardone https://t.co/YZvBlkKC1e",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DealBreakerIn3Words",
+						"indices": [
+							0,
+							20
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 771113993561841700,
+						"id_str": "771113993561841664",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CrOMF3OWIAAPL4Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CrOMF3OWIAAPL4Y.jpg",
+						"url": "https://t.co/YZvBlkKC1e",
+						"display_url": "pic.twitter.com/YZvBlkKC1e",
+						"expanded_url": "https://twitter.com/GrantCardone/status/771114041402126337/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 700,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 771113993561841700,
+						"id_str": "771113993561841664",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CrOMF3OWIAAPL4Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CrOMF3OWIAAPL4Y.jpg",
+						"url": "https://t.co/YZvBlkKC1e",
+						"display_url": "pic.twitter.com/YZvBlkKC1e",
+						"expanded_url": "https://twitter.com/GrantCardone/status/771114041402126337/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 700,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://pbs.twimg.com/tweet_video/CrOMF3OWIAAPL4Y.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14788764,
+				"id_str": "14788764",
+				"name": "Grant Cardone",
+				"screen_name": "GrantCardone",
+				"location": "Miami Beach",
+				"description": "Best Selling #Author of 19 Sales Business Books & Programs. CEO of https://t.co/pqqrvXCE3r controls 4000 units #RealEstate #Sales #Investing",
+				"url": "https://t.co/1LUMvk3qeZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1LUMvk3qeZ",
+								"expanded_url": "http://www.instagram.com/grantcardone/",
+								"display_url": "instagram.com/grantcardone/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/pqqrvXCE3r",
+								"expanded_url": "http://CardoneAcquisitions.com",
+								"display_url": "CardoneAcquisitions.com",
+								"indices": [
+									67,
+									90
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 350262,
+				"friends_count": 1976,
+				"listed_count": 3246,
+				"created_at": "Thu May 15 17:15:29 +0000 2008",
+				"favourites_count": 16104,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 99359,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "01142E",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000095963826/9f4e536d6e0b8aae940f5f62c8d5ce86.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000095963826/9f4e536d6e0b8aae940f5f62c8d5ce86.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/720060725213937664/cI8XyWoR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/720060725213937664/cI8XyWoR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14788764/1445003406",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 42,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 31 23:54:46 +0000 2016",
+		"id": 771134165563478000,
+		"id_str": "771134165563478016",
+		"text": "😂 😂 😂  @GrantCardone I Don't Know? https://t.co/BVaaY5vcLi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GrantCardone",
+					"name": "Grant Cardone",
+					"id": 14788764,
+					"id_str": "14788764",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BVaaY5vcLi",
+					"expanded_url": "http://hubpages.com/business/Top-5-Customer-Experience-Mistakes-From-Grant-Cardone",
+					"display_url": "hubpages.com/business/Top-5…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 771114041402126300,
+		"in_reply_to_status_id_str": "771114041402126337",
+		"in_reply_to_user_id": 14788764,
+		"in_reply_to_user_id_str": "14788764",
+		"in_reply_to_screen_name": "GrantCardone",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10154,
+			"friends_count": 7366,
+			"listed_count": 850,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1681,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5849,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 31 23:34:50 +0000 2016",
+		"id": 771129149620576300,
+		"id_str": "771129149620576256",
+		"text": "@1andrewfenton Good right? This is my favourite trending hashtag to date!!! Shame I'm not a millenial so can't ride on the hashtag  😂😂😂",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "1andrewfenton",
+					"name": "Andrew",
+					"id": 4866699178,
+					"id_str": "4866699178",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 771034287558844400,
+		"in_reply_to_status_id_str": "771034287558844416",
+		"in_reply_to_user_id": 4866699178,
+		"in_reply_to_user_id_str": "4866699178",
+		"in_reply_to_screen_name": "1andrewfenton",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10154,
+			"friends_count": 7366,
+			"listed_count": 850,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1681,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5849,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 31 22:52:24 +0000 2016",
 		"id": 771118469089591300,
 		"id_str": "771118469089591296",
