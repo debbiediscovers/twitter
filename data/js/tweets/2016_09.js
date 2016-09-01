@@ -1,6 +1,785 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Thu Sep 01 04:41:38 +0000 2016",
+		"id": 771206356602728400,
+		"id_str": "771206356602728448",
+		"text": "RT @helenmaryme: #NotesFromTheTeacher As a college student, we expected a little more from @Johnsense38. https://t.co/Fnl73VSUig",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NotesFromTheTeacher",
+					"indices": [
+						17,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "helenmaryme",
+					"name": "Helen",
+					"id": 4870049935,
+					"id_str": "4870049935",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "Johnsense38",
+					"name": "Johnsense",
+					"id": 4131923895,
+					"id_str": "4131923895",
+					"indices": [
+						91,
+						103
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 771180624988164100,
+					"id_str": "771180624988164098",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/CrPIsUoVUAIApe9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CrPIsUoVUAIApe9.jpg",
+					"url": "https://t.co/Fnl73VSUig",
+					"display_url": "pic.twitter.com/Fnl73VSUig",
+					"expanded_url": "https://twitter.com/helenmaryme/status/771180634693742593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 756,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 756,
+							"h": 1050,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 771180634693742600,
+					"source_status_id_str": "771180634693742593",
+					"source_user_id": 4870049935,
+					"source_user_id_str": "4870049935"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 771180624988164100,
+					"id_str": "771180624988164098",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/CrPIsUoVUAIApe9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CrPIsUoVUAIApe9.jpg",
+					"url": "https://t.co/Fnl73VSUig",
+					"display_url": "pic.twitter.com/Fnl73VSUig",
+					"expanded_url": "https://twitter.com/helenmaryme/status/771180634693742593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 756,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 756,
+							"h": 1050,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 771180634693742600,
+					"source_status_id_str": "771180634693742593",
+					"source_user_id": 4870049935,
+					"source_user_id_str": "4870049935"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10186,
+			"friends_count": 7614,
+			"listed_count": 852,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1698,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5863,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 01 02:59:25 +0000 2016",
+			"id": 771180634693742600,
+			"id_str": "771180634693742593",
+			"text": "#NotesFromTheTeacher As a college student, we expected a little more from @Johnsense38. https://t.co/Fnl73VSUig",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NotesFromTheTeacher",
+						"indices": [
+							0,
+							20
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Johnsense38",
+						"name": "Johnsense",
+						"id": 4131923895,
+						"id_str": "4131923895",
+						"indices": [
+							74,
+							86
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 771180624988164100,
+						"id_str": "771180624988164098",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/CrPIsUoVUAIApe9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrPIsUoVUAIApe9.jpg",
+						"url": "https://t.co/Fnl73VSUig",
+						"display_url": "pic.twitter.com/Fnl73VSUig",
+						"expanded_url": "https://twitter.com/helenmaryme/status/771180634693742593/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 490,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 756,
+								"h": 1050,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 756,
+								"h": 1050,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 771180624988164100,
+						"id_str": "771180624988164098",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/CrPIsUoVUAIApe9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrPIsUoVUAIApe9.jpg",
+						"url": "https://t.co/Fnl73VSUig",
+						"display_url": "pic.twitter.com/Fnl73VSUig",
+						"expanded_url": "https://twitter.com/helenmaryme/status/771180634693742593/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 490,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 756,
+								"h": 1050,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 756,
+								"h": 1050,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4870049935,
+				"id_str": "4870049935",
+				"name": "Helen",
+				"screen_name": "helenmaryme",
+				"location": "Los Angeles, Los Angeles",
+				"description": "❤ Chinese wuxia films, obscure British comedy & hashtagging. Co-host @HashtagGiants game on Wednesdays 7p PST",
+				"url": "https://t.co/39cCFnlIXz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/39cCFnlIXz",
+								"expanded_url": "https://twitter.com/search?f=tweets&vertical=default&q=from%3Ahelenmaryme%20-filter%3Areplies",
+								"display_url": "twitter.com/search?f=tweet…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4875,
+				"friends_count": 4133,
+				"listed_count": 82,
+				"created_at": "Sat Feb 06 19:33:35 +0000 2016",
+				"favourites_count": 29017,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19155,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "009973",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/697372913402572801/TVY-wfzu.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/697372913402572801/TVY-wfzu.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/764995253778518017/OtL0nYOJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/764995253778518017/OtL0nYOJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4870049935/1471223584",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3b77caf94bfc81fe",
+				"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+				"place_type": "city",
+				"name": "Los Angeles",
+				"full_name": "Los Angeles, CA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-118.668404,
+								33.704538
+							],
+							[
+								-118.155409,
+								33.704538
+							],
+							[
+								-118.155409,
+								34.337041
+							],
+							[
+								-118.668404,
+								34.337041
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 15,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 01 04:27:12 +0000 2016",
+		"id": 771202726579408900,
+		"id_str": "771202726579408896",
+		"text": "RT @Amber_1017: @Amber_1017 keeps asking why we don't consider sarcasm as a second language #NotesFromTheTeacher",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NotesFromTheTeacher",
+					"indices": [
+						92,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Amber_1017",
+					"name": "Amber C",
+					"id": 43625847,
+					"id_str": "43625847",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "Amber_1017",
+					"name": "Amber C",
+					"id": 43625847,
+					"id_str": "43625847",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10186,
+			"friends_count": 7614,
+			"listed_count": 852,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1698,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5863,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 01 02:05:17 +0000 2016",
+			"id": 771167009660768300,
+			"id_str": "771167009660768256",
+			"text": "@Amber_1017 keeps asking why we don't consider sarcasm as a second language #NotesFromTheTeacher",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NotesFromTheTeacher",
+						"indices": [
+							76,
+							96
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Amber_1017",
+						"name": "Amber C",
+						"id": 43625847,
+						"id_str": "43625847",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 43625847,
+			"in_reply_to_user_id_str": "43625847",
+			"in_reply_to_screen_name": "Amber_1017",
+			"user": {
+				"id": 43625847,
+				"id_str": "43625847",
+				"name": "Amber C",
+				"screen_name": "Amber_1017",
+				"location": "Texas-best place on earth",
+				"description": "Jesus Lover,Writer, Foodie and Globe Trotter-Lover of all things fabulous",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1370,
+				"friends_count": 648,
+				"listed_count": 207,
+				"created_at": "Sun May 31 01:36:03 +0000 2009",
+				"favourites_count": 16076,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30388,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/659864698/1key2hgkacpl18oufhod.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/659864698/1key2hgkacpl18oufhod.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3119289329/f19018933142099f731b08e4fec0280e_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3119289329/f19018933142099f731b08e4fec0280e_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/43625847/1458736424",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFF8AD",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "18810aa5b43e76c7",
+				"url": "https://api.twitter.com/1.1/geo/id/18810aa5b43e76c7.json",
+				"place_type": "city",
+				"name": "Dallas",
+				"full_name": "Dallas, TX",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-96.977527,
+								32.620678
+							],
+							[
+								-96.54598,
+								32.620678
+							],
+							[
+								-96.54598,
+								33.019039
+							],
+							[
+								-96.977527,
+								33.019039
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 01 04:19:12 +0000 2016",
+		"id": 771200711333773300,
+		"id_str": "771200711333773312",
+		"text": "@AskAaronLee That bot had an IQ of ~ 2. I'm training a #SMART bot using Artificial Intelligence Markup Language but she needs more practice",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMART",
+					"indices": [
+						55,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AskAaronLee",
+					"name": "Aaron Lee",
+					"id": 25458378,
+					"id_str": "25458378",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 771199591647633400,
+		"in_reply_to_status_id_str": "771199591647633409",
+		"in_reply_to_user_id": 25458378,
+		"in_reply_to_user_id_str": "25458378",
+		"in_reply_to_screen_name": "AskAaronLee",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10186,
+			"friends_count": 7614,
+			"listed_count": 852,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1698,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5863,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 01 03:50:35 +0000 2016",
 		"id": 771193509156053000,
 		"id_str": "771193509156052992",
