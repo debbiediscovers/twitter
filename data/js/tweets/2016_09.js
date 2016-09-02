@@ -1,6 +1,397 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Thu Sep 01 23:47:20 +0000 2016",
+		"id": 771494682324901900,
+		"id_str": "771494682324901889",
+		"text": "RT @CMO_com: Digital is the foundation of L’Oréal’s innovation strategy: https://t.co/oi4o30Qeku #CMOInterview https://t.co/2Bt07TCq9F",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CMOInterview",
+					"indices": [
+						97,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CMO_com",
+					"name": "CMO.com",
+					"id": 46768880,
+					"id_str": "46768880",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oi4o30Qeku",
+					"expanded_url": "http://cmo.cm/2bBj7QG",
+					"display_url": "cmo.cm/2bBj7QG",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 770998749308915700,
+					"id_str": "770998749308915714",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/CrMjRw7UEAIxKvu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CrMjRw7UEAIxKvu.jpg",
+					"url": "https://t.co/2Bt07TCq9F",
+					"display_url": "pic.twitter.com/2Bt07TCq9F",
+					"expanded_url": "https://twitter.com/CMO_com/status/770998754065326080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1046,
+							"h": 616,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1046,
+							"h": 616,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 770998754065326100,
+					"source_status_id_str": "770998754065326080",
+					"source_user_id": 46768880,
+					"source_user_id_str": "46768880"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 770998749308915700,
+					"id_str": "770998749308915714",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/CrMjRw7UEAIxKvu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CrMjRw7UEAIxKvu.jpg",
+					"url": "https://t.co/2Bt07TCq9F",
+					"display_url": "pic.twitter.com/2Bt07TCq9F",
+					"expanded_url": "https://twitter.com/CMO_com/status/770998754065326080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1046,
+							"h": 616,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1046,
+							"h": 616,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 770998754065326100,
+					"source_status_id_str": "770998754065326080",
+					"source_user_id": 46768880,
+					"source_user_id_str": "46768880"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10331,
+			"friends_count": 7853,
+			"listed_count": 851,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1702,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5874,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 31 14:56:42 +0000 2016",
+			"id": 770998754065326100,
+			"id_str": "770998754065326080",
+			"text": "Digital is the foundation of L’Oréal’s innovation strategy: https://t.co/oi4o30Qeku #CMOInterview https://t.co/2Bt07TCq9F",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CMOInterview",
+						"indices": [
+							84,
+							97
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/oi4o30Qeku",
+						"expanded_url": "http://cmo.cm/2bBj7QG",
+						"display_url": "cmo.cm/2bBj7QG",
+						"indices": [
+							60,
+							83
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 770998749308915700,
+						"id_str": "770998749308915714",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/CrMjRw7UEAIxKvu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrMjRw7UEAIxKvu.jpg",
+						"url": "https://t.co/2Bt07TCq9F",
+						"display_url": "pic.twitter.com/2Bt07TCq9F",
+						"expanded_url": "https://twitter.com/CMO_com/status/770998754065326080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1046,
+								"h": 616,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1046,
+								"h": 616,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 770998749308915700,
+						"id_str": "770998749308915714",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/CrMjRw7UEAIxKvu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrMjRw7UEAIxKvu.jpg",
+						"url": "https://t.co/2Bt07TCq9F",
+						"display_url": "pic.twitter.com/2Bt07TCq9F",
+						"expanded_url": "https://twitter.com/CMO_com/status/770998754065326080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1046,
+								"h": 616,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1046,
+								"h": 616,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://adobe.com\" rel=\"nofollow\">Adobe® Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 46768880,
+				"id_str": "46768880",
+				"name": "CMO.com",
+				"screen_name": "CMO_com",
+				"location": "",
+				"description": "Digital marketing insights, expertise and inspiration for and by marketing leaders. Brought to you by Adobe.",
+				"url": "http://t.co/W7F7utqwoV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/W7F7utqwoV",
+								"expanded_url": "http://www.CMO.com",
+								"display_url": "CMO.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 77970,
+				"friends_count": 4205,
+				"listed_count": 3281,
+				"created_at": "Fri Jun 12 22:49:59 +0000 2009",
+				"favourites_count": 556,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30920,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/439474055775662080/1W7mWtyo.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/439474055775662080/1W7mWtyo.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/438784355742130179/6U8aVE5Y_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/438784355742130179/6U8aVE5Y_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/46768880/1427467321",
+				"profile_link_color": "E31115",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6E6E6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 137,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 01 16:11:00 +0000 2016",
 		"id": 771379840482054100,
 		"id_str": "771379840482054146",
