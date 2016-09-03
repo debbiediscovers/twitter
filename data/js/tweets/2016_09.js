@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Sat Sep 03 09:33:37 +0000 2016",
+		"id": 772004613260140500,
+		"id_str": "772004613260140548",
+		"text": "RT @Vic_Maine: 100 #Marketing #GrowthHacks Learned from 5 Years as a #Startup #MayoShrimp #WishPond https://t.co/5TKpHtkxpU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Marketing",
+					"indices": [
+						19,
+						29
+					]
+				},
+				{
+					"text": "GrowthHacks",
+					"indices": [
+						30,
+						42
+					]
+				},
+				{
+					"text": "Startup",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"text": "MayoShrimp",
+					"indices": [
+						78,
+						89
+					]
+				},
+				{
+					"text": "WishPond",
+					"indices": [
+						90,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Vic_Maine",
+					"name": "Vic Maine",
+					"id": 2743476128,
+					"id_str": "2743476128",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5TKpHtkxpU",
+					"expanded_url": "http://blog.wishpond.com/post/115675436672/growth-hacking",
+					"display_url": "blog.wishpond.com/post/115675436…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10397,
+			"friends_count": 7282,
+			"listed_count": 862,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1718,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5900,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 03 08:07:22 +0000 2016",
+			"id": 771982905677586400,
+			"id_str": "771982905677586432",
+			"text": "100 #Marketing #GrowthHacks Learned from 5 Years as a #Startup #MayoShrimp #WishPond https://t.co/5TKpHtkxpU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Marketing",
+						"indices": [
+							4,
+							14
+						]
+					},
+					{
+						"text": "GrowthHacks",
+						"indices": [
+							15,
+							27
+						]
+					},
+					{
+						"text": "Startup",
+						"indices": [
+							54,
+							62
+						]
+					},
+					{
+						"text": "MayoShrimp",
+						"indices": [
+							63,
+							74
+						]
+					},
+					{
+						"text": "WishPond",
+						"indices": [
+							75,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5TKpHtkxpU",
+						"expanded_url": "http://blog.wishpond.com/post/115675436672/growth-hacking",
+						"display_url": "blog.wishpond.com/post/115675436…",
+						"indices": [
+							85,
+							108
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.socialoomph.com\" rel=\"nofollow\">SocialOomph</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2743476128,
+				"id_str": "2743476128",
+				"name": "Vic Maine",
+				"screen_name": "Vic_Maine",
+				"location": "",
+				"description": "Works at https://t.co/9GVA477wUj Tweets about #emailmarketing #contentmarketing #smm #copywriting #conversion #cro #growthhacking #leadgen",
+				"url": "https://t.co/9GVA477wUj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9GVA477wUj",
+								"expanded_url": "https://TwittBuilder.com",
+								"display_url": "TwittBuilder.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/9GVA477wUj",
+								"expanded_url": "https://TwittBuilder.com",
+								"display_url": "TwittBuilder.com",
+								"indices": [
+									9,
+									32
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 32148,
+				"friends_count": 25703,
+				"listed_count": 4496,
+				"created_at": "Tue Aug 19 00:23:07 +0000 2014",
+				"favourites_count": 25304,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 94718,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590675680188203008/31MFOeUW.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590675680188203008/31MFOeUW.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/704335948721451008/Q0y7B4Hh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/704335948721451008/Q0y7B4Hh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2743476128/1472269067",
+				"profile_link_color": "0084FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 03 07:21:46 +0000 2016",
 		"id": 771971432515571700,
 		"id_str": "771971432515571712",
