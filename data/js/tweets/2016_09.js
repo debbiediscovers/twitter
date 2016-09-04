@@ -1,6 +1,454 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Sun Sep 04 02:07:27 +0000 2016",
+		"id": 772254717653033000,
+		"id_str": "772254717653032960",
+		"text": "@EngagedCount Love it in GSheets! Mine is a giant RSS feeder w conditional formatting + bit.ly API + tweet intent😊 https://t.co/ie3gfrT6gI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EngagedCount",
+					"name": "Engaged Count",
+					"id": 764344165454925800,
+					"id_str": "764344165454925824",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 772252711395823600,
+					"id_str": "772252711395823616",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/CreXv9uUkAAyqaF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CreXv9uUkAAyqaF.jpg",
+					"url": "https://t.co/ie3gfrT6gI",
+					"display_url": "pic.twitter.com/ie3gfrT6gI",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/772254717653032960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1023,
+							"h": 579,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 579,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 772252711395823600,
+					"id_str": "772252711395823616",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/CreXv9uUkAAyqaF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CreXv9uUkAAyqaF.jpg",
+					"url": "https://t.co/ie3gfrT6gI",
+					"display_url": "pic.twitter.com/ie3gfrT6gI",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/772254717653032960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1023,
+							"h": 579,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 579,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 772253614400077800,
+					"id_str": "772253614400077824",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/CreYkhrUAAAPK2z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CreYkhrUAAAPK2z.jpg",
+					"url": "https://t.co/ie3gfrT6gI",
+					"display_url": "pic.twitter.com/ie3gfrT6gI",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/772254717653032960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1053,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1053,
+							"h": 501,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 324,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 772131836763922400,
+		"in_reply_to_status_id_str": "772131836763922433",
+		"in_reply_to_user_id": 764344165454925800,
+		"in_reply_to_user_id_str": "764344165454925824",
+		"in_reply_to_screen_name": "EngagedCount",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10395,
+			"friends_count": 7281,
+			"listed_count": 863,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1723,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5911,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 04 01:48:16 +0000 2016",
+		"id": 772249892878098400,
+		"id_str": "772249892878098432",
+		"text": "Another alternative to SharedCount: @EngagedCount shows how to use their API in GSheets in this Medium article.. https://t.co/n9tbiBcRSj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EngagedCount",
+					"name": "Engaged Count",
+					"id": 764344165454925800,
+					"id_str": "764344165454925824",
+					"indices": [
+						36,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n9tbiBcRSj",
+					"expanded_url": "https://twitter.com/EngagedCount/status/772131836763922433",
+					"display_url": "twitter.com/EngagedCount/s…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10395,
+			"friends_count": 7281,
+			"listed_count": 863,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1723,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5911,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 772131836763922400,
+		"quoted_status_id_str": "772131836763922433",
+		"quoted_status": {
+			"created_at": "Sat Sep 03 17:59:10 +0000 2016",
+			"id": 772131836763922400,
+			"id_str": "772131836763922433",
+			"text": "@debbiediscovers Here is an example of using EngagedCount with GSheets. https://t.co/pEUuQCsriY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/pEUuQCsriY",
+						"expanded_url": "https://medium.com/@EngagedCount/how-to-use-google-docs-and-engagedcount-to-monitor-your-blogs-social-engagement-c35ab5e00d29",
+						"display_url": "medium.com/@EngagedCount/…",
+						"indices": [
+							72,
+							95
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 771918993846337500,
+			"in_reply_to_status_id_str": "771918993846337538",
+			"in_reply_to_user_id": 3060836348,
+			"in_reply_to_user_id_str": "3060836348",
+			"in_reply_to_screen_name": "debbiediscovers",
+			"user": {
+				"id": 764344165454925800,
+				"id_str": "764344165454925824",
+				"name": "Engaged Count",
+				"screen_name": "EngagedCount",
+				"location": "",
+				"description": "https://t.co/LDeBC4sXDd API for social engagement and share count tracking.",
+				"url": "https://t.co/LDeBC4sXDd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LDeBC4sXDd",
+								"expanded_url": "https://engagedcount.com",
+								"display_url": "engagedcount.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LDeBC4sXDd",
+								"expanded_url": "https://engagedcount.com",
+								"display_url": "engagedcount.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7,
+				"friends_count": 32,
+				"listed_count": 0,
+				"created_at": "Sat Aug 13 06:13:44 +0000 2016",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/766109495827111936/MlVz54Pb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/766109495827111936/MlVz54Pb_normal.jpg",
+				"profile_link_color": "566371",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 04 00:58:44 +0000 2016",
 		"id": 772237427297562600,
 		"id_str": "772237427297562624",
