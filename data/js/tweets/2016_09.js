@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Mon Sep 05 00:07:44 +0000 2016",
+		"id": 772586979062087700,
+		"id_str": "772586979062087684",
+		"text": "RT @tferriss: The characteristics of winners and what makes a successful investors  https://t.co/7zwE5SdXEt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tferriss",
+					"name": "Tim Ferriss",
+					"id": 11740902,
+					"id_str": "11740902",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7zwE5SdXEt",
+					"expanded_url": "http://bit.ly/1LpscES",
+					"display_url": "bit.ly/1LpscES",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10395,
+			"friends_count": 7271,
+			"listed_count": 862,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1727,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5914,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 03 03:10:07 +0000 2016",
+			"id": 771908100307742700,
+			"id_str": "771908100307742725",
+			"text": "The characteristics of winners and what makes a successful investors  https://t.co/7zwE5SdXEt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7zwE5SdXEt",
+						"expanded_url": "http://bit.ly/1LpscES",
+						"display_url": "bit.ly/1LpscES",
+						"indices": [
+							70,
+							93
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://meetedgar.com\" rel=\"nofollow\">Meet Edgar</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11740902,
+				"id_str": "11740902",
+				"name": "Tim Ferriss",
+				"screen_name": "tferriss",
+				"location": "Global",
+				"description": "Author of 3 #1 NYT/WSJ bestsellers (The 4-Hour Workweek, etc.). Investor (http://t.co/DcQssE6dFb), host of The Tim Ferriss Experiment: http://t.co/7oiMf07wRM",
+				"url": "http://t.co/959NkXmoJv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/959NkXmoJv",
+								"expanded_url": "http://www.fourhourworkweek.com/tv",
+								"display_url": "fourhourworkweek.com/tv",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/DcQssE6dFb",
+								"expanded_url": "http://www.angel.co/tim",
+								"display_url": "angel.co/tim",
+								"indices": [
+									74,
+									96
+								]
+							},
+							{
+								"url": "http://t.co/7oiMf07wRM",
+								"expanded_url": "http://fourhourworkweek.com/tv/",
+								"display_url": "fourhourworkweek.com/tv/",
+								"indices": [
+									135,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1348347,
+				"friends_count": 1134,
+				"listed_count": 20691,
+				"created_at": "Wed Jan 02 04:36:53 +0000 2008",
+				"favourites_count": 6342,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16741,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2770739/greek_dessert.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2770739/greek_dessert.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/49918572/half-face-ice_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/49918572/half-face-ice_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11740902/1430541938",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 58,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 04 23:52:48 +0000 2016",
+		"id": 772583222710415400,
+		"id_str": "772583222710415360",
+		"text": "#SEO @SimilarWeb The first website to remove #porn and see a rise in #UserEngagement 😊  https://t.co/xbJRcBK1a7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEO",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "porn",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "UserEngagement",
+					"indices": [
+						69,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SimilarWeb",
+					"name": "SimilarWeb",
+					"id": 24683972,
+					"id_str": "24683972",
+					"indices": [
+						5,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xbJRcBK1a7",
+					"expanded_url": "https://www.similarweb.com/blog/improve-seo-ranking",
+					"display_url": "similarweb.com/blog/improve-s…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10395,
+			"friends_count": 7271,
+			"listed_count": 862,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1727,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5914,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 04 17:26:24 +0000 2016",
 		"id": 772485981941268500,
 		"id_str": "772485981941268480",
