@@ -1,6 +1,741 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Wed Sep 07 06:06:32 +0000 2016",
+		"id": 773402051766280200,
+		"id_str": "773402051766280192",
+		"text": "RT @NiklasGoeke: Some of my faves in there! #SethGodin #quotes - https://t.co/CYACpsmD91 via @debbiediscovers",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SethGodin",
+					"indices": [
+						44,
+						54
+					]
+				},
+				{
+					"text": "quotes",
+					"indices": [
+						55,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NiklasGoeke",
+					"name": "Niklas Goeke",
+					"id": 1364467364,
+					"id_str": "1364467364",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						93,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CYACpsmD91",
+					"expanded_url": "http://debbiediscovers.com/blog/12-seth-godin-quotes/",
+					"display_url": "debbiediscovers.com/blog/12-seth-g…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10397,
+			"friends_count": 7347,
+			"listed_count": 862,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1753,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5941,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 07 05:19:36 +0000 2016",
+			"id": 773390237980655600,
+			"id_str": "773390237980655616",
+			"text": "Some of my faves in there! #SethGodin #quotes - https://t.co/CYACpsmD91 via @debbiediscovers",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SethGodin",
+						"indices": [
+							27,
+							37
+						]
+					},
+					{
+						"text": "quotes",
+						"indices": [
+							38,
+							45
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							76,
+							92
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CYACpsmD91",
+						"expanded_url": "http://debbiediscovers.com/blog/12-seth-godin-quotes/",
+						"display_url": "debbiediscovers.com/blog/12-seth-g…",
+						"indices": [
+							48,
+							71
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1364467364,
+				"id_str": "1364467364",
+				"name": "Niklas Goeke",
+				"screen_name": "NiklasGoeke",
+				"location": "Germany",
+				"description": "#Freelance #writer, #blogger & #habit #coach on @coachdotme. Love #pizza and #books. Publishing daily at https://t.co/7mcFh8s8hd",
+				"url": "http://t.co/JhVL45Fffa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/JhVL45Fffa",
+								"expanded_url": "http://niklasgoeke.com",
+								"display_url": "niklasgoeke.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7mcFh8s8hd",
+								"expanded_url": "http://fourminutebooks.com/",
+								"display_url": "fourminutebooks.com",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2270,
+				"friends_count": 1376,
+				"listed_count": 332,
+				"created_at": "Fri Apr 19 13:52:15 +0000 2013",
+				"favourites_count": 1636,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6930,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/517306900661030912/yMKCCM-7_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/517306900661030912/yMKCCM-7_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1364467364/1444662485",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 07 06:04:57 +0000 2016",
+		"id": 773401650291679200,
+		"id_str": "773401650291679232",
+		"text": "RT @EastmanHouse: #The sign... #Quote #Amazing #Inspiration #Life #Family &amp; #Success https://t.co/MbfbxYp2vg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "Quote",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "Amazing",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"text": "Inspiration",
+					"indices": [
+						47,
+						59
+					]
+				},
+				{
+					"text": "Life",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "Family",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "Success",
+					"indices": [
+						80,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EastmanHouse",
+					"name": "EastmanHouse",
+					"id": 4151257426,
+					"id_str": "4151257426",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 672566741747142700,
+					"id_str": "672566741747142656",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/CVVv42GUkAAuPnR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CVVv42GUkAAuPnR.jpg",
+					"url": "https://t.co/MbfbxYp2vg",
+					"display_url": "pic.twitter.com/MbfbxYp2vg",
+					"expanded_url": "http://twitter.com/EastmanHouse/status/672566742971887616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 672566742971887600,
+					"source_status_id_str": "672566742971887616",
+					"source_user_id": 4151257426,
+					"source_user_id_str": "4151257426"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 672566741747142700,
+					"id_str": "672566741747142656",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/CVVv42GUkAAuPnR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CVVv42GUkAAuPnR.jpg",
+					"url": "https://t.co/MbfbxYp2vg",
+					"display_url": "pic.twitter.com/MbfbxYp2vg",
+					"expanded_url": "http://twitter.com/EastmanHouse/status/672566742971887616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 672566742971887600,
+					"source_status_id_str": "672566742971887616",
+					"source_user_id": 4151257426,
+					"source_user_id_str": "4151257426"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10397,
+			"friends_count": 7347,
+			"listed_count": 862,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1753,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5941,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 07 06:04:18 +0000 2016",
+			"id": 773401489729544200,
+			"id_str": "773401489729544193",
+			"text": "#The sign... #Quote #Amazing #Inspiration #Life #Family &amp; #Success https://t.co/MbfbxYp2vg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "The",
+						"indices": [
+							0,
+							4
+						]
+					},
+					{
+						"text": "Quote",
+						"indices": [
+							13,
+							19
+						]
+					},
+					{
+						"text": "Amazing",
+						"indices": [
+							20,
+							28
+						]
+					},
+					{
+						"text": "Inspiration",
+						"indices": [
+							29,
+							41
+						]
+					},
+					{
+						"text": "Life",
+						"indices": [
+							42,
+							47
+						]
+					},
+					{
+						"text": "Family",
+						"indices": [
+							48,
+							55
+						]
+					},
+					{
+						"text": "Success",
+						"indices": [
+							62,
+							70
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 672566741747142700,
+						"id_str": "672566741747142656",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/CVVv42GUkAAuPnR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CVVv42GUkAAuPnR.jpg",
+						"url": "https://t.co/MbfbxYp2vg",
+						"display_url": "pic.twitter.com/MbfbxYp2vg",
+						"expanded_url": "http://twitter.com/EastmanHouse/status/672566742971887616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 750,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 750,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 510,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 672566742971887600,
+						"source_status_id_str": "672566742971887616",
+						"source_user_id": 4151257426,
+						"source_user_id_str": "4151257426"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 672566741747142700,
+						"id_str": "672566741747142656",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/CVVv42GUkAAuPnR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CVVv42GUkAAuPnR.jpg",
+						"url": "https://t.co/MbfbxYp2vg",
+						"display_url": "pic.twitter.com/MbfbxYp2vg",
+						"expanded_url": "http://twitter.com/EastmanHouse/status/672566742971887616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 750,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 750,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 510,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 672566742971887600,
+						"source_status_id_str": "672566742971887616",
+						"source_user_id": 4151257426,
+						"source_user_id_str": "4151257426"
+					}
+				]
+			},
+			"source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4151257426,
+				"id_str": "4151257426",
+				"name": "EastmanHouse",
+				"screen_name": "EastmanHouse",
+				"location": "North Brunswick, NJ",
+				"description": "The Eastman House Company has been handcrafting America's finest mattresses since 1866.",
+				"url": "https://t.co/UdmF1Tsfpv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UdmF1Tsfpv",
+								"expanded_url": "http://www.eastmanhousemattress.com",
+								"display_url": "eastmanhousemattress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38492,
+				"friends_count": 22923,
+				"listed_count": 273,
+				"created_at": "Mon Nov 09 19:12:35 +0000 2015",
+				"favourites_count": 477,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 389619,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/663811683568230400/JgAos6up_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/663811683568230400/JgAos6up_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4151257426/1447354765",
+				"profile_link_color": "650D10",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 06 23:16:37 +0000 2016",
 		"id": 773298890971807700,
 		"id_str": "773298890971807744",
