@@ -1,6 +1,895 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Tue Sep 06 23:16:37 +0000 2016",
+		"id": 773298890971807700,
+		"id_str": "773298890971807744",
+		"text": "RT @BBCiWonder: 📚 It would take 62,000 years to read all the books in existence. Isn't it time you got started? 📚 #readabookday https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "readabookday",
+					"indices": [
+						114,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBCiWonder",
+					"name": "BBC iWonder",
+					"id": 1603796952,
+					"id_str": "1603796952",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 773110983913070600,
+					"id_str": "773110983913070592",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/773110983913070592/img/QvcTIFhKHnJJIzR2.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/773110983913070592/img/QvcTIFhKHnJJIzR2.jpg",
+					"url": "https://t.co/uCADXOJIb9",
+					"display_url": "pic.twitter.com/uCADXOJIb9",
+					"expanded_url": "https://twitter.com/BBCiWonder/status/773111705312387072/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 773111705312387100,
+					"source_status_id_str": "773111705312387072",
+					"source_user_id": 1603796952,
+					"source_user_id_str": "1603796952"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 773110983913070600,
+					"id_str": "773110983913070592",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/773110983913070592/img/QvcTIFhKHnJJIzR2.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/773110983913070592/img/QvcTIFhKHnJJIzR2.jpg",
+					"url": "https://t.co/uCADXOJIb9",
+					"display_url": "pic.twitter.com/uCADXOJIb9",
+					"expanded_url": "https://twitter.com/BBCiWonder/status/773111705312387072/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 773111705312387100,
+					"source_status_id_str": "773111705312387072",
+					"source_user_id": 1603796952,
+					"source_user_id_str": "1603796952",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 65560,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/773110983913070592/vid/640x360/WrCOe0eKr6WmFOtU.mp4"
+							},
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/amplify_video/773110983913070592/pl/1kMbsNboHArutdDz.mpd"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/773110983913070592/vid/1280x720/Sby7E-mqCbcReUrJ.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/773110983913070592/vid/320x180/bRfKaKJ-QIQrvV8g.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/773110983913070592/pl/1kMbsNboHArutdDz.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 1603796952,
+							"id_str": "1603796952",
+							"name": "BBC iWonder",
+							"screen_name": "BBCiWonder",
+							"location": "",
+							"description": "Stories to make you think. From @BBC TV, radio, online and beyond.\n\nFollow us and feed your curiosity.",
+							"url": "http://t.co/iL6mUf8mH9",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/iL6mUf8mH9",
+											"expanded_url": "http://www.bbc.co.uk/iwonder",
+											"display_url": "bbc.co.uk/iwonder",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 35378,
+							"friends_count": 1202,
+							"listed_count": 556,
+							"created_at": "Thu Jul 18 16:31:13 +0000 2013",
+							"favourites_count": 1653,
+							"utc_offset": 7200,
+							"time_zone": "Amsterdam",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 8581,
+							"lang": "en-gb",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "005361",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446237506183249920/dPVPFtze.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446237506183249920/dPVPFtze.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/458967564320665600/EePsj8AP_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/458967564320665600/EePsj8AP_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1603796952/1398261404",
+							"profile_link_color": "005361",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10401,
+			"friends_count": 7347,
+			"listed_count": 861,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1751,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5939,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 06 10:52:48 +0000 2016",
+			"id": 773111705312387100,
+			"id_str": "773111705312387072",
+			"text": "📚 It would take 62,000 years to read all the books in existence. Isn't it time you got started? 📚 #readabookday https://t.co/uCADXOJIb9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "readabookday",
+						"indices": [
+							98,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 773110983913070600,
+						"id_str": "773110983913070592",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/773110983913070592/img/QvcTIFhKHnJJIzR2.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/773110983913070592/img/QvcTIFhKHnJJIzR2.jpg",
+						"url": "https://t.co/uCADXOJIb9",
+						"display_url": "pic.twitter.com/uCADXOJIb9",
+						"expanded_url": "https://twitter.com/BBCiWonder/status/773111705312387072/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 773110983913070600,
+						"id_str": "773110983913070592",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/773110983913070592/img/QvcTIFhKHnJJIzR2.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/773110983913070592/img/QvcTIFhKHnJJIzR2.jpg",
+						"url": "https://t.co/uCADXOJIb9",
+						"display_url": "pic.twitter.com/uCADXOJIb9",
+						"expanded_url": "https://twitter.com/BBCiWonder/status/773111705312387072/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 65560,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/773110983913070592/vid/640x360/WrCOe0eKr6WmFOtU.mp4"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/amplify_video/773110983913070592/pl/1kMbsNboHArutdDz.mpd"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/773110983913070592/vid/1280x720/Sby7E-mqCbcReUrJ.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/773110983913070592/vid/320x180/bRfKaKJ-QIQrvV8g.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/773110983913070592/pl/1kMbsNboHArutdDz.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1603796952,
+				"id_str": "1603796952",
+				"name": "BBC iWonder",
+				"screen_name": "BBCiWonder",
+				"location": "",
+				"description": "Stories to make you think. From @BBC TV, radio, online and beyond.\n\nFollow us and feed your curiosity.",
+				"url": "http://t.co/iL6mUf8mH9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/iL6mUf8mH9",
+								"expanded_url": "http://www.bbc.co.uk/iwonder",
+								"display_url": "bbc.co.uk/iwonder",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35378,
+				"friends_count": 1202,
+				"listed_count": 556,
+				"created_at": "Thu Jul 18 16:31:13 +0000 2013",
+				"favourites_count": 1653,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8581,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "005361",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446237506183249920/dPVPFtze.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446237506183249920/dPVPFtze.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/458967564320665600/EePsj8AP_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/458967564320665600/EePsj8AP_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1603796952/1398261404",
+				"profile_link_color": "005361",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1715,
+			"favorite_count": 1717,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1715,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 06 23:15:02 +0000 2016",
+		"id": 773298490935914500,
+		"id_str": "773298490935914496",
+		"text": "Forkable #Facebook shared count service on @github via @phillipadsmith https://t.co/LoeTx8clD2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Facebook",
+					"indices": [
+						9,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "github",
+					"name": "GitHub",
+					"id": 13334762,
+					"id_str": "13334762",
+					"indices": [
+						43,
+						50
+					]
+				},
+				{
+					"screen_name": "phillipadsmith",
+					"name": "Phillip Smith",
+					"id": 3219,
+					"id_str": "3219",
+					"indices": [
+						55,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LoeTx8clD2",
+					"expanded_url": "https://twitter.com/phillipadsmith/status/773263073234739200",
+					"display_url": "twitter.com/phillipadsmith…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10401,
+			"friends_count": 7347,
+			"listed_count": 861,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1751,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5939,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 773263073234739200,
+		"quoted_status_id_str": "773263073234739200",
+		"quoted_status": {
+			"created_at": "Tue Sep 06 20:54:17 +0000 2016",
+			"id": 773263073234739200,
+			"id_str": "773263073234739200",
+			"text": "@EngagedCount @debbiediscovers @jaschaio I've written a Facebook share count service that you're free to steal from, https://t.co/2z3BGOqI7l",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EngagedCount",
+						"name": "Engaged Count",
+						"id": 764344165454925800,
+						"id_str": "764344165454925824",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							14,
+							30
+						]
+					},
+					{
+						"screen_name": "jaschaio",
+						"name": "Jascha Brinkmann",
+						"id": 9727602,
+						"id_str": "9727602",
+						"indices": [
+							31,
+							40
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2z3BGOqI7l",
+						"expanded_url": "https://github.com/TheTyee/widgets.thetyee.ca#shares-by-url",
+						"display_url": "github.com/TheTyee/widget…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 773160471704707100,
+			"in_reply_to_status_id_str": "773160471704707072",
+			"in_reply_to_user_id": 764344165454925800,
+			"in_reply_to_user_id_str": "764344165454925824",
+			"in_reply_to_screen_name": "EngagedCount",
+			"user": {
+				"id": 3219,
+				"id_str": "3219",
+				"name": "Phillip Smith",
+				"screen_name": "phillipadsmith",
+				"location": "Canada ∗ Mexico ∗ World",
+				"description": "☕ Obsession: #Journalism + #Technology ⚡ Producer @HacksHackers Connect  ⭐ CTO @TheTyee  ⛅Tinker with #Perl & #JavaScript ⛵ Living a #nomadic life.",
+				"url": "http://t.co/wKZ3yYZR6i",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/wKZ3yYZR6i",
+								"expanded_url": "http://www.phillipadsmith.com",
+								"display_url": "phillipadsmith.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3566,
+				"friends_count": 3437,
+				"listed_count": 324,
+				"created_at": "Thu Jul 27 02:33:10 +0000 2006",
+				"favourites_count": 2163,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17142,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "242424",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/546363843/DSCF0584_for_web.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/546363843/DSCF0584_for_web.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/725375245092184064/fWskG4nQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/725375245092184064/fWskG4nQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3219/1419040063",
+				"profile_link_color": "0C9999",
+				"profile_sidebar_border_color": "999999",
+				"profile_sidebar_fill_color": "C7C5C5",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 06 23:13:38 +0000 2016",
+		"id": 773298139998539800,
+		"id_str": "773298139998539776",
+		"text": "@phillipadsmith @EngagedCount @jaschaio Cool cheers!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "phillipadsmith",
+					"name": "Phillip Smith",
+					"id": 3219,
+					"id_str": "3219",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "EngagedCount",
+					"name": "Engaged Count",
+					"id": 764344165454925800,
+					"id_str": "764344165454925824",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"screen_name": "jaschaio",
+					"name": "Jascha Brinkmann",
+					"id": 9727602,
+					"id_str": "9727602",
+					"indices": [
+						30,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 773263073234739200,
+		"in_reply_to_status_id_str": "773263073234739200",
+		"in_reply_to_user_id": 3219,
+		"in_reply_to_user_id_str": "3219",
+		"in_reply_to_screen_name": "phillipadsmith",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10401,
+			"friends_count": 7347,
+			"listed_count": 861,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1751,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5939,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 06 16:56:11 +0000 2016",
 		"id": 773203154028552200,
 		"id_str": "773203154028552192",
