@@ -1,6 +1,613 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 18:32:59 +0000 2016",
+		"id": 773952289442713600,
+		"id_str": "773952289442713600",
+		"text": "RT @market4justice: \"6 Books Every Hustling Entrepreneur and Creative Should Read #InternationalLiteracyDay https://t.co/j21BZGd7eR\"https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InternationalLiteracyDay",
+					"indices": [
+						82,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "market4justice",
+					"name": "MarketingForJustice",
+					"id": 3351027946,
+					"id_str": "3351027946",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j21BZGd7eR",
+					"expanded_url": "http://entm.ag/2b8X7w6",
+					"display_url": "entm.ag/2b8X7w6",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/dzBw8rpLK9",
+					"expanded_url": "http://twitter.com/Entrepreneur/status/773940244827762688",
+					"display_url": "twitter.com/Entrepreneur/s…",
+					"indices": [
+						139,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10380,
+			"friends_count": 7349,
+			"listed_count": 863,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1757,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5955,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 08 18:09:52 +0000 2016",
+			"id": 773946468990353400,
+			"id_str": "773946468990353408",
+			"text": "\"6 Books Every Hustling Entrepreneur and Creative Should Read #InternationalLiteracyDay https://t.co/j21BZGd7eR\"https://t.co/dzBw8rpLK9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InternationalLiteracyDay",
+						"indices": [
+							62,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/j21BZGd7eR",
+						"expanded_url": "http://entm.ag/2b8X7w6",
+						"display_url": "entm.ag/2b8X7w6",
+						"indices": [
+							88,
+							111
+						]
+					},
+					{
+						"url": "https://t.co/dzBw8rpLK9",
+						"expanded_url": "http://twitter.com/Entrepreneur/status/773940244827762688",
+						"display_url": "twitter.com/Entrepreneur/s…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3351027946,
+				"id_str": "3351027946",
+				"name": "MarketingForJustice",
+				"screen_name": "market4justice",
+				"location": "Toronto, Ontario",
+				"description": "For when what you're passionate about needs justice\nAccount managed by @heardandrew",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 392,
+				"friends_count": 138,
+				"listed_count": 359,
+				"created_at": "Mon Jun 29 17:37:07 +0000 2015",
+				"favourites_count": 410,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 108391,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/615577051399983104/1B-CM5fS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/615577051399983104/1B-CM5fS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3351027946/1438882192",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 773940244827762700,
+			"quoted_status_id_str": "773940244827762688",
+			"quoted_status": {
+				"created_at": "Thu Sep 08 17:45:08 +0000 2016",
+				"id": 773940244827762700,
+				"id_str": "773940244827762688",
+				"text": "6 Books Every Hustling Entrepreneur and Creative Should Read #InternationalLiteracyDay https://t.co/L19XsygzqX",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "InternationalLiteracyDay",
+							"indices": [
+								61,
+								86
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/L19XsygzqX",
+							"expanded_url": "http://entm.ag/2b8X7w6",
+							"display_url": "entm.ag/2b8X7w6",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 19407053,
+					"id_str": "19407053",
+					"name": "Entrepreneur",
+					"screen_name": "Entrepreneur",
+					"location": "NYC | Orange County, CA",
+					"description": "Inspiring, informing and celebrating entrepreneurs since 1973. Please tweet @EntCommunity for questions and event live-feeds.",
+					"url": "https://t.co/ewwvWhYHbU",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/ewwvWhYHbU",
+									"expanded_url": "https://www.entrepreneur.com",
+									"display_url": "entrepreneur.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2542342,
+					"friends_count": 1400,
+					"listed_count": 26324,
+					"created_at": "Fri Jan 23 18:46:10 +0000 2009",
+					"favourites_count": 353,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 101042,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "223F51",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/581585015047254016/CughMn3Z.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/581585015047254016/CughMn3Z.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/474753665970868224/GcoCzmcI_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/474753665970868224/GcoCzmcI_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/19407053/1471976720",
+					"profile_link_color": "E81C4F",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "363636",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 96,
+				"favorite_count": 87,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 773940244827762700,
+		"quoted_status_id_str": "773940244827762688",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 08 18:31:50 +0000 2016",
+		"id": 773951998647341000,
+		"id_str": "773951998647341056",
+		"text": "@tastereunion Woops my tweet got eaten by the tweet monster. Do this!!!! https://t.co/TWXdKR39LP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tastereunion",
+					"name": "tastereunion",
+					"id": 3231429844,
+					"id_str": "3231429844",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TWXdKR39LP",
+					"expanded_url": "https://twitter.com/TravelAndDest/status/773439674899660800",
+					"display_url": "twitter.com/TravelAndDest/…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3231429844,
+		"in_reply_to_user_id_str": "3231429844",
+		"in_reply_to_screen_name": "tastereunion",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10380,
+			"friends_count": 7349,
+			"listed_count": 863,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1757,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5955,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 773439674899660800,
+		"quoted_status_id_str": "773439674899660800",
+		"quoted_status": {
+			"created_at": "Wed Sep 07 08:36:02 +0000 2016",
+			"id": 773439674899660800,
+			"id_str": "773439674899660800",
+			"text": "Contribute to Travel and Destinations https://t.co/K1s84milae #blog #travelblog #contribute #socialmedia #travel #destinations #vacations",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "blog",
+						"indices": [
+							62,
+							67
+						]
+					},
+					{
+						"text": "travelblog",
+						"indices": [
+							68,
+							79
+						]
+					},
+					{
+						"text": "contribute",
+						"indices": [
+							80,
+							91
+						]
+					},
+					{
+						"text": "socialmedia",
+						"indices": [
+							92,
+							104
+						]
+					},
+					{
+						"text": "travel",
+						"indices": [
+							105,
+							112
+						]
+					},
+					{
+						"text": "destinations",
+						"indices": [
+							113,
+							126
+						]
+					},
+					{
+						"text": "vacations",
+						"indices": [
+							127,
+							137
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/K1s84milae",
+						"expanded_url": "http://www.travelanddestinations.com/contribute/",
+						"display_url": "travelanddestinations.com/contribute/",
+						"indices": [
+							38,
+							61
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 517784503,
+				"id_str": "517784503",
+				"name": "Travel&Destinations",
+				"screen_name": "TravelAndDest",
+				"location": "Vienna, Austria",
+				"description": "Travel and Destinations is a website run by Mike Clegg and provides destinations, travel tips, photography advice and more through his website.",
+				"url": "https://t.co/GpGQiMGXSY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GpGQiMGXSY",
+								"expanded_url": "http://travelanddestinations.com/",
+								"display_url": "travelanddestinations.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 210,
+				"friends_count": 168,
+				"listed_count": 46,
+				"created_at": "Wed Mar 07 17:30:53 +0000 2012",
+				"favourites_count": 162,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 629,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/691393129543507969/J6PNdvmO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/691393129543507969/J6PNdvmO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/517784503/1473320192",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 08 16:59:00 +0000 2016",
 		"id": 773928636302762000,
 		"id_str": "773928636302761984",
