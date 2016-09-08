@@ -1,6 +1,948 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 16:59:00 +0000 2016",
+		"id": 773928636302762000,
+		"id_str": "773928636302761984",
+		"text": "RT @PencilsOfPromis: Today's the day. Click that link, make a difference. 👉🏽  #InternationalLiteracyDay https://t.co/hjyZHRrz2c https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InternationalLiteracyDay",
+					"indices": [
+						78,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PencilsOfPromis",
+					"name": "Pencils of Promise",
+					"id": 18369852,
+					"id_str": "18369852",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hjyZHRrz2c",
+					"expanded_url": "http://bit.ly/2c1ji8n",
+					"display_url": "bit.ly/2c1ji8n",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 773909444891738100,
+					"id_str": "773909444891738112",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cr16ii8XgAAcYvC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cr16ii8XgAAcYvC.jpg",
+					"url": "https://t.co/LeFJY4OJtI",
+					"display_url": "pic.twitter.com/LeFJY4OJtI",
+					"expanded_url": "https://twitter.com/PencilsOfPromis/status/773909576588660736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 773909576588660700,
+					"source_status_id_str": "773909576588660736",
+					"source_user_id": 18369852,
+					"source_user_id_str": "18369852"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 773909444891738100,
+					"id_str": "773909444891738112",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cr16ii8XgAAcYvC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cr16ii8XgAAcYvC.jpg",
+					"url": "https://t.co/LeFJY4OJtI",
+					"display_url": "pic.twitter.com/LeFJY4OJtI",
+					"expanded_url": "https://twitter.com/PencilsOfPromis/status/773909576588660736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 773909576588660700,
+					"source_status_id_str": "773909576588660736",
+					"source_user_id": 18369852,
+					"source_user_id_str": "18369852"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10386,
+			"friends_count": 7349,
+			"listed_count": 862,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1757,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5953,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 08 15:43:16 +0000 2016",
+			"id": 773909576588660700,
+			"id_str": "773909576588660736",
+			"text": "Today's the day. Click that link, make a difference. 👉🏽  #InternationalLiteracyDay https://t.co/hjyZHRrz2c https://t.co/LeFJY4OJtI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InternationalLiteracyDay",
+						"indices": [
+							57,
+							82
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hjyZHRrz2c",
+						"expanded_url": "http://bit.ly/2c1ji8n",
+						"display_url": "bit.ly/2c1ji8n",
+						"indices": [
+							83,
+							106
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 773909444891738100,
+						"id_str": "773909444891738112",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/Cr16ii8XgAAcYvC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cr16ii8XgAAcYvC.jpg",
+						"url": "https://t.co/LeFJY4OJtI",
+						"display_url": "pic.twitter.com/LeFJY4OJtI",
+						"expanded_url": "https://twitter.com/PencilsOfPromis/status/773909576588660736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 773909444891738100,
+						"id_str": "773909444891738112",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/Cr16ii8XgAAcYvC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cr16ii8XgAAcYvC.jpg",
+						"url": "https://t.co/LeFJY4OJtI",
+						"display_url": "pic.twitter.com/LeFJY4OJtI",
+						"expanded_url": "https://twitter.com/PencilsOfPromis/status/773909576588660736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18369852,
+				"id_str": "18369852",
+				"name": "Pencils of Promise",
+				"screen_name": "PencilsOfPromis",
+				"location": "NYC",
+				"description": "Pencils of Promise brings life-changing education to children living in poverty around the world.",
+				"url": "http://t.co/TPMkKF5Pjc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/TPMkKF5Pjc",
+								"expanded_url": "http://pencilsofpromise.org",
+								"display_url": "pencilsofpromise.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 246838,
+				"friends_count": 23907,
+				"listed_count": 1962,
+				"created_at": "Thu Dec 25 03:40:26 +0000 2008",
+				"favourites_count": 4371,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8522,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0C557",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/463700033536131072/HbejnUtZ.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/463700033536131072/HbejnUtZ.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/530060177161322496/Hioefmiu_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/530060177161322496/Hioefmiu_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18369852/1446843812",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 08 16:58:26 +0000 2016",
+		"id": 773928494434693100,
+		"id_str": "773928494434693120",
+		"text": "@tastereunion you guys should totally do this!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tastereunion",
+					"name": "tastereunion",
+					"id": 3231429844,
+					"id_str": "3231429844",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3231429844,
+		"in_reply_to_user_id_str": "3231429844",
+		"in_reply_to_screen_name": "tastereunion",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10386,
+			"friends_count": 7349,
+			"listed_count": 862,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1757,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5953,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 08 16:57:16 +0000 2016",
+		"id": 773928201584115700,
+		"id_str": "773928201584115712",
+		"text": "@TravelAndDest @visitsingapore Yup! #gardensbythebay Supertrees and indoor Cloud Forest are pretty spectacular. #MUST #VisitSingapore 🇸🇬",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "gardensbythebay",
+					"indices": [
+						36,
+						52
+					]
+				},
+				{
+					"text": "MUST",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "VisitSingapore",
+					"indices": [
+						118,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TravelAndDest",
+					"name": "Travel&Destinations",
+					"id": 517784503,
+					"id_str": "517784503",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "visitsingapore",
+					"name": "VisitSingapore",
+					"id": 23299429,
+					"id_str": "23299429",
+					"indices": [
+						15,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 773782925095632900,
+		"in_reply_to_status_id_str": "773782925095632897",
+		"in_reply_to_user_id": 517784503,
+		"in_reply_to_user_id_str": "517784503",
+		"in_reply_to_screen_name": "TravelAndDest",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10386,
+			"friends_count": 7349,
+			"listed_count": 862,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1757,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5953,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 08 16:52:15 +0000 2016",
+		"id": 773926939631325200,
+		"id_str": "773926939631325185",
+		"text": "#InternationalLiteracyDay Donation matching for one day only!! https://t.co/QXfyPdTAzl #GlobalGoals #GlobalEducation https://t.co/FCAR015Aq5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InternationalLiteracyDay",
+					"indices": [
+						0,
+						25
+					]
+				},
+				{
+					"text": "GlobalGoals",
+					"indices": [
+						87,
+						99
+					]
+				},
+				{
+					"text": "GlobalEducation",
+					"indices": [
+						100,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QXfyPdTAzl",
+					"expanded_url": "http://deb.bi/WantstoBuildaSchool-Donate",
+					"display_url": "deb.bi/WantstoBuildaS…",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/FCAR015Aq5",
+					"expanded_url": "https://twitter.com/PencilsOfPromis/status/773909576588660736",
+					"display_url": "twitter.com/PencilsOfPromi…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10386,
+			"friends_count": 7349,
+			"listed_count": 862,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1757,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5953,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 773909576588660700,
+		"quoted_status_id_str": "773909576588660736",
+		"quoted_status": {
+			"created_at": "Thu Sep 08 15:43:16 +0000 2016",
+			"id": 773909576588660700,
+			"id_str": "773909576588660736",
+			"text": "Today's the day. Click that link, make a difference. 👉🏽  #InternationalLiteracyDay https://t.co/hjyZHRrz2c https://t.co/LeFJY4OJtI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InternationalLiteracyDay",
+						"indices": [
+							57,
+							82
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hjyZHRrz2c",
+						"expanded_url": "http://bit.ly/2c1ji8n",
+						"display_url": "bit.ly/2c1ji8n",
+						"indices": [
+							83,
+							106
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 773909444891738100,
+						"id_str": "773909444891738112",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/Cr16ii8XgAAcYvC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cr16ii8XgAAcYvC.jpg",
+						"url": "https://t.co/LeFJY4OJtI",
+						"display_url": "pic.twitter.com/LeFJY4OJtI",
+						"expanded_url": "https://twitter.com/PencilsOfPromis/status/773909576588660736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 773909444891738100,
+						"id_str": "773909444891738112",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/Cr16ii8XgAAcYvC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cr16ii8XgAAcYvC.jpg",
+						"url": "https://t.co/LeFJY4OJtI",
+						"display_url": "pic.twitter.com/LeFJY4OJtI",
+						"expanded_url": "https://twitter.com/PencilsOfPromis/status/773909576588660736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18369852,
+				"id_str": "18369852",
+				"name": "Pencils of Promise",
+				"screen_name": "PencilsOfPromis",
+				"location": "NYC",
+				"description": "Pencils of Promise brings life-changing education to children living in poverty around the world.",
+				"url": "http://t.co/TPMkKF5Pjc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/TPMkKF5Pjc",
+								"expanded_url": "http://pencilsofpromise.org",
+								"display_url": "pencilsofpromise.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 246838,
+				"friends_count": 23907,
+				"listed_count": 1962,
+				"created_at": "Thu Dec 25 03:40:26 +0000 2008",
+				"favourites_count": 4371,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8522,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0C557",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/463700033536131072/HbejnUtZ.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/463700033536131072/HbejnUtZ.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/530060177161322496/Hioefmiu_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/530060177161322496/Hioefmiu_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18369852/1446843812",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 08 14:22:04 +0000 2016",
 		"id": 773889143935905800,
 		"id_str": "773889143935905792",
