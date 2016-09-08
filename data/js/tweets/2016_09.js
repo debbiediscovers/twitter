@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 14:22:04 +0000 2016",
+		"id": 773889143935905800,
+		"id_str": "773889143935905792",
+		"text": "RT @tylerlessard: 30 Examples of Personalized Videos That'll Really Get Your Attention https://t.co/dGt3SCK8m3 @HeinzMarketing @MarketingPr…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tylerlessard",
+					"name": "Tyler Lessard",
+					"id": 181128783,
+					"id_str": "181128783",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "HeinzMarketing",
+					"name": "Matt Heinz",
+					"id": 1069351,
+					"id_str": "1069351",
+					"indices": [
+						111,
+						126
+					]
+				},
+				{
+					"screen_name": "MarketingProfs",
+					"name": "Ann Handley",
+					"id": 8596022,
+					"id_str": "8596022",
+					"indices": [
+						127,
+						140
+					]
+				},
+				{
+					"screen_name": "marketo",
+					"name": "Marketo",
+					"id": 17497382,
+					"id_str": "17497382",
+					"indices": [
+						139,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dGt3SCK8m3",
+					"expanded_url": "https://www.vidyard.com/blog/30-examples-personalized-videos-really-get-attention/?utm_source=twitter&utm_medium=social",
+					"display_url": "vidyard.com/blog/30-exampl…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10390,
+			"friends_count": 7348,
+			"listed_count": 862,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1756,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5949,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 01 23:56:27 +0000 2016",
+			"id": 771496976143622100,
+			"id_str": "771496976143622144",
+			"text": "30 Examples of Personalized Videos That'll Really Get Your Attention https://t.co/dGt3SCK8m3 @HeinzMarketing @MarketingProfs @Marketo",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HeinzMarketing",
+						"name": "Matt Heinz",
+						"id": 1069351,
+						"id_str": "1069351",
+						"indices": [
+							93,
+							108
+						]
+					},
+					{
+						"screen_name": "MarketingProfs",
+						"name": "Ann Handley",
+						"id": 8596022,
+						"id_str": "8596022",
+						"indices": [
+							109,
+							124
+						]
+					},
+					{
+						"screen_name": "marketo",
+						"name": "Marketo",
+						"id": 17497382,
+						"id_str": "17497382",
+						"indices": [
+							125,
+							133
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dGt3SCK8m3",
+						"expanded_url": "https://www.vidyard.com/blog/30-examples-personalized-videos-really-get-attention/?utm_source=twitter&utm_medium=social",
+						"display_url": "vidyard.com/blog/30-exampl…",
+						"indices": [
+							69,
+							92
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 181128783,
+				"id_str": "181128783",
+				"name": "Tyler Lessard",
+				"screen_name": "tylerlessard",
+				"location": "Waterloo, ON",
+				"description": "Technology marketing, product and business development executive. Currently CMO at @vidyard, possibly the most awesome company ever.",
+				"url": "http://t.co/Kz1S3X4ULY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Kz1S3X4ULY",
+								"expanded_url": "http://www.vidyard.com",
+								"display_url": "vidyard.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1537,
+				"friends_count": 618,
+				"listed_count": 177,
+				"created_at": "Sat Aug 21 10:41:53 +0000 2010",
+				"favourites_count": 413,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1153,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1676297214/Tyler_20head_20shot_20-_20small_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1676297214/Tyler_20head_20shot_20-_20small_normal.png",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 08 05:30:53 +0000 2016",
 		"id": 773755466375573500,
 		"id_str": "773755466375573505",
