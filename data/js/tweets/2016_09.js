@@ -1,6 +1,985 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Fri Sep 09 16:41:09 +0000 2016",
+		"id": 774286532077244400,
+		"id_str": "774286532077244416",
+		"text": "RT @horse_gif: beatricemomo: Day 239. Happy friday! Reblog @beatricemomo... by @debbiediscovers #gif https://t.co/btEwK2PLXs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "gif",
+					"indices": [
+						96,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "horse_gif",
+					"name": "Horse gif",
+					"id": 2776771800,
+					"id_str": "2776771800",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "BeatriceMomo",
+					"name": "Beatrice Momo",
+					"id": 1454886962,
+					"id_str": "1454886962",
+					"indices": [
+						59,
+						72
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						79,
+						95
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 774285296888377300,
+					"id_str": "774285296888377344",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cr7QYAvW8AAOnRn.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cr7QYAvW8AAOnRn.jpg",
+					"url": "https://t.co/btEwK2PLXs",
+					"display_url": "pic.twitter.com/btEwK2PLXs",
+					"expanded_url": "https://twitter.com/horse_gif/status/774285299362979840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 466,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 466,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 317,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 774285299362979800,
+					"source_status_id_str": "774285299362979840",
+					"source_user_id": 2776771800,
+					"source_user_id_str": "2776771800"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 774285296888377300,
+					"id_str": "774285296888377344",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cr7QYAvW8AAOnRn.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cr7QYAvW8AAOnRn.jpg",
+					"url": "https://t.co/btEwK2PLXs",
+					"display_url": "pic.twitter.com/btEwK2PLXs",
+					"expanded_url": "https://twitter.com/horse_gif/status/774285299362979840/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 466,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 466,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 317,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 774285299362979800,
+					"source_status_id_str": "774285299362979840",
+					"source_user_id": 2776771800,
+					"source_user_id_str": "2776771800",
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							233
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/Cr7QYAvW8AAOnRn.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10379,
+			"friends_count": 7354,
+			"listed_count": 864,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1763,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5960,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 09 16:36:15 +0000 2016",
+			"id": 774285299362979800,
+			"id_str": "774285299362979840",
+			"text": "beatricemomo: Day 239. Happy friday! Reblog @beatricemomo... by @debbiediscovers #gif https://t.co/btEwK2PLXs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "gif",
+						"indices": [
+							81,
+							85
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BeatriceMomo",
+						"name": "Beatrice Momo",
+						"id": 1454886962,
+						"id_str": "1454886962",
+						"indices": [
+							44,
+							57
+						]
+					},
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							64,
+							80
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 774285296888377300,
+						"id_str": "774285296888377344",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cr7QYAvW8AAOnRn.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cr7QYAvW8AAOnRn.jpg",
+						"url": "https://t.co/btEwK2PLXs",
+						"display_url": "pic.twitter.com/btEwK2PLXs",
+						"expanded_url": "https://twitter.com/horse_gif/status/774285299362979840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 466,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 466,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 317,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 774285296888377300,
+						"id_str": "774285296888377344",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cr7QYAvW8AAOnRn.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cr7QYAvW8AAOnRn.jpg",
+						"url": "https://t.co/btEwK2PLXs",
+						"display_url": "pic.twitter.com/btEwK2PLXs",
+						"expanded_url": "https://twitter.com/horse_gif/status/774285299362979840/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 466,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 466,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 317,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								250,
+								233
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://pbs.twimg.com/tweet_video/Cr7QYAvW8AAOnRn.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2776771800,
+				"id_str": "2776771800",
+				"name": "Horse gif",
+				"screen_name": "horse_gif",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32,
+				"friends_count": 0,
+				"listed_count": 6,
+				"created_at": "Thu Aug 28 17:02:57 +0000 2014",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23039,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/505038257483030528/1Rq4vco5_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/505038257483030528/1Rq4vco5_normal.png",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 09 16:40:25 +0000 2016",
+		"id": 774286347540377600,
+		"id_str": "774286347540377606",
+		"text": "RT @MikeKawula: 21 All Star #Twitter #Marketing Accounts You Need to Follow: https://t.co/CNkw16VBW8 https://t.co/cH0wfNPHoY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"text": "Marketing",
+					"indices": [
+						37,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MikeKawula",
+					"name": "Mike Kawula 🌴🐨🌴",
+					"id": 100065631,
+					"id_str": "100065631",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CNkw16VBW8",
+					"expanded_url": "https://www.socialquant.net/twitter-marketing-accounts-to-follow/",
+					"display_url": "socialquant.net/twitter-market…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 774280007208226800,
+					"id_str": "774280007208226831",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/Cr7LkHJVUA897CX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cr7LkHJVUA897CX.jpg",
+					"url": "https://t.co/cH0wfNPHoY",
+					"display_url": "pic.twitter.com/cH0wfNPHoY",
+					"expanded_url": "https://twitter.com/MikeKawula/status/774280841014890497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 774280841014890500,
+					"source_status_id_str": "774280841014890497",
+					"source_user_id": 100065631,
+					"source_user_id_str": "100065631"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 774280007208226800,
+					"id_str": "774280007208226831",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/Cr7LkHJVUA897CX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cr7LkHJVUA897CX.jpg",
+					"url": "https://t.co/cH0wfNPHoY",
+					"display_url": "pic.twitter.com/cH0wfNPHoY",
+					"expanded_url": "https://twitter.com/MikeKawula/status/774280841014890497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 774280841014890500,
+					"source_status_id_str": "774280841014890497",
+					"source_user_id": 100065631,
+					"source_user_id_str": "100065631"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10379,
+			"friends_count": 7354,
+			"listed_count": 864,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1763,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5960,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 09 16:18:32 +0000 2016",
+			"id": 774280841014890500,
+			"id_str": "774280841014890497",
+			"text": "21 All Star #Twitter #Marketing Accounts You Need to Follow: https://t.co/CNkw16VBW8 https://t.co/cH0wfNPHoY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Twitter",
+						"indices": [
+							12,
+							20
+						]
+					},
+					{
+						"text": "Marketing",
+						"indices": [
+							21,
+							31
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CNkw16VBW8",
+						"expanded_url": "https://www.socialquant.net/twitter-marketing-accounts-to-follow/",
+						"display_url": "socialquant.net/twitter-market…",
+						"indices": [
+							61,
+							84
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 774280007208226800,
+						"id_str": "774280007208226831",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/Cr7LkHJVUA897CX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cr7LkHJVUA897CX.jpg",
+						"url": "https://t.co/cH0wfNPHoY",
+						"display_url": "pic.twitter.com/cH0wfNPHoY",
+						"expanded_url": "https://twitter.com/MikeKawula/status/774280841014890497/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1000,
+								"h": 500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 774280007208226800,
+						"id_str": "774280007208226831",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/Cr7LkHJVUA897CX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cr7LkHJVUA897CX.jpg",
+						"url": "https://t.co/cH0wfNPHoY",
+						"display_url": "pic.twitter.com/cH0wfNPHoY",
+						"expanded_url": "https://twitter.com/MikeKawula/status/774280841014890497/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1000,
+								"h": 500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 100065631,
+				"id_str": "100065631",
+				"name": "Mike Kawula 🌴🐨🌴",
+				"screen_name": "MikeKawula",
+				"location": "Tampa, FL",
+				"description": "CEO @theSocialQuant Social Media Twitter Marketing Startup driving businesses Leads & Sales! Entrepreneur, Author & Inc. 500 Alum \nSunday Family Guy & Beach Bum",
+				"url": "https://t.co/cVcybNjA60",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cVcybNjA60",
+								"expanded_url": "http://www.SocialQuant.net",
+								"display_url": "SocialQuant.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 71509,
+				"friends_count": 53474,
+				"listed_count": 4607,
+				"created_at": "Mon Dec 28 22:36:58 +0000 2009",
+				"favourites_count": 7095,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 77916,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F2F0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000173310249/A8MStUKG.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000173310249/A8MStUKG.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/608421102969319427/Y7p_rYIs_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/608421102969319427/Y7p_rYIs_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/100065631/1468199171",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 09 16:39:36 +0000 2016",
+		"id": 774286141918892000,
+		"id_str": "774286141918892033",
+		"text": "@askaaronlee What an AWESOME list of ROCKSTARS! (I'll be the sidekick) @Tweetinggoddess @MikeKawula @AhnaHendrix @SociallySorted @buffer💓 💗",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AskAaronLee",
+					"name": "Aaron Lee",
+					"id": 25458378,
+					"id_str": "25458378",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Tweetinggoddess",
+					"name": "Samantha Kelly",
+					"id": 326869253,
+					"id_str": "326869253",
+					"indices": [
+						71,
+						87
+					]
+				},
+				{
+					"screen_name": "MikeKawula",
+					"name": "Mike Kawula 🌴🐨🌴",
+					"id": 100065631,
+					"id_str": "100065631",
+					"indices": [
+						88,
+						99
+					]
+				},
+				{
+					"screen_name": "AhnaHendrix",
+					"name": "Ahna Hendrix",
+					"id": 74613440,
+					"id_str": "74613440",
+					"indices": [
+						100,
+						112
+					]
+				},
+				{
+					"screen_name": "SociallySorted",
+					"name": "Donna Moritz",
+					"id": 208271692,
+					"id_str": "208271692",
+					"indices": [
+						113,
+						128
+					]
+				},
+				{
+					"screen_name": "buffer",
+					"name": "Buffer",
+					"id": 197962366,
+					"id_str": "197962366",
+					"indices": [
+						129,
+						136
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 774282493210099700,
+		"in_reply_to_status_id_str": "774282493210099713",
+		"in_reply_to_user_id": 326869253,
+		"in_reply_to_user_id_str": "326869253",
+		"in_reply_to_screen_name": "Tweetinggoddess",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10379,
+			"friends_count": 7354,
+			"listed_count": 864,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1763,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5960,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 09 13:21:39 +0000 2016",
 		"id": 774236325855625200,
 		"id_str": "774236325855625216",
