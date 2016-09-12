@@ -1,6 +1,1285 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Mon Sep 12 00:08:04 +0000 2016",
+		"id": 775123779965952000,
+		"id_str": "775123779965952000",
+		"text": "RT @HubSpot: 62% of businesses in Asia Pacific are creating more content in 2016 than they did in 2015 https://t.co/tgFjcTgDoV https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HubSpot",
+					"name": "HubSpot",
+					"id": 14458280,
+					"id_str": "14458280",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tgFjcTgDoV",
+					"expanded_url": "http://hubs.ly/H04g54h0",
+					"display_url": "hubs.ly/H04g54h0",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 774428439063498800,
+					"id_str": "774428439063498752",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cr9Sj-5XEAAU7wy.png",
+					"media_url_https": "https://pbs.twimg.com/media/Cr9Sj-5XEAAU7wy.png",
+					"url": "https://t.co/2bqK6i6Q7o",
+					"display_url": "pic.twitter.com/2bqK6i6Q7o",
+					"expanded_url": "https://twitter.com/HubSpot/status/774428442196582400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 810,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 810,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 774428442196582400,
+					"source_status_id_str": "774428442196582400",
+					"source_user_id": 14458280,
+					"source_user_id_str": "14458280"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 774428439063498800,
+					"id_str": "774428439063498752",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cr9Sj-5XEAAU7wy.png",
+					"media_url_https": "https://pbs.twimg.com/media/Cr9Sj-5XEAAU7wy.png",
+					"url": "https://t.co/2bqK6i6Q7o",
+					"display_url": "pic.twitter.com/2bqK6i6Q7o",
+					"expanded_url": "https://twitter.com/HubSpot/status/774428442196582400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 810,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 810,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 774428442196582400,
+					"source_status_id_str": "774428442196582400",
+					"source_user_id": 14458280,
+					"source_user_id_str": "14458280"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10630,
+			"friends_count": 7742,
+			"listed_count": 884,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1785,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5991,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 10 02:05:03 +0000 2016",
+			"id": 774428442196582400,
+			"id_str": "774428442196582400",
+			"text": "62% of businesses in Asia Pacific are creating more content in 2016 than they did in 2015 https://t.co/tgFjcTgDoV https://t.co/2bqK6i6Q7o",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tgFjcTgDoV",
+						"expanded_url": "http://hubs.ly/H04g54h0",
+						"display_url": "hubs.ly/H04g54h0",
+						"indices": [
+							90,
+							113
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 774428439063498800,
+						"id_str": "774428439063498752",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/Cr9Sj-5XEAAU7wy.png",
+						"media_url_https": "https://pbs.twimg.com/media/Cr9Sj-5XEAAU7wy.png",
+						"url": "https://t.co/2bqK6i6Q7o",
+						"display_url": "pic.twitter.com/2bqK6i6Q7o",
+						"expanded_url": "https://twitter.com/HubSpot/status/774428442196582400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 810,
+								"h": 450,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 810,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 774428439063498800,
+						"id_str": "774428439063498752",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/Cr9Sj-5XEAAU7wy.png",
+						"media_url_https": "https://pbs.twimg.com/media/Cr9Sj-5XEAAU7wy.png",
+						"url": "https://t.co/2bqK6i6Q7o",
+						"display_url": "pic.twitter.com/2bqK6i6Q7o",
+						"expanded_url": "https://twitter.com/HubSpot/status/774428442196582400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 810,
+								"h": 450,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 810,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14458280,
+				"id_str": "14458280",
+				"name": "HubSpot",
+				"screen_name": "HubSpot",
+				"location": "Cambridge, MA",
+				"description": "The world's leading inbound marketing & sales platform with 18K customers in 90+ countries. Need help? Contact @HubSpotSupport.",
+				"url": "http://t.co/JT0ohQeQzO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/JT0ohQeQzO",
+								"expanded_url": "http://hubspot.com",
+								"display_url": "hubspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 708090,
+				"friends_count": 46377,
+				"listed_count": 22300,
+				"created_at": "Mon Apr 21 04:17:34 +0000 2008",
+				"favourites_count": 24815,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 72638,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "434C54",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000055048171/b7fd96dcd886d63416dcece849485f25.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000055048171/b7fd96dcd886d63416dcece849485f25.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/728009572271718400/FDL8pGtZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/728009572271718400/FDL8pGtZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14458280/1465481644",
+				"profile_link_color": "CE6D2F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 11 23:59:21 +0000 2016",
+		"id": 775121584788910100,
+		"id_str": "775121584788910080",
+		"text": "@avinash Oh it's how they define bounce. 1 page vs your 5 second definition 😊 @WolfgangDigital",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "avinash",
+					"name": "Avinash Kaushik",
+					"id": 15662446,
+					"id_str": "15662446",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "WolfgangDigital",
+					"name": "Wolfgang Digital",
+					"id": 391869708,
+					"id_str": "391869708",
+					"indices": [
+						78,
+						94
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 775118313034686500,
+		"in_reply_to_status_id_str": "775118313034686464",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10630,
+			"friends_count": 7742,
+			"listed_count": 884,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1785,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5991,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 11 23:46:21 +0000 2016",
+		"id": 775118313034686500,
+		"id_str": "775118313034686464",
+		"text": "#MUSTREAD! 2016 E-Commerce Benchmark @WolfgangDigital Bounce rate has zero correlation to conversion rate? Comments @avinash ??",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MUSTREAD",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WolfgangDigital",
+					"name": "Wolfgang Digital",
+					"id": 391869708,
+					"id_str": "391869708",
+					"indices": [
+						37,
+						53
+					]
+				},
+				{
+					"screen_name": "avinash",
+					"name": "Avinash Kaushik",
+					"id": 15662446,
+					"id_str": "15662446",
+					"indices": [
+						116,
+						124
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 774276473192534000,
+		"in_reply_to_status_id_str": "774276473192534016",
+		"in_reply_to_user_id": 391869708,
+		"in_reply_to_user_id_str": "391869708",
+		"in_reply_to_screen_name": "WolfgangDigital",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10630,
+			"friends_count": 7742,
+			"listed_count": 884,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1785,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5991,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 11 23:44:29 +0000 2016",
+		"id": 775117843960467500,
+		"id_str": "775117843960467456",
+		"text": "RT @WolfgangDigital: Which website metrics influence your conversion rate most? Read our study and find out! https://t.co/oiO72ZXd72 https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WolfgangDigital",
+					"name": "Wolfgang Digital",
+					"id": 391869708,
+					"id_str": "391869708",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oiO72ZXd72",
+					"expanded_url": "http://bit.ly/2cI8ZBV",
+					"display_url": "bit.ly/2cI8ZBV",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 774232350943174700,
+					"id_str": "774232350943174656",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cr6gOJuVYAANqqH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cr6gOJuVYAANqqH.jpg",
+					"url": "https://t.co/StighCV018",
+					"display_url": "pic.twitter.com/StighCV018",
+					"expanded_url": "https://twitter.com/WolfgangDigital/status/774276473192534016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 490,
+							"h": 275,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 490,
+							"h": 275,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 490,
+							"h": 275,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 774276473192534000,
+					"source_status_id_str": "774276473192534016",
+					"source_user_id": 391869708,
+					"source_user_id_str": "391869708"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 774232350943174700,
+					"id_str": "774232350943174656",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cr6gOJuVYAANqqH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cr6gOJuVYAANqqH.jpg",
+					"url": "https://t.co/StighCV018",
+					"display_url": "pic.twitter.com/StighCV018",
+					"expanded_url": "https://twitter.com/WolfgangDigital/status/774276473192534016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 490,
+							"h": 275,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 490,
+							"h": 275,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 490,
+							"h": 275,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 774276473192534000,
+					"source_status_id_str": "774276473192534016",
+					"source_user_id": 391869708,
+					"source_user_id_str": "391869708"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10630,
+			"friends_count": 7742,
+			"listed_count": 884,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1785,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5991,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 09 16:01:11 +0000 2016",
+			"id": 774276473192534000,
+			"id_str": "774276473192534016",
+			"text": "Which website metrics influence your conversion rate most? Read our study and find out! https://t.co/oiO72ZXd72 https://t.co/StighCV018",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/oiO72ZXd72",
+						"expanded_url": "http://bit.ly/2cI8ZBV",
+						"display_url": "bit.ly/2cI8ZBV",
+						"indices": [
+							88,
+							111
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 774232350943174700,
+						"id_str": "774232350943174656",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/Cr6gOJuVYAANqqH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cr6gOJuVYAANqqH.jpg",
+						"url": "https://t.co/StighCV018",
+						"display_url": "pic.twitter.com/StighCV018",
+						"expanded_url": "https://twitter.com/WolfgangDigital/status/774276473192534016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 490,
+								"h": 275,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 490,
+								"h": 275,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 490,
+								"h": 275,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 774232350943174700,
+						"id_str": "774232350943174656",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/Cr6gOJuVYAANqqH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cr6gOJuVYAANqqH.jpg",
+						"url": "https://t.co/StighCV018",
+						"display_url": "pic.twitter.com/StighCV018",
+						"expanded_url": "https://twitter.com/WolfgangDigital/status/774276473192534016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 490,
+								"h": 275,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 490,
+								"h": 275,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 490,
+								"h": 275,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 391869708,
+				"id_str": "391869708",
+				"name": "Wolfgang Digital",
+				"screen_name": "WolfgangDigital",
+				"location": "Dublin, Ireland",
+				"description": "The Digital Marketing Scientists: 2016 UK Drum Search Award Grand Prix & 2016 European Search Award Best Small PPC Agency.",
+				"url": "http://t.co/gFAMMSBrCO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/gFAMMSBrCO",
+								"expanded_url": "http://www.WolfgangDigital.com",
+								"display_url": "WolfgangDigital.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4479,
+				"friends_count": 1871,
+				"listed_count": 315,
+				"created_at": "Sun Oct 16 06:52:02 +0000 2011",
+				"favourites_count": 2504,
+				"utc_offset": 3600,
+				"time_zone": "Dublin",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5568,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D9D9D9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/790832416/cd3d349a52677aced432ec472c5b55ac.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/790832416/cd3d349a52677aced432ec472c5b55ac.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/676742619620384768/-6VU_RUI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/676742619620384768/-6VU_RUI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/391869708/1450182896",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 11 23:41:25 +0000 2016",
+		"id": 775117070228791300,
+		"id_str": "775117070228791296",
+		"text": "Stats from @wolfgangdigital's e-commerce study. Don't do display ads. Yeah. @samueljscott could have told you that. https://t.co/8xRR7UPXhE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WolfgangDigital",
+					"name": "Wolfgang Digital",
+					"id": 391869708,
+					"id_str": "391869708",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "samueljscott",
+					"name": "Samuel Scott",
+					"id": 99086752,
+					"id_str": "99086752",
+					"indices": [
+						76,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8xRR7UPXhE",
+					"expanded_url": "https://twitter.com/digitalfuturist/status/774730572878929920",
+					"display_url": "twitter.com/digitalfuturis…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10630,
+			"friends_count": 7742,
+			"listed_count": 884,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1785,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5991,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 774730572878929900,
+		"quoted_status_id_str": "774730572878929920",
+		"quoted_status": {
+			"created_at": "Sat Sep 10 22:05:37 +0000 2016",
+			"id": 774730572878929900,
+			"id_str": "774730572878929920",
+			"text": "Some eye-opening stats from Wolfgang Digital's Benchmark KPI UK study\nhttps://t.co/jtpfq6GtkH https://t.co/Y00gdHvni3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jtpfq6GtkH",
+						"expanded_url": "https://econsultancy.com/blog/68278-10-devastating-digital-marketing-stats-we-ve-seen-this-week/",
+						"display_url": "econsultancy.com/blog/68278-10-…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 774730391911411700,
+						"id_str": "774730391911411712",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/CsBlL86UMAAvOSp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsBlL86UMAAvOSp.jpg",
+						"url": "https://t.co/Y00gdHvni3",
+						"display_url": "pic.twitter.com/Y00gdHvni3",
+						"expanded_url": "https://twitter.com/digitalfuturist/status/774730572878929920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 675,
+								"h": 599,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 599,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 675,
+								"h": 599,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 774730391911411700,
+						"id_str": "774730391911411712",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/CsBlL86UMAAvOSp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsBlL86UMAAvOSp.jpg",
+						"url": "https://t.co/Y00gdHvni3",
+						"display_url": "pic.twitter.com/Y00gdHvni3",
+						"expanded_url": "https://twitter.com/digitalfuturist/status/774730572878929920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 675,
+								"h": 599,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 599,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 675,
+								"h": 599,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://chrome.google.com/webstore/detail/chirp-for-twitter/mlocpcjojbacdcajmjmlfonfibnleede\" rel=\"nofollow\">Chirp (Twitter Chrome extension)</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 746360730920718300,
+				"id_str": "746360730920718336",
+				"name": "DIGITAL FUTURIST",
+				"screen_name": "digitalfuturist",
+				"location": "",
+				"description": "Business / Competitive Intelligence on Digital Disruption and the Future of Digital",
+				"url": "https://t.co/KnYliQ6uBv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KnYliQ6uBv",
+								"expanded_url": "http://news.futureof.digital",
+								"display_url": "news.futureof.digital",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45,
+				"friends_count": 55,
+				"listed_count": 8,
+				"created_at": "Fri Jun 24 15:14:00 +0000 2016",
+				"favourites_count": 19,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 66,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/751328844389376000/nRhNMn0W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/751328844389376000/nRhNMn0W_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/746360730920718336/1467951506",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 11 21:15:58 +0000 2016",
 		"id": 775080467208863700,
 		"id_str": "775080467208863744",
