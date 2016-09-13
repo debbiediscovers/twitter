@@ -1,6 +1,517 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Tue Sep 13 04:01:07 +0000 2016",
+		"id": 775544813638660100,
+		"id_str": "775544813638660099",
+		"text": "WOW lots of new tools that I've never heard of here (which is RARE!)! Def worth poking around! Thanks @robingood! 😻👌 https://t.co/NxmGNcX7TY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RobinGood",
+					"name": "Robin Good",
+					"id": 4700381,
+					"id_str": "4700381",
+					"indices": [
+						102,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NxmGNcX7TY",
+					"expanded_url": "https://twitter.com/RobinGood/status/774668991893831683",
+					"display_url": "twitter.com/RobinGood/stat…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10672,
+			"friends_count": 7747,
+			"listed_count": 887,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1789,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6001,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 774668991893831700,
+		"quoted_status_id_str": "774668991893831683",
+		"quoted_status": {
+			"created_at": "Sat Sep 10 18:00:54 +0000 2016",
+			"id": 774668991893831700,
+			"id_str": "774668991893831683",
+			"text": "Save time: daily picks of top (often free) marketing, design and collaboration tools https://t.co/jWgRu2b6t7 https://t.co/MOCQGgbUqa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jWgRu2b6t7",
+						"expanded_url": "http://bit.ly/1pg4jop",
+						"display_url": "bit.ly/1pg4jop",
+						"indices": [
+							85,
+							108
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 774668988181782500,
+						"id_str": "774668988181782530",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/CsAtVyMWIAIXnl6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsAtVyMWIAIXnl6.jpg",
+						"url": "https://t.co/MOCQGgbUqa",
+						"display_url": "pic.twitter.com/MOCQGgbUqa",
+						"expanded_url": "https://twitter.com/RobinGood/status/774668991893831683/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 331,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 331,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 331,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 774668988181782500,
+						"id_str": "774668988181782530",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/CsAtVyMWIAIXnl6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsAtVyMWIAIXnl6.jpg",
+						"url": "https://t.co/MOCQGgbUqa",
+						"display_url": "pic.twitter.com/MOCQGgbUqa",
+						"expanded_url": "https://twitter.com/RobinGood/status/774668991893831683/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 331,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 331,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 331,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.postpickr.com\" rel=\"nofollow\">PostPickr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4700381,
+				"id_str": "4700381",
+				"name": "Robin Good",
+				"screen_name": "RobinGood",
+				"location": "Sharewood - Terceira, Azores ",
+				"description": "Writer, Speaker, Outsider, Change-agent - focus on content curation, learning, marketing, design, collaboration https://t.co/1BAYuC8tfK",
+				"url": "http://t.co/3pN0QrEA8q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/3pN0QrEA8q",
+								"expanded_url": "http://masternewmedia.org",
+								"display_url": "masternewmedia.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1BAYuC8tfK",
+								"expanded_url": "http://tools.robingood.com",
+								"display_url": "tools.robingood.com",
+								"indices": [
+									112,
+									135
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 20422,
+				"friends_count": 797,
+				"listed_count": 1774,
+				"created_at": "Sun Apr 15 08:26:04 +0000 2007",
+				"favourites_count": 1892,
+				"utc_offset": 7200,
+				"time_zone": "Rome",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24846,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "111111",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/323311879/temp_kuvva_restore_production_7114_1.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/323311879/temp_kuvva_restore_production_7114_1.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/422066938085261312/NywK0qjF_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/422066938085261312/NywK0qjF_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4700381/1398244340",
+				"profile_link_color": "688C8C",
+				"profile_sidebar_border_color": "3C6666",
+				"profile_sidebar_fill_color": "3C6666",
+				"profile_text_color": "222222",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 13 03:58:16 +0000 2016",
+		"id": 775544096454697000,
+		"id_str": "775544096454696960",
+		"text": "@RobinGood WOW spent the whole morning on https://t.co/fFA5P2voRx #LOVED IT! So many cool new tools to try! 💓 💗 💖 https://t.co/izzIL0sUUF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOVED",
+					"indices": [
+						66,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RobinGood",
+					"name": "Robin Good",
+					"id": 4700381,
+					"id_str": "4700381",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fFA5P2voRx",
+					"expanded_url": "http://tools.robingood.com",
+					"display_url": "tools.robingood.com",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 775543926304313300,
+					"id_str": "775543926304313344",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CsNJF4sUkAAYlr1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CsNJF4sUkAAYlr1.jpg",
+					"url": "https://t.co/izzIL0sUUF",
+					"display_url": "pic.twitter.com/izzIL0sUUF",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/775544096454696960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 120,
+							"h": 120,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 120,
+							"h": 120,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 120,
+							"h": 120,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 120,
+							"h": 120,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 775543926304313300,
+					"id_str": "775543926304313344",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CsNJF4sUkAAYlr1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CsNJF4sUkAAYlr1.jpg",
+					"url": "https://t.co/izzIL0sUUF",
+					"display_url": "pic.twitter.com/izzIL0sUUF",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/775544096454696960/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 120,
+							"h": 120,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 120,
+							"h": 120,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 120,
+							"h": 120,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 120,
+							"h": 120,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/CsNJF4sUkAAYlr1.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 4700381,
+		"in_reply_to_user_id_str": "4700381",
+		"in_reply_to_screen_name": "RobinGood",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10672,
+			"friends_count": 7747,
+			"listed_count": 887,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1789,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6001,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 13 01:09:14 +0000 2016",
 		"id": 775501559492808700,
 		"id_str": "775501559492808704",
