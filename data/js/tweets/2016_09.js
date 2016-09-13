@@ -1,6 +1,985 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Tue Sep 13 20:46:50 +0000 2016",
+		"id": 775797911514914800,
+		"id_str": "775797911514914816",
+		"text": "RT @brainpicker: Celebrate Roald Dahl's 100th birthday with real recipes from his beloved children's books https://t.co/9jxtBO76Le https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brainpicker",
+					"name": "Maria Popova",
+					"id": 9207632,
+					"id_str": "9207632",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9jxtBO76Le",
+					"expanded_url": "https://www.brainpickings.org/2014/09/25/roald-dahl-revolting-recipes/",
+					"display_url": "brainpickings.org/2014/09/25/roa…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 775696074161942500,
+					"id_str": "775696074161942529",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CsPTeDoWcAE6jC2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsPTeDoWcAE6jC2.jpg",
+					"url": "https://t.co/jneYymVqzl",
+					"display_url": "pic.twitter.com/jneYymVqzl",
+					"expanded_url": "https://twitter.com/brainpicker/status/775696076162600960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 775696076162601000,
+					"source_status_id_str": "775696076162600960",
+					"source_user_id": 9207632,
+					"source_user_id_str": "9207632"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 775696074161942500,
+					"id_str": "775696074161942529",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CsPTeDoWcAE6jC2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsPTeDoWcAE6jC2.jpg",
+					"url": "https://t.co/jneYymVqzl",
+					"display_url": "pic.twitter.com/jneYymVqzl",
+					"expanded_url": "https://twitter.com/brainpicker/status/775696076162600960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 775696076162601000,
+					"source_status_id_str": "775696076162600960",
+					"source_user_id": 9207632,
+					"source_user_id_str": "9207632"
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10829,
+			"friends_count": 8665,
+			"listed_count": 888,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1805,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6018,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 13 14:02:10 +0000 2016",
+			"id": 775696076162601000,
+			"id_str": "775696076162600960",
+			"text": "Celebrate Roald Dahl's 100th birthday with real recipes from his beloved children's books https://t.co/9jxtBO76Le https://t.co/jneYymVqzl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9jxtBO76Le",
+						"expanded_url": "https://www.brainpickings.org/2014/09/25/roald-dahl-revolting-recipes/",
+						"display_url": "brainpickings.org/2014/09/25/roa…",
+						"indices": [
+							90,
+							113
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 775696074161942500,
+						"id_str": "775696074161942529",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CsPTeDoWcAE6jC2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsPTeDoWcAE6jC2.jpg",
+						"url": "https://t.co/jneYymVqzl",
+						"display_url": "pic.twitter.com/jneYymVqzl",
+						"expanded_url": "https://twitter.com/brainpicker/status/775696076162600960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 315,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 315,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 315,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 775696074161942500,
+						"id_str": "775696074161942529",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CsPTeDoWcAE6jC2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsPTeDoWcAE6jC2.jpg",
+						"url": "https://t.co/jneYymVqzl",
+						"display_url": "pic.twitter.com/jneYymVqzl",
+						"expanded_url": "https://twitter.com/brainpicker/status/775696076162600960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 315,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 315,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 315,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9207632,
+				"id_str": "9207632",
+				"name": "Maria Popova",
+				"screen_name": "brainpicker",
+				"location": "Brooklyn, NY",
+				"description": "Reader/writer. Founder of @brainpickings. MIT Fellow.",
+				"url": "http://t.co/j1Rss5YgMu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/j1Rss5YgMu",
+								"expanded_url": "http://brainpickings.org",
+								"display_url": "brainpickings.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 694552,
+				"friends_count": 298,
+				"listed_count": 25350,
+				"created_at": "Tue Oct 02 14:18:16 +0000 2007",
+				"favourites_count": 232,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 108991,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFDB00",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/497431340292128768/pY1bFk_F.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/497431340292128768/pY1bFk_F.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/577255253852065794/qGnSwsBR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/577255253852065794/qGnSwsBR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9207632/1430428764",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EBEAE5",
+				"profile_text_color": "3F3F3F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 72,
+			"favorite_count": 96,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 13 20:44:55 +0000 2016",
+		"id": 775797431577423900,
+		"id_str": "775797431577423872",
+		"text": "@rossahall That was my Facebook #hack post btw 😛 Over 5,000 shares (almost 6K) without boosting or paying a cent.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hack",
+					"indices": [
+						32,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rossahall",
+					"name": "Ross Hall",
+					"id": 1550814752,
+					"id_str": "1550814752",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 775795765323165700,
+		"in_reply_to_status_id_str": "775795765323165696",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10829,
+			"friends_count": 8665,
+			"listed_count": 888,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1805,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6018,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 13 20:38:18 +0000 2016",
+		"id": 775795765323165700,
+		"id_str": "775795765323165696",
+		"text": "@rossahall LOL.Tried that b4. Google Translate can barely do Mandarin - doubt they can handle Japanese https://t.co/eMoQKStqUM (last pic)㊙️",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rossahall",
+					"name": "Ross Hall",
+					"id": 1550814752,
+					"id_str": "1550814752",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eMoQKStqUM",
+					"expanded_url": "https://deb.bi/Facebook-PengLiYuanAlbum",
+					"display_url": "deb.bi/Facebook-PengL…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 775792603602223100,
+		"in_reply_to_status_id_str": "775792603602223104",
+		"in_reply_to_user_id": 1550814752,
+		"in_reply_to_user_id_str": "1550814752",
+		"in_reply_to_screen_name": "rossahall",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10829,
+			"friends_count": 8665,
+			"listed_count": 888,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1805,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6018,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 13 20:23:30 +0000 2016",
+		"id": 775792041091477500,
+		"id_str": "775792041091477505",
+		"text": "RT @RobinGood: Top 100 Crowdfunding Services - vetted and organized by categories and countries https://t.co/VVJthuStTg https://t.co/qdBB4L…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RobinGood",
+					"name": "Robin Good",
+					"id": 4700381,
+					"id_str": "4700381",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VVJthuStTg",
+					"expanded_url": "http://bit.ly/1o1Y86y",
+					"display_url": "bit.ly/1o1Y86y",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 770282591857631200,
+					"id_str": "770282591857631232",
+					"indices": [
+						120,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CrCX76hXYAAoh8m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CrCX76hXYAAoh8m.jpg",
+					"url": "https://t.co/qdBB4Ldb6V",
+					"display_url": "pic.twitter.com/qdBB4Ldb6V",
+					"expanded_url": "https://twitter.com/RobinGood/status/770282595590471680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 774,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 774,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 527,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 770282595590471700,
+					"source_status_id_str": "770282595590471680",
+					"source_user_id": 4700381,
+					"source_user_id_str": "4700381"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 770282591857631200,
+					"id_str": "770282591857631232",
+					"indices": [
+						120,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CrCX76hXYAAoh8m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CrCX76hXYAAoh8m.jpg",
+					"url": "https://t.co/qdBB4Ldb6V",
+					"display_url": "pic.twitter.com/qdBB4Ldb6V",
+					"expanded_url": "https://twitter.com/RobinGood/status/770282595590471680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 774,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 774,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 527,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 770282595590471700,
+					"source_status_id_str": "770282595590471680",
+					"source_user_id": 4700381,
+					"source_user_id_str": "4700381"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10829,
+			"friends_count": 8665,
+			"listed_count": 888,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1805,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6018,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 29 15:30:56 +0000 2016",
+			"id": 770282595590471700,
+			"id_str": "770282595590471680",
+			"text": "Top 100 Crowdfunding Services - vetted and organized by categories and countries https://t.co/VVJthuStTg https://t.co/qdBB4Ldb6V",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VVJthuStTg",
+						"expanded_url": "http://bit.ly/1o1Y86y",
+						"display_url": "bit.ly/1o1Y86y",
+						"indices": [
+							81,
+							104
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 770282591857631200,
+						"id_str": "770282591857631232",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/CrCX76hXYAAoh8m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrCX76hXYAAoh8m.jpg",
+						"url": "https://t.co/qdBB4Ldb6V",
+						"display_url": "pic.twitter.com/qdBB4Ldb6V",
+						"expanded_url": "https://twitter.com/RobinGood/status/770282595590471680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 774,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 774,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 527,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 770282591857631200,
+						"id_str": "770282591857631232",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/CrCX76hXYAAoh8m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrCX76hXYAAoh8m.jpg",
+						"url": "https://t.co/qdBB4Ldb6V",
+						"display_url": "pic.twitter.com/qdBB4Ldb6V",
+						"expanded_url": "https://twitter.com/RobinGood/status/770282595590471680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 774,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 774,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 527,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.postpickr.com\" rel=\"nofollow\">PostPickr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4700381,
+				"id_str": "4700381",
+				"name": "Robin Good",
+				"screen_name": "RobinGood",
+				"location": "Sharewood - Terceira, Azores ",
+				"description": "Writer, Speaker, Outsider, Change-agent - focus on content curation, learning, marketing, design, collaboration https://t.co/1BAYuC8tfK",
+				"url": "http://t.co/3pN0QrEA8q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/3pN0QrEA8q",
+								"expanded_url": "http://masternewmedia.org",
+								"display_url": "masternewmedia.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1BAYuC8tfK",
+								"expanded_url": "http://tools.robingood.com",
+								"display_url": "tools.robingood.com",
+								"indices": [
+									112,
+									135
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 20424,
+				"friends_count": 797,
+				"listed_count": 1774,
+				"created_at": "Sun Apr 15 08:26:04 +0000 2007",
+				"favourites_count": 1896,
+				"utc_offset": 7200,
+				"time_zone": "Rome",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24852,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "111111",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/323311879/temp_kuvva_restore_production_7114_1.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/323311879/temp_kuvva_restore_production_7114_1.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/422066938085261312/NywK0qjF_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/422066938085261312/NywK0qjF_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4700381/1398244340",
+				"profile_link_color": "688C8C",
+				"profile_sidebar_border_color": "3C6666",
+				"profile_sidebar_fill_color": "3C6666",
+				"profile_text_color": "222222",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 13 19:48:08 +0000 2016",
 		"id": 775783141478797300,
 		"id_str": "775783141478797312",
