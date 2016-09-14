@@ -1,6 +1,547 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 20:05:40 +0000 2016",
+		"id": 776149940904927200,
+		"id_str": "776149940904927232",
+		"text": "@UoNBiosciences I would warn students against overhashtagging as well. Looks unprofessional. Esp if Storifying! (Just my suggestions! 😊)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UoNBiosciences",
+					"name": "UoNBiosciences",
+					"id": 2496153152,
+					"id_str": "2496153152",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 776148576854380500,
+		"in_reply_to_status_id_str": "776148576854380545",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10890,
+			"friends_count": 8371,
+			"listed_count": 891,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1811,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6031,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 14 20:00:15 +0000 2016",
+		"id": 776148576854380500,
+		"id_str": "776148576854380545",
+		"text": "@UoNBioSciences IMHO Students should use a proper profile pic during hosted Twitter chats \nhttps://t.co/UPse36x9bW https://t.co/j6bRWOPH5t",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UoNBiosciences",
+					"name": "UoNBiosciences",
+					"id": 2496153152,
+					"id_str": "2496153152",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UPse36x9bW",
+					"expanded_url": "https://storify.com/UoNBioscicareer/d224g1-professional-skills",
+					"display_url": "storify.com/UoNBioscicaree…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 776140093597724700,
+					"id_str": "776140093597724672",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/CsVnTY7UsAAH1FF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsVnTY7UsAAH1FF.jpg",
+					"url": "https://t.co/j6bRWOPH5t",
+					"display_url": "pic.twitter.com/j6bRWOPH5t",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/776148576854380545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 541,
+							"h": 484,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 484,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 776140093597724700,
+					"id_str": "776140093597724672",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/CsVnTY7UsAAH1FF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsVnTY7UsAAH1FF.jpg",
+					"url": "https://t.co/j6bRWOPH5t",
+					"display_url": "pic.twitter.com/j6bRWOPH5t",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/776148576854380545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 541,
+							"h": 484,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 484,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://chrome.google.com/webstore/detail/chirp-for-twitter/mlocpcjojbacdcajmjmlfonfibnleede\" rel=\"nofollow\">Chirp (Twitter Chrome extension)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2496153152,
+		"in_reply_to_user_id_str": "2496153152",
+		"in_reply_to_screen_name": "UoNBiosciences",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10890,
+			"friends_count": 8371,
+			"listed_count": 891,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1811,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6031,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 14 19:39:39 +0000 2016",
+		"id": 776143392501665800,
+		"id_str": "776143392501665793",
+		"text": "@UoNBioscicareer @PlantTeaching #LOVEIT!!  FYI US kids are on Twitter networking Professors for College Admissions https://t.co/mkLv8yyL2S",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOVEIT",
+					"indices": [
+						32,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UoNBioscicareer",
+					"name": "UoNBioscienceCareers",
+					"id": 386454644,
+					"id_str": "386454644",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "PlantTeaching",
+					"name": "mary williams",
+					"id": 416105754,
+					"id_str": "416105754",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mkLv8yyL2S",
+					"expanded_url": "https://twitter.com/PlantTeaching/status/766584721778376704",
+					"display_url": "twitter.com/PlantTeaching/…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 386454644,
+		"in_reply_to_user_id_str": "386454644",
+		"in_reply_to_screen_name": "UoNBioscicareer",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10890,
+			"friends_count": 8371,
+			"listed_count": 891,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1811,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6031,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 766584721778376700,
+		"quoted_status_id_str": "766584721778376704",
+		"quoted_status": {
+			"created_at": "Fri Aug 19 10:36:54 +0000 2016",
+			"id": 766584721778376700,
+			"id_str": "766584721778376704",
+			"text": "Developing students’ digital identity through guided Twitter networking. Guestpost on @ASPB blog by @UoNBioscicareer https://t.co/WX7ZKWidUG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ASPB",
+						"name": "ASPB",
+						"id": 17969659,
+						"id_str": "17969659",
+						"indices": [
+							86,
+							91
+						]
+					},
+					{
+						"screen_name": "UoNBioscicareer",
+						"name": "UoNBioscienceCareers",
+						"id": 386454644,
+						"id_str": "386454644",
+						"indices": [
+							100,
+							116
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WX7ZKWidUG",
+						"expanded_url": "http://blog.aspb.org/2016/08/19/developing-students-digital-identity-through-guided-twitter-networking/",
+						"display_url": "blog.aspb.org/2016/08/19/dev…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 416105754,
+				"id_str": "416105754",
+				"name": "mary williams",
+				"screen_name": "PlantTeaching",
+				"location": "Glasgow and the world",
+				"description": "Features Editor, The Plant Cell, working to promote plant science literacy and skillful teaching. Ex-Professor, now American Society of Plant Biologists.",
+				"url": "http://t.co/GAf6CTOiyl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/GAf6CTOiyl",
+								"expanded_url": "http://www.plantcell.org/site/teachingtools/teaching.xhtml",
+								"display_url": "plantcell.org/site/teachingt…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5157,
+				"friends_count": 3492,
+				"listed_count": 257,
+				"created_at": "Sat Nov 19 07:19:36 +0000 2011",
+				"favourites_count": 18918,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19041,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623841664105365504/oRqUs5Xo.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623841664105365504/oRqUs5Xo.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1648376185/WeeLogo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1648376185/WeeLogo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/416105754/1397732357",
+				"profile_link_color": "00B354",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 14 19:03:34 +0000 2016",
 		"id": 776134310432694300,
 		"id_str": "776134310432694272",
