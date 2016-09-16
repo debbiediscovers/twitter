@@ -1,6 +1,1073 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 09:11:16 +0000 2016",
+		"id": 776710032213758000,
+		"id_str": "776710032213757952",
+		"text": "RT @Guillaume_: How @parsehub got its first 10 paying #SaaS customers #GrowthHacking #Marketing #startup #earlystage https://t.co/LW56EMTuL4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SaaS",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "GrowthHacking",
+					"indices": [
+						70,
+						84
+					]
+				},
+				{
+					"text": "Marketing",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"text": "startup",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "earlystage",
+					"indices": [
+						105,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Guillaume_",
+					"name": "Guillaume Dumortier",
+					"id": 5746172,
+					"id_str": "5746172",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "parsehub",
+					"name": "ParseHub",
+					"id": 2828500584,
+					"id_str": "2828500584",
+					"indices": [
+						20,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LW56EMTuL4",
+					"expanded_url": "https://blog.parsehub.com/how-we-got-our-first-10-paying-saas-customers/?utm_campaign=Submission&utm_medium=Community&utm_source=GrowthHackers.com",
+					"display_url": "blog.parsehub.com/how-we-got-our…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10954,
+			"friends_count": 8276,
+			"listed_count": 895,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1824,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6051,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 02 01:25:41 +0000 2016",
+			"id": 749051386877210600,
+			"id_str": "749051386877210624",
+			"text": "How @parsehub got its first 10 paying #SaaS customers #GrowthHacking #Marketing #startup #earlystage https://t.co/LW56EMTuL4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SaaS",
+						"indices": [
+							38,
+							43
+						]
+					},
+					{
+						"text": "GrowthHacking",
+						"indices": [
+							54,
+							68
+						]
+					},
+					{
+						"text": "Marketing",
+						"indices": [
+							69,
+							79
+						]
+					},
+					{
+						"text": "startup",
+						"indices": [
+							80,
+							88
+						]
+					},
+					{
+						"text": "earlystage",
+						"indices": [
+							89,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "parsehub",
+						"name": "ParseHub",
+						"id": 2828500584,
+						"id_str": "2828500584",
+						"indices": [
+							4,
+							13
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/LW56EMTuL4",
+						"expanded_url": "https://blog.parsehub.com/how-we-got-our-first-10-paying-saas-customers/?utm_campaign=Submission&utm_medium=Community&utm_source=GrowthHackers.com",
+						"display_url": "blog.parsehub.com/how-we-got-our…",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5746172,
+				"id_str": "5746172",
+				"name": "Guillaume Dumortier",
+				"screen_name": "Guillaume_",
+				"location": "Los Altos, CA",
+				"description": "Chief concierge @growthconcierge Marketing Leader & MBA Teacher. Former growth @Algolia, @Kwartr. @BouyguesTelecom, @Loreal, @RedBull marketing alumni",
+				"url": "https://t.co/ekAAqkHyxU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ekAAqkHyxU",
+								"expanded_url": "http://guillaumedumortier.com",
+								"display_url": "guillaumedumortier.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2634,
+				"friends_count": 911,
+				"listed_count": 263,
+				"created_at": "Thu May 03 17:21:40 +0000 2007",
+				"favourites_count": 4774,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11995,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/745763725789954048/E9ol1Bpt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/745763725789954048/E9ol1Bpt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5746172/1466809036",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 16 09:10:29 +0000 2016",
+		"id": 776709831679803400,
+		"id_str": "776709831679803392",
+		"text": "RT @programmableweb: How to Mine Tweets for Sentiment Analysis with the ParseHub API https://t.co/XN2x1qKMMD  #API",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "API",
+					"indices": [
+						110,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "programmableweb",
+					"name": "ProgrammableWeb",
+					"id": 17413602,
+					"id_str": "17413602",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XN2x1qKMMD",
+					"expanded_url": "http://bit.ly/29WEwTV",
+					"display_url": "bit.ly/29WEwTV",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10954,
+			"friends_count": 8276,
+			"listed_count": 895,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1824,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6051,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 21 17:02:03 +0000 2016",
+			"id": 756172400706879500,
+			"id_str": "756172400706879488",
+			"text": "How to Mine Tweets for Sentiment Analysis with the ParseHub API https://t.co/XN2x1qKMMD  #API",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "API",
+						"indices": [
+							89,
+							93
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XN2x1qKMMD",
+						"expanded_url": "http://bit.ly/29WEwTV",
+						"display_url": "bit.ly/29WEwTV",
+						"indices": [
+							64,
+							87
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://trueanthem.com/\" rel=\"nofollow\">trueAnthem</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17413602,
+				"id_str": "17413602",
+				"name": "ProgrammableWeb",
+				"screen_name": "programmableweb",
+				"location": "San Francisco",
+				"description": "ProgrammableWeb is the world's leading source of news and information about Internet-based application programming interfaces. #API",
+				"url": "http://t.co/pDfB5xEP5E",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/pDfB5xEP5E",
+								"expanded_url": "http://www.programmableweb.com",
+								"display_url": "programmableweb.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26207,
+				"friends_count": 2570,
+				"listed_count": 2788,
+				"created_at": "Sat Nov 15 21:56:56 +0000 2008",
+				"favourites_count": 4378,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 32982,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0076BB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/474267807761190913/3lLv19ZR.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/474267807761190913/3lLv19ZR.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/461304924672774144/7Y4K_YPl_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/461304924672774144/7Y4K_YPl_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17413602/1400085294",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 16 09:09:59 +0000 2016",
+		"id": 776709705905283100,
+		"id_str": "776709705905283072",
+		"text": "@RodyZakovich @sirvizalot @Harris7Curtis @acrahen just started playing with @parsehub So far so good. But I miss Kimonolabs boo.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RodyZakovich",
+					"name": "Rody Zakovich",
+					"id": 2515725199,
+					"id_str": "2515725199",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "sirvizalot",
+					"name": "Matt Chambers",
+					"id": 2460112627,
+					"id_str": "2460112627",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "Harris7Curtis",
+					"name": "Curtis Harris",
+					"id": 1929123475,
+					"id_str": "1929123475",
+					"indices": [
+						26,
+						40
+					]
+				},
+				{
+					"screen_name": "acrahen",
+					"name": "Adam Crahen",
+					"id": 28929696,
+					"id_str": "28929696",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"screen_name": "parsehub",
+					"name": "ParseHub",
+					"id": 2828500584,
+					"id_str": "2828500584",
+					"indices": [
+						76,
+						85
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 763175314973401100,
+		"in_reply_to_status_id_str": "763175314973401088",
+		"in_reply_to_user_id": 2515725199,
+		"in_reply_to_user_id_str": "2515725199",
+		"in_reply_to_screen_name": "RodyZakovich",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10954,
+			"friends_count": 8276,
+			"listed_count": 895,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1824,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6051,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 16 08:58:07 +0000 2016",
+		"id": 776706719585972200,
+		"id_str": "776706719585972225",
+		"text": "RT @littlecodersSG: How to Explain Algorithms to Kids https://t.co/ySbEyXBjuk via @gotynker https://t.co/Iyk6Cgh3or",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "littlecodersSG",
+					"name": "Little Coders SG",
+					"id": 3188621004,
+					"id_str": "3188621004",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "gotynker",
+					"name": "Tynker",
+					"id": 1244786665,
+					"id_str": "1244786665",
+					"indices": [
+						82,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ySbEyXBjuk",
+					"expanded_url": "http://www.tynker.com/blog/articles/ideas-and-tips/how-to-explain-algorithms-to-kids/",
+					"display_url": "tynker.com/blog/articles/…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 776706452803113000,
+					"id_str": "776706452803112960",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/CsdqZ1YVUAAh_DD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsdqZ1YVUAAh_DD.jpg",
+					"url": "https://t.co/Iyk6Cgh3or",
+					"display_url": "pic.twitter.com/Iyk6Cgh3or",
+					"expanded_url": "https://twitter.com/littlecodersSG/status/776706513553338369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 479,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 851,
+							"h": 599,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 851,
+							"h": 599,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 776706513553338400,
+					"source_status_id_str": "776706513553338369",
+					"source_user_id": 3188621004,
+					"source_user_id_str": "3188621004"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 776706452803113000,
+					"id_str": "776706452803112960",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/CsdqZ1YVUAAh_DD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsdqZ1YVUAAh_DD.jpg",
+					"url": "https://t.co/Iyk6Cgh3or",
+					"display_url": "pic.twitter.com/Iyk6Cgh3or",
+					"expanded_url": "https://twitter.com/littlecodersSG/status/776706513553338369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 479,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 851,
+							"h": 599,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 851,
+							"h": 599,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 776706513553338400,
+					"source_status_id_str": "776706513553338369",
+					"source_user_id": 3188621004,
+					"source_user_id_str": "3188621004"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10954,
+			"friends_count": 8276,
+			"listed_count": 895,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1824,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6051,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 16 08:57:17 +0000 2016",
+			"id": 776706513553338400,
+			"id_str": "776706513553338369",
+			"text": "How to Explain Algorithms to Kids https://t.co/ySbEyXBjuk via @gotynker https://t.co/Iyk6Cgh3or",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "gotynker",
+						"name": "Tynker",
+						"id": 1244786665,
+						"id_str": "1244786665",
+						"indices": [
+							62,
+							71
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ySbEyXBjuk",
+						"expanded_url": "http://www.tynker.com/blog/articles/ideas-and-tips/how-to-explain-algorithms-to-kids/",
+						"display_url": "tynker.com/blog/articles/…",
+						"indices": [
+							34,
+							57
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 776706452803113000,
+						"id_str": "776706452803112960",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/CsdqZ1YVUAAh_DD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsdqZ1YVUAAh_DD.jpg",
+						"url": "https://t.co/Iyk6Cgh3or",
+						"display_url": "pic.twitter.com/Iyk6Cgh3or",
+						"expanded_url": "https://twitter.com/littlecodersSG/status/776706513553338369/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 479,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 851,
+								"h": 599,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 851,
+								"h": 599,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 776706452803113000,
+						"id_str": "776706452803112960",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/CsdqZ1YVUAAh_DD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsdqZ1YVUAAh_DD.jpg",
+						"url": "https://t.co/Iyk6Cgh3or",
+						"display_url": "pic.twitter.com/Iyk6Cgh3or",
+						"expanded_url": "https://twitter.com/littlecodersSG/status/776706513553338369/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 479,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 851,
+								"h": 599,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 851,
+								"h": 599,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3188621004,
+				"id_str": "3188621004",
+				"name": "Little Coders SG",
+				"screen_name": "littlecodersSG",
+				"location": "Singapore",
+				"description": "Little Coders in Singapore",
+				"url": "http://t.co/tIMB1p1H5s",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tIMB1p1H5s",
+								"expanded_url": "http://www.littlecoders.sg",
+								"display_url": "littlecoders.sg",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 280,
+				"friends_count": 882,
+				"listed_count": 49,
+				"created_at": "Fri May 08 11:37:06 +0000 2015",
+				"favourites_count": 185,
+				"utc_offset": -39600,
+				"time_zone": "International Date Line West",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1024,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/660828387716411392/vWWGDPJK_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/660828387716411392/vWWGDPJK_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3188621004/1431619481",
+				"profile_link_color": "7BD7C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 16 07:58:01 +0000 2016",
 		"id": 776691595164934100,
 		"id_str": "776691595164934144",
