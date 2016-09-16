@@ -1,6 +1,786 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 23:02:03 +0000 2016",
+		"id": 776919104691183600,
+		"id_str": "776919104691183616",
+		"text": "@kcclaveria @randfish saw that too! \"Internet of Things\" and \"Design in Tech\" are great examples of 10X content coming from @kpcb @johnmaeda",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kcclaveria",
+					"name": "Kelvin (KC) Claveria",
+					"id": 35504178,
+					"id_str": "35504178",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "randfish",
+					"name": "Rand Fishkin",
+					"id": 6527972,
+					"id_str": "6527972",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "kpcb",
+					"name": "Kleiner Perkins",
+					"id": 185808487,
+					"id_str": "185808487",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"screen_name": "johnmaeda",
+					"name": "John Maeda",
+					"id": 15414807,
+					"id_str": "15414807",
+					"indices": [
+						130,
+						140
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 776207654830108700,
+		"in_reply_to_status_id_str": "776207654830108673",
+		"in_reply_to_user_id": 35504178,
+		"in_reply_to_user_id_str": "35504178",
+		"in_reply_to_screen_name": "kcclaveria",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10972,
+			"friends_count": 7641,
+			"listed_count": 909,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1210,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 16 22:53:45 +0000 2016",
+		"id": 776917016359809000,
+		"id_str": "776917016359809024",
+		"text": "#DOWNLOAD all the speaker decks from #MozCon Great resource! Great stuff @CyrusShepard!  🌟👍🏼 💞 https://t.co/AiCjfkem3f",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DOWNLOAD",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "MozCon",
+					"indices": [
+						37,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CyrusShepard",
+					"name": "Cyrus Shepard",
+					"id": 218620803,
+					"id_str": "218620803",
+					"indices": [
+						73,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AiCjfkem3f",
+					"expanded_url": "https://twitter.com/CyrusShepard/status/776509358456709121",
+					"display_url": "twitter.com/CyrusShepard/s…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10972,
+			"friends_count": 7641,
+			"listed_count": 909,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1210,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 776509358456709100,
+		"quoted_status_id_str": "776509358456709121",
+		"quoted_status": {
+			"created_at": "Thu Sep 15 19:53:52 +0000 2016",
+			"id": 776509358456709100,
+			"id_str": "776509358456709121",
+			"text": "If you missed #MozCon, you can download the speaker decks for free here: https://t.co/7MAaCmiC8b https://t.co/jQW0Zl9i4m",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MozCon",
+						"indices": [
+							14,
+							21
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7MAaCmiC8b",
+						"expanded_url": "https://moz.com/mozcon#schedule",
+						"display_url": "moz.com/mozcon#schedule",
+						"indices": [
+							73,
+							96
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 776509201484877800,
+						"id_str": "776509201484877824",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/Csa3AS9UEAAkvtK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Csa3AS9UEAAkvtK.jpg",
+						"url": "https://t.co/jQW0Zl9i4m",
+						"display_url": "pic.twitter.com/jQW0Zl9i4m",
+						"expanded_url": "https://twitter.com/CyrusShepard/status/776509358456709121/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 355,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 914,
+								"h": 477,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 914,
+								"h": 477,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 776509201484877800,
+						"id_str": "776509201484877824",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/Csa3AS9UEAAkvtK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Csa3AS9UEAAkvtK.jpg",
+						"url": "https://t.co/jQW0Zl9i4m",
+						"display_url": "pic.twitter.com/jQW0Zl9i4m",
+						"expanded_url": "https://twitter.com/CyrusShepard/status/776509358456709121/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 355,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 914,
+								"h": 477,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 914,
+								"h": 477,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 218620803,
+				"id_str": "218620803",
+				"name": "Cyrus Shepard",
+				"screen_name": "CyrusShepard",
+				"location": "Earth",
+				"description": "Co-creator of Fazillion Media. Former Head of SEO and Content, @Moz. Tweets about higher search rankings, CRO, and awesome content. Not bad looking.",
+				"url": "https://t.co/tT3bmyC43x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tT3bmyC43x",
+								"expanded_url": "http://cyrusshepard.com",
+								"display_url": "cyrusshepard.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34967,
+				"friends_count": 222,
+				"listed_count": 1809,
+				"created_at": "Mon Nov 22 20:43:28 +0000 2010",
+				"favourites_count": 16578,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12902,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/516734618746109953/YcmUN6MV.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/516734618746109953/YcmUN6MV.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/709831363315113984/IsuhKEmC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/709831363315113984/IsuhKEmC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/218620803/1459200894",
+				"profile_link_color": "90080A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 42,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 16 22:48:06 +0000 2016",
+		"id": 776915592330616800,
+		"id_str": "776915592330616832",
+		"text": "@DesBrassfield @TheCoolestCool LOVE that!!! %%%",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DesBrassfield",
+					"name": "Destiny Brassfield",
+					"id": 363649321,
+					"id_str": "363649321",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "TheCoolestCool",
+					"name": "Ross Simmonds",
+					"id": 22042254,
+					"id_str": "22042254",
+					"indices": [
+						15,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 775474221577232400,
+		"in_reply_to_status_id_str": "775474221577232384",
+		"in_reply_to_user_id": 363649321,
+		"in_reply_to_user_id_str": "363649321",
+		"in_reply_to_screen_name": "DesBrassfield",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10972,
+			"friends_count": 7641,
+			"listed_count": 909,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1210,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 16 22:47:49 +0000 2016",
+		"id": 776915521363071000,
+		"id_str": "776915521363070976",
+		"text": "RT @DesBrassfield: “All life is an experiment. The more experiments you make, the better.\" - Ralph Waldo Emerson\n\n@TheCoolestCool #MozCon",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MozCon",
+					"indices": [
+						130,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DesBrassfield",
+					"name": "Destiny Brassfield",
+					"id": 363649321,
+					"id_str": "363649321",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "TheCoolestCool",
+					"name": "Ross Simmonds",
+					"id": 22042254,
+					"id_str": "22042254",
+					"indices": [
+						114,
+						129
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10972,
+			"friends_count": 7641,
+			"listed_count": 909,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1210,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 12 23:20:36 +0000 2016",
+			"id": 775474221577232400,
+			"id_str": "775474221577232384",
+			"text": "“All life is an experiment. The more experiments you make, the better.\" - Ralph Waldo Emerson\n\n@TheCoolestCool #MozCon",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MozCon",
+						"indices": [
+							111,
+							118
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TheCoolestCool",
+						"name": "Ross Simmonds",
+						"id": 22042254,
+						"id_str": "22042254",
+						"indices": [
+							95,
+							110
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 363649321,
+				"id_str": "363649321",
+				"name": "Destiny Brassfield",
+				"screen_name": "DesBrassfield",
+				"location": "Denver, CO",
+				"description": "Data Analyst at @GigSalad. On a mission to see the world and find happiness, one adventure at a time. In my spare time, I own an Etsy shop, Kindred Makers.",
+				"url": "https://t.co/1vJhmErJUe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1vJhmErJUe",
+								"expanded_url": "https://www.etsy.com/shop/KindredMakers",
+								"display_url": "etsy.com/shop/KindredMa…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 445,
+				"friends_count": 1045,
+				"listed_count": 37,
+				"created_at": "Sun Aug 28 13:14:58 +0000 2011",
+				"favourites_count": 1795,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1442,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/467012892689059840/WF81KUiY.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/467012892689059840/WF81KUiY.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/773225237408120832/4KC_9SNl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/773225237408120832/4KC_9SNl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/363649321/1473181798",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 16 11:11:01 +0000 2016",
 		"id": 776740167558111200,
 		"id_str": "776740167558111234",
