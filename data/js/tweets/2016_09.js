@@ -1,6 +1,682 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Thu Sep 22 18:33:08 +0000 2016",
+		"id": 779025756479303700,
+		"id_str": "779025756479303680",
+		"text": "RT @ariellemargot: @debbiediscovers @GoldStarMedia @sbruington Hi #bufferchat friends! I added your tweets to this week's recap :) https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bufferchat",
+					"indices": [
+						66,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ariellemargot",
+					"name": "Arielle from Buffer",
+					"id": 342252352,
+					"id_str": "342252352",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						19,
+						35
+					]
+				},
+				{
+					"screen_name": "GoldStarMedia",
+					"name": "Clive Jones",
+					"id": 456331436,
+					"id_str": "456331436",
+					"indices": [
+						36,
+						50
+					]
+				},
+				{
+					"screen_name": "sbruington",
+					"name": "Stephen Bruington",
+					"id": 14682612,
+					"id_str": "14682612",
+					"indices": [
+						51,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11036,
+			"friends_count": 7910,
+			"listed_count": 928,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1252,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6177,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 22 18:11:37 +0000 2016",
+			"id": 779020342907940900,
+			"id_str": "779020342907940864",
+			"text": "@debbiediscovers @GoldStarMedia @sbruington Hi #bufferchat friends! I added your tweets to this week's recap :) https://t.co/LiaTzBlY04",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "bufferchat",
+						"indices": [
+							47,
+							58
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							0,
+							16
+						]
+					},
+					{
+						"screen_name": "GoldStarMedia",
+						"name": "Clive Jones",
+						"id": 456331436,
+						"id_str": "456331436",
+						"indices": [
+							17,
+							31
+						]
+					},
+					{
+						"screen_name": "sbruington",
+						"name": "Stephen Bruington",
+						"id": 14682612,
+						"id_str": "14682612",
+						"indices": [
+							32,
+							43
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/LiaTzBlY04",
+						"expanded_url": "https://blog.bufferapp.com/marketing-with-ifttt-bufferchat-recap",
+						"display_url": "blog.bufferapp.com/marketing-with…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 3060836348,
+			"in_reply_to_user_id_str": "3060836348",
+			"in_reply_to_screen_name": "debbiediscovers",
+			"user": {
+				"id": 342252352,
+				"id_str": "342252352",
+				"name": "Arielle from Buffer",
+				"screen_name": "ariellemargot",
+				"location": "Philadelphia, PA",
+				"description": "Community at @Buffer | Lover of vegetables, yoga, cooking, dancing & green things | Exploring happiness, eating healthy & living mindfully.",
+				"url": "https://t.co/D3Zll3Ab8J",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/D3Zll3Ab8J",
+								"expanded_url": "http://www.ariellemargot.com",
+								"display_url": "ariellemargot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1572,
+				"friends_count": 530,
+				"listed_count": 206,
+				"created_at": "Mon Jul 25 18:28:08 +0000 2011",
+				"favourites_count": 1124,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4311,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/709209379803963396/d4Zt7Wa4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/709209379803963396/d4Zt7Wa4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/342252352/1398794171",
+				"profile_link_color": "EB842A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 22 18:14:03 +0000 2016",
+		"id": 779020952579428400,
+		"id_str": "779020952579428352",
+		"text": "RT @typesofkind: Do something good today #thursdaythoughts #30shadesofkind\n#EC407A https://t.co/p5m65BYTM6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "thursdaythoughts",
+					"indices": [
+						41,
+						58
+					]
+				},
+				{
+					"text": "30shadesofkind",
+					"indices": [
+						59,
+						74
+					]
+				},
+				{
+					"text": "EC407A",
+					"indices": [
+						75,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "typesofkind",
+					"name": "Types of Kind",
+					"id": 4915049292,
+					"id_str": "4915049292",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 779019721882624000,
+					"id_str": "779019721882624000",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/Cs-iT0PWYAAj8o9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cs-iT0PWYAAj8o9.jpg",
+					"url": "https://t.co/p5m65BYTM6",
+					"display_url": "pic.twitter.com/p5m65BYTM6",
+					"expanded_url": "https://twitter.com/typesofkind/status/779019724244054020/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 779019724244054000,
+					"source_status_id_str": "779019724244054020",
+					"source_user_id": 4915049292,
+					"source_user_id_str": "4915049292"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 779019721882624000,
+					"id_str": "779019721882624000",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/Cs-iT0PWYAAj8o9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cs-iT0PWYAAj8o9.jpg",
+					"url": "https://t.co/p5m65BYTM6",
+					"display_url": "pic.twitter.com/p5m65BYTM6",
+					"expanded_url": "https://twitter.com/typesofkind/status/779019724244054020/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 779019724244054000,
+					"source_status_id_str": "779019724244054020",
+					"source_user_id": 4915049292,
+					"source_user_id_str": "4915049292"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11036,
+			"friends_count": 7910,
+			"listed_count": 928,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1252,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6177,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 22 18:09:10 +0000 2016",
+			"id": 779019724244054000,
+			"id_str": "779019724244054020",
+			"text": "Do something good today #thursdaythoughts #30shadesofkind\n#EC407A https://t.co/p5m65BYTM6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "thursdaythoughts",
+						"indices": [
+							24,
+							41
+						]
+					},
+					{
+						"text": "30shadesofkind",
+						"indices": [
+							42,
+							57
+						]
+					},
+					{
+						"text": "EC407A",
+						"indices": [
+							58,
+							65
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 779019721882624000,
+						"id_str": "779019721882624000",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/Cs-iT0PWYAAj8o9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cs-iT0PWYAAj8o9.jpg",
+						"url": "https://t.co/p5m65BYTM6",
+						"display_url": "pic.twitter.com/p5m65BYTM6",
+						"expanded_url": "https://twitter.com/typesofkind/status/779019724244054020/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 779019721882624000,
+						"id_str": "779019721882624000",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/Cs-iT0PWYAAj8o9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cs-iT0PWYAAj8o9.jpg",
+						"url": "https://t.co/p5m65BYTM6",
+						"display_url": "pic.twitter.com/p5m65BYTM6",
+						"expanded_url": "https://twitter.com/typesofkind/status/779019724244054020/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4915049292,
+				"id_str": "4915049292",
+				"name": "Types of Kind",
+				"screen_name": "typesofkind",
+				"location": "A Kind and Happy Place ❤️",
+				"description": "#typesofkind is a social experiment, a learning space. Where design, technology and random acts of kindness come together via social media! #30shadesofkind",
+				"url": "https://t.co/oh6SS75MgV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oh6SS75MgV",
+								"expanded_url": "http://typesofkind.tumblr.com",
+								"display_url": "typesofkind.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5,
+				"friends_count": 1,
+				"listed_count": 1,
+				"created_at": "Tue Feb 16 09:16:35 +0000 2016",
+				"favourites_count": 0,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/699557545732501504/lkwOBQLk_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/699557545732501504/lkwOBQLk_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4915049292/1455619018",
+				"profile_link_color": "900002",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 22 18:10:42 +0000 2016",
 		"id": 779020109624901600,
 		"id_str": "779020109624901632",
