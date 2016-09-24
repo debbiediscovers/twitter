@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Sat Sep 24 19:45:50 +0000 2016",
+		"id": 779768829123530800,
+		"id_str": "779768829123530753",
+		"text": "RT @MargauxDamain: Virtual and Augmented Reality Will Reshape #Retail - https://t.co/GRWgZtSFW6 #Digital #Innovation #VirtualReality #Augme…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Retail",
+					"indices": [
+						62,
+						69
+					]
+				},
+				{
+					"text": "Digital",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "Innovation",
+					"indices": [
+						105,
+						116
+					]
+				},
+				{
+					"text": "VirtualReality",
+					"indices": [
+						117,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MargauxDamain",
+					"name": "Margaux Damain",
+					"id": 1409713886,
+					"id_str": "1409713886",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GRWgZtSFW6",
+					"expanded_url": "http://ow.ly/9nwC304wOIG",
+					"display_url": "ow.ly/9nwC304wOIG",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11031,
+			"friends_count": 7915,
+			"listed_count": 932,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1268,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 24 19:44:40 +0000 2016",
+			"id": 779768535451140100,
+			"id_str": "779768535451140096",
+			"text": "Virtual and Augmented Reality Will Reshape #Retail - https://t.co/GRWgZtSFW6 #Digital #Innovation #VirtualReality… https://t.co/K341hSCzSn",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Retail",
+						"indices": [
+							43,
+							50
+						]
+					},
+					{
+						"text": "Digital",
+						"indices": [
+							77,
+							85
+						]
+					},
+					{
+						"text": "Innovation",
+						"indices": [
+							86,
+							97
+						]
+					},
+					{
+						"text": "VirtualReality",
+						"indices": [
+							98,
+							113
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GRWgZtSFW6",
+						"expanded_url": "http://ow.ly/9nwC304wOIG",
+						"display_url": "ow.ly/9nwC304wOIG",
+						"indices": [
+							53,
+							76
+						]
+					},
+					{
+						"url": "https://t.co/K341hSCzSn",
+						"expanded_url": "https://twitter.com/i/web/status/779768535451140096",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1409713886,
+				"id_str": "1409713886",
+				"name": "Margaux Damain",
+				"screen_name": "MargauxDamain",
+				"location": "New York, USA",
+				"description": "#ContentMarketing #DigitalInnovation #Luxury #SocialMedia & many other great contents that are worth sharing !\n\nFeel free to connect with me on LinkedIn !",
+				"url": "https://t.co/Eqyi2ysuF4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Eqyi2ysuF4",
+								"expanded_url": "https://fr.linkedin.com/in/margauxdamain/en",
+								"display_url": "fr.linkedin.com/in/margauxdama…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 295,
+				"friends_count": 541,
+				"listed_count": 26,
+				"created_at": "Tue May 07 08:27:25 +0000 2013",
+				"favourites_count": 131,
+				"utc_offset": 10800,
+				"time_zone": "Athens",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1361,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/448203307731779584/sJ4MoJYG.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/448203307731779584/sJ4MoJYG.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/633367523107446784/93q0v_ZN_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/633367523107446784/93q0v_ZN_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1409713886/1439841928",
+				"profile_link_color": "FFCC4D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 24 18:02:59 +0000 2016",
 		"id": 779742944815218700,
 		"id_str": "779742944815218688",
