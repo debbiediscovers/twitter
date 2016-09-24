@@ -1,6 +1,530 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Sat Sep 24 22:09:32 +0000 2016",
+		"id": 779804990990749700,
+		"id_str": "779804990990749696",
+		"text": "RT @lenagoh: #smartnation needs #innovation #diversity #risk-taking #womenintech #switch @IDAsg https://t.co/xREsSkFJTd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "smartnation",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"text": "innovation",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"text": "diversity",
+					"indices": [
+						44,
+						54
+					]
+				},
+				{
+					"text": "risk",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "womenintech",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"text": "switch",
+					"indices": [
+						81,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lenagoh",
+					"name": "Lena Goh",
+					"id": 24663949,
+					"id_str": "24663949",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "IDAsg",
+					"name": "IDA",
+					"id": 123167035,
+					"id_str": "123167035",
+					"indices": [
+						89,
+						95
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 778407884455489500,
+					"id_str": "778407884455489536",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Cs112MNVMAALjth.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cs112MNVMAALjth.jpg",
+					"url": "https://t.co/xREsSkFJTd",
+					"display_url": "pic.twitter.com/xREsSkFJTd",
+					"expanded_url": "https://twitter.com/lenagoh/status/778407899567493120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 778407899567493100,
+					"source_status_id_str": "778407899567493120",
+					"source_user_id": 24663949,
+					"source_user_id_str": "24663949"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 778407884455489500,
+					"id_str": "778407884455489536",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Cs112MNVMAALjth.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cs112MNVMAALjth.jpg",
+					"url": "https://t.co/xREsSkFJTd",
+					"display_url": "pic.twitter.com/xREsSkFJTd",
+					"expanded_url": "https://twitter.com/lenagoh/status/778407899567493120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 778407899567493100,
+					"source_status_id_str": "778407899567493120",
+					"source_user_id": 24663949,
+					"source_user_id_str": "24663949"
+				},
+				{
+					"id": 778407884434440200,
+					"id_str": "778407884434440192",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Cs112MIUAAAHCSE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cs112MIUAAAHCSE.jpg",
+					"url": "https://t.co/xREsSkFJTd",
+					"display_url": "pic.twitter.com/xREsSkFJTd",
+					"expanded_url": "https://twitter.com/lenagoh/status/778407899567493120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 778407899567493100,
+					"source_status_id_str": "778407899567493120",
+					"source_user_id": 24663949,
+					"source_user_id_str": "24663949"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11029,
+			"friends_count": 7915,
+			"listed_count": 932,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1268,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6240,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 21 01:38:00 +0000 2016",
+			"id": 778407899567493100,
+			"id_str": "778407899567493120",
+			"text": "#smartnation needs #innovation #diversity #risk-taking #womenintech #switch @IDAsg https://t.co/xREsSkFJTd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "smartnation",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"text": "innovation",
+						"indices": [
+							19,
+							30
+						]
+					},
+					{
+						"text": "diversity",
+						"indices": [
+							31,
+							41
+						]
+					},
+					{
+						"text": "risk",
+						"indices": [
+							42,
+							47
+						]
+					},
+					{
+						"text": "womenintech",
+						"indices": [
+							55,
+							67
+						]
+					},
+					{
+						"text": "switch",
+						"indices": [
+							68,
+							75
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "IDAsg",
+						"name": "IDA",
+						"id": 123167035,
+						"id_str": "123167035",
+						"indices": [
+							76,
+							82
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 778407884455489500,
+						"id_str": "778407884455489536",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/Cs112MNVMAALjth.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cs112MNVMAALjth.jpg",
+						"url": "https://t.co/xREsSkFJTd",
+						"display_url": "pic.twitter.com/xREsSkFJTd",
+						"expanded_url": "https://twitter.com/lenagoh/status/778407899567493120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 778407884455489500,
+						"id_str": "778407884455489536",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/Cs112MNVMAALjth.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cs112MNVMAALjth.jpg",
+						"url": "https://t.co/xREsSkFJTd",
+						"display_url": "pic.twitter.com/xREsSkFJTd",
+						"expanded_url": "https://twitter.com/lenagoh/status/778407899567493120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 778407884434440200,
+						"id_str": "778407884434440192",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/Cs112MIUAAAHCSE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cs112MIUAAAHCSE.jpg",
+						"url": "https://t.co/xREsSkFJTd",
+						"display_url": "pic.twitter.com/xREsSkFJTd",
+						"expanded_url": "https://twitter.com/lenagoh/status/778407899567493120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24663949,
+				"id_str": "24663949",
+				"name": "Lena Goh",
+				"screen_name": "lenagoh",
+				"location": "Singapore",
+				"description": "CMO at SG govt tech arm IDA with a passion in all things tech and advocator for moms simplfying their lives with tech.#smartnation #buildSG",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1022,
+				"friends_count": 1491,
+				"listed_count": 64,
+				"created_at": "Mon Mar 16 07:42:32 +0000 2009",
+				"favourites_count": 1070,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1488,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/745172557993648128/YlAyzaWL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/745172557993648128/YlAyzaWL_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 24 19:45:50 +0000 2016",
 		"id": 779768829123530800,
 		"id_str": "779768829123530753",
