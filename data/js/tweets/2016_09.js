@@ -1,6 +1,809 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Sat Sep 24 18:02:59 +0000 2016",
+		"id": 779742944815218700,
+		"id_str": "779742944815218688",
+		"text": "RT @semrush: Free Data Studio Template for Your #GoogleAnalytics Data https://t.co/ElpAyBKXam via @LunaMetrics https://t.co/vh9hjJMLMF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAnalytics",
+					"indices": [
+						48,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "semrush",
+					"name": "SEMrush",
+					"id": 21896072,
+					"id_str": "21896072",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "LunaMetrics",
+					"name": "LunaMetrics",
+					"id": 15304004,
+					"id_str": "15304004",
+					"indices": [
+						98,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ElpAyBKXam",
+					"expanded_url": "http://www.lunametrics.com/blog/2016/08/25/free-data-studio-report/",
+					"display_url": "lunametrics.com/blog/2016/08/2…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 778912232671289300,
+					"id_str": "778912232671289345",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Cs9AjHuUIAEWKy_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cs9AjHuUIAEWKy_.jpg",
+					"url": "https://t.co/vh9hjJMLMF",
+					"display_url": "pic.twitter.com/vh9hjJMLMF",
+					"expanded_url": "https://twitter.com/semrush/status/778912233292083202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 310,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 310,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 778912233292083200,
+					"source_status_id_str": "778912233292083202",
+					"source_user_id": 21896072,
+					"source_user_id_str": "21896072"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 778912232671289300,
+					"id_str": "778912232671289345",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Cs9AjHuUIAEWKy_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cs9AjHuUIAEWKy_.jpg",
+					"url": "https://t.co/vh9hjJMLMF",
+					"display_url": "pic.twitter.com/vh9hjJMLMF",
+					"expanded_url": "https://twitter.com/semrush/status/778912233292083202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 310,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 310,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 778912233292083200,
+					"source_status_id_str": "778912233292083202",
+					"source_user_id": 21896072,
+					"source_user_id_str": "21896072"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11032,
+			"friends_count": 7915,
+			"listed_count": 931,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1268,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6238,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 22 11:02:02 +0000 2016",
+			"id": 778912233292083200,
+			"id_str": "778912233292083202",
+			"text": "Free Data Studio Template for Your #GoogleAnalytics Data https://t.co/ElpAyBKXam via @LunaMetrics https://t.co/vh9hjJMLMF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleAnalytics",
+						"indices": [
+							35,
+							51
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LunaMetrics",
+						"name": "LunaMetrics",
+						"id": 15304004,
+						"id_str": "15304004",
+						"indices": [
+							85,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ElpAyBKXam",
+						"expanded_url": "http://www.lunametrics.com/blog/2016/08/25/free-data-studio-report/",
+						"display_url": "lunametrics.com/blog/2016/08/2…",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 778912232671289300,
+						"id_str": "778912232671289345",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/Cs9AjHuUIAEWKy_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cs9AjHuUIAEWKy_.jpg",
+						"url": "https://t.co/vh9hjJMLMF",
+						"display_url": "pic.twitter.com/vh9hjJMLMF",
+						"expanded_url": "https://twitter.com/semrush/status/778912233292083202/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 600,
+								"h": 310,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 310,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 310,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 778912232671289300,
+						"id_str": "778912232671289345",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/Cs9AjHuUIAEWKy_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cs9AjHuUIAEWKy_.jpg",
+						"url": "https://t.co/vh9hjJMLMF",
+						"display_url": "pic.twitter.com/vh9hjJMLMF",
+						"expanded_url": "https://twitter.com/semrush/status/778912233292083202/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 600,
+								"h": 310,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 310,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 310,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21896072,
+				"id_str": "21896072",
+				"name": "SEMrush",
+				"screen_name": "semrush",
+				"location": "Philadelphia, PA USA",
+				"description": "Be a digital marketing rock star with SEMrush! Follow us for the best industry updates & tips and connect with top influencers via our weekly #SEMrushchat",
+				"url": "https://t.co/JjZxAQAL1F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JjZxAQAL1F",
+								"expanded_url": "http://semrush.com",
+								"display_url": "semrush.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45953,
+				"friends_count": 13515,
+				"listed_count": 4263,
+				"created_at": "Wed Feb 25 18:06:24 +0000 2009",
+				"favourites_count": 133729,
+				"utc_offset": 10800,
+				"time_zone": "Volgograd",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 58617,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/840603242/77c265eb0c318b482f6d27b515b6c7ac.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/840603242/77c265eb0c318b482f6d27b515b6c7ac.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/732598168924348417/ZCQTz7Fx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/732598168924348417/ZCQTz7Fx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21896072/1460482910",
+				"profile_link_color": "B24908",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 24 17:30:55 +0000 2016",
+		"id": 779734875557421000,
+		"id_str": "779734875557421057",
+		"text": "RT @dekebridges: The United Nations just launched its own social media app\nhttps://t.co/Hx79rZKDzE @Adweek https://t.co/KiVYI800w4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dekebridges",
+					"name": "Deke Bridges",
+					"id": 207323988,
+					"id_str": "207323988",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "Adweek",
+					"name": "Adweek",
+					"id": 30205586,
+					"id_str": "30205586",
+					"indices": [
+						99,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Hx79rZKDzE",
+					"expanded_url": "http://adweek.it/2d6DRuZ",
+					"display_url": "adweek.it/2d6DRuZ",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 779690791526629400,
+					"id_str": "779690791526629376",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/CtIEpNeWgAAq8le.png",
+					"media_url_https": "https://pbs.twimg.com/media/CtIEpNeWgAAq8le.png",
+					"url": "https://t.co/KiVYI800w4",
+					"display_url": "pic.twitter.com/KiVYI800w4",
+					"expanded_url": "https://twitter.com/Adweek/status/779690802893168640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 652,
+							"h": 367,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 652,
+							"h": 367,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 652,
+							"h": 367,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 779690802893168600,
+					"source_status_id_str": "779690802893168640",
+					"source_user_id": 30205586,
+					"source_user_id_str": "30205586"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 779690791526629400,
+					"id_str": "779690791526629376",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/CtIEpNeWgAAq8le.png",
+					"media_url_https": "https://pbs.twimg.com/media/CtIEpNeWgAAq8le.png",
+					"url": "https://t.co/KiVYI800w4",
+					"display_url": "pic.twitter.com/KiVYI800w4",
+					"expanded_url": "https://twitter.com/Adweek/status/779690802893168640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 652,
+							"h": 367,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 652,
+							"h": 367,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 652,
+							"h": 367,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 779690802893168600,
+					"source_status_id_str": "779690802893168640",
+					"source_user_id": 30205586,
+					"source_user_id_str": "30205586"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.rightrelevance.com\" rel=\"nofollow\">Right Relevance</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11032,
+			"friends_count": 7915,
+			"listed_count": 931,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1268,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6238,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 24 15:50:28 +0000 2016",
+			"id": 779709593496670200,
+			"id_str": "779709593496670208",
+			"text": "The United Nations just launched its own social media app\nhttps://t.co/Hx79rZKDzE @Adweek https://t.co/KiVYI800w4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Adweek",
+						"name": "Adweek",
+						"id": 30205586,
+						"id_str": "30205586",
+						"indices": [
+							82,
+							89
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Hx79rZKDzE",
+						"expanded_url": "http://adweek.it/2d6DRuZ",
+						"display_url": "adweek.it/2d6DRuZ",
+						"indices": [
+							58,
+							81
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 779690791526629400,
+						"id_str": "779690791526629376",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/CtIEpNeWgAAq8le.png",
+						"media_url_https": "https://pbs.twimg.com/media/CtIEpNeWgAAq8le.png",
+						"url": "https://t.co/KiVYI800w4",
+						"display_url": "pic.twitter.com/KiVYI800w4",
+						"expanded_url": "https://twitter.com/Adweek/status/779690802893168640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 652,
+								"h": 367,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 652,
+								"h": 367,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 652,
+								"h": 367,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 779690802893168600,
+						"source_status_id_str": "779690802893168640",
+						"source_user_id": 30205586,
+						"source_user_id_str": "30205586"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 779690791526629400,
+						"id_str": "779690791526629376",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/CtIEpNeWgAAq8le.png",
+						"media_url_https": "https://pbs.twimg.com/media/CtIEpNeWgAAq8le.png",
+						"url": "https://t.co/KiVYI800w4",
+						"display_url": "pic.twitter.com/KiVYI800w4",
+						"expanded_url": "https://twitter.com/Adweek/status/779690802893168640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 652,
+								"h": 367,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 652,
+								"h": 367,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 652,
+								"h": 367,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 779690802893168600,
+						"source_status_id_str": "779690802893168640",
+						"source_user_id": 30205586,
+						"source_user_id_str": "30205586"
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 207323988,
+				"id_str": "207323988",
+				"name": "Deke Bridges",
+				"screen_name": "dekebridges",
+				"location": "Portland, OR",
+				"description": "Social Media, Online Marketing, SEO, IT Geek STUFF, Great tips! Creative writing, Running, Entrepreneur, Breathe deep, Smile more! #GoDucks",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 185976,
+				"friends_count": 171584,
+				"listed_count": 2279,
+				"created_at": "Mon Oct 25 02:04:13 +0000 2010",
+				"favourites_count": 34971,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 100375,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/633141211/sfjjr9kts514d0gsfi1u.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/633141211/sfjjr9kts514d0gsfi1u.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2607954986/f2m1apja9zkas6grrebm_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2607954986/f2m1apja9zkas6grrebm_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/207323988/1362893985",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 24 14:18:02 +0000 2016",
 		"id": 779686335816736800,
 		"id_str": "779686335816736768",
