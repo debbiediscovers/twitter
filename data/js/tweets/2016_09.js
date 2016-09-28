@@ -1,6 +1,1103 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Wed Sep 28 22:35:15 +0000 2016",
+		"id": 781261015795114000,
+		"id_str": "781261015795113984",
+		"text": "RT @horse_gif: Rainbow Bubbles. Made with D3.js by @debbiediscovers #gif https://t.co/L2DShtPuru",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "gif",
+					"indices": [
+						68,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "horse_gif",
+					"name": "Horse gif",
+					"id": 2776771800,
+					"id_str": "2776771800",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						51,
+						67
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 781212369980493800,
+					"id_str": "781212369980493824",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ctdsgu7UEAAQinJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ctdsgu7UEAAQinJ.jpg",
+					"url": "https://t.co/L2DShtPuru",
+					"display_url": "pic.twitter.com/L2DShtPuru",
+					"expanded_url": "https://twitter.com/horse_gif/status/781212373688258560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 478,
+							"h": 478,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 478,
+							"h": 478,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 781212373688258600,
+					"source_status_id_str": "781212373688258560",
+					"source_user_id": 2776771800,
+					"source_user_id_str": "2776771800"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 781212369980493800,
+					"id_str": "781212369980493824",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ctdsgu7UEAAQinJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ctdsgu7UEAAQinJ.jpg",
+					"url": "https://t.co/L2DShtPuru",
+					"display_url": "pic.twitter.com/L2DShtPuru",
+					"expanded_url": "https://twitter.com/horse_gif/status/781212373688258560/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 478,
+							"h": 478,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 478,
+							"h": 478,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 781212373688258600,
+					"source_status_id_str": "781212373688258560",
+					"source_user_id": 2776771800,
+					"source_user_id_str": "2776771800",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/Ctdsgu7UEAAQinJ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11124,
+			"friends_count": 6144,
+			"listed_count": 961,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1295,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6327,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 28 19:21:58 +0000 2016",
+			"id": 781212373688258600,
+			"id_str": "781212373688258560",
+			"text": "Rainbow Bubbles. Made with D3.js by @debbiediscovers #gif https://t.co/L2DShtPuru",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "gif",
+						"indices": [
+							53,
+							57
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							36,
+							52
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 781212369980493800,
+						"id_str": "781212369980493824",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ctdsgu7UEAAQinJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ctdsgu7UEAAQinJ.jpg",
+						"url": "https://t.co/L2DShtPuru",
+						"display_url": "pic.twitter.com/L2DShtPuru",
+						"expanded_url": "https://twitter.com/horse_gif/status/781212373688258560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 478,
+								"h": 478,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 478,
+								"h": 478,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 781212369980493800,
+						"id_str": "781212369980493824",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ctdsgu7UEAAQinJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ctdsgu7UEAAQinJ.jpg",
+						"url": "https://t.co/L2DShtPuru",
+						"display_url": "pic.twitter.com/L2DShtPuru",
+						"expanded_url": "https://twitter.com/horse_gif/status/781212373688258560/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 478,
+								"h": 478,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 478,
+								"h": 478,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://pbs.twimg.com/tweet_video/Ctdsgu7UEAAQinJ.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2776771800,
+				"id_str": "2776771800",
+				"name": "Horse gif",
+				"screen_name": "horse_gif",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32,
+				"friends_count": 0,
+				"listed_count": 7,
+				"created_at": "Thu Aug 28 17:02:57 +0000 2014",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23256,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/505038257483030528/1Rq4vco5_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/505038257483030528/1Rq4vco5_normal.png",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 28 22:33:34 +0000 2016",
+		"id": 781260590744412200,
+		"id_str": "781260590744412160",
+		"text": "@NikkiElizDemere Love your tweets on design and women and tech!! Could read for days! Only looked up your profile so I could post this...lol",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NikkiElizDemere",
+					"name": "Nichole Elizabeth",
+					"id": 39099783,
+					"id_str": "39099783",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 781258902570606600,
+		"in_reply_to_status_id_str": "781258902570606592",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11124,
+			"friends_count": 6144,
+			"listed_count": 961,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1295,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6327,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 28 22:26:52 +0000 2016",
+		"id": 781258902570606600,
+		"id_str": "781258902570606592",
+		"text": "#LOVEIT What is The Value of a Twitter Follower? https://t.co/uG1qQyRiXj via @TribeBoost by @NikkiElizDemere",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOVEIT",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TribeBoost",
+					"name": "TribeBoost",
+					"id": 635957337,
+					"id_str": "635957337",
+					"indices": [
+						77,
+						88
+					]
+				},
+				{
+					"screen_name": "NikkiElizDemere",
+					"name": "Nichole Elizabeth",
+					"id": 39099783,
+					"id_str": "39099783",
+					"indices": [
+						92,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uG1qQyRiXj",
+					"expanded_url": "http://tribeboost.com/what-is-the-value-of-a-twitter-follower/",
+					"display_url": "tribeboost.com/what-is-the-va…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11124,
+			"friends_count": 6144,
+			"listed_count": 961,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1295,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6327,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 28 22:20:04 +0000 2016",
+		"id": 781257193899249700,
+		"id_str": "781257193899249664",
+		"text": "@NikkiElizDemere @intercom great post! It totally does!!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NikkiElizDemere",
+					"name": "Nichole Elizabeth",
+					"id": 39099783,
+					"id_str": "39099783",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "intercom",
+					"name": "Intercom",
+					"id": 274788446,
+					"id_str": "274788446",
+					"indices": [
+						17,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 780761487300104200,
+		"in_reply_to_status_id_str": "780761487300104192",
+		"in_reply_to_user_id": 39099783,
+		"in_reply_to_user_id_str": "39099783",
+		"in_reply_to_screen_name": "NikkiElizDemere",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11124,
+			"friends_count": 6144,
+			"listed_count": 961,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1295,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6327,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 28 22:18:07 +0000 2016",
+		"id": 781256703572447200,
+		"id_str": "781256703572447232",
+		"text": "RT @NikkiElizDemere: A year of Women in Product: https://t.co/Y5s8cQ9xBm via @merci #WomenInProduct #WomenInTech #ProdMgmt https://t.co/bNR…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WomenInProduct",
+					"indices": [
+						84,
+						99
+					]
+				},
+				{
+					"text": "WomenInTech",
+					"indices": [
+						100,
+						112
+					]
+				},
+				{
+					"text": "ProdMgmt",
+					"indices": [
+						113,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NikkiElizDemere",
+					"name": "Nichole Elizabeth",
+					"id": 39099783,
+					"id_str": "39099783",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "merci",
+					"name": "Merci Victoria Grace",
+					"id": 16403,
+					"id_str": "16403",
+					"indices": [
+						77,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y5s8cQ9xBm",
+					"expanded_url": "http://buff.ly/2dhz9iH",
+					"display_url": "buff.ly/2dhz9iH",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11124,
+			"friends_count": 6144,
+			"listed_count": 961,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1295,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6327,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 28 16:00:53 +0000 2016",
+			"id": 781161769561628700,
+			"id_str": "781161769561628672",
+			"text": "A year of Women in Product: https://t.co/Y5s8cQ9xBm via @merci #WomenInProduct #WomenInTech #ProdMgmt https://t.co/bNRJVD3sVf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WomenInProduct",
+						"indices": [
+							63,
+							78
+						]
+					},
+					{
+						"text": "WomenInTech",
+						"indices": [
+							79,
+							91
+						]
+					},
+					{
+						"text": "ProdMgmt",
+						"indices": [
+							92,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "merci",
+						"name": "Merci Victoria Grace",
+						"id": 16403,
+						"id_str": "16403",
+						"indices": [
+							56,
+							62
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Y5s8cQ9xBm",
+						"expanded_url": "http://buff.ly/2dhz9iH",
+						"display_url": "buff.ly/2dhz9iH",
+						"indices": [
+							28,
+							51
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 781161767753900000,
+						"id_str": "781161767753900034",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/Ctc-fS8WYAI9jYf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ctc-fS8WYAI9jYf.jpg",
+						"url": "https://t.co/bNRJVD3sVf",
+						"display_url": "pic.twitter.com/bNRJVD3sVf",
+						"expanded_url": "https://twitter.com/NikkiElizDemere/status/781161769561628672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1834,
+								"h": 856,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 560,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 317,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 781161767753900000,
+						"id_str": "781161767753900034",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/Ctc-fS8WYAI9jYf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ctc-fS8WYAI9jYf.jpg",
+						"url": "https://t.co/bNRJVD3sVf",
+						"display_url": "pic.twitter.com/bNRJVD3sVf",
+						"expanded_url": "https://twitter.com/NikkiElizDemere/status/781161769561628672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1834,
+								"h": 856,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 560,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 317,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39099783,
+				"id_str": "39099783",
+				"name": "Nichole Elizabeth",
+				"screen_name": "NikkiElizDemere",
+				"location": "Tampa, Florida",
+				"description": "SaaS Consultant & Customer Success Evangelist. Founder at Authentic Curation. Moderator at @ProductHunt & @GrowthHackers. Previously: Growth at @InboundOrg.",
+				"url": "https://t.co/fYEJXTdnwU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fYEJXTdnwU",
+								"expanded_url": "http://nicholeelizabethdemere.com/",
+								"display_url": "nicholeelizabethdemere.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51956,
+				"friends_count": 34972,
+				"listed_count": 2641,
+				"created_at": "Sun May 10 19:48:34 +0000 2009",
+				"favourites_count": 37745,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 80577,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "474647",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494998340333867009/wiNg4Yyr.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494998340333867009/wiNg4Yyr.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/749287656031477760/lid39At7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/749287656031477760/lid39At7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39099783/1475042426",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "91DAB6",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 28 18:22:56 +0000 2016",
 		"id": 781197518323355600,
 		"id_str": "781197518323355648",
