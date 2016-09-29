@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Thu Sep 29 19:28:28 +0000 2016",
+		"id": 781576395126300700,
+		"id_str": "781576395126300672",
+		"text": "But of course @tinysubversions already made a rather bombastic little baby green unnative English yet elementally eloquent @osascomp bot 👾✅",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tinysubversions",
+					"name": "Darius Kazemi",
+					"id": 14475298,
+					"id_str": "14475298",
+					"indices": [
+						14,
+						30
+					]
+				},
+				{
+					"screen_name": "osascomp",
+					"name": "Adjective Order Bot",
+					"id": 773308842931126300,
+					"id_str": "773308842931126272",
+					"indices": [
+						123,
+						132
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 781575251167555600,
+		"in_reply_to_status_id_str": "781575251167555584",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11177,
+			"friends_count": 6326,
+			"listed_count": 967,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1303,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6344,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 29 19:23:55 +0000 2016",
+		"id": 781575251167555600,
+		"id_str": "781575251167555584",
+		"text": "#Hey! Elements of Eloquence: \"opinion size age shape color origin material purpose noun\" is perfect for… https://t.co/AwX6noH8Hw",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Hey",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AwX6noH8Hw",
+					"expanded_url": "https://twitter.com/i/web/status/781575251167555584",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11177,
+			"friends_count": 6326,
+			"listed_count": 967,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1303,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6344,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 772002757222002700,
+		"quoted_status_id_str": "772002757222002688",
+		"quoted_status": {
+			"created_at": "Sat Sep 03 09:26:15 +0000 2016",
+			"id": 772002757222002700,
+			"id_str": "772002757222002688",
+			"text": "Things native English speakers know, but don't know we know: https://t.co/Ex0Ui9oBSL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 772002754780860400,
+						"id_str": "772002754780860416",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/Cra0akxWEAA1IAg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cra0akxWEAA1IAg.jpg",
+						"url": "https://t.co/Ex0Ui9oBSL",
+						"display_url": "pic.twitter.com/Ex0Ui9oBSL",
+						"expanded_url": "https://twitter.com/MattAndersonBBC/status/772002757222002688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 390,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 390,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 259,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 772002754780860400,
+						"id_str": "772002754780860416",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/Cra0akxWEAA1IAg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cra0akxWEAA1IAg.jpg",
+						"url": "https://t.co/Ex0Ui9oBSL",
+						"display_url": "pic.twitter.com/Ex0Ui9oBSL",
+						"expanded_url": "https://twitter.com/MattAndersonBBC/status/772002757222002688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 390,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 390,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 259,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1193503572,
+				"id_str": "1193503572",
+				"name": "Matthew Anderson",
+				"screen_name": "MattAndersonBBC",
+				"location": "London | Berlin",
+				"description": "Editor @bbc_culture. Likes print media, Germany and music made with computers. All views are mine, not the BBC's.",
+				"url": "https://t.co/a921ATFCrO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/a921ATFCrO",
+								"expanded_url": "http://www.bbc.com/culture",
+								"display_url": "bbc.com/culture",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8298,
+				"friends_count": 823,
+				"listed_count": 170,
+				"created_at": "Mon Feb 18 15:15:57 +0000 2013",
+				"favourites_count": 1875,
+				"utc_offset": 3600,
+				"time_zone": "Dublin",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2398,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8CB398",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/464797971494621185/_euZ7Ujg_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/464797971494621185/_euZ7Ujg_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1193503572/1399644562",
+				"profile_link_color": "337D56",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 52730,
+			"favorite_count": 76696,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 29 16:56:53 +0000 2016",
 		"id": 781538249160339500,
 		"id_str": "781538249160339457",
