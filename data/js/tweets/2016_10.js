@@ -1,6 +1,954 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sat Oct 01 18:55:28 +0000 2016",
+		"id": 782292868807274500,
+		"id_str": "782292868807274496",
+		"text": "RT @StefanW: Flattery, association, halo effect: \n\n\"Mental Model: Bias from Liking/Loving\" https://t.co/O4LEIvn4YJ @farnamstreet https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StefanW",
+					"name": "Stefan Wolpers",
+					"id": 2797491,
+					"id_str": "2797491",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "farnamstreet",
+					"name": "Shane Parrish",
+					"id": 33104659,
+					"id_str": "33104659",
+					"indices": [
+						115,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/O4LEIvn4YJ",
+					"expanded_url": "http://bit.ly/2cUH5qg",
+					"display_url": "bit.ly/2cUH5qg",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11201,
+			"friends_count": 6357,
+			"listed_count": 966,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1314,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6384,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 20 13:09:05 +0000 2016",
+			"id": 778219431298273300,
+			"id_str": "778219431298273280",
+			"text": "Flattery, association, halo effect: \n\n\"Mental Model: Bias from Liking/Loving\" https://t.co/O4LEIvn4YJ @farnamstreet https://t.co/Sjuzg48FsO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "farnamstreet",
+						"name": "Shane Parrish",
+						"id": 33104659,
+						"id_str": "33104659",
+						"indices": [
+							102,
+							115
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/O4LEIvn4YJ",
+						"expanded_url": "http://bit.ly/2cUH5qg",
+						"display_url": "bit.ly/2cUH5qg",
+						"indices": [
+							78,
+							101
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 778219429100412900,
+						"id_str": "778219429100412928",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/CszKcpTWYAANKF7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CszKcpTWYAANKF7.jpg",
+						"url": "https://t.co/Sjuzg48FsO",
+						"display_url": "pic.twitter.com/Sjuzg48FsO",
+						"expanded_url": "https://twitter.com/StefanW/status/778219431298273280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 591,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 591,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 591,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 778219429100412900,
+						"id_str": "778219429100412928",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/CszKcpTWYAANKF7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CszKcpTWYAANKF7.jpg",
+						"url": "https://t.co/Sjuzg48FsO",
+						"display_url": "pic.twitter.com/Sjuzg48FsO",
+						"expanded_url": "https://twitter.com/StefanW/status/778219431298273280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 591,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 591,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 591,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2797491,
+				"id_str": "2797491",
+				"name": "Stefan Wolpers",
+				"screen_name": "StefanW",
+				"location": "Berlin, Germany",
+				"description": "Agile coach, product & Scrum guy. (CSPO, CSM.) Likes all agile & lean, writes on Lean User Testing. Mentor at @sbcBerlin. Also @AgeOfProduct & @Snippet42.",
+				"url": "http://t.co/v0635ShWpn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/v0635ShWpn",
+								"expanded_url": "http://bit.ly/hands-on-agile",
+								"display_url": "bit.ly/hands-on-agile",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5771,
+				"friends_count": 379,
+				"listed_count": 525,
+				"created_at": "Thu Mar 29 06:17:41 +0000 2007",
+				"favourites_count": 2123,
+				"utc_offset": 7200,
+				"time_zone": "Bern",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 36538,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "6699FF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/483664943258951682/HvzlyGnl.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/483664943258951682/HvzlyGnl.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/718479678999302144/x7Vlxug8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/718479678999302144/x7Vlxug8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2797491/1460877516",
+				"profile_link_color": "0099BB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Oct 01 18:50:14 +0000 2016",
+		"id": 782291549098913800,
+		"id_str": "782291549098913792",
+		"text": "RT @NikkiElizDemere: The Future of Net Promoter Score is Here: from Lagging Indicator to Crystal Ball: https://t.co/20PIVd3OcD #NPS #CX htt…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NPS",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "CX",
+					"indices": [
+						132,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NikkiElizDemere",
+					"name": "Nichole Elizabeth",
+					"id": 39099783,
+					"id_str": "39099783",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/20PIVd3OcD",
+					"expanded_url": "http://buff.ly/2dG12NW",
+					"display_url": "buff.ly/2dG12NW",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11201,
+			"friends_count": 6357,
+			"listed_count": 966,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1314,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6384,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 01 13:30:24 +0000 2016",
+			"id": 782211059801260000,
+			"id_str": "782211059801260033",
+			"text": "The Future of Net Promoter Score is Here: from Lagging Indicator to Crystal Ball: https://t.co/20PIVd3OcD #NPS #CX https://t.co/boHbXFUJPh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NPS",
+						"indices": [
+							106,
+							110
+						]
+					},
+					{
+						"text": "CX",
+						"indices": [
+							111,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/20PIVd3OcD",
+						"expanded_url": "http://buff.ly/2dG12NW",
+						"display_url": "buff.ly/2dG12NW",
+						"indices": [
+							82,
+							105
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 782211056806625300,
+						"id_str": "782211056806625280",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/Ctr4z9RXgAAIdY7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ctr4z9RXgAAIdY7.jpg",
+						"url": "https://t.co/boHbXFUJPh",
+						"display_url": "pic.twitter.com/boHbXFUJPh",
+						"expanded_url": "https://twitter.com/NikkiElizDemere/status/782211059801260033/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 375,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 375,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 782211056806625300,
+						"id_str": "782211056806625280",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/Ctr4z9RXgAAIdY7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ctr4z9RXgAAIdY7.jpg",
+						"url": "https://t.co/boHbXFUJPh",
+						"display_url": "pic.twitter.com/boHbXFUJPh",
+						"expanded_url": "https://twitter.com/NikkiElizDemere/status/782211059801260033/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 375,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 375,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39099783,
+				"id_str": "39099783",
+				"name": "Nichole Elizabeth",
+				"screen_name": "NikkiElizDemere",
+				"location": "Tampa, Florida",
+				"description": "SaaS Consultant & Customer Success Evangelist. Founder at Authentic Curation. Moderator at @ProductHunt & @GrowthHackers. Previously: Growth at @InboundOrg.",
+				"url": "https://t.co/fYEJXTdnwU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fYEJXTdnwU",
+								"expanded_url": "http://nicholeelizabethdemere.com/",
+								"display_url": "nicholeelizabethdemere.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52094,
+				"friends_count": 35147,
+				"listed_count": 2641,
+				"created_at": "Sun May 10 19:48:34 +0000 2009",
+				"favourites_count": 37746,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 80694,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "474647",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494998340333867009/wiNg4Yyr.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494998340333867009/wiNg4Yyr.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/749287656031477760/lid39At7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/749287656031477760/lid39At7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39099783/1475301634",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "91DAB6",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Oct 01 18:46:08 +0000 2016",
+		"id": 782290516649967600,
+		"id_str": "782290516649967616",
+		"text": "Beautiful. If I could write like @JVincentDowd, I'd slit my wrists, write with blood. Better to die with #PASSION than live a soulless life",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PASSION",
+					"indices": [
+						105,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JVincentDowd",
+					"name": "James Dowd",
+					"id": 369061148,
+					"id_str": "369061148",
+					"indices": [
+						33,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 782279245867343900,
+		"in_reply_to_status_id_str": "782279245867343874",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11201,
+			"friends_count": 6357,
+			"listed_count": 966,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1314,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6384,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Oct 01 18:35:30 +0000 2016",
+		"id": 782287844261802000,
+		"id_str": "782287844261801984",
+		"text": "@JVincentDowd I tried looking you up, but too many James Dowd writers but none with Digital Surgeons in bio, so I cdn't attribute. Loved it!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JVincentDowd",
+					"name": "James Dowd",
+					"id": 369061148,
+					"id_str": "369061148",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 369061148,
+		"in_reply_to_user_id_str": "369061148",
+		"in_reply_to_screen_name": "JVincentDowd",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11201,
+			"friends_count": 6357,
+			"listed_count": 966,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1314,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6384,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Oct 01 18:31:13 +0000 2016",
+		"id": 782286766480822300,
+		"id_str": "782286766480822273",
+		"text": "“The Problem with Women in Tech isn’t the Women — it’s the Men” by @fubini https://t.co/Jq5OVbfz2i",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fubini",
+					"name": "Ross Fubini",
+					"id": 14632806,
+					"id_str": "14632806",
+					"indices": [
+						67,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Jq5OVbfz2i",
+					"expanded_url": "https://medium.com/@fubini/the-problem-with-women-in-tech-isnt-the-women-it-s-the-men-7bc25ce96dc6#.rrjjv4yy3",
+					"display_url": "medium.com/@fubini/the-pr…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11201,
+			"friends_count": 6357,
+			"listed_count": 966,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1314,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6384,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Oct 01 18:04:06 +0000 2016",
 		"id": 782279941811540000,
 		"id_str": "782279941811539969",
