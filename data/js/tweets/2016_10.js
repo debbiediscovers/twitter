@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sat Oct 01 19:24:50 +0000 2016",
+		"id": 782300257275158500,
+		"id_str": "782300257275158528",
+		"text": "#Singapore #SmartNation Do #Singaporeans follow the #LeeKuanYewRule?  \nhttps://t.co/NKuIF0RdMz https://t.co/Vk64EJEYYg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Singapore",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "SmartNation",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"text": "Singaporeans",
+					"indices": [
+						27,
+						40
+					]
+				},
+				{
+					"text": "LeeKuanYewRule",
+					"indices": [
+						52,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NKuIF0RdMz",
+					"expanded_url": "https://www.farnamstreetblog.com/2016/09/lee-kuan-yew-rule/",
+					"display_url": "farnamstreetblog.com/2016/09/lee-ku…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 782300002160812000,
+					"id_str": "782300002160812033",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/CttJtQiVIAEqsvK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CttJtQiVIAEqsvK.jpg",
+					"url": "https://t.co/Vk64EJEYYg",
+					"display_url": "pic.twitter.com/Vk64EJEYYg",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/782300257275158528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 687,
+							"h": 244,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 687,
+							"h": 244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 782300002160812000,
+					"id_str": "782300002160812033",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/CttJtQiVIAEqsvK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CttJtQiVIAEqsvK.jpg",
+					"url": "https://t.co/Vk64EJEYYg",
+					"display_url": "pic.twitter.com/Vk64EJEYYg",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/782300257275158528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 687,
+							"h": 244,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 687,
+							"h": 244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://chrome.google.com/webstore/detail/chirp-for-twitter/mlocpcjojbacdcajmjmlfonfibnleede\" rel=\"nofollow\">Chirp (Twitter Chrome extension)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11200,
+			"friends_count": 6357,
+			"listed_count": 966,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1315,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6385,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Oct 01 18:55:28 +0000 2016",
 		"id": 782292868807274500,
 		"id_str": "782292868807274496",
