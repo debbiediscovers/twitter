@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sun Oct 02 22:21:44 +0000 2016",
+		"id": 782707163764432900,
+		"id_str": "782707163764432897",
+		"text": "Gd Qn. Should #robots pay #taxes? Taxes fund social security which robots don't need so I say no, What do you think? https://t.co/EIzxuAYqBR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "robots",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"text": "taxes",
+					"indices": [
+						26,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EIzxuAYqBR",
+					"expanded_url": "https://twitter.com/paragkhanna/status/747994449796603904",
+					"display_url": "twitter.com/paragkhanna/st…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11221,
+			"friends_count": 6473,
+			"listed_count": 972,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1318,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6403,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 747994449796603900,
+		"quoted_status_id_str": "747994449796603904",
+		"quoted_status": {
+			"created_at": "Wed Jun 29 03:25:48 +0000 2016",
+			"id": 747994449796603900,
+			"id_str": "747994449796603904",
+			"text": "Should #robot workers have to pay #taxes? #EU will address: https://t.co/Rz625l4Qab #jobs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "robot",
+						"indices": [
+							7,
+							13
+						]
+					},
+					{
+						"text": "taxes",
+						"indices": [
+							34,
+							40
+						]
+					},
+					{
+						"text": "EU",
+						"indices": [
+							42,
+							45
+						]
+					},
+					{
+						"text": "jobs",
+						"indices": [
+							84,
+							89
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Rz625l4Qab",
+						"expanded_url": "http://ow.ly/VjuX301K0rT",
+						"display_url": "ow.ly/VjuX301K0rT",
+						"indices": [
+							60,
+							83
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28403766,
+				"id_str": "28403766",
+				"name": "Parag Khanna",
+				"screen_name": "paragkhanna",
+				"location": "New York, London, Singapore",
+				"description": "Geo-strategist, best-selling author, world traveler, TED Speaker. \n\n\nMy book CONNECTOGRAPHY is out now: https://t.co/nuaDQK6Zks",
+				"url": "http://t.co/24oBl1femm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/24oBl1femm",
+								"expanded_url": "http://www.paragkhanna.com",
+								"display_url": "paragkhanna.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nuaDQK6Zks",
+								"expanded_url": "http://amzn.to/29Sg28M",
+								"display_url": "amzn.to/29Sg28M",
+								"indices": [
+									104,
+									127
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14979,
+				"friends_count": 2407,
+				"listed_count": 808,
+				"created_at": "Thu Apr 02 19:42:39 +0000 2009",
+				"favourites_count": 481,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4595,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/695267603695054848/_VnTuNkH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/695267603695054848/_VnTuNkH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28403766/1461063134",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 47,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 02 21:21:06 +0000 2016",
 		"id": 782691904911712300,
 		"id_str": "782691904911712256",
