@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sun Oct 02 08:11:38 +0000 2016",
+		"id": 782493228624773100,
+		"id_str": "782493228624773120",
+		"text": "RT @g_piechota: Survey of large publishers: 30% of traffic coming from Facebook. @NiemanLab on new @INMAorg report by @g_piechota https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "g_piechota",
+					"name": "Grzegorz Piechota",
+					"id": 2232746162,
+					"id_str": "2232746162",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "NiemanLab",
+					"name": "Nieman Lab",
+					"id": 15865878,
+					"id_str": "15865878",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"screen_name": "INMAorg",
+					"name": "INMA",
+					"id": 17868715,
+					"id_str": "17868715",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"screen_name": "g_piechota",
+					"name": "Grzegorz Piechota",
+					"id": 2232746162,
+					"id_str": "2232746162",
+					"indices": [
+						118,
+						129
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11198,
+			"friends_count": 6356,
+			"listed_count": 969,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1315,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6393,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 29 17:48:16 +0000 2016",
+			"id": 781551178115063800,
+			"id_str": "781551178115063809",
+			"text": "Survey of large publishers: 30% of traffic coming from Facebook. @NiemanLab on new @INMAorg report by @g_piechota https://t.co/RhJaq1jDMQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NiemanLab",
+						"name": "Nieman Lab",
+						"id": 15865878,
+						"id_str": "15865878",
+						"indices": [
+							65,
+							75
+						]
+					},
+					{
+						"screen_name": "INMAorg",
+						"name": "INMA",
+						"id": 17868715,
+						"id_str": "17868715",
+						"indices": [
+							83,
+							91
+						]
+					},
+					{
+						"screen_name": "g_piechota",
+						"name": "Grzegorz Piechota",
+						"id": 2232746162,
+						"id_str": "2232746162",
+						"indices": [
+							102,
+							113
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/RhJaq1jDMQ",
+						"expanded_url": "http://www.niemanlab.org/2016/09/survey-of-large-publishers-30-percent-of-our-website-visits-come-from-facebook/",
+						"display_url": "niemanlab.org/2016/09/survey…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2232746162,
+				"id_str": "2232746162",
+				"name": "Grzegorz Piechota",
+				"screen_name": "g_piechota",
+				"location": "Cambridge, MA",
+				"description": "Nieman fellow, Harvard University in Cambridge, MA. Frmr news editor, Gazeta Wyborcza in Warsaw, Poland. Board member, International News Media Association.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 619,
+				"friends_count": 692,
+				"listed_count": 69,
+				"created_at": "Fri Dec 06 10:06:15 +0000 2013",
+				"favourites_count": 912,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2117,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/702620502972616706/zp6ScIk3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/702620502972616706/zp6ScIk3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2232746162/1456353290",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 02 04:40:57 +0000 2016",
 		"id": 782440209350733800,
 		"id_str": "782440209350733824",
