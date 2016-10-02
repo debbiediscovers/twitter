@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sun Oct 02 20:05:16 +0000 2016",
+		"id": 782672821717577700,
+		"id_str": "782672821717577729",
+		"text": "Cool!!! Thanks @JeffProd Free online tool to see relationship between Twitter users ! #dataviz… https://t.co/CVbzHDqHVM",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dataviz",
+					"indices": [
+						86,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JeffProd",
+					"name": "JeffProd",
+					"id": 141355043,
+					"id_str": "141355043",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CVbzHDqHVM",
+					"expanded_url": "https://twitter.com/i/web/status/782672821717577729",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11197,
+			"friends_count": 6268,
+			"listed_count": 970,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1318,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 782656308348608500,
+		"quoted_status_id_str": "782656308348608513",
+		"quoted_status": {
+			"created_at": "Sun Oct 02 18:59:39 +0000 2016",
+			"id": 782656308348608500,
+			"id_str": "782656308348608513",
+			"text": "@debbiediscovers Thanks for your feedback. It's fixed ;) https://t.co/n3uNMmoqPh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 782656266673979400,
+						"id_str": "782656266673979392",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/CtyNulRWAAAI6d9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtyNulRWAAAI6d9.jpg",
+						"url": "https://t.co/n3uNMmoqPh",
+						"display_url": "pic.twitter.com/n3uNMmoqPh",
+						"expanded_url": "https://twitter.com/JeffProd/status/782656308348608513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1120,
+								"h": 611,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1120,
+								"h": 611,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 371,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 782656266673979400,
+						"id_str": "782656266673979392",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/CtyNulRWAAAI6d9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtyNulRWAAAI6d9.jpg",
+						"url": "https://t.co/n3uNMmoqPh",
+						"display_url": "pic.twitter.com/n3uNMmoqPh",
+						"expanded_url": "https://twitter.com/JeffProd/status/782656308348608513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1120,
+								"h": 611,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1120,
+								"h": 611,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 371,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 782641827123900400,
+			"in_reply_to_status_id_str": "782641827123900417",
+			"in_reply_to_user_id": 3060836348,
+			"in_reply_to_user_id_str": "3060836348",
+			"in_reply_to_screen_name": "debbiediscovers",
+			"user": {
+				"id": 141355043,
+				"id_str": "141355043",
+				"name": "JeffProd",
+				"screen_name": "JeffProd",
+				"location": "France",
+				"description": "Coding for fun",
+				"url": "https://t.co/IDXEHiMWhB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IDXEHiMWhB",
+								"expanded_url": "http://www.jeffprod.com",
+								"display_url": "jeffprod.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 161,
+				"friends_count": 117,
+				"listed_count": 104,
+				"created_at": "Fri May 07 21:45:00 +0000 2010",
+				"favourites_count": 82,
+				"utc_offset": 7200,
+				"time_zone": "Paris",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1580,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000031090927/8d6ea36ea784d430b7ca4e361aa71f35.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000031090927/8d6ea36ea784d430b7ca4e361aa71f35.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/771792554765512704/_asaiBEF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/771792554765512704/_asaiBEF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/141355043/1445931443",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 02 18:02:07 +0000 2016",
 		"id": 782641827123900400,
 		"id_str": "782641827123900417",
