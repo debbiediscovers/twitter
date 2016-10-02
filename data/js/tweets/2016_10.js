@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sun Oct 02 21:10:41 +0000 2016",
+		"id": 782689284432207900,
+		"id_str": "782689284432207872",
+		"text": "RT @maryDOTdigital: #growthhacking How Airbnb Used NPS to Predict Referrals for 600,000 Customers #startup https://t.co/PsUW5GIiSj https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "growthhacking",
+					"indices": [
+						20,
+						34
+					]
+				},
+				{
+					"text": "startup",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maryDOTdigital",
+					"name": "mary.digital",
+					"id": 759500740578639900,
+					"id_str": "759500740578639872",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PsUW5GIiSj",
+					"expanded_url": "http://growthhackers.com/articles/how-airbnb-used-nps-to-predict-referrals-for-600-000-customers?utm_source=twitter&utm_medium=GrowthHackers&utm_campaign=1336",
+					"display_url": "growthhackers.com/articles/how-a…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11201,
+			"friends_count": 6404,
+			"listed_count": 971,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1318,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6401,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 29 05:45:33 +0000 2016",
+			"id": 781369300909260800,
+			"id_str": "781369300909260800",
+			"text": "#growthhacking How Airbnb Used NPS to Predict Referrals for 600,000 Customers #startup https://t.co/PsUW5GIiSj https://t.co/irQ97uGk0g",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "growthhacking",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"text": "startup",
+						"indices": [
+							78,
+							86
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PsUW5GIiSj",
+						"expanded_url": "http://growthhackers.com/articles/how-airbnb-used-nps-to-predict-referrals-for-600-000-customers?utm_source=twitter&utm_medium=GrowthHackers&utm_campaign=1336",
+						"display_url": "growthhackers.com/articles/how-a…",
+						"indices": [
+							87,
+							110
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 781368157860667400,
+						"id_str": "781368157860667392",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/Ctf6MyAWIAAid3d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ctf6MyAWIAAid3d.jpg",
+						"url": "https://t.co/irQ97uGk0g",
+						"display_url": "pic.twitter.com/irQ97uGk0g",
+						"expanded_url": "https://twitter.com/GrowthHackers/status/781368158716358656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 286,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 286,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 286,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 781368158716358700,
+						"source_status_id_str": "781368158716358656",
+						"source_user_id": 1705885393,
+						"source_user_id_str": "1705885393"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 781368157860667400,
+						"id_str": "781368157860667392",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/Ctf6MyAWIAAid3d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ctf6MyAWIAAid3d.jpg",
+						"url": "https://t.co/irQ97uGk0g",
+						"display_url": "pic.twitter.com/irQ97uGk0g",
+						"expanded_url": "https://twitter.com/GrowthHackers/status/781368158716358656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 286,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 286,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 286,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 781368158716358700,
+						"source_status_id_str": "781368158716358656",
+						"source_user_id": 1705885393,
+						"source_user_id_str": "1705885393"
+					}
+				]
+			},
+			"source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 759500740578639900,
+				"id_str": "759500740578639872",
+				"name": "mary.digital",
+				"screen_name": "maryDOTdigital",
+				"location": "London, England",
+				"description": "https://t.co/KhGT7gy7Ic ... that's me, Mary! I am a #digital #entrepreneur, e-commerce & social media pro. I love to connect! #ecommerce #socialmedia",
+				"url": "https://t.co/KhGT7gPJ6M",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KhGT7gPJ6M",
+								"expanded_url": "http://mary.digital",
+								"display_url": "mary.digital",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/KhGT7gy7Ic",
+								"expanded_url": "http://mary.digital",
+								"display_url": "mary.digital",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 379,
+				"friends_count": 70,
+				"listed_count": 890,
+				"created_at": "Sat Jul 30 21:27:42 +0000 2016",
+				"favourites_count": 864,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16613,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/759501492860641280/3o8qqKE6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/759501492860641280/3o8qqKE6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/759500740578639872/1469914153",
+				"profile_link_color": "FF0066",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 02 20:05:16 +0000 2016",
 		"id": 782672821717577700,
 		"id_str": "782672821717577729",
