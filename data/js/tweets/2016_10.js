@@ -1,6 +1,613 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Mon Oct 03 01:07:12 +0000 2016",
+		"id": 782748805561065500,
+		"id_str": "782748805561065472",
+		"text": "RT @AllThingsGraph: Using network analysis as a map to more effective learning from #Wikipedia - http://t.co/kWNah439H5 http://t.co/jyIdLEK…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wikipedia",
+					"indices": [
+						84,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AllThingsGraph",
+					"name": "All Things Graphed",
+					"id": 2722863132,
+					"id_str": "2722863132",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "http://t.co/kWNah439H5",
+					"expanded_url": "http://allthingsgraphed.com/2015/09/16/what-is-transhumanism-wikipedia/",
+					"display_url": "allthingsgraphed.com/2015/09/16/wha…",
+					"indices": [
+						97,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11232,
+			"friends_count": 6473,
+			"listed_count": 971,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1320,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6407,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 18 00:08:30 +0000 2015",
+			"id": 644664256139411500,
+			"id_str": "644664256139411456",
+			"text": "Using network analysis as a map to more effective learning from #Wikipedia - http://t.co/kWNah439H5 http://t.co/jyIdLEKv04",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Wikipedia",
+						"indices": [
+							64,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "http://t.co/kWNah439H5",
+						"expanded_url": "http://allthingsgraphed.com/2015/09/16/what-is-transhumanism-wikipedia/",
+						"display_url": "allthingsgraphed.com/2015/09/16/wha…",
+						"indices": [
+							77,
+							99
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 644664254130319400,
+						"id_str": "644664254130319360",
+						"indices": [
+							100,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/CPJOuTrUcAAihzn.png",
+						"media_url_https": "https://pbs.twimg.com/media/CPJOuTrUcAAihzn.png",
+						"url": "http://t.co/jyIdLEKv04",
+						"display_url": "pic.twitter.com/jyIdLEKv04",
+						"expanded_url": "http://twitter.com/AllThingsGraph/status/644664256139411456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 644664254130319400,
+						"id_str": "644664254130319360",
+						"indices": [
+							100,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/CPJOuTrUcAAihzn.png",
+						"media_url_https": "https://pbs.twimg.com/media/CPJOuTrUcAAihzn.png",
+						"url": "http://t.co/jyIdLEKv04",
+						"display_url": "pic.twitter.com/jyIdLEKv04",
+						"expanded_url": "http://twitter.com/AllThingsGraph/status/644664256139411456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2722863132,
+				"id_str": "2722863132",
+				"name": "All Things Graphed",
+				"screen_name": "AllThingsGraph",
+				"location": "",
+				"description": "A blog by @JonesWCaleb exploring the graphs that surround us. Read more at http://t.co/KD4ZUmRw9K.",
+				"url": "http://t.co/CNxjc2FNaB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/CNxjc2FNaB",
+								"expanded_url": "http://allthingsgraphed.com",
+								"display_url": "allthingsgraphed.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/KD4ZUmRw9K",
+								"expanded_url": "http://allthingsgraphed.com",
+								"display_url": "allthingsgraphed.com",
+								"indices": [
+									75,
+									97
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 171,
+				"friends_count": 53,
+				"listed_count": 13,
+				"created_at": "Mon Aug 11 01:46:52 +0000 2014",
+				"favourites_count": 21,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 49,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/498648813335089152/pIxLdYiR_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/498648813335089152/pIxLdYiR_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2722863132/1407722952",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 03 00:57:35 +0000 2016",
+		"id": 782746386206818300,
+		"id_str": "782746386206818305",
+		"text": "@WolframResearch Awesome. My resources are at your disposal so get in touch when time is right! 💓 💗 💖",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WolframResearch",
+					"name": "Wolfram",
+					"id": 22659609,
+					"id_str": "22659609",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 781975772391235600,
+		"in_reply_to_status_id_str": "781975772391235585",
+		"in_reply_to_user_id": 22659609,
+		"in_reply_to_user_id_str": "22659609",
+		"in_reply_to_screen_name": "WolframResearch",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11232,
+			"friends_count": 6473,
+			"listed_count": 971,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1320,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6407,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 03 00:55:24 +0000 2016",
+		"id": 782745836794937300,
+		"id_str": "782745836794937344",
+		"text": "@LindamHoulihan Right back at ya! Have a good week! https://t.co/antbhClNZy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LindamHoulihan",
+					"name": "Linda Houlihan",
+					"id": 1607208096,
+					"id_str": "1607208096",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 782745786211676200,
+					"id_str": "782745786211676160",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CtzfJTiUsAA5BDp.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CtzfJTiUsAA5BDp.jpg",
+					"url": "https://t.co/antbhClNZy",
+					"display_url": "pic.twitter.com/antbhClNZy",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/782745836794937344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 782745786211676200,
+					"id_str": "782745786211676160",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CtzfJTiUsAA5BDp.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CtzfJTiUsAA5BDp.jpg",
+					"url": "https://t.co/antbhClNZy",
+					"display_url": "pic.twitter.com/antbhClNZy",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/782745836794937344/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/CtzfJTiUsAA5BDp.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 782690898039693300,
+		"in_reply_to_status_id_str": "782690898039693312",
+		"in_reply_to_user_id": 1607208096,
+		"in_reply_to_user_id_str": "1607208096",
+		"in_reply_to_screen_name": "LindamHoulihan",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11232,
+			"friends_count": 6473,
+			"listed_count": 971,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1320,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6407,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 02 23:40:55 +0000 2016",
 		"id": 782727089640263700,
 		"id_str": "782727089640263680",
