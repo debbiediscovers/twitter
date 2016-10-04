@@ -1,6 +1,896 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Tue Oct 04 04:52:00 +0000 2016",
+		"id": 783167764852637700,
+		"id_str": "783167764852637696",
+		"text": "RT @wolframtap: @debbiediscovers (More info: https://t.co/HBUuaZOB3w) #wolframlang https://t.co/JJ1ORYoI9G",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wolframlang",
+					"indices": [
+						70,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wolframtap",
+					"name": "Tweet-a-Program",
+					"id": 2321084863,
+					"id_str": "2321084863",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						16,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HBUuaZOB3w",
+					"expanded_url": "http://go.wolfr.am/JXoUagb",
+					"display_url": "go.wolfr.am/JXoUagb",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 783167681805557800,
+					"id_str": "783167681805557760",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/Ct5e23GWIAA0I-o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ct5e23GWIAA0I-o.jpg",
+					"url": "https://t.co/JJ1ORYoI9G",
+					"display_url": "pic.twitter.com/JJ1ORYoI9G",
+					"expanded_url": "https://twitter.com/wolframtap/status/783167685072941056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 602,
+							"h": 635,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 602,
+							"h": 635,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 602,
+							"h": 635,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 783167685072941000,
+					"source_status_id_str": "783167685072941056",
+					"source_user_id": 2321084863,
+					"source_user_id_str": "2321084863"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 783167681805557800,
+					"id_str": "783167681805557760",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/Ct5e23GWIAA0I-o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ct5e23GWIAA0I-o.jpg",
+					"url": "https://t.co/JJ1ORYoI9G",
+					"display_url": "pic.twitter.com/JJ1ORYoI9G",
+					"expanded_url": "https://twitter.com/wolframtap/status/783167685072941056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 602,
+							"h": 635,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 602,
+							"h": 635,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 602,
+							"h": 635,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 783167685072941000,
+					"source_status_id_str": "783167685072941056",
+					"source_user_id": 2321084863,
+					"source_user_id_str": "2321084863"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11282,
+			"friends_count": 6470,
+			"listed_count": 980,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1325,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 04 04:51:41 +0000 2016",
+			"id": 783167685072941000,
+			"id_str": "783167685072941056",
+			"text": "@debbiediscovers (More info: https://t.co/HBUuaZOB3w) #wolframlang https://t.co/JJ1ORYoI9G",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "wolframlang",
+						"indices": [
+							54,
+							66
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HBUuaZOB3w",
+						"expanded_url": "http://go.wolfr.am/JXoUagb",
+						"display_url": "go.wolfr.am/JXoUagb",
+						"indices": [
+							29,
+							52
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 783167681805557800,
+						"id_str": "783167681805557760",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/Ct5e23GWIAA0I-o.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ct5e23GWIAA0I-o.jpg",
+						"url": "https://t.co/JJ1ORYoI9G",
+						"display_url": "pic.twitter.com/JJ1ORYoI9G",
+						"expanded_url": "https://twitter.com/wolframtap/status/783167685072941056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 602,
+								"h": 635,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 602,
+								"h": 635,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 602,
+								"h": 635,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 783167681805557800,
+						"id_str": "783167681805557760",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/Ct5e23GWIAA0I-o.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ct5e23GWIAA0I-o.jpg",
+						"url": "https://t.co/JJ1ORYoI9G",
+						"display_url": "pic.twitter.com/JJ1ORYoI9G",
+						"expanded_url": "https://twitter.com/wolframtap/status/783167685072941056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 602,
+								"h": 635,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 602,
+								"h": 635,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 602,
+								"h": 635,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.wolfram.com\" rel=\"nofollow\">WolframConnector</a>",
+			"in_reply_to_status_id": 783167526356127700,
+			"in_reply_to_status_id_str": "783167526356127746",
+			"in_reply_to_user_id": 3060836348,
+			"in_reply_to_user_id_str": "3060836348",
+			"in_reply_to_screen_name": "debbiediscovers",
+			"user": {
+				"id": 2321084863,
+				"id_str": "2321084863",
+				"name": "Tweet-a-Program",
+				"screen_name": "wolframtap",
+				"location": "",
+				"description": "Tweetable programs are here! Tweet us your Wolfram Language code (http://t.co/jeGFo3K8yT ) and see what you can create in under 140 characters...",
+				"url": "http://t.co/YCzzKiZvu4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YCzzKiZvu4",
+								"expanded_url": "http://www.wolfram.com/programming-cloud/",
+								"display_url": "wolfram.com/programming-cl…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/jeGFo3K8yT",
+								"expanded_url": "http://www.wolfram.com/language/",
+								"display_url": "wolfram.com/language/",
+								"indices": [
+									66,
+									88
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2952,
+				"friends_count": 7,
+				"listed_count": 93,
+				"created_at": "Fri Jan 31 16:51:24 +0000 2014",
+				"favourites_count": 458,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20856,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/448509545178869760/xqvs51nR.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/448509545178869760/xqvs51nR.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/489887036292075520/wS38z5TM_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/489887036292075520/wS38z5TM_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2321084863/1411074499",
+				"profile_link_color": "B30000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 04 04:51:03 +0000 2016",
+		"id": 783167526356127700,
+		"id_str": "783167526356127746",
+		"text": "@wolframtap Graphics[{Opacity[.2], Hue[1 - #/(4 Pi)], Disk[{-Sin[#], Cos[#]}, Sqrt[2 - 2 Cos[#]]]} &amp; /@ Range[0, 2 Pi, 2 Pi/25]]",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wolframtap",
+					"name": "Tweet-a-Program",
+					"id": 2321084863,
+					"id_str": "2321084863",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2321084863,
+		"in_reply_to_user_id_str": "2321084863",
+		"in_reply_to_screen_name": "wolframtap",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11282,
+			"friends_count": 6470,
+			"listed_count": 980,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1325,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in"
+	},
+	{
+		"created_at": "Tue Oct 04 04:47:24 +0000 2016",
+		"id": 783166608688582700,
+		"id_str": "783166608688582656",
+		"text": "@MediBasket So true!! Same for boyfriend, husband, partner. Heck same for anyone! Why raise your voice at all? :)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MediBasket",
+					"name": "Dr Margaret Aranda",
+					"id": 1717051610,
+					"id_str": "1717051610",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 783139945795969000,
+		"in_reply_to_status_id_str": "783139945795969024",
+		"in_reply_to_user_id": 1717051610,
+		"in_reply_to_user_id_str": "1717051610",
+		"in_reply_to_screen_name": "MediBasket",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11282,
+			"friends_count": 6470,
+			"listed_count": 980,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1325,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 04 04:44:11 +0000 2016",
+		"id": 783165798952996900,
+		"id_str": "783165798952996864",
+		"text": "RT @MediBasket: \"Positive Parenting: Don't raise your voice at your children, or they only hear anger &amp; shame.\" ~Dr Margaret Aranda https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MediBasket",
+					"name": "Dr Margaret Aranda",
+					"id": 1717051610,
+					"id_str": "1717051610",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11282,
+			"friends_count": 6470,
+			"listed_count": 980,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1325,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 04 03:01:27 +0000 2016",
+			"id": 783139945795969000,
+			"id_str": "783139945795969024",
+			"text": "\"Positive Parenting: Don't raise your voice at your children, or they only hear anger &amp; shame.\" ~Dr Margaret Aranda https://t.co/1MCFNVflsg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 783139940595036200,
+						"id_str": "783139940595036160",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/media/Ct5FoHCWcAA4HKH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ct5FoHCWcAA4HKH.jpg",
+						"url": "https://t.co/1MCFNVflsg",
+						"display_url": "pic.twitter.com/1MCFNVflsg",
+						"expanded_url": "https://twitter.com/MediBasket/status/783139945795969024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1020,
+								"h": 1008,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1020,
+								"h": 1008,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 672,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 783139940595036200,
+						"id_str": "783139940595036160",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/media/Ct5FoHCWcAA4HKH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ct5FoHCWcAA4HKH.jpg",
+						"url": "https://t.co/1MCFNVflsg",
+						"display_url": "pic.twitter.com/1MCFNVflsg",
+						"expanded_url": "https://twitter.com/MediBasket/status/783139945795969024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1020,
+								"h": 1008,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1020,
+								"h": 1008,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 672,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.socialjukebox.com\" rel=\"nofollow\">The Social Jukebox</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1717051610,
+				"id_str": "1717051610",
+				"name": "Dr Margaret Aranda",
+				"screen_name": "MediBasket",
+				"location": "California, USA",
+				"description": "Fight for your diagnosis! MD, Ph.D. has dysautonomia, TBI: Eat One Spoon at a Time! Women's Health Advocate, Author x 5, #Immunonutrition #InvisibleIllnesses",
+				"url": "https://t.co/BeXrGDSlvQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BeXrGDSlvQ",
+								"expanded_url": "http://www.drmargaretaranda.blogspot.com",
+								"display_url": "drmargaretaranda.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3237,
+				"friends_count": 4817,
+				"listed_count": 423,
+				"created_at": "Sat Aug 31 23:06:30 +0000 2013",
+				"favourites_count": 10973,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18258,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "981CEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/761210574470602753/2B8GpTyN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/761210574470602753/2B8GpTyN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1717051610/1474947884",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 04 04:03:01 +0000 2016",
 		"id": 783155440095993900,
 		"id_str": "783155440095993856",
