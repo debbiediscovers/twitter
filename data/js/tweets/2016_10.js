@@ -1,6 +1,546 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Wed Oct 05 14:27:35 +0000 2016",
+		"id": 783675003824812000,
+		"id_str": "783675003824812032",
+		"text": "RT @typesofkind: Sprinkle kindness everywhere! #30shadesofkind #typesofkind https://t.co/7GBkyDaBaN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "30shadesofkind",
+					"indices": [
+						47,
+						62
+					]
+				},
+				{
+					"text": "typesofkind",
+					"indices": [
+						63,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "typesofkind",
+					"name": "Types of Kind",
+					"id": 4915049292,
+					"id_str": "4915049292",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 783674780205523000,
+					"id_str": "783674780205522945",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CuAsD32VIAEluxD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CuAsD32VIAEluxD.jpg",
+					"url": "https://t.co/7GBkyDaBaN",
+					"display_url": "pic.twitter.com/7GBkyDaBaN",
+					"expanded_url": "https://twitter.com/typesofkind/status/783674824547676160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 783674824547676200,
+					"source_status_id_str": "783674824547676160",
+					"source_user_id": 4915049292,
+					"source_user_id_str": "4915049292"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 783674780205523000,
+					"id_str": "783674780205522945",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CuAsD32VIAEluxD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CuAsD32VIAEluxD.jpg",
+					"url": "https://t.co/7GBkyDaBaN",
+					"display_url": "pic.twitter.com/7GBkyDaBaN",
+					"expanded_url": "https://twitter.com/typesofkind/status/783674824547676160/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 783674824547676200,
+					"source_status_id_str": "783674824547676160",
+					"source_user_id": 4915049292,
+					"source_user_id_str": "4915049292",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/CuAsD32VIAEluxD.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11288,
+			"friends_count": 6466,
+			"listed_count": 981,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1332,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6436,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 05 14:26:52 +0000 2016",
+			"id": 783674824547676200,
+			"id_str": "783674824547676160",
+			"text": "Sprinkle kindness everywhere! #30shadesofkind #typesofkind https://t.co/7GBkyDaBaN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "30shadesofkind",
+						"indices": [
+							30,
+							45
+						]
+					},
+					{
+						"text": "typesofkind",
+						"indices": [
+							46,
+							58
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 783674780205523000,
+						"id_str": "783674780205522945",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CuAsD32VIAEluxD.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CuAsD32VIAEluxD.jpg",
+						"url": "https://t.co/7GBkyDaBaN",
+						"display_url": "pic.twitter.com/7GBkyDaBaN",
+						"expanded_url": "https://twitter.com/typesofkind/status/783674824547676160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 783674780205523000,
+						"id_str": "783674780205522945",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CuAsD32VIAEluxD.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CuAsD32VIAEluxD.jpg",
+						"url": "https://t.co/7GBkyDaBaN",
+						"display_url": "pic.twitter.com/7GBkyDaBaN",
+						"expanded_url": "https://twitter.com/typesofkind/status/783674824547676160/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://pbs.twimg.com/tweet_video/CuAsD32VIAEluxD.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4915049292,
+				"id_str": "4915049292",
+				"name": "Types of Kind",
+				"screen_name": "typesofkind",
+				"location": "A Kind and Happy Place ❤️",
+				"description": "#typesofkind is a social experiment, a learning space. Where design, technology and random acts of kindness come together via social media! #30shadesofkind",
+				"url": "https://t.co/oh6SS75MgV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oh6SS75MgV",
+								"expanded_url": "http://typesofkind.tumblr.com",
+								"display_url": "typesofkind.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5,
+				"friends_count": 1,
+				"listed_count": 2,
+				"created_at": "Tue Feb 16 09:16:35 +0000 2016",
+				"favourites_count": 1,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 37,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/699557545732501504/lkwOBQLk_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/699557545732501504/lkwOBQLk_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4915049292/1455619018",
+				"profile_link_color": "900002",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 05 14:17:01 +0000 2016",
+		"id": 783672343201771500,
+		"id_str": "783672343201771525",
+		"text": "Why the Godfather of SaaS @jasonlk admitted he was wrong about Net Promoter Score.  via @promoter_io #startup https://t.co/zR5p5SVEQb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startup",
+					"indices": [
+						101,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jasonlk",
+					"name": "Jason M. Lemkin",
+					"id": 4215921,
+					"id_str": "4215921",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"screen_name": "Promoter_io",
+					"name": "Promoter.io",
+					"id": 1202148176,
+					"id_str": "1202148176",
+					"indices": [
+						88,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zR5p5SVEQb",
+					"expanded_url": "http://buff.ly/2dlfJpo",
+					"display_url": "buff.ly/2dlfJpo",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11288,
+			"friends_count": 6466,
+			"listed_count": 981,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1332,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6436,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 05 11:52:02 +0000 2016",
 		"id": 783635859933368300,
 		"id_str": "783635859933368320",
