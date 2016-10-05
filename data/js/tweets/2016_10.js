@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Wed Oct 05 02:07:03 +0000 2016",
+		"id": 783488642345939000,
+		"id_str": "783488642345938944",
+		"text": "RT @BernardMarr: 5 Skills Everyone Should Develop Now To Prepare For A Different Job World Tomorrow - #BigData, #IoT - Forbes https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BigData",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "IoT",
+					"indices": [
+						112,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BernardMarr",
+					"name": "Bernard Marr",
+					"id": 108286674,
+					"id_str": "108286674",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11281,
+			"friends_count": 6472,
+			"listed_count": 981,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1331,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6426,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 05 02:00:33 +0000 2016",
+			"id": 783487006470963200,
+			"id_str": "783487006470963200",
+			"text": "5 Skills Everyone Should Develop Now To Prepare For A Different Job World Tomorrow - #BigData, #IoT - Forbes https://t.co/sWMy4nEVih",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BigData",
+						"indices": [
+							85,
+							93
+						]
+					},
+					{
+						"text": "IoT",
+						"indices": [
+							95,
+							99
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sWMy4nEVih",
+						"expanded_url": "http://ow.ly/BkMb304R5kL",
+						"display_url": "ow.ly/BkMb304R5kL",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 108286674,
+				"id_str": "108286674",
+				"name": "Bernard Marr",
+				"screen_name": "BernardMarr",
+				"location": "London",
+				"description": "Bestselling Author, Keynote Speaker, Strategic Performance Consultant, and Analytics, KPI & Big Data Guru",
+				"url": "http://t.co/FSrTHxWHhw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/FSrTHxWHhw",
+								"expanded_url": "http://www.ap-institute.com/index.asp",
+								"display_url": "ap-institute.com/index.asp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 86082,
+				"friends_count": 51,
+				"listed_count": 3724,
+				"created_at": "Mon Jan 25 13:11:08 +0000 2010",
+				"favourites_count": 208,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20730,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/285925993/twitterbg.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/285925993/twitterbg.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3702848499/ca183e8e41fe6a9cb41006ddcf15c0b2_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3702848499/ca183e8e41fe6a9cb41006ddcf15c0b2_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/108286674/1462278927",
+				"profile_link_color": "8BB531",
+				"profile_sidebar_border_color": "EBEBEB",
+				"profile_sidebar_fill_color": "F2F2F2",
+				"profile_text_color": "3E3E3E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 04 16:23:00 +0000 2016",
 		"id": 783341663154495500,
 		"id_str": "783341663154495489",
