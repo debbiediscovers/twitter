@@ -1,6 +1,825 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Wed Oct 05 04:26:14 +0000 2016",
+		"id": 783523669364604900,
+		"id_str": "783523669364604928",
+		"text": "That sounds like quite an achievement to me! @ERobbPrincipal @Begabungs #Persistence #Perseverance and a healthy do… https://t.co/jEZ71QNYSi",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Persistence",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"text": "Perseverance",
+					"indices": [
+						85,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ERobbPrincipal",
+					"name": "Evan Robb",
+					"id": 3843360443,
+					"id_str": "3843360443",
+					"indices": [
+						45,
+						60
+					]
+				},
+				{
+					"screen_name": "Begabungs",
+					"name": "Begabungs",
+					"id": 73941068,
+					"id_str": "73941068",
+					"indices": [
+						61,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jEZ71QNYSi",
+					"expanded_url": "https://twitter.com/i/web/status/783523669364604928",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11281,
+			"friends_count": 6473,
+			"listed_count": 980,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1331,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6430,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 783519024856633300,
+		"quoted_status_id_str": "783519024856633345",
+		"quoted_status": {
+			"created_at": "Wed Oct 05 04:07:47 +0000 2016",
+			"id": 783519024856633300,
+			"id_str": "783519024856633345",
+			"text": "A classic!\n#quote\nEvan @ERobbPrincipal https://t.co/mxVs363nCV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "quote",
+						"indices": [
+							11,
+							17
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ERobbPrincipal",
+						"name": "Evan Robb",
+						"id": 3843360443,
+						"id_str": "3843360443",
+						"indices": [
+							23,
+							38
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 783519021287272400,
+						"id_str": "783519021287272448",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/Ct-eZgqW8AAL4Ny.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ct-eZgqW8AAL4Ny.jpg",
+						"url": "https://t.co/mxVs363nCV",
+						"display_url": "pic.twitter.com/mxVs363nCV",
+						"expanded_url": "https://twitter.com/ERobbPrincipal/status/783519024856633345/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 275,
+								"h": 183,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 275,
+								"h": 183,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 275,
+								"h": 183,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 783519021287272400,
+						"id_str": "783519021287272448",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/Ct-eZgqW8AAL4Ny.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ct-eZgqW8AAL4Ny.jpg",
+						"url": "https://t.co/mxVs363nCV",
+						"display_url": "pic.twitter.com/mxVs363nCV",
+						"expanded_url": "https://twitter.com/ERobbPrincipal/status/783519024856633345/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 275,
+								"h": 183,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 275,
+								"h": 183,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 275,
+								"h": 183,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.tweetjukebox.com\" rel=\"nofollow\">Tweet Jukebox</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3843360443,
+				"id_str": "3843360443",
+				"name": "Evan Robb",
+				"screen_name": "ERobbPrincipal",
+				"location": "Winchester, VA",
+				"description": "Middle School #Principal, Author, Learner, Speaker, #MBA, #divergEd, Influencer, Inspiring Quotes, https://t.co/EaxLYyubgx, #ERobbmotivation, #robbedchat",
+				"url": "https://t.co/LZy2lB4C3R",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LZy2lB4C3R",
+								"expanded_url": "http://about.me/evanrobb",
+								"display_url": "about.me/evanrobb",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/EaxLYyubgx",
+								"expanded_url": "http://TheRobbReview.org",
+								"display_url": "TheRobbReview.org",
+								"indices": [
+									99,
+									122
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5938,
+				"friends_count": 2991,
+				"listed_count": 559,
+				"created_at": "Fri Oct 02 13:42:01 +0000 2015",
+				"favourites_count": 6456,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 32308,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/649943551569059841/Fxu18qgu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/649943551569059841/Fxu18qgu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3843360443/1443811080",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 05 04:22:28 +0000 2016",
+		"id": 783522722655641600,
+		"id_str": "783522722655641600",
+		"text": "@ERobbPrincipal @Begabungs That's such a great quote!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ERobbPrincipal",
+					"name": "Evan Robb",
+					"id": 3843360443,
+					"id_str": "3843360443",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Begabungs",
+					"name": "Begabungs",
+					"id": 73941068,
+					"id_str": "73941068",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 783519024856633300,
+		"in_reply_to_status_id_str": "783519024856633345",
+		"in_reply_to_user_id": 3843360443,
+		"in_reply_to_user_id_str": "3843360443",
+		"in_reply_to_screen_name": "ERobbPrincipal",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11281,
+			"friends_count": 6473,
+			"listed_count": 980,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1331,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6430,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 05 04:21:53 +0000 2016",
+		"id": 783522575867576300,
+		"id_str": "783522575867576320",
+		"text": "RT @ML_toparticles: Why Data Science 'Rock Stars' Earn Big Salaries https://t.co/qU28UlQymI https://t.co/SGCkVEVNPV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ML_toparticles",
+					"name": "Machine Learning",
+					"id": 2777103822,
+					"id_str": "2777103822",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qU28UlQymI",
+					"expanded_url": "http://www.rightrelevance.com/search/articles/hero?article=d8f39feae03c0dc53f018ccfe0e2c1706523c060&query=data%20science&taccount=ml_toparticles",
+					"display_url": "rightrelevance.com/search/article…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 783517091047600100,
+					"id_str": "783517091047600128",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Ct-cpJ9W8AAgToQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ct-cpJ9W8AAgToQ.jpg",
+					"url": "https://t.co/SGCkVEVNPV",
+					"display_url": "pic.twitter.com/SGCkVEVNPV",
+					"expanded_url": "https://twitter.com/ML_toparticles/status/783517093639626753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 783517093639626800,
+					"source_status_id_str": "783517093639626753",
+					"source_user_id": 2777103822,
+					"source_user_id_str": "2777103822"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 783517091047600100,
+					"id_str": "783517091047600128",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Ct-cpJ9W8AAgToQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ct-cpJ9W8AAgToQ.jpg",
+					"url": "https://t.co/SGCkVEVNPV",
+					"display_url": "pic.twitter.com/SGCkVEVNPV",
+					"expanded_url": "https://twitter.com/ML_toparticles/status/783517093639626753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 783517093639626800,
+					"source_status_id_str": "783517093639626753",
+					"source_user_id": 2777103822,
+					"source_user_id_str": "2777103822"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11281,
+			"friends_count": 6473,
+			"listed_count": 980,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1331,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6430,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 05 04:00:06 +0000 2016",
+			"id": 783517093639626800,
+			"id_str": "783517093639626753",
+			"text": "Why Data Science 'Rock Stars' Earn Big Salaries https://t.co/qU28UlQymI https://t.co/SGCkVEVNPV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qU28UlQymI",
+						"expanded_url": "http://www.rightrelevance.com/search/articles/hero?article=d8f39feae03c0dc53f018ccfe0e2c1706523c060&query=data%20science&taccount=ml_toparticles",
+						"display_url": "rightrelevance.com/search/article…",
+						"indices": [
+							48,
+							71
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 783517091047600100,
+						"id_str": "783517091047600128",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/Ct-cpJ9W8AAgToQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ct-cpJ9W8AAgToQ.jpg",
+						"url": "https://t.co/SGCkVEVNPV",
+						"display_url": "pic.twitter.com/SGCkVEVNPV",
+						"expanded_url": "https://twitter.com/ML_toparticles/status/783517093639626753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 783517091047600100,
+						"id_str": "783517091047600128",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/Ct-cpJ9W8AAgToQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ct-cpJ9W8AAgToQ.jpg",
+						"url": "https://t.co/SGCkVEVNPV",
+						"display_url": "pic.twitter.com/SGCkVEVNPV",
+						"expanded_url": "https://twitter.com/ML_toparticles/status/783517093639626753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.rightrelevance.com\" rel=\"nofollow\">MachineLearningRR</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2777103822,
+				"id_str": "2777103822",
+				"name": "Machine Learning",
+				"screen_name": "ML_toparticles",
+				"location": "San Francisco",
+				"description": "Live #ml #machinelearning #nlp #ai content curated by top Machine Learning, NLP, AI Influencers via @rightrelevance. Moderated by @vmishrra",
+				"url": "http://t.co/LhyH7Q7msH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/LhyH7Q7msH",
+								"expanded_url": "http://bit.ly/1FpnWTO",
+								"display_url": "bit.ly/1FpnWTO",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26552,
+				"friends_count": 2683,
+				"listed_count": 942,
+				"created_at": "Thu Aug 28 21:01:53 +0000 2014",
+				"favourites_count": 68,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20533,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/530079772529799168/TEJ3ftfh_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/530079772529799168/TEJ3ftfh_normal.png",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 05 04:03:01 +0000 2016",
 		"id": 783517824899768300,
 		"id_str": "783517824899768320",
