@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 16:23:00 +0000 2016",
+		"id": 784066438931816400,
+		"id_str": "784066438931816448",
+		"text": "RT @NikkiElizDemere: Data Storytelling 101: Helpful Tools for Gathering Ideas, Designing Content &amp; More: https://t.co/JY4koVtzkV #DataStory…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NikkiElizDemere",
+					"name": "Nichole Elizabeth",
+					"id": 39099783,
+					"id_str": "39099783",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JY4koVtzkV",
+					"expanded_url": "http://buff.ly/2ddK5M0",
+					"display_url": "buff.ly/2ddK5M0",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11302,
+			"friends_count": 6631,
+			"listed_count": 985,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1343,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6478,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 30 23:30:22 +0000 2016",
+			"id": 781999658960904200,
+			"id_str": "781999658960904192",
+			"text": "Data Storytelling 101: Helpful Tools for Gathering Ideas, Designing Content &amp; More: https://t.co/JY4koVtzkV… https://t.co/K8xkVkHYas",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JY4koVtzkV",
+						"expanded_url": "http://buff.ly/2ddK5M0",
+						"display_url": "buff.ly/2ddK5M0",
+						"indices": [
+							88,
+							111
+						]
+					},
+					{
+						"url": "https://t.co/K8xkVkHYas",
+						"expanded_url": "https://twitter.com/i/web/status/781999658960904192",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39099783,
+				"id_str": "39099783",
+				"name": "Nichole Elizabeth",
+				"screen_name": "NikkiElizDemere",
+				"location": "Tampa, Florida",
+				"description": "SaaS Consultant & Customer Success Evangelist. Founder at Authentic Curation. Moderator at @ProductHunt & @GrowthHackers. Previously: Growth at @InboundOrg.",
+				"url": "https://t.co/fYEJXTdnwU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fYEJXTdnwU",
+								"expanded_url": "http://nicholeelizabethdemere.com/",
+								"display_url": "nicholeelizabethdemere.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52311,
+				"friends_count": 35337,
+				"listed_count": 2650,
+				"created_at": "Sun May 10 19:48:34 +0000 2009",
+				"favourites_count": 37756,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 80912,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "474647",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494998340333867009/wiNg4Yyr.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494998340333867009/wiNg4Yyr.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/749287656031477760/lid39At7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/749287656031477760/lid39At7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39099783/1475733631",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "91DAB6",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 06 16:21:29 +0000 2016",
+		"id": 784066053890420700,
+		"id_str": "784066053890420737",
+		"text": "#Impressive! Harvard @rahsaanking has 4K Online Tutors fr top 200 schools (40% Ivy League) and fierce growth plans https://t.co/YNj8MG7Oxx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Impressive",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rahsaanking",
+					"name": "Rahsaan King",
+					"id": 93653601,
+					"id_str": "93653601",
+					"indices": [
+						21,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YNj8MG7Oxx",
+					"expanded_url": "http://edtechtimes.com/2016/09/15/robin-hood-online-tutoring-qa-rahsaan-king-founder-students-strength/",
+					"display_url": "edtechtimes.com/2016/09/15/rob…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11302,
+			"friends_count": 6631,
+			"listed_count": 985,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1343,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6478,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 06 14:41:49 +0000 2016",
 		"id": 784040974460739600,
 		"id_str": "784040974460739588",
