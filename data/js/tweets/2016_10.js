@@ -1,6 +1,886 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 06:51:12 +0000 2016",
+		"id": 783922537176498200,
+		"id_str": "783922537176498176",
+		"text": "@HenryReith Love that quote!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HenryReith",
+					"name": "Henry Reith",
+					"id": 269114591,
+					"id_str": "269114591",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 783544024258977800,
+		"in_reply_to_status_id_str": "783544024258977792",
+		"in_reply_to_user_id": 269114591,
+		"in_reply_to_user_id_str": "269114591",
+		"in_reply_to_screen_name": "HenryReith",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11292,
+			"friends_count": 6548,
+			"listed_count": 985,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1337,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6463,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 06 06:48:39 +0000 2016",
+		"id": 783921896966369300,
+		"id_str": "783921896966369280",
+		"text": "RT @HenryReith: #Marketing Is A Commodity, #Process is Priceless\n\nhttps://t.co/tR1iq2J4xp\n\n#quote #marketing #growthacking https://t.co/Yea…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Marketing",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"text": "Process",
+					"indices": [
+						43,
+						51
+					]
+				},
+				{
+					"text": "quote",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "marketing",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"text": "growthacking",
+					"indices": [
+						109,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HenryReith",
+					"name": "Henry Reith",
+					"id": 269114591,
+					"id_str": "269114591",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tR1iq2J4xp",
+					"expanded_url": "http://henryreith.co",
+					"display_url": "henryreith.co",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11292,
+			"friends_count": 6548,
+			"listed_count": 985,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1337,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6463,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 05 05:47:07 +0000 2016",
+			"id": 783544024258977800,
+			"id_str": "783544024258977792",
+			"text": "#Marketing Is A Commodity, #Process is Priceless\n\nhttps://t.co/tR1iq2J4xp\n\n#quote #marketing #growthacking https://t.co/YeaBX1etDz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Marketing",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"text": "Process",
+						"indices": [
+							27,
+							35
+						]
+					},
+					{
+						"text": "quote",
+						"indices": [
+							75,
+							81
+						]
+					},
+					{
+						"text": "marketing",
+						"indices": [
+							82,
+							92
+						]
+					},
+					{
+						"text": "growthacking",
+						"indices": [
+							93,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tR1iq2J4xp",
+						"expanded_url": "http://henryreith.co",
+						"display_url": "henryreith.co",
+						"indices": [
+							50,
+							73
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 783544021188763600,
+						"id_str": "783544021188763649",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/Ct-1IsjWYAEugzH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ct-1IsjWYAEugzH.jpg",
+						"url": "https://t.co/YeaBX1etDz",
+						"display_url": "pic.twitter.com/YeaBX1etDz",
+						"expanded_url": "https://twitter.com/HenryReith/status/783544024258977792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 970,
+								"h": 546,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 970,
+								"h": 546,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 783544021188763600,
+						"id_str": "783544021188763649",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/Ct-1IsjWYAEugzH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ct-1IsjWYAEugzH.jpg",
+						"url": "https://t.co/YeaBX1etDz",
+						"display_url": "pic.twitter.com/YeaBX1etDz",
+						"expanded_url": "https://twitter.com/HenryReith/status/783544024258977792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 970,
+								"h": 546,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 970,
+								"h": 546,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.henryreith.co\" rel=\"nofollow\">HR.co - SNAP Share</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 269114591,
+				"id_str": "269114591",
+				"name": "Henry Reith",
+				"screen_name": "HenryReith",
+				"location": "Melbourne, Victoria",
+				"description": "editor at @fridgebusiness. Creating & implementing processes to market businesses in less than 15 mins a day. 'marketing is a commodity, process is priceless'",
+				"url": "https://t.co/FuN9mzbG4B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FuN9mzbG4B",
+								"expanded_url": "http://henryreith.co",
+								"display_url": "henryreith.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16751,
+				"friends_count": 9583,
+				"listed_count": 734,
+				"created_at": "Sun Mar 20 03:51:15 +0000 2011",
+				"favourites_count": 16043,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3429,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181335671/8KdnnB28.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181335671/8KdnnB28.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/690703567569690624/VQ7Y083F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/690703567569690624/VQ7Y083F_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/269114591/1434929373",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 06 06:44:49 +0000 2016",
+		"id": 783920931693473800,
+		"id_str": "783920931693473792",
+		"text": "RT @tastereunion: Best #airbnb apt we ever experienced was at @debbiediscovers 's little gem in Tiong Bahru ! #Singapore ! #LiveThere @Airb…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "airbnb",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"text": "Singapore",
+					"indices": [
+						110,
+						120
+					]
+				},
+				{
+					"text": "LiveThere",
+					"indices": [
+						123,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tastereunion",
+					"name": "tastereunion",
+					"id": 3231429844,
+					"id_str": "3231429844",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						62,
+						78
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11292,
+			"friends_count": 6548,
+			"listed_count": 985,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1337,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6463,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 06 06:40:30 +0000 2016",
+			"id": 783919844999692300,
+			"id_str": "783919844999692289",
+			"text": "Best #airbnb apt we ever experienced was at @debbiediscovers 's little gem in Tiong Bahru ! #Singapore ! #LiveThere… https://t.co/x6bTJG1P56",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "airbnb",
+						"indices": [
+							5,
+							12
+						]
+					},
+					{
+						"text": "Singapore",
+						"indices": [
+							92,
+							102
+						]
+					},
+					{
+						"text": "LiveThere",
+						"indices": [
+							105,
+							115
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							44,
+							60
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/x6bTJG1P56",
+						"expanded_url": "https://twitter.com/i/web/status/783919844999692289",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 783899143542411300,
+			"in_reply_to_status_id_str": "783899143542411265",
+			"in_reply_to_user_id": 3060836348,
+			"in_reply_to_user_id_str": "3060836348",
+			"in_reply_to_screen_name": "debbiediscovers",
+			"user": {
+				"id": 3231429844,
+				"id_str": "3231429844",
+				"name": "tastereunion",
+				"screen_name": "tastereunion",
+				"location": "Saint-Pierre, La Réunion",
+				"description": "Born&raised in #reunionisland🏝, it's gonna be about #Food 🍱, #Travel ✈️and #Love ❤️ in #lareunion and our trips ! Fr🇫🇷&Eng🇬🇧",
+				"url": "https://t.co/QyETt2XMzl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QyETt2XMzl",
+								"expanded_url": "http://tastereunion.com/",
+								"display_url": "tastereunion.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 201,
+				"friends_count": 457,
+				"listed_count": 53,
+				"created_at": "Sun May 03 18:46:23 +0000 2015",
+				"favourites_count": 571,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 594,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/669758314411085824/mQksReB5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/669758314411085824/mQksReB5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3231429844/1467784383",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "6f8bf4f18e6799fe",
+				"url": "https://api.twitter.com/1.1/geo/id/6f8bf4f18e6799fe.json",
+				"place_type": "country",
+				"name": "La Réunion",
+				"full_name": "La Réunion",
+				"country_code": "RE",
+				"country": "La Réunion",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								55.2164869,
+								-21.3897203
+							],
+							[
+								55.836759,
+								-21.3897203
+							],
+							[
+								55.836759,
+								-20.8717455
+							],
+							[
+								55.2164869,
+								-20.8717455
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 06 06:44:43 +0000 2016",
+		"id": 783920907022585900,
+		"id_str": "783920907022585856",
+		"text": "Aww thx @tastereunion Thanks for blogging about AND donating to my @pencilsofpromis fundraise too! 💓 💗 💖… https://t.co/G1VLUf3WeT",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tastereunion",
+					"name": "tastereunion",
+					"id": 3231429844,
+					"id_str": "3231429844",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"screen_name": "PencilsOfPromis",
+					"name": "Pencils of Promise",
+					"id": 18369852,
+					"id_str": "18369852",
+					"indices": [
+						67,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/G1VLUf3WeT",
+					"expanded_url": "https://twitter.com/i/web/status/783920907022585856",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 783919844999692300,
+		"in_reply_to_status_id_str": "783919844999692289",
+		"in_reply_to_user_id": 3231429844,
+		"in_reply_to_user_id_str": "3231429844",
+		"in_reply_to_screen_name": "tastereunion",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11292,
+			"friends_count": 6548,
+			"listed_count": 985,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1337,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6463,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 06 06:10:12 +0000 2016",
 		"id": 783912221281689600,
 		"id_str": "783912221281689600",
