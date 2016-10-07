@@ -1,6 +1,658 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 20:37:23 +0000 2016",
+		"id": 784492841439330300,
+		"id_str": "784492841439330304",
+		"text": "RT @horse_gif: beesandbombs: follow one &gt;:) Circular Logic #Love this Gif... by @debbiediscovers #gif https://t.co/ziBt2Vh2Dw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Love",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "gif",
+					"indices": [
+						100,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "horse_gif",
+					"name": "Horse gif",
+					"id": 2776771800,
+					"id_str": "2776771800",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						83,
+						99
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 784488616202473500,
+					"id_str": "784488616202473472",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CuMQPXMWEAAi_IC.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CuMQPXMWEAAi_IC.jpg",
+					"url": "https://t.co/ziBt2Vh2Dw",
+					"display_url": "pic.twitter.com/ziBt2Vh2Dw",
+					"expanded_url": "https://twitter.com/horse_gif/status/784488618526175232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 784488618526175200,
+					"source_status_id_str": "784488618526175232",
+					"source_user_id": 2776771800,
+					"source_user_id_str": "2776771800"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 784488616202473500,
+					"id_str": "784488616202473472",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CuMQPXMWEAAi_IC.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CuMQPXMWEAAi_IC.jpg",
+					"url": "https://t.co/ziBt2Vh2Dw",
+					"display_url": "pic.twitter.com/ziBt2Vh2Dw",
+					"expanded_url": "https://twitter.com/horse_gif/status/784488618526175232/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 784488618526175200,
+					"source_status_id_str": "784488618526175232",
+					"source_user_id": 2776771800,
+					"source_user_id_str": "2776771800",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/CuMQPXMWEAAi_IC.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11353,
+			"friends_count": 6790,
+			"listed_count": 987,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1359,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6507,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 07 20:20:36 +0000 2016",
+			"id": 784488618526175200,
+			"id_str": "784488618526175232",
+			"text": "beesandbombs: follow one &gt;:) Circular Logic #Love this Gif... by @debbiediscovers #gif https://t.co/ziBt2Vh2Dw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Love",
+						"indices": [
+							47,
+							52
+						]
+					},
+					{
+						"text": "gif",
+						"indices": [
+							85,
+							89
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							68,
+							84
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 784488616202473500,
+						"id_str": "784488616202473472",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CuMQPXMWEAAi_IC.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CuMQPXMWEAAi_IC.jpg",
+						"url": "https://t.co/ziBt2Vh2Dw",
+						"display_url": "pic.twitter.com/ziBt2Vh2Dw",
+						"expanded_url": "https://twitter.com/horse_gif/status/784488618526175232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 784488616202473500,
+						"id_str": "784488616202473472",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CuMQPXMWEAAi_IC.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CuMQPXMWEAAi_IC.jpg",
+						"url": "https://t.co/ziBt2Vh2Dw",
+						"display_url": "pic.twitter.com/ziBt2Vh2Dw",
+						"expanded_url": "https://twitter.com/horse_gif/status/784488618526175232/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://pbs.twimg.com/tweet_video/CuMQPXMWEAAi_IC.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2776771800,
+				"id_str": "2776771800",
+				"name": "Horse gif",
+				"screen_name": "horse_gif",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32,
+				"friends_count": 0,
+				"listed_count": 8,
+				"created_at": "Thu Aug 28 17:02:57 +0000 2014",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23345,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/505038257483030528/1Rq4vco5_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/505038257483030528/1Rq4vco5_normal.png",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 07 20:36:49 +0000 2016",
+		"id": 784492699499962400,
+		"id_str": "784492699499962369",
+		"text": "RT @RecopilaBot: Gif: beesandbombs: follow one &gt;:) Circular Logic #Love this Gif... by @debbiediscovers via /r/gif https://t.co/otyxBnsKe3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Love",
+					"indices": [
+						69,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RecopilaBot",
+					"name": "RecopilaBot",
+					"id": 2190645757,
+					"id_str": "2190645757",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						90,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/otyxBnsKe3",
+					"expanded_url": "http://ift.tt/2dZKyEb",
+					"display_url": "ift.tt/2dZKyEb",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11353,
+			"friends_count": 6790,
+			"listed_count": 987,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1359,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6507,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 07 20:36:09 +0000 2016",
+			"id": 784492530134057000,
+			"id_str": "784492530134056960",
+			"text": "Gif: beesandbombs: follow one &gt;:) Circular Logic #Love this Gif... by @debbiediscovers via /r/gif https://t.co/otyxBnsKe3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Love",
+						"indices": [
+							52,
+							57
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							73,
+							89
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/otyxBnsKe3",
+						"expanded_url": "http://ift.tt/2dZKyEb",
+						"display_url": "ift.tt/2dZKyEb",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2190645757,
+				"id_str": "2190645757",
+				"name": "RecopilaBot",
+				"screen_name": "RecopilaBot",
+				"location": "",
+				"description": "Recopilador automático en Internet",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44,
+				"friends_count": 0,
+				"listed_count": 61,
+				"created_at": "Tue Nov 12 16:25:12 +0000 2013",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39557,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000731273329/0690f8092f6d705867a34ec5276de0d2_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000731273329/0690f8092f6d705867a34ec5276de0d2_normal.png",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 07 19:56:51 +0000 2016",
 		"id": 784482640023945200,
 		"id_str": "784482640023945216",
