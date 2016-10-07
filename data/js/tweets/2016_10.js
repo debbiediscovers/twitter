@@ -1,6 +1,853 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 13:29:43 +0000 2016",
+		"id": 784385216827711500,
+		"id_str": "784385216827711488",
+		"text": "RT @ammr: Wow, amazing virtual reality 👌Mark Zuckerberg\nThis is AMAZING! #wow\n#tech https://t.co/AQy3kQzLM0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wow",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "tech",
+					"indices": [
+						78,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ammr",
+					"name": "Ammar Mohammed 🖥",
+					"id": 6176772,
+					"id_str": "6176772",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 784155321375727600,
+					"id_str": "784155321375727616",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/784155321375727616/img/NymafEacmYF0xpkZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/784155321375727616/img/NymafEacmYF0xpkZ.jpg",
+					"url": "https://t.co/AQy3kQzLM0",
+					"display_url": "pic.twitter.com/AQy3kQzLM0",
+					"expanded_url": "https://twitter.com/ammr/status/784158670883921920/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 784158670883921900,
+					"source_status_id_str": "784158670883921920",
+					"source_user_id": 6176772,
+					"source_user_id_str": "6176772"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 784155321375727600,
+					"id_str": "784155321375727616",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/784155321375727616/img/NymafEacmYF0xpkZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/784155321375727616/img/NymafEacmYF0xpkZ.jpg",
+					"url": "https://t.co/AQy3kQzLM0",
+					"display_url": "pic.twitter.com/AQy3kQzLM0",
+					"expanded_url": "https://twitter.com/ammr/status/784158670883921920/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 784158670883921900,
+					"source_status_id_str": "784158670883921920",
+					"source_user_id": 6176772,
+					"source_user_id_str": "6176772",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 439307,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/784155321375727616/vid/1280x720/KLCxCwkZfi5YPwzc.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/784155321375727616/vid/640x360/fdcl4s3Ay7I_0Xid.mp4"
+							},
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/amplify_video/784155321375727616/pl/S0kWHYjBoJtnReey.mpd"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/784155321375727616/pl/S0kWHYjBoJtnReey.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/784155321375727616/vid/320x180/ZMuXzas2AE0_eJEW.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "virtual reality ",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 6176772,
+							"id_str": "6176772",
+							"name": "Ammar Mohammed 🖥",
+							"screen_name": "ammr",
+							"location": "Qatar",
+							"description": "مستشار ومدرب الاعلام الرقمي ضمن أقوى ١٠ مؤثرين بالاعلام الاجتماعي بالشرق الأوسط Social Media Guru, Author & trainer. snap:ammartalk PR: Ammar@qommunication.co",
+							"url": "https://t.co/7oU2kHWUCE",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/7oU2kHWUCE",
+											"expanded_url": "http://ammartalk.com",
+											"display_url": "ammartalk.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 725260,
+							"friends_count": 1818,
+							"listed_count": 2440,
+							"created_at": "Sun May 20 11:52:24 +0000 2007",
+							"favourites_count": 22113,
+							"utc_offset": 10800,
+							"time_zone": "Riyadh",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 93855,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": true,
+							"is_translation_enabled": false,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000042819943/1d6f345ee1acb9d986fa54b084d884a9.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000042819943/1d6f345ee1acb9d986fa54b084d884a9.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/738322353390751744/fJJN5Fz2_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/738322353390751744/fJJN5Fz2_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/6176772/1475501008",
+							"profile_link_color": "000000",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "FFFFFF",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11331,
+			"friends_count": 6630,
+			"listed_count": 988,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1354,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6496,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 06 22:29:30 +0000 2016",
+			"id": 784158670883921900,
+			"id_str": "784158670883921920",
+			"text": "Wow, amazing virtual reality 👌Mark Zuckerberg\nThis is AMAZING! #wow\n#tech https://t.co/AQy3kQzLM0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "wow",
+						"indices": [
+							63,
+							67
+						]
+					},
+					{
+						"text": "tech",
+						"indices": [
+							68,
+							73
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 784155321375727600,
+						"id_str": "784155321375727616",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/784155321375727616/img/NymafEacmYF0xpkZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/784155321375727616/img/NymafEacmYF0xpkZ.jpg",
+						"url": "https://t.co/AQy3kQzLM0",
+						"display_url": "pic.twitter.com/AQy3kQzLM0",
+						"expanded_url": "https://twitter.com/ammr/status/784158670883921920/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 784155321375727600,
+						"id_str": "784155321375727616",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/784155321375727616/img/NymafEacmYF0xpkZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/784155321375727616/img/NymafEacmYF0xpkZ.jpg",
+						"url": "https://t.co/AQy3kQzLM0",
+						"display_url": "pic.twitter.com/AQy3kQzLM0",
+						"expanded_url": "https://twitter.com/ammr/status/784158670883921920/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 439307,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/784155321375727616/vid/1280x720/KLCxCwkZfi5YPwzc.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/784155321375727616/vid/640x360/fdcl4s3Ay7I_0Xid.mp4"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/amplify_video/784155321375727616/pl/S0kWHYjBoJtnReey.mpd"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/784155321375727616/pl/S0kWHYjBoJtnReey.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/784155321375727616/vid/320x180/ZMuXzas2AE0_eJEW.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "virtual reality ",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6176772,
+				"id_str": "6176772",
+				"name": "Ammar Mohammed 🖥",
+				"screen_name": "ammr",
+				"location": "Qatar",
+				"description": "مستشار ومدرب الاعلام الرقمي ضمن أقوى ١٠ مؤثرين بالاعلام الاجتماعي بالشرق الأوسط Social Media Guru, Author & trainer. snap:ammartalk PR: Ammar@qommunication.co",
+				"url": "https://t.co/7oU2kHWUCE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7oU2kHWUCE",
+								"expanded_url": "http://ammartalk.com",
+								"display_url": "ammartalk.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 725260,
+				"friends_count": 1818,
+				"listed_count": 2440,
+				"created_at": "Sun May 20 11:52:24 +0000 2007",
+				"favourites_count": 22113,
+				"utc_offset": 10800,
+				"time_zone": "Riyadh",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 93855,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": true,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000042819943/1d6f345ee1acb9d986fa54b084d884a9.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000042819943/1d6f345ee1acb9d986fa54b084d884a9.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/738322353390751744/fJJN5Fz2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/738322353390751744/fJJN5Fz2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6176772/1475501008",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 07 13:24:20 +0000 2016",
+		"id": 784383862851842000,
+		"id_str": "784383862851842048",
+		"text": "RT @MSocialBusiness: Twitter – How to Host your Twitter Archive on Github Pages https://t.co/vuwVh9SjuM #twitter via @debbiediscovers https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "twitter",
+					"indices": [
+						104,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MSocialBusiness",
+					"name": "Max. Social Business",
+					"id": 56554540,
+					"id_str": "56554540",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						117,
+						133
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vuwVh9SjuM",
+					"expanded_url": "https://www.mhb.io/e/274al/7a",
+					"display_url": "mhb.io/e/274al/7a",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11331,
+			"friends_count": 6630,
+			"listed_count": 988,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1354,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6496,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 07 13:23:48 +0000 2016",
+			"id": 784383726453157900,
+			"id_str": "784383726453157888",
+			"text": "Twitter – How to Host your Twitter Archive on Github Pages https://t.co/vuwVh9SjuM #twitter via @debbiediscovers https://t.co/G3KPGDECi4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "twitter",
+						"indices": [
+							83,
+							91
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							96,
+							112
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vuwVh9SjuM",
+						"expanded_url": "https://www.mhb.io/e/274al/7a",
+						"display_url": "mhb.io/e/274al/7a",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 784383721768190000,
+						"id_str": "784383721768189952",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/CuKw1s-XgAA0apt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuKw1s-XgAA0apt.jpg",
+						"url": "https://t.co/G3KPGDECi4",
+						"display_url": "pic.twitter.com/G3KPGDECi4",
+						"expanded_url": "https://twitter.com/MSocialBusiness/status/784383726453157888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 784383721768190000,
+						"id_str": "784383721768189952",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/CuKw1s-XgAA0apt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuKw1s-XgAA0apt.jpg",
+						"url": "https://t.co/G3KPGDECi4",
+						"display_url": "pic.twitter.com/G3KPGDECi4",
+						"expanded_url": "https://twitter.com/MSocialBusiness/status/784383726453157888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.markethub.io\" rel=\"nofollow\">MarketHub</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 56554540,
+				"id_str": "56554540",
+				"name": "Max. Social Business",
+				"screen_name": "MSocialBusiness",
+				"location": "Irvine, Orange County, CA, USA",
+				"description": "Your corporate social media for business resource featuring expert contributions from industry peers. #socialmedia #marketing #smm #socialbusiness",
+				"url": "http://t.co/ZEloNDdm3r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ZEloNDdm3r",
+								"expanded_url": "http://maximizesocialbusiness.com",
+								"display_url": "maximizesocialbusiness.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37062,
+				"friends_count": 23607,
+				"listed_count": 2297,
+				"created_at": "Tue Jul 14 00:55:30 +0000 2009",
+				"favourites_count": 19,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24459,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000110656558/79886468d65523e0d4388e54aea69471.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000110656558/79886468d65523e0d4388e54aea69471.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000704743258/52c7d1c9e89985f17d0f0b558288ac1d_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000704743258/52c7d1c9e89985f17d0f0b558288ac1d_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/56554540/1383767305",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 07 13:06:42 +0000 2016",
 		"id": 784379422665158700,
 		"id_str": "784379422665158657",
