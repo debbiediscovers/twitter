@@ -1,6 +1,1133 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 14:00:52 +0000 2016",
+		"id": 785842608258056200,
+		"id_str": "785842608258056193",
+		"text": "@OntreeCa We take good care of our trees in Singapore too! They're mostly transplanted but we plant ferns on them so they look more natural😊",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OntreeCa",
+					"name": "Ontree",
+					"id": 2364599162,
+					"id_str": "2364599162",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2364599162,
+		"in_reply_to_user_id_str": "2364599162",
+		"in_reply_to_screen_name": "OntreeCa",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11417,
+			"friends_count": 6889,
+			"listed_count": 990,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1395,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6627,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 11 13:55:47 +0000 2016",
+		"id": 785841329896955900,
+		"id_str": "785841329896955904",
+		"text": "@OntreeCa @untapt @gunnr @Support @susanfitzell @ajay60km Twitter social listening &amp; customer service leaves much to be desired @jakrogalski",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OntreeCa",
+					"name": "Ontree",
+					"id": 2364599162,
+					"id_str": "2364599162",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "untapt",
+					"name": "untapt",
+					"id": 2157797477,
+					"id_str": "2157797477",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"screen_name": "gunnr",
+					"name": "Greg Gunn",
+					"id": 7096032,
+					"id_str": "7096032",
+					"indices": [
+						18,
+						24
+					]
+				},
+				{
+					"screen_name": "Support",
+					"name": "Twitter Support",
+					"id": 17874544,
+					"id_str": "17874544",
+					"indices": [
+						25,
+						33
+					]
+				},
+				{
+					"screen_name": "susanfitzell",
+					"name": "Susan Fitzell",
+					"id": 14243886,
+					"id_str": "14243886",
+					"indices": [
+						34,
+						47
+					]
+				},
+				{
+					"screen_name": "ajay60km",
+					"name": "AjaySaxena",
+					"id": 472215076,
+					"id_str": "472215076",
+					"indices": [
+						48,
+						57
+					]
+				},
+				{
+					"screen_name": "jakrogalski",
+					"name": "Jakub Rogalski",
+					"id": 4103607754,
+					"id_str": "4103607754",
+					"indices": [
+						132,
+						144
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 785839770408742900,
+		"in_reply_to_status_id_str": "785839770408742912",
+		"in_reply_to_user_id": 2364599162,
+		"in_reply_to_user_id_str": "2364599162",
+		"in_reply_to_screen_name": "OntreeCa",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11417,
+			"friends_count": 6889,
+			"listed_count": 990,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1395,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6627,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 11 13:37:59 +0000 2016",
+		"id": 785836849587683300,
+		"id_str": "785836849587683329",
+		"text": "@PlayTheFoos @codesparkceo That's so cool! For all int'l schools too? We love the Awesome Girl Characters esp Ninja Girl!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PlayTheFoos",
+					"name": "The Foos",
+					"id": 4281873674,
+					"id_str": "4281873674",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "codesparkceo",
+					"name": "codeSpark",
+					"id": 2316158822,
+					"id_str": "2316158822",
+					"indices": [
+						13,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 785523077295640600,
+		"in_reply_to_status_id_str": "785523077295640576",
+		"in_reply_to_user_id": 4281873674,
+		"in_reply_to_user_id_str": "4281873674",
+		"in_reply_to_screen_name": "PlayTheFoos",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11417,
+			"friends_count": 6889,
+			"listed_count": 990,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1395,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6627,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 11 13:30:41 +0000 2016",
+		"id": 785835010410606600,
+		"id_str": "785835010410606592",
+		"text": "RT @G_MachelTrust: Global Goals for Sustainable Development \nGoal 5: Gender Equality\n#DayoftheGirl .@TheGlobalGoals .@GirlsNotBrides https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DayoftheGirl",
+					"indices": [
+						85,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "G_MachelTrust",
+					"name": "GracaMachelTrust",
+					"id": 614155294,
+					"id_str": "614155294",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "TheGlobalGoals",
+					"name": "The Global Goals",
+					"id": 3114313702,
+					"id_str": "3114313702",
+					"indices": [
+						100,
+						115
+					]
+				},
+				{
+					"screen_name": "GirlsNotBrides",
+					"name": "Girls Not Brides",
+					"id": 360046324,
+					"id_str": "360046324",
+					"indices": [
+						117,
+						132
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11417,
+			"friends_count": 6889,
+			"listed_count": 990,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1395,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6627,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 11 11:51:00 +0000 2016",
+			"id": 785809925679124500,
+			"id_str": "785809925679124481",
+			"text": "Global Goals for Sustainable Development \nGoal 5: Gender Equality\n#DayoftheGirl .@TheGlobalGoals .@GirlsNotBrides https://t.co/IZfrZhYOxV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DayoftheGirl",
+						"indices": [
+							66,
+							79
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TheGlobalGoals",
+						"name": "The Global Goals",
+						"id": 3114313702,
+						"id_str": "3114313702",
+						"indices": [
+							81,
+							96
+						]
+					},
+					{
+						"screen_name": "GirlsNotBrides",
+						"name": "Girls Not Brides",
+						"id": 360046324,
+						"id_str": "360046324",
+						"indices": [
+							98,
+							113
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 785809500364271600,
+						"id_str": "785809500364271616",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CufBk8JW8AAzrGo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CufBk8JW8AAzrGo.jpg",
+						"url": "https://t.co/IZfrZhYOxV",
+						"display_url": "pic.twitter.com/IZfrZhYOxV",
+						"expanded_url": "https://twitter.com/G_MachelTrust/status/785809925679124481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1240,
+								"h": 874,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 846,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 479,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 785809500364271600,
+						"id_str": "785809500364271616",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CufBk8JW8AAzrGo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CufBk8JW8AAzrGo.jpg",
+						"url": "https://t.co/IZfrZhYOxV",
+						"display_url": "pic.twitter.com/IZfrZhYOxV",
+						"expanded_url": "https://twitter.com/G_MachelTrust/status/785809925679124481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1240,
+								"h": 874,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 846,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 479,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 614155294,
+				"id_str": "614155294",
+				"name": "GracaMachelTrust",
+				"screen_name": "G_MachelTrust",
+				"location": "Africa",
+				"description": "Founded in 2010 to promote Women’s leadership & Children’s rights, The Trust is a consolidation of all the work by its founder, Graça Machel",
+				"url": "http://t.co/eq9fJHMCaL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/eq9fJHMCaL",
+								"expanded_url": "http://gracamacheltrust.org/",
+								"display_url": "gracamacheltrust.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5863,
+				"friends_count": 482,
+				"listed_count": 122,
+				"created_at": "Thu Jun 21 08:58:18 +0000 2012",
+				"favourites_count": 359,
+				"utc_offset": 7200,
+				"time_zone": "Pretoria",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2802,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/585425324/ivfj6cvdd139qss2dkw8.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/585425324/ivfj6cvdd139qss2dkw8.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/655038693904809984/noVLKuaX_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/655038693904809984/noVLKuaX_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/614155294/1476175768",
+				"profile_link_color": "5C0D03",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 11 13:28:46 +0000 2016",
+		"id": 785834528828981200,
+		"id_str": "785834528828981249",
+		"text": "RT @UNICEF: Investing in girls helps them build better lives and create a more peaceful and prosperous world for ALL. RT if you agree #dayo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UNICEF",
+					"name": "UNICEF",
+					"id": 33933259,
+					"id_str": "33933259",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11417,
+			"friends_count": 6889,
+			"listed_count": 990,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1395,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6627,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 11 08:00:43 +0000 2016",
+			"id": 785751972989243400,
+			"id_str": "785751972989243392",
+			"text": "Investing in girls helps them build better lives and create a more peaceful and prosperous world for ALL. RT if you… https://t.co/4DLORV4zsc",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4DLORV4zsc",
+						"expanded_url": "https://twitter.com/i/web/status/785751972989243392",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33933259,
+				"id_str": "33933259",
+				"name": "UNICEF",
+				"screen_name": "UNICEF",
+				"location": "United Nations",
+				"description": "UNICEF promotes the rights and wellbeing of every child in 190 countries and territories, with a special focus on reaching those in greatest need.",
+				"url": "http://t.co/XWHw5QThhA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/XWHw5QThhA",
+								"expanded_url": "http://www.unicef.org",
+								"display_url": "unicef.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5674301,
+				"friends_count": 24992,
+				"listed_count": 25737,
+				"created_at": "Tue Apr 21 15:16:12 +0000 2009",
+				"favourites_count": 1471,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29761,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "141414",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/587405405912825856/DFz5LDAP.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/587405405912825856/DFz5LDAP.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/725710074421735425/rvkzkzxv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/725710074421735425/rvkzkzxv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33933259/1474059367",
+				"profile_link_color": "1CABE2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0E0E0",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1094,
+			"favorite_count": 772,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1094,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 11 13:28:21 +0000 2016",
+		"id": 785834423862321200,
+		"id_str": "785834423862321153",
+		"text": "RT @UNICEF: To achieve @TheGlobalGoals we must make real progress for girls around the world. Watch &amp; RT. https://t.co/EJCv29uTPd #dayofthe…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UNICEF",
+					"name": "UNICEF",
+					"id": 33933259,
+					"id_str": "33933259",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "TheGlobalGoals",
+					"name": "The Global Goals",
+					"id": 3114313702,
+					"id_str": "3114313702",
+					"indices": [
+						23,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EJCv29uTPd",
+					"expanded_url": "http://uni.cf/2drv38C",
+					"display_url": "uni.cf/2drv38C",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11417,
+			"friends_count": 6889,
+			"listed_count": 990,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1395,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6627,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 11 13:00:05 +0000 2016",
+			"id": 785827311006298100,
+			"id_str": "785827311006298116",
+			"text": "To achieve @TheGlobalGoals we must make real progress for girls around the world. Watch &amp; RT.… https://t.co/nTOVzpYUXE",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TheGlobalGoals",
+						"name": "The Global Goals",
+						"id": 3114313702,
+						"id_str": "3114313702",
+						"indices": [
+							11,
+							26
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/nTOVzpYUXE",
+						"expanded_url": "https://twitter.com/i/web/status/785827311006298116",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							99,
+							122
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33933259,
+				"id_str": "33933259",
+				"name": "UNICEF",
+				"screen_name": "UNICEF",
+				"location": "United Nations",
+				"description": "UNICEF promotes the rights and wellbeing of every child in 190 countries and territories, with a special focus on reaching those in greatest need.",
+				"url": "http://t.co/XWHw5QThhA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/XWHw5QThhA",
+								"expanded_url": "http://www.unicef.org",
+								"display_url": "unicef.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5674301,
+				"friends_count": 24992,
+				"listed_count": 25737,
+				"created_at": "Tue Apr 21 15:16:12 +0000 2009",
+				"favourites_count": 1471,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29761,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "141414",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/587405405912825856/DFz5LDAP.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/587405405912825856/DFz5LDAP.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/725710074421735425/rvkzkzxv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/725710074421735425/rvkzkzxv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33933259/1474059367",
+				"profile_link_color": "1CABE2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0E0E0",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 127,
+			"favorite_count": 99,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 127,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 11 12:33:07 +0000 2016",
 		"id": 785820523297026000,
 		"id_str": "785820523297026048",
