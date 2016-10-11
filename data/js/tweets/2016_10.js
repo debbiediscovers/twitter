@@ -1,6 +1,890 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 05:06:39 +0000 2016",
+		"id": 785708165765619700,
+		"id_str": "785708165765619713",
+		"text": "RT @carlquintanilla: Warren Buffett responds to Trump, on taxes:\n\n#debates https://t.co/9T5Ov6MRir",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "debates",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "carlquintanilla",
+					"name": "Carl Quintanilla",
+					"id": 114782468,
+					"id_str": "114782468",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 785514712444330000,
+					"id_str": "785514712444329985",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Cua1eBkWYAEX8oM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cua1eBkWYAEX8oM.jpg",
+					"url": "https://t.co/9T5Ov6MRir",
+					"display_url": "pic.twitter.com/9T5Ov6MRir",
+					"expanded_url": "https://twitter.com/carlquintanilla/status/785514714839351296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 818,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 818,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 785514714839351300,
+					"source_status_id_str": "785514714839351296",
+					"source_user_id": 114782468,
+					"source_user_id_str": "114782468"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 785514712444330000,
+					"id_str": "785514712444329985",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Cua1eBkWYAEX8oM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cua1eBkWYAEX8oM.jpg",
+					"url": "https://t.co/9T5Ov6MRir",
+					"display_url": "pic.twitter.com/9T5Ov6MRir",
+					"expanded_url": "https://twitter.com/carlquintanilla/status/785514714839351296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 818,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 818,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 785514714839351300,
+					"source_status_id_str": "785514714839351296",
+					"source_user_id": 114782468,
+					"source_user_id_str": "114782468"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11420,
+			"friends_count": 6886,
+			"listed_count": 987,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1389,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 10 16:17:56 +0000 2016",
+			"id": 785514714839351300,
+			"id_str": "785514714839351296",
+			"text": "Warren Buffett responds to Trump, on taxes:\n\n#debates https://t.co/9T5Ov6MRir",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "debates",
+						"indices": [
+							45,
+							53
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 785514712444330000,
+						"id_str": "785514712444329985",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/Cua1eBkWYAEX8oM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cua1eBkWYAEX8oM.jpg",
+						"url": "https://t.co/9T5Ov6MRir",
+						"display_url": "pic.twitter.com/9T5Ov6MRir",
+						"expanded_url": "https://twitter.com/carlquintanilla/status/785514714839351296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 818,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 543,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 818,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 785514712444330000,
+						"id_str": "785514712444329985",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/Cua1eBkWYAEX8oM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cua1eBkWYAEX8oM.jpg",
+						"url": "https://t.co/9T5Ov6MRir",
+						"display_url": "pic.twitter.com/9T5Ov6MRir",
+						"expanded_url": "https://twitter.com/carlquintanilla/status/785514714839351296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 818,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 543,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 818,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 114782468,
+				"id_str": "114782468",
+				"name": "Carl Quintanilla",
+				"screen_name": "carlquintanilla",
+				"location": "nyc",
+				"description": "You have to have a little faith in people.",
+				"url": "https://t.co/CxJs7swfHk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CxJs7swfHk",
+								"expanded_url": "http://cnbc.com/binge",
+								"display_url": "cnbc.com/binge",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 126236,
+				"friends_count": 3914,
+				"listed_count": 2530,
+				"created_at": "Tue Feb 16 15:59:04 +0000 2010",
+				"favourites_count": 777,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2246,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/305554024/carl_quintanilla_twitter_background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/305554024/carl_quintanilla_twitter_background.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/741616591205457920/GLod6diF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/741616591205457920/GLod6diF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/114782468/1473363999",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20423,
+			"favorite_count": 25399,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 20423,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 11 04:54:01 +0000 2016",
+		"id": 785704989867987000,
+		"id_str": "785704989867986945",
+		"text": "@tauntbot Super. And yours? https://t.co/RVZQVBKIvl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tauntbot",
+					"name": "weak insult fish",
+					"id": 3711970333,
+					"id_str": "3711970333",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 785704855612469200,
+					"id_str": "785704855612469248",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CudiZ0EUsAAeVkg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CudiZ0EUsAAeVkg.jpg",
+					"url": "https://t.co/RVZQVBKIvl",
+					"display_url": "pic.twitter.com/RVZQVBKIvl",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/785704989867986945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 785704855612469200,
+					"id_str": "785704855612469248",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CudiZ0EUsAAeVkg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CudiZ0EUsAAeVkg.jpg",
+					"url": "https://t.co/RVZQVBKIvl",
+					"display_url": "pic.twitter.com/RVZQVBKIvl",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/785704989867986945/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/CudiZ0EUsAAeVkg.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 785703576379076600,
+		"in_reply_to_status_id_str": "785703576379076609",
+		"in_reply_to_user_id": 3711970333,
+		"in_reply_to_user_id_str": "3711970333",
+		"in_reply_to_screen_name": "tauntbot",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11420,
+			"friends_count": 6886,
+			"listed_count": 987,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1389,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 11 04:47:54 +0000 2016",
+		"id": 785703449186803700,
+		"id_str": "785703449186803712",
+		"text": "@tauntbot alliterative but perhaps you use too many adjectives? I recommend you read \"The Elements of Eloquence\" by… https://t.co/Jjz5WSqKUY",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tauntbot",
+					"name": "weak insult fish",
+					"id": 3711970333,
+					"id_str": "3711970333",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Jjz5WSqKUY",
+					"expanded_url": "https://twitter.com/i/web/status/785703449186803712",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 785695701887922200,
+		"in_reply_to_status_id_str": "785695701887922177",
+		"in_reply_to_user_id": 3711970333,
+		"in_reply_to_user_id_str": "3711970333",
+		"in_reply_to_screen_name": "tauntbot",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11420,
+			"friends_count": 6886,
+			"listed_count": 987,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1389,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 11 04:16:58 +0000 2016",
+		"id": 785695665191997400,
+		"id_str": "785695665191997440",
+		"text": "@XarBooks @thebrauncooper Oooohhh we're ostracizing other bots now are we? Clever. But a bit mean don't you think?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "XarBooks",
+					"name": "Erik Botcheco",
+					"id": 3145449772,
+					"id_str": "3145449772",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "thebrauncooper",
+					"name": "Braun",
+					"id": 2917274545,
+					"id_str": "2917274545",
+					"indices": [
+						10,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 785693275621560300,
+		"in_reply_to_status_id_str": "785693275621560320",
+		"in_reply_to_user_id": 3145449772,
+		"in_reply_to_user_id_str": "3145449772",
+		"in_reply_to_screen_name": "XarBooks",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11420,
+			"friends_count": 6886,
+			"listed_count": 987,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1389,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 11 04:14:50 +0000 2016",
+		"id": 785695125158572000,
+		"id_str": "785695125158572034",
+		"text": "@tauntbot I'm pretty sure fungi is a better word choice. fungeses sounds... wrong.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tauntbot",
+					"name": "weak insult fish",
+					"id": 3711970333,
+					"id_str": "3711970333",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 785693462947475500,
+		"in_reply_to_status_id_str": "785693462947475456",
+		"in_reply_to_user_id": 3711970333,
+		"in_reply_to_user_id_str": "3711970333",
+		"in_reply_to_screen_name": "tauntbot",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11420,
+			"friends_count": 6886,
+			"listed_count": 987,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1389,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 11 04:07:24 +0000 2016",
 		"id": 785693255476187100,
 		"id_str": "785693255476187137",
