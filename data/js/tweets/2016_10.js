@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 12:33:07 +0000 2016",
+		"id": 785820523297026000,
+		"id_str": "785820523297026048",
+		"text": "RT @madlemmingz: How Narrowing Your Niche Can Get You Amazing Results https://t.co/CqrRKp9LYV via @kikolani #blog #sm #solopreneur https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "blog",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "sm",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "solopreneur",
+					"indices": [
+						118,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "madlemmingz",
+					"name": "Ashley Faulkes",
+					"id": 1343734783,
+					"id_str": "1343734783",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "kikolani",
+					"name": "Kikolani",
+					"id": 49096891,
+					"id_str": "49096891",
+					"indices": [
+						98,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CqrRKp9LYV",
+					"expanded_url": "http://kikolani.com/narrowing-niche-can-get-great-results.html",
+					"display_url": "kikolani.com/narrowing-nich…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11419,
+			"friends_count": 6889,
+			"listed_count": 990,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1394,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6621,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 11 08:23:08 +0000 2016",
+			"id": 785757615557120000,
+			"id_str": "785757615557120000",
+			"text": "How Narrowing Your Niche Can Get You Amazing Results https://t.co/CqrRKp9LYV via @kikolani #blog #sm #solopreneur https://t.co/tBmvPYD6YT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "blog",
+						"indices": [
+							91,
+							96
+						]
+					},
+					{
+						"text": "sm",
+						"indices": [
+							97,
+							100
+						]
+					},
+					{
+						"text": "solopreneur",
+						"indices": [
+							101,
+							113
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kikolani",
+						"name": "Kikolani",
+						"id": 49096891,
+						"id_str": "49096891",
+						"indices": [
+							81,
+							90
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CqrRKp9LYV",
+						"expanded_url": "http://kikolani.com/narrowing-niche-can-get-great-results.html",
+						"display_url": "kikolani.com/narrowing-nich…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 785757612944023600,
+						"id_str": "785757612944023552",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CueSYscWYAAgbGk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CueSYscWYAAgbGk.jpg",
+						"url": "https://t.co/tBmvPYD6YT",
+						"display_url": "pic.twitter.com/tBmvPYD6YT",
+						"expanded_url": "https://twitter.com/madlemmingz/status/785757615557120000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 375,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 375,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 785757612944023600,
+						"id_str": "785757612944023552",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CueSYscWYAAgbGk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CueSYscWYAAgbGk.jpg",
+						"url": "https://t.co/tBmvPYD6YT",
+						"display_url": "pic.twitter.com/tBmvPYD6YT",
+						"expanded_url": "https://twitter.com/madlemmingz/status/785757615557120000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 375,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 375,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.socialjukebox.com\" rel=\"nofollow\">The Social Jukebox</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1343734783,
+				"id_str": "1343734783",
+				"name": "Ashley Faulkes",
+				"screen_name": "madlemmingz",
+				"location": "Switzerland",
+				"description": "SEO and WordPress Specialist. Helping small biz, solopreneurs and other awesome peeps. Eats too much swiss chocolate.",
+				"url": "http://t.co/Knkr1GbHjf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Knkr1GbHjf",
+								"expanded_url": "http://madlemmings.com",
+								"display_url": "madlemmings.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13156,
+				"friends_count": 8493,
+				"listed_count": 1473,
+				"created_at": "Thu Apr 11 07:00:08 +0000 2013",
+				"favourites_count": 4172,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30011,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/449287050722676737/4_88YzlG.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/449287050722676737/4_88YzlG.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439307522063605760/pBHruwvf_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439307522063605760/pBHruwvf_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1343734783/1471772301",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 11 11:52:01 +0000 2016",
 		"id": 785810182286835700,
 		"id_str": "785810182286835712",
