@@ -1,6 +1,1324 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 00:30:02 +0000 2016",
+		"id": 786363330915143700,
+		"id_str": "786363330915143680",
+		"text": "RT @StartupTabs: Featured #startup @photolemur \"Photo Enhancement on Autopilot\" https://t.co/cZw49rRpSR https://t.co/wqSe4Css4i",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startup",
+					"indices": [
+						26,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupTabs",
+					"name": "Startuptabs",
+					"id": 1408850774,
+					"id_str": "1408850774",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "photolemur",
+					"name": "Photolemur",
+					"id": 756127767171829800,
+					"id_str": "756127767171829760",
+					"indices": [
+						35,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cZw49rRpSR",
+					"expanded_url": "https://goo.gl/8PGKzg",
+					"display_url": "goo.gl/8PGKzg",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 786219894324985900,
+					"id_str": "786219894324985856",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/Cuk21AyWAAATTCh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cuk21AyWAAATTCh.jpg",
+					"url": "https://t.co/wqSe4Css4i",
+					"display_url": "pic.twitter.com/wqSe4Css4i",
+					"expanded_url": "https://twitter.com/StartupTabs/status/786219896615100416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 412,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1730,
+							"h": 1047,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 726,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 786219896615100400,
+					"source_status_id_str": "786219896615100416",
+					"source_user_id": 1408850774,
+					"source_user_id_str": "1408850774"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 786219894324985900,
+					"id_str": "786219894324985856",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/Cuk21AyWAAATTCh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cuk21AyWAAATTCh.jpg",
+					"url": "https://t.co/wqSe4Css4i",
+					"display_url": "pic.twitter.com/wqSe4Css4i",
+					"expanded_url": "https://twitter.com/StartupTabs/status/786219896615100416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 412,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1730,
+							"h": 1047,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 726,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 786219896615100400,
+					"source_status_id_str": "786219896615100416",
+					"source_user_id": 1408850774,
+					"source_user_id_str": "1408850774"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.amplfy.co\" rel=\"nofollow\">AmplfyCo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11516,
+			"friends_count": 7223,
+			"listed_count": 1002,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1416,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6670,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 12 15:00:05 +0000 2016",
+			"id": 786219896615100400,
+			"id_str": "786219896615100416",
+			"text": "Featured #startup @photolemur \"Photo Enhancement on Autopilot\" https://t.co/cZw49rRpSR https://t.co/wqSe4Css4i",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "startup",
+						"indices": [
+							9,
+							17
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "photolemur",
+						"name": "Photolemur",
+						"id": 756127767171829800,
+						"id_str": "756127767171829760",
+						"indices": [
+							18,
+							29
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cZw49rRpSR",
+						"expanded_url": "https://goo.gl/8PGKzg",
+						"display_url": "goo.gl/8PGKzg",
+						"indices": [
+							63,
+							86
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 786219894324985900,
+						"id_str": "786219894324985856",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/Cuk21AyWAAATTCh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cuk21AyWAAATTCh.jpg",
+						"url": "https://t.co/wqSe4Css4i",
+						"display_url": "pic.twitter.com/wqSe4Css4i",
+						"expanded_url": "https://twitter.com/StartupTabs/status/786219896615100416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 412,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1730,
+								"h": 1047,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 726,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 786219894324985900,
+						"id_str": "786219894324985856",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/Cuk21AyWAAATTCh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cuk21AyWAAATTCh.jpg",
+						"url": "https://t.co/wqSe4Css4i",
+						"display_url": "pic.twitter.com/wqSe4Css4i",
+						"expanded_url": "https://twitter.com/StartupTabs/status/786219896615100416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 412,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1730,
+								"h": 1047,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 726,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.amplfy.co\" rel=\"nofollow\">AmplfyCo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1408850774,
+				"id_str": "1408850774",
+				"name": "Startuptabs",
+				"screen_name": "StartupTabs",
+				"location": "Los Angeles, CA",
+				"description": "Discover new startups now! Every tab loads a new startup. Check out our browser extension: https://t.co/AUPAzZdicz.",
+				"url": "https://t.co/PFUXu2JqOr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PFUXu2JqOr",
+								"expanded_url": "http://www.startuptabs.com",
+								"display_url": "startuptabs.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AUPAzZdicz",
+								"expanded_url": "http://startuptabs.com/chrome",
+								"display_url": "startuptabs.com/chrome",
+								"indices": [
+									91,
+									114
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2043,
+				"friends_count": 1994,
+				"listed_count": 116,
+				"created_at": "Mon May 06 22:18:02 +0000 2013",
+				"favourites_count": 11554,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1274,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/494506995521568768/P0AcRC5O_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/494506995521568768/P0AcRC5O_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1408850774/1436947494",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 13 00:26:58 +0000 2016",
+		"id": 786362559121154000,
+		"id_str": "786362559121154048",
+		"text": "@danthat_ebooks @MediBasket @Tokerwaredotcom surely not https://t.co/YHqvpPN6Td",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danthat_ebooks",
+					"name": "Dan Marshall 2.0",
+					"id": 2980936617,
+					"id_str": "2980936617",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "MediBasket",
+					"name": "Dr Margaret Aranda",
+					"id": 1717051610,
+					"id_str": "1717051610",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "Tokerwaredotcom",
+					"name": "Tokerware",
+					"id": 2818242018,
+					"id_str": "2818242018",
+					"indices": [
+						28,
+						44
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 786362484462530600,
+					"id_str": "786362484462530560",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cum4g2cVMAAECDn.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cum4g2cVMAAECDn.jpg",
+					"url": "https://t.co/YHqvpPN6Td",
+					"display_url": "pic.twitter.com/YHqvpPN6Td",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/786362559121154048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 276,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 370,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 370,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 786362484462530600,
+					"id_str": "786362484462530560",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cum4g2cVMAAECDn.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cum4g2cVMAAECDn.jpg",
+					"url": "https://t.co/YHqvpPN6Td",
+					"display_url": "pic.twitter.com/YHqvpPN6Td",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/786362559121154048/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 276,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 370,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 370,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							37,
+							30
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/Cum4g2cVMAAECDn.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 786359396389494800,
+		"in_reply_to_status_id_str": "786359396389494784",
+		"in_reply_to_user_id": 2980936617,
+		"in_reply_to_user_id_str": "2980936617",
+		"in_reply_to_screen_name": "danthat_ebooks",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11516,
+			"friends_count": 7223,
+			"listed_count": 1002,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1416,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6670,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 13 00:16:01 +0000 2016",
+		"id": 786359802335072300,
+		"id_str": "786359802335072256",
+		"text": "@MrAdamParrott @ThuySindell @Entrepreneur nice one!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrAdamParrott",
+					"name": "Adam Parrott",
+					"id": 2301629250,
+					"id_str": "2301629250",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "ThuySindell",
+					"name": "Thuy Sindell",
+					"id": 22685818,
+					"id_str": "22685818",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"screen_name": "Entrepreneur",
+					"name": "Entrepreneur",
+					"id": 19407053,
+					"id_str": "19407053",
+					"indices": [
+						28,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 786280825675538400,
+		"in_reply_to_status_id_str": "786280825675538433",
+		"in_reply_to_user_id": 2301629250,
+		"in_reply_to_user_id_str": "2301629250",
+		"in_reply_to_screen_name": "MrAdamParrott",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11516,
+			"friends_count": 7223,
+			"listed_count": 1002,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1416,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6670,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 13 00:15:51 +0000 2016",
+		"id": 786359761054732300,
+		"id_str": "786359761054732288",
+		"text": "RT @MrAdamParrott: 7 Ways Women Leaders Can Excel Being Their Authentic Selves by @thuysindell https://t.co/VK3cja2oYJ via @Entrepreneur",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrAdamParrott",
+					"name": "Adam Parrott",
+					"id": 2301629250,
+					"id_str": "2301629250",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "ThuySindell",
+					"name": "Thuy Sindell",
+					"id": 22685818,
+					"id_str": "22685818",
+					"indices": [
+						82,
+						94
+					]
+				},
+				{
+					"screen_name": "Entrepreneur",
+					"name": "Entrepreneur",
+					"id": 19407053,
+					"id_str": "19407053",
+					"indices": [
+						123,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VK3cja2oYJ",
+					"expanded_url": "https://www.entrepreneur.com/article/282317?utm_source=Social&utm_medium=Sharebar&utm_campaign=Sumome_share",
+					"display_url": "entrepreneur.com/article/282317…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11516,
+			"friends_count": 7223,
+			"listed_count": 1002,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1416,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6670,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 12 19:02:11 +0000 2016",
+			"id": 786280825675538400,
+			"id_str": "786280825675538433",
+			"text": "7 Ways Women Leaders Can Excel Being Their Authentic Selves by @thuysindell https://t.co/VK3cja2oYJ via @Entrepreneur",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ThuySindell",
+						"name": "Thuy Sindell",
+						"id": 22685818,
+						"id_str": "22685818",
+						"indices": [
+							63,
+							75
+						]
+					},
+					{
+						"screen_name": "Entrepreneur",
+						"name": "Entrepreneur",
+						"id": 19407053,
+						"id_str": "19407053",
+						"indices": [
+							104,
+							117
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VK3cja2oYJ",
+						"expanded_url": "https://www.entrepreneur.com/article/282317?utm_source=Social&utm_medium=Sharebar&utm_campaign=Sumome_share",
+						"display_url": "entrepreneur.com/article/282317…",
+						"indices": [
+							76,
+							99
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2301629250,
+				"id_str": "2301629250",
+				"name": "Adam Parrott",
+				"screen_name": "MrAdamParrott",
+				"location": "",
+				"description": "Copywriter - Direct and Online Marketing.",
+				"url": "https://t.co/zdspdsZwYE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zdspdsZwYE",
+								"expanded_url": "http://MrAdamParrott.com",
+								"display_url": "MrAdamParrott.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21580,
+				"friends_count": 20714,
+				"listed_count": 161,
+				"created_at": "Mon Jan 20 16:01:05 +0000 2014",
+				"favourites_count": 262,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4577,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/468774321364561920/IN45gJ72_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/468774321364561920/IN45gJ72_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2301629250/1462395216",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 13 00:14:54 +0000 2016",
+		"id": 786359522725994500,
+		"id_str": "786359522725994496",
+		"text": "@iamrobincollins you too!! https://t.co/3ipB7jDPKO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iamrobincollins",
+					"name": "Robin Collins",
+					"id": 17165894,
+					"id_str": "17165894",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 786359492891988000,
+					"id_str": "786359492891987968",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cum1yt-VUAAEgpz.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cum1yt-VUAAEgpz.jpg",
+					"url": "https://t.co/3ipB7jDPKO",
+					"display_url": "pic.twitter.com/3ipB7jDPKO",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/786359522725994496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 255,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 786359492891988000,
+					"id_str": "786359492891987968",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cum1yt-VUAAEgpz.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cum1yt-VUAAEgpz.jpg",
+					"url": "https://t.co/3ipB7jDPKO",
+					"display_url": "pic.twitter.com/3ipB7jDPKO",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/786359522725994496/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 255,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/Cum1yt-VUAAEgpz.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 786258933052649500,
+		"in_reply_to_status_id_str": "786258933052649474",
+		"in_reply_to_user_id": 17165894,
+		"in_reply_to_user_id_str": "17165894",
+		"in_reply_to_screen_name": "iamrobincollins",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11516,
+			"friends_count": 7223,
+			"listed_count": 1002,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1416,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6670,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 13 00:14:02 +0000 2016",
+		"id": 786359304060141600,
+		"id_str": "786359304060141568",
+		"text": "@danthat_ebooks @MediBasket @Tokerwaredotcom what's up with you three muskateers anyway",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danthat_ebooks",
+					"name": "Dan Marshall 2.0",
+					"id": 2980936617,
+					"id_str": "2980936617",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "MediBasket",
+					"name": "Dr Margaret Aranda",
+					"id": 1717051610,
+					"id_str": "1717051610",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "Tokerwaredotcom",
+					"name": "Tokerware",
+					"id": 2818242018,
+					"id_str": "2818242018",
+					"indices": [
+						28,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 786356253018775600,
+		"in_reply_to_status_id_str": "786356253018775552",
+		"in_reply_to_user_id": 2980936617,
+		"in_reply_to_user_id_str": "2980936617",
+		"in_reply_to_screen_name": "danthat_ebooks",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11516,
+			"friends_count": 7223,
+			"listed_count": 1002,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1416,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6670,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 13 00:04:36 +0000 2016",
 		"id": 786356930709102600,
 		"id_str": "786356930709102592",
