@@ -1,6 +1,397 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Mon Oct 17 10:13:02 +0000 2016",
+		"id": 787959596862156800,
+		"id_str": "787959596862156801",
+		"text": "RT @Steph1lee: Check out the \"Onalytica Social Media\" Newsletter by @debbiediscovers on @nuzzel https://t.co/2vdvzA6nU9 https://t.co/ISZoEO…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Steph1lee",
+					"name": "Steph L Lee",
+					"id": 721241974880120800,
+					"id_str": "721241974880120832",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						68,
+						84
+					]
+				},
+				{
+					"screen_name": "nuzzel",
+					"name": "Nuzzel",
+					"id": 106041193,
+					"id_str": "106041193",
+					"indices": [
+						88,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2vdvzA6nU9",
+					"expanded_url": "http://buff.ly/2e91INv",
+					"display_url": "buff.ly/2e91INv",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11519,
+			"friends_count": 7232,
+			"listed_count": 1016,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1440,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6741,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 17 10:11:56 +0000 2016",
+			"id": 787959321099395100,
+			"id_str": "787959321099395072",
+			"text": "Check out the \"Onalytica Social Media\" Newsletter by @debbiediscovers on @nuzzel https://t.co/2vdvzA6nU9 https://t.co/ISZoEOA2GQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							53,
+							69
+						]
+					},
+					{
+						"screen_name": "nuzzel",
+						"name": "Nuzzel",
+						"id": 106041193,
+						"id_str": "106041193",
+						"indices": [
+							73,
+							80
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2vdvzA6nU9",
+						"expanded_url": "http://buff.ly/2e91INv",
+						"display_url": "buff.ly/2e91INv",
+						"indices": [
+							81,
+							104
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 787959317639168000,
+						"id_str": "787959317639168000",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/Cu9k0xlXgAAkkXs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cu9k0xlXgAAkkXs.jpg",
+						"url": "https://t.co/ISZoEOA2GQ",
+						"display_url": "pic.twitter.com/ISZoEOA2GQ",
+						"expanded_url": "https://twitter.com/Steph1lee/status/787959321099395072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 787959317639168000,
+						"id_str": "787959317639168000",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/Cu9k0xlXgAAkkXs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cu9k0xlXgAAkkXs.jpg",
+						"url": "https://t.co/ISZoEOA2GQ",
+						"display_url": "pic.twitter.com/ISZoEOA2GQ",
+						"expanded_url": "https://twitter.com/Steph1lee/status/787959321099395072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 787959315227373600,
+						"id_str": "787959315227373568",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/Cu9k0omWcAAdBgt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cu9k0omWcAAdBgt.jpg",
+						"url": "https://t.co/ISZoEOA2GQ",
+						"display_url": "pic.twitter.com/ISZoEOA2GQ",
+						"expanded_url": "https://twitter.com/Steph1lee/status/787959321099395072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 320,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 320,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 320,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 787959315189620700,
+						"id_str": "787959315189620736",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/Cu9k0odWYAAB3JC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cu9k0odWYAAB3JC.jpg",
+						"url": "https://t.co/ISZoEOA2GQ",
+						"display_url": "pic.twitter.com/ISZoEOA2GQ",
+						"expanded_url": "https://twitter.com/Steph1lee/status/787959321099395072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 267,
+								"h": 267,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 267,
+								"h": 267,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 267,
+								"h": 267,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 721241974880120800,
+				"id_str": "721241974880120832",
+				"name": "Steph L Lee",
+				"screen_name": "Steph1lee",
+				"location": "Singapore",
+				"description": "Social Media Enthusiast, Parent, Mom",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 267,
+				"friends_count": 635,
+				"listed_count": 22,
+				"created_at": "Sat Apr 16 07:41:01 +0000 2016",
+				"favourites_count": 29,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 232,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/726518533476114433/7s2BXRRa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/726518533476114433/7s2BXRRa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/721241974880120832/1461865216",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Oct 17 09:35:46 +0000 2016",
 		"id": 787950218079719400,
 		"id_str": "787950218079719425",
