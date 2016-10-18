@@ -1,6 +1,991 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Tue Oct 18 08:54:58 +0000 2016",
+		"id": 788302340042268700,
+		"id_str": "788302340042268672",
+		"text": "RT @AirBtB: #RARE Black and White Conservation House w/ 4 Poster Bed @airbnb #BusinessTravel #LuxuryTravel  Claim #Qantas Miles https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RARE",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "BusinessTravel",
+					"indices": [
+						77,
+						92
+					]
+				},
+				{
+					"text": "LuxuryTravel",
+					"indices": [
+						93,
+						106
+					]
+				},
+				{
+					"text": "Qantas",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AirBtB",
+					"name": "AirBtB",
+					"id": 3424214300,
+					"id_str": "3424214300",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "Airbnb",
+					"name": "Airbnb",
+					"id": 17416571,
+					"id_str": "17416571",
+					"indices": [
+						69,
+						76
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11536,
+			"friends_count": 7234,
+			"listed_count": 1017,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1456,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6757,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 18 04:59:23 +0000 2016",
+			"id": 788243054616453100,
+			"id_str": "788243054616453120",
+			"text": "#RARE Black and White Conservation House w/ 4 Poster Bed @airbnb #BusinessTravel #LuxuryTravel  Claim #Qantas Miles https://t.co/RllYl257AF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RARE",
+						"indices": [
+							0,
+							5
+						]
+					},
+					{
+						"text": "BusinessTravel",
+						"indices": [
+							65,
+							80
+						]
+					},
+					{
+						"text": "LuxuryTravel",
+						"indices": [
+							81,
+							94
+						]
+					},
+					{
+						"text": "Qantas",
+						"indices": [
+							102,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Airbnb",
+						"name": "Airbnb",
+						"id": 17416571,
+						"id_str": "17416571",
+						"indices": [
+							57,
+							64
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/RllYl257AF",
+						"expanded_url": "https://www.airbnb.com.sg/rooms/13623223",
+						"display_url": "airbnb.com.sg/rooms/13623223",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3424214300,
+				"id_str": "3424214300",
+				"name": "AirBtB",
+				"screen_name": "AirBtB",
+				"location": "Singapore",
+				"description": "@debbiediscovers #airbnb Travel bot Terms of AMEXSG offer can be found here https://t.co/JpoK3hWYTb",
+				"url": "https://t.co/wIbpJWmYxd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wIbpJWmYxd",
+								"expanded_url": "http://73engwatt.com",
+								"display_url": "73engwatt.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/JpoK3hWYTb",
+								"expanded_url": "https://deb.bi/AMEXSG2016",
+								"display_url": "deb.bi/AMEXSG2016",
+								"indices": [
+									76,
+									99
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 15,
+				"friends_count": 11,
+				"listed_count": 4,
+				"created_at": "Wed Sep 02 09:08:26 +0000 2015",
+				"favourites_count": 1,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/639073759773614080/t-uNJFup.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/639073759773614080/t-uNJFup.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/788156340656939008/8482UtgE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/788156340656939008/8482UtgE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3424214300/1476777292",
+				"profile_link_color": "FF5A5F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 18 08:54:51 +0000 2016",
+		"id": 788302310497591300,
+		"id_str": "788302310497591297",
+		"text": "RT @AirBtB: S$90 off your first AirBnB stay: $40 with deb's referral link https://t.co/bUKOZpcJXr and $50 for qualifying bookings w/ AmexSG…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AirBtB",
+					"name": "AirBtB",
+					"id": 3424214300,
+					"id_str": "3424214300",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bUKOZpcJXr",
+					"expanded_url": "http://www.airbnb.com.sg/c/dkay3",
+					"display_url": "airbnb.com.sg/c/dkay3",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11536,
+			"friends_count": 7234,
+			"listed_count": 1017,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1456,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6757,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 18 08:38:59 +0000 2016",
+			"id": 788298319164416000,
+			"id_str": "788298319164416000",
+			"text": "S$90 off your first AirBnB stay: $40 with deb's referral link https://t.co/bUKOZpcJXr and $50 for qualifying bookings w/ AmexSG (exp 03/17)",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bUKOZpcJXr",
+						"expanded_url": "http://www.airbnb.com.sg/c/dkay3",
+						"display_url": "airbnb.com.sg/c/dkay3",
+						"indices": [
+							62,
+							85
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3424214300,
+				"id_str": "3424214300",
+				"name": "AirBtB",
+				"screen_name": "AirBtB",
+				"location": "Singapore",
+				"description": "@debbiediscovers #airbnb Travel bot Terms of AMEXSG offer can be found here https://t.co/JpoK3hWYTb",
+				"url": "https://t.co/wIbpJWmYxd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wIbpJWmYxd",
+								"expanded_url": "http://73engwatt.com",
+								"display_url": "73engwatt.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/JpoK3hWYTb",
+								"expanded_url": "https://deb.bi/AMEXSG2016",
+								"display_url": "deb.bi/AMEXSG2016",
+								"indices": [
+									76,
+									99
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 15,
+				"friends_count": 11,
+				"listed_count": 4,
+				"created_at": "Wed Sep 02 09:08:26 +0000 2015",
+				"favourites_count": 1,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/639073759773614080/t-uNJFup.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/639073759773614080/t-uNJFup.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/788156340656939008/8482UtgE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/788156340656939008/8482UtgE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3424214300/1476777292",
+				"profile_link_color": "FF5A5F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 18 08:54:47 +0000 2016",
+		"id": 788302292759875600,
+		"id_str": "788302292759875584",
+		"text": "RT @HackHorizon: \"disruption will happen slowly, and then all at once\" @travelergreg @Expedia #WIT2016 #reimagine https://t.co/z4cz11nCuL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WIT2016",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "reimagine",
+					"indices": [
+						103,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HackHorizon",
+					"name": "Hack Horizon ✈",
+					"id": 761075620025540600,
+					"id_str": "761075620025540608",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "travelergreg",
+					"name": "Greg Schulze",
+					"id": 253331838,
+					"id_str": "253331838",
+					"indices": [
+						71,
+						84
+					]
+				},
+				{
+					"screen_name": "Expedia",
+					"name": "Expedia",
+					"id": 17365848,
+					"id_str": "17365848",
+					"indices": [
+						85,
+						93
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 788275209409208300,
+					"id_str": "788275209409208320",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/CvCEIGIVIAAvm4q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvCEIGIVIAAvm4q.jpg",
+					"url": "https://t.co/z4cz11nCuL",
+					"display_url": "pic.twitter.com/z4cz11nCuL",
+					"expanded_url": "https://twitter.com/HackHorizon/status/788275254456033280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 788275254456033300,
+					"source_status_id_str": "788275254456033280",
+					"source_user_id": 761075620025540600,
+					"source_user_id_str": "761075620025540608"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 788275209409208300,
+					"id_str": "788275209409208320",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/CvCEIGIVIAAvm4q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvCEIGIVIAAvm4q.jpg",
+					"url": "https://t.co/z4cz11nCuL",
+					"display_url": "pic.twitter.com/z4cz11nCuL",
+					"expanded_url": "https://twitter.com/HackHorizon/status/788275254456033280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 788275254456033300,
+					"source_status_id_str": "788275254456033280",
+					"source_user_id": 761075620025540600,
+					"source_user_id_str": "761075620025540608"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11536,
+			"friends_count": 7234,
+			"listed_count": 1017,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1456,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6757,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 18 07:07:20 +0000 2016",
+			"id": 788275254456033300,
+			"id_str": "788275254456033280",
+			"text": "\"disruption will happen slowly, and then all at once\" @travelergreg @Expedia #WIT2016 #reimagine https://t.co/z4cz11nCuL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WIT2016",
+						"indices": [
+							77,
+							85
+						]
+					},
+					{
+						"text": "reimagine",
+						"indices": [
+							86,
+							96
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "travelergreg",
+						"name": "Greg Schulze",
+						"id": 253331838,
+						"id_str": "253331838",
+						"indices": [
+							54,
+							67
+						]
+					},
+					{
+						"screen_name": "Expedia",
+						"name": "Expedia",
+						"id": 17365848,
+						"id_str": "17365848",
+						"indices": [
+							68,
+							76
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 788275209409208300,
+						"id_str": "788275209409208320",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/CvCEIGIVIAAvm4q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvCEIGIVIAAvm4q.jpg",
+						"url": "https://t.co/z4cz11nCuL",
+						"display_url": "pic.twitter.com/z4cz11nCuL",
+						"expanded_url": "https://twitter.com/HackHorizon/status/788275254456033280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 788275209409208300,
+						"id_str": "788275209409208320",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/CvCEIGIVIAAvm4q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvCEIGIVIAAvm4q.jpg",
+						"url": "https://t.co/z4cz11nCuL",
+						"display_url": "pic.twitter.com/z4cz11nCuL",
+						"expanded_url": "https://twitter.com/HackHorizon/status/788275254456033280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 761075620025540600,
+				"id_str": "761075620025540608",
+				"name": "Hack Horizon ✈",
+				"screen_name": "HackHorizon",
+				"location": "Hong Kong",
+				"description": "Join #hackathon on a plane from HKG to LDN on a mission to redefine #TravelTech. Newsletter: https://t.co/DTZcVmEcGe",
+				"url": "https://t.co/3XSsISe27P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3XSsISe27P",
+								"expanded_url": "http://www.hackhorizon.com/",
+								"display_url": "hackhorizon.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/DTZcVmEcGe",
+								"expanded_url": "http://bit.ly/runwayrundown",
+								"display_url": "bit.ly/runwayrundown",
+								"indices": [
+									93,
+									116
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 136,
+				"friends_count": 413,
+				"listed_count": 34,
+				"created_at": "Thu Aug 04 05:45:42 +0000 2016",
+				"favourites_count": 217,
+				"utc_offset": 28800,
+				"time_zone": "Hong Kong",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 215,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/785473281960751105/4ho8Ib4i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/785473281960751105/4ho8Ib4i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/761075620025540608/1472354277",
+				"profile_link_color": "FF4081",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "35fd5bacecc4c6e5",
+				"url": "https://api.twitter.com/1.1/geo/id/35fd5bacecc4c6e5.json",
+				"place_type": "country",
+				"name": "Hong Kong",
+				"full_name": "Hong Kong",
+				"country_code": "HK",
+				"country": "Hong Kong",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								113.81813,
+								22.1465116
+							],
+							[
+								114.502196,
+								22.1465116
+							],
+							[
+								114.502196,
+								22.614177
+							],
+							[
+								113.81813,
+								22.614177
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 18 04:03:02 +0000 2016",
 		"id": 788228871028179000,
 		"id_str": "788228871028178944",
