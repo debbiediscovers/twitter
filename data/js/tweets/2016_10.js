@@ -1,6 +1,424 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Wed Oct 19 08:45:47 +0000 2016",
+		"id": 788662414870847500,
+		"id_str": "788662414870847488",
+		"text": "RT @airbnbbot: #TiongBahruMarket in #Mondrian with @prismaai https://t.co/uPST4blcbJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TiongBahruMarket",
+					"indices": [
+						15,
+						32
+					]
+				},
+				{
+					"text": "Mondrian",
+					"indices": [
+						36,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "airbnbbot",
+					"name": "D's AirBnB Travelbot",
+					"id": 3424214300,
+					"id_str": "3424214300",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "PrismaAI",
+					"name": "Prisma",
+					"id": 742099969184784400,
+					"id_str": "742099969184784388",
+					"indices": [
+						51,
+						60
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 788616349404827600,
+					"id_str": "788616349404827648",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/CvG6ZDpXEAAQFDc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvG6ZDpXEAAQFDc.jpg",
+					"url": "https://t.co/uPST4blcbJ",
+					"display_url": "pic.twitter.com/uPST4blcbJ",
+					"expanded_url": "https://twitter.com/airbnbbot/status/788616351648718849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 655,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 986,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 986,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788616351648718800,
+					"source_status_id_str": "788616351648718849",
+					"source_user_id": 3424214300,
+					"source_user_id_str": "3424214300"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 788616349404827600,
+					"id_str": "788616349404827648",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/CvG6ZDpXEAAQFDc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvG6ZDpXEAAQFDc.jpg",
+					"url": "https://t.co/uPST4blcbJ",
+					"display_url": "pic.twitter.com/uPST4blcbJ",
+					"expanded_url": "https://twitter.com/airbnbbot/status/788616351648718849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 655,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 986,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 986,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788616351648718800,
+					"source_status_id_str": "788616351648718849",
+					"source_user_id": 3424214300,
+					"source_user_id_str": "3424214300"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11522,
+			"friends_count": 7243,
+			"listed_count": 1026,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1477,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6789,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 19 05:42:44 +0000 2016",
+			"id": 788616351648718800,
+			"id_str": "788616351648718849",
+			"text": "#TiongBahruMarket in #Mondrian with @prismaai https://t.co/uPST4blcbJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TiongBahruMarket",
+						"indices": [
+							0,
+							17
+						]
+					},
+					{
+						"text": "Mondrian",
+						"indices": [
+							21,
+							30
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PrismaAI",
+						"name": "Prisma",
+						"id": 742099969184784400,
+						"id_str": "742099969184784388",
+						"indices": [
+							36,
+							45
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 788616349404827600,
+						"id_str": "788616349404827648",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/CvG6ZDpXEAAQFDc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvG6ZDpXEAAQFDc.jpg",
+						"url": "https://t.co/uPST4blcbJ",
+						"display_url": "pic.twitter.com/uPST4blcbJ",
+						"expanded_url": "https://twitter.com/airbnbbot/status/788616351648718849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 655,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 986,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 986,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 788616349404827600,
+						"id_str": "788616349404827648",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/CvG6ZDpXEAAQFDc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvG6ZDpXEAAQFDc.jpg",
+						"url": "https://t.co/uPST4blcbJ",
+						"display_url": "pic.twitter.com/uPST4blcbJ",
+						"expanded_url": "https://twitter.com/airbnbbot/status/788616351648718849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 655,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 986,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 986,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3424214300,
+				"id_str": "3424214300",
+				"name": "D's AirBnB Travelbot",
+				"screen_name": "airbnbbot",
+				"location": "Singapore",
+				"description": "#AirbnbSuperhost @debbiediscovers #AirBnB Travel bot. Terms of AMEXSG offer can be found here https://t.co/JpoK3hWYTb",
+				"url": "https://t.co/wIbpJWmYxd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wIbpJWmYxd",
+								"expanded_url": "http://73engwatt.com",
+								"display_url": "73engwatt.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/JpoK3hWYTb",
+								"expanded_url": "https://deb.bi/AMEXSG2016",
+								"display_url": "deb.bi/AMEXSG2016",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 17,
+				"friends_count": 12,
+				"listed_count": 4,
+				"created_at": "Wed Sep 02 09:08:26 +0000 2015",
+				"favourites_count": 6,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/639073759773614080/t-uNJFup.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/639073759773614080/t-uNJFup.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/788156340656939008/8482UtgE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/788156340656939008/8482UtgE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3424214300/1476777292",
+				"profile_link_color": "FF5A5F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 19 07:35:58 +0000 2016",
 		"id": 788644848932839400,
 		"id_str": "788644848932839424",
