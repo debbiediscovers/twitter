@@ -1,6 +1,562 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Wed Oct 19 06:47:30 +0000 2016",
+		"id": 788632649283797000,
+		"id_str": "788632649283796994",
+		"text": "Don't have a pet yet I want to shop at @chewy 💖 #SocialCustomer done RIGHT! #Singapore #SmartNation @GovTechSG Watc… https://t.co/4Ub4z0t2pu",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SocialCustomer",
+					"indices": [
+						48,
+						63
+					]
+				},
+				{
+					"text": "Singapore",
+					"indices": [
+						76,
+						86
+					]
+				},
+				{
+					"text": "SmartNation",
+					"indices": [
+						87,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Chewy",
+					"name": "Chewy",
+					"id": 306180764,
+					"id_str": "306180764",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"screen_name": "GovTechSG",
+					"name": "GovTech (Singapore)",
+					"id": 123167035,
+					"id_str": "123167035",
+					"indices": [
+						100,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4Ub4z0t2pu",
+					"expanded_url": "https://twitter.com/i/web/status/788632649283796994",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11524,
+			"friends_count": 7242,
+			"listed_count": 1020,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1471,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6786,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 768592644167471100,
+		"quoted_status_id_str": "768592644167471104",
+		"quoted_status": {
+			"created_at": "Wed Aug 24 23:35:40 +0000 2016",
+			"id": 768592644167471100,
+			"id_str": "768592644167471104",
+			"text": ".@Chewy has made me a believer in the power of surprise &amp; delight. Thanks for the \"just because\" painting of my cat. https://t.co/JMUGmfCbEn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Chewy",
+						"name": "Chewy",
+						"id": 306180764,
+						"id_str": "306180764",
+						"indices": [
+							1,
+							7
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 768592161260527600,
+						"id_str": "768592161260527618",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/CqqWf50VYAILl_c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CqqWf50VYAILl_c.jpg",
+						"url": "https://t.co/JMUGmfCbEn",
+						"display_url": "pic.twitter.com/JMUGmfCbEn",
+						"expanded_url": "https://twitter.com/PollenAndy/status/768592644167471104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 768592161260527600,
+						"id_str": "768592161260527618",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/CqqWf50VYAILl_c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CqqWf50VYAILl_c.jpg",
+						"url": "https://t.co/JMUGmfCbEn",
+						"display_url": "pic.twitter.com/JMUGmfCbEn",
+						"expanded_url": "https://twitter.com/PollenAndy/status/768592644167471104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 760071356,
+				"id_str": "760071356",
+				"name": "Andy Pollen",
+				"screen_name": "PollenAndy",
+				"location": "Minneapolis",
+				"description": "PR pro @maccabeepr | MSP by way of CHI, STL & IND. | Lover of cats, coffee and city living.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 164,
+				"friends_count": 304,
+				"listed_count": 25,
+				"created_at": "Wed Aug 15 20:08:06 +0000 2012",
+				"favourites_count": 30,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 452,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/610245413367586817/U99_0mw9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/610245413367586817/U99_0mw9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/760071356/1444694228",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 19 06:15:18 +0000 2016",
+		"id": 788624548220571600,
+		"id_str": "788624548220571650",
+		"text": "RT @douglasjfoley: The Biggest Design Law Case Of The Century Is A Total Mess https://t.co/JBCnbjMKHt #Tech #Innovation",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Tech",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "Innovation",
+					"indices": [
+						108,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "douglasjfoley",
+					"name": "Douglas J Foley",
+					"id": 23991345,
+					"id_str": "23991345",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JBCnbjMKHt",
+					"expanded_url": "http://buff.ly/2eeLrGM",
+					"display_url": "buff.ly/2eeLrGM",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11524,
+			"friends_count": 7242,
+			"listed_count": 1020,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1471,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6786,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 18 20:12:02 +0000 2016",
+			"id": 788472729741750300,
+			"id_str": "788472729741750272",
+			"text": "The Biggest Design Law Case Of The Century Is A Total Mess https://t.co/JBCnbjMKHt #Tech #Innovation",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Tech",
+						"indices": [
+							83,
+							88
+						]
+					},
+					{
+						"text": "Innovation",
+						"indices": [
+							89,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JBCnbjMKHt",
+						"expanded_url": "http://buff.ly/2eeLrGM",
+						"display_url": "buff.ly/2eeLrGM",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23991345,
+				"id_str": "23991345",
+				"name": "Douglas J Foley",
+				"screen_name": "douglasjfoley",
+				"location": "Ontario, Canada",
+				"description": "Podcast Host, Speaker, Content Marketer, Youngest of 8, Father of 2 -Huntin', Fishin', Marketin', And Lovin' Every Day... #ContentMarketing #HOP",
+				"url": "https://t.co/ifaU0NRbTy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ifaU0NRbTy",
+								"expanded_url": "http://www.douglasjfoley.com",
+								"display_url": "douglasjfoley.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1450,
+				"friends_count": 478,
+				"listed_count": 468,
+				"created_at": "Thu Mar 12 17:47:33 +0000 2009",
+				"favourites_count": 1160,
+				"utc_offset": -18000,
+				"time_zone": "Lima",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4483,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/664609820171874305/6bAP4cOi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/664609820171874305/6bAP4cOi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23991345/1474851452",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 19 04:32:13 +0000 2016",
 		"id": 788598604260868100,
 		"id_str": "788598604260868097",
