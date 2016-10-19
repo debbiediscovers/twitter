@@ -1,6 +1,1106 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Wed Oct 19 12:07:37 +0000 2016",
+		"id": 788713211616911400,
+		"id_str": "788713211616911360",
+		"text": "#Chatbots: Your Ultimate Prototyping Tool https://t.co/zP7OkfV67J #GREAT #ADVICE #designthinking from @Ideo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Chatbots",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "GREAT",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "ADVICE",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"text": "designthinking",
+					"indices": [
+						81,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ideo",
+					"name": "IDEO",
+					"id": 23462787,
+					"id_str": "23462787",
+					"indices": [
+						102,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zP7OkfV67J",
+					"expanded_url": "https://medium.com/ideo-stories/chatbots-ultimate-prototyping-tool-e4e2831967f3#.6icudcsjc",
+					"display_url": "medium.com/ideo-stories/c…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11517,
+			"friends_count": 7244,
+			"listed_count": 1026,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1481,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 19 12:05:38 +0000 2016",
+		"id": 788712710166843400,
+		"id_str": "788712710166843392",
+		"text": "RT @littlecodersSG: Two Valley teen programmers have started a movement where kids teach other kids how to code @businessinsider https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "littlecodersSG",
+					"name": "Little Coders SG",
+					"id": 3188621004,
+					"id_str": "3188621004",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "businessinsider",
+					"name": "Business Insider",
+					"id": 20562637,
+					"id_str": "20562637",
+					"indices": [
+						112,
+						128
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11517,
+			"friends_count": 7244,
+			"listed_count": 1026,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1481,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 19 00:31:00 +0000 2016",
+			"id": 788537902389194800,
+			"id_str": "788537902389194752",
+			"text": "Two Valley teen programmers have started a movement where kids teach other kids how to code @businessinsider https://t.co/l8Gb8UhXv2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "businessinsider",
+						"name": "Business Insider",
+						"id": 20562637,
+						"id_str": "20562637",
+						"indices": [
+							92,
+							108
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/l8Gb8UhXv2",
+						"expanded_url": "http://buff.ly/2e4IewN",
+						"display_url": "buff.ly/2e4IewN",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3188621004,
+				"id_str": "3188621004",
+				"name": "Little Coders SG",
+				"screen_name": "littlecodersSG",
+				"location": "Singapore",
+				"description": "Little Coders in Singapore",
+				"url": "http://t.co/tIMB1p1H5s",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tIMB1p1H5s",
+								"expanded_url": "http://www.littlecoders.sg",
+								"display_url": "littlecoders.sg",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 276,
+				"friends_count": 881,
+				"listed_count": 52,
+				"created_at": "Fri May 08 11:37:06 +0000 2015",
+				"favourites_count": 193,
+				"utc_offset": -39600,
+				"time_zone": "International Date Line West",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1120,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/660828387716411392/vWWGDPJK_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/660828387716411392/vWWGDPJK_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3188621004/1431619481",
+				"profile_link_color": "7BD7C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 19 11:46:59 +0000 2016",
+		"id": 788708019353690100,
+		"id_str": "788708019353690113",
+		"text": "Is #Singapore🇸🇬  the next frontier for #edtech? https://t.co/gtuQRZ4S4h 🙏 as long as it reduces costs for parents &amp; tuition for kids🙏",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Singapore",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						39,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gtuQRZ4S4h",
+					"expanded_url": "https://www.techinasia.com/talk/singapore-next-frontier-edtech",
+					"display_url": "techinasia.com/talk/singapore…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11517,
+			"friends_count": 7244,
+			"listed_count": 1026,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1481,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 19 11:40:04 +0000 2016",
+		"id": 788706276901478400,
+		"id_str": "788706276901478400",
+		"text": "🌟⚡️@Vogue joins @Wiired and @USAToday in making historical political endorsement for U.S. presidency https://t.co/8obkl3Gmzl … via @mashable",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vogue",
+					"name": "The Vogue Theatre",
+					"id": 105243154,
+					"id_str": "105243154",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"screen_name": "wiired",
+					"name": "FKB",
+					"id": 429028531,
+					"id_str": "429028531",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"screen_name": "USATODAY",
+					"name": "USA TODAY",
+					"id": 15754281,
+					"id_str": "15754281",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"screen_name": "mashable",
+					"name": "Mashable",
+					"id": 972651,
+					"id_str": "972651",
+					"indices": [
+						131,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8obkl3Gmzl",
+					"expanded_url": "http://mashable.com/2016/10/19/vogue-clinton-endorsement/#9vluQ3tIs050",
+					"display_url": "mashable.com/2016/10/19/vog…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11517,
+			"friends_count": 7244,
+			"listed_count": 1026,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1481,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 19 11:37:18 +0000 2016",
+		"id": 788705582064676900,
+		"id_str": "788705582064676864",
+		"text": "@ranjalrajesh thanks for pointing out! am sure @KarolPokojowczy and @airtweets_com will fix asap!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ranjalrajesh",
+					"name": "Rajesh Shenoy",
+					"id": 75552756,
+					"id_str": "75552756",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "KarolPokojowczy",
+					"name": "Karol Pokojowczyk",
+					"id": 320241050,
+					"id_str": "320241050",
+					"indices": [
+						47,
+						63
+					]
+				},
+				{
+					"screen_name": "airtweets_com",
+					"name": "AirTweets",
+					"id": 3790093213,
+					"id_str": "3790093213",
+					"indices": [
+						68,
+						82
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 788705165561823200,
+		"in_reply_to_status_id_str": "788705165561823232",
+		"in_reply_to_user_id": 75552756,
+		"in_reply_to_user_id_str": "75552756",
+		"in_reply_to_screen_name": "ranjalrajesh",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11517,
+			"friends_count": 7244,
+			"listed_count": 1026,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1481,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 19 11:32:53 +0000 2016",
+		"id": 788704467713568800,
+		"id_str": "788704467713568772",
+		"text": "RT @KarolPokojowczy: How to choose keywords for #SEO &amp; #customeracquisition in #SocialMedia\n\nhttps://t.co/fzR3gILOzq\n\n#growthhacking https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEO",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "customeracquisition",
+					"indices": [
+						59,
+						79
+					]
+				},
+				{
+					"text": "SocialMedia",
+					"indices": [
+						83,
+						95
+					]
+				},
+				{
+					"text": "growthhacking",
+					"indices": [
+						122,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KarolPokojowczy",
+					"name": "Karol Pokojowczyk",
+					"id": 320241050,
+					"id_str": "320241050",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fzR3gILOzq",
+					"expanded_url": "https://airtweets.com/go/4c0HedV9",
+					"display_url": "airtweets.com/go/4c0HedV9",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11517,
+			"friends_count": 7244,
+			"listed_count": 1026,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1481,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 19 09:40:03 +0000 2016",
+			"id": 788676074238509000,
+			"id_str": "788676074238509056",
+			"text": "How to choose keywords for #SEO &amp; #customeracquisition in #SocialMedia\n\nhttps://t.co/fzR3gILOzq\n\n#growthhacking https://t.co/EyngtPhnRa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SEO",
+						"indices": [
+							27,
+							31
+						]
+					},
+					{
+						"text": "customeracquisition",
+						"indices": [
+							38,
+							58
+						]
+					},
+					{
+						"text": "SocialMedia",
+						"indices": [
+							62,
+							74
+						]
+					},
+					{
+						"text": "growthhacking",
+						"indices": [
+							101,
+							115
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fzR3gILOzq",
+						"expanded_url": "https://airtweets.com/go/4c0HedV9",
+						"display_url": "airtweets.com/go/4c0HedV9",
+						"indices": [
+							76,
+							99
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 642361510442979300,
+						"id_str": "642361510442979329",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/COogY-9WUAEepGw.png",
+						"media_url_https": "https://pbs.twimg.com/media/COogY-9WUAEepGw.png",
+						"url": "https://t.co/EyngtPhnRa",
+						"display_url": "pic.twitter.com/EyngtPhnRa",
+						"expanded_url": "http://twitter.com/ColibriTool/status/642361510707261440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 164,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 676,
+								"h": 327,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 290,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 642361510707261400,
+						"source_status_id_str": "642361510707261440",
+						"source_user_id": 388296115,
+						"source_user_id_str": "388296115"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 642361510442979300,
+						"id_str": "642361510442979329",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/COogY-9WUAEepGw.png",
+						"media_url_https": "https://pbs.twimg.com/media/COogY-9WUAEepGw.png",
+						"url": "https://t.co/EyngtPhnRa",
+						"display_url": "pic.twitter.com/EyngtPhnRa",
+						"expanded_url": "http://twitter.com/ColibriTool/status/642361510707261440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 164,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 676,
+								"h": 327,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 290,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 642361510707261400,
+						"source_status_id_str": "642361510707261440",
+						"source_user_id": 388296115,
+						"source_user_id_str": "388296115"
+					}
+				]
+			},
+			"source": "<a href=\"https://colibri.io\" rel=\"nofollow\">Air Tweets</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 320241050,
+				"id_str": "320241050",
+				"name": "Karol Pokojowczyk",
+				"screen_name": "KarolPokojowczy",
+				"location": "Ventura, CA",
+				"description": "#CEO @GetRiver @ColibriTool @airtweets_com #GrowthHacker, #InboundMarketing. 20 yrs coding experience, 12 yrs in marketing #rabbitmq #redis #ai #machinelearning",
+				"url": "https://t.co/qE1DJ2neAo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qE1DJ2neAo",
+								"expanded_url": "https://getriver.com",
+								"display_url": "getriver.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39164,
+				"friends_count": 32116,
+				"listed_count": 4488,
+				"created_at": "Sun Jun 19 15:24:02 +0000 2011",
+				"favourites_count": 1874,
+				"utc_offset": 7200,
+				"time_zone": "Warsaw",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 27245,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/650943510531567616/FzzHdBPr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/650943510531567616/FzzHdBPr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/320241050/1414144948",
+				"profile_link_color": "3493D5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 19 09:33:01 +0000 2016",
 		"id": 788674303558639600,
 		"id_str": "788674303558639616",
