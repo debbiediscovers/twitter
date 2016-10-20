@@ -1,6 +1,1409 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 20 17:49:58 +0000 2016",
+		"id": 789161751694549000,
+		"id_str": "789161751694548994",
+		"text": "RT @semrush: Google Releases Valuable Consumer Data Ahead of 2016 Holiday Shopping Season https://t.co/h0e7ZaoICb via @MattGSouthern, @sejo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "semrush",
+					"name": "SEMrush",
+					"id": 21896072,
+					"id_str": "21896072",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "mattgsouthern",
+					"name": "Matt G. Southern",
+					"id": 716103722556911600,
+					"id_str": "716103722556911616",
+					"indices": [
+						118,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/h0e7ZaoICb",
+					"expanded_url": "http://bit.ly/2eovIV4",
+					"display_url": "bit.ly/2eovIV4",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11507,
+			"friends_count": 7247,
+			"listed_count": 1027,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1501,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6816,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 20 15:30:05 +0000 2016",
+			"id": 789126550469783600,
+			"id_str": "789126550469783552",
+			"text": "Google Releases Valuable Consumer Data Ahead of 2016 Holiday Shopping Season https://t.co/h0e7ZaoICb via… https://t.co/KrHr6DSNYJ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/h0e7ZaoICb",
+						"expanded_url": "http://bit.ly/2eovIV4",
+						"display_url": "bit.ly/2eovIV4",
+						"indices": [
+							77,
+							100
+						]
+					},
+					{
+						"url": "https://t.co/KrHr6DSNYJ",
+						"expanded_url": "https://twitter.com/i/web/status/789126550469783552",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21896072,
+				"id_str": "21896072",
+				"name": "SEMrush",
+				"screen_name": "semrush",
+				"location": "Philadelphia, PA USA",
+				"description": "Be a digital marketing rock star with SEMrush! Follow us for the best industry updates & tips and connect with top influencers via our weekly #SEMrushchat",
+				"url": "https://t.co/JjZxAQAL1F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JjZxAQAL1F",
+								"expanded_url": "http://semrush.com",
+								"display_url": "semrush.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47110,
+				"friends_count": 13539,
+				"listed_count": 4359,
+				"created_at": "Wed Feb 25 18:06:24 +0000 2009",
+				"favourites_count": 136498,
+				"utc_offset": 10800,
+				"time_zone": "Volgograd",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 60461,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/840603242/77c265eb0c318b482f6d27b515b6c7ac.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/840603242/77c265eb0c318b482f6d27b515b6c7ac.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/732598168924348417/ZCQTz7Fx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/732598168924348417/ZCQTz7Fx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21896072/1475669969",
+				"profile_link_color": "B24908",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 20 17:49:40 +0000 2016",
+		"id": 789161679183487000,
+		"id_str": "789161679183486976",
+		"text": "RT @semrush: 6 Visual #Storytelling Trends That Will Change the Way Market https://t.co/9zm7VUvUgS via @jeffbullas https://t.co/Ti7h4z5ddh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Storytelling",
+					"indices": [
+						22,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "semrush",
+					"name": "SEMrush",
+					"id": 21896072,
+					"id_str": "21896072",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "jeffbullas",
+					"name": "Jeff Bullas",
+					"id": 18185124,
+					"id_str": "18185124",
+					"indices": [
+						103,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9zm7VUvUgS",
+					"expanded_url": "http://sumo.ly/osdP",
+					"display_url": "sumo.ly/osdP",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 789143648885702700,
+					"id_str": "789143648885702656",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/CvOZ97SWgAA9LQk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvOZ97SWgAA9LQk.jpg",
+					"url": "https://t.co/Ti7h4z5ddh",
+					"display_url": "pic.twitter.com/Ti7h4z5ddh",
+					"expanded_url": "https://twitter.com/semrush/status/789143651712499712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 757,
+							"h": 503,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 757,
+							"h": 503,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 789143651712499700,
+					"source_status_id_str": "789143651712499712",
+					"source_user_id": 21896072,
+					"source_user_id_str": "21896072"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 789143648885702700,
+					"id_str": "789143648885702656",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/CvOZ97SWgAA9LQk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvOZ97SWgAA9LQk.jpg",
+					"url": "https://t.co/Ti7h4z5ddh",
+					"display_url": "pic.twitter.com/Ti7h4z5ddh",
+					"expanded_url": "https://twitter.com/semrush/status/789143651712499712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 757,
+							"h": 503,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 757,
+							"h": 503,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 789143651712499700,
+					"source_status_id_str": "789143651712499712",
+					"source_user_id": 21896072,
+					"source_user_id_str": "21896072"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11507,
+			"friends_count": 7247,
+			"listed_count": 1027,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1501,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6816,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 20 16:38:02 +0000 2016",
+			"id": 789143651712499700,
+			"id_str": "789143651712499712",
+			"text": "6 Visual #Storytelling Trends That Will Change the Way Market https://t.co/9zm7VUvUgS via @jeffbullas https://t.co/Ti7h4z5ddh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Storytelling",
+						"indices": [
+							9,
+							22
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jeffbullas",
+						"name": "Jeff Bullas",
+						"id": 18185124,
+						"id_str": "18185124",
+						"indices": [
+							90,
+							101
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9zm7VUvUgS",
+						"expanded_url": "http://sumo.ly/osdP",
+						"display_url": "sumo.ly/osdP",
+						"indices": [
+							62,
+							85
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 789143648885702700,
+						"id_str": "789143648885702656",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/CvOZ97SWgAA9LQk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvOZ97SWgAA9LQk.jpg",
+						"url": "https://t.co/Ti7h4z5ddh",
+						"display_url": "pic.twitter.com/Ti7h4z5ddh",
+						"expanded_url": "https://twitter.com/semrush/status/789143651712499712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 757,
+								"h": 503,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 757,
+								"h": 503,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 789143648885702700,
+						"id_str": "789143648885702656",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/CvOZ97SWgAA9LQk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvOZ97SWgAA9LQk.jpg",
+						"url": "https://t.co/Ti7h4z5ddh",
+						"display_url": "pic.twitter.com/Ti7h4z5ddh",
+						"expanded_url": "https://twitter.com/semrush/status/789143651712499712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 757,
+								"h": 503,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 757,
+								"h": 503,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21896072,
+				"id_str": "21896072",
+				"name": "SEMrush",
+				"screen_name": "semrush",
+				"location": "Philadelphia, PA USA",
+				"description": "Be a digital marketing rock star with SEMrush! Follow us for the best industry updates & tips and connect with top influencers via our weekly #SEMrushchat",
+				"url": "https://t.co/JjZxAQAL1F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JjZxAQAL1F",
+								"expanded_url": "http://semrush.com",
+								"display_url": "semrush.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47110,
+				"friends_count": 13539,
+				"listed_count": 4359,
+				"created_at": "Wed Feb 25 18:06:24 +0000 2009",
+				"favourites_count": 136498,
+				"utc_offset": 10800,
+				"time_zone": "Volgograd",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 60461,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/840603242/77c265eb0c318b482f6d27b515b6c7ac.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/840603242/77c265eb0c318b482f6d27b515b6c7ac.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/732598168924348417/ZCQTz7Fx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/732598168924348417/ZCQTz7Fx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21896072/1475669969",
+				"profile_link_color": "B24908",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 20 17:46:22 +0000 2016",
+		"id": 789160845347475500,
+		"id_str": "789160845347475460",
+		"text": "RT @tagboard: 👉 In case you missed it: possibly the best thing to come out of last night's US Presidential debate, via @lucky_tv #Debates20…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tagboard",
+					"name": "Tagboard",
+					"id": 418228820,
+					"id_str": "418228820",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "Lucky_TV",
+					"name": "LuckyTV",
+					"id": 120853015,
+					"id_str": "120853015",
+					"indices": [
+						119,
+						128
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11507,
+			"friends_count": 7247,
+			"listed_count": 1027,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1501,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6816,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 10 23:35:13 +0000 2016",
+			"id": 785624761111973900,
+			"id_str": "785624761111973889",
+			"text": "👉 In case you missed it: possibly the best thing to come out of last night's US Presidential debate, via @lucky_tv… https://t.co/fN1lHv6H3n",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Lucky_TV",
+						"name": "LuckyTV",
+						"id": 120853015,
+						"id_str": "120853015",
+						"indices": [
+							105,
+							114
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/fN1lHv6H3n",
+						"expanded_url": "https://twitter.com/i/web/status/785624761111973889",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 418228820,
+				"id_str": "418228820",
+				"name": "Tagboard",
+				"screen_name": "tagboard",
+				"location": "Redmond, WA",
+				"description": "Tagboard is the easiest way to discover social media and quickly share it with your community. Founded in 2011. Cofounders: @jdbt, @sperte & @jennihogan.",
+				"url": "https://t.co/nrMtIV2VQG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nrMtIV2VQG",
+								"expanded_url": "http://tagboard.com",
+								"display_url": "tagboard.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7190,
+				"friends_count": 803,
+				"listed_count": 420,
+				"created_at": "Mon Nov 21 22:32:57 +0000 2011",
+				"favourites_count": 5225,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2748,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EFEFEF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/535811718/bg-body.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/535811718/bg-body.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/671375223824879616/p7wpzQLb_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/671375223824879616/p7wpzQLb_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/418228820/1435169639",
+				"profile_link_color": "07A1C7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "A1A1A1",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 308,
+			"favorite_count": 247,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 308,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 20 17:44:50 +0000 2016",
+		"id": 789160459588939800,
+		"id_str": "789160459588939776",
+		"text": "RT @BrutalShodipo: So my best mate @PresidentFitch is swimming with sharks for charity, early backers get first dibs on remains \nhttps://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrutalShodipo",
+					"name": "Josh Brown",
+					"id": 582680635,
+					"id_str": "582680635",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "PresidentFitch",
+					"name": "Thom Fitch",
+					"id": 193786196,
+					"id_str": "193786196",
+					"indices": [
+						35,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11507,
+			"friends_count": 7247,
+			"listed_count": 1027,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1501,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6816,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 18 21:33:38 +0000 2016",
+			"id": 788493263497990100,
+			"id_str": "788493263497990144",
+			"text": "So my best mate @PresidentFitch is swimming with sharks for charity, early backers get first dibs on remains \nhttps://t.co/gP8swiuQWa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PresidentFitch",
+						"name": "Thom Fitch",
+						"id": 193786196,
+						"id_str": "193786196",
+						"indices": [
+							16,
+							31
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gP8swiuQWa",
+						"expanded_url": "https://www.justgiving.com/fundraising/ThomVsShark",
+						"display_url": "justgiving.com/fundraising/Th…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 582680635,
+				"id_str": "582680635",
+				"name": "Josh Brown",
+				"screen_name": "BrutalShodipo",
+				"location": "",
+				"description": "Looks like I picked the wrong week to quit sniffing glue. Money enthusiast. Hopeless QPR fan.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 160,
+				"friends_count": 422,
+				"listed_count": 1,
+				"created_at": "Thu May 17 11:17:24 +0000 2012",
+				"favourites_count": 1168,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3970,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/503672575772205056/DLc_bZD0.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/503672575772205056/DLc_bZD0.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/729217687168102401/ySVLN6fG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/729217687168102401/ySVLN6fG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/582680635/1475347918",
+				"profile_link_color": "E8AB1C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 20 17:44:39 +0000 2016",
+		"id": 789160416618225700,
+		"id_str": "789160416618225664",
+		"text": "RT @BrutalShodipo: Hey @tonyfernandes my best mate is swimming with sharks for charity, could I get a RT? https://t.co/2oMjmEwIIp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrutalShodipo",
+					"name": "Josh Brown",
+					"id": 582680635,
+					"id_str": "582680635",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "tonyfernandes",
+					"name": "Tony Fernandes",
+					"id": 17940246,
+					"id_str": "17940246",
+					"indices": [
+						23,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2oMjmEwIIp",
+					"expanded_url": "https://twitter.com/BrutalShodipo/status/788493263497990144",
+					"display_url": "twitter.com/BrutalShodipo/…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11507,
+			"friends_count": 7247,
+			"listed_count": 1027,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1501,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6816,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 18 21:35:04 +0000 2016",
+			"id": 788493626984820700,
+			"id_str": "788493626984820737",
+			"text": "Hey @tonyfernandes my best mate is swimming with sharks for charity, could I get a RT? https://t.co/2oMjmEwIIp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tonyfernandes",
+						"name": "Tony Fernandes",
+						"id": 17940246,
+						"id_str": "17940246",
+						"indices": [
+							4,
+							18
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2oMjmEwIIp",
+						"expanded_url": "https://twitter.com/BrutalShodipo/status/788493263497990144",
+						"display_url": "twitter.com/BrutalShodipo/…",
+						"indices": [
+							87,
+							110
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 582680635,
+				"id_str": "582680635",
+				"name": "Josh Brown",
+				"screen_name": "BrutalShodipo",
+				"location": "",
+				"description": "Looks like I picked the wrong week to quit sniffing glue. Money enthusiast. Hopeless QPR fan.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 160,
+				"friends_count": 422,
+				"listed_count": 1,
+				"created_at": "Thu May 17 11:17:24 +0000 2012",
+				"favourites_count": 1168,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3970,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/503672575772205056/DLc_bZD0.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/503672575772205056/DLc_bZD0.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/729217687168102401/ySVLN6fG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/729217687168102401/ySVLN6fG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/582680635/1475347918",
+				"profile_link_color": "E8AB1C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 788493263497990100,
+			"quoted_status_id_str": "788493263497990144",
+			"quoted_status": {
+				"created_at": "Tue Oct 18 21:33:38 +0000 2016",
+				"id": 788493263497990100,
+				"id_str": "788493263497990144",
+				"text": "So my best mate @PresidentFitch is swimming with sharks for charity, early backers get first dibs on remains \nhttps://t.co/gP8swiuQWa",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "PresidentFitch",
+							"name": "Thom Fitch",
+							"id": 193786196,
+							"id_str": "193786196",
+							"indices": [
+								16,
+								31
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/gP8swiuQWa",
+							"expanded_url": "https://www.justgiving.com/fundraising/ThomVsShark",
+							"display_url": "justgiving.com/fundraising/Th…",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 582680635,
+					"id_str": "582680635",
+					"name": "Josh Brown",
+					"screen_name": "BrutalShodipo",
+					"location": "",
+					"description": "Looks like I picked the wrong week to quit sniffing glue. Money enthusiast. Hopeless QPR fan.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 160,
+					"friends_count": 422,
+					"listed_count": 1,
+					"created_at": "Thu May 17 11:17:24 +0000 2012",
+					"favourites_count": 1168,
+					"utc_offset": 3600,
+					"time_zone": "London",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 3970,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "1A1B1F",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/503672575772205056/DLc_bZD0.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/503672575772205056/DLc_bZD0.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/729217687168102401/ySVLN6fG_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/729217687168102401/ySVLN6fG_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/582680635/1475347918",
+					"profile_link_color": "E8AB1C",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "252429",
+					"profile_text_color": "666666",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 9,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 788493263497990100,
+		"quoted_status_id_str": "788493263497990144",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 20 16:23:11 +0000 2016",
 		"id": 789139912104763400,
 		"id_str": "789139912104763393",
