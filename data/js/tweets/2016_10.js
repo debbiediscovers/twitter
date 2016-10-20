@@ -1,6 +1,626 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 20 11:52:00 +0000 2016",
+		"id": 789071669570797600,
+		"id_str": "789071669570797568",
+		"text": "24 Pinterest Marketing Blogs You Should Follow by @stephenjeske via @ViralWoot https://t.co/vQtP3sB28Z #socialmedia",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "socialmedia",
+					"indices": [
+						103,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stephenjeske",
+					"name": "Stephen Jeske",
+					"id": 21191009,
+					"id_str": "21191009",
+					"indices": [
+						50,
+						63
+					]
+				},
+				{
+					"screen_name": "Viralwoot",
+					"name": "Viralwoot",
+					"id": 1217791423,
+					"id_str": "1217791423",
+					"indices": [
+						68,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vQtP3sB28Z",
+					"expanded_url": "http://buff.ly/2dXJE9O",
+					"display_url": "buff.ly/2dXJE9O",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11512,
+			"friends_count": 7247,
+			"listed_count": 1026,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1493,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6808,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 20 11:14:41 +0000 2016",
+		"id": 789062275587907600,
+		"id_str": "789062275587907584",
+		"text": "@ranjalrajesh Think @airtweets_com has an expired SSL certificate but link is safe 😊   https://t.co/0gGOyqlDe3 @ColibriTool @KarolPokojowczy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ranjalrajesh",
+					"name": "Rajesh Shenoy",
+					"id": 75552756,
+					"id_str": "75552756",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "airtweets_com",
+					"name": "AirTweets",
+					"id": 3790093213,
+					"id_str": "3790093213",
+					"indices": [
+						20,
+						34
+					]
+				},
+				{
+					"screen_name": "ColibriTool",
+					"name": "Colibri IO",
+					"id": 388296115,
+					"id_str": "388296115",
+					"indices": [
+						111,
+						123
+					]
+				},
+				{
+					"screen_name": "KarolPokojowczy",
+					"name": "Karol Pokojowczyk",
+					"id": 320241050,
+					"id_str": "320241050",
+					"indices": [
+						124,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0gGOyqlDe3",
+					"expanded_url": "https://colibri.io/growth-hacking/how-to-choose-the-best-keywords-for-seo-and-customer/",
+					"display_url": "colibri.io/growth-hacking…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 788705165561823200,
+		"in_reply_to_status_id_str": "788705165561823232",
+		"in_reply_to_user_id": 75552756,
+		"in_reply_to_user_id_str": "75552756",
+		"in_reply_to_screen_name": "ranjalrajesh",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11512,
+			"friends_count": 7247,
+			"listed_count": 1026,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1493,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6808,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 20 11:12:21 +0000 2016",
+		"id": 789061691245932500,
+		"id_str": "789061691245932544",
+		"text": "RT @debbiediscovers: An Interview on #Growthhacking with @KarolPokojowczy – CEO, Founder of @Colibri.IO http://t.co/6qVSie1Mfg http://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Growthhacking",
+					"indices": [
+						37,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "KarolPokojowczy",
+					"name": "Karol Pokojowczyk",
+					"id": 320241050,
+					"id_str": "320241050",
+					"indices": [
+						57,
+						73
+					]
+				},
+				{
+					"screen_name": "colibri",
+					"name": "Antonio Joaquim",
+					"id": 8814412,
+					"id_str": "8814412",
+					"indices": [
+						92,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "http://t.co/6qVSie1Mfg",
+					"expanded_url": "http://buff.ly/1ZBYKli",
+					"display_url": "buff.ly/1ZBYKli",
+					"indices": [
+						104,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11512,
+			"friends_count": 7247,
+			"listed_count": 1026,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1493,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6808,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 14 20:08:10 +0000 2015",
+			"id": 654388245627805700,
+			"id_str": "654388245627805696",
+			"text": "An Interview on #Growthhacking with @KarolPokojowczy – CEO, Founder of @Colibri.IO http://t.co/6qVSie1Mfg http://t.co/ynPdMh70xH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Growthhacking",
+						"indices": [
+							16,
+							30
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KarolPokojowczy",
+						"name": "Karol Pokojowczyk",
+						"id": 320241050,
+						"id_str": "320241050",
+						"indices": [
+							36,
+							52
+						]
+					},
+					{
+						"screen_name": "colibri",
+						"name": "Antonio Joaquim",
+						"id": 8814412,
+						"id_str": "8814412",
+						"indices": [
+							71,
+							79
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "http://t.co/6qVSie1Mfg",
+						"expanded_url": "http://buff.ly/1ZBYKli",
+						"display_url": "buff.ly/1ZBYKli",
+						"indices": [
+							83,
+							105
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 654388245149675500,
+						"id_str": "654388245149675521",
+						"indices": [
+							106,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/CRTapFFWcAEjgwg.png",
+						"media_url_https": "https://pbs.twimg.com/media/CRTapFFWcAEjgwg.png",
+						"url": "http://t.co/ynPdMh70xH",
+						"display_url": "pic.twitter.com/ynPdMh70xH",
+						"expanded_url": "http://twitter.com/debbiediscovers/status/654388245627805696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 455,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 497,
+								"h": 665,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 497,
+								"h": 665,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 654388245149675500,
+						"id_str": "654388245149675521",
+						"indices": [
+							106,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/CRTapFFWcAEjgwg.png",
+						"media_url_https": "https://pbs.twimg.com/media/CRTapFFWcAEjgwg.png",
+						"url": "http://t.co/ynPdMh70xH",
+						"display_url": "pic.twitter.com/ynPdMh70xH",
+						"expanded_url": "http://twitter.com/debbiediscovers/status/654388245627805696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 455,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 497,
+								"h": 665,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 497,
+								"h": 665,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Central Region, Singapore",
+				"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+				"url": "https://t.co/o0MiAYiEuU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/o0MiAYiEuU",
+								"expanded_url": "http://info.debbiediscovers.com",
+								"display_url": "info.debbiediscovers.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11512,
+				"friends_count": 7247,
+				"listed_count": 1026,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 1493,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6808,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 20 09:33:02 +0000 2016",
 		"id": 789036693991067600,
 		"id_str": "789036693991067648",
