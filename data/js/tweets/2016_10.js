@@ -1,6 +1,1886 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Fri Oct 21 15:10:48 +0000 2016",
+		"id": 789484087153090600,
+		"id_str": "789484087153090560",
+		"text": "RT @debbiediscovers: Jim Rogers on Why He Loves Singapore And Doesn’t Miss the U.S. http://t.co/2UC0acmHmi via @WSJ #HOTDOGS http://t.co/SU…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HOTDOGS",
+					"indices": [
+						116,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "WSJ",
+					"name": "Wall Street Journal",
+					"id": 3108351,
+					"id_str": "3108351",
+					"indices": [
+						111,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "http://t.co/2UC0acmHmi",
+					"expanded_url": "http://buff.ly/1CBigkp",
+					"display_url": "buff.ly/1CBigkp",
+					"indices": [
+						84,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11513,
+			"friends_count": 7255,
+			"listed_count": 1032,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1520,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6841,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 28 16:48:54 +0000 2015",
+			"id": 615200207765151700,
+			"id_str": "615200207765151745",
+			"text": "Jim Rogers on Why He Loves Singapore And Doesn’t Miss the U.S. http://t.co/2UC0acmHmi via @WSJ #HOTDOGS http://t.co/SUUR12GUAn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HOTDOGS",
+						"indices": [
+							95,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WSJ",
+						"name": "Wall Street Journal",
+						"id": 3108351,
+						"id_str": "3108351",
+						"indices": [
+							90,
+							94
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "http://t.co/2UC0acmHmi",
+						"expanded_url": "http://buff.ly/1CBigkp",
+						"display_url": "buff.ly/1CBigkp",
+						"indices": [
+							63,
+							85
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 615200207714840600,
+						"id_str": "615200207714840577",
+						"indices": [
+							104,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/CImhVFaW8AE01sG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CImhVFaW8AE01sG.jpg",
+						"url": "http://t.co/SUUR12GUAn",
+						"display_url": "pic.twitter.com/SUUR12GUAn",
+						"expanded_url": "http://twitter.com/debbiediscovers/status/615200207765151745/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 262,
+								"h": 394,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 262,
+								"h": 394,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 262,
+								"h": 394,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 615200207714840600,
+						"id_str": "615200207714840577",
+						"indices": [
+							104,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/CImhVFaW8AE01sG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CImhVFaW8AE01sG.jpg",
+						"url": "http://t.co/SUUR12GUAn",
+						"display_url": "pic.twitter.com/SUUR12GUAn",
+						"expanded_url": "http://twitter.com/debbiediscovers/status/615200207765151745/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 262,
+								"h": 394,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 262,
+								"h": 394,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 262,
+								"h": 394,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Central Region, Singapore",
+				"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+				"url": "https://t.co/o0MiAYiEuU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/o0MiAYiEuU",
+								"expanded_url": "http://info.debbiediscovers.com",
+								"display_url": "info.debbiediscovers.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11513,
+				"friends_count": 7255,
+				"listed_count": 1032,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 1520,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6841,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 21 15:10:44 +0000 2016",
+		"id": 789484070203908100,
+		"id_str": "789484070203908096",
+		"text": "Attendees can ask if the real reason why #JimRogers loves #Singapore is because of #HOTDOGS #etalonconference https://t.co/PJ9kwr8k7O",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JimRogers",
+					"indices": [
+						41,
+						51
+					]
+				},
+				{
+					"text": "Singapore",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"text": "HOTDOGS",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "etalonconference",
+					"indices": [
+						92,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PJ9kwr8k7O",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/615200207765151745",
+					"display_url": "twitter.com/debbiediscover…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11513,
+			"friends_count": 7255,
+			"listed_count": 1032,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1520,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6841,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 615200207765151700,
+		"quoted_status_id_str": "615200207765151745",
+		"quoted_status": {
+			"created_at": "Sun Jun 28 16:48:54 +0000 2015",
+			"id": 615200207765151700,
+			"id_str": "615200207765151745",
+			"text": "Jim Rogers on Why He Loves Singapore And Doesn’t Miss the U.S. http://t.co/2UC0acmHmi via @WSJ #HOTDOGS http://t.co/SUUR12GUAn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HOTDOGS",
+						"indices": [
+							95,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WSJ",
+						"name": "Wall Street Journal",
+						"id": 3108351,
+						"id_str": "3108351",
+						"indices": [
+							90,
+							94
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "http://t.co/2UC0acmHmi",
+						"expanded_url": "http://buff.ly/1CBigkp",
+						"display_url": "buff.ly/1CBigkp",
+						"indices": [
+							63,
+							85
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 615200207714840600,
+						"id_str": "615200207714840577",
+						"indices": [
+							104,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/CImhVFaW8AE01sG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CImhVFaW8AE01sG.jpg",
+						"url": "http://t.co/SUUR12GUAn",
+						"display_url": "pic.twitter.com/SUUR12GUAn",
+						"expanded_url": "http://twitter.com/debbiediscovers/status/615200207765151745/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 262,
+								"h": 394,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 262,
+								"h": 394,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 262,
+								"h": 394,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 615200207714840600,
+						"id_str": "615200207714840577",
+						"indices": [
+							104,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/CImhVFaW8AE01sG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CImhVFaW8AE01sG.jpg",
+						"url": "http://t.co/SUUR12GUAn",
+						"display_url": "pic.twitter.com/SUUR12GUAn",
+						"expanded_url": "http://twitter.com/debbiediscovers/status/615200207765151745/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 262,
+								"h": 394,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 262,
+								"h": 394,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 262,
+								"h": 394,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Central Region, Singapore",
+				"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+				"url": "https://t.co/o0MiAYiEuU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/o0MiAYiEuU",
+								"expanded_url": "http://info.debbiediscovers.com",
+								"display_url": "info.debbiediscovers.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11513,
+				"friends_count": 7255,
+				"listed_count": 1032,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 1520,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6841,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 21 15:09:29 +0000 2016",
+		"id": 789483755366850600,
+		"id_str": "789483755366850560",
+		"text": "50 famous investors incl Jim Rogers \"How to Profit during Turmoil\" will speak at Etalon Conference… https://t.co/8AiCTK30hG",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8AiCTK30hG",
+					"expanded_url": "https://twitter.com/i/web/status/789483755366850560",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11513,
+			"friends_count": 7255,
+			"listed_count": 1032,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1520,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6841,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 21 15:04:35 +0000 2016",
+		"id": 789482522820214800,
+		"id_str": "789482522820214784",
+		"text": "RT @airbnbbot: 2016: The 15 most #hipster neighbourhoods in #AsiaPacific #Travel via @asiaone\nhttps://t.co/af4Cm4Nh70 --&gt;&gt;#4 #TiongBahru ht…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hipster",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"text": "AsiaPacific",
+					"indices": [
+						60,
+						72
+					]
+				},
+				{
+					"text": "Travel",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"text": "TiongBahru",
+					"indices": [
+						131,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "airbnbbot",
+					"name": "D's AirBnB Travelbot",
+					"id": 3424214300,
+					"id_str": "3424214300",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "Asiaone",
+					"name": "Hiroshi Matsumoto",
+					"id": 3789691,
+					"id_str": "3789691",
+					"indices": [
+						85,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/af4Cm4Nh70",
+					"expanded_url": "http://travel.asiaone.com/travel/inspirations/15-most-hipster-neighbourhoods-asia-pacific",
+					"display_url": "travel.asiaone.com/travel/inspira…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11513,
+			"friends_count": 7255,
+			"listed_count": 1032,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1520,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6841,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 20 21:24:20 +0000 2016",
+			"id": 789215700095148000,
+			"id_str": "789215700095148032",
+			"text": "2016: The 15 most #hipster neighbourhoods in #AsiaPacific #Travel via @asiaone\nhttps://t.co/af4Cm4Nh70 --&gt;&gt;#4… https://t.co/mxz8Xj408z",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "hipster",
+						"indices": [
+							18,
+							26
+						]
+					},
+					{
+						"text": "AsiaPacific",
+						"indices": [
+							45,
+							57
+						]
+					},
+					{
+						"text": "Travel",
+						"indices": [
+							58,
+							65
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Asiaone",
+						"name": "Hiroshi Matsumoto",
+						"id": 3789691,
+						"id_str": "3789691",
+						"indices": [
+							70,
+							78
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/af4Cm4Nh70",
+						"expanded_url": "http://travel.asiaone.com/travel/inspirations/15-most-hipster-neighbourhoods-asia-pacific",
+						"display_url": "travel.asiaone.com/travel/inspira…",
+						"indices": [
+							79,
+							102
+						]
+					},
+					{
+						"url": "https://t.co/mxz8Xj408z",
+						"expanded_url": "https://twitter.com/i/web/status/789215700095148032",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3424214300,
+				"id_str": "3424214300",
+				"name": "D's AirBnB Travelbot",
+				"screen_name": "airbnbbot",
+				"location": "Singapore",
+				"description": "#AirbnbSuperhost @debbiediscovers #AirBnB Travel bot. Terms of AMEXSG offer can be found here https://t.co/JpoK3hWYTb",
+				"url": "https://t.co/wIbpJWmYxd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wIbpJWmYxd",
+								"expanded_url": "http://73engwatt.com",
+								"display_url": "73engwatt.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/JpoK3hWYTb",
+								"expanded_url": "https://deb.bi/AMEXSG2016",
+								"display_url": "deb.bi/AMEXSG2016",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 16,
+				"friends_count": 19,
+				"listed_count": 8,
+				"created_at": "Wed Sep 02 09:08:26 +0000 2015",
+				"favourites_count": 43,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/639073759773614080/t-uNJFup.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/639073759773614080/t-uNJFup.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/788156340656939008/8482UtgE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/788156340656939008/8482UtgE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3424214300/1476777292",
+				"profile_link_color": "FF5A5F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 21 15:04:16 +0000 2016",
+		"id": 789482440372867100,
+		"id_str": "789482440372867072",
+		"text": "RT @airbnbbot: Hostess with the mostest! #airbnbsuperhost @debbiediscovers https://t.co/SHa6DZhj5W",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "airbnbsuperhost",
+					"indices": [
+						41,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "airbnbbot",
+					"name": "D's AirBnB Travelbot",
+					"id": 3424214300,
+					"id_str": "3424214300",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						58,
+						74
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 788912469783801900,
+					"id_str": "788912469783801856",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/CvLHtiBW8AA8iQQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvLHtiBW8AA8iQQ.jpg",
+					"url": "https://t.co/SHa6DZhj5W",
+					"display_url": "pic.twitter.com/SHa6DZhj5W",
+					"expanded_url": "https://twitter.com/airbnbbot/status/788912473420271616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788912473420271600,
+					"source_status_id_str": "788912473420271616",
+					"source_user_id": 3424214300,
+					"source_user_id_str": "3424214300"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 788912469783801900,
+					"id_str": "788912469783801856",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/CvLHtiBW8AA8iQQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvLHtiBW8AA8iQQ.jpg",
+					"url": "https://t.co/SHa6DZhj5W",
+					"display_url": "pic.twitter.com/SHa6DZhj5W",
+					"expanded_url": "https://twitter.com/airbnbbot/status/788912473420271616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788912473420271600,
+					"source_status_id_str": "788912473420271616",
+					"source_user_id": 3424214300,
+					"source_user_id_str": "3424214300"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11513,
+			"friends_count": 7255,
+			"listed_count": 1032,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1520,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6841,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 20 01:19:25 +0000 2016",
+			"id": 788912473420271600,
+			"id_str": "788912473420271616",
+			"text": "Hostess with the mostest! #airbnbsuperhost @debbiediscovers https://t.co/SHa6DZhj5W",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "airbnbsuperhost",
+						"indices": [
+							26,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							43,
+							59
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 788912469783801900,
+						"id_str": "788912469783801856",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/CvLHtiBW8AA8iQQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvLHtiBW8AA8iQQ.jpg",
+						"url": "https://t.co/SHa6DZhj5W",
+						"display_url": "pic.twitter.com/SHa6DZhj5W",
+						"expanded_url": "https://twitter.com/airbnbbot/status/788912473420271616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 788912469783801900,
+						"id_str": "788912469783801856",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/CvLHtiBW8AA8iQQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvLHtiBW8AA8iQQ.jpg",
+						"url": "https://t.co/SHa6DZhj5W",
+						"display_url": "pic.twitter.com/SHa6DZhj5W",
+						"expanded_url": "https://twitter.com/airbnbbot/status/788912473420271616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3424214300,
+				"id_str": "3424214300",
+				"name": "D's AirBnB Travelbot",
+				"screen_name": "airbnbbot",
+				"location": "Singapore",
+				"description": "#AirbnbSuperhost @debbiediscovers #AirBnB Travel bot. Terms of AMEXSG offer can be found here https://t.co/JpoK3hWYTb",
+				"url": "https://t.co/wIbpJWmYxd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wIbpJWmYxd",
+								"expanded_url": "http://73engwatt.com",
+								"display_url": "73engwatt.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/JpoK3hWYTb",
+								"expanded_url": "https://deb.bi/AMEXSG2016",
+								"display_url": "deb.bi/AMEXSG2016",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 16,
+				"friends_count": 19,
+				"listed_count": 8,
+				"created_at": "Wed Sep 02 09:08:26 +0000 2015",
+				"favourites_count": 43,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/639073759773614080/t-uNJFup.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/639073759773614080/t-uNJFup.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/788156340656939008/8482UtgE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/788156340656939008/8482UtgE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3424214300/1476777292",
+				"profile_link_color": "FF5A5F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 21 15:03:54 +0000 2016",
+		"id": 789482346969870300,
+		"id_str": "789482346969870336",
+		"text": "RT @airbnbbot: The Architect's Loft- Lofts for Rent in Singapore #BusinessTravel #LuxuryTravel #73EW w/ #Superhost @debbiediscovers https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BusinessTravel",
+					"indices": [
+						65,
+						80
+					]
+				},
+				{
+					"text": "LuxuryTravel",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"text": "73EW",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "Superhost",
+					"indices": [
+						104,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "airbnbbot",
+					"name": "D's AirBnB Travelbot",
+					"id": 3424214300,
+					"id_str": "3424214300",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						115,
+						131
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11513,
+			"friends_count": 7255,
+			"listed_count": 1032,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1520,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6841,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 21 15:02:41 +0000 2016",
+			"id": 789482041989398500,
+			"id_str": "789482041989398528",
+			"text": "The Architect's Loft- Lofts for Rent in Singapore #BusinessTravel #LuxuryTravel #73EW w/ #Superhost @debbiediscovers https://t.co/6ZcGOBn7jl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BusinessTravel",
+						"indices": [
+							50,
+							65
+						]
+					},
+					{
+						"text": "LuxuryTravel",
+						"indices": [
+							66,
+							79
+						]
+					},
+					{
+						"text": "73EW",
+						"indices": [
+							80,
+							85
+						]
+					},
+					{
+						"text": "Superhost",
+						"indices": [
+							89,
+							99
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							100,
+							116
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/6ZcGOBn7jl",
+						"expanded_url": "https://www.airbnb.com.sg/rooms/2469597",
+						"display_url": "airbnb.com.sg/rooms/2469597",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3424214300,
+				"id_str": "3424214300",
+				"name": "D's AirBnB Travelbot",
+				"screen_name": "airbnbbot",
+				"location": "Singapore",
+				"description": "#AirbnbSuperhost @debbiediscovers #AirBnB Travel bot. Terms of AMEXSG offer can be found here https://t.co/JpoK3hWYTb",
+				"url": "https://t.co/wIbpJWmYxd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wIbpJWmYxd",
+								"expanded_url": "http://73engwatt.com",
+								"display_url": "73engwatt.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/JpoK3hWYTb",
+								"expanded_url": "https://deb.bi/AMEXSG2016",
+								"display_url": "deb.bi/AMEXSG2016",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 16,
+				"friends_count": 19,
+				"listed_count": 8,
+				"created_at": "Wed Sep 02 09:08:26 +0000 2015",
+				"favourites_count": 43,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/639073759773614080/t-uNJFup.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/639073759773614080/t-uNJFup.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/788156340656939008/8482UtgE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/788156340656939008/8482UtgE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3424214300/1476777292",
+				"profile_link_color": "FF5A5F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 21 14:17:01 +0000 2016",
+		"id": 789470551261732900,
+		"id_str": "789470551261732864",
+		"text": "Slides from @sujanpatel &amp; @Kissmetrics on 25 Growth Hacks Guaranteed to Move the Needle https://t.co/Eq0vWSOC63",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sujanpatel",
+					"name": "Sujan Patel",
+					"id": 82017168,
+					"id_str": "82017168",
+					"indices": [
+						12,
+						23
+					]
+				},
+				{
+					"screen_name": "Kissmetrics",
+					"name": "Kissmetrics",
+					"id": 13027572,
+					"id_str": "13027572",
+					"indices": [
+						30,
+						42
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Eq0vWSOC63",
+					"expanded_url": "http://buff.ly/2e55zuI",
+					"display_url": "buff.ly/2e55zuI",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11513,
+			"friends_count": 7255,
+			"listed_count": 1032,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1520,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6841,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 21 14:07:55 +0000 2016",
 		"id": 789468260257312800,
 		"id_str": "789468260257312768",
