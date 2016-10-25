@@ -1,6 +1,672 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Tue Oct 25 12:43:42 +0000 2016",
+		"id": 790896617272455200,
+		"id_str": "790896617272455170",
+		"text": "RT @TheBHF: You're on Twitter 📱\nYour ❤️ stops\nYou go into cardiac arrest\n\n❤️ this Tweet to see what happens next. #RestartAHeart",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RestartAHeart",
+					"indices": [
+						114,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheBHF",
+					"name": "BHF",
+					"id": 21751830,
+					"id_str": "21751830",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11621,
+			"friends_count": 7515,
+			"listed_count": 1038,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1530,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6896,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 18 05:59:59 +0000 2016",
+			"id": 788258306154463200,
+			"id_str": "788258306154463232",
+			"text": "You're on Twitter 📱\nYour ❤️ stops\nYou go into cardiac arrest\n\n❤️ this Tweet to see what happens next. #RestartAHeart",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RestartAHeart",
+						"indices": [
+							102,
+							116
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.bhf.org.uk\" rel=\"nofollow\">Restart a Heart Day</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21751830,
+				"id_str": "21751830",
+				"name": "BHF",
+				"screen_name": "TheBHF",
+				"location": "London, UK",
+				"description": "Coronary heart disease is the UK's single biggest killer but we’re leading the fight against it. With your help, our pioneering research is transforming lives.",
+				"url": "http://t.co/8H37w8m8Gp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8H37w8m8Gp",
+								"expanded_url": "http://www.bhf.org.uk",
+								"display_url": "bhf.org.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 284781,
+				"friends_count": 12894,
+				"listed_count": 1612,
+				"created_at": "Tue Feb 24 13:05:24 +0000 2009",
+				"favourites_count": 25618,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 56115,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DE002B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/72237639/twitterProfilePhoto.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/72237639/twitterProfilePhoto.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/754981354966843392/5vK_fsF2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/754981354966843392/5vK_fsF2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21751830/1468831181",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "BABABA",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "DE002B",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2656,
+			"favorite_count": 21441,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2656,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 25 12:43:37 +0000 2016",
+		"id": 790896597286596600,
+		"id_str": "790896597286596608",
+		"text": "This is without a doubt the #BEST automated message I've ever received on Twitter. PERIOD. #RestartAHeart 💗 https://t.co/BLgiJhyVMH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BEST",
+					"indices": [
+						28,
+						33
+					]
+				},
+				{
+					"text": "RestartAHeart",
+					"indices": [
+						91,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BLgiJhyVMH",
+					"expanded_url": "https://twitter.com/TheBHF/status/788258306154463232",
+					"display_url": "twitter.com/TheBHF/status/…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11621,
+			"friends_count": 7515,
+			"listed_count": 1038,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1530,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6896,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 788258306154463200,
+		"quoted_status_id_str": "788258306154463232",
+		"quoted_status": {
+			"created_at": "Tue Oct 18 05:59:59 +0000 2016",
+			"id": 788258306154463200,
+			"id_str": "788258306154463232",
+			"text": "You're on Twitter 📱\nYour ❤️ stops\nYou go into cardiac arrest\n\n❤️ this Tweet to see what happens next. #RestartAHeart",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RestartAHeart",
+						"indices": [
+							102,
+							116
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.bhf.org.uk\" rel=\"nofollow\">Restart a Heart Day</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21751830,
+				"id_str": "21751830",
+				"name": "BHF",
+				"screen_name": "TheBHF",
+				"location": "London, UK",
+				"description": "Coronary heart disease is the UK's single biggest killer but we’re leading the fight against it. With your help, our pioneering research is transforming lives.",
+				"url": "http://t.co/8H37w8m8Gp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8H37w8m8Gp",
+								"expanded_url": "http://www.bhf.org.uk",
+								"display_url": "bhf.org.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 284781,
+				"friends_count": 12894,
+				"listed_count": 1612,
+				"created_at": "Tue Feb 24 13:05:24 +0000 2009",
+				"favourites_count": 25618,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 56115,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DE002B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/72237639/twitterProfilePhoto.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/72237639/twitterProfilePhoto.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/754981354966843392/5vK_fsF2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/754981354966843392/5vK_fsF2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21751830/1468831181",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "BABABA",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "DE002B",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2656,
+			"favorite_count": 21441,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 25 12:37:52 +0000 2016",
+		"id": 790895150486528000,
+		"id_str": "790895150486528001",
+		"text": "RT @ShakeUpLearning: Investing in girls’ education ‘could unlock billions’ https://t.co/Xn9rB8rgIu #edchat #edtech",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edchat",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						107,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ShakeUpLearning",
+					"name": "Kasey Bell",
+					"id": 14084352,
+					"id_str": "14084352",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Xn9rB8rgIu",
+					"expanded_url": "http://bit.ly/2eU3KnE",
+					"display_url": "bit.ly/2eU3KnE",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11621,
+			"friends_count": 7515,
+			"listed_count": 1038,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1530,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6896,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 25 12:30:17 +0000 2016",
+			"id": 790893239775727600,
+			"id_str": "790893239775727616",
+			"text": "Investing in girls’ education ‘could unlock billions’ https://t.co/Xn9rB8rgIu #edchat #edtech",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edchat",
+						"indices": [
+							78,
+							85
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							86,
+							93
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Xn9rB8rgIu",
+						"expanded_url": "http://bit.ly/2eU3KnE",
+						"display_url": "bit.ly/2eU3KnE",
+						"indices": [
+							54,
+							77
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14084352,
+				"id_str": "14084352",
+				"name": "Kasey Bell",
+				"screen_name": "ShakeUpLearning",
+				"location": "Dallas, TX",
+				"description": "Child of God, Teacher, Google Certified Innovator, Google Certified Trainer, EdCamper, blogger...dedicated to making a difference in student learning",
+				"url": "https://t.co/iU4APRh72b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iU4APRh72b",
+								"expanded_url": "http://www.shakeuplearning.com",
+								"display_url": "shakeuplearning.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26522,
+				"friends_count": 14147,
+				"listed_count": 1256,
+				"created_at": "Wed Mar 05 18:27:11 +0000 2008",
+				"favourites_count": 25480,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 40099,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "01B9C2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/689287274358411264/wihrulpu.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/689287274358411264/wihrulpu.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/675002732382715904/k96yRwnj_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/675002732382715904/k96yRwnj_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14084352/1449866424",
+				"profile_link_color": "01B9C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 25 11:52:02 +0000 2016",
 		"id": 790883616658190300,
 		"id_str": "790883616658190336",
