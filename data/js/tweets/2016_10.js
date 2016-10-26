@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Wed Oct 26 10:43:49 +0000 2016",
+		"id": 791228837556260900,
+		"id_str": "791228837556260864",
+		"text": "In case you missed it, we wrote an article last week https://t.co/Mo6Dk07ql0 #google #github #archive https://t.co/g69JZqrAqE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "google",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"text": "github",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"text": "archive",
+					"indices": [
+						93,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mo6Dk07ql0",
+					"expanded_url": "http://bit.ly/2cLezSG",
+					"display_url": "bit.ly/2cLezSG",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 791228835966623700,
+					"id_str": "791228835966623744",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/CvsCbyfWIAA6jHG.png",
+					"media_url_https": "https://pbs.twimg.com/media/CvsCbyfWIAA6jHG.png",
+					"url": "https://t.co/g69JZqrAqE",
+					"display_url": "pic.twitter.com/g69JZqrAqE",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/791228837556260864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 398,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 791228835966623700,
+					"id_str": "791228835966623744",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/CvsCbyfWIAA6jHG.png",
+					"media_url_https": "https://pbs.twimg.com/media/CvsCbyfWIAA6jHG.png",
+					"url": "https://t.co/g69JZqrAqE",
+					"display_url": "pic.twitter.com/g69JZqrAqE",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/791228837556260864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 398,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://missinglettr.com\" rel=\"nofollow\">missinglettr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11618,
+			"friends_count": 7489,
+			"listed_count": 1035,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1532,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6910,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 26 09:33:04 +0000 2016",
 		"id": 791211031586598900,
 		"id_str": "791211031586598913",
