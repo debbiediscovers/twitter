@@ -1,6 +1,1282 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Wed Oct 26 04:06:32 +0000 2016",
+		"id": 791128856291840000,
+		"id_str": "791128856291840000",
+		"text": "How Audiobooks Can Help Kids Who Struggle with Reading https://t.co/H5p3lg7ydj via @nuzzel",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nuzzel",
+					"name": "Nuzzel",
+					"id": 106041193,
+					"id_str": "106041193",
+					"indices": [
+						83,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/H5p3lg7ydj",
+					"expanded_url": "http://nzzl.us/XTmOKhd",
+					"display_url": "nzzl.us/XTmOKhd",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11617,
+			"friends_count": 7490,
+			"listed_count": 1033,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1532,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6905,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 26 04:03:03 +0000 2016",
+		"id": 791127981796237300,
+		"id_str": "791127981796237313",
+		"text": "Unmasking Impostor Syndrome: 7 Ways to Boost Your Confidence at Work https://t.co/oCWu5siiXI #careeradvice #productivity",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "careeradvice",
+					"indices": [
+						93,
+						106
+					]
+				},
+				{
+					"text": "productivity",
+					"indices": [
+						107,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oCWu5siiXI",
+					"expanded_url": "http://buff.ly/2dJfMgR",
+					"display_url": "buff.ly/2dJfMgR",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11617,
+			"friends_count": 7490,
+			"listed_count": 1033,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1532,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6905,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 26 03:51:07 +0000 2016",
+		"id": 791124978221457400,
+		"id_str": "791124978221457408",
+		"text": "RT @TheBHF: You're on Twitter 📱\nYour ❤️ stops\nYou go into cardiac arrest\n\n❤️ this Tweet to see what happens next. #RestartAHeart",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RestartAHeart",
+					"indices": [
+						114,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheBHF",
+					"name": "BHF",
+					"id": 21751830,
+					"id_str": "21751830",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11617,
+			"friends_count": 7490,
+			"listed_count": 1033,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1532,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6905,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 18 05:59:59 +0000 2016",
+			"id": 788258306154463200,
+			"id_str": "788258306154463232",
+			"text": "You're on Twitter 📱\nYour ❤️ stops\nYou go into cardiac arrest\n\n❤️ this Tweet to see what happens next. #RestartAHeart",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RestartAHeart",
+						"indices": [
+							102,
+							116
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.bhf.org.uk\" rel=\"nofollow\">Restart a Heart Day</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21751830,
+				"id_str": "21751830",
+				"name": "BHF",
+				"screen_name": "TheBHF",
+				"location": "London, UK",
+				"description": "Coronary heart disease is the UK's single biggest killer but we’re leading the fight against it. With your help, our pioneering research is transforming lives.",
+				"url": "http://t.co/8H37w8m8Gp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8H37w8m8Gp",
+								"expanded_url": "http://www.bhf.org.uk",
+								"display_url": "bhf.org.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 284849,
+				"friends_count": 12893,
+				"listed_count": 1612,
+				"created_at": "Tue Feb 24 13:05:24 +0000 2009",
+				"favourites_count": 25619,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 56176,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DE002B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/72237639/twitterProfilePhoto.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/72237639/twitterProfilePhoto.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/754981354966843392/5vK_fsF2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/754981354966843392/5vK_fsF2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21751830/1468831181",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "BABABA",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "DE002B",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2658,
+			"favorite_count": 21471,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2658,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 26 03:51:07 +0000 2016",
+		"id": 791124976275365900,
+		"id_str": "791124976275365888",
+		"text": "@ShiraRossana @Munsroe @StevesKings @gozlum_gulen @syncprojectco @SendMeTunes1 @UncleBillion @_blondeblueeyes  new… https://t.co/EvRdPkpMwB",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ShiraRossana",
+					"name": "*❤* AnAmaRia *❤*",
+					"id": 42729411,
+					"id_str": "42729411",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Munsroe",
+					"name": "Mun Roo",
+					"id": 2918478426,
+					"id_str": "2918478426",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"screen_name": "StevesKings",
+					"name": "Steve King",
+					"id": 595188370,
+					"id_str": "595188370",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"screen_name": "gozlum_gulen",
+					"name": "Gulen GÖZLÜM",
+					"id": 786249260132098000,
+					"id_str": "786249260132098048",
+					"indices": [
+						36,
+						49
+					]
+				},
+				{
+					"screen_name": "syncprojectco",
+					"name": "Sync Project",
+					"id": 3044760580,
+					"id_str": "3044760580",
+					"indices": [
+						50,
+						64
+					]
+				},
+				{
+					"screen_name": "SendMeTunes1",
+					"name": "Submit Your Music",
+					"id": 4799902850,
+					"id_str": "4799902850",
+					"indices": [
+						65,
+						78
+					]
+				},
+				{
+					"screen_name": "UncleBillion",
+					"name": "Billionaire Mindset",
+					"id": 727571477046923300,
+					"id_str": "727571477046923264",
+					"indices": [
+						79,
+						92
+					]
+				},
+				{
+					"screen_name": "_blondeblueeyes",
+					"name": "👑 AnA 👸",
+					"id": 2844667847,
+					"id_str": "2844667847",
+					"indices": [
+						93,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EvRdPkpMwB",
+					"expanded_url": "https://twitter.com/i/web/status/791124976275365888",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 791084972136394800,
+		"in_reply_to_status_id_str": "791084972136394752",
+		"in_reply_to_user_id": 42729411,
+		"in_reply_to_user_id_str": "42729411",
+		"in_reply_to_screen_name": "ShiraRossana",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11617,
+			"friends_count": 7490,
+			"listed_count": 1033,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1532,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6905,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 26 03:50:48 +0000 2016",
+		"id": 791124896621342700,
+		"id_str": "791124896621342720",
+		"text": "@Margot_Hoyt @FX_Community https://t.co/pTWVWL7dCG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Margot_Hoyt",
+					"name": "Margot Hoyt",
+					"id": 4122161452,
+					"id_str": "4122161452",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "FX_Community",
+					"name": "Dukascopy Community",
+					"id": 226637533,
+					"id_str": "226637533",
+					"indices": [
+						13,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 791124876874616800,
+					"id_str": "791124876874616832",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cvqj4ksWEAAOapK.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cvqj4ksWEAAOapK.jpg",
+					"url": "https://t.co/pTWVWL7dCG",
+					"display_url": "pic.twitter.com/pTWVWL7dCG",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/791124896621342720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 498,
+							"h": 460,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 314,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 791124876874616800,
+					"id_str": "791124876874616832",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cvqj4ksWEAAOapK.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cvqj4ksWEAAOapK.jpg",
+					"url": "https://t.co/pTWVWL7dCG",
+					"display_url": "pic.twitter.com/pTWVWL7dCG",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/791124896621342720/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 498,
+							"h": 460,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 314,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							230
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/Cvqj4ksWEAAOapK.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 791080073793331200,
+		"in_reply_to_status_id_str": "791080073793331200",
+		"in_reply_to_user_id": 4122161452,
+		"in_reply_to_user_id_str": "4122161452",
+		"in_reply_to_screen_name": "Margot_Hoyt",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11617,
+			"friends_count": 7490,
+			"listed_count": 1033,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1532,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6905,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Wed Oct 26 03:50:35 +0000 2016",
+		"id": 791124840476348400,
+		"id_str": "791124840476348416",
+		"text": "RT @TheBHF: @debbiediscovers Sadly, most people got this tweet. Help us fight back. https://t.co/zxJjowuDLZ #RestartAHeart https://t.co/nqQ…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RestartAHeart",
+					"indices": [
+						108,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheBHF",
+					"name": "BHF",
+					"id": 21751830,
+					"id_str": "21751830",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						12,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zxJjowuDLZ",
+					"expanded_url": "http://bit.ly/2dyTEDv",
+					"display_url": "bit.ly/2dyTEDv",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11617,
+			"friends_count": 7490,
+			"listed_count": 1033,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1532,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6905,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 25 12:41:05 +0000 2016",
+			"id": 790895957399527400,
+			"id_str": "790895957399527424",
+			"text": "@debbiediscovers Sadly, most people got this tweet. Help us fight back. https://t.co/zxJjowuDLZ #RestartAHeart https://t.co/nqQeKjNjL0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RestartAHeart",
+						"indices": [
+							96,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zxJjowuDLZ",
+						"expanded_url": "http://bit.ly/2dyTEDv",
+						"display_url": "bit.ly/2dyTEDv",
+						"indices": [
+							72,
+							95
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 786559895537524700,
+						"id_str": "786559895537524736",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/CupsDsAVIAAPeQf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CupsDsAVIAAPeQf.jpg",
+						"url": "https://t.co/nqQeKjNjL0",
+						"display_url": "pic.twitter.com/nqQeKjNjL0",
+						"expanded_url": "https://twitter.com/TheBHF/status/786559898242850816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1683,
+								"h": 999,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 404,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 712,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 786559898242850800,
+						"source_status_id_str": "786559898242850816",
+						"source_user_id": 21751830,
+						"source_user_id_str": "21751830"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 786559895537524700,
+						"id_str": "786559895537524736",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/CupsDsAVIAAPeQf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CupsDsAVIAAPeQf.jpg",
+						"url": "https://t.co/nqQeKjNjL0",
+						"display_url": "pic.twitter.com/nqQeKjNjL0",
+						"expanded_url": "https://twitter.com/TheBHF/status/786559898242850816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1683,
+								"h": 999,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 404,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 712,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 786559898242850800,
+						"source_status_id_str": "786559898242850816",
+						"source_user_id": 21751830,
+						"source_user_id_str": "21751830"
+					}
+				]
+			},
+			"source": "<a href=\"http://www.bhf.org.uk\" rel=\"nofollow\">Restart a Heart Day</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 3060836348,
+			"in_reply_to_user_id_str": "3060836348",
+			"in_reply_to_screen_name": "debbiediscovers",
+			"user": {
+				"id": 21751830,
+				"id_str": "21751830",
+				"name": "BHF",
+				"screen_name": "TheBHF",
+				"location": "London, UK",
+				"description": "Coronary heart disease is the UK's single biggest killer but we’re leading the fight against it. With your help, our pioneering research is transforming lives.",
+				"url": "http://t.co/8H37w8m8Gp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8H37w8m8Gp",
+								"expanded_url": "http://www.bhf.org.uk",
+								"display_url": "bhf.org.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 284849,
+				"friends_count": 12893,
+				"listed_count": 1612,
+				"created_at": "Tue Feb 24 13:05:24 +0000 2009",
+				"favourites_count": 25619,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 56176,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DE002B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/72237639/twitterProfilePhoto.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/72237639/twitterProfilePhoto.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/754981354966843392/5vK_fsF2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/754981354966843392/5vK_fsF2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21751830/1468831181",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "BABABA",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "DE002B",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 26 03:47:17 +0000 2016",
+		"id": 791124011526742000,
+		"id_str": "791124011526742016",
+		"text": "5 Ways to Target *that generation* #Millennials With Your Marketing - Web Profits Blog https://t.co/6WTcXmQs6A by @sujanpatel",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Millennials",
+					"indices": [
+						35,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sujanpatel",
+					"name": "Sujan Patel",
+					"id": 82017168,
+					"id_str": "82017168",
+					"indices": [
+						114,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6WTcXmQs6A",
+					"expanded_url": "https://webprofits.agency/blog/millennials-marketing/",
+					"display_url": "webprofits.agency/blog/millennia…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11617,
+			"friends_count": 7490,
+			"listed_count": 1033,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1532,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6905,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 25 18:53:50 +0000 2016",
 		"id": 790989764073623600,
 		"id_str": "790989764073623552",
