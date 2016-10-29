@@ -1,6 +1,619 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sat Oct 29 17:39:05 +0000 2016",
+		"id": 792420506469142500,
+		"id_str": "792420506469142528",
+		"text": "RT @KeriVandongen: I can't stop laughing at this Q.\nDo you ever wonder if you're tweeting to humans or bots?\n#Entrepreneur https://t.co/PJ4…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Entrepreneur",
+					"indices": [
+						109,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KeriVandongen",
+					"name": "Keri Vandongen",
+					"id": 2484776737,
+					"id_str": "2484776737",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11603,
+			"friends_count": 7524,
+			"listed_count": 1039,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1558,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6962,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 29 16:25:33 +0000 2016",
+			"id": 792401998595362800,
+			"id_str": "792401998595362816",
+			"text": "I can't stop laughing at this Q.\nDo you ever wonder if you're tweeting to humans or bots?\n#Entrepreneur https://t.co/PJ4O3NspHC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Entrepreneur",
+						"indices": [
+							90,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PJ4O3NspHC",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/792196903773483008",
+						"display_url": "twitter.com/debbiediscover…",
+						"indices": [
+							104,
+							127
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2484776737,
+				"id_str": "2484776737",
+				"name": "Keri Vandongen",
+				"screen_name": "KeriVandongen",
+				"location": "Alberta, Canada",
+				"description": "Imagine bonding with customers from listening & communicating better online. YOU have #entrepreneur or #blogger ideas worth sharing! Tell me more..:)",
+				"url": "https://t.co/3QdPMnrF6b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3QdPMnrF6b",
+								"expanded_url": "http://earnloyalcustomers.com",
+								"display_url": "earnloyalcustomers.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 936,
+				"friends_count": 935,
+				"listed_count": 86,
+				"created_at": "Fri May 09 01:36:57 +0000 2014",
+				"favourites_count": 3911,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2000,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/691109719239307268/goQ9jt0b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/691109719239307268/goQ9jt0b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2484776737/1474765995",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 792196903773483000,
+			"quoted_status_id_str": "792196903773483008",
+			"quoted_status": {
+				"created_at": "Sat Oct 29 02:50:34 +0000 2016",
+				"id": 792196903773483000,
+				"id_str": "792196903773483008",
+				"text": "@KeriVandongen who says I'm human? (By Source, Fair use, https://t.co/JZJoDSRP7O) https://t.co/MJmeqNuWTS",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "KeriVandongen",
+							"name": "Keri Vandongen",
+							"id": 2484776737,
+							"id_str": "2484776737",
+							"indices": [
+								0,
+								14
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/JZJoDSRP7O",
+							"expanded_url": "https://en.wikipedia.org/w/index.php?curid=13627120",
+							"display_url": "en.wikipedia.org/w/index.php?cu…",
+							"indices": [
+								57,
+								80
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 792196813511983100,
+							"id_str": "792196813511983104",
+							"indices": [
+								82,
+								105
+							],
+							"media_url": "http://pbs.twimg.com/media/Cv5yzf2UAAAha1q.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Cv5yzf2UAAAha1q.jpg",
+							"url": "https://t.co/MJmeqNuWTS",
+							"display_url": "pic.twitter.com/MJmeqNuWTS",
+							"expanded_url": "https://twitter.com/debbiediscovers/status/792196903773483008/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 300,
+									"h": 335,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 300,
+									"h": 335,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 300,
+									"h": 335,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 792196813511983100,
+							"id_str": "792196813511983104",
+							"indices": [
+								82,
+								105
+							],
+							"media_url": "http://pbs.twimg.com/media/Cv5yzf2UAAAha1q.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Cv5yzf2UAAAha1q.jpg",
+							"url": "https://t.co/MJmeqNuWTS",
+							"display_url": "pic.twitter.com/MJmeqNuWTS",
+							"expanded_url": "https://twitter.com/debbiediscovers/status/792196903773483008/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 300,
+									"h": 335,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 300,
+									"h": 335,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 300,
+									"h": 335,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": 792173634131521500,
+				"in_reply_to_status_id_str": "792173634131521536",
+				"in_reply_to_user_id": 2484776737,
+				"in_reply_to_user_id_str": "2484776737",
+				"in_reply_to_screen_name": "KeriVandongen",
+				"user": {
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"name": "Deborah Kay",
+					"screen_name": "debbiediscovers",
+					"location": "Central Region, Singapore",
+					"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+					"url": "https://t.co/o0MiAYiEuU",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/o0MiAYiEuU",
+									"expanded_url": "http://info.debbiediscovers.com",
+									"display_url": "info.debbiediscovers.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 11603,
+					"friends_count": 7524,
+					"listed_count": 1039,
+					"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+					"favourites_count": 1558,
+					"utc_offset": 28800,
+					"time_zone": "Singapore",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 6962,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EBEBEB",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+					"profile_link_color": "D50252",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 792196903773483000,
+		"quoted_status_id_str": "792196903773483008",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Oct 29 17:31:27 +0000 2016",
+		"id": 792418585024958500,
+		"id_str": "792418585024958464",
+		"text": "RT @ramit: An entire generation of wantrepreneurs focuses on how little they can work instead of how much value they can create. They will…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ramit",
+					"name": "Ramit Sethi",
+					"id": 14313332,
+					"id_str": "14313332",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11603,
+			"friends_count": 7524,
+			"listed_count": 1039,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1558,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6962,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 25 22:14:30 +0000 2016",
+			"id": 791040265406513200,
+			"id_str": "791040265406513152",
+			"text": "An entire generation of wantrepreneurs focuses on how little they can work instead of how much value they can create. They will disappear.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14313332,
+				"id_str": "14313332",
+				"name": "Ramit Sethi",
+				"screen_name": "ramit",
+				"location": "NYC",
+				"description": "CEO & author of New York Times bestseller, I Will Teach You To Be Rich. 1 million readers on business, money, careers, psychology. https://t.co/zm6K6EKUD1",
+				"url": "http://t.co/Gjx6iYsLN6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Gjx6iYsLN6",
+								"expanded_url": "http://www.iwillteachyoutoberich.com",
+								"display_url": "iwillteachyoutoberich.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/zm6K6EKUD1",
+								"expanded_url": "http://instagram.com/ramit",
+								"display_url": "instagram.com/ramit",
+								"indices": [
+									131,
+									154
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 116924,
+				"friends_count": 215,
+				"listed_count": 3954,
+				"created_at": "Sun Apr 06 00:42:04 +0000 2008",
+				"favourites_count": 1972,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 14318,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3172898/PA32_Ornamental-Blue.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3172898/PA32_Ornamental-Blue.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/557974436360380418/xzbD4WW3_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/557974436360380418/xzbD4WW3_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14313332/1467393178",
+				"profile_link_color": "1CA5FC",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 171,
+			"favorite_count": 344,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 171,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Oct 29 17:11:29 +0000 2016",
 		"id": 792413559837765600,
 		"id_str": "792413559837765632",
