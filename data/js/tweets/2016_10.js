@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sat Oct 29 10:43:17 +0000 2016",
+		"id": 792315866700406800,
+		"id_str": "792315866700406784",
+		"text": "RT @visitsingapore: Rain or shine - we’ve got a museum for you https://t.co/24BvtLAral #VisitSingapore https://t.co/y24T9k0gns",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VisitSingapore",
+					"indices": [
+						87,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "visitsingapore",
+					"name": "VisitSingapore",
+					"id": 23299429,
+					"id_str": "23299429",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/24BvtLAral",
+					"expanded_url": "http://bit.ly/2cP76Tn",
+					"display_url": "bit.ly/2cP76Tn",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 789287760464973800,
+					"id_str": "789287760464973824",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CvQdCUwUEAALCKo.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CvQdCUwUEAALCKo.jpg",
+					"url": "https://t.co/y24T9k0gns",
+					"display_url": "pic.twitter.com/y24T9k0gns",
+					"expanded_url": "https://twitter.com/visitsingapore/status/789287828047863808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 789287828047863800,
+					"source_status_id_str": "789287828047863808",
+					"source_user_id": 23299429,
+					"source_user_id_str": "23299429"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 789287760464973800,
+					"id_str": "789287760464973824",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CvQdCUwUEAALCKo.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CvQdCUwUEAALCKo.jpg",
+					"url": "https://t.co/y24T9k0gns",
+					"display_url": "pic.twitter.com/y24T9k0gns",
+					"expanded_url": "https://twitter.com/visitsingapore/status/789287828047863808/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 789287828047863800,
+					"source_status_id_str": "789287828047863808",
+					"source_user_id": 23299429,
+					"source_user_id_str": "23299429",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/CvQdCUwUEAALCKo.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11605,
+			"friends_count": 7523,
+			"listed_count": 1036,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1553,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6943,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 21 02:10:57 +0000 2016",
+			"id": 789287828047863800,
+			"id_str": "789287828047863808",
+			"text": "Rain or shine - we’ve got a museum for you https://t.co/24BvtLAral #VisitSingapore https://t.co/y24T9k0gns",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "VisitSingapore",
+						"indices": [
+							67,
+							82
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/24BvtLAral",
+						"expanded_url": "http://bit.ly/2cP76Tn",
+						"display_url": "bit.ly/2cP76Tn",
+						"indices": [
+							43,
+							66
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 789287760464973800,
+						"id_str": "789287760464973824",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CvQdCUwUEAALCKo.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CvQdCUwUEAALCKo.jpg",
+						"url": "https://t.co/y24T9k0gns",
+						"display_url": "pic.twitter.com/y24T9k0gns",
+						"expanded_url": "https://twitter.com/visitsingapore/status/789287828047863808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 789287760464973800,
+						"id_str": "789287760464973824",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CvQdCUwUEAALCKo.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CvQdCUwUEAALCKo.jpg",
+						"url": "https://t.co/y24T9k0gns",
+						"display_url": "pic.twitter.com/y24T9k0gns",
+						"expanded_url": "https://twitter.com/visitsingapore/status/789287828047863808/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://pbs.twimg.com/tweet_video/CvQdCUwUEAALCKo.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23299429,
+				"id_str": "23299429",
+				"name": "VisitSingapore",
+				"screen_name": "visitsingapore",
+				"location": "Singapore",
+				"description": "Singapore Tourism Board's official stream! Share your favorite experiences in Singapore! Catch us on Instagram (visit_singapore)!",
+				"url": "https://t.co/4NrIwj5H0X",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4NrIwj5H0X",
+								"expanded_url": "http://www.YourSingapore.com/",
+								"display_url": "YourSingapore.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44074,
+				"friends_count": 2063,
+				"listed_count": 681,
+				"created_at": "Sun Mar 08 11:21:19 +0000 2009",
+				"favourites_count": 1892,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10250,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/454149644222615552/ufBoe66Y.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/454149644222615552/ufBoe66Y.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/514682140106043392/Cc3JkzRY_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/514682140106043392/Cc3JkzRY_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23299429/1454483299",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 12,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Oct 29 09:33:03 +0000 2016",
 		"id": 792298191647600600,
 		"id_str": "792298191647600640",
