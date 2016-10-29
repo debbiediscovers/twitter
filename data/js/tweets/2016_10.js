@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sat Oct 29 02:50:34 +0000 2016",
+		"id": 792196903773483000,
+		"id_str": "792196903773483008",
+		"text": "@KeriVandongen who says I'm human? (By Source, Fair use, https://t.co/JZJoDSRP7O) https://t.co/MJmeqNuWTS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KeriVandongen",
+					"name": "Keri Vandongen",
+					"id": 2484776737,
+					"id_str": "2484776737",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JZJoDSRP7O",
+					"expanded_url": "https://en.wikipedia.org/w/index.php?curid=13627120",
+					"display_url": "en.wikipedia.org/w/index.php?cu…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 792196813511983100,
+					"id_str": "792196813511983104",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Cv5yzf2UAAAha1q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cv5yzf2UAAAha1q.jpg",
+					"url": "https://t.co/MJmeqNuWTS",
+					"display_url": "pic.twitter.com/MJmeqNuWTS",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/792196903773483008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 300,
+							"h": 335,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 335,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 335,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 792196813511983100,
+					"id_str": "792196813511983104",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Cv5yzf2UAAAha1q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cv5yzf2UAAAha1q.jpg",
+					"url": "https://t.co/MJmeqNuWTS",
+					"display_url": "pic.twitter.com/MJmeqNuWTS",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/792196903773483008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 300,
+							"h": 335,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 335,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 335,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 792173634131521500,
+		"in_reply_to_status_id_str": "792173634131521536",
+		"in_reply_to_user_id": 2484776737,
+		"in_reply_to_user_id_str": "2484776737",
+		"in_reply_to_screen_name": "KeriVandongen",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11605,
+			"friends_count": 7521,
+			"listed_count": 1036,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1552,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6938,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 28 20:57:09 +0000 2016",
 		"id": 792107962210713600,
 		"id_str": "792107962210713600",
