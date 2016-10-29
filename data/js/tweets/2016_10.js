@@ -1,6 +1,514 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sat Oct 29 13:51:18 +0000 2016",
+		"id": 792363183117733900,
+		"id_str": "792363183117733889",
+		"text": "RT @brainpicker: 10 years ago today, Brain Pickings was born. (Time!) Here are my 10 most important learnings from the first decade: https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brainpicker",
+					"name": "Maria Popova",
+					"id": 9207632,
+					"id_str": "9207632",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11606,
+			"friends_count": 7522,
+			"listed_count": 1040,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1555,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6955,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 23 12:01:15 +0000 2016",
+			"id": 790161157281710100,
+			"id_str": "790161157281710080",
+			"text": "10 years ago today, Brain Pickings was born. (Time!) Here are my 10 most important learnings from the first decade:… https://t.co/D0TqUEINQ0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/D0TqUEINQ0",
+						"expanded_url": "https://twitter.com/i/web/status/790161157281710080",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9207632,
+				"id_str": "9207632",
+				"name": "Maria Popova",
+				"screen_name": "brainpicker",
+				"location": "Brooklyn, NY",
+				"description": "Reader/writer. Founder of @brainpickings. MIT Fellow.",
+				"url": "http://t.co/j1Rss5YgMu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/j1Rss5YgMu",
+								"expanded_url": "http://brainpickings.org",
+								"display_url": "brainpickings.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 701800,
+				"friends_count": 295,
+				"listed_count": 25497,
+				"created_at": "Tue Oct 02 14:18:16 +0000 2007",
+				"favourites_count": 358,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 110328,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFDB00",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/497431340292128768/pY1bFk_F.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/497431340292128768/pY1bFk_F.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/577255253852065794/qGnSwsBR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/577255253852065794/qGnSwsBR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9207632/1430428764",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EBEAE5",
+				"profile_text_color": "3F3F3F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 695,
+			"favorite_count": 1375,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 695,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Oct 29 13:48:09 +0000 2016",
+		"id": 792362387055575000,
+		"id_str": "792362387055575040",
+		"text": "RT @brainpickings: Here's to true stories that amplify love over hate and empathy over fear https://t.co/mT2crfO87b #WhoWeAre https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WhoWeAre",
+					"indices": [
+						116,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brainpickings",
+					"name": "Brain Pickings",
+					"id": 79783264,
+					"id_str": "79783264",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mT2crfO87b",
+					"expanded_url": "https://www.brainpickings.org/2016/10/27/storycorps-who-we-are-julio-diaz/",
+					"display_url": "brainpickings.org/2016/10/27/sto…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11606,
+			"friends_count": 7522,
+			"listed_count": 1040,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1555,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6955,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 29 12:45:03 +0000 2016",
+			"id": 792346508855275500,
+			"id_str": "792346508855275521",
+			"text": "Here's to true stories that amplify love over hate and empathy over fear https://t.co/mT2crfO87b #WhoWeAre https://t.co/LFEin49MVw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WhoWeAre",
+						"indices": [
+							97,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mT2crfO87b",
+						"expanded_url": "https://www.brainpickings.org/2016/10/27/storycorps-who-we-are-julio-diaz/",
+						"display_url": "brainpickings.org/2016/10/27/sto…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 792346506544152600,
+						"id_str": "792346506544152576",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/Cv768x2WAAAIXwZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cv768x2WAAAIXwZ.jpg",
+						"url": "https://t.co/LFEin49MVw",
+						"display_url": "pic.twitter.com/LFEin49MVw",
+						"expanded_url": "https://twitter.com/brainpickings/status/792346508855275521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 315,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 315,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 315,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 792346506544152600,
+						"id_str": "792346506544152576",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/Cv768x2WAAAIXwZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cv768x2WAAAIXwZ.jpg",
+						"url": "https://t.co/LFEin49MVw",
+						"display_url": "pic.twitter.com/LFEin49MVw",
+						"expanded_url": "https://twitter.com/brainpickings/status/792346508855275521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 315,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 315,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 315,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 79783264,
+				"id_str": "79783264",
+				"name": "Brain Pickings",
+				"screen_name": "brainpickings",
+				"location": "www",
+				"description": "This is the Brain Pickings bot – daily blog posts, automated. For the real thing, follow @brainpicker.",
+				"url": "http://t.co/B1TUQ0W6B1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/B1TUQ0W6B1",
+								"expanded_url": "http://www.brainpickings.org",
+								"display_url": "brainpickings.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 155621,
+				"friends_count": 1,
+				"listed_count": 3936,
+				"created_at": "Sun Oct 04 17:35:19 +0000 2009",
+				"favourites_count": 0,
+				"utc_offset": 10800,
+				"time_zone": "Sofia",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39624,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1C1C1C",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/42535004/bg.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/42535004/bg.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1526735513/222158_10150189612955745_55555550744_7095892_1866590_n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1526735513/222158_10150189612955745_55555550744_7095892_1866590_n_normal.jpg",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EBEAE5",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Oct 29 12:26:55 +0000 2016",
 		"id": 792341947213951000,
 		"id_str": "792341947213950976",
