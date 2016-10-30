@@ -1,6 +1,1196 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sun Oct 30 15:24:30 +0000 2016",
+		"id": 792749024067457000,
+		"id_str": "792749024067457027",
+		"text": "RT @KunaalMaharaj: Over $750K of Founder Freebies and Deals Discovered! https://t.co/uxNFQmSN0R via @debbiediscovers",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KunaalMaharaj",
+					"name": "Kunaal",
+					"id": 133662954,
+					"id_str": "133662954",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						100,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uxNFQmSN0R",
+					"expanded_url": "http://debbiediscovers.com/blog/founder-freebies-deals-discovered/",
+					"display_url": "debbiediscovers.com/blog/founder-f…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11599,
+			"friends_count": 7526,
+			"listed_count": 1039,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1564,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6981,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 12 08:24:26 +0000 2016",
+			"id": 786120327847829500,
+			"id_str": "786120327847829504",
+			"text": "Over $750K of Founder Freebies and Deals Discovered! https://t.co/uxNFQmSN0R via @debbiediscovers",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							81,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/uxNFQmSN0R",
+						"expanded_url": "http://debbiediscovers.com/blog/founder-freebies-deals-discovered/",
+						"display_url": "debbiediscovers.com/blog/founder-f…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 133662954,
+				"id_str": "133662954",
+				"name": "Kunaal",
+				"screen_name": "KunaalMaharaj",
+				"location": "",
+				"description": "Digital native, hopeful entrepreneur, wannabe polyglot, inept dancer, innovation junkie.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 425,
+				"friends_count": 397,
+				"listed_count": 14,
+				"created_at": "Fri Apr 16 09:52:03 +0000 2010",
+				"favourites_count": 1568,
+				"utc_offset": 7200,
+				"time_zone": "Pretoria",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4630,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000639286371/e5473d12ea897579b1e60d8f2819dc1b_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000639286371/e5473d12ea897579b1e60d8f2819dc1b_normal.jpeg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 30 15:23:54 +0000 2016",
+		"id": 792748872430784500,
+		"id_str": "792748872430784512",
+		"text": "RT @cenatic: Descarga todos tus tuits y súbelos a @github, podrás repasar de forma fácil tu paso por @twitter :-):https://t.co/RO88kxA7lw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cenatic",
+					"name": "CENATIC",
+					"id": 19525954,
+					"id_str": "19525954",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "github",
+					"name": "GitHub",
+					"id": 13334762,
+					"id_str": "13334762",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"screen_name": "twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						101,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RO88kxA7lw",
+					"expanded_url": "http://debbiediscovers.com/blog/host-twitter-archive/",
+					"display_url": "debbiediscovers.com/blog/host-twit…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11599,
+			"friends_count": 7526,
+			"listed_count": 1039,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1564,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6981,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 26 11:21:44 +0000 2016",
+			"id": 791238377337217000,
+			"id_str": "791238377337217024",
+			"text": "Descarga todos tus tuits y súbelos a @github, podrás repasar de forma fácil tu paso por @twitter :-):https://t.co/RO88kxA7lw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "github",
+						"name": "GitHub",
+						"id": 13334762,
+						"id_str": "13334762",
+						"indices": [
+							37,
+							44
+						]
+					},
+					{
+						"screen_name": "twitter",
+						"name": "Twitter",
+						"id": 783214,
+						"id_str": "783214",
+						"indices": [
+							88,
+							96
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/RO88kxA7lw",
+						"expanded_url": "http://debbiediscovers.com/blog/host-twitter-archive/",
+						"display_url": "debbiediscovers.com/blog/host-twit…",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19525954,
+				"id_str": "19525954",
+				"name": "CENATIC",
+				"screen_name": "cenatic",
+				"location": "Almendralejo,Extremadura,Spain",
+				"description": "Centro de Excelencia de Software de Fuentes Abiertas de Red.es. Red.es es una entidad pública empresarial adscrita al Ministerio de Industria, Energía y Turismo",
+				"url": "http://t.co/2JovjuG488",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/2JovjuG488",
+								"expanded_url": "http://www.cenatic.es",
+								"display_url": "cenatic.es",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14524,
+				"friends_count": 2334,
+				"listed_count": 1198,
+				"created_at": "Mon Jan 26 09:22:25 +0000 2009",
+				"favourites_count": 848,
+				"utc_offset": 3600,
+				"time_zone": "Madrid",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12701,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "92B533",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/303169727/fondo_twitter2.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/303169727/fondo_twitter2.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/717303489622319105/fYHi6ast_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/717303489622319105/fYHi6ast_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19525954/1459853466",
+				"profile_link_color": "92B533",
+				"profile_sidebar_border_color": "9FF294",
+				"profile_sidebar_fill_color": "DEF5DA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 7,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "es"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es"
+	},
+	{
+		"created_at": "Sun Oct 30 15:23:48 +0000 2016",
+		"id": 792748849752256500,
+		"id_str": "792748849752256512",
+		"text": "@cenatic La primera vez que alguien comparte mi blog en español! Gracias mi amigo https://t.co/D2ogzXLumr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cenatic",
+					"name": "CENATIC",
+					"id": 19525954,
+					"id_str": "19525954",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 792748836699594800,
+					"id_str": "792748836699594753",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CwBo3eeVYAEQO1Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CwBo3eeVYAEQO1Q.jpg",
+					"url": "https://t.co/D2ogzXLumr",
+					"display_url": "pic.twitter.com/D2ogzXLumr",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/792748849752256512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 244,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 792748836699594800,
+					"id_str": "792748836699594753",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CwBo3eeVYAEQO1Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CwBo3eeVYAEQO1Q.jpg",
+					"url": "https://t.co/D2ogzXLumr",
+					"display_url": "pic.twitter.com/D2ogzXLumr",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/792748849752256512/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 244,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							61,
+							75
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/CwBo3eeVYAEQO1Q.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 791238377337217000,
+		"in_reply_to_status_id_str": "791238377337217024",
+		"in_reply_to_user_id": 19525954,
+		"in_reply_to_user_id_str": "19525954",
+		"in_reply_to_screen_name": "cenatic",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11599,
+			"friends_count": 7526,
+			"listed_count": 1039,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1564,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6981,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "es"
+	},
+	{
+		"created_at": "Sun Oct 30 15:20:09 +0000 2016",
+		"id": 792747929400283100,
+		"id_str": "792747929400283137",
+		"text": "@fjmorales Thank you! Can't believe I missed this RT! XXX You and everyone else at @Canva rock! #fanforlife https://t.co/lDkhDDwFeR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fanforlife",
+					"indices": [
+						96,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fjmorales",
+					"name": "Francisco J. Morales",
+					"id": 22678424,
+					"id_str": "22678424",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "canva",
+					"name": "Canva",
+					"id": 36542528,
+					"id_str": "36542528",
+					"indices": [
+						83,
+						89
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 792747754128707600,
+					"id_str": "792747754128707584",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CwBn4dlUkAAZmQS.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CwBn4dlUkAAZmQS.jpg",
+					"url": "https://t.co/lDkhDDwFeR",
+					"display_url": "pic.twitter.com/lDkhDDwFeR",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/792747929400283137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 186,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 792747754128707600,
+					"id_str": "792747754128707584",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CwBn4dlUkAAZmQS.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CwBn4dlUkAAZmQS.jpg",
+					"url": "https://t.co/lDkhDDwFeR",
+					"display_url": "pic.twitter.com/lDkhDDwFeR",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/792747929400283137/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 186,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							136
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/CwBn4dlUkAAZmQS.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 753363133935280100,
+		"in_reply_to_status_id_str": "753363133935280128",
+		"in_reply_to_user_id": 22678424,
+		"in_reply_to_user_id_str": "22678424",
+		"in_reply_to_screen_name": "fjmorales",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11599,
+			"friends_count": 7526,
+			"listed_count": 1039,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1564,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6981,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 30 15:17:27 +0000 2016",
+		"id": 792747249289736200,
+		"id_str": "792747249289736192",
+		"text": "RT @HuffPostAU: .@canva CEO Melanie Perkins on breaking the rules and building a $458m company https://t.co/aVDyDFb5YR https://t.co/i101GY0…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HuffPostAU",
+					"name": "HuffPost Australia",
+					"id": 2707158816,
+					"id_str": "2707158816",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "canva",
+					"name": "Canva",
+					"id": 36542528,
+					"id_str": "36542528",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aVDyDFb5YR",
+					"expanded_url": "http://huff.to/2csMdm5",
+					"display_url": "huff.to/2csMdm5",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11599,
+			"friends_count": 7526,
+			"listed_count": 1039,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1564,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6981,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 18 01:49:23 +0000 2016",
+			"id": 777323601955582000,
+			"id_str": "777323601955581954",
+			"text": ".@canva CEO Melanie Perkins on breaking the rules and building a $458m company https://t.co/aVDyDFb5YR https://t.co/i101GY08LT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "canva",
+						"name": "Canva",
+						"id": 36542528,
+						"id_str": "36542528",
+						"indices": [
+							1,
+							7
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/aVDyDFb5YR",
+						"expanded_url": "http://huff.to/2csMdm5",
+						"display_url": "huff.to/2csMdm5",
+						"indices": [
+							79,
+							102
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 777323598562426900,
+						"id_str": "777323598562426880",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/CsmbscfXgAALC6P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsmbscfXgAALC6P.jpg",
+						"url": "https://t.co/i101GY08LT",
+						"display_url": "pic.twitter.com/i101GY08LT",
+						"expanded_url": "https://twitter.com/HuffPostAU/status/777323601955581954/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 940,
+								"h": 788,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 940,
+								"h": 788,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 570,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 777323598562426900,
+						"id_str": "777323598562426880",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/CsmbscfXgAALC6P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsmbscfXgAALC6P.jpg",
+						"url": "https://t.co/i101GY08LT",
+						"display_url": "pic.twitter.com/i101GY08LT",
+						"expanded_url": "https://twitter.com/HuffPostAU/status/777323601955581954/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 940,
+								"h": 788,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 940,
+								"h": 788,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 570,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2707158816,
+				"id_str": "2707158816",
+				"name": "HuffPost Australia",
+				"screen_name": "HuffPostAU",
+				"location": "Sydney, New South Wales",
+				"description": "eaters | sleepers | news breakers | jaffle makers | binge watchers",
+				"url": "http://t.co/6zvnavvji7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/6zvnavvji7",
+								"expanded_url": "http://www.huffingtonpost.com.au/",
+								"display_url": "huffingtonpost.com.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15104,
+				"friends_count": 65,
+				"listed_count": 308,
+				"created_at": "Mon Aug 04 18:38:04 +0000 2014",
+				"favourites_count": 470,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 12885,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/778442816594644992/twSU53j-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/778442816594644992/twSU53j-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2707158816/1470712534",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 15,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 30 14:17:09 +0000 2016",
 		"id": 792732072880156700,
 		"id_str": "792732072880156672",
