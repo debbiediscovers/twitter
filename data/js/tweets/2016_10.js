@@ -1,6 +1,982 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sun Oct 30 07:49:34 +0000 2016",
+		"id": 792634535569535000,
+		"id_str": "792634535569534976",
+		"text": "@lifehacks4kids love reading your tweets By the way!! ❤️",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lifehacks4kids",
+					"name": "lifehacksforkids",
+					"id": 3534423136,
+					"id_str": "3534423136",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 792634373040242700,
+		"in_reply_to_status_id_str": "792634373040242688",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11604,
+			"friends_count": 7525,
+			"listed_count": 1039,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1560,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6971,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 30 07:48:55 +0000 2016",
+		"id": 792634373040242700,
+		"id_str": "792634373040242688",
+		"text": "@lifehacks4kids this is so true and have helped me get through tough times. Shame that I had to learn to appreciate them the hard way 😔",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lifehacks4kids",
+					"name": "lifehacksforkids",
+					"id": 3534423136,
+					"id_str": "3534423136",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 792308784131612700,
+		"in_reply_to_status_id_str": "792308784131612672",
+		"in_reply_to_user_id": 3534423136,
+		"in_reply_to_user_id_str": "3534423136",
+		"in_reply_to_screen_name": "lifehacks4kids",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11604,
+			"friends_count": 7525,
+			"listed_count": 1039,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1560,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6971,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 30 07:30:07 +0000 2016",
+		"id": 792629641601179600,
+		"id_str": "792629641601179648",
+		"text": "RT @lifehacks4kids: 7 Qualities of People with High Emotional Intelligence - https://t.co/rPPKrq9Mkj https://t.co/xgCBwMoqDQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lifehacks4kids",
+					"name": "lifehacksforkids",
+					"id": 3534423136,
+					"id_str": "3534423136",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rPPKrq9Mkj",
+					"expanded_url": "http://bit.ly/2d97V93",
+					"display_url": "bit.ly/2d97V93",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 792471227918987300,
+					"id_str": "792471227918987264",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/Cv9sYhLUMAAxnEv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cv9sYhLUMAAxnEv.jpg",
+					"url": "https://t.co/xgCBwMoqDQ",
+					"display_url": "pic.twitter.com/xgCBwMoqDQ",
+					"expanded_url": "https://twitter.com/lifehacks4kids/status/792471229445779456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 582,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 582,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 582,
+							"h": 424,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 792471229445779500,
+					"source_status_id_str": "792471229445779456",
+					"source_user_id": 3534423136,
+					"source_user_id_str": "3534423136"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 792471227918987300,
+					"id_str": "792471227918987264",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/Cv9sYhLUMAAxnEv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cv9sYhLUMAAxnEv.jpg",
+					"url": "https://t.co/xgCBwMoqDQ",
+					"display_url": "pic.twitter.com/xgCBwMoqDQ",
+					"expanded_url": "https://twitter.com/lifehacks4kids/status/792471229445779456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 582,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 582,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 582,
+							"h": 424,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 792471229445779500,
+					"source_status_id_str": "792471229445779456",
+					"source_user_id": 3534423136,
+					"source_user_id_str": "3534423136"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11604,
+			"friends_count": 7525,
+			"listed_count": 1039,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1560,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6971,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 29 21:00:39 +0000 2016",
+			"id": 792471229445779500,
+			"id_str": "792471229445779456",
+			"text": "7 Qualities of People with High Emotional Intelligence - https://t.co/rPPKrq9Mkj https://t.co/xgCBwMoqDQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rPPKrq9Mkj",
+						"expanded_url": "http://bit.ly/2d97V93",
+						"display_url": "bit.ly/2d97V93",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 792471227918987300,
+						"id_str": "792471227918987264",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/Cv9sYhLUMAAxnEv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cv9sYhLUMAAxnEv.jpg",
+						"url": "https://t.co/xgCBwMoqDQ",
+						"display_url": "pic.twitter.com/xgCBwMoqDQ",
+						"expanded_url": "https://twitter.com/lifehacks4kids/status/792471229445779456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 582,
+								"h": 424,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 582,
+								"h": 424,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 582,
+								"h": 424,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 792471227918987300,
+						"id_str": "792471227918987264",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/Cv9sYhLUMAAxnEv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cv9sYhLUMAAxnEv.jpg",
+						"url": "https://t.co/xgCBwMoqDQ",
+						"display_url": "pic.twitter.com/xgCBwMoqDQ",
+						"expanded_url": "https://twitter.com/lifehacks4kids/status/792471229445779456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 582,
+								"h": 424,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 582,
+								"h": 424,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 582,
+								"h": 424,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://postplanner.com\" rel=\"nofollow\">Post Planner Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3534423136,
+				"id_str": "3534423136",
+				"name": "lifehacksforkids",
+				"screen_name": "lifehacks4kids",
+				"location": "worldwide",
+				"description": "Find out why qualifications and an interesting CV (unfortunately) aren't going to be enough for our kids anymore. https://t.co/nuCHEQF4NI",
+				"url": "https://t.co/nuCHEQF4NI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nuCHEQF4NI",
+								"expanded_url": "http://lifehacksforkids.co.uk/",
+								"display_url": "lifehacksforkids.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nuCHEQF4NI",
+								"expanded_url": "http://lifehacksforkids.co.uk/",
+								"display_url": "lifehacksforkids.co.uk",
+								"indices": [
+									114,
+									137
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8074,
+				"friends_count": 6727,
+				"listed_count": 180,
+				"created_at": "Thu Sep 03 13:28:18 +0000 2015",
+				"favourites_count": 2573,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3664,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CE879F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/778934221893140481/DfvtX19X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/778934221893140481/DfvtX19X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3534423136/1476517411",
+				"profile_link_color": "CE879F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 30 07:29:53 +0000 2016",
+		"id": 792629584214696000,
+		"id_str": "792629584214695936",
+		"text": "RT @lifehacks4kids: Why do schools use grades that teach nothing? - The Hechinger Report - https://t.co/VqtCIHPcNd https://t.co/CIicgiO1ap",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lifehacks4kids",
+					"name": "lifehacksforkids",
+					"id": 3534423136,
+					"id_str": "3534423136",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VqtCIHPcNd",
+					"expanded_url": "http://bit.ly/2cCy9DP",
+					"display_url": "bit.ly/2cCy9DP",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 792365543177281500,
+					"id_str": "792365543177281536",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/Cv8MQ21XYAA02ax.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cv8MQ21XYAA02ax.jpg",
+					"url": "https://t.co/CIicgiO1ap",
+					"display_url": "pic.twitter.com/CIicgiO1ap",
+					"expanded_url": "https://twitter.com/lifehacks4kids/status/792365545169494016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 441,
+							"h": 549,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 441,
+							"h": 549,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 441,
+							"h": 549,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 792365545169494000,
+					"source_status_id_str": "792365545169494016",
+					"source_user_id": 3534423136,
+					"source_user_id_str": "3534423136"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 792365543177281500,
+					"id_str": "792365543177281536",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/Cv8MQ21XYAA02ax.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cv8MQ21XYAA02ax.jpg",
+					"url": "https://t.co/CIicgiO1ap",
+					"display_url": "pic.twitter.com/CIicgiO1ap",
+					"expanded_url": "https://twitter.com/lifehacks4kids/status/792365545169494016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 441,
+							"h": 549,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 441,
+							"h": 549,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 441,
+							"h": 549,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 792365545169494000,
+					"source_status_id_str": "792365545169494016",
+					"source_user_id": 3534423136,
+					"source_user_id_str": "3534423136"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11604,
+			"friends_count": 7525,
+			"listed_count": 1039,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1560,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6971,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 29 14:00:42 +0000 2016",
+			"id": 792365545169494000,
+			"id_str": "792365545169494016",
+			"text": "Why do schools use grades that teach nothing? - The Hechinger Report - https://t.co/VqtCIHPcNd https://t.co/CIicgiO1ap",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VqtCIHPcNd",
+						"expanded_url": "http://bit.ly/2cCy9DP",
+						"display_url": "bit.ly/2cCy9DP",
+						"indices": [
+							71,
+							94
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 792365543177281500,
+						"id_str": "792365543177281536",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/Cv8MQ21XYAA02ax.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cv8MQ21XYAA02ax.jpg",
+						"url": "https://t.co/CIicgiO1ap",
+						"display_url": "pic.twitter.com/CIicgiO1ap",
+						"expanded_url": "https://twitter.com/lifehacks4kids/status/792365545169494016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 441,
+								"h": 549,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 441,
+								"h": 549,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 441,
+								"h": 549,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 792365543177281500,
+						"id_str": "792365543177281536",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/Cv8MQ21XYAA02ax.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cv8MQ21XYAA02ax.jpg",
+						"url": "https://t.co/CIicgiO1ap",
+						"display_url": "pic.twitter.com/CIicgiO1ap",
+						"expanded_url": "https://twitter.com/lifehacks4kids/status/792365545169494016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 441,
+								"h": 549,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 441,
+								"h": 549,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 441,
+								"h": 549,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://postplanner.com\" rel=\"nofollow\">Post Planner Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3534423136,
+				"id_str": "3534423136",
+				"name": "lifehacksforkids",
+				"screen_name": "lifehacks4kids",
+				"location": "worldwide",
+				"description": "Find out why qualifications and an interesting CV (unfortunately) aren't going to be enough for our kids anymore. https://t.co/nuCHEQF4NI",
+				"url": "https://t.co/nuCHEQF4NI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nuCHEQF4NI",
+								"expanded_url": "http://lifehacksforkids.co.uk/",
+								"display_url": "lifehacksforkids.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nuCHEQF4NI",
+								"expanded_url": "http://lifehacksforkids.co.uk/",
+								"display_url": "lifehacksforkids.co.uk",
+								"indices": [
+									114,
+									137
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8074,
+				"friends_count": 6727,
+				"listed_count": 180,
+				"created_at": "Thu Sep 03 13:28:18 +0000 2015",
+				"favourites_count": 2573,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3664,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CE879F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/778934221893140481/DfvtX19X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/778934221893140481/DfvtX19X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3534423136/1476517411",
+				"profile_link_color": "CE879F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 30 06:07:03 +0000 2016",
 		"id": 792608734899937300,
 		"id_str": "792608734899937281",
