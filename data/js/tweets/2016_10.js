@@ -1,6 +1,474 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Mon Oct 31 00:39:05 +0000 2016",
+		"id": 792888590917177300,
+		"id_str": "792888590917177344",
+		"text": "@OliverDurrer @rosscampbellme This is just what we need! Thanks! 💓 💗 💖",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OliverDurrer",
+					"name": "Oliver Durrer",
+					"id": 2832697342,
+					"id_str": "2832697342",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "rosscampbellme",
+					"name": "Ross Campbell",
+					"id": 3966564618,
+					"id_str": "3966564618",
+					"indices": [
+						14,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 792764535698559000,
+		"in_reply_to_status_id_str": "792764535698558977",
+		"in_reply_to_user_id": 2832697342,
+		"in_reply_to_user_id_str": "2832697342",
+		"in_reply_to_screen_name": "OliverDurrer",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11602,
+			"friends_count": 7528,
+			"listed_count": 1039,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1570,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6985,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 31 00:38:44 +0000 2016",
+		"id": 792888501523976200,
+		"id_str": "792888501523976192",
+		"text": "RT @OliverDurrer: You fail, you learn. Fail faster but fail forward! https://t.co/sTQBv6oF82",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OliverDurrer",
+					"name": "Oliver Durrer",
+					"id": 2832697342,
+					"id_str": "2832697342",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 792764533383266300,
+					"id_str": "792764533383266304",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/CwB3JJLWgAAB-aO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CwB3JJLWgAAB-aO.jpg",
+					"url": "https://t.co/sTQBv6oF82",
+					"display_url": "pic.twitter.com/sTQBv6oF82",
+					"expanded_url": "https://twitter.com/OliverDurrer/status/792764535698558977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 798,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 798,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 678,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 792764535698559000,
+					"source_status_id_str": "792764535698558977",
+					"source_user_id": 2832697342,
+					"source_user_id_str": "2832697342"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 792764533383266300,
+					"id_str": "792764533383266304",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/CwB3JJLWgAAB-aO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CwB3JJLWgAAB-aO.jpg",
+					"url": "https://t.co/sTQBv6oF82",
+					"display_url": "pic.twitter.com/sTQBv6oF82",
+					"expanded_url": "https://twitter.com/OliverDurrer/status/792764535698558977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 798,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 798,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 678,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 792764535698559000,
+					"source_status_id_str": "792764535698558977",
+					"source_user_id": 2832697342,
+					"source_user_id_str": "2832697342"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11602,
+			"friends_count": 7528,
+			"listed_count": 1039,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1570,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6985,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 30 16:26:08 +0000 2016",
+			"id": 792764535698559000,
+			"id_str": "792764535698558977",
+			"text": "You fail, you learn. Fail faster but fail forward! https://t.co/sTQBv6oF82",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 792764533383266300,
+						"id_str": "792764533383266304",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/CwB3JJLWgAAB-aO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwB3JJLWgAAB-aO.jpg",
+						"url": "https://t.co/sTQBv6oF82",
+						"display_url": "pic.twitter.com/sTQBv6oF82",
+						"expanded_url": "https://twitter.com/OliverDurrer/status/792764535698558977/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 798,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 798,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 678,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 792764533383266300,
+						"id_str": "792764533383266304",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/CwB3JJLWgAAB-aO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwB3JJLWgAAB-aO.jpg",
+						"url": "https://t.co/sTQBv6oF82",
+						"display_url": "pic.twitter.com/sTQBv6oF82",
+						"expanded_url": "https://twitter.com/OliverDurrer/status/792764535698558977/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 798,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 798,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 678,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2832697342,
+				"id_str": "2832697342",
+				"name": "Oliver Durrer",
+				"screen_name": "OliverDurrer",
+				"location": "Switzerland",
+				"description": "Enthusiast #Lean #Entrepreneur | #Digital Dreamer & Doer | Epicurean Explorer | Geek | Lover of Life & #Learning | MD @onlineacademyCH & Mentor @innovationmojo",
+				"url": "https://t.co/fJwgELZNZM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fJwgELZNZM",
+								"expanded_url": "https://ch.linkedin.com/in/oliverdurrer",
+								"display_url": "ch.linkedin.com/in/oliverdurrer",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21525,
+				"friends_count": 18378,
+				"listed_count": 831,
+				"created_at": "Wed Oct 15 20:29:03 +0000 2014",
+				"favourites_count": 7632,
+				"utc_offset": 3600,
+				"time_zone": "Bern",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2979,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/608304805187076098/_k1MJa8C_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/608304805187076098/_k1MJa8C_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2832697342/1413474789",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 47,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 30 18:30:34 +0000 2016",
 		"id": 792795850741133300,
 		"id_str": "792795850741133312",
