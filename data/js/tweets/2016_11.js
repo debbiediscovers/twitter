@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Wed Nov 02 05:44:02 +0000 2016",
+		"id": 793690109971304400,
+		"id_str": "793690109971304449",
+		"text": "RT @madlemmingz: Top Tips on Instagram Marketing From the World’s Instagram Experts - Foundr https://t.co/IF3LJtD7Wy via @Foundr #startup #…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startup",
+					"indices": [
+						129,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "madlemmingz",
+					"name": "Ashley Faulkes",
+					"id": 1343734783,
+					"id_str": "1343734783",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "foundr",
+					"name": "Foundr Magazine",
+					"id": 1297100576,
+					"id_str": "1297100576",
+					"indices": [
+						121,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IF3LJtD7Wy",
+					"expanded_url": "https://foundrmag.com/instagram-marketing/",
+					"display_url": "foundrmag.com/instagram-mark…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11630,
+			"friends_count": 7625,
+			"listed_count": 1049,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1574,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7012,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 02 04:01:12 +0000 2016",
+			"id": 793664228322320400,
+			"id_str": "793664228322320384",
+			"text": "Top Tips on Instagram Marketing From the World’s Instagram Experts - Foundr https://t.co/IF3LJtD7Wy via @Foundr… https://t.co/3LO4ociO9A",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "foundr",
+						"name": "Foundr Magazine",
+						"id": 1297100576,
+						"id_str": "1297100576",
+						"indices": [
+							104,
+							111
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/IF3LJtD7Wy",
+						"expanded_url": "https://foundrmag.com/instagram-marketing/",
+						"display_url": "foundrmag.com/instagram-mark…",
+						"indices": [
+							76,
+							99
+						]
+					},
+					{
+						"url": "https://t.co/3LO4ociO9A",
+						"expanded_url": "https://twitter.com/i/web/status/793664228322320384",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.socialjukebox.com\" rel=\"nofollow\">The Social Jukebox</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1343734783,
+				"id_str": "1343734783",
+				"name": "Ashley Faulkes",
+				"screen_name": "madlemmingz",
+				"location": "Switzerland",
+				"description": "SEO and WordPress Specialist. Helping small biz, solopreneurs and other awesome peeps. Eats too much swiss chocolate.",
+				"url": "http://t.co/Knkr1GbHjf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Knkr1GbHjf",
+								"expanded_url": "http://madlemmings.com",
+								"display_url": "madlemmings.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13190,
+				"friends_count": 8409,
+				"listed_count": 1522,
+				"created_at": "Thu Apr 11 07:00:08 +0000 2013",
+				"favourites_count": 4269,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30321,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/449287050722676737/4_88YzlG.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/449287050722676737/4_88YzlG.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439307522063605760/pBHruwvf_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439307522063605760/pBHruwvf_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1343734783/1471772301",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 02 04:03:12 +0000 2016",
 		"id": 793664731664056300,
 		"id_str": "793664731664056320",
