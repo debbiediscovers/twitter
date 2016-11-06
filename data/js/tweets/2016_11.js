@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sun Nov 06 03:37:51 +0000 2016",
+		"id": 795107905125032000,
+		"id_str": "795107905125031936",
+		"text": "RT @francescagino: People who are good at self-control structure their lives so as to avoid having to use it. https://t.co/Dk3S9TnttN @minz…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "francescagino",
+					"name": "Francesca Gino",
+					"id": 152322439,
+					"id_str": "152322439",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Dk3S9TnttN",
+					"expanded_url": "http://goo.gl/U3cd8P",
+					"display_url": "goo.gl/U3cd8P",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11633,
+			"friends_count": 7632,
+			"listed_count": 1041,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1602,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7042,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 04 20:00:48 +0000 2016",
+			"id": 794630496223379500,
+			"id_str": "794630496223379458",
+			"text": "People who are good at self-control structure their lives so as to avoid having to use it. https://t.co/Dk3S9TnttN @minzlicht via @voxdotcom",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "minzlicht",
+						"name": "Michael Inzlicht",
+						"id": 2255297864,
+						"id_str": "2255297864",
+						"indices": [
+							115,
+							125
+						]
+					},
+					{
+						"screen_name": "voxdotcom",
+						"name": "Vox",
+						"id": 2347049341,
+						"id_str": "2347049341",
+						"indices": [
+							130,
+							140
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Dk3S9TnttN",
+						"expanded_url": "http://goo.gl/U3cd8P",
+						"display_url": "goo.gl/U3cd8P",
+						"indices": [
+							91,
+							114
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 152322439,
+				"id_str": "152322439",
+				"name": "Francesca Gino",
+				"screen_name": "francescagino",
+				"location": "Cambridge, MA",
+				"description": "Harvard Business School Professor and author of SIDETRACKED  (http://t.co/D3HO1mfdCa). Mum and wife, passionate about motorcycles, and anything Italian.",
+				"url": "http://t.co/xVbJ6n2Eqw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xVbJ6n2Eqw",
+								"expanded_url": "http://francescagino.com/",
+								"display_url": "francescagino.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/D3HO1mfdCa",
+								"expanded_url": "http://goo.gl/cWkUs",
+								"display_url": "goo.gl/cWkUs",
+								"indices": [
+									62,
+									84
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 9196,
+				"friends_count": 193,
+				"listed_count": 457,
+				"created_at": "Sat Jun 05 16:43:02 +0000 2010",
+				"favourites_count": 1336,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2474,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/797720473/d942088363cefa7d17ff7e7966bc9096.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/797720473/d942088363cefa7d17ff7e7966bc9096.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/461849368312569856/qUqKiYjA_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/461849368312569856/qUqKiYjA_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/152322439/1422150184",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 13,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 05 15:53:41 +0000 2016",
 		"id": 794930693302198300,
 		"id_str": "794930693302198272",
