@@ -1,6 +1,724 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 13:04:29 +0000 2016",
+		"id": 795612890925367300,
+		"id_str": "795612890925367297",
+		"text": "Most searched drug by state: in California it's Viagra. #American #MEN. Thanks for sharing @avinash https://t.co/RftY84YdAK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "American",
+					"indices": [
+						56,
+						65
+					]
+				},
+				{
+					"text": "MEN",
+					"indices": [
+						66,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "avinash",
+					"name": "Avinash Kaushik",
+					"id": 15662446,
+					"id_str": "15662446",
+					"indices": [
+						91,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RftY84YdAK",
+					"expanded_url": "https://twitter.com/avinash/status/792846736586739712",
+					"display_url": "twitter.com/avinash/status…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11632,
+			"friends_count": 7635,
+			"listed_count": 1044,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1614,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7064,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 792846736586739700,
+		"quoted_status_id_str": "792846736586739712",
+		"quoted_status": {
+			"created_at": "Sun Oct 30 21:52:47 +0000 2016",
+			"id": 792846736586739700,
+			"id_str": "792846736586739712",
+			"text": "Most searched prescription drugs by State...\n\nWonder what it says about citizens. CA: Viagra. Most East Coast: Vyva… https://t.co/mKjC6dHntM",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mKjC6dHntM",
+						"expanded_url": "https://twitter.com/i/web/status/792846736586739712",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15662446,
+				"id_str": "15662446",
+				"name": "Avinash Kaushik",
+				"screen_name": "avinash",
+				"location": "Lat: 37.4 Long: -122.1",
+				"description": "Author, Web Analytics 2.0 & Web Analytics: An Hour A Day | Digital Marketing Evangelist, Google | Co-Founder, Market Motive",
+				"url": "http://t.co/yNWcDJ7In3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/yNWcDJ7In3",
+								"expanded_url": "http://kaushik.net/avinash",
+								"display_url": "kaushik.net/avinash",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 177430,
+				"friends_count": 88,
+				"listed_count": 11218,
+				"created_at": "Wed Jul 30 16:40:56 +0000 2008",
+				"favourites_count": 14,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17035,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/21072083/1920x1200_HD_Wallpaper_197_Zixpk-12.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/21072083/1920x1200_HD_Wallpaper_197_Zixpk-12.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410216110/avinash_kaushik_by_simon_birkenhead_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410216110/avinash_kaushik_by_simon_birkenhead_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15662446/1398225377",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "C6531B",
+				"profile_sidebar_fill_color": "F3B45A",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 43,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 07 13:01:22 +0000 2016",
+		"id": 795612104837345300,
+		"id_str": "795612104837345280",
+		"text": "RT @avinash: The Biggest Mistake Web Analysts Make… And How To Avoid It!\n\nhttps://t.co/6o2xJJ4Dai #givedatapurpose #businessanalysis https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "givedatapurpose",
+					"indices": [
+						98,
+						114
+					]
+				},
+				{
+					"text": "businessanalysis",
+					"indices": [
+						115,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "avinash",
+					"name": "Avinash Kaushik",
+					"id": 15662446,
+					"id_str": "15662446",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6o2xJJ4Dai",
+					"expanded_url": "https://goo.gl/PzmZ4V",
+					"display_url": "goo.gl/PzmZ4V",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11632,
+			"friends_count": 7635,
+			"listed_count": 1044,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1614,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7064,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 31 21:30:51 +0000 2016",
+			"id": 793203607650889700,
+			"id_str": "793203607650889728",
+			"text": "The Biggest Mistake Web Analysts Make… And How To Avoid It!\n\nhttps://t.co/6o2xJJ4Dai #givedatapurpose… https://t.co/RYv3S4eF15",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "givedatapurpose",
+						"indices": [
+							85,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6o2xJJ4Dai",
+						"expanded_url": "https://goo.gl/PzmZ4V",
+						"display_url": "goo.gl/PzmZ4V",
+						"indices": [
+							61,
+							84
+						]
+					},
+					{
+						"url": "https://t.co/RYv3S4eF15",
+						"expanded_url": "https://twitter.com/i/web/status/793203607650889728",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15662446,
+				"id_str": "15662446",
+				"name": "Avinash Kaushik",
+				"screen_name": "avinash",
+				"location": "Lat: 37.4 Long: -122.1",
+				"description": "Author, Web Analytics 2.0 & Web Analytics: An Hour A Day | Digital Marketing Evangelist, Google | Co-Founder, Market Motive",
+				"url": "http://t.co/yNWcDJ7In3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/yNWcDJ7In3",
+								"expanded_url": "http://kaushik.net/avinash",
+								"display_url": "kaushik.net/avinash",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 177430,
+				"friends_count": 88,
+				"listed_count": 11218,
+				"created_at": "Wed Jul 30 16:40:56 +0000 2008",
+				"favourites_count": 14,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17035,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/21072083/1920x1200_HD_Wallpaper_197_Zixpk-12.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/21072083/1920x1200_HD_Wallpaper_197_Zixpk-12.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410216110/avinash_kaushik_by_simon_birkenhead_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410216110/avinash_kaushik_by_simon_birkenhead_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15662446/1398225377",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "C6531B",
+				"profile_sidebar_fill_color": "F3B45A",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 65,
+			"favorite_count": 108,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 07 13:00:30 +0000 2016",
+		"id": 795611889975717900,
+		"id_str": "795611889975717888",
+		"text": "RT @avinash: Great demonstration of the power of Google's Data Studio tool: https://t.co/JhuxyqOujL\n\nMore by @danielwaisberg here https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "avinash",
+					"name": "Avinash Kaushik",
+					"id": 15662446,
+					"id_str": "15662446",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "danielwaisberg",
+					"name": "Daniel Waisberg",
+					"id": 40644225,
+					"id_str": "40644225",
+					"indices": [
+						109,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JhuxyqOujL",
+					"expanded_url": "https://goo.gl/lmNLjE",
+					"display_url": "goo.gl/lmNLjE",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11632,
+			"friends_count": 7635,
+			"listed_count": 1044,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1614,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7064,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 14 19:32:46 +0000 2016",
+			"id": 787013295181996000,
+			"id_str": "787013295181996032",
+			"text": "Great demonstration of the power of Google's Data Studio tool: https://t.co/JhuxyqOujL\n\nMore by @danielwaisberg her… https://t.co/22mYuI3WEf",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "danielwaisberg",
+						"name": "Daniel Waisberg",
+						"id": 40644225,
+						"id_str": "40644225",
+						"indices": [
+							96,
+							111
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/JhuxyqOujL",
+						"expanded_url": "https://goo.gl/lmNLjE",
+						"display_url": "goo.gl/lmNLjE",
+						"indices": [
+							63,
+							86
+						]
+					},
+					{
+						"url": "https://t.co/22mYuI3WEf",
+						"expanded_url": "https://twitter.com/i/web/status/787013295181996032",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15662446,
+				"id_str": "15662446",
+				"name": "Avinash Kaushik",
+				"screen_name": "avinash",
+				"location": "Lat: 37.4 Long: -122.1",
+				"description": "Author, Web Analytics 2.0 & Web Analytics: An Hour A Day | Digital Marketing Evangelist, Google | Co-Founder, Market Motive",
+				"url": "http://t.co/yNWcDJ7In3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/yNWcDJ7In3",
+								"expanded_url": "http://kaushik.net/avinash",
+								"display_url": "kaushik.net/avinash",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 177430,
+				"friends_count": 88,
+				"listed_count": 11218,
+				"created_at": "Wed Jul 30 16:40:56 +0000 2008",
+				"favourites_count": 14,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17035,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/21072083/1920x1200_HD_Wallpaper_197_Zixpk-12.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/21072083/1920x1200_HD_Wallpaper_197_Zixpk-12.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410216110/avinash_kaushik_by_simon_birkenhead_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410216110/avinash_kaushik_by_simon_birkenhead_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15662446/1398225377",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "C6531B",
+				"profile_sidebar_fill_color": "F3B45A",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 105,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 07 11:52:02 +0000 2016",
 		"id": 795594657992478700,
 		"id_str": "795594657992478720",
