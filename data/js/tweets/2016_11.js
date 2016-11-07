@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 04:03:02 +0000 2016",
+		"id": 795476629317447700,
+		"id_str": "795476629317447680",
+		"text": "#Artificial #intelligence is the next giant leap in education https://t.co/Ena9o8nIj7 via @raconteur https://t.co/9MdMeGPKnz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Artificial",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "intelligence",
+					"indices": [
+						12,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "raconteur",
+					"name": "Raconteur",
+					"id": 44664072,
+					"id_str": "44664072",
+					"indices": [
+						90,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ena9o8nIj7",
+					"expanded_url": "http://buff.ly/2feK4Xo",
+					"display_url": "buff.ly/2feK4Xo",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 795476624904953900,
+					"id_str": "795476624904953856",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/CwoZxpaWIAAXlLa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CwoZxpaWIAAXlLa.jpg",
+					"url": "https://t.co/9MdMeGPKnz",
+					"display_url": "pic.twitter.com/9MdMeGPKnz",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/795476629317447680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 203,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 360,
+							"h": 203,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 203,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 795476624904953900,
+					"id_str": "795476624904953856",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/CwoZxpaWIAAXlLa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CwoZxpaWIAAXlLa.jpg",
+					"url": "https://t.co/9MdMeGPKnz",
+					"display_url": "pic.twitter.com/9MdMeGPKnz",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/795476629317447680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 203,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 360,
+							"h": 203,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 203,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11636,
+			"friends_count": 7635,
+			"listed_count": 1044,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1612,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7057,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 07 03:19:26 +0000 2016",
+		"id": 795465657512886300,
+		"id_str": "795465657512886273",
+		"text": "RT @digitalfuturist: He created the 'theory of multiple intelligences.' What if Howard Gardner were U.S. education secretary? https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "digitalfuturist",
+					"name": "Digital Futurist",
+					"id": 746360730920718300,
+					"id_str": "746360730920718336",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11636,
+			"friends_count": 7635,
+			"listed_count": 1044,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1612,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7057,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 03 01:10:01 +0000 2016",
+			"id": 793983538962067500,
+			"id_str": "793983538962067456",
+			"text": "He created the 'theory of multiple intelligences.' What if Howard Gardner were U.S. education secretary?… https://t.co/vDu0CcUMEs",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vDu0CcUMEs",
+						"expanded_url": "https://twitter.com/i/web/status/793983538962067456",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 746360730920718300,
+				"id_str": "746360730920718336",
+				"name": "Digital Futurist",
+				"screen_name": "digitalfuturist",
+				"location": "In the Digital Future",
+				"description": "AI news bot: Digital Disruption, Transformation and Strategy. In the digital future, we are all dead. The future of digital is now.",
+				"url": "https://t.co/KnYliQ6uBv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KnYliQ6uBv",
+								"expanded_url": "http://news.futureof.digital",
+								"display_url": "news.futureof.digital",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 92,
+				"friends_count": 200,
+				"listed_count": 22,
+				"created_at": "Fri Jun 24 15:14:00 +0000 2016",
+				"favourites_count": 20,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 140,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/751328844389376000/nRhNMn0W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/751328844389376000/nRhNMn0W_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/746360730920718336/1467951506",
+				"profile_link_color": "36E2BE",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Nov 06 23:13:16 +0000 2016",
 		"id": 795403707483439100,
 		"id_str": "795403707483439104",
