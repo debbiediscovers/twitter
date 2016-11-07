@@ -1,6 +1,706 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 17:56:27 +0000 2016",
+		"id": 795686368194142200,
+		"id_str": "795686368194142208",
+		"text": "@limlyeheng Think you incorporate #rebel4good in your preschool program?? @francescagino @AdamMGrant #SmartNation needs #Rebelheadstart",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rebel4good",
+					"indices": [
+						34,
+						45
+					]
+				},
+				{
+					"text": "SmartNation",
+					"indices": [
+						101,
+						113
+					]
+				},
+				{
+					"text": "Rebelheadstart",
+					"indices": [
+						120,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "limlyeheng",
+					"name": "Adrian Lim",
+					"id": 193736170,
+					"id_str": "193736170",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "francescagino",
+					"name": "Francesca Gino",
+					"id": 152322439,
+					"id_str": "152322439",
+					"indices": [
+						74,
+						88
+					]
+				},
+				{
+					"screen_name": "AdamMGrant",
+					"name": "Adam Grant",
+					"id": 1059273780,
+					"id_str": "1059273780",
+					"indices": [
+						89,
+						100
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 790926831616655400,
+		"in_reply_to_status_id_str": "790926831616655360",
+		"in_reply_to_user_id": 1059273780,
+		"in_reply_to_user_id_str": "1059273780",
+		"in_reply_to_screen_name": "AdamMGrant",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11633,
+			"friends_count": 7637,
+			"listed_count": 1043,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1619,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7071,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 07 17:40:39 +0000 2016",
+		"id": 795682389519257600,
+		"id_str": "795682389519257600",
+		"text": "This post @semrush post has an awesome #video of @mattcutts explaining Googlebots!!  Thanks Elena @LenaTerentyeva",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "video",
+					"indices": [
+						39,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "semrush",
+					"name": "SEMrush",
+					"id": 21896072,
+					"id_str": "21896072",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"screen_name": "mattcutts",
+					"name": "Matt Cutts",
+					"id": 3080761,
+					"id_str": "3080761",
+					"indices": [
+						49,
+						59
+					]
+				},
+				{
+					"screen_name": "LenaTerentyeva",
+					"name": "Elena Terentyeva",
+					"id": 620061790,
+					"id_str": "620061790",
+					"indices": [
+						98,
+						113
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 794933803743592400,
+		"in_reply_to_status_id_str": "794933803743592449",
+		"in_reply_to_user_id": 21896072,
+		"in_reply_to_user_id_str": "21896072",
+		"in_reply_to_screen_name": "semrush",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11633,
+			"friends_count": 7637,
+			"listed_count": 1043,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1619,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7071,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 07 17:37:27 +0000 2016",
+		"id": 795681586234560500,
+		"id_str": "795681586234560512",
+		"text": "RT @semrush: What are #Crawlability and #Indexability of a Website? by @LenaTerentyeva https://t.co/fYbtwx5gD8 https://t.co/jOgs9BT185",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Crawlability",
+					"indices": [
+						22,
+						35
+					]
+				},
+				{
+					"text": "Indexability",
+					"indices": [
+						40,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "semrush",
+					"name": "SEMrush",
+					"id": 21896072,
+					"id_str": "21896072",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "LenaTerentyeva",
+					"name": "Elena Terentyeva",
+					"id": 620061790,
+					"id_str": "620061790",
+					"indices": [
+						71,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fYbtwx5gD8",
+					"expanded_url": "https://www.semrush.com/blog/what-are-crawlability-and-indexability-of-a-website/",
+					"display_url": "semrush.com/blog/what-are-…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 794933799645802500,
+					"id_str": "794933799645802496",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/CwgsFDvW8AAFJRz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CwgsFDvW8AAFJRz.jpg",
+					"url": "https://t.co/jOgs9BT185",
+					"display_url": "pic.twitter.com/jOgs9BT185",
+					"expanded_url": "https://twitter.com/semrush/status/794933803743592449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 290,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 882,
+							"h": 376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 882,
+							"h": 376,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 794933803743592400,
+					"source_status_id_str": "794933803743592449",
+					"source_user_id": 21896072,
+					"source_user_id_str": "21896072"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 794933799645802500,
+					"id_str": "794933799645802496",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/CwgsFDvW8AAFJRz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CwgsFDvW8AAFJRz.jpg",
+					"url": "https://t.co/jOgs9BT185",
+					"display_url": "pic.twitter.com/jOgs9BT185",
+					"expanded_url": "https://twitter.com/semrush/status/794933803743592449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 290,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 882,
+							"h": 376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 882,
+							"h": 376,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 794933803743592400,
+					"source_status_id_str": "794933803743592449",
+					"source_user_id": 21896072,
+					"source_user_id_str": "21896072"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11633,
+			"friends_count": 7637,
+			"listed_count": 1043,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1619,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7071,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 05 16:06:02 +0000 2016",
+			"id": 794933803743592400,
+			"id_str": "794933803743592449",
+			"text": "What are #Crawlability and #Indexability of a Website? by @LenaTerentyeva https://t.co/fYbtwx5gD8 https://t.co/jOgs9BT185",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Crawlability",
+						"indices": [
+							9,
+							22
+						]
+					},
+					{
+						"text": "Indexability",
+						"indices": [
+							27,
+							40
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LenaTerentyeva",
+						"name": "Elena Terentyeva",
+						"id": 620061790,
+						"id_str": "620061790",
+						"indices": [
+							58,
+							73
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/fYbtwx5gD8",
+						"expanded_url": "https://www.semrush.com/blog/what-are-crawlability-and-indexability-of-a-website/",
+						"display_url": "semrush.com/blog/what-are-…",
+						"indices": [
+							74,
+							97
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 794933799645802500,
+						"id_str": "794933799645802496",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/CwgsFDvW8AAFJRz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwgsFDvW8AAFJRz.jpg",
+						"url": "https://t.co/jOgs9BT185",
+						"display_url": "pic.twitter.com/jOgs9BT185",
+						"expanded_url": "https://twitter.com/semrush/status/794933803743592449/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 290,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 882,
+								"h": 376,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 882,
+								"h": 376,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 794933799645802500,
+						"id_str": "794933799645802496",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/CwgsFDvW8AAFJRz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwgsFDvW8AAFJRz.jpg",
+						"url": "https://t.co/jOgs9BT185",
+						"display_url": "pic.twitter.com/jOgs9BT185",
+						"expanded_url": "https://twitter.com/semrush/status/794933803743592449/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 290,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 882,
+								"h": 376,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 882,
+								"h": 376,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21896072,
+				"id_str": "21896072",
+				"name": "SEMrush",
+				"screen_name": "semrush",
+				"location": "Philadelphia, PA USA",
+				"description": "Be a digital marketing rock star with SEMrush! Follow us for the best industry updates & tips and connect with top influencers via our weekly #SEMrushchat",
+				"url": "https://t.co/JjZxAQAL1F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JjZxAQAL1F",
+								"expanded_url": "http://semrush.com",
+								"display_url": "semrush.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47764,
+				"friends_count": 13592,
+				"listed_count": 4437,
+				"created_at": "Wed Feb 25 18:06:24 +0000 2009",
+				"favourites_count": 138552,
+				"utc_offset": 10800,
+				"time_zone": "Volgograd",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 61356,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/840603242/77c265eb0c318b482f6d27b515b6c7ac.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/840603242/77c265eb0c318b482f6d27b515b6c7ac.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/732598168924348417/ZCQTz7Fx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/732598168924348417/ZCQTz7Fx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21896072/1475669969",
+				"profile_link_color": "B24908",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 07 16:21:35 +0000 2016",
 		"id": 795662494064742400,
 		"id_str": "795662494064742402",
