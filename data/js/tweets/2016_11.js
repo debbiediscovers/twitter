@@ -1,6 +1,536 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Tue Nov 08 02:05:52 +0000 2016",
+		"id": 795809530873397200,
+		"id_str": "795809530873397248",
+		"text": "\"Trust the machines but inject our humanity into the experiences created\" https://t.co/CstCvJ10Ip @techcrunch by @petesena #useful #MUSTREAD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "useful",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "MUSTREAD",
+					"indices": [
+						131,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TechCrunch",
+					"name": "TechCrunch",
+					"id": 816653,
+					"id_str": "816653",
+					"indices": [
+						98,
+						109
+					]
+				},
+				{
+					"screen_name": "petesena",
+					"name": "Peter Sena",
+					"id": 42950013,
+					"id_str": "42950013",
+					"indices": [
+						113,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CstCvJ10Ip",
+					"expanded_url": "http://tcrn.ch/2a8LsNU",
+					"display_url": "tcrn.ch/2a8LsNU",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11639,
+			"friends_count": 7660,
+			"listed_count": 1041,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1622,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7076,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 08 01:58:55 +0000 2016",
+		"id": 795807782310015000,
+		"id_str": "795807782310014978",
+		"text": "RT @petesena: The Competitive Landscape for Machine Intelligence https://t.co/nRG8Y2RgeO #useful https://t.co/UftkrTmTE6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "useful",
+					"indices": [
+						89,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "petesena",
+					"name": "Peter Sena",
+					"id": 42950013,
+					"id_str": "42950013",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nRG8Y2RgeO",
+					"expanded_url": "http://buff.ly/2fl9Vxv",
+					"display_url": "buff.ly/2fl9Vxv",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 795709972457947100,
+					"id_str": "795709972457947138",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/CwruAQyXgAI42hQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CwruAQyXgAI42hQ.jpg",
+					"url": "https://t.co/UftkrTmTE6",
+					"display_url": "pic.twitter.com/UftkrTmTE6",
+					"expanded_url": "https://twitter.com/petesena/status/795709974915776512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 215,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 383,
+							"h": 215,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 383,
+							"h": 215,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 795709974915776500,
+					"source_status_id_str": "795709974915776512",
+					"source_user_id": 42950013,
+					"source_user_id_str": "42950013"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 795709972457947100,
+					"id_str": "795709972457947138",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/CwruAQyXgAI42hQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CwruAQyXgAI42hQ.jpg",
+					"url": "https://t.co/UftkrTmTE6",
+					"display_url": "pic.twitter.com/UftkrTmTE6",
+					"expanded_url": "https://twitter.com/petesena/status/795709974915776512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 215,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 383,
+							"h": 215,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 383,
+							"h": 215,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 795709974915776500,
+					"source_status_id_str": "795709974915776512",
+					"source_user_id": 42950013,
+					"source_user_id_str": "42950013"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11639,
+			"friends_count": 7660,
+			"listed_count": 1041,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1622,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7076,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 07 19:30:16 +0000 2016",
+			"id": 795709974915776500,
+			"id_str": "795709974915776512",
+			"text": "The Competitive Landscape for Machine Intelligence https://t.co/nRG8Y2RgeO #useful https://t.co/UftkrTmTE6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "useful",
+						"indices": [
+							75,
+							82
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nRG8Y2RgeO",
+						"expanded_url": "http://buff.ly/2fl9Vxv",
+						"display_url": "buff.ly/2fl9Vxv",
+						"indices": [
+							51,
+							74
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 795709972457947100,
+						"id_str": "795709972457947138",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/CwruAQyXgAI42hQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwruAQyXgAI42hQ.jpg",
+						"url": "https://t.co/UftkrTmTE6",
+						"display_url": "pic.twitter.com/UftkrTmTE6",
+						"expanded_url": "https://twitter.com/petesena/status/795709974915776512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 383,
+								"h": 215,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 383,
+								"h": 215,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 383,
+								"h": 215,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 795709972457947100,
+						"id_str": "795709972457947138",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/CwruAQyXgAI42hQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwruAQyXgAI42hQ.jpg",
+						"url": "https://t.co/UftkrTmTE6",
+						"display_url": "pic.twitter.com/UftkrTmTE6",
+						"expanded_url": "https://twitter.com/petesena/status/795709974915776512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 383,
+								"h": 215,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 383,
+								"h": 215,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 383,
+								"h": 215,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42950013,
+				"id_str": "42950013",
+				"name": "Peter Sena",
+				"screen_name": "petesena",
+				"location": "Wherever the challenge exists",
+				"description": "Entrepreneur / Founder driven by innovation. Polymath. Designer. Keynote Speaker. Technologist. Problem solver. Student of life. @digitalsurgeons",
+				"url": "https://t.co/8A0bXT1u7D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8A0bXT1u7D",
+								"expanded_url": "https://www.linkedin.com/in/petersena",
+								"display_url": "linkedin.com/in/petersena",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24516,
+				"friends_count": 1255,
+				"listed_count": 442,
+				"created_at": "Wed May 27 19:13:57 +0000 2009",
+				"favourites_count": 1273,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10247,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/671712244/f4ad1fd259c8c7d81c8e864cd0248213.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/671712244/f4ad1fd259c8c7d81c8e864cd0248213.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/669207345293996033/Xh14cJ7d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/669207345293996033/Xh14cJ7d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42950013/1398366873",
+				"profile_link_color": "FF5900",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F5F5F5",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 07 18:55:55 +0000 2016",
 		"id": 795701331491098600,
 		"id_str": "795701331491098624",
