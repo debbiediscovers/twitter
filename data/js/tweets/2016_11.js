@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Tue Nov 08 15:37:07 +0000 2016",
+		"id": 796013689375625200,
+		"id_str": "796013689375625216",
+		"text": "RT @semrush: Join our #semrushchat to share your ideas on Growth Hacking with @vincentdignan this Wednesday, November 9th at 11 AM EST // 4…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "semrushchat",
+					"indices": [
+						22,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "semrush",
+					"name": "SEMrush",
+					"id": 21896072,
+					"id_str": "21896072",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "vincentdignan",
+					"name": "Vincent Dignan",
+					"id": 216187106,
+					"id_str": "216187106",
+					"indices": [
+						78,
+						92
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11644,
+			"friends_count": 7665,
+			"listed_count": 1043,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1624,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7081,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 08 14:30:07 +0000 2016",
+			"id": 795996827237675000,
+			"id_str": "795996827237675008",
+			"text": "Join our #semrushchat to share your ideas on Growth Hacking with @vincentdignan this Wednesday, November 9th at 11… https://t.co/dv0w3t4nWw",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "semrushchat",
+						"indices": [
+							9,
+							21
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "vincentdignan",
+						"name": "Vincent Dignan",
+						"id": 216187106,
+						"id_str": "216187106",
+						"indices": [
+							65,
+							79
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dv0w3t4nWw",
+						"expanded_url": "https://twitter.com/i/web/status/795996827237675008",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21896072,
+				"id_str": "21896072",
+				"name": "SEMrush",
+				"screen_name": "semrush",
+				"location": "Philadelphia, PA USA",
+				"description": "Be a digital marketing rock star with SEMrush! Follow us for the best industry updates & tips and connect with top influencers via our weekly #SEMrushchat",
+				"url": "https://t.co/JjZxAQAL1F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JjZxAQAL1F",
+								"expanded_url": "http://semrush.com",
+								"display_url": "semrush.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47807,
+				"friends_count": 13594,
+				"listed_count": 4441,
+				"created_at": "Wed Feb 25 18:06:24 +0000 2009",
+				"favourites_count": 138615,
+				"utc_offset": 10800,
+				"time_zone": "Volgograd",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 61385,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/840603242/77c265eb0c318b482f6d27b515b6c7ac.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/840603242/77c265eb0c318b482f6d27b515b6c7ac.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/732598168924348417/ZCQTz7Fx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/732598168924348417/ZCQTz7Fx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21896072/1475669969",
+				"profile_link_color": "B24908",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 08 13:31:17 +0000 2016",
 		"id": 795982022829219800,
 		"id_str": "795982022829219841",
