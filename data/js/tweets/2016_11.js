@@ -1,6 +1,527 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Wed Nov 09 03:06:25 +0000 2016",
+		"id": 796187155861098500,
+		"id_str": "796187155861098498",
+		"text": "@mckenna_andrew And you're only seeing my public lists... wanna hazard a guess as to how many private lists I have? https://t.co/cKXGqAofZA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mckenna_andrew",
+					"name": "Andrew McKenna",
+					"id": 187911275,
+					"id_str": "187911275",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 796187081298964500,
+					"id_str": "796187081298964480",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cwyf7puUcAAn-tN.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cwyf7puUcAAn-tN.jpg",
+					"url": "https://t.co/cKXGqAofZA",
+					"display_url": "pic.twitter.com/cKXGqAofZA",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/796187155861098498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 244,
+							"h": 150,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 150,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 150,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 796187081298964500,
+					"id_str": "796187081298964480",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cwyf7puUcAAn-tN.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cwyf7puUcAAn-tN.jpg",
+					"url": "https://t.co/cKXGqAofZA",
+					"display_url": "pic.twitter.com/cKXGqAofZA",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/796187155861098498/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 244,
+							"h": 150,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 150,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 150,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							122,
+							75
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/Cwyf7puUcAAn-tN.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 796086895289790500,
+		"in_reply_to_status_id_str": "796086895289790464",
+		"in_reply_to_user_id": 187911275,
+		"in_reply_to_user_id_str": "187911275",
+		"in_reply_to_screen_name": "mckenna_andrew",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11654,
+			"friends_count": 7666,
+			"listed_count": 1044,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1630,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7087,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 09 03:04:45 +0000 2016",
+		"id": 796186737143779300,
+		"id_str": "796186737143779332",
+		"text": "RT @MSocialBusiness: Twitter – How to Host your Twitter Archive on Github Pages https://t.co/vuwVh9SjuM #twitter via @debbiediscovers https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "twitter",
+					"indices": [
+						104,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MSocialBusiness",
+					"name": "Max. Social Business",
+					"id": 56554540,
+					"id_str": "56554540",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						117,
+						133
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vuwVh9SjuM",
+					"expanded_url": "https://www.mhb.io/e/274al/7a",
+					"display_url": "mhb.io/e/274al/7a",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11654,
+			"friends_count": 7666,
+			"listed_count": 1044,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1630,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7087,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 09 02:51:40 +0000 2016",
+			"id": 796183447748350000,
+			"id_str": "796183447748349953",
+			"text": "Twitter – How to Host your Twitter Archive on Github Pages https://t.co/vuwVh9SjuM #twitter via @debbiediscovers https://t.co/qphzVC3qIN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "twitter",
+						"indices": [
+							83,
+							91
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							96,
+							112
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vuwVh9SjuM",
+						"expanded_url": "https://www.mhb.io/e/274al/7a",
+						"display_url": "mhb.io/e/274al/7a",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 796183445038919700,
+						"id_str": "796183445038919682",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/Cwycn_mXcAI7ZBm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cwycn_mXcAI7ZBm.jpg",
+						"url": "https://t.co/qphzVC3qIN",
+						"display_url": "pic.twitter.com/qphzVC3qIN",
+						"expanded_url": "https://twitter.com/MSocialBusiness/status/796183447748349953/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 796183445038919700,
+						"id_str": "796183445038919682",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/Cwycn_mXcAI7ZBm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cwycn_mXcAI7ZBm.jpg",
+						"url": "https://t.co/qphzVC3qIN",
+						"display_url": "pic.twitter.com/qphzVC3qIN",
+						"expanded_url": "https://twitter.com/MSocialBusiness/status/796183447748349953/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.markethub.io\" rel=\"nofollow\">MarketHub</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 56554540,
+				"id_str": "56554540",
+				"name": "Max. Social Business",
+				"screen_name": "MSocialBusiness",
+				"location": "Irvine, Orange County, CA, USA",
+				"description": "Your corporate social media for business resource featuring expert contributions from industry peers. #socialmedia #marketing #smm #socialbusiness",
+				"url": "http://t.co/ZEloNDdm3r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ZEloNDdm3r",
+								"expanded_url": "http://maximizesocialbusiness.com",
+								"display_url": "maximizesocialbusiness.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37900,
+				"friends_count": 24452,
+				"listed_count": 2371,
+				"created_at": "Tue Jul 14 00:55:30 +0000 2009",
+				"favourites_count": 19,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25221,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000110656558/79886468d65523e0d4388e54aea69471.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000110656558/79886468d65523e0d4388e54aea69471.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000704743258/52c7d1c9e89985f17d0f0b558288ac1d_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000704743258/52c7d1c9e89985f17d0f0b558288ac1d_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/56554540/1383767305",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 08 18:36:27 +0000 2016",
 		"id": 796058820325711900,
 		"id_str": "796058820325711872",
