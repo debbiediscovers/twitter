@@ -1,6 +1,546 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Fri Nov 11 18:23:28 +0000 2016",
+		"id": 797142717549547500,
+		"id_str": "797142717549547520",
+		"text": "@seemaryc thanks for sharing! https://t.co/QKFRI4iu1t",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seemaryc",
+					"name": "Mary Clanahan",
+					"id": 288932104,
+					"id_str": "288932104",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 797142588465610800,
+					"id_str": "797142588465610753",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CxAE9fTUAAEpLKV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CxAE9fTUAAEpLKV.jpg",
+					"url": "https://t.co/QKFRI4iu1t",
+					"display_url": "pic.twitter.com/QKFRI4iu1t",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/797142717549547520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 797142588465610800,
+					"id_str": "797142588465610753",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CxAE9fTUAAEpLKV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CxAE9fTUAAEpLKV.jpg",
+					"url": "https://t.co/QKFRI4iu1t",
+					"display_url": "pic.twitter.com/QKFRI4iu1t",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/797142717549547520/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/CxAE9fTUAAEpLKV.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 797124874359738400,
+		"in_reply_to_status_id_str": "797124874359738368",
+		"in_reply_to_user_id": 288932104,
+		"in_reply_to_user_id_str": "288932104",
+		"in_reply_to_screen_name": "seemaryc",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11717,
+			"friends_count": 7052,
+			"listed_count": 1048,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1658,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7122,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 11 18:21:14 +0000 2016",
+		"id": 797142153122041900,
+		"id_str": "797142153122041856",
+		"text": "RT @seemaryc: Kindness is a virtue we all need to cultivate. https://t.co/S6mxuapkHC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seemaryc",
+					"name": "Mary Clanahan",
+					"id": 288932104,
+					"id_str": "288932104",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/S6mxuapkHC",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/794683489689837568",
+					"display_url": "twitter.com/debbiediscover…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11717,
+			"friends_count": 7052,
+			"listed_count": 1048,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1658,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7122,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 11 17:12:34 +0000 2016",
+			"id": 797124874359738400,
+			"id_str": "797124874359738368",
+			"text": "Kindness is a virtue we all need to cultivate. https://t.co/S6mxuapkHC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/S6mxuapkHC",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/794683489689837568",
+						"display_url": "twitter.com/debbiediscover…",
+						"indices": [
+							47,
+							70
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 288932104,
+				"id_str": "288932104",
+				"name": "Mary Clanahan",
+				"screen_name": "seemaryc",
+				"location": "Colorado",
+				"description": "50 years married 2, have fun with, & laugh a lot w/my best playmate, friend, n husband Bill.God is good! I'm author, blogger,speaker, prayer warrior, mom n Oma",
+				"url": "http://t.co/cazXK2eemg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/cazXK2eemg",
+								"expanded_url": "http://www.castupahighway.com",
+								"display_url": "castupahighway.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 984,
+				"friends_count": 1190,
+				"listed_count": 35,
+				"created_at": "Wed Apr 27 18:15:44 +0000 2011",
+				"favourites_count": 615,
+				"utc_offset": -25200,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6661,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000103912397/bcf9d89307a01453d0fecfaf72e1ebcd.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000103912397/bcf9d89307a01453d0fecfaf72e1ebcd.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2936243376/a87083f76cb0865304902ed913097493_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2936243376/a87083f76cb0865304902ed913097493_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/288932104/1426085049",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 794683489689837600,
+			"quoted_status_id_str": "794683489689837568",
+			"quoted_status": {
+				"created_at": "Fri Nov 04 23:31:23 +0000 2016",
+				"id": 794683489689837600,
+				"id_str": "794683489689837568",
+				"text": "Need #PositiveThingsToDoOnNov9th Here are 30 in colorful Candy colors #FridayFeeling #Fun #HappyCandyDay… https://t.co/x8lbpNYoof",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "PositiveThingsToDoOnNov9th",
+							"indices": [
+								5,
+								32
+							]
+						},
+						{
+							"text": "FridayFeeling",
+							"indices": [
+								70,
+								84
+							]
+						},
+						{
+							"text": "Fun",
+							"indices": [
+								85,
+								89
+							]
+						},
+						{
+							"text": "HappyCandyDay",
+							"indices": [
+								90,
+								104
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/x8lbpNYoof",
+							"expanded_url": "https://twitter.com/i/web/status/794683489689837568",
+							"display_url": "twitter.com/i/web/status/7…",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"name": "Deborah Kay",
+					"screen_name": "debbiediscovers",
+					"location": "Central Region, Singapore",
+					"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+					"url": "https://t.co/o0MiAYiEuU",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/o0MiAYiEuU",
+									"expanded_url": "http://info.debbiediscovers.com",
+									"display_url": "info.debbiediscovers.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 11717,
+					"friends_count": 7052,
+					"listed_count": 1048,
+					"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+					"favourites_count": 1658,
+					"utc_offset": 28800,
+					"time_zone": "Singapore",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 7122,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EBEBEB",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+					"profile_link_color": "D50252",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 7,
+				"favorite_count": 11,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 794683489689837600,
+		"quoted_status_id_str": "794683489689837568",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 11 17:19:21 +0000 2016",
 		"id": 797126583198724100,
 		"id_str": "797126583198724096",
