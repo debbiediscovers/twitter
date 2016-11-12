@@ -1,6 +1,547 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sat Nov 12 17:22:57 +0000 2016",
+		"id": 797489876350300200,
+		"id_str": "797489876350300160",
+		"text": "@SmarterQueue it's a bit hard to share the referral link if it's not in the click to tweet... https://t.co/AhZnoNItT9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SmarterQueue",
+					"name": "SmarterQueue",
+					"id": 793046494010040300,
+					"id_str": "793046494010040320",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 797489768577658900,
+					"id_str": "797489768577658880",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/CxFAuCAUcAAT4pX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxFAuCAUcAAT4pX.jpg",
+					"url": "https://t.co/AhZnoNItT9",
+					"display_url": "pic.twitter.com/AhZnoNItT9",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/797489876350300160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 780,
+							"h": 375,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 327,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 797489768577658900,
+					"id_str": "797489768577658880",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/CxFAuCAUcAAT4pX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxFAuCAUcAAT4pX.jpg",
+					"url": "https://t.co/AhZnoNItT9",
+					"display_url": "pic.twitter.com/AhZnoNItT9",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/797489876350300160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 780,
+							"h": 375,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 327,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 797127454372413400,
+		"in_reply_to_status_id_str": "797127454372413440",
+		"in_reply_to_user_id": 793046494010040300,
+		"in_reply_to_user_id_str": "793046494010040320",
+		"in_reply_to_screen_name": "SmarterQueue",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11735,
+			"friends_count": 7056,
+			"listed_count": 1054,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1691,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7154,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 12 17:19:53 +0000 2016",
+		"id": 797489101259669500,
+		"id_str": "797489101259669504",
+		"text": "RT @ckan: #HotOffThePress Content Library at @buffer is going to shut down the feature &amp; turn it off on December 7, 2016, DOWNLOAD library…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HotOffThePress",
+					"indices": [
+						10,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ckan",
+					"name": "Carlos Kan - 簡卡路 🌐",
+					"id": 23073323,
+					"id_str": "23073323",
+					"indices": [
+						3,
+						8
+					]
+				},
+				{
+					"screen_name": "buffer",
+					"name": "Buffer",
+					"id": 197962366,
+					"id_str": "197962366",
+					"indices": [
+						45,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11735,
+			"friends_count": 7056,
+			"listed_count": 1054,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1691,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7154,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 11 15:55:21 +0000 2016",
+			"id": 797105442849771500,
+			"id_str": "797105442849771520",
+			"text": "#HotOffThePress Content Library at @buffer is going to shut down the feature &amp; turn it off on December 7, 2016, DOW… https://t.co/tLTtp45wnb",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HotOffThePress",
+						"indices": [
+							0,
+							15
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "buffer",
+						"name": "Buffer",
+						"id": 197962366,
+						"id_str": "197962366",
+						"indices": [
+							35,
+							42
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/tLTtp45wnb",
+						"expanded_url": "https://twitter.com/i/web/status/797105442849771520",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23073323,
+				"id_str": "23073323",
+				"name": "Carlos Kan - 簡卡路 🌐",
+				"screen_name": "ckan",
+				"location": "Panama",
+				"description": "https://t.co/xvHl0Lb9sl Adviser & Consultant | @mklatam Media Writer & Co-Editor | Digital Business Tech Professor | Opinions = mine",
+				"url": "https://t.co/XogCziTZEY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XogCziTZEY",
+								"expanded_url": "http://carloskan.com",
+								"display_url": "carloskan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xvHl0Lb9sl",
+								"expanded_url": "http://iaconcepts.net",
+								"display_url": "iaconcepts.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4599,
+				"friends_count": 4990,
+				"listed_count": 1445,
+				"created_at": "Fri Mar 06 15:02:04 +0000 2009",
+				"favourites_count": 8655,
+				"utc_offset": -18000,
+				"time_zone": "Bogota",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 64610,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3322337973/6dd23246bb7900da9abeca2527fdda96_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3322337973/6dd23246bb7900da9abeca2527fdda96_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23073323/1470323078",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 12 17:13:34 +0000 2016",
+		"id": 797487514667794400,
+		"id_str": "797487514667794432",
+		"text": "@aashay_menace saw random pages from my old blog being indexed by google. https://t.co/Jz6KNILYY8 what should I do? keep  delete or deindex",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aashay_menace",
+					"name": "aashay sachdeva",
+					"id": 2491714356,
+					"id_str": "2491714356",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Jz6KNILYY8",
+					"expanded_url": "http://info.debbiediscovers.com/blog/8-secrets-of-success",
+					"display_url": "info.debbiediscovers.com/blog/8-secrets…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 797484791205490700,
+		"in_reply_to_status_id_str": "797484791205490688",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11735,
+			"friends_count": 7056,
+			"listed_count": 1054,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1691,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7154,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 12 17:02:45 +0000 2016",
 		"id": 797484791205490700,
 		"id_str": "797484791205490688",
