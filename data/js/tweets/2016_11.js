@@ -1,6 +1,604 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sat Nov 12 04:10:31 +0000 2016",
+		"id": 797290451057246200,
+		"id_str": "797290451057246208",
+		"text": "@MasoomJethwa Annie is my hero  @AnnieCushing #girlcrush",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "girlcrush",
+					"indices": [
+						46,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MasoomJethwa",
+					"name": "Masoom",
+					"id": 53845666,
+					"id_str": "53845666",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "AnnieCushing",
+					"name": "Annie Cushing",
+					"id": 15909582,
+					"id_str": "15909582",
+					"indices": [
+						32,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 797290190343721000,
+		"in_reply_to_status_id_str": "797290190343720961",
+		"in_reply_to_user_id": 53845666,
+		"in_reply_to_user_id_str": "53845666",
+		"in_reply_to_screen_name": "MasoomJethwa",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11726,
+			"friends_count": 7053,
+			"listed_count": 1048,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1666,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7128,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 12 04:07:25 +0000 2016",
+		"id": 797289671982096400,
+		"id_str": "797289671982096384",
+		"text": "RT @AnnieCushing: 😂 https://t.co/AP9OlbZgL1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnnieCushing",
+					"name": "Annie Cushing",
+					"id": 15909582,
+					"id_str": "15909582",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 797125519388966900,
+					"id_str": "797125519388966912",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/Cw_1b8CUAAAk6SJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cw_1b8CUAAAk6SJ.jpg",
+					"url": "https://t.co/AP9OlbZgL1",
+					"display_url": "pic.twitter.com/AP9OlbZgL1",
+					"expanded_url": "https://twitter.com/AnnieCushing/status/797125691624001536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 643,
+							"h": 826,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 643,
+							"h": 826,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 797125691624001500,
+					"source_status_id_str": "797125691624001536",
+					"source_user_id": 15909582,
+					"source_user_id_str": "15909582"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 797125519388966900,
+					"id_str": "797125519388966912",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/Cw_1b8CUAAAk6SJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cw_1b8CUAAAk6SJ.jpg",
+					"url": "https://t.co/AP9OlbZgL1",
+					"display_url": "pic.twitter.com/AP9OlbZgL1",
+					"expanded_url": "https://twitter.com/AnnieCushing/status/797125691624001536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 643,
+							"h": 826,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 643,
+							"h": 826,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 797125691624001500,
+					"source_status_id_str": "797125691624001536",
+					"source_user_id": 15909582,
+					"source_user_id_str": "15909582"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11726,
+			"friends_count": 7053,
+			"listed_count": 1048,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1666,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7128,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 11 17:15:49 +0000 2016",
+			"id": 797125691624001500,
+			"id_str": "797125691624001536",
+			"text": "😂 https://t.co/AP9OlbZgL1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 797125519388966900,
+						"id_str": "797125519388966912",
+						"indices": [
+							2,
+							25
+						],
+						"media_url": "http://pbs.twimg.com/media/Cw_1b8CUAAAk6SJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cw_1b8CUAAAk6SJ.jpg",
+						"url": "https://t.co/AP9OlbZgL1",
+						"display_url": "pic.twitter.com/AP9OlbZgL1",
+						"expanded_url": "https://twitter.com/AnnieCushing/status/797125691624001536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 643,
+								"h": 826,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 643,
+								"h": 826,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 529,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 797125519388966900,
+						"id_str": "797125519388966912",
+						"indices": [
+							2,
+							25
+						],
+						"media_url": "http://pbs.twimg.com/media/Cw_1b8CUAAAk6SJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cw_1b8CUAAAk6SJ.jpg",
+						"url": "https://t.co/AP9OlbZgL1",
+						"display_url": "pic.twitter.com/AP9OlbZgL1",
+						"expanded_url": "https://twitter.com/AnnieCushing/status/797125691624001536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 643,
+								"h": 826,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 643,
+								"h": 826,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 529,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15909582,
+				"id_str": "15909582",
+				"name": "Annie Cushing",
+				"screen_name": "AnnieCushing",
+				"location": "Philadelphia, PA",
+				"description": "I make data sexy.",
+				"url": "https://t.co/4IiSXwRBrC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4IiSXwRBrC",
+								"expanded_url": "http://www.annielytics.com",
+								"display_url": "annielytics.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23553,
+				"friends_count": 1092,
+				"listed_count": 1634,
+				"created_at": "Tue Aug 19 21:06:06 +0000 2008",
+				"favourites_count": 2185,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 55208,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/409288677/roller-coaster.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/409288677/roller-coaster.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/684815739551911937/bfw6W-KE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/684815739551911937/bfw6W-KE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15909582/1460891823",
+				"profile_link_color": "33C82B",
+				"profile_sidebar_border_color": "1C9FDB",
+				"profile_sidebar_fill_color": "62E9EE",
+				"profile_text_color": "2977FF",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sat Nov 12 04:03:01 +0000 2016",
+		"id": 797288564006457300,
+		"id_str": "797288564006457344",
+		"text": "5 Reasons Every Startup Needs to Start Measuring NPS via @Techstars and @danerobert https://t.co/KF3BF0oiTT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "techstars",
+					"name": "techstars",
+					"id": 14277276,
+					"id_str": "14277276",
+					"indices": [
+						57,
+						67
+					]
+				},
+				{
+					"screen_name": "danerobert",
+					"name": "Dana Severson",
+					"id": 17868817,
+					"id_str": "17868817",
+					"indices": [
+						72,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KF3BF0oiTT",
+					"expanded_url": "http://buff.ly/2eo8YqR",
+					"display_url": "buff.ly/2eo8YqR",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11726,
+			"friends_count": 7053,
+			"listed_count": 1048,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1666,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7128,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 12 02:57:09 +0000 2016",
 		"id": 797271989220085800,
 		"id_str": "797271989220085760",
