@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sun Nov 13 02:01:50 +0000 2016",
+		"id": 797620454655545300,
+		"id_str": "797620454655545344",
+		"text": "Yes! @kheinze1 AGEE! @anncradyweiss wrote a great piece, that any woman in #investing whether #VC or #privateequity… https://t.co/WELbwqpkX3",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "investing",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"text": "VC",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "privateequity",
+					"indices": [
+						101,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kheinze1",
+					"name": "kheinze",
+					"id": 1513938108,
+					"id_str": "1513938108",
+					"indices": [
+						5,
+						14
+					]
+				},
+				{
+					"screen_name": "anncradyweiss",
+					"name": "Ann Crady Weiss",
+					"id": 3839924539,
+					"id_str": "3839924539",
+					"indices": [
+						21,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WELbwqpkX3",
+					"expanded_url": "https://twitter.com/i/web/status/797620454655545344",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11740,
+			"friends_count": 7058,
+			"listed_count": 1055,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1693,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7157,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 797612591707254800,
+		"quoted_status_id_str": "797612591707254784",
+		"quoted_status": {
+			"created_at": "Sun Nov 13 01:30:35 +0000 2016",
+			"id": 797612591707254800,
+			"id_str": "797612591707254784",
+			"text": "She hits on a lot of great points and topics. The human connection part rings true in #privateequity investing too. https://t.co/HTS5Oc2HBR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "privateequity",
+						"indices": [
+							86,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HTS5Oc2HBR",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/797590595065692160",
+						"display_url": "twitter.com/debbiediscover…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1513938108,
+				"id_str": "1513938108",
+				"name": "kheinze",
+				"screen_name": "kheinze1",
+				"location": "Chicago, IL",
+				"description": "Partner & co-founder at ParkerGale Capital. Mom of 2 awesome kids & a crazy German Shorthair Pointer. Love all things #privateequity #fitness #outdoors #travel",
+				"url": "https://t.co/eZkbd3fQAx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eZkbd3fQAx",
+								"expanded_url": "http://parkergale.com",
+								"display_url": "parkergale.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 589,
+				"friends_count": 659,
+				"listed_count": 50,
+				"created_at": "Thu Jun 13 17:16:37 +0000 2013",
+				"favourites_count": 2203,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 399,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/616600028510056448/Yd7waaNY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/616600028510056448/Yd7waaNY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1513938108/1435843877",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 797590595065692200,
+			"quoted_status_id_str": "797590595065692160",
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Nov 13 00:06:50 +0000 2016",
 		"id": 797591516113813500,
 		"id_str": "797591516113813505",
