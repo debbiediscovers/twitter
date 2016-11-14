@@ -1,6 +1,532 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Mon Nov 14 10:11:21 +0000 2016",
+		"id": 798106034883563500,
+		"id_str": "798106034883563520",
+		"text": "RT @MSocialBusiness: How to Discover Secret Canva Design Templates! #Hack! https://t.co/losN0jWbMa via @debbiediscovers https://t.co/2ElvBk…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Hack",
+					"indices": [
+						68,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MSocialBusiness",
+					"name": "Max. Social Business",
+					"id": 56554540,
+					"id_str": "56554540",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						103,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/losN0jWbMa",
+					"expanded_url": "https://www.mhb.io/e/274am/7a",
+					"display_url": "mhb.io/e/274am/7a",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11752,
+			"friends_count": 7119,
+			"listed_count": 1059,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1702,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7167,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 10:10:22 +0000 2016",
+			"id": 798105789604905000,
+			"id_str": "798105789604904960",
+			"text": "How to Discover Secret Canva Design Templates! #Hack! https://t.co/losN0jWbMa via @debbiediscovers https://t.co/2ElvBktlrA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Hack",
+						"indices": [
+							47,
+							52
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							82,
+							98
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/losN0jWbMa",
+						"expanded_url": "https://www.mhb.io/e/274am/7a",
+						"display_url": "mhb.io/e/274am/7a",
+						"indices": [
+							54,
+							77
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 798105787184873500,
+						"id_str": "798105787184873472",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/CxNw_CJWgAACQY2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxNw_CJWgAACQY2.jpg",
+						"url": "https://t.co/2ElvBktlrA",
+						"display_url": "pic.twitter.com/2ElvBktlrA",
+						"expanded_url": "https://twitter.com/MSocialBusiness/status/798105789604904960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 798105787184873500,
+						"id_str": "798105787184873472",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/CxNw_CJWgAACQY2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxNw_CJWgAACQY2.jpg",
+						"url": "https://t.co/2ElvBktlrA",
+						"display_url": "pic.twitter.com/2ElvBktlrA",
+						"expanded_url": "https://twitter.com/MSocialBusiness/status/798105789604904960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.markethub.io\" rel=\"nofollow\">MarketHub</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 56554540,
+				"id_str": "56554540",
+				"name": "Max. Social Business",
+				"screen_name": "MSocialBusiness",
+				"location": "Irvine, Orange County, CA, USA",
+				"description": "Your corporate social media for business resource featuring expert contributions from industry peers. #socialmedia #marketing #smm #socialbusiness",
+				"url": "http://t.co/ZEloNDdm3r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ZEloNDdm3r",
+								"expanded_url": "http://maximizesocialbusiness.com",
+								"display_url": "maximizesocialbusiness.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38062,
+				"friends_count": 24537,
+				"listed_count": 2378,
+				"created_at": "Tue Jul 14 00:55:30 +0000 2009",
+				"favourites_count": 19,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25339,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000110656558/79886468d65523e0d4388e54aea69471.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000110656558/79886468d65523e0d4388e54aea69471.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000704743258/52c7d1c9e89985f17d0f0b558288ac1d_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000704743258/52c7d1c9e89985f17d0f0b558288ac1d_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/56554540/1383767305",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 09:57:50 +0000 2016",
+		"id": 798102635517603800,
+		"id_str": "798102635517603841",
+		"text": "#LOVE!! Put the customer first! Even if it means sending them to competitors\nhttps://t.co/cRJnovCDfB Thanks @avinash https://t.co/rPAwqUmQAP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOVE",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "avinash",
+					"name": "Avinash Kaushik",
+					"id": 15662446,
+					"id_str": "15662446",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cRJnovCDfB",
+					"expanded_url": "https://madmimi.com/p/1b4409?fe=1&pact=308655-135426815-9001728157-1abbab59f57582e524ccaf03bbd881f46ce12a29",
+					"display_url": "madmimi.com/p/1b4409?fe=1&…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 798102313323741200,
+					"id_str": "798102313323741184",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CxNt01AUQAAv0CN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxNt01AUQAAv0CN.jpg",
+					"url": "https://t.co/rPAwqUmQAP",
+					"display_url": "pic.twitter.com/rPAwqUmQAP",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/798102635517603841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 563,
+							"h": 164,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 563,
+							"h": 164,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 563,
+							"h": 164,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 798102313323741200,
+					"id_str": "798102313323741184",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CxNt01AUQAAv0CN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxNt01AUQAAv0CN.jpg",
+					"url": "https://t.co/rPAwqUmQAP",
+					"display_url": "pic.twitter.com/rPAwqUmQAP",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/798102635517603841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 563,
+							"h": 164,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 563,
+							"h": 164,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 563,
+							"h": 164,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://chrome.google.com/webstore/detail/chirp-for-twitter/mlocpcjojbacdcajmjmlfonfibnleede\" rel=\"nofollow\">Chirp (Twitter Chrome extension)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11752,
+			"friends_count": 7119,
+			"listed_count": 1059,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 1702,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7167,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 14 03:50:28 +0000 2016",
 		"id": 798010184316485600,
 		"id_str": "798010184316485633",
