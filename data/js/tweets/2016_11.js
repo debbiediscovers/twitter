@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Fri Nov 18 14:17:02 +0000 2016",
+		"id": 799617413117407200,
+		"id_str": "799617413117407232",
+		"text": "RT @monkshillvc: Peng T. Ong talks about how to pitch to investors &amp; Southeast Asia investment trends with @edithyeung of @500Startups at H…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "monkshillvc",
+					"name": "Monk's Hill Ventures",
+					"id": 2467054682,
+					"id_str": "2467054682",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "edithyeung",
+					"name": "Edith Yeung",
+					"id": 5949972,
+					"id_str": "5949972",
+					"indices": [
+						111,
+						122
+					]
+				},
+				{
+					"screen_name": "500Startups",
+					"name": "500 Startups",
+					"id": 168857946,
+					"id_str": "168857946",
+					"indices": [
+						126,
+						138
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11752,
+			"friends_count": 7131,
+			"listed_count": 1067,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2380,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7229,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 16 08:45:13 +0000 2016",
+			"id": 798809133730308100,
+			"id_str": "798809133730308096",
+			"text": "Peng T. Ong talks about how to pitch to investors &amp; Southeast Asia investment trends with @edithyeung of… https://t.co/2Au1fqEB5b",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "edithyeung",
+						"name": "Edith Yeung",
+						"id": 5949972,
+						"id_str": "5949972",
+						"indices": [
+							94,
+							105
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2Au1fqEB5b",
+						"expanded_url": "https://twitter.com/i/web/status/798809133730308096",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2467054682,
+				"id_str": "2467054682",
+				"name": "Monk's Hill Ventures",
+				"screen_name": "monkshillvc",
+				"location": "SE Asia",
+				"description": "VC firm investing in post-seed tech startups in Southeast Asia as entrepreneurs backing entrepreneurs.",
+				"url": "http://t.co/AT8Ur0pY6N",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/AT8Ur0pY6N",
+								"expanded_url": "http://www.monkshill.com",
+								"display_url": "monkshill.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 474,
+				"friends_count": 23,
+				"listed_count": 46,
+				"created_at": "Mon Apr 28 01:53:39 +0000 2014",
+				"favourites_count": 65,
+				"utc_offset": 25200,
+				"time_zone": "Jakarta",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 299,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/524763726432309249/Y_azAHBa_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/524763726432309249/Y_azAHBa_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2467054682/1442421380",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "35fd5bacecc4c6e5",
+				"url": "https://api.twitter.com/1.1/geo/id/35fd5bacecc4c6e5.json",
+				"place_type": "country",
+				"name": "Hong Kong",
+				"full_name": "Hong Kong",
+				"country_code": "HK",
+				"country": "Hong Kong",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								113.81813,
+								22.1465116
+							],
+							[
+								114.502196,
+								22.1465116
+							],
+							[
+								114.502196,
+								22.614177
+							],
+							[
+								113.81813,
+								22.614177
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 18 10:45:39 +0000 2016",
 		"id": 799564218756235300,
 		"id_str": "799564218756235264",
