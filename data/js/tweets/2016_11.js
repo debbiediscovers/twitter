@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sat Nov 19 00:34:44 +0000 2016",
+		"id": 799772865348255700,
+		"id_str": "799772865348255744",
+		"text": "RT @KimWhitler: @mschinelli Terrific advice that many #CMOs agree with!\n\n https://t.co/pTPjIdXbro",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CMOs",
+					"indices": [
+						54,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KimWhitler",
+					"name": "Kimberly Whitler",
+					"id": 273661708,
+					"id_str": "273661708",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "mschinelli",
+					"name": "Michael Schinelli",
+					"id": 96261357,
+					"id_str": "96261357",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pTPjIdXbro",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/799322415369064449",
+					"display_url": "twitter.com/debbiediscover…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11760,
+			"friends_count": 7133,
+			"listed_count": 1067,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2384,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7234,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 18 19:05:52 +0000 2016",
+			"id": 799690103744565200,
+			"id_str": "799690103744565248",
+			"text": "@mschinelli Terrific advice that many #CMOs agree with!\n\n https://t.co/pTPjIdXbro",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CMOs",
+						"indices": [
+							38,
+							43
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mschinelli",
+						"name": "Michael Schinelli",
+						"id": 96261357,
+						"id_str": "96261357",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/pTPjIdXbro",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/799322415369064449",
+						"display_url": "twitter.com/debbiediscover…",
+						"indices": [
+							58,
+							81
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 96261357,
+			"in_reply_to_user_id_str": "96261357",
+			"in_reply_to_screen_name": "mschinelli",
+			"user": {
+				"id": 273661708,
+				"id_str": "273661708",
+				"name": "Kimberly Whitler",
+				"screen_name": "KimWhitler",
+				"location": "Charlottesville Virginia",
+				"description": "Former #CMO | Prof at Darden Business School | Forbes and https://t.co/gmRQFvc4Aw Contributor |  Desire to help CMOs Grow & Succeed |  tweets are my own",
+				"url": "http://t.co/J7FOiIZ0YU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/J7FOiIZ0YU",
+								"expanded_url": "http://blogs.forbes.com/kimberlywhitler/",
+								"display_url": "blogs.forbes.com/kimberlywhitle…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gmRQFvc4Aw",
+								"expanded_url": "http://CMO.com",
+								"display_url": "CMO.com",
+								"indices": [
+									58,
+									81
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 11747,
+				"friends_count": 10268,
+				"listed_count": 670,
+				"created_at": "Mon Mar 28 22:50:02 +0000 2011",
+				"favourites_count": 2072,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17720,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/682306343/afc794e8fa525e4055a07235f284941f.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/682306343/afc794e8fa525e4055a07235f284941f.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/560451859484123136/_onnki5Y_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/560451859484123136/_onnki5Y_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/273661708/1458919742",
+				"profile_link_color": "5A5247",
+				"profile_sidebar_border_color": "794725",
+				"profile_sidebar_fill_color": "1D130D",
+				"profile_text_color": "AA642E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 799322415369064400,
+			"quoted_status_id_str": "799322415369064449",
+			"quoted_status": {
+				"created_at": "Thu Nov 17 18:44:49 +0000 2016",
+				"id": 799322415369064400,
+				"id_str": "799322415369064449",
+				"text": "My favourite prediction by @mschinelli  @kimwhitler 2017 may be too early for widespread adoption but #Design will… https://t.co/MVifSyAgw3",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "Design",
+							"indices": [
+								102,
+								109
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "mschinelli",
+							"name": "Michael Schinelli",
+							"id": 96261357,
+							"id_str": "96261357",
+							"indices": [
+								27,
+								38
+							]
+						},
+						{
+							"screen_name": "KimWhitler",
+							"name": "Kimberly Whitler",
+							"id": 273661708,
+							"id_str": "273661708",
+							"indices": [
+								40,
+								51
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/MVifSyAgw3",
+							"expanded_url": "https://twitter.com/i/web/status/799322415369064449",
+							"display_url": "twitter.com/i/web/status/7…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"name": "Deborah Kay",
+					"screen_name": "debbiediscovers",
+					"location": "Central Region, Singapore",
+					"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+					"url": "https://t.co/o0MiAYiEuU",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/o0MiAYiEuU",
+									"expanded_url": "http://info.debbiediscovers.com",
+									"display_url": "info.debbiediscovers.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 11760,
+					"friends_count": 7133,
+					"listed_count": 1067,
+					"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+					"favourites_count": 2384,
+					"utc_offset": 28800,
+					"time_zone": "Singapore",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 7234,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EBEBEB",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+					"profile_link_color": "D50252",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 799320389860016100,
+				"quoted_status_id_str": "799320389860016128",
+				"retweet_count": 0,
+				"favorite_count": 4,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 799322415369064400,
+		"quoted_status_id_str": "799322415369064449",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 19 00:08:54 +0000 2016",
 		"id": 799766364395143200,
 		"id_str": "799766364395143168",
