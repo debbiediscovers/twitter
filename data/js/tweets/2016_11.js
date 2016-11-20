@@ -1,6 +1,565 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sun Nov 20 08:08:37 +0000 2016",
+		"id": 800249474681487400,
+		"id_str": "800249474681487360",
+		"text": "Disrupt Your Self Summary from @niklasgoeke's Four Min Books. #4MB\nhttps://t.co/TZiGZofzcQ Think I'll sleep on it https://t.co/efrHR2Cqqe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "4MB",
+					"indices": [
+						62,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NiklasGoeke",
+					"name": "Niklas Goeke",
+					"id": 1364467364,
+					"id_str": "1364467364",
+					"indices": [
+						31,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TZiGZofzcQ",
+					"expanded_url": "http://fourminutebooks.com/disrupt-yourself-summary/?utm_source=Four+Minute+Books&utm_campaign=3f264b0b63-4mb+19-11-16&utm_medium=email&utm_term=0_6f5c999eb2-3f264b0b63-255509429&goal=0_6f5c999eb2-3f264b0b63-255509429",
+					"display_url": "fourminutebooks.com/disrupt-yourse…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 800248721904521200,
+					"id_str": "800248721904521216",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/CxsN-QEUUAAQBzr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxsN-QEUUAAQBzr.jpg",
+					"url": "https://t.co/efrHR2Cqqe",
+					"display_url": "pic.twitter.com/efrHR2Cqqe",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/800249474681487360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 588,
+							"h": 278,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 588,
+							"h": 278,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 588,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 800248721904521200,
+					"id_str": "800248721904521216",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/CxsN-QEUUAAQBzr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxsN-QEUUAAQBzr.jpg",
+					"url": "https://t.co/efrHR2Cqqe",
+					"display_url": "pic.twitter.com/efrHR2Cqqe",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/800249474681487360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 588,
+							"h": 278,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 588,
+							"h": 278,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 588,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://chrome.google.com/webstore/detail/chirp-for-twitter/mlocpcjojbacdcajmjmlfonfibnleede\" rel=\"nofollow\">Chirp (Twitter Chrome extension)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11766,
+			"friends_count": 7175,
+			"listed_count": 1069,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2390,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 20 07:53:11 +0000 2016",
+		"id": 800245590864969700,
+		"id_str": "800245590864969728",
+		"text": "#ALERT @backlinko #SKYSCRAPER opportunity - someone needs to update this list of social media tools from 2012… https://t.co/Z8xG7vnDZk",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALERT",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "SKYSCRAPER",
+					"indices": [
+						18,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Backlinko",
+					"name": "Brian Dean",
+					"id": 949596536,
+					"id_str": "949596536",
+					"indices": [
+						7,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Z8xG7vnDZk",
+					"expanded_url": "https://twitter.com/i/web/status/800245590864969728",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11766,
+			"friends_count": 7175,
+			"listed_count": 1069,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2390,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 799976793021227000,
+		"quoted_status_id_str": "799976793021227008",
+		"quoted_status": {
+			"created_at": "Sat Nov 19 14:05:04 +0000 2016",
+			"id": 799976793021227000,
+			"id_str": "799976793021227008",
+			"text": "An incredible look at the social media landscape &amp; the 20 best new social media tools to try in 2016-17 🚀… https://t.co/Z21IBB7wqQ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Z21IBB7wqQ",
+						"expanded_url": "https://twitter.com/i/web/status/799976793021227008",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 197962366,
+				"id_str": "197962366",
+				"name": "Buffer",
+				"screen_name": "buffer",
+				"location": "We're Global!",
+				"description": "Simple and powerful social media scheduling, publishing & analytics! Social media insights at https://t.co/TiUBd9mtgF // @GetRespond // @PabloByBuffer 🖥📱🌎",
+				"url": "https://t.co/Ix2QkeH9KC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ix2QkeH9KC",
+								"expanded_url": "http://buffer.com",
+								"display_url": "buffer.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TiUBd9mtgF",
+								"expanded_url": "http://blog.bufferapp.com",
+								"display_url": "blog.bufferapp.com",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 701534,
+				"friends_count": 64791,
+				"listed_count": 13127,
+				"created_at": "Sat Oct 02 23:38:45 +0000 2010",
+				"favourites_count": 273453,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 329922,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D6EAF8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/711360318262218752/wdl3jY5t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/711360318262218752/wdl3jY5t_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/197962366/1469567420",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "5C5C5C",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 20 07:50:44 +0000 2016",
+		"id": 800244974390345700,
+		"id_str": "800244974390345728",
+		"text": "@teufelchristoph @buffer @Brian_G_Peters that's what I was going to say haha",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "teufelchristoph",
+					"name": "Christoph Teufel  🚀",
+					"id": 349581778,
+					"id_str": "349581778",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "buffer",
+					"name": "Buffer",
+					"id": 197962366,
+					"id_str": "197962366",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"screen_name": "Brian_G_Peters",
+					"name": "Brian Peters 🌎 🚌💨",
+					"id": 218393841,
+					"id_str": "218393841",
+					"indices": [
+						25,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://chrome.google.com/webstore/detail/chirp-for-twitter/mlocpcjojbacdcajmjmlfonfibnleede\" rel=\"nofollow\">Chirp (Twitter Chrome extension)</a>",
+		"in_reply_to_status_id": 800125390706577400,
+		"in_reply_to_status_id_str": "800125390706577408",
+		"in_reply_to_user_id": 349581778,
+		"in_reply_to_user_id_str": "349581778",
+		"in_reply_to_screen_name": "teufelchristoph",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11766,
+			"friends_count": 7175,
+			"listed_count": 1069,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2390,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Nov 20 02:51:21 +0000 2016",
 		"id": 800169634666135600,
 		"id_str": "800169634666135553",
