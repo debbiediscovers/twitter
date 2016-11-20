@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sun Nov 20 22:47:04 +0000 2016",
+		"id": 800470545443655700,
+		"id_str": "800470545443655681",
+		"text": "RT @johnmaeda: “‘Creativity’ may not be the magic bullet -- but creative people are.” —Valerie Casey (@designersaccord) on https://t.co/4py…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johnmaeda",
+					"name": "John Maeda",
+					"id": 15414807,
+					"id_str": "15414807",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "designersaccord",
+					"name": "Valerie Casey",
+					"id": 14245867,
+					"id_str": "14245867",
+					"indices": [
+						102,
+						118
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11772,
+			"friends_count": 7175,
+			"listed_count": 1068,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2395,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7249,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 12 03:50:51 +0000 2016",
+			"id": 797285504966398000,
+			"id_str": "797285504966397952",
+			"text": "“‘Creativity’ may not be the magic bullet -- but creative people are.” —Valerie Casey (@designersaccord) on https://t.co/4pyFNAsjbz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "designersaccord",
+						"name": "Valerie Casey",
+						"id": 14245867,
+						"id_str": "14245867",
+						"indices": [
+							87,
+							103
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4pyFNAsjbz",
+						"expanded_url": "http://Design.blog",
+						"display_url": "Design.blog",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15414807,
+				"id_str": "15414807",
+				"name": "John Maeda",
+				"screen_name": "johnmaeda",
+				"location": "#DesignInTech",
+				"description": "https://t.co/TeM5rAJ1R8 @Automattic | @WordPress | KPCB | Sonos | W+K | STEM to STEAM | @designdotco | Member AGI",
+				"url": "https://t.co/RUyOxG1UZo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RUyOxG1UZo",
+								"expanded_url": "http://skl.sh/maeda",
+								"display_url": "skl.sh/maeda",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TeM5rAJ1R8",
+								"expanded_url": "http://Design.blog",
+								"display_url": "Design.blog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 435943,
+				"friends_count": 20604,
+				"listed_count": 9662,
+				"created_at": "Sun Jul 13 13:51:22 +0000 2008",
+				"favourites_count": 10550,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11645,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "AEA79F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493462294504812544/X0naMjbb.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493462294504812544/X0naMjbb.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/749782211054952448/_qeErSoY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/749782211054952448/_qeErSoY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15414807/1471544230",
+				"profile_link_color": "332E2C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 60,
+			"favorite_count": 102,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Nov 20 15:43:53 +0000 2016",
 		"id": 800364047275130900,
 		"id_str": "800364047275130880",
