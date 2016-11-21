@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Mon Nov 21 11:48:32 +0000 2016",
+		"id": 800667207994777600,
+		"id_str": "800667207994777600",
+		"text": "RT @VladoBotsvadze: The future of #retail - 45 #AI #startups targeting the retail industry. https://t.co/BP65JxQZsL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "retail",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "startups",
+					"indices": [
+						51,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VladoBotsvadze",
+					"name": "Vladimer Botsvadze",
+					"id": 373883201,
+					"id_str": "373883201",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 800483440537862100,
+					"id_str": "800483440537862144",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/CxvjcrHXgAAT9AU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxvjcrHXgAAT9AU.jpg",
+					"url": "https://t.co/BP65JxQZsL",
+					"display_url": "pic.twitter.com/BP65JxQZsL",
+					"expanded_url": "https://twitter.com/VladoBotsvadze/status/800483493583159296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1056,
+							"h": 442,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1056,
+							"h": 442,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 800483493583159300,
+					"source_status_id_str": "800483493583159296",
+					"source_user_id": 373883201,
+					"source_user_id_str": "373883201"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 800483440537862100,
+					"id_str": "800483440537862144",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/CxvjcrHXgAAT9AU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxvjcrHXgAAT9AU.jpg",
+					"url": "https://t.co/BP65JxQZsL",
+					"display_url": "pic.twitter.com/BP65JxQZsL",
+					"expanded_url": "https://twitter.com/VladoBotsvadze/status/800483493583159296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1056,
+							"h": 442,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1056,
+							"h": 442,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 800483493583159300,
+					"source_status_id_str": "800483493583159296",
+					"source_user_id": 373883201,
+					"source_user_id_str": "373883201"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11776,
+			"friends_count": 7179,
+			"listed_count": 1069,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2400,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7256,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 20 23:38:31 +0000 2016",
+			"id": 800483493583159300,
+			"id_str": "800483493583159296",
+			"text": "The future of #retail - 45 #AI #startups targeting the retail industry. https://t.co/BP65JxQZsL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "retail",
+						"indices": [
+							14,
+							21
+						]
+					},
+					{
+						"text": "AI",
+						"indices": [
+							27,
+							30
+						]
+					},
+					{
+						"text": "startups",
+						"indices": [
+							31,
+							40
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 800483440537862100,
+						"id_str": "800483440537862144",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/CxvjcrHXgAAT9AU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxvjcrHXgAAT9AU.jpg",
+						"url": "https://t.co/BP65JxQZsL",
+						"display_url": "pic.twitter.com/BP65JxQZsL",
+						"expanded_url": "https://twitter.com/VladoBotsvadze/status/800483493583159296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1056,
+								"h": 442,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 285,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1056,
+								"h": 442,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 800483440537862100,
+						"id_str": "800483440537862144",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/CxvjcrHXgAAT9AU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxvjcrHXgAAT9AU.jpg",
+						"url": "https://t.co/BP65JxQZsL",
+						"display_url": "pic.twitter.com/BP65JxQZsL",
+						"expanded_url": "https://twitter.com/VladoBotsvadze/status/800483493583159296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1056,
+								"h": 442,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 285,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1056,
+								"h": 442,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 373883201,
+				"id_str": "373883201",
+				"name": "Vladimer Botsvadze",
+				"screen_name": "VladoBotsvadze",
+				"location": "Global Citizen ✈️",
+				"description": "Award-Winning Entrepreneur | Most Influential Marketer in the UAE | Professor | Social Media Strategist | Fortune 500 Consultant | Mentor | Trainer | Speaker",
+				"url": "https://t.co/dQlXxyf63C",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dQlXxyf63C",
+								"expanded_url": "http://vladimerbotsvadze.com/",
+								"display_url": "vladimerbotsvadze.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23443,
+				"friends_count": 21934,
+				"listed_count": 3308,
+				"created_at": "Thu Sep 15 10:21:10 +0000 2011",
+				"favourites_count": 10780,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 49915,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/688345695053565952/eIVBBWM3.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/688345695053565952/eIVBBWM3.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/666239469130006528/7Ffprr69_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/666239469130006528/7Ffprr69_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/373883201/1449589937",
+				"profile_link_color": "000CF5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 21 07:23:34 +0000 2016",
 		"id": 800600525133647900,
 		"id_str": "800600525133647872",
