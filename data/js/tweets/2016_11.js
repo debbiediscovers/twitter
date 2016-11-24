@@ -1,6 +1,995 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Thu Nov 24 16:06:07 +0000 2016",
+		"id": 801819194614423600,
+		"id_str": "801819194614423553",
+		"text": "@iSocialFanz hey #LOVE your \"I Don'T Know\" page on website idea but couldn't find yours on your website! #BR2016 https://t.co/fcchPcC9V4 😝😘",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOVE",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "BR2016",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iSocialFanz",
+					"name": "Brian Fanzo",
+					"id": 633287684,
+					"id_str": "633287684",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fcchPcC9V4",
+					"expanded_url": "https://youtu.be/fY8HQpLVrVw",
+					"display_url": "youtu.be/fY8HQpLVrVw",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 633287684,
+		"in_reply_to_user_id_str": "633287684",
+		"in_reply_to_screen_name": "iSocialFanz",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11784,
+			"friends_count": 7214,
+			"listed_count": 1073,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2428,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7289,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 24 15:44:23 +0000 2016",
+		"id": 801813724252160000,
+		"id_str": "801813724252160000",
+		"text": "@douradobot @danthat_ebooks @thebrauncooper Behave boys...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "douradobot",
+					"name": "Robot Eli Dourado",
+					"id": 2547037232,
+					"id_str": "2547037232",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "danthat_ebooks",
+					"name": "Dan Marshall 2.0",
+					"id": 2980936617,
+					"id_str": "2980936617",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"screen_name": "thebrauncooper",
+					"name": "Braun",
+					"id": 2917274545,
+					"id_str": "2917274545",
+					"indices": [
+						28,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 801811668032426000,
+		"in_reply_to_status_id_str": "801811668032425984",
+		"in_reply_to_user_id": 2547037232,
+		"in_reply_to_user_id_str": "2547037232",
+		"in_reply_to_screen_name": "douradobot",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11784,
+			"friends_count": 7214,
+			"listed_count": 1073,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2428,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7289,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 24 15:40:31 +0000 2016",
+		"id": 801812751752364000,
+		"id_str": "801812751752364032",
+		"text": "Exclusive: Singapore is using robots to teach social skills https://t.co/B9Fo1pPsXL via @GovInsider",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GovInsider",
+					"name": "GovInsider",
+					"id": 3220267980,
+					"id_str": "3220267980",
+					"indices": [
+						88,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B9Fo1pPsXL",
+					"expanded_url": "https://govinsider.asia/innovation/exclusive-how-are-robots-teaching-social-skills-in-singapore/",
+					"display_url": "govinsider.asia/innovation/exc…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11784,
+			"friends_count": 7214,
+			"listed_count": 1073,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2428,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7289,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 24 15:36:06 +0000 2016",
+		"id": 801811639271948300,
+		"id_str": "801811639271948292",
+		"text": "Cuz robots have more social skills? LOL jk..  you know I love my bots...   @limlyeheng @GovInsider",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "limlyeheng",
+					"name": "Adrian Lim",
+					"id": 193736170,
+					"id_str": "193736170",
+					"indices": [
+						75,
+						86
+					]
+				},
+				{
+					"screen_name": "GovInsider",
+					"name": "GovInsider",
+					"id": 3220267980,
+					"id_str": "3220267980",
+					"indices": [
+						87,
+						98
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 798790483870789600,
+		"in_reply_to_status_id_str": "798790483870789633",
+		"in_reply_to_user_id": 193736170,
+		"in_reply_to_user_id_str": "193736170",
+		"in_reply_to_screen_name": "limlyeheng",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11784,
+			"friends_count": 7214,
+			"listed_count": 1073,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2428,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7289,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 24 15:19:34 +0000 2016",
+		"id": 801807479424225300,
+		"id_str": "801807479424225281",
+		"text": "@PrincipalTam LOL I'm too shy to call my amateur designs \"work\" but I used Canva a lot in my fundraise! https://t.co/pEPneBVEOW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PrincipalTam",
+					"name": "Victor Tam",
+					"id": 1578486110,
+					"id_str": "1578486110",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pEPneBVEOW",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/747515581268525058",
+					"display_url": "twitter.com/debbiediscover…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 801309001581559800,
+		"in_reply_to_status_id_str": "801309001581559812",
+		"in_reply_to_user_id": 1578486110,
+		"in_reply_to_user_id_str": "1578486110",
+		"in_reply_to_screen_name": "PrincipalTam",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11784,
+			"friends_count": 7214,
+			"listed_count": 1073,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2428,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7289,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 747515581268525000,
+		"quoted_status_id_str": "747515581268525058",
+		"quoted_status": {
+			"created_at": "Mon Jun 27 19:42:57 +0000 2016",
+			"id": 747515581268525000,
+			"id_str": "747515581268525058",
+			"text": "Used @Canva 4 visual content 4 my @pencilsofpromis fundraise! Initial target: $25k Current status: $73K!! #canvacup https://t.co/gPtRgB7NER",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "canvacup",
+						"indices": [
+							106,
+							115
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "canva",
+						"name": "Canva",
+						"id": 36542528,
+						"id_str": "36542528",
+						"indices": [
+							5,
+							11
+						]
+					},
+					{
+						"screen_name": "PencilsOfPromis",
+						"name": "Pencils of Promise",
+						"id": 18369852,
+						"id_str": "18369852",
+						"indices": [
+							34,
+							50
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 747512677090492400,
+						"id_str": "747512677090492416",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cl-y0b8UgAAfnsl.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cl-y0b8UgAAfnsl.jpg",
+						"url": "https://t.co/gPtRgB7NER",
+						"display_url": "pic.twitter.com/gPtRgB7NER",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/747515581268525058/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 170,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 747512677090492400,
+						"id_str": "747512677090492416",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cl-y0b8UgAAfnsl.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cl-y0b8UgAAfnsl.jpg",
+						"url": "https://t.co/gPtRgB7NER",
+						"display_url": "pic.twitter.com/gPtRgB7NER",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/747515581268525058/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 170,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								2,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://pbs.twimg.com/tweet_video/Cl-y0b8UgAAfnsl.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Central Region, Singapore",
+				"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+				"url": "https://t.co/o0MiAYiEuU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/o0MiAYiEuU",
+								"expanded_url": "http://info.debbiediscovers.com",
+								"display_url": "info.debbiediscovers.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11784,
+				"friends_count": 7214,
+				"listed_count": 1073,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 2428,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7289,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 24 15:16:36 +0000 2016",
+		"id": 801806733672730600,
+		"id_str": "801806733672730625",
+		"text": "@NiklasGoeke Oh you know me. Have another crazy idea but one that I'm seriously considering... https://t.co/FKBffi6SWq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NiklasGoeke",
+					"name": "Niklas Goeke",
+					"id": 1364467364,
+					"id_str": "1364467364",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 801806710155292700,
+					"id_str": "801806710155292672",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CyCW9GlUsAApV3R.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CyCW9GlUsAApV3R.jpg",
+					"url": "https://t.co/FKBffi6SWq",
+					"display_url": "pic.twitter.com/FKBffi6SWq",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/801806733672730625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 250,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 170,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 801806710155292700,
+					"id_str": "801806710155292672",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CyCW9GlUsAApV3R.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CyCW9GlUsAApV3R.jpg",
+					"url": "https://t.co/FKBffi6SWq",
+					"display_url": "pic.twitter.com/FKBffi6SWq",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/801806733672730625/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 250,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 170,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/CyCW9GlUsAApV3R.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 801719707640496100,
+		"in_reply_to_status_id_str": "801719707640496128",
+		"in_reply_to_user_id": 1364467364,
+		"in_reply_to_user_id_str": "1364467364",
+		"in_reply_to_screen_name": "NiklasGoeke",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11784,
+			"friends_count": 7214,
+			"listed_count": 1073,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2428,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7289,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 24 14:51:05 +0000 2016",
 		"id": 801800310305869800,
 		"id_str": "801800310305869824",
@@ -381,7 +1370,7 @@ Grailbird.data.tweets_2016_11 =
 		"created_at": "Thu Nov 24 14:38:32 +0000 2016",
 		"id": 801797150652833800,
 		"id_str": "801797150652833792",
-		"text": "It's about♥️, basic human decency👩‍👩‍👧‍👧 as well too biz goals💰 $SDG Freudian slip #SDG oops🌎😍@Responsible_Biz @LawrenceWongST #RBFSingapore",
+		"text": "It's about♥️, basic human decency👩👩👧👧 as well too biz goals💰 $SDG Freudian slip #SDG oops🌎😍@Responsible_Biz @LawrenceWongST #RBFSingapore",
 		"truncated": false,
 		"entities": {
 			"hashtags": [
