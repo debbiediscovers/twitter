@@ -1,6 +1,768 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Thu Nov 24 14:51:05 +0000 2016",
+		"id": 801800310305869800,
+		"id_str": "801800310305869824",
+		"text": "#YES But for our children's children's future, it has to start with #education. At home. About Why #GlobalGoals Mat… https://t.co/hfaCLuIhVX",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YES",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "education",
+					"indices": [
+						68,
+						78
+					]
+				},
+				{
+					"text": "GlobalGoals",
+					"indices": [
+						99,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hfaCLuIhVX",
+					"expanded_url": "https://twitter.com/i/web/status/801800310305869824",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11786,
+			"friends_count": 7214,
+			"listed_count": 1070,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2418,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7283,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 801597388741673000,
+		"quoted_status_id_str": "801597388741672960",
+		"quoted_status": {
+			"created_at": "Thu Nov 24 01:24:45 +0000 2016",
+			"id": 801597388741673000,
+			"id_str": "801597388741672960",
+			"text": "The #SDGs need you. But more importantly, we need to do this for our future, our children, our planet\" says Michell… https://t.co/3ecpfasruG",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SDGs",
+						"indices": [
+							4,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3ecpfasruG",
+						"expanded_url": "https://twitter.com/i/web/status/801597388741672960",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 295032345,
+				"id_str": "295032345",
+				"name": "UNDP Asia-Pacific",
+				"screen_name": "UNDPasiapac",
+				"location": "Bangkok, Thailand",
+				"description": "We're #development experts working in 36 countries in AsiaPac. We transformed Singapore, South Korea. Now we focus on #2030Agenda, #SDGs. We're part of @UNDP.",
+				"url": "https://t.co/Iaj0Yqus62",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Iaj0Yqus62",
+								"expanded_url": "http://asia-pacific.undp.org",
+								"display_url": "asia-pacific.undp.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13274,
+				"friends_count": 858,
+				"listed_count": 373,
+				"created_at": "Sun May 08 07:21:27 +0000 2011",
+				"favourites_count": 1376,
+				"utc_offset": 25200,
+				"time_zone": "Bangkok",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7157,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621587538382229504/AKV3GBr-.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621587538382229504/AKV3GBr-.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/606689221777104896/Cq-_y-vG_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/606689221777104896/Cq-_y-vG_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/295032345/1478257775",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7BC0E0",
+				"profile_text_color": "333033",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 24 14:41:29 +0000 2016",
+		"id": 801797896588771300,
+		"id_str": "801797896588771329",
+		"text": "What say @moesg take part in the @TES Largest Lesson in the World #GlobalGoals #GlobalEducation next year @LawrenceWongST #MakeHistory 🤓",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GlobalGoals",
+					"indices": [
+						66,
+						78
+					]
+				},
+				{
+					"text": "GlobalEducation",
+					"indices": [
+						79,
+						95
+					]
+				},
+				{
+					"text": "MakeHistory",
+					"indices": [
+						122,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MOEsg",
+					"name": "MOE Singapore",
+					"id": 76577609,
+					"id_str": "76577609",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"screen_name": "tes",
+					"name": "TES",
+					"id": 78874095,
+					"id_str": "78874095",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"screen_name": "LawrenceWongST",
+					"name": "Lawrence Wong",
+					"id": 282161299,
+					"id_str": "282161299",
+					"indices": [
+						106,
+						121
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 801797150652833800,
+		"in_reply_to_status_id_str": "801797150652833792",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11786,
+			"friends_count": 7214,
+			"listed_count": 1070,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2418,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7283,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 24 14:38:32 +0000 2016",
+		"id": 801797150652833800,
+		"id_str": "801797150652833792",
+		"text": "It's about♥️, basic human decency👩‍👩‍👧‍👧 as well too biz goals💰 $SDG Freudian slip #SDG oops🌎😍@Responsible_Biz @LawrenceWongST #RBFSingapore",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDG",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "RBFSingapore",
+					"indices": [
+						127,
+						140
+					]
+				}
+			],
+			"symbols": [
+				{
+					"text": "SDG",
+					"indices": [
+						64,
+						68
+					]
+				}
+			],
+			"user_mentions": [
+				{
+					"screen_name": "Responsible_Biz",
+					"name": "Responsible Business",
+					"id": 1559914512,
+					"id_str": "1559914512",
+					"indices": [
+						94,
+						110
+					]
+				},
+				{
+					"screen_name": "LawrenceWongST",
+					"name": "Lawrence Wong",
+					"id": 282161299,
+					"id_str": "282161299",
+					"indices": [
+						111,
+						126
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 801793710526636000,
+		"in_reply_to_status_id_str": "801793710526636032",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11786,
+			"friends_count": 7214,
+			"listed_count": 1070,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2418,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7283,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 24 14:24:51 +0000 2016",
+		"id": 801793710526636000,
+		"id_str": "801793710526636032",
+		"text": "Pinch me I'm dreaming.... did I just see Singapore minister mentioning $SDGs @Responsible_Biz @LawrenceWongST… https://t.co/hJiY54csqo",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [
+				{
+					"text": "SDGs",
+					"indices": [
+						71,
+						76
+					]
+				}
+			],
+			"user_mentions": [
+				{
+					"screen_name": "Responsible_Biz",
+					"name": "Responsible Business",
+					"id": 1559914512,
+					"id_str": "1559914512",
+					"indices": [
+						77,
+						93
+					]
+				},
+				{
+					"screen_name": "LawrenceWongST",
+					"name": "Lawrence Wong",
+					"id": 282161299,
+					"id_str": "282161299",
+					"indices": [
+						94,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hJiY54csqo",
+					"expanded_url": "https://twitter.com/i/web/status/801793710526636032",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/o0MiAYiEuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o0MiAYiEuU",
+							"expanded_url": "http://info.debbiediscovers.com",
+							"display_url": "info.debbiediscovers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11786,
+			"friends_count": 7214,
+			"listed_count": 1070,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2418,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7283,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 801236425958101000,
+		"quoted_status_id_str": "801236425958100993",
+		"quoted_status": {
+			"created_at": "Wed Nov 23 01:30:24 +0000 2016",
+			"id": 801236425958101000,
+			"id_str": "801236425958100993",
+			"text": "\"It's not only about CSR or donating millions of $. It's about aligning business outcomes w/ the #SDGs\"… https://t.co/Vc3udIMn3d",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SDGs",
+						"indices": [
+							97,
+							102
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Vc3udIMn3d",
+						"expanded_url": "https://twitter.com/i/web/status/801236425958100993",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1559914512,
+				"id_str": "1559914512",
+				"name": "Responsible Business",
+				"screen_name": "Responsible_Biz",
+				"location": "Singapore",
+				"description": "The 5th Responsible Business Forum on Sustainable Development will be held in Marina Bay Sands, Singapore, 22 – 24 Nov. 2016. https://t.co/x5yOdkuvZ2",
+				"url": "http://t.co/gn6i7WqeNg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/gn6i7WqeNg",
+								"expanded_url": "http://www.ResponsibleBusiness.com",
+								"display_url": "ResponsibleBusiness.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/x5yOdkuvZ2",
+								"expanded_url": "http://bit.ly/RBFSingapore2016",
+								"display_url": "bit.ly/RBFSingapore20…",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4907,
+				"friends_count": 744,
+				"listed_count": 215,
+				"created_at": "Mon Jul 01 07:45:58 +0000 2013",
+				"favourites_count": 674,
+				"utc_offset": 25200,
+				"time_zone": "Hanoi",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3379,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000013541485/da679759284a3fd34ffd8a674f66bcc1.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000013541485/da679759284a3fd34ffd8a674f66bcc1.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/801318383010582529/Xdf69EDM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/801318383010582529/Xdf69EDM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1559914512/1478580276",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 24 13:07:52 +0000 2016",
 		"id": 801774336998666200,
 		"id_str": "801774336998666240",
