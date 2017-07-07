@@ -1,6 +1,431 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Fri Jul 07 13:53:38 +0000 2017",
+		"id": 883323121951952900,
+		"id_str": "883323121951952896",
+		"text": "#Greatpost #Amen Snapchat Isn't a Fad. It's the Future of Brand Conversation https://t.co/MA9u0bmtYP via @hubspot @petesena",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Greatpost",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Amen",
+					"indices": [
+						11,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HubSpot",
+					"name": "HubSpot",
+					"id": 14458280,
+					"id_str": "14458280",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"screen_name": "petesena",
+					"name": "Peter Sena",
+					"id": 42950013,
+					"id_str": "42950013",
+					"indices": [
+						114,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MA9u0bmtYP",
+					"expanded_url": "https://blog.hubspot.com/agency/snapchat-future-brand",
+					"display_url": "blog.hubspot.com/agency/snapcha…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11408,
+			"friends_count": 7558,
+			"listed_count": 1017,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2485,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7349,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jul 07 13:12:17 +0000 2017",
+		"id": 883312717376897000,
+		"id_str": "883312717376897024",
+		"text": "RT @JonhaRichman: 16 Inspiring #Books Women Leaders Need to be Reading https://t.co/j0XWuLHla8 via @HuffPostWomen #WiT #tech",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Books",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "WiT",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "tech",
+					"indices": [
+						119,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JonhaRichman",
+					"name": "Jonha Richman",
+					"id": 25622848,
+					"id_str": "25622848",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "HuffPostWomen",
+					"name": "HuffPostWomen",
+					"id": 309978842,
+					"id_str": "309978842",
+					"indices": [
+						99,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j0XWuLHla8",
+					"expanded_url": "http://www.huffingtonpost.com/jonha-revesencio/16-books-aspiring-women-l_b_11090646.html",
+					"display_url": "huffingtonpost.com/jonha-revesenc…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11408,
+			"friends_count": 7558,
+			"listed_count": 1017,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2485,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7349,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 20 00:48:01 +0000 2017",
+			"id": 822244255263584300,
+			"id_str": "822244255263584256",
+			"text": "16 Inspiring #Books Women Leaders Need to be Reading https://t.co/j0XWuLHla8 via @HuffPostWomen #WiT #tech",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Books",
+						"indices": [
+							13,
+							19
+						]
+					},
+					{
+						"text": "WiT",
+						"indices": [
+							96,
+							100
+						]
+					},
+					{
+						"text": "tech",
+						"indices": [
+							101,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HuffPostWomen",
+						"name": "HuffPostWomen",
+						"id": 309978842,
+						"id_str": "309978842",
+						"indices": [
+							81,
+							95
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/j0XWuLHla8",
+						"expanded_url": "http://www.huffingtonpost.com/jonha-revesencio/16-books-aspiring-women-l_b_11090646.html",
+						"display_url": "huffingtonpost.com/jonha-revesenc…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25622848,
+				"id_str": "25622848",
+				"name": "Jonha Richman",
+				"screen_name": "JonhaRichman",
+				"location": "Europe, Asia ",
+				"description": "Marketing for innovative tech companies. Contributor @Entrepreneur @HuffPost. Interests: cryptocurrency & diversity. https://t.co/aWff5Jp9Nz",
+				"url": "https://t.co/IC0LyCPk7i",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IC0LyCPk7i",
+								"expanded_url": "http://JonhaRichman.com",
+								"display_url": "JonhaRichman.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/aWff5Jp9Nz",
+								"expanded_url": "https://www.linkedin.com/in/jonharichman/",
+								"display_url": "linkedin.com/in/jonharichma…",
+								"indices": [
+									117,
+									140
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 144245,
+				"friends_count": 12667,
+				"listed_count": 1190,
+				"created_at": "Sat Mar 21 02:17:26 +0000 2009",
+				"favourites_count": 8702,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 19434,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/861669783623925760/lXEG6hhS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/861669783623925760/lXEG6hhS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25622848/1494273137",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 739,
+			"favorite_count": 1440,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 739,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 07 13:06:20 +0000 2017",
 		"id": 883311219263774700,
 		"id_str": "883311219263774720",
