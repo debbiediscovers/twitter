@@ -1,6 +1,507 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Thu Jul 13 12:31:27 +0000 2017",
+		"id": 885476767892291600,
+		"id_str": "885476767892291585",
+		"text": "RT @shanelle_mullin: Do you have a favourite custom @googleanalytics report? I really want to hear about it: https://t.co/Xonmak52Vf via @i…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shanelle_mullin",
+					"name": "Shanelle Mullin",
+					"id": 220241948,
+					"id_str": "220241948",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "googleanalytics",
+					"name": "Google Analytics",
+					"id": 51263711,
+					"id_str": "51263711",
+					"indices": [
+						52,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Xonmak52Vf",
+					"expanded_url": "https://inbound.org/article/9-google-analytics-custom-reports-by-the-experts-and-how-to-use-them",
+					"display_url": "inbound.org/article/9-goog…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11442,
+			"friends_count": 7050,
+			"listed_count": 1017,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2518,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7341,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 11 18:27:55 +0000 2017",
+			"id": 884841700904095700,
+			"id_str": "884841700904095744",
+			"text": "Do you have a favourite custom @googleanalytics report? I really want to hear about it: https://t.co/Xonmak52Vf via @inboundorg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "googleanalytics",
+						"name": "Google Analytics",
+						"id": 51263711,
+						"id_str": "51263711",
+						"indices": [
+							31,
+							47
+						]
+					},
+					{
+						"screen_name": "inboundorg",
+						"name": "inbound org",
+						"id": 467066383,
+						"id_str": "467066383",
+						"indices": [
+							116,
+							127
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Xonmak52Vf",
+						"expanded_url": "https://inbound.org/article/9-google-analytics-custom-reports-by-the-experts-and-how-to-use-them",
+						"display_url": "inbound.org/article/9-goog…",
+						"indices": [
+							88,
+							111
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 220241948,
+				"id_str": "220241948",
+				"name": "Shanelle Mullin",
+				"screen_name": "shanelle_mullin",
+				"location": "Moncton, New Brunswick",
+				"description": "Content & Growth @Shopify. Feet in New Brunswick, heart in Ontario, nose in a book, head in the clouds. I like optimization, content and ice cream.",
+				"url": "https://t.co/ko7PxR5ggj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ko7PxR5ggj",
+								"expanded_url": "http://www.shopify.ca",
+								"display_url": "shopify.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2269,
+				"friends_count": 222,
+				"listed_count": 331,
+				"created_at": "Sat Nov 27 05:19:40 +0000 2010",
+				"favourites_count": 5751,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5834,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/641046802943356928/3CQytdk__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/641046802943356928/3CQytdk__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/220241948/1441744515",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 13 12:30:34 +0000 2017",
+		"id": 885476544331763700,
+		"id_str": "885476544331763714",
+		"text": "RT @sujanpatel: Let's code! Learn how to build this simple #iOS game with #Swift and #Xcode – in just 1 hour! https://t.co/RJZBqUBgeW by @r…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iOS",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "Swift",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "Xcode",
+					"indices": [
+						85,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sujanpatel",
+					"name": "Sujan Patel",
+					"id": 82017168,
+					"id_str": "82017168",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RJZBqUBgeW",
+					"expanded_url": "http://buff.ly/2tMv8rs",
+					"display_url": "buff.ly/2tMv8rs",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11442,
+			"friends_count": 7050,
+			"listed_count": 1017,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2518,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7341,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 12 20:17:04 +0000 2017",
+			"id": 885231555249152000,
+			"id_str": "885231555249152000",
+			"text": "Let's code! Learn how to build this simple #iOS game with #Swift and #Xcode – in just 1 hour!… https://t.co/4Q58kwGV1F",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "iOS",
+						"indices": [
+							43,
+							47
+						]
+					},
+					{
+						"text": "Swift",
+						"indices": [
+							58,
+							64
+						]
+					},
+					{
+						"text": "Xcode",
+						"indices": [
+							69,
+							75
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4Q58kwGV1F",
+						"expanded_url": "https://twitter.com/i/web/status/885231555249152000",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 82017168,
+				"id_str": "82017168",
+				"name": "Sujan Patel",
+				"screen_name": "sujanpatel",
+				"location": "Austin,TX",
+				"description": "I grow companies @Mailshakeapp @Linktexting @Pick_Hq & help others do the same @Webprofits. I share everything I know & create more content than most consume",
+				"url": "https://t.co/GNn8iSnCGq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GNn8iSnCGq",
+								"expanded_url": "http://sujanpatel.com",
+								"display_url": "sujanpatel.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47676,
+				"friends_count": 30311,
+				"listed_count": 3486,
+				"created_at": "Tue Oct 13 05:09:58 +0000 2009",
+				"favourites_count": 46845,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24224,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/632165633690632192/HwQeNed__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/632165633690632192/HwQeNed__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/82017168/1405480754",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jul 13 11:17:09 +0000 2017",
 		"id": 885458070331150300,
 		"id_str": "885458070331150337",
