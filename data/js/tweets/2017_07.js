@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Fri Jul 14 16:40:42 +0000 2017",
+		"id": 885901879552516100,
+		"id_str": "885901879552516098",
+		"text": "RT @neilpatel: 9 Ways to Include Bots in Your Digital Marketing Strategy #bots #onlinemarketing https://t.co/QgCexiryPB https://t.co/zUNGQp…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bots",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "onlinemarketing",
+					"indices": [
+						79,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "neilpatel",
+					"name": "Neil Patel",
+					"id": 1322691,
+					"id_str": "1322691",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QgCexiryPB",
+					"expanded_url": "http://buff.ly/2uZoVIN",
+					"display_url": "buff.ly/2uZoVIN",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11530,
+			"friends_count": 7361,
+			"listed_count": 1017,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2508,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7345,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 14 16:31:07 +0000 2017",
+			"id": 885899468503216100,
+			"id_str": "885899468503216128",
+			"text": "9 Ways to Include Bots in Your Digital Marketing Strategy #bots #onlinemarketing https://t.co/QgCexiryPB https://t.co/zUNGQpgsFq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "bots",
+						"indices": [
+							58,
+							63
+						]
+					},
+					{
+						"text": "onlinemarketing",
+						"indices": [
+							64,
+							80
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QgCexiryPB",
+						"expanded_url": "http://buff.ly/2uZoVIN",
+						"display_url": "buff.ly/2uZoVIN",
+						"indices": [
+							81,
+							104
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 885899465881772000,
+						"id_str": "885899465881772033",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/DEtY3tqXYAEt94T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEtY3tqXYAEt94T.jpg",
+						"url": "https://t.co/zUNGQpgsFq",
+						"display_url": "pic.twitter.com/zUNGQpgsFq",
+						"expanded_url": "https://twitter.com/neilpatel/status/885899468503216128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 408,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 700,
+								"h": 420,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 420,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 885899465881772000,
+						"id_str": "885899465881772033",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/DEtY3tqXYAEt94T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEtY3tqXYAEt94T.jpg",
+						"url": "https://t.co/zUNGQpgsFq",
+						"display_url": "pic.twitter.com/zUNGQpgsFq",
+						"expanded_url": "https://twitter.com/neilpatel/status/885899468503216128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 408,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 700,
+								"h": 420,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 420,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1322691,
+				"id_str": "1322691",
+				"name": "Neil Patel",
+				"screen_name": "neilpatel",
+				"location": "",
+				"description": "Entrepreneur, investor & influencer. Columnist for Forbes, Inc, Entrepreneur, Huffington Post & more. Founded @CrazyEgg with @hnshah.",
+				"url": "https://t.co/ETTeIqvDIc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ETTeIqvDIc",
+								"expanded_url": "http://neilpatel.com/",
+								"display_url": "neilpatel.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 260941,
+				"friends_count": 95906,
+				"listed_count": 11356,
+				"created_at": "Fri Mar 16 23:56:20 +0000 2007",
+				"favourites_count": 2718,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 16641,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "63AD2B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/53287398/background.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/53287398/background.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/829191018331385858/jxsj-ZmD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/829191018331385858/jxsj-ZmD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1322691/1443130219",
+				"profile_link_color": "2362A1",
+				"profile_sidebar_border_color": "E2E2D2",
+				"profile_sidebar_fill_color": "F0F0E9",
+				"profile_text_color": "313131",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 14 14:26:16 +0000 2017",
 		"id": 885868049621852200,
 		"id_str": "885868049621852160",
