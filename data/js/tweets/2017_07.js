@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Tue Jul 18 00:05:49 +0000 2017",
+		"id": 887101062036860900,
+		"id_str": "887101062036860928",
+		"text": "RT @Adweek: On any given day, 60 million emojis are used on Facebook and 5 billion on Messenger: https://t.co/Vb9lUFVETf #WorldEmojiiDay ht…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorldEmojiiDay",
+					"indices": [
+						121,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Adweek",
+					"name": "Adweek",
+					"id": 30205586,
+					"id_str": "30205586",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Vb9lUFVETf",
+					"expanded_url": "http://adweek.it/2sZaumr",
+					"display_url": "adweek.it/2sZaumr",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11980,
+			"friends_count": 7354,
+			"listed_count": 1017,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2526,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7349,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 17 16:24:01 +0000 2017",
+			"id": 886984846853251100,
+			"id_str": "886984846853251072",
+			"text": "On any given day, 60 million emojis are used on Facebook and 5 billion on Messenger: https://t.co/Vb9lUFVETf… https://t.co/0u9pUvXoSr",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Vb9lUFVETf",
+						"expanded_url": "http://adweek.it/2sZaumr",
+						"display_url": "adweek.it/2sZaumr",
+						"indices": [
+							85,
+							108
+						]
+					},
+					{
+						"url": "https://t.co/0u9pUvXoSr",
+						"expanded_url": "https://twitter.com/i/web/status/886984846853251072",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30205586,
+				"id_str": "30205586",
+				"name": "Adweek",
+				"screen_name": "Adweek",
+				"location": "New York City",
+				"description": "The leading source for news, insight and community for marketers, media and agencies. \n\nJoin #AdweekChat each Wednesday at 2 p.m. ET.",
+				"url": "http://t.co/kXbuu4fFUQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/kXbuu4fFUQ",
+								"expanded_url": "http://adweek.com",
+								"display_url": "adweek.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 565582,
+				"friends_count": 27924,
+				"listed_count": 15702,
+				"created_at": "Fri Apr 10 12:20:45 +0000 2009",
+				"favourites_count": 47949,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 64125,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/559742431/Adweek-Twitter-Background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/559742431/Adweek-Twitter-Background.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876830371257753600/EHy4adK3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876830371257753600/EHy4adK3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30205586/1499356612",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 84,
+			"favorite_count": 87,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 17 14:30:33 +0000 2017",
 		"id": 886956291305816000,
 		"id_str": "886956291305816065",
