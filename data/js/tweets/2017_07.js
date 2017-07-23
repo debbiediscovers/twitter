@@ -1,6 +1,994 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sun Jul 23 06:30:25 +0000 2017",
+		"id": 889009790407426000,
+		"id_str": "889009790407426049",
+		"text": "@Alexey__Kovalev @vsonkin Best part of the video! https://t.co/JeaSCmXpfo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Alexey__Kovalev",
+					"name": "Alexey Kovalev",
+					"id": 549030107,
+					"id_str": "549030107",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "vsonkin",
+					"name": "Vasily Sonkin",
+					"id": 98610647,
+					"id_str": "98610647",
+					"indices": [
+						17,
+						25
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 889009781750603800,
+					"id_str": "889009781750603777",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DFZlr7MXoAEBTwT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFZlr7MXoAEBTwT.jpg",
+					"url": "https://t.co/JeaSCmXpfo",
+					"display_url": "pic.twitter.com/JeaSCmXpfo",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/889009790407426049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 889009781750603800,
+					"id_str": "889009781750603777",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DFZlr7MXoAEBTwT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFZlr7MXoAEBTwT.jpg",
+					"url": "https://t.co/JeaSCmXpfo",
+					"display_url": "pic.twitter.com/JeaSCmXpfo",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/889009790407426049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 889009781754781700,
+					"id_str": "889009781754781696",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DFZlr7NXYAAc2Z9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFZlr7NXYAAc2Z9.jpg",
+					"url": "https://t.co/JeaSCmXpfo",
+					"display_url": "pic.twitter.com/JeaSCmXpfo",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/889009790407426049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 872905528028090400,
+		"in_reply_to_status_id_str": "872905528028090368",
+		"in_reply_to_user_id": 549030107,
+		"in_reply_to_user_id_str": "549030107",
+		"in_reply_to_screen_name": "Alexey__Kovalev",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11943,
+			"friends_count": 6475,
+			"listed_count": 1019,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2561,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7364,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 23 06:26:00 +0000 2017",
+		"id": 889008678585548800,
+		"id_str": "889008678585548800",
+		"text": "The #instagram like vending machine. https://t.co/Ae3JtDSkDf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "instagram",
+					"indices": [
+						4,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ae3JtDSkDf",
+					"expanded_url": "https://twitter.com/alexey__kovalev/status/872905528028090368",
+					"display_url": "twitter.com/alexey__kovale…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11943,
+			"friends_count": 6475,
+			"listed_count": 1019,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2561,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7364,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 872905528028090400,
+		"quoted_status_id_str": "872905528028090368",
+		"quoted_status": {
+			"created_at": "Thu Jun 08 19:57:50 +0000 2017",
+			"id": 872905528028090400,
+			"id_str": "872905528028090368",
+			"text": "There you go. My friend @vsonkin made a video of the Like machine in action. https://t.co/v0EWkpGR3R",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "vsonkin",
+						"name": "Vasily Sonkin",
+						"id": 98610647,
+						"id_str": "98610647",
+						"indices": [
+							24,
+							32
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 872904930968952800,
+						"id_str": "872904930968952833",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/872904930968952833/pu/img/g0TFED3umiPQy6XY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/872904930968952833/pu/img/g0TFED3umiPQy6XY.jpg",
+						"url": "https://t.co/v0EWkpGR3R",
+						"display_url": "pic.twitter.com/v0EWkpGR3R",
+						"expanded_url": "https://twitter.com/Alexey__Kovalev/status/872905528028090368/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 872904930968952800,
+						"id_str": "872904930968952833",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/872904930968952833/pu/img/g0TFED3umiPQy6XY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/872904930968952833/pu/img/g0TFED3umiPQy6XY.jpg",
+						"url": "https://t.co/v0EWkpGR3R",
+						"display_url": "pic.twitter.com/v0EWkpGR3R",
+						"expanded_url": "https://twitter.com/Alexey__Kovalev/status/872905528028090368/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 45000,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/872904930968952833/pu/vid/240x240/e3y5Ms5j6dyPPbnt.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/872904930968952833/pu/vid/480x480/KhuKvGdn58LJF8_y.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/872904930968952833/pu/pl/RsqVuIC2LoSyot7G.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 872558525800747000,
+			"in_reply_to_status_id_str": "872558525800747008",
+			"in_reply_to_user_id": 549030107,
+			"in_reply_to_user_id_str": "549030107",
+			"in_reply_to_screen_name": "Alexey__Kovalev",
+			"user": {
+				"id": 549030107,
+				"id_str": "549030107",
+				"name": "Alexey Kovalev",
+				"screen_name": "Alexey__Kovalev",
+				"location": "Moscow, Russia",
+				"description": "Journalist (NOT the hockey player), tweeting in Russian/English. kovalever@gmail.com PGP: https://t.co/7jM0LBz7zE",
+				"url": "https://t.co/nRIpqf9rax",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nRIpqf9rax",
+								"expanded_url": "http://noodleremover.news",
+								"display_url": "noodleremover.news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7jM0LBz7zE",
+								"expanded_url": "http://pgp.mit.edu/pks/lookup?op=get&search=0x7B348528EA03D100",
+								"display_url": "pgp.mit.edu/pks/lookup?op=…",
+								"indices": [
+									90,
+									113
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 20847,
+				"friends_count": 2539,
+				"listed_count": 474,
+				"created_at": "Mon Apr 09 07:44:28 +0000 2012",
+				"favourites_count": 3635,
+				"utc_offset": 14400,
+				"time_zone": "Abu Dhabi",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 39096,
+				"lang": "ru",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852604704546856960/vmwNzjEm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852604704546856960/vmwNzjEm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/549030107/1412249616",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 630,
+			"favorite_count": 553,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 23 06:25:08 +0000 2017",
+		"id": 889008461031145500,
+		"id_str": "889008461031145473",
+		"text": "Check out a video of the vending machine in Russia 🇷🇺 that lets you buy instagram likes #unreal… https://t.co/BvqYCgiDzR",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "unreal",
+					"indices": [
+						88,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BvqYCgiDzR",
+					"expanded_url": "https://twitter.com/i/web/status/889008461031145473",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11943,
+			"friends_count": 6475,
+			"listed_count": 1019,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2561,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7364,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 871842008771567600,
+		"quoted_status_id_str": "871842008771567618",
+		"quoted_status": {
+			"created_at": "Mon Jun 05 21:31:47 +0000 2017",
+			"id": 871842008771567600,
+			"id_str": "871842008771567618",
+			"text": "Russia takes the worst excesses of capitalism to the extreme, so here's a vending machine in a mall for buying Like… https://t.co/brQRHvxhlz",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/brQRHvxhlz",
+						"expanded_url": "https://twitter.com/i/web/status/871842008771567618",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 549030107,
+				"id_str": "549030107",
+				"name": "Alexey Kovalev",
+				"screen_name": "Alexey__Kovalev",
+				"location": "Moscow, Russia",
+				"description": "Journalist (NOT the hockey player), tweeting in Russian/English. kovalever@gmail.com PGP: https://t.co/7jM0LBz7zE",
+				"url": "https://t.co/nRIpqf9rax",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nRIpqf9rax",
+								"expanded_url": "http://noodleremover.news",
+								"display_url": "noodleremover.news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7jM0LBz7zE",
+								"expanded_url": "http://pgp.mit.edu/pks/lookup?op=get&search=0x7B348528EA03D100",
+								"display_url": "pgp.mit.edu/pks/lookup?op=…",
+								"indices": [
+									90,
+									113
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 20847,
+				"friends_count": 2539,
+				"listed_count": 474,
+				"created_at": "Mon Apr 09 07:44:28 +0000 2012",
+				"favourites_count": 3635,
+				"utc_offset": 14400,
+				"time_zone": "Abu Dhabi",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 39096,
+				"lang": "ru",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852604704546856960/vmwNzjEm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852604704546856960/vmwNzjEm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/549030107/1412249616",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5627,
+			"favorite_count": 7776,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 23 06:12:53 +0000 2017",
+		"id": 889005379102720000,
+		"id_str": "889005379102720000",
+		"text": "RT @wearecorduroy: INFLUENCE FOR SALE: Bot Shopping on the Darknet https://t.co/5XinLsKxuO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wearecorduroy",
+					"name": "Cordurouy",
+					"id": 587082690,
+					"id_str": "587082690",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5XinLsKxuO",
+					"expanded_url": "http://ow.ly/lXtz30dLdpC",
+					"display_url": "ow.ly/lXtz30dLdpC",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11943,
+			"friends_count": 6475,
+			"listed_count": 1019,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2561,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7364,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 19 18:44:48 +0000 2017",
+			"id": 887745050200985600,
+			"id_str": "887745050200985600",
+			"text": "INFLUENCE FOR SALE: Bot Shopping on the Darknet https://t.co/5XinLsKxuO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5XinLsKxuO",
+						"expanded_url": "http://ow.ly/lXtz30dLdpC",
+						"display_url": "ow.ly/lXtz30dLdpC",
+						"indices": [
+							48,
+							71
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 587082690,
+				"id_str": "587082690",
+				"name": "Cordurouy",
+				"screen_name": "wearecorduroy",
+				"location": "Los Angeles, CA",
+				"description": "We combine data, talent and premium intellectual property.",
+				"url": "https://t.co/KOG6qasRl5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KOG6qasRl5",
+								"expanded_url": "http://www.cordurouy.com",
+								"display_url": "cordurouy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1247,
+				"friends_count": 1470,
+				"listed_count": 17,
+				"created_at": "Tue May 22 00:26:40 +0000 2012",
+				"favourites_count": 3867,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 550,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/613549185/0jsvf6d8nigyad7ew0o4.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/613549185/0jsvf6d8nigyad7ew0o4.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859208255121260546/eW7qiBnJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859208255121260546/eW7qiBnJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/587082690/1488051715",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 34,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 22 10:21:32 +0000 2017",
 		"id": 888705563432935400,
 		"id_str": "888705563432935425",
