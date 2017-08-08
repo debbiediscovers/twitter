@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Tue Aug 08 13:16:33 +0000 2017",
+		"id": 894910201844744200,
+		"id_str": "894910201844744193",
+		"text": "RT @Adweek: These 4 CMOs are transforming marketing in a multichannel world: https://t.co/Qc1QTE5iRw https://t.co/JOaw8kMBqn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Adweek",
+					"name": "Adweek",
+					"id": 30205586,
+					"id_str": "30205586",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Qc1QTE5iRw",
+					"expanded_url": "http://adweek.it/2uhgx5F",
+					"display_url": "adweek.it/2uhgx5F",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 894901264819114000,
+					"id_str": "894901264819113985",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DGtT9X6XUAELnYt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGtT9X6XUAELnYt.jpg",
+					"url": "https://t.co/JOaw8kMBqn",
+					"display_url": "pic.twitter.com/JOaw8kMBqn",
+					"expanded_url": "https://twitter.com/Adweek/status/894906039979491330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 222,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1320,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 392,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 894906039979491300,
+					"source_status_id_str": "894906039979491330",
+					"source_user_id": 30205586,
+					"source_user_id_str": "30205586"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 894901264819114000,
+					"id_str": "894901264819113985",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DGtT9X6XUAELnYt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGtT9X6XUAELnYt.jpg",
+					"url": "https://t.co/JOaw8kMBqn",
+					"display_url": "pic.twitter.com/JOaw8kMBqn",
+					"expanded_url": "https://twitter.com/Adweek/status/894906039979491330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 222,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1320,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 392,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 894906039979491300,
+					"source_status_id_str": "894906039979491330",
+					"source_user_id": 30205586,
+					"source_user_id_str": "30205586"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12955,
+			"friends_count": 7495,
+			"listed_count": 1023,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2634,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7414,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 08 13:00:01 +0000 2017",
+			"id": 894906039979491300,
+			"id_str": "894906039979491330",
+			"text": "These 4 CMOs are transforming marketing in a multichannel world: https://t.co/Qc1QTE5iRw https://t.co/JOaw8kMBqn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Qc1QTE5iRw",
+						"expanded_url": "http://adweek.it/2uhgx5F",
+						"display_url": "adweek.it/2uhgx5F",
+						"indices": [
+							65,
+							88
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 894901264819114000,
+						"id_str": "894901264819113985",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DGtT9X6XUAELnYt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGtT9X6XUAELnYt.jpg",
+						"url": "https://t.co/JOaw8kMBqn",
+						"display_url": "pic.twitter.com/JOaw8kMBqn",
+						"expanded_url": "https://twitter.com/Adweek/status/894906039979491330/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 222,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1320,
+								"h": 431,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 392,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 894901264819114000,
+						"id_str": "894901264819113985",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DGtT9X6XUAELnYt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGtT9X6XUAELnYt.jpg",
+						"url": "https://t.co/JOaw8kMBqn",
+						"display_url": "pic.twitter.com/JOaw8kMBqn",
+						"expanded_url": "https://twitter.com/Adweek/status/894906039979491330/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 222,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1320,
+								"h": 431,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 392,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30205586,
+				"id_str": "30205586",
+				"name": "Adweek",
+				"screen_name": "Adweek",
+				"location": "New York City",
+				"description": "The leading source for news, insight and community for marketers, media and agencies. \n\nJoin #AdweekChat each Wednesday at 2 p.m. ET.",
+				"url": "http://t.co/kXbuu4fFUQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/kXbuu4fFUQ",
+								"expanded_url": "http://adweek.com",
+								"display_url": "adweek.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 568136,
+				"friends_count": 27999,
+				"listed_count": 15726,
+				"created_at": "Fri Apr 10 12:20:45 +0000 2009",
+				"favourites_count": 49874,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 64925,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/559742431/Adweek-Twitter-Background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/559742431/Adweek-Twitter-Background.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876830371257753600/EHy4adK3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876830371257753600/EHy4adK3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30205586/1502126923",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 08 13:05:18 +0000 2017",
 		"id": 894907372740550700,
 		"id_str": "894907372740550656",
