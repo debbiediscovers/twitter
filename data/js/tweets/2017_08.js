@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 10 15:00:16 +0000 2017",
+		"id": 895661077492449300,
+		"id_str": "895661077492449281",
+		"text": "Amazing. You got to love @richardbranson 💞 Hope you had a nice balloon ride @holzanmiz! Well done… https://t.co/N0zsAI9K9o",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "richardbranson",
+					"name": "Richard Branson",
+					"id": 8161232,
+					"id_str": "8161232",
+					"indices": [
+						25,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/N0zsAI9K9o",
+					"expanded_url": "https://twitter.com/i/web/status/895661077492449281",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13226,
+			"friends_count": 8514,
+			"listed_count": 1026,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2671,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7455,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 894539935323230200,
+		"quoted_status_id_str": "894539935323230208",
+		"quoted_status": {
+			"created_at": "Mon Aug 07 12:45:14 +0000 2017",
+			"id": 894539935323230200,
+			"id_str": "894539935323230208",
+			"text": "2 creatives handwrote a note challenging me with #BalloonPleaseBranson – here’s our reply: https://t.co/iQ2bPXDN1v… https://t.co/0ACpxwiRm0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BalloonPleaseBranson",
+						"indices": [
+							49,
+							70
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iQ2bPXDN1v",
+						"expanded_url": "https://virg.in/4FN",
+						"display_url": "virg.in/4FN",
+						"indices": [
+							91,
+							114
+						]
+					},
+					{
+						"url": "https://t.co/0ACpxwiRm0",
+						"expanded_url": "https://twitter.com/i/web/status/894539935323230208",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8161232,
+				"id_str": "8161232",
+				"name": "Richard Branson",
+				"screen_name": "richardbranson",
+				"location": "",
+				"description": "Tie-loathing adventurer, philanthropist & troublemaker, who believes in turning ideas into reality. Otherwise known as Dr Yes at @virgin!",
+				"url": "http://t.co/pWM2y98gTu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/pWM2y98gTu",
+								"expanded_url": "http://www.virgin.com/richard-branson/",
+								"display_url": "virgin.com/richard-branso…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11227376,
+				"friends_count": 3844,
+				"listed_count": 48054,
+				"created_at": "Mon Aug 13 15:20:18 +0000 2007",
+				"favourites_count": 4,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17258,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400255522/RByoutube.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400255522/RByoutube.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876792863459352577/SBLRu4VV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876792863459352577/SBLRu4VV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8161232/1497878666",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "CC0000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 101,
+			"favorite_count": 608,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 10 13:36:17 +0000 2017",
 		"id": 895639944474935300,
 		"id_str": "895639944474935297",
