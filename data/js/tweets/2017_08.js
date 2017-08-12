@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sat Aug 12 19:36:44 +0000 2017",
+		"id": 896455430393577500,
+		"id_str": "896455430393577472",
+		"text": "RT @Mike_Stelzner: Discover how to get started with Facebook Analytics 📱https://t.co/oxj8VQSEGN by @TheBillWidmer #facebookanalytics #faceb…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "facebookanalytics",
+					"indices": [
+						114,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mike_Stelzner",
+					"name": "Michael A. Stelzner",
+					"id": 14454605,
+					"id_str": "14454605",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "TheBillWidmer",
+					"name": "Bill Widmer",
+					"id": 1172210869,
+					"id_str": "1172210869",
+					"indices": [
+						99,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oxj8VQSEGN",
+					"expanded_url": "http://bit.ly/2uomZI4",
+					"display_url": "bit.ly/2uomZI4",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13781,
+			"friends_count": 9401,
+			"listed_count": 1023,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2722,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7493,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 07 10:01:19 +0000 2017",
+			"id": 894498684020428800,
+			"id_str": "894498684020428802",
+			"text": "Discover how to get started with Facebook Analytics 📱https://t.co/oxj8VQSEGN by @TheBillWidmer #facebookanalytics #facebookmarketing",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "facebookanalytics",
+						"indices": [
+							95,
+							113
+						]
+					},
+					{
+						"text": "facebookmarketing",
+						"indices": [
+							114,
+							132
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TheBillWidmer",
+						"name": "Bill Widmer",
+						"id": 1172210869,
+						"id_str": "1172210869",
+						"indices": [
+							80,
+							94
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/oxj8VQSEGN",
+						"expanded_url": "http://bit.ly/2uomZI4",
+						"display_url": "bit.ly/2uomZI4",
+						"indices": [
+							53,
+							76
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.socialoomph.com\" rel=\"nofollow\">SocialOomph</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14454605,
+				"id_str": "14454605",
+				"name": "Michael A. Stelzner",
+				"screen_name": "Mike_Stelzner",
+				"location": "",
+				"description": "Founder: Social Media Examiner & Social Media Marketing World; host: Social Media Marketing podcast; author: Launch & Writing White Papers; committed Christian.",
+				"url": "https://t.co/Hp3t6IbgRf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Hp3t6IbgRf",
+								"expanded_url": "http://Facebook.com/stelzner",
+								"display_url": "Facebook.com/stelzner",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 164894,
+				"friends_count": 24303,
+				"listed_count": 10591,
+				"created_at": "Sun Apr 20 20:10:32 +0000 2008",
+				"favourites_count": 23,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 28314,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/183604568/stelzner__twitterpage2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/183604568/stelzner__twitterpage2.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/725110260864671744/CtHg6bV-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/725110260864671744/CtHg6bV-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14454605/1461714752",
+				"profile_link_color": "1B4479",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "76A2D7",
+				"profile_text_color": "212121",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 12 19:21:44 +0000 2017",
+		"id": 896451656463732700,
+		"id_str": "896451656463732738",
+		"text": "#VideoMarketung Nifty AI tool that automatically turns Blog Posts Into Videos 📹https://t.co/rYsIFB6rXT via @OranaCreative on @smexaminer 💖",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VideoMarketung",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OranaCreative",
+					"name": "Orana Creative",
+					"id": 36981881,
+					"id_str": "36981881",
+					"indices": [
+						107,
+						121
+					]
+				},
+				{
+					"screen_name": "SMExaminer",
+					"name": "SocialMedia Examiner",
+					"id": 53925101,
+					"id_str": "53925101",
+					"indices": [
+						125,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rYsIFB6rXT",
+					"expanded_url": "http://www.socialmediaexaminer.com/turn-blog-posts-into-videos-how-to/?utm_source=twitter&utm_medium=social&utm_campaign=SocialWarfare",
+					"display_url": "socialmediaexaminer.com/turn-blog-post…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13781,
+			"friends_count": 9401,
+			"listed_count": 1023,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2722,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7493,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 12 18:01:19 +0000 2017",
 		"id": 896431415948058600,
 		"id_str": "896431415948058625",
