@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sun Aug 13 14:08:03 +0000 2017",
+		"id": 896735100712304600,
+		"id_str": "896735100712304641",
+		"text": "RT @joshsteimle: Predictions From CEOs, CMOs, And Authors For 2017 by @KimWhitler @Forbes https://t.co/aggyJ0YKYH #CMO #marketing",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CMO",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "marketing",
+					"indices": [
+						119,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joshsteimle",
+					"name": "Josh Steimle",
+					"id": 25384284,
+					"id_str": "25384284",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "KimWhitler",
+					"name": "Kimberly Whitler",
+					"id": 273661708,
+					"id_str": "273661708",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"screen_name": "Forbes",
+					"name": "Forbes",
+					"id": 91478624,
+					"id_str": "91478624",
+					"indices": [
+						82,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aggyJ0YKYH",
+					"expanded_url": "http://bit.ly/2fTt3WD",
+					"display_url": "bit.ly/2fTt3WD",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13911,
+			"friends_count": 8308,
+			"listed_count": 1023,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2733,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7497,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 10 03:37:00 +0000 2017",
+			"id": 895489130058199000,
+			"id_str": "895489130058199041",
+			"text": "Predictions From CEOs, CMOs, And Authors For 2017 by @KimWhitler @Forbes https://t.co/aggyJ0YKYH #CMO #marketing",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CMO",
+						"indices": [
+							97,
+							101
+						]
+					},
+					{
+						"text": "marketing",
+						"indices": [
+							102,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KimWhitler",
+						"name": "Kimberly Whitler",
+						"id": 273661708,
+						"id_str": "273661708",
+						"indices": [
+							53,
+							64
+						]
+					},
+					{
+						"screen_name": "Forbes",
+						"name": "Forbes",
+						"id": 91478624,
+						"id_str": "91478624",
+						"indices": [
+							65,
+							72
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/aggyJ0YKYH",
+						"expanded_url": "http://bit.ly/2fTt3WD",
+						"display_url": "bit.ly/2fTt3WD",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://meetedgar.com\" rel=\"nofollow\">Meet Edgar</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25384284,
+				"id_str": "25384284",
+				"name": "Josh Steimle",
+				"screen_name": "joshsteimle",
+				"location": "Shenzhen, China",
+				"description": "I turn CMOs into influencers. Author Chief Marketing Officers at Work, 200+ articles on Mashable, TechCrunch, Forbes, Time. Agency CEO, @TEDx speaker, dad.",
+				"url": "https://t.co/02jG8bms5v",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/02jG8bms5v",
+								"expanded_url": "https://www.joshsteimle.com/influencer-coaching",
+								"display_url": "joshsteimle.com/influencer-coa…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16601,
+				"friends_count": 5887,
+				"listed_count": 2002,
+				"created_at": "Thu Mar 19 20:59:20 +0000 2009",
+				"favourites_count": 21650,
+				"utc_offset": 28800,
+				"time_zone": "Hong Kong",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19513,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/454474255673991168/yiOMtoV8.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/454474255673991168/yiOMtoV8.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/837620438884732928/LyKY9k38_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/837620438884732928/LyKY9k38_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25384284/1481180442",
+				"profile_link_color": "EF4336",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E7D492",
+				"profile_text_color": "3A1908",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 13 11:28:03 +0000 2017",
 		"id": 896694838359277600,
 		"id_str": "896694838359277570",
