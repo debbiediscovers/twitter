@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sun Aug 13 03:22:20 +0000 2017",
+		"id": 896572602486972400,
+		"id_str": "896572602486972416",
+		"text": "The only way I can get away with posting this kind of picture on Twitter is by retweeting @randfish 😬😬😮😮😬😬 https://t.co/8SwhWWnLoQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "randfish",
+					"name": "Rand Fishkin",
+					"id": 6527972,
+					"id_str": "6527972",
+					"indices": [
+						90,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8SwhWWnLoQ",
+					"expanded_url": "https://twitter.com/randfish/status/896195915639209984",
+					"display_url": "twitter.com/randfish/statu…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13869,
+			"friends_count": 9499,
+			"listed_count": 1024,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2723,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7495,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 896195915639210000,
+		"quoted_status_id_str": "896195915639209984",
+		"quoted_status": {
+			"created_at": "Sat Aug 12 02:25:31 +0000 2017",
+			"id": 896195915639210000,
+			"id_str": "896195915639209984",
+			"text": "It's Friday night. You should read about Finnish sports in the NYT https://t.co/iPaewQccVT it's delightful https://t.co/o66x1hYRbE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iPaewQccVT",
+						"expanded_url": "https://mobile.nytimes.com/2017/07/27/sports/finland-has-a-sports-screw-loose.html",
+						"display_url": "mobile.nytimes.com/2017/07/27/spo…",
+						"indices": [
+							67,
+							90
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 896195909691650000,
+						"id_str": "896195909691650048",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DG_tbn5UMAAVHdv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DG_tbn5UMAAVHdv.jpg",
+						"url": "https://t.co/o66x1hYRbE",
+						"display_url": "pic.twitter.com/o66x1hYRbE",
+						"expanded_url": "https://twitter.com/randfish/status/896195915639209984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 609,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 609,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 609,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 896195909691650000,
+						"id_str": "896195909691650048",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DG_tbn5UMAAVHdv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DG_tbn5UMAAVHdv.jpg",
+						"url": "https://t.co/o66x1hYRbE",
+						"display_url": "pic.twitter.com/o66x1hYRbE",
+						"expanded_url": "https://twitter.com/randfish/status/896195915639209984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 609,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 609,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 609,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6527972,
+				"id_str": "6527972",
+				"name": "Rand Fishkin",
+				"screen_name": "randfish",
+				"location": "Seattle, WA",
+				"description": "Moz founder, author, feminist, husband to @everywhereist, Techstars & @backstage_cap investor. I tweet 30-40X/week about marketing, SEO, tech, & startups.",
+				"url": "https://t.co/PgfHKpElTn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PgfHKpElTn",
+								"expanded_url": "http://moz.com/rand",
+								"display_url": "moz.com/rand",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 386546,
+				"friends_count": 169,
+				"listed_count": 16417,
+				"created_at": "Sat Jun 02 19:28:10 +0000 2007",
+				"favourites_count": 42901,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 40896,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/881269994/fad0bf52a96375d0503349c44d86fc9b.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/881269994/fad0bf52a96375d0503349c44d86fc9b.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/858074513438683136/9Ad9myFy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/858074513438683136/9Ad9myFy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6527972/1398234270",
+				"profile_link_color": "1495FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CBDE50",
+				"profile_text_color": "2F6AD8",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 13 02:05:13 +0000 2017",
 		"id": 896553193248870400,
 		"id_str": "896553193248870401",
