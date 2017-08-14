@@ -1,6 +1,1194 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Mon Aug 14 19:03:22 +0000 2017",
+		"id": 897171807475650600,
+		"id_str": "897171807475650560",
+		"text": "The 12 Best Facebook Messenger Ads (So Far) - @AdEspresso https://t.co/wYsvGT9vBb via @nuzzel",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdEspresso",
+					"name": "AdEspresso",
+					"id": 558526080,
+					"id_str": "558526080",
+					"indices": [
+						46,
+						57
+					]
+				},
+				{
+					"screen_name": "nuzzel",
+					"name": "Nuzzel",
+					"id": 106041193,
+					"id_str": "106041193",
+					"indices": [
+						86,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wYsvGT9vBb",
+					"expanded_url": "http://nzzl.us/VpzbJtP",
+					"display_url": "nzzl.us/VpzbJtP",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14167,
+			"friends_count": 7571,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2756,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7517,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 14 17:49:41 +0000 2017",
+		"id": 897153263744593900,
+		"id_str": "897153263744593920",
+		"text": "@karizzle_bot @douradobot @AskAaronLee @IKEAUSA Brutal!!!!!!!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "karizzle_bot",
+					"name": "Karizzle MarizzleBot",
+					"id": 2942470903,
+					"id_str": "2942470903",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "douradobot",
+					"name": "Robot Eli Dourado",
+					"id": 2547037232,
+					"id_str": "2547037232",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "AskAaronLee",
+					"name": "Aaron Lee",
+					"id": 25458378,
+					"id_str": "25458378",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "IKEAUSA",
+					"name": "IKEA USA",
+					"id": 303827856,
+					"id_str": "303827856",
+					"indices": [
+						39,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 897153205330747400,
+		"in_reply_to_status_id_str": "897153205330747394",
+		"in_reply_to_user_id": 2942470903,
+		"in_reply_to_user_id_str": "2942470903",
+		"in_reply_to_screen_name": "karizzle_bot",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14167,
+			"friends_count": 7571,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2756,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7517,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "no"
+	},
+	{
+		"created_at": "Mon Aug 14 17:48:39 +0000 2017",
+		"id": 897153003748155400,
+		"id_str": "897153003748155392",
+		"text": "@karizzle_bot @douradobot @AskAaronLee @IKEAUSA I think he's a boy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "karizzle_bot",
+					"name": "Karizzle MarizzleBot",
+					"id": 2942470903,
+					"id_str": "2942470903",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "douradobot",
+					"name": "Robot Eli Dourado",
+					"id": 2547037232,
+					"id_str": "2547037232",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "AskAaronLee",
+					"name": "Aaron Lee",
+					"id": 25458378,
+					"id_str": "25458378",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "IKEAUSA",
+					"name": "IKEA USA",
+					"id": 303827856,
+					"id_str": "303827856",
+					"indices": [
+						39,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 897152889130451000,
+		"in_reply_to_status_id_str": "897152889130450945",
+		"in_reply_to_user_id": 2942470903,
+		"in_reply_to_user_id_str": "2942470903",
+		"in_reply_to_screen_name": "karizzle_bot",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14167,
+			"friends_count": 7571,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2756,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7517,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 14 17:47:06 +0000 2017",
+		"id": 897152617607970800,
+		"id_str": "897152617607970819",
+		"text": "@karizzle_bot @douradobot @AskAaronLee @IKEAUSA Me too. 😥",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "karizzle_bot",
+					"name": "Karizzle MarizzleBot",
+					"id": 2942470903,
+					"id_str": "2942470903",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "douradobot",
+					"name": "Robot Eli Dourado",
+					"id": 2547037232,
+					"id_str": "2547037232",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "AskAaronLee",
+					"name": "Aaron Lee",
+					"id": 25458378,
+					"id_str": "25458378",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "IKEAUSA",
+					"name": "IKEA USA",
+					"id": 303827856,
+					"id_str": "303827856",
+					"indices": [
+						39,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 897152524423188500,
+		"in_reply_to_status_id_str": "897152524423188480",
+		"in_reply_to_user_id": 2942470903,
+		"in_reply_to_user_id_str": "2942470903",
+		"in_reply_to_screen_name": "karizzle_bot",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14167,
+			"friends_count": 7571,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2756,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7517,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 14 17:44:30 +0000 2017",
+		"id": 897151961631309800,
+		"id_str": "897151961631309824",
+		"text": "@karizzle_bot @AskAaronLee @IKEAUSA Haha I talk to bots all the time. My best friend is @douradobot",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "karizzle_bot",
+					"name": "Karizzle MarizzleBot",
+					"id": 2942470903,
+					"id_str": "2942470903",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "AskAaronLee",
+					"name": "Aaron Lee",
+					"id": 25458378,
+					"id_str": "25458378",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "IKEAUSA",
+					"name": "IKEA USA",
+					"id": 303827856,
+					"id_str": "303827856",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"screen_name": "douradobot",
+					"name": "Robot Eli Dourado",
+					"id": 2547037232,
+					"id_str": "2547037232",
+					"indices": [
+						88,
+						99
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 897150487618768900,
+		"in_reply_to_status_id_str": "897150487618768897",
+		"in_reply_to_user_id": 2942470903,
+		"in_reply_to_user_id_str": "2942470903",
+		"in_reply_to_screen_name": "karizzle_bot",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14167,
+			"friends_count": 7571,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2756,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7517,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 14 17:38:37 +0000 2017",
+		"id": 897150480077344800,
+		"id_str": "897150480077344768",
+		"text": "RT @brand24: Here are 17 growth #Tips &amp; #Hacks using web and #SocialMedia monitoring. \n\nhttps://t.co/qmo8SxEJt2 https://t.co/RcRNj807oI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Tips",
+					"indices": [
+						32,
+						37
+					]
+				},
+				{
+					"text": "Hacks",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "SocialMedia",
+					"indices": [
+						65,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brand24",
+					"name": "Brand24",
+					"id": 168651283,
+					"id_str": "168651283",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qmo8SxEJt2",
+					"expanded_url": "http://bit.ly/2sD10Ao",
+					"display_url": "bit.ly/2sD10Ao",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 897083708745941000,
+					"id_str": "897083708745940992",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DHMU4VGXgAA41P5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHMU4VGXgAA41P5.jpg",
+					"url": "https://t.co/RcRNj807oI",
+					"display_url": "pic.twitter.com/RcRNj807oI",
+					"expanded_url": "https://twitter.com/brand24/status/897083711073771521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 721,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 409,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 721,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897083711073771500,
+					"source_status_id_str": "897083711073771521",
+					"source_user_id": 168651283,
+					"source_user_id_str": "168651283"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 897083708745941000,
+					"id_str": "897083708745940992",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DHMU4VGXgAA41P5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHMU4VGXgAA41P5.jpg",
+					"url": "https://t.co/RcRNj807oI",
+					"display_url": "pic.twitter.com/RcRNj807oI",
+					"expanded_url": "https://twitter.com/brand24/status/897083711073771521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 721,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 409,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 721,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897083711073771500,
+					"source_status_id_str": "897083711073771521",
+					"source_user_id": 168651283,
+					"source_user_id_str": "168651283"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14167,
+			"friends_count": 7571,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2756,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7517,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 14 13:13:18 +0000 2017",
+			"id": 897083711073771500,
+			"id_str": "897083711073771521",
+			"text": "Here are 17 growth #Tips &amp; #Hacks using web and #SocialMedia monitoring. \n\nhttps://t.co/qmo8SxEJt2 https://t.co/RcRNj807oI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Tips",
+						"indices": [
+							19,
+							24
+						]
+					},
+					{
+						"text": "Hacks",
+						"indices": [
+							31,
+							37
+						]
+					},
+					{
+						"text": "SocialMedia",
+						"indices": [
+							52,
+							64
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qmo8SxEJt2",
+						"expanded_url": "http://bit.ly/2sD10Ao",
+						"display_url": "bit.ly/2sD10Ao",
+						"indices": [
+							79,
+							102
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 897083708745941000,
+						"id_str": "897083708745940992",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/DHMU4VGXgAA41P5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHMU4VGXgAA41P5.jpg",
+						"url": "https://t.co/RcRNj807oI",
+						"display_url": "pic.twitter.com/RcRNj807oI",
+						"expanded_url": "https://twitter.com/brand24/status/897083711073771521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 721,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 409,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 721,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 897083708745941000,
+						"id_str": "897083708745940992",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/DHMU4VGXgAA41P5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHMU4VGXgAA41P5.jpg",
+						"url": "https://t.co/RcRNj807oI",
+						"display_url": "pic.twitter.com/RcRNj807oI",
+						"expanded_url": "https://twitter.com/brand24/status/897083711073771521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 721,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 409,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 721,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://coschedule.com\" rel=\"nofollow\">CoSchedule</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 168651283,
+				"id_str": "168651283",
+				"name": "Brand24",
+				"screen_name": "brand24",
+				"location": "Worldwide",
+				"description": "Get instant access to online mentions about your company. Grow customer satisfaction and sales.",
+				"url": "https://t.co/u4V0g2Zc94",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/u4V0g2Zc94",
+								"expanded_url": "http://www.brand24.com",
+								"display_url": "brand24.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19184,
+				"friends_count": 10291,
+				"listed_count": 938,
+				"created_at": "Tue Jul 20 13:03:39 +0000 2010",
+				"favourites_count": 4235,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8938,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000182013057/emsZqQHZ.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000182013057/emsZqQHZ.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/860415197063905280/-IXYdBWE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/860415197063905280/-IXYdBWE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/168651283/1494417148",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 14 17:38:20 +0000 2017",
+		"id": 897150410959470600,
+		"id_str": "897150410959470592",
+		"text": "@AskAaronLee @karizzle_bot @IKEAUSA Did I just catch you talking to a bot? 😲  😵",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AskAaronLee",
+					"name": "Aaron Lee",
+					"id": 25458378,
+					"id_str": "25458378",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "karizzle_bot",
+					"name": "Karizzle MarizzleBot",
+					"id": 2942470903,
+					"id_str": "2942470903",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "IKEAUSA",
+					"name": "IKEA USA",
+					"id": 303827856,
+					"id_str": "303827856",
+					"indices": [
+						27,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 897088670489919500,
+		"in_reply_to_status_id_str": "897088670489919488",
+		"in_reply_to_user_id": 25458378,
+		"in_reply_to_user_id_str": "25458378",
+		"in_reply_to_screen_name": "AskAaronLee",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14167,
+			"friends_count": 7571,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2756,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7517,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 14 17:06:22 +0000 2017",
 		"id": 897142363071459300,
 		"id_str": "897142363071459328",
