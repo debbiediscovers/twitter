@@ -1,6 +1,808 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 16 01:02:30 +0000 2017",
+		"id": 897624574304628700,
+		"id_str": "897624574304628737",
+		"text": "RT @crestodina: Would Google believe that this is the best page on the internet for this topic?\n#SEO for beginners\n&gt; https://t.co/WwGMyZ687…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEO",
+					"indices": [
+						96,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "crestodina",
+					"name": "Andy Crestodina",
+					"id": 31318025,
+					"id_str": "31318025",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14238,
+			"friends_count": 8392,
+			"listed_count": 1020,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2772,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7534,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 15 22:48:04 +0000 2017",
+			"id": 897590742159327200,
+			"id_str": "897590742159327233",
+			"text": "Would Google believe that this is the best page on the internet for this topic?\n#SEO for beginners\n&gt;… https://t.co/b8dPL0rvkP",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SEO",
+						"indices": [
+							80,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/b8dPL0rvkP",
+						"expanded_url": "https://twitter.com/i/web/status/897590742159327233",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://meetedgar.com\" rel=\"nofollow\">Meet Edgar</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31318025,
+				"id_str": "31318025",
+				"name": "Andy Crestodina",
+				"screen_name": "crestodina",
+				"location": "Chicago, IL - Ravenswood",
+				"description": "Co-founder of Orbit Media (@orbiteers), content marketer, speaker and author of Content Chemistry: https://t.co/ZtFSS5hmaO",
+				"url": "http://t.co/ghkKOseutG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ghkKOseutG",
+								"expanded_url": "http://orbitmedia.com",
+								"display_url": "orbitmedia.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZtFSS5hmaO",
+								"expanded_url": "https://www.orbitmedia.com/content-chemistry",
+								"display_url": "orbitmedia.com/content-chemis…",
+								"indices": [
+									99,
+									122
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 23529,
+				"friends_count": 4352,
+				"listed_count": 3282,
+				"created_at": "Wed Apr 15 02:54:20 +0000 2009",
+				"favourites_count": 4662,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18107,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/727984545694355456/nZTnXz-V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/727984545694355456/nZTnXz-V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31318025/1473522328",
+				"profile_link_color": "C8553B",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 16 00:14:41 +0000 2017",
+		"id": 897612543841226800,
+		"id_str": "897612543841226753",
+		"text": "RT @neilpatel: 6 Lessons to Learn From the World’s Most Popular Blogs #blogging #contentmarketing #onlinemarketing https://t.co/2Awk78IdW7…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "blogging",
+					"indices": [
+						70,
+						79
+					]
+				},
+				{
+					"text": "contentmarketing",
+					"indices": [
+						80,
+						97
+					]
+				},
+				{
+					"text": "onlinemarketing",
+					"indices": [
+						98,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "neilpatel",
+					"name": "Neil Patel",
+					"id": 1322691,
+					"id_str": "1322691",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2Awk78IdW7",
+					"expanded_url": "https://buff.ly/2w5qvga",
+					"display_url": "buff.ly/2w5qvga",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14238,
+			"friends_count": 8392,
+			"listed_count": 1020,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2772,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7534,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 15 23:51:05 +0000 2017",
+			"id": 897606603775651800,
+			"id_str": "897606603775651842",
+			"text": "6 Lessons to Learn From the World’s Most Popular Blogs #blogging #contentmarketing #onlinemarketing… https://t.co/RtzEQYH4bo",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "blogging",
+						"indices": [
+							55,
+							64
+						]
+					},
+					{
+						"text": "contentmarketing",
+						"indices": [
+							65,
+							82
+						]
+					},
+					{
+						"text": "onlinemarketing",
+						"indices": [
+							83,
+							99
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RtzEQYH4bo",
+						"expanded_url": "https://twitter.com/i/web/status/897606603775651842",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1322691,
+				"id_str": "1322691",
+				"name": "Neil Patel",
+				"screen_name": "neilpatel",
+				"location": "",
+				"description": "Entrepreneur, investor & influencer. Columnist for Forbes, Inc, Entrepreneur, Huffington Post & more. Founded @CrazyEgg with @hnshah.",
+				"url": "https://t.co/ETTeIqvDIc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ETTeIqvDIc",
+								"expanded_url": "http://neilpatel.com/",
+								"display_url": "neilpatel.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 265689,
+				"friends_count": 95774,
+				"listed_count": 11497,
+				"created_at": "Fri Mar 16 23:56:20 +0000 2007",
+				"favourites_count": 2718,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17631,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "63AD2B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/53287398/background.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/53287398/background.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/829191018331385858/jxsj-ZmD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/829191018331385858/jxsj-ZmD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1322691/1443130219",
+				"profile_link_color": "2362A1",
+				"profile_sidebar_border_color": "E2E2D2",
+				"profile_sidebar_fill_color": "F0F0E9",
+				"profile_text_color": "313131",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 46,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 16 00:14:12 +0000 2017",
+		"id": 897612418288898000,
+		"id_str": "897612418288898048",
+		"text": "RT @crestodina: 21 tips on how to get started #blogging ☞  https://t.co/fPxHJYoxYs  ☜  Perfect for pros and beginners https://t.co/7CVniwpx…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "blogging",
+					"indices": [
+						46,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "crestodina",
+					"name": "Andy Crestodina",
+					"id": 31318025,
+					"id_str": "31318025",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fPxHJYoxYs",
+					"expanded_url": "http://bit.ly/2vwiqAG",
+					"display_url": "bit.ly/2vwiqAG",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14238,
+			"friends_count": 8392,
+			"listed_count": 1020,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2772,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7534,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 16 00:11:03 +0000 2017",
+			"id": 897611628644110300,
+			"id_str": "897611628644110336",
+			"text": "21 tips on how to get started #blogging ☞  https://t.co/fPxHJYoxYs  ☜  Perfect for pros and beginners https://t.co/7CVniwpxNP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "blogging",
+						"indices": [
+							30,
+							39
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fPxHJYoxYs",
+						"expanded_url": "http://bit.ly/2vwiqAG",
+						"display_url": "bit.ly/2vwiqAG",
+						"indices": [
+							43,
+							66
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 897611620049985500,
+						"id_str": "897611620049985536",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DHT1Az9XoAADiRL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHT1Az9XoAADiRL.jpg",
+						"url": "https://t.co/7CVniwpxNP",
+						"display_url": "pic.twitter.com/7CVniwpxNP",
+						"expanded_url": "https://twitter.com/crestodina/status/897611628644110336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 625,
+								"h": 351,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 625,
+								"h": 351,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 625,
+								"h": 351,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 897611620049985500,
+						"id_str": "897611620049985536",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DHT1Az9XoAADiRL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHT1Az9XoAADiRL.jpg",
+						"url": "https://t.co/7CVniwpxNP",
+						"display_url": "pic.twitter.com/7CVniwpxNP",
+						"expanded_url": "https://twitter.com/crestodina/status/897611628644110336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 625,
+								"h": 351,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 625,
+								"h": 351,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 625,
+								"h": 351,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://meetedgar.com\" rel=\"nofollow\">Meet Edgar</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31318025,
+				"id_str": "31318025",
+				"name": "Andy Crestodina",
+				"screen_name": "crestodina",
+				"location": "Chicago, IL - Ravenswood",
+				"description": "Co-founder of Orbit Media (@orbiteers), content marketer, speaker and author of Content Chemistry: https://t.co/ZtFSS5hmaO",
+				"url": "http://t.co/ghkKOseutG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ghkKOseutG",
+								"expanded_url": "http://orbitmedia.com",
+								"display_url": "orbitmedia.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZtFSS5hmaO",
+								"expanded_url": "https://www.orbitmedia.com/content-chemistry",
+								"display_url": "orbitmedia.com/content-chemis…",
+								"indices": [
+									99,
+									122
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 23529,
+				"friends_count": 4352,
+				"listed_count": 3282,
+				"created_at": "Wed Apr 15 02:54:20 +0000 2009",
+				"favourites_count": 4662,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18107,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/727984545694355456/nZTnXz-V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/727984545694355456/nZTnXz-V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31318025/1473522328",
+				"profile_link_color": "C8553B",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 16 00:05:21 +0000 2017",
 		"id": 897610194225479700,
 		"id_str": "897610194225479680",
