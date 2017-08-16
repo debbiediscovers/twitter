@@ -1,6 +1,1110 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 16 04:37:37 +0000 2017",
+		"id": 897678713025740800,
+		"id_str": "897678713025740800",
+		"text": "RT @WolfgangDigital: If you've nailed Excel, mega boost your data manipulation with Google Sheets\nhttps://t.co/k4HdeIbR0O https://t.co/7os3…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WolfgangDigital",
+					"name": "Wolfgang Digital",
+					"id": 391869708,
+					"id_str": "391869708",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/k4HdeIbR0O",
+					"expanded_url": "https://blog.bufferapp.com/marketing-spreadsheets",
+					"display_url": "blog.bufferapp.com/marketing-spre…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14339,
+			"friends_count": 8456,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2780,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7540,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 10 14:03:09 +0000 2017",
+			"id": 884412682585215000,
+			"id_str": "884412682585214976",
+			"text": "If you've nailed Excel, mega boost your data manipulation with Google Sheets\nhttps://t.co/k4HdeIbR0O https://t.co/7os3AvCpmi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/k4HdeIbR0O",
+						"expanded_url": "https://blog.bufferapp.com/marketing-spreadsheets",
+						"display_url": "blog.bufferapp.com/marketing-spre…",
+						"indices": [
+							77,
+							100
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 884412675383595000,
+						"id_str": "884412675383595008",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DEYQpHcXkAAYn7Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEYQpHcXkAAYn7Z.jpg",
+						"url": "https://t.co/7os3AvCpmi",
+						"display_url": "pic.twitter.com/7os3AvCpmi",
+						"expanded_url": "https://twitter.com/WolfgangDigital/status/884412682585214976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 407,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1160,
+								"h": 694,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1160,
+								"h": 694,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 884412675383595000,
+						"id_str": "884412675383595008",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DEYQpHcXkAAYn7Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEYQpHcXkAAYn7Z.jpg",
+						"url": "https://t.co/7os3AvCpmi",
+						"display_url": "pic.twitter.com/7os3AvCpmi",
+						"expanded_url": "https://twitter.com/WolfgangDigital/status/884412682585214976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 407,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1160,
+								"h": 694,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1160,
+								"h": 694,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 884412677715636200,
+						"id_str": "884412677715636224",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DEYQpQIXsAAxFdY.png",
+						"media_url_https": "https://pbs.twimg.com/media/DEYQpQIXsAAxFdY.png",
+						"url": "https://t.co/7os3AvCpmi",
+						"display_url": "pic.twitter.com/7os3AvCpmi",
+						"expanded_url": "https://twitter.com/WolfgangDigital/status/884412682585214976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 650,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1957,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1146,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 884412677912748000,
+						"id_str": "884412677912748033",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DEYQpQ3XYAEOyJX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEYQpQ3XYAEOyJX.jpg",
+						"url": "https://t.co/7os3AvCpmi",
+						"display_url": "pic.twitter.com/7os3AvCpmi",
+						"expanded_url": "https://twitter.com/WolfgangDigital/status/884412682585214976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 884412677929545700,
+						"id_str": "884412677929545729",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DEYQpQ7XsAEv3Hl.png",
+						"media_url_https": "https://pbs.twimg.com/media/DEYQpQ7XsAEv3Hl.png",
+						"url": "https://t.co/7os3AvCpmi",
+						"display_url": "pic.twitter.com/7os3AvCpmi",
+						"expanded_url": "https://twitter.com/WolfgangDigital/status/884412682585214976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1568,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 521,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 919,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 391869708,
+				"id_str": "391869708",
+				"name": "Wolfgang Digital",
+				"screen_name": "WolfgangDigital",
+				"location": "Dublin, Ireland",
+				"description": "The Digital Marketing Scientists: Multiple Digital Media Awards, US Landys Awards, UK Drum Search Awards & European Search Awards inc Best Small PPC Agency 2016",
+				"url": "http://t.co/gFAMMSBrCO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/gFAMMSBrCO",
+								"expanded_url": "http://www.WolfgangDigital.com",
+								"display_url": "WolfgangDigital.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6727,
+				"friends_count": 1990,
+				"listed_count": 342,
+				"created_at": "Sun Oct 16 06:52:02 +0000 2011",
+				"favourites_count": 3210,
+				"utc_offset": 3600,
+				"time_zone": "Dublin",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6191,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D9D9D9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/790832416/cd3d349a52677aced432ec472c5b55ac.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/790832416/cd3d349a52677aced432ec472c5b55ac.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/676742619620384768/-6VU_RUI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/676742619620384768/-6VU_RUI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/391869708/1450182896",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 16 04:36:25 +0000 2017",
+		"id": 897678407995199500,
+		"id_str": "897678407995199489",
+		"text": "RT @WolfgangDigital: Take advantage of Google's Machine Learning power with Smart Lists in Adwords\nhttps://t.co/BXjEVuugdC https://t.co/F4A…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WolfgangDigital",
+					"name": "Wolfgang Digital",
+					"id": 391869708,
+					"id_str": "391869708",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BXjEVuugdC",
+					"expanded_url": "https://www.wolfgangdigital.com/blog/smart-lists-remarketing-lists-managed-by-machine-learning/",
+					"display_url": "wolfgangdigital.com/blog/smart-lis…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14339,
+			"friends_count": 8456,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2780,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7540,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 18 09:53:09 +0000 2017",
+			"id": 887248868223717400,
+			"id_str": "887248868223717378",
+			"text": "Take advantage of Google's Machine Learning power with Smart Lists in Adwords\nhttps://t.co/BXjEVuugdC https://t.co/F4A0Ey5zLL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BXjEVuugdC",
+						"expanded_url": "https://www.wolfgangdigital.com/blog/smart-lists-remarketing-lists-managed-by-machine-learning/",
+						"display_url": "wolfgangdigital.com/blog/smart-lis…",
+						"indices": [
+							78,
+							101
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 887248865539248100,
+						"id_str": "887248865539248128",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DFAkJHHV0AAuotG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFAkJHHV0AAuotG.jpg",
+						"url": "https://t.co/F4A0Ey5zLL",
+						"display_url": "pic.twitter.com/F4A0Ey5zLL",
+						"expanded_url": "https://twitter.com/WolfgangDigital/status/887248868223717378/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 673,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1960,
+								"h": 1100,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 887248865539248100,
+						"id_str": "887248865539248128",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DFAkJHHV0AAuotG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFAkJHHV0AAuotG.jpg",
+						"url": "https://t.co/F4A0Ey5zLL",
+						"display_url": "pic.twitter.com/F4A0Ey5zLL",
+						"expanded_url": "https://twitter.com/WolfgangDigital/status/887248868223717378/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 673,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1960,
+								"h": 1100,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 391869708,
+				"id_str": "391869708",
+				"name": "Wolfgang Digital",
+				"screen_name": "WolfgangDigital",
+				"location": "Dublin, Ireland",
+				"description": "The Digital Marketing Scientists: Multiple Digital Media Awards, US Landys Awards, UK Drum Search Awards & European Search Awards inc Best Small PPC Agency 2016",
+				"url": "http://t.co/gFAMMSBrCO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/gFAMMSBrCO",
+								"expanded_url": "http://www.WolfgangDigital.com",
+								"display_url": "WolfgangDigital.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6727,
+				"friends_count": 1990,
+				"listed_count": 342,
+				"created_at": "Sun Oct 16 06:52:02 +0000 2011",
+				"favourites_count": 3210,
+				"utc_offset": 3600,
+				"time_zone": "Dublin",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6191,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D9D9D9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/790832416/cd3d349a52677aced432ec472c5b55ac.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/790832416/cd3d349a52677aced432ec472c5b55ac.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/676742619620384768/-6VU_RUI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/676742619620384768/-6VU_RUI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/391869708/1450182896",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 8,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 16 04:36:20 +0000 2017",
+		"id": 897678389779333100,
+		"id_str": "897678389779333121",
+		"text": "@WolfgangDigital Amazing results!! Thanks for sharing. #MustTry! 😊 https://t.co/qnzTILelTT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MustTry",
+					"indices": [
+						55,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WolfgangDigital",
+					"name": "Wolfgang Digital",
+					"id": 391869708,
+					"id_str": "391869708",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 897678379691917300,
+					"id_str": "897678379691917312",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DHUxuvAVwAAFQvD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DHUxuvAVwAAFQvD.jpg",
+					"url": "https://t.co/qnzTILelTT",
+					"display_url": "pic.twitter.com/qnzTILelTT",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/897678389779333121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 610,
+							"h": 350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 195,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 344,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 897678379691917300,
+					"id_str": "897678379691917312",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DHUxuvAVwAAFQvD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DHUxuvAVwAAFQvD.jpg",
+					"url": "https://t.co/qnzTILelTT",
+					"display_url": "pic.twitter.com/qnzTILelTT",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/897678389779333121/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 610,
+							"h": 350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 195,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 344,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							61,
+							35
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DHUxuvAVwAAFQvD.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 887248868223717400,
+		"in_reply_to_status_id_str": "887248868223717378",
+		"in_reply_to_user_id": 391869708,
+		"in_reply_to_user_id_str": "391869708",
+		"in_reply_to_screen_name": "WolfgangDigital",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14339,
+			"friends_count": 8456,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2780,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7540,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 16 04:16:00 +0000 2017",
+		"id": 897673272053182500,
+		"id_str": "897673272053182465",
+		"text": "RT @gregfrysocial: Instagram Audiences Engage More on Weekdays......Lots more stats here https://t.co/2Xdwhauock",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gregfrysocial",
+					"name": "Greg Fry",
+					"id": 28524353,
+					"id_str": "28524353",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2Xdwhauock",
+					"expanded_url": "http://ow.ly/flQs30e9hv3",
+					"display_url": "ow.ly/flQs30e9hv3",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14339,
+			"friends_count": 8456,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2780,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7540,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 04 14:55:09 +0000 2017",
+			"id": 893485465684324400,
+			"id_str": "893485465684324353",
+			"text": "Instagram Audiences Engage More on Weekdays......Lots more stats here https://t.co/2Xdwhauock",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2Xdwhauock",
+						"expanded_url": "http://ow.ly/flQs30e9hv3",
+						"display_url": "ow.ly/flQs30e9hv3",
+						"indices": [
+							70,
+							93
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28524353,
+				"id_str": "28524353",
+				"name": "Greg Fry",
+				"screen_name": "gregfrysocial",
+				"location": "Ireland",
+				"description": "Personal Branding | Digital Marketing | Content Marketing | Social Media Trainer | Social Business Consultant | Empowering Professional Development",
+				"url": "https://t.co/VMbSzqd8zi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VMbSzqd8zi",
+								"expanded_url": "http://www.contentplan.co",
+								"display_url": "contentplan.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7044,
+				"friends_count": 5626,
+				"listed_count": 319,
+				"created_at": "Fri Apr 03 07:43:45 +0000 2009",
+				"favourites_count": 861,
+				"utc_offset": 3600,
+				"time_zone": "Dublin",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16308,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/712342968938663936/8HIKQIff_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/712342968938663936/8HIKQIff_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28524353/1398336446",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 16 03:35:16 +0000 2017",
 		"id": 897663020062711800,
 		"id_str": "897663020062711808",
