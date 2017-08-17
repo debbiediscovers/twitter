@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 17 06:59:17 +0000 2017",
+		"id": 898076751032533000,
+		"id_str": "898076751032532992",
+		"text": "RT @Econsultancy: Digital marketing in Singapore: 101 https://t.co/1tmgGwAuJ0 https://t.co/CmEUYNR7mZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Econsultancy",
+					"name": "Econsultancy",
+					"id": 11833202,
+					"id_str": "11833202",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1tmgGwAuJ0",
+					"expanded_url": "http://bit.ly/1MEgFo6",
+					"display_url": "bit.ly/1MEgFo6",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 715929533858390000,
+					"id_str": "715929533858390017",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Ce9-Hi3XIAEJ7Fk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ce9-Hi3XIAEJ7Fk.jpg",
+					"url": "https://t.co/CmEUYNR7mZ",
+					"display_url": "pic.twitter.com/CmEUYNR7mZ",
+					"expanded_url": "https://twitter.com/Econsultancy/status/716084261699256323/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 470,
+							"h": 304,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 220,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 470,
+							"h": 304,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 716084261699256300,
+					"source_status_id_str": "716084261699256323",
+					"source_user_id": 11833202,
+					"source_user_id_str": "11833202"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 715929533858390000,
+					"id_str": "715929533858390017",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Ce9-Hi3XIAEJ7Fk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ce9-Hi3XIAEJ7Fk.jpg",
+					"url": "https://t.co/CmEUYNR7mZ",
+					"display_url": "pic.twitter.com/CmEUYNR7mZ",
+					"expanded_url": "https://twitter.com/Econsultancy/status/716084261699256323/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 470,
+							"h": 304,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 220,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 470,
+							"h": 304,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 716084261699256300,
+					"source_status_id_str": "716084261699256323",
+					"source_user_id": 11833202,
+					"source_user_id_str": "11833202"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14542,
+			"friends_count": 8693,
+			"listed_count": 1023,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2820,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7564,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 02 02:06:06 +0000 2016",
+			"id": 716084261699256300,
+			"id_str": "716084261699256323",
+			"text": "Digital marketing in Singapore: 101 https://t.co/1tmgGwAuJ0 https://t.co/CmEUYNR7mZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1tmgGwAuJ0",
+						"expanded_url": "http://bit.ly/1MEgFo6",
+						"display_url": "bit.ly/1MEgFo6",
+						"indices": [
+							36,
+							59
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 715929533858390000,
+						"id_str": "715929533858390017",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/Ce9-Hi3XIAEJ7Fk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ce9-Hi3XIAEJ7Fk.jpg",
+						"url": "https://t.co/CmEUYNR7mZ",
+						"display_url": "pic.twitter.com/CmEUYNR7mZ",
+						"expanded_url": "https://twitter.com/Econsultancy/status/716084261699256323/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 470,
+								"h": 304,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 220,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 470,
+								"h": 304,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 715929533858390000,
+						"id_str": "715929533858390017",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/Ce9-Hi3XIAEJ7Fk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ce9-Hi3XIAEJ7Fk.jpg",
+						"url": "https://t.co/CmEUYNR7mZ",
+						"display_url": "pic.twitter.com/CmEUYNR7mZ",
+						"expanded_url": "https://twitter.com/Econsultancy/status/716084261699256323/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 470,
+								"h": 304,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 220,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 470,
+								"h": 304,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11833202,
+				"id_str": "11833202",
+				"name": "Econsultancy",
+				"screen_name": "Econsultancy",
+				"location": "London | New York | Singapore",
+				"description": "Econsultancy publishes independent research, analysis and advice on digital marketing, social media, ecommerce, SEO, mobile and tech for businesses.",
+				"url": "http://t.co/mq09sEnMsi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/mq09sEnMsi",
+								"expanded_url": "http://Econsultancy.com",
+								"display_url": "Econsultancy.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 235838,
+				"friends_count": 1118,
+				"listed_count": 12105,
+				"created_at": "Fri Jan 04 09:40:55 +0000 2008",
+				"favourites_count": 9141,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 46637,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAFAFA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000124850676/i0isHHLq.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000124850676/i0isHHLq.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783569217123717121/AWBOtHLr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783569217123717121/AWBOtHLr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11833202/1479396863",
+				"profile_link_color": "ED002B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F0FFFF",
+				"profile_text_color": "525252",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "tl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl"
+	},
+	{
 		"created_at": "Thu Aug 17 06:00:32 +0000 2017",
 		"id": 898061967927066600,
 		"id_str": "898061967927066624",
