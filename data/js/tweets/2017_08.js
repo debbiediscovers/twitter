@@ -1,6 +1,1216 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 17 13:05:16 +0000 2017",
+		"id": 898168855423594500,
+		"id_str": "898168855423594498",
+		"text": "5 Top Social Media Dashboard Tools to Manage Your Social Accounts https://t.co/m0G16vFlsC via @jeffbullas #smm… https://t.co/C4PfcN7DRU",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "smm",
+					"indices": [
+						106,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jeffbullas",
+					"name": "Jeff Bullas",
+					"id": 18185124,
+					"id_str": "18185124",
+					"indices": [
+						94,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m0G16vFlsC",
+					"expanded_url": "http://crwd.fr/2fF1Is9",
+					"display_url": "crwd.fr/2fF1Is9",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/C4PfcN7DRU",
+					"expanded_url": "https://twitter.com/i/web/status/898168855423594498",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.crowdfireapp.com\" rel=\"nofollow\">Crowdfire - Go Big</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14682,
+			"friends_count": 10439,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2844,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7578,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 17 11:30:20 +0000 2017",
+		"id": 898144963870957600,
+		"id_str": "898144963870957573",
+		"text": "RT @MariaWinans: #MustRead: top #commerce trends &amp; how #cognitive technologies will impact these. #WatsonCommerce #retail https://t.co/WVwe…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MustRead",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"text": "commerce",
+					"indices": [
+						32,
+						41
+					]
+				},
+				{
+					"text": "cognitive",
+					"indices": [
+						59,
+						69
+					]
+				},
+				{
+					"text": "WatsonCommerce",
+					"indices": [
+						102,
+						117
+					]
+				},
+				{
+					"text": "retail",
+					"indices": [
+						118,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MariaWinans",
+					"name": "Maria Winans",
+					"id": 792338988,
+					"id_str": "792338988",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14682,
+			"friends_count": 10439,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2844,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7578,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 10 20:52:06 +0000 2017",
+			"id": 895749622181658600,
+			"id_str": "895749622181658625",
+			"text": "#MustRead: top #commerce trends &amp; how #cognitive technologies will impact these. #WatsonCommerce #retail… https://t.co/cmFf12jFzm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MustRead",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "commerce",
+						"indices": [
+							15,
+							24
+						]
+					},
+					{
+						"text": "cognitive",
+						"indices": [
+							42,
+							52
+						]
+					},
+					{
+						"text": "WatsonCommerce",
+						"indices": [
+							85,
+							100
+						]
+					},
+					{
+						"text": "retail",
+						"indices": [
+							101,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cmFf12jFzm",
+						"expanded_url": "https://twitter.com/i/web/status/895749622181658625",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://percolate.com\" rel=\"nofollow\">Percolate</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 792338988,
+				"id_str": "792338988",
+				"name": "Maria Winans",
+				"screen_name": "MariaWinans",
+				"location": "USA",
+				"description": "CMO, Watson Customer Engagement | Boxing Instructor | Tweets are my own.",
+				"url": "https://t.co/P6Nmc0lsVF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/P6Nmc0lsVF",
+								"expanded_url": "http://ibm.com/commerce",
+								"display_url": "ibm.com/commerce",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22104,
+				"friends_count": 14593,
+				"listed_count": 1015,
+				"created_at": "Thu Aug 30 20:31:37 +0000 2012",
+				"favourites_count": 2619,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3759,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "09ACF7",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000068159806/66290a867fa9fc98abc6486d35ecc765.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000068159806/66290a867fa9fc98abc6486d35ecc765.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/834444345897988097/kLpjNS83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/834444345897988097/kLpjNS83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/792338988/1491575604",
+				"profile_link_color": "09ACF7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 17 11:27:08 +0000 2017",
+		"id": 898144155418767400,
+		"id_str": "898144155418767360",
+		"text": "RT @Twitter: This Tweet from @BarackObama is now the most liked Tweet ever. https://t.co/wEjYaxIHI1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "BarackObama",
+					"name": "Barack Obama",
+					"id": 813286,
+					"id_str": "813286",
+					"indices": [
+						29,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wEjYaxIHI1",
+					"expanded_url": "https://twitter.com/BarackObama/status/896523232098078720",
+					"display_url": "twitter.com/BarackObama/st…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14682,
+			"friends_count": 10439,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2844,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7578,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 16 04:41:13 +0000 2017",
+			"id": 897679617821089800,
+			"id_str": "897679617821089793",
+			"text": "This Tweet from @BarackObama is now the most liked Tweet ever. https://t.co/wEjYaxIHI1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BarackObama",
+						"name": "Barack Obama",
+						"id": 813286,
+						"id_str": "813286",
+						"indices": [
+							16,
+							28
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wEjYaxIHI1",
+						"expanded_url": "https://twitter.com/BarackObama/status/896523232098078720",
+						"display_url": "twitter.com/BarackObama/st…",
+						"indices": [
+							63,
+							86
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 783214,
+				"id_str": "783214",
+				"name": "Twitter",
+				"screen_name": "Twitter",
+				"location": "San Francisco, CA",
+				"description": "Your official source for what’s happening.\n\nNeed a hand? Visit https://t.co/jTMg7YsLw5",
+				"url": "https://t.co/gN5JJwhQy7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gN5JJwhQy7",
+								"expanded_url": "https://blog.twitter.com/",
+								"display_url": "blog.twitter.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/jTMg7YsLw5",
+								"expanded_url": "https://support.twitter.com",
+								"display_url": "support.twitter.com",
+								"indices": [
+									63,
+									86
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 61637080,
+				"friends_count": 166,
+				"listed_count": 90396,
+				"created_at": "Tue Feb 20 14:35:54 +0000 2007",
+				"favourites_count": 5079,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5837,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875087697177567232/Qfy0kRIP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875087697177567232/Qfy0kRIP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1500307683",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 896523232098078700,
+			"quoted_status_id_str": "896523232098078720",
+			"quoted_status": {
+				"created_at": "Sun Aug 13 00:06:09 +0000 2017",
+				"id": 896523232098078700,
+				"id_str": "896523232098078720",
+				"text": "\"No one is born hating another person because of the color of his skin or his background or his religion...\" https://t.co/InZ58zkoAm",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 896523225760387100,
+							"id_str": "896523225760387072",
+							"indices": [
+								109,
+								132
+							],
+							"media_url": "http://pbs.twimg.com/media/DHEXH7RV0AAUwKj.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DHEXH7RV0AAUwKj.jpg",
+							"url": "https://t.co/InZ58zkoAm",
+							"display_url": "pic.twitter.com/InZ58zkoAm",
+							"expanded_url": "https://twitter.com/BarackObama/status/896523232098078720/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 453,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1200,
+									"h": 800,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 800,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 896523225760387100,
+							"id_str": "896523225760387072",
+							"indices": [
+								109,
+								132
+							],
+							"media_url": "http://pbs.twimg.com/media/DHEXH7RV0AAUwKj.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DHEXH7RV0AAUwKj.jpg",
+							"url": "https://t.co/InZ58zkoAm",
+							"display_url": "pic.twitter.com/InZ58zkoAm",
+							"expanded_url": "https://twitter.com/BarackObama/status/896523232098078720/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 453,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1200,
+									"h": 800,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 800,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 813286,
+					"id_str": "813286",
+					"name": "Barack Obama",
+					"screen_name": "BarackObama",
+					"location": "Washington, DC",
+					"description": "Dad, husband, President, citizen.",
+					"url": "https://t.co/93Y27HEnnX",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/93Y27HEnnX",
+									"expanded_url": "https://www.obama.org/",
+									"display_url": "obama.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 93573444,
+					"friends_count": 628553,
+					"listed_count": 223961,
+					"created_at": "Mon Mar 05 22:08:25 +0000 2007",
+					"favourites_count": 10,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 15454,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "77B0DC",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+					"profile_link_color": "2574AD",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "C2E0F6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1568721,
+				"favorite_count": 4142911,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 94912,
+			"favorite_count": 294669,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 896523232098078700,
+		"quoted_status_id_str": "896523232098078720",
+		"retweet_count": 94912,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 17 11:26:36 +0000 2017",
+		"id": 898144024896217100,
+		"id_str": "898144024896217089",
+		"text": "RT @BarackObama: \"No one is born hating another person because of the color of his skin or his background or his religion...\" https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BarackObama",
+					"name": "Barack Obama",
+					"id": 813286,
+					"id_str": "813286",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14682,
+			"friends_count": 10439,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2844,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7578,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 13 00:06:09 +0000 2017",
+			"id": 896523232098078700,
+			"id_str": "896523232098078720",
+			"text": "\"No one is born hating another person because of the color of his skin or his background or his religion...\" https://t.co/InZ58zkoAm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 896523225760387100,
+						"id_str": "896523225760387072",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/DHEXH7RV0AAUwKj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHEXH7RV0AAUwKj.jpg",
+						"url": "https://t.co/InZ58zkoAm",
+						"display_url": "pic.twitter.com/InZ58zkoAm",
+						"expanded_url": "https://twitter.com/BarackObama/status/896523232098078720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 896523225760387100,
+						"id_str": "896523225760387072",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/DHEXH7RV0AAUwKj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHEXH7RV0AAUwKj.jpg",
+						"url": "https://t.co/InZ58zkoAm",
+						"display_url": "pic.twitter.com/InZ58zkoAm",
+						"expanded_url": "https://twitter.com/BarackObama/status/896523232098078720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 813286,
+				"id_str": "813286",
+				"name": "Barack Obama",
+				"screen_name": "BarackObama",
+				"location": "Washington, DC",
+				"description": "Dad, husband, President, citizen.",
+				"url": "https://t.co/93Y27HEnnX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/93Y27HEnnX",
+								"expanded_url": "https://www.obama.org/",
+								"display_url": "obama.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 93573444,
+				"friends_count": 628553,
+				"listed_count": 223961,
+				"created_at": "Mon Mar 05 22:08:25 +0000 2007",
+				"favourites_count": 10,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 15454,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "77B0DC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+				"profile_link_color": "2574AD",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C2E0F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1568721,
+			"favorite_count": 4142911,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1568721,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 17 11:21:59 +0000 2017",
+		"id": 898142863011094500,
+		"id_str": "898142863011094528",
+		"text": "Love this @Always. Failures aren’t setbacks, failures are fuel to Keep Going #LikeAGirl! Watch and share! https://t.co/sUlRwQnK0q",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LikeAGirl",
+					"indices": [
+						77,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Always",
+					"name": "Always",
+					"id": 438803220,
+					"id_str": "438803220",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sUlRwQnK0q",
+					"expanded_url": "https://cards.twitter.com/cards/7992qc/4m9xr",
+					"display_url": "cards.twitter.com/cards/7992qc/4…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14682,
+			"friends_count": 10439,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2844,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7578,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 17 11:00:41 +0000 2017",
 		"id": 898137502199840800,
 		"id_str": "898137502199840768",
