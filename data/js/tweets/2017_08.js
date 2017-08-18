@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Fri Aug 18 16:17:04 +0000 2017",
+		"id": 898579511205285900,
+		"id_str": "898579511205285888",
+		"text": "RT @ProductHuntGIF: NoCode is a directory of free resources &amp; tools for non-technical entrepreneurs 🙏 https://t.co/SFH7TcAu2V https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProductHuntGIF",
+					"name": "Product Hunt GIF",
+					"id": 702938331961643000,
+					"id_str": "702938331961643008",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SFH7TcAu2V",
+					"expanded_url": "https://www.producthunt.com/posts/nocode",
+					"display_url": "producthunt.com/posts/nocode",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15161,
+			"friends_count": 9750,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2904,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7609,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 30 22:31:02 +0000 2017",
+			"id": 880916614199332900,
+			"id_str": "880916614199332868",
+			"text": "NoCode is a directory of free resources &amp; tools for non-technical entrepreneurs 🙏 https://t.co/SFH7TcAu2V https://t.co/nQkVeuUc3p",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SFH7TcAu2V",
+						"expanded_url": "https://www.producthunt.com/posts/nocode",
+						"display_url": "producthunt.com/posts/nocode",
+						"indices": [
+							86,
+							109
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 880916607417155600,
+						"id_str": "880916607417155584",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DDmk_LXXgAA9jOi.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DDmk_LXXgAA9jOi.jpg",
+						"url": "https://t.co/nQkVeuUc3p",
+						"display_url": "pic.twitter.com/nQkVeuUc3p",
+						"expanded_url": "https://twitter.com/ProductHuntGIF/status/880916614199332868/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 358,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 203,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 611,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 880916607417155600,
+						"id_str": "880916607417155584",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DDmk_LXXgAA9jOi.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DDmk_LXXgAA9jOi.jpg",
+						"url": "https://t.co/nQkVeuUc3p",
+						"display_url": "pic.twitter.com/nQkVeuUc3p",
+						"expanded_url": "https://twitter.com/ProductHuntGIF/status/880916614199332868/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 358,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 203,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 611,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								622,
+								371
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DDmk_LXXgAA9jOi.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 702938331961643000,
+				"id_str": "702938331961643008",
+				"name": "Product Hunt GIF",
+				"screen_name": "ProductHuntGIF",
+				"location": "San Francisco, CA",
+				"description": "The place to discover your next favorite thing, through GIFs on @ProductHunt. @Giphy followed me 3/30/2016.",
+				"url": "https://t.co/U1PmmwwOtQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/U1PmmwwOtQ",
+								"expanded_url": "http://producthunt.com",
+								"display_url": "producthunt.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6732,
+				"friends_count": 72,
+				"listed_count": 176,
+				"created_at": "Thu Feb 25 19:28:53 +0000 2016",
+				"favourites_count": 4189,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3755,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/752649407984603136/v6dEZ1TY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/752649407984603136/v6dEZ1TY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/702938331961643008/1456429493",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 18 16:09:43 +0000 2017",
 		"id": 898577658862121000,
 		"id_str": "898577658862120960",
