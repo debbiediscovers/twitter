@@ -1,6 +1,861 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Fri Aug 18 11:57:49 +0000 2017",
+		"id": 898514267288223700,
+		"id_str": "898514267288223745",
+		"text": "RT @connections8: MozCon 2017 Tips from 16 Speakers https://t.co/rOFKkNRzXX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "connections8",
+					"name": "James Norquay",
+					"id": 20898413,
+					"id_str": "20898413",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rOFKkNRzXX",
+					"expanded_url": "https://lnkd.in/e2nn9tP",
+					"display_url": "lnkd.in/e2nn9tP",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15035,
+			"friends_count": 9748,
+			"listed_count": 1022,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2869,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7596,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 16 07:30:21 +0000 2017",
+			"id": 897722180913569800,
+			"id_str": "897722180913569792",
+			"text": "MozCon 2017 Tips from 16 Speakers https://t.co/rOFKkNRzXX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rOFKkNRzXX",
+						"expanded_url": "https://lnkd.in/e2nn9tP",
+						"display_url": "lnkd.in/e2nn9tP",
+						"indices": [
+							34,
+							57
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.linkedin.com/\" rel=\"nofollow\">LinkedIn</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20898413,
+				"id_str": "20898413",
+				"name": "James Norquay",
+				"screen_name": "connections8",
+				"location": "Sydney, Australia",
+				"description": "SEO & Content Marketing Consulting Director from Sydney Australia. Work with Big Brands, Funded Startups and B2B's to drive huge growth online.",
+				"url": "https://t.co/KFmUUS3akR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KFmUUS3akR",
+								"expanded_url": "http://prosperitymedia.com.au/",
+								"display_url": "prosperitymedia.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5707,
+				"friends_count": 952,
+				"listed_count": 398,
+				"created_at": "Sun Feb 15 07:22:09 +0000 2009",
+				"favourites_count": 1549,
+				"utc_offset": 36000,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8864,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/663188820/wgr7l161cwz54ul73p82.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/663188820/wgr7l161cwz54ul73p82.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/747045942612811776/MChMLdZW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/747045942612811776/MChMLdZW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20898413/1457750371",
+				"profile_link_color": "85898A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 18 11:53:50 +0000 2017",
+		"id": 898513265248002000,
+		"id_str": "898513265248002049",
+		"text": "RT @SuppleSolutions: You can now ask Google Maps questions with new Q&amp;A feature #LocalSEO  https://t.co/M8OmIr2Gub https://t.co/T8FxG8qdoC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LocalSEO",
+					"indices": [
+						84,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SuppleSolutions",
+					"name": "Supple",
+					"id": 802453494,
+					"id_str": "802453494",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/M8OmIr2Gub",
+					"expanded_url": "https://buff.ly/2wc11hd",
+					"display_url": "buff.ly/2wc11hd",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 897970177660289000,
+					"id_str": "897970177660289025",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DHY7HnJWAAED2OQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DHY7HnJWAAED2OQ.jpg",
+					"url": "https://t.co/T8FxG8qdoC",
+					"display_url": "pic.twitter.com/T8FxG8qdoC",
+					"expanded_url": "https://twitter.com/SuppleSolutions/status/897970183712768000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 950,
+							"h": 534,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 337,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897970183712768000,
+					"source_status_id_str": "897970183712768000",
+					"source_user_id": 802453494,
+					"source_user_id_str": "802453494"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 897970177660289000,
+					"id_str": "897970177660289025",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DHY7HnJWAAED2OQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DHY7HnJWAAED2OQ.jpg",
+					"url": "https://t.co/T8FxG8qdoC",
+					"display_url": "pic.twitter.com/T8FxG8qdoC",
+					"expanded_url": "https://twitter.com/SuppleSolutions/status/897970183712768000/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 950,
+							"h": 534,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 337,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897970183712768000,
+					"source_status_id_str": "897970183712768000",
+					"source_user_id": 802453494,
+					"source_user_id_str": "802453494",
+					"video_info": {
+						"aspect_ratio": [
+							475,
+							267
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DHY7HnJWAAED2OQ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15035,
+			"friends_count": 9748,
+			"listed_count": 1022,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2869,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7596,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 16 23:55:49 +0000 2017",
+			"id": 897970183712768000,
+			"id_str": "897970183712768000",
+			"text": "You can now ask Google Maps questions with new Q&amp;A feature #LocalSEO  https://t.co/M8OmIr2Gub https://t.co/T8FxG8qdoC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LocalSEO",
+						"indices": [
+							63,
+							72
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/M8OmIr2Gub",
+						"expanded_url": "https://buff.ly/2wc11hd",
+						"display_url": "buff.ly/2wc11hd",
+						"indices": [
+							74,
+							97
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 897970177660289000,
+						"id_str": "897970177660289025",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DHY7HnJWAAED2OQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DHY7HnJWAAED2OQ.jpg",
+						"url": "https://t.co/T8FxG8qdoC",
+						"display_url": "pic.twitter.com/T8FxG8qdoC",
+						"expanded_url": "https://twitter.com/SuppleSolutions/status/897970183712768000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 950,
+								"h": 534,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 337,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 897970177660289000,
+						"id_str": "897970177660289025",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DHY7HnJWAAED2OQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DHY7HnJWAAED2OQ.jpg",
+						"url": "https://t.co/T8FxG8qdoC",
+						"display_url": "pic.twitter.com/T8FxG8qdoC",
+						"expanded_url": "https://twitter.com/SuppleSolutions/status/897970183712768000/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 950,
+								"h": 534,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 337,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								475,
+								267
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DHY7HnJWAAED2OQ.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 802453494,
+				"id_str": "802453494",
+				"name": "Supple",
+				"screen_name": "SuppleSolutions",
+				"location": "Melbourne, Australia",
+				"description": "Supple is an award-winning SEO company based in Melbourne & Sydney. Contact us for an obligation FREE quote from our SEO consultants.",
+				"url": "https://t.co/Ua5e347evu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ua5e347evu",
+								"expanded_url": "https://supple.com.au",
+								"display_url": "supple.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 174,
+				"friends_count": 131,
+				"listed_count": 27,
+				"created_at": "Tue Sep 04 13:47:34 +0000 2012",
+				"favourites_count": 120,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 472,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583491630566506496/_NzRJWbb_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583491630566506496/_NzRJWbb_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/802453494/1427950570",
+				"profile_link_color": "04A7E1",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 18 11:36:43 +0000 2017",
+		"id": 898508956904996900,
+		"id_str": "898508956904996865",
+		"text": "@shadowcheif74 Love the quote in your bio! https://t.co/x6sbqn6kLC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shadowcheif74",
+					"name": "Jason Donovan",
+					"id": 757564734,
+					"id_str": "757564734",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x6sbqn6kLC",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/801774336998666240",
+					"display_url": "twitter.com/debbiediscover…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 898508555933728800,
+		"in_reply_to_status_id_str": "898508555933728768",
+		"in_reply_to_user_id": 757564734,
+		"in_reply_to_user_id_str": "757564734",
+		"in_reply_to_screen_name": "shadowcheif74",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15035,
+			"friends_count": 9748,
+			"listed_count": 1022,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2869,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7596,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 801774336998666200,
+		"quoted_status_id_str": "801774336998666240",
+		"quoted_status": {
+			"created_at": "Thu Nov 24 13:07:52 +0000 2016",
+			"id": 801774336998666200,
+			"id_str": "801774336998666240",
+			"text": "Yesterday is history \nTomorrow is a mystery \nBut today is a #gift \nThat’s why we call it the “present” - W. Pooh… https://t.co/xZOWQsIm5K",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "gift",
+						"indices": [
+							60,
+							65
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xZOWQsIm5K",
+						"expanded_url": "https://twitter.com/i/web/status/801774336998666240",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Central Region, Singapore",
+				"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+				"url": "https://t.co/f7EuC7yqus",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/f7EuC7yqus",
+								"expanded_url": "http://www.digitaldiscovery.sg",
+								"display_url": "digitaldiscovery.sg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15035,
+				"friends_count": 9748,
+				"listed_count": 1022,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 2869,
+				"utc_offset": -39600,
+				"time_zone": "International Date Line West",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7596,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 18 10:58:10 +0000 2017",
 		"id": 898499257212092400,
 		"id_str": "898499257212092418",
