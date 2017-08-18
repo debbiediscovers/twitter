@@ -1,6 +1,869 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Fri Aug 18 15:02:05 +0000 2017",
+		"id": 898560638586282000,
+		"id_str": "898560638586281987",
+		"text": "RT @TheNextWeb: Facebook has a new look - come spot the differences https://t.co/zQec8OYyw3 https://t.co/2ID3XTASQv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheNextWeb",
+					"name": "TNW",
+					"id": 10876852,
+					"id_str": "10876852",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zQec8OYyw3",
+					"expanded_url": "http://tnw.me/70arXX5",
+					"display_url": "tnw.me/70arXX5",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 897841636180336600,
+					"id_str": "897841636180336641",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/DHXGNg0VoAEjunj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHXGNg0VoAEjunj.jpg",
+					"url": "https://t.co/2ID3XTASQv",
+					"display_url": "pic.twitter.com/2ID3XTASQv",
+					"expanded_url": "https://twitter.com/TheNextWeb/status/897841642258010114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1566,
+							"h": 820,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897841642258010100,
+					"source_status_id_str": "897841642258010114",
+					"source_user_id": 10876852,
+					"source_user_id_str": "10876852"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 897841636180336600,
+					"id_str": "897841636180336641",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/DHXGNg0VoAEjunj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHXGNg0VoAEjunj.jpg",
+					"url": "https://t.co/2ID3XTASQv",
+					"display_url": "pic.twitter.com/2ID3XTASQv",
+					"expanded_url": "https://twitter.com/TheNextWeb/status/897841642258010114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1566,
+							"h": 820,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897841642258010100,
+					"source_status_id_str": "897841642258010114",
+					"source_user_id": 10876852,
+					"source_user_id_str": "10876852"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15110,
+			"friends_count": 10112,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2897,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7604,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 16 15:25:03 +0000 2017",
+			"id": 897841642258010100,
+			"id_str": "897841642258010114",
+			"text": "Facebook has a new look - come spot the differences https://t.co/zQec8OYyw3 https://t.co/2ID3XTASQv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zQec8OYyw3",
+						"expanded_url": "http://tnw.me/70arXX5",
+						"display_url": "tnw.me/70arXX5",
+						"indices": [
+							52,
+							75
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 897841636180336600,
+						"id_str": "897841636180336641",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DHXGNg0VoAEjunj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHXGNg0VoAEjunj.jpg",
+						"url": "https://t.co/2ID3XTASQv",
+						"display_url": "pic.twitter.com/2ID3XTASQv",
+						"expanded_url": "https://twitter.com/TheNextWeb/status/897841642258010114/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1566,
+								"h": 820,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 897841636180336600,
+						"id_str": "897841636180336641",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DHXGNg0VoAEjunj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHXGNg0VoAEjunj.jpg",
+						"url": "https://t.co/2ID3XTASQv",
+						"display_url": "pic.twitter.com/2ID3XTASQv",
+						"expanded_url": "https://twitter.com/TheNextWeb/status/897841642258010114/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1566,
+								"h": 820,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10876852,
+				"id_str": "10876852",
+				"name": "TNW",
+				"screen_name": "TheNextWeb",
+				"location": "The Interwebs.",
+				"description": "Your source for opinionated perspectives on tech news for Generation T",
+				"url": "https://t.co/PJK4LYkBwE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PJK4LYkBwE",
+								"expanded_url": "https://www.thenextweb.com",
+								"display_url": "thenextweb.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1848181,
+				"friends_count": 420,
+				"listed_count": 33065,
+				"created_at": "Wed Dec 05 17:26:15 +0000 2007",
+				"favourites_count": 3876,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 137435,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF3C1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000164731038/_3evIEjW.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000164731038/_3evIEjW.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848832036169273344/p5J8QMn7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848832036169273344/p5J8QMn7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10876852/1499349745",
+				"profile_link_color": "FF3C1F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 18,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 18 14:55:49 +0000 2017",
+		"id": 898559062316417000,
+		"id_str": "898559062316417025",
+		"text": "@CaveJustin Check out also @LumenFive by friends at @sniply. Uses AI to publish your blog post. Desktop only but free while in beta. 😀",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CaveJustin",
+					"name": "Justin Kerby",
+					"id": 1099186513,
+					"id_str": "1099186513",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "LumenFive",
+					"name": "Lumen5",
+					"id": 796128843111108600,
+					"id_str": "796128843111108608",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "sniply",
+					"name": "Sniply",
+					"id": 169205802,
+					"id_str": "169205802",
+					"indices": [
+						52,
+						59
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 898304460904046600,
+		"in_reply_to_status_id_str": "898304460904046593",
+		"in_reply_to_user_id": 1099186513,
+		"in_reply_to_user_id_str": "1099186513",
+		"in_reply_to_screen_name": "CaveJustin",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15110,
+			"friends_count": 10112,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2897,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7604,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 18 14:54:23 +0000 2017",
+		"id": 898558700230594600,
+		"id_str": "898558700230594560",
+		"text": "@CaveJustin Sweet! Need to check out @VideoshopApp but @WriteLegend is one of my faves too. 😀 Also love @Magisto!!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CaveJustin",
+					"name": "Justin Kerby",
+					"id": 1099186513,
+					"id_str": "1099186513",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "VideoshopApp",
+					"name": "Videoshop",
+					"id": 2696442295,
+					"id_str": "2696442295",
+					"indices": [
+						37,
+						50
+					]
+				},
+				{
+					"screen_name": "WriteLegend",
+					"name": "Legend App",
+					"id": 2935493930,
+					"id_str": "2935493930",
+					"indices": [
+						55,
+						67
+					]
+				},
+				{
+					"screen_name": "magisto",
+					"name": "Magisto",
+					"id": 255003001,
+					"id_str": "255003001",
+					"indices": [
+						104,
+						112
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 898304460904046600,
+		"in_reply_to_status_id_str": "898304460904046593",
+		"in_reply_to_user_id": 1099186513,
+		"in_reply_to_user_id_str": "1099186513",
+		"in_reply_to_screen_name": "CaveJustin",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15110,
+			"friends_count": 10112,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2897,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7604,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 18 14:50:38 +0000 2017",
+		"id": 898557757804003300,
+		"id_str": "898557757804003328",
+		"text": "@CaveJustin @CaveJustin haven't checked out your feed but you have a cool impressive Twitter bio. Think we'll get a… https://t.co/M1dHkfwefd",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CaveJustin",
+					"name": "Justin Kerby",
+					"id": 1099186513,
+					"id_str": "1099186513",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "CaveJustin",
+					"name": "Justin Kerby",
+					"id": 1099186513,
+					"id_str": "1099186513",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/M1dHkfwefd",
+					"expanded_url": "https://twitter.com/i/web/status/898557757804003328",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 898556080535380000,
+		"in_reply_to_status_id_str": "898556080535379968",
+		"in_reply_to_user_id": 1099186513,
+		"in_reply_to_user_id_str": "1099186513",
+		"in_reply_to_screen_name": "CaveJustin",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15110,
+			"friends_count": 10112,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2897,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7604,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 18 14:42:40 +0000 2017",
+		"id": 898555754881220600,
+		"id_str": "898555754881220608",
+		"text": "10 Things You Can Easily Do Today to Speed up Your WordPress Site [Video] https://t.co/t1Lh9XCtbr via @socialmedia2day",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "socialmedia2day",
+					"name": "Social Media Today",
+					"id": 15441074,
+					"id_str": "15441074",
+					"indices": [
+						102,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/t1Lh9XCtbr",
+					"expanded_url": "https://shar.es/1Sggwx",
+					"display_url": "shar.es/1Sggwx",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15110,
+			"friends_count": 10112,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2897,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7604,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 18 13:08:00 +0000 2017",
 		"id": 898531927459741700,
 		"id_str": "898531927459741696",
