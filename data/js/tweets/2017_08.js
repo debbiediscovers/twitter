@@ -1,6 +1,361 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sat Aug 19 00:03:29 +0000 2017",
+		"id": 898696885925367800,
+		"id_str": "898696885925367809",
+		"text": "@jonleeclark @Kissmetrics Great post! Enjoyed reading it esp about mobile tracking! Will check out @branchmetrics 👍",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jonleeclark",
+					"name": "Jon Clark",
+					"id": 12145762,
+					"id_str": "12145762",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Kissmetrics",
+					"name": "Kissmetrics",
+					"id": 13027572,
+					"id_str": "13027572",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "branchmetrics",
+					"name": "Branch",
+					"id": 2804588240,
+					"id_str": "2804588240",
+					"indices": [
+						99,
+						113
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 898618292868333600,
+		"in_reply_to_status_id_str": "898618292868333569",
+		"in_reply_to_user_id": 12145762,
+		"in_reply_to_user_id_str": "12145762",
+		"in_reply_to_screen_name": "jonleeclark",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15222,
+			"friends_count": 8964,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2907,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7612,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 19 00:01:26 +0000 2017",
+		"id": 898696372072759300,
+		"id_str": "898696372072759296",
+		"text": "RT @jonleeclark: 4 Mistakes I Learned About Marketing and Data https://t.co/QDl8hJxOXF via @Kissmetrics and myself.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jonleeclark",
+					"name": "Jon Clark",
+					"id": 12145762,
+					"id_str": "12145762",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "Kissmetrics",
+					"name": "Kissmetrics",
+					"id": 13027572,
+					"id_str": "13027572",
+					"indices": [
+						91,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QDl8hJxOXF",
+					"expanded_url": "https://blog.kissmetrics.com/4-mistakes-i-learned-about-marketing/",
+					"display_url": "blog.kissmetrics.com/4-mistakes-i-l…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15222,
+			"friends_count": 8964,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 2907,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7612,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 18 18:51:11 +0000 2017",
+			"id": 898618292868333600,
+			"id_str": "898618292868333569",
+			"text": "4 Mistakes I Learned About Marketing and Data https://t.co/QDl8hJxOXF via @Kissmetrics and myself.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Kissmetrics",
+						"name": "Kissmetrics",
+						"id": 13027572,
+						"id_str": "13027572",
+						"indices": [
+							74,
+							86
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QDl8hJxOXF",
+						"expanded_url": "https://blog.kissmetrics.com/4-mistakes-i-learned-about-marketing/",
+						"display_url": "blog.kissmetrics.com/4-mistakes-i-l…",
+						"indices": [
+							46,
+							69
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12145762,
+				"id_str": "12145762",
+				"name": "Jon Clark",
+				"screen_name": "jonleeclark",
+				"location": "New York, NY",
+				"description": "Digital Marketer, Entrepreneur & Blogger. Former SEO Director @Razorfish. Current Director of Audience Development @NBCUniversal. Opinions expressed are my own.",
+				"url": "http://t.co/vQQcyyNokI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/vQQcyyNokI",
+								"expanded_url": "http://www.jon-lee-clark.com",
+								"display_url": "jon-lee-clark.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10279,
+				"friends_count": 6623,
+				"listed_count": 577,
+				"created_at": "Sat Jan 12 06:16:36 +0000 2008",
+				"favourites_count": 6452,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 44787,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2327045/advertising1600x1024.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2327045/advertising1600x1024.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/536319940966363136/gg2HxMMQ_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/536319940966363136/gg2HxMMQ_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12145762/1423508308",
+				"profile_link_color": "0091FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 18 21:52:33 +0000 2017",
 		"id": 898663935548588000,
 		"id_str": "898663935548588032",
