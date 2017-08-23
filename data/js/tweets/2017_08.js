@@ -1,6 +1,956 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 23 11:46:11 +0000 2017",
+		"id": 900323278698369000,
+		"id_str": "900323278698369025",
+		"text": "RT @petesena: Storytelling in Design: What it actually means to be a designer-storyteller?: https://t.co/zAtXPqapOv via @brigitadaisy #Desi…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "petesena",
+					"name": "Peter Sena",
+					"id": 42950013,
+					"id_str": "42950013",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "brigitadaisy",
+					"name": "Brigitte",
+					"id": 20524237,
+					"id_str": "20524237",
+					"indices": [
+						120,
+						133
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zAtXPqapOv",
+					"expanded_url": "http://bit.ly/2wcLJbh",
+					"display_url": "bit.ly/2wcLJbh",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16430,
+			"friends_count": 10385,
+			"listed_count": 1024,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3097,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7699,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 23 09:10:06 +0000 2017",
+			"id": 900284000048230400,
+			"id_str": "900284000048230400",
+			"text": "Storytelling in Design: What it actually means to be a designer-storyteller?: https://t.co/zAtXPqapOv via… https://t.co/eXiJPvcVf9",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zAtXPqapOv",
+						"expanded_url": "http://bit.ly/2wcLJbh",
+						"display_url": "bit.ly/2wcLJbh",
+						"indices": [
+							78,
+							101
+						]
+					},
+					{
+						"url": "https://t.co/eXiJPvcVf9",
+						"expanded_url": "https://twitter.com/i/web/status/900284000048230400",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42950013,
+				"id_str": "42950013",
+				"name": "Peter Sena",
+				"screen_name": "petesena",
+				"location": "Wherever the challenge exists",
+				"description": "Entrepreneur / Founder driven by innovation. Polymath. Designer. Keynote Speaker. Technologist. Design thinking. Student of life. @digitalsurgeons",
+				"url": "https://t.co/8A0bXT1u7D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8A0bXT1u7D",
+								"expanded_url": "https://www.linkedin.com/in/petersena",
+								"display_url": "linkedin.com/in/petersena",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37399,
+				"friends_count": 11763,
+				"listed_count": 708,
+				"created_at": "Wed May 27 19:13:57 +0000 2009",
+				"favourites_count": 1471,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13144,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/671712244/f4ad1fd259c8c7d81c8e864cd0248213.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/671712244/f4ad1fd259c8c7d81c8e864cd0248213.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/669207345293996033/Xh14cJ7d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/669207345293996033/Xh14cJ7d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42950013/1398366873",
+				"profile_link_color": "FF5900",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F5F5F5",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 23 11:46:02 +0000 2017",
+		"id": 900323243029962800,
+		"id_str": "900323243029962752",
+		"text": "RT @Mike_Stelzner: Discover 24 useful social media tools! 🔧 ⚙️ https://t.co/MuL2JiZ1GP by @Mike_Stelzner  #socialmediatools #socialmediamar…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "socialmediatools",
+					"indices": [
+						106,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mike_Stelzner",
+					"name": "Michael A. Stelzner",
+					"id": 14454605,
+					"id_str": "14454605",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "Mike_Stelzner",
+					"name": "Michael A. Stelzner",
+					"id": 14454605,
+					"id_str": "14454605",
+					"indices": [
+						90,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MuL2JiZ1GP",
+					"expanded_url": "http://bit.ly/2wemaqO",
+					"display_url": "bit.ly/2wemaqO",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16430,
+			"friends_count": 10385,
+			"listed_count": 1024,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3097,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7699,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 23 10:00:55 +0000 2017",
+			"id": 900296786203615200,
+			"id_str": "900296786203615232",
+			"text": "Discover 24 useful social media tools! 🔧 ⚙️ https://t.co/MuL2JiZ1GP by @Mike_Stelzner  #socialmediatools #socialmediamarketing",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "socialmediatools",
+						"indices": [
+							87,
+							104
+						]
+					},
+					{
+						"text": "socialmediamarketing",
+						"indices": [
+							105,
+							126
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Mike_Stelzner",
+						"name": "Michael A. Stelzner",
+						"id": 14454605,
+						"id_str": "14454605",
+						"indices": [
+							71,
+							85
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/MuL2JiZ1GP",
+						"expanded_url": "http://bit.ly/2wemaqO",
+						"display_url": "bit.ly/2wemaqO",
+						"indices": [
+							44,
+							67
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.socialoomph.com\" rel=\"nofollow\">SocialOomph</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14454605,
+				"id_str": "14454605",
+				"name": "Michael A. Stelzner",
+				"screen_name": "Mike_Stelzner",
+				"location": "",
+				"description": "Founder: Social Media Examiner & Social Media Marketing World; host: Social Media Marketing podcast; author: Launch & Writing White Papers; committed Christian.",
+				"url": "https://t.co/Hp3t6IbgRf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Hp3t6IbgRf",
+								"expanded_url": "http://Facebook.com/stelzner",
+								"display_url": "Facebook.com/stelzner",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 165398,
+				"friends_count": 24297,
+				"listed_count": 10592,
+				"created_at": "Sun Apr 20 20:10:32 +0000 2008",
+				"favourites_count": 23,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 28333,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/183604568/stelzner__twitterpage2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/183604568/stelzner__twitterpage2.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/725110260864671744/CtHg6bV-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/725110260864671744/CtHg6bV-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14454605/1461714752",
+				"profile_link_color": "1B4479",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "76A2D7",
+				"profile_text_color": "212121",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 23 11:45:18 +0000 2017",
+		"id": 900323056173830100,
+		"id_str": "900323056173830144",
+		"text": "RT @FabFabsters: Breaking the code: how women in Nigeria are changing the face of tech \n\nhttps://t.co/YwxSsuFy3r \n \n#womenintech",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "womenintech",
+					"indices": [
+						116,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FabFabsters",
+					"name": "Fabulous Fabsters",
+					"id": 4427894782,
+					"id_str": "4427894782",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YwxSsuFy3r",
+					"expanded_url": "https://www.theguardian.com/lifeandstyle/2017/aug/14/breaking-the-code-how-women-in-nigeria-are-changing-the-face-of-tech",
+					"display_url": "theguardian.com/lifeandstyle/2…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16430,
+			"friends_count": 10385,
+			"listed_count": 1024,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3097,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7699,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 23 11:30:25 +0000 2017",
+			"id": 900319310069018600,
+			"id_str": "900319310069018624",
+			"text": "Breaking the code: how women in Nigeria are changing the face of tech \n\nhttps://t.co/YwxSsuFy3r \n \n#womenintech",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "womenintech",
+						"indices": [
+							99,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YwxSsuFy3r",
+						"expanded_url": "https://www.theguardian.com/lifeandstyle/2017/aug/14/breaking-the-code-how-women-in-nigeria-are-changing-the-face-of-tech",
+						"display_url": "theguardian.com/lifeandstyle/2…",
+						"indices": [
+							72,
+							95
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://meetedgar.com\" rel=\"nofollow\">Meet Edgar</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4427894782,
+				"id_str": "4427894782",
+				"name": "Fabulous Fabsters",
+				"screen_name": "FabFabsters",
+				"location": "London, England",
+				"description": "Women - Fifty And Beyond - telling their stories, sharing their wisdom and Inspiring Future Fabsters.",
+				"url": "https://t.co/P3hGymyfK5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/P3hGymyfK5",
+								"expanded_url": "http://fabulousfabsters.com/",
+								"display_url": "fabulousfabsters.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 366,
+				"friends_count": 620,
+				"listed_count": 9,
+				"created_at": "Wed Dec 09 15:18:58 +0000 2015",
+				"favourites_count": 143,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 607,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/693871364328013824/A_u2WL-0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/693871364328013824/A_u2WL-0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4427894782/1454259066",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 23 11:27:51 +0000 2017",
+		"id": 900318663131123700,
+		"id_str": "900318663131123713",
+		"text": "5 Examples of Companies Succeeding Through Transparency via @Entrepreneur  https://t.co/ATpb07okyh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Entrepreneur",
+					"name": "Entrepreneur",
+					"id": 19407053,
+					"id_str": "19407053",
+					"indices": [
+						60,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ATpb07okyh",
+					"expanded_url": "https://www.entrepreneur.com/article/274636",
+					"display_url": "entrepreneur.com/article/274636",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16430,
+			"friends_count": 10385,
+			"listed_count": 1024,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3097,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7699,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 23 11:17:37 +0000 2017",
+		"id": 900316088331780100,
+		"id_str": "900316088331780096",
+		"text": "These three countries are winning the global robot race. US. China. India. #ArtificialIntelligence via @CNN  https://t.co/PV4djArQUw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ArtificialIntelligence",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CNN",
+					"name": "CNN",
+					"id": 759251,
+					"id_str": "759251",
+					"indices": [
+						103,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PV4djArQUw",
+					"expanded_url": "http://money.cnn.com/2017/08/21/technology/future/artificial-intelligence-robots-india-china-us/index.html",
+					"display_url": "money.cnn.com/2017/08/21/tec…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16430,
+			"friends_count": 10385,
+			"listed_count": 1024,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3097,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7699,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 23 10:54:00 +0000 2017",
 		"id": 900310147221774300,
 		"id_str": "900310147221774336",
