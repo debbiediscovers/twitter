@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 24 07:08:57 +0000 2017",
+		"id": 900615900532940800,
+		"id_str": "900615900532940800",
+		"text": "RT @BenHardicre: 27 Instagram experts share their best #instagrammarketing advice #Social #Instagram #Marketing #SMM https://t.co/9eoz2o9Oh…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "instagrammarketing",
+					"indices": [
+						55,
+						74
+					]
+				},
+				{
+					"text": "Social",
+					"indices": [
+						82,
+						89
+					]
+				},
+				{
+					"text": "Instagram",
+					"indices": [
+						90,
+						100
+					]
+				},
+				{
+					"text": "Marketing",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"text": "SMM",
+					"indices": [
+						112,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BenHardicre",
+					"name": "Ben Hardicre",
+					"id": 484692977,
+					"id_str": "484692977",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16698,
+			"friends_count": 10899,
+			"listed_count": 1025,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3317,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7747,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 23 17:08:51 +0000 2017",
+			"id": 900404478733684700,
+			"id_str": "900404478733684737",
+			"text": "27 Instagram experts share their best #instagrammarketing advice #Social #Instagram #Marketing #SMM https://t.co/9eoz2o9OhJ via @Foundr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "instagrammarketing",
+						"indices": [
+							38,
+							57
+						]
+					},
+					{
+						"text": "Social",
+						"indices": [
+							65,
+							72
+						]
+					},
+					{
+						"text": "Instagram",
+						"indices": [
+							73,
+							83
+						]
+					},
+					{
+						"text": "Marketing",
+						"indices": [
+							84,
+							94
+						]
+					},
+					{
+						"text": "SMM",
+						"indices": [
+							95,
+							99
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "foundr",
+						"name": "Foundr Magazine",
+						"id": 1297100576,
+						"id_str": "1297100576",
+						"indices": [
+							128,
+							135
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9eoz2o9OhJ",
+						"expanded_url": "https://foundrmag.com/instagram-marketing/",
+						"display_url": "foundrmag.com/instagram-mark…",
+						"indices": [
+							100,
+							123
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 484692977,
+				"id_str": "484692977",
+				"name": "Ben Hardicre",
+				"screen_name": "BenHardicre",
+				"location": "Camberley / Portsmouth",
+				"description": "Digital Content Coordinator @SharetuRT Freelance contributor @TheSPG @InSoundStudios Chelsea fan, West Stand Lower. occasional singer, Golf,",
+				"url": "https://t.co/I3j9OiVz9P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/I3j9OiVz9P",
+								"expanded_url": "http://www.linkedin.com/in/ben-hardicre/",
+								"display_url": "linkedin.com/in/ben-hardicr…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 668,
+				"friends_count": 516,
+				"listed_count": 32,
+				"created_at": "Mon Feb 06 11:38:33 +0000 2012",
+				"favourites_count": 2830,
+				"utc_offset": 3600,
+				"time_zone": "Casablanca",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7123,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/854280234262294528/7wSj1Eyy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/854280234262294528/7wSj1Eyy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/484692977/1503396863",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 24 07:08:45 +0000 2017",
+		"id": 900615847080673300,
+		"id_str": "900615847080673280",
+		"text": "@BenHardicre Pizza is the most instagrammed food?? #SRSLY🍕",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SRSLY",
+					"indices": [
+						51,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BenHardicre",
+					"name": "Ben Hardicre",
+					"id": 484692977,
+					"id_str": "484692977",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 900371963683590100,
+		"in_reply_to_status_id_str": "900371963683590144",
+		"in_reply_to_user_id": 484692977,
+		"in_reply_to_user_id_str": "484692977",
+		"in_reply_to_screen_name": "BenHardicre",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16698,
+			"friends_count": 10899,
+			"listed_count": 1025,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3317,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7747,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 24 01:34:50 +0000 2017",
 		"id": 900531814497886200,
 		"id_str": "900531814497886208",
