@@ -1,6 +1,409 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Fri Aug 25 09:37:51 +0000 2017",
+		"id": 901015757915430900,
+		"id_str": "901015757915430913",
+		"text": "RT @KLM_press: KLM takes next strategic social media step. First non-Chinese airline to offer WeChat Pay https://t.co/Q5CQ3DEGcG https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KLM_press",
+					"name": "KLM Newsroom",
+					"id": 2445064944,
+					"id_str": "2445064944",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q5CQ3DEGcG",
+					"expanded_url": "http://klmf.ly/2g4QhKD",
+					"display_url": "klmf.ly/2g4QhKD",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16845,
+			"friends_count": 10363,
+			"listed_count": 1027,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3344,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 24 06:30:02 +0000 2017",
+			"id": 900606103762939900,
+			"id_str": "900606103762939904",
+			"text": "KLM takes next strategic social media step. First non-Chinese airline to offer WeChat Pay https://t.co/Q5CQ3DEGcG https://t.co/Bk48YMi9K7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Q5CQ3DEGcG",
+						"expanded_url": "http://klmf.ly/2g4QhKD",
+						"display_url": "klmf.ly/2g4QhKD",
+						"indices": [
+							90,
+							113
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 900606101414174700,
+						"id_str": "900606101414174721",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/DH-YekVXYAEGzVZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DH-YekVXYAEGzVZ.jpg",
+						"url": "https://t.co/Bk48YMi9K7",
+						"display_url": "pic.twitter.com/Bk48YMi9K7",
+						"expanded_url": "https://twitter.com/KLM_press/status/900606103762939904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 277,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 277,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 277,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 900606101414174700,
+						"id_str": "900606101414174721",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/DH-YekVXYAEGzVZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DH-YekVXYAEGzVZ.jpg",
+						"url": "https://t.co/Bk48YMi9K7",
+						"display_url": "pic.twitter.com/Bk48YMi9K7",
+						"expanded_url": "https://twitter.com/KLM_press/status/900606103762939904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 277,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 277,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 277,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://manager.presspage.com\" rel=\"nofollow\">PressPage Manager</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2445064944,
+				"id_str": "2445064944",
+				"name": "KLM Newsroom",
+				"screen_name": "KLM_press",
+				"location": "Amstelveen",
+				"description": "KLM Press Team | Lisette Ebeling Koning | Robbert Veldhuizen | Koen van Zijl | Bastiaan Verweij | Heleen Makkinga | 0031 20 649 45 45 mediarelations@klm.com",
+				"url": "https://t.co/TKLRg7Oxmh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TKLRg7Oxmh",
+								"expanded_url": "http://news.klm.com/",
+								"display_url": "news.klm.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4138,
+				"friends_count": 2101,
+				"listed_count": 60,
+				"created_at": "Tue Apr 15 07:37:42 +0000 2014",
+				"favourites_count": 148,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 868,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/542302267416645633/9_n9uyPr_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/542302267416645633/9_n9uyPr_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2445064944/1400224726",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 39,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 25 09:34:02 +0000 2017",
+		"id": 901014797923172400,
+		"id_str": "901014797923172352",
+		"text": "Twitter testing $99 monthly subscription plan designed to boost reach - via @SocialBlade https://t.co/4rqd9ewB3v",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SocialBlade",
+					"name": "Social Blade",
+					"id": 16584467,
+					"id_str": "16584467",
+					"indices": [
+						76,
+						88
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4rqd9ewB3v",
+					"expanded_url": "https://socialblade.com/blog/twitter-testing-monthly-subscription-ad-bundle/",
+					"display_url": "socialblade.com/blog/twitter-t…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16845,
+			"friends_count": 10363,
+			"listed_count": 1027,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3344,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 25 08:07:50 +0000 2017",
 		"id": 900993103338717200,
 		"id_str": "900993103338717184",
