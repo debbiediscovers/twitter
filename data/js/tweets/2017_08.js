@@ -1,6 +1,553 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Fri Aug 25 13:33:48 +0000 2017",
+		"id": 901075137163702300,
+		"id_str": "901075137163702272",
+		"text": "@JoseTrujilloArt @GoogleExpertUK Love this quote!!!❤️❤️😍😍",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JoseTrujilloArt",
+					"name": "Jose Trujillo",
+					"id": 3286956391,
+					"id_str": "3286956391",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "GoogleExpertUK",
+					"name": "Susan Dolan",
+					"id": 42034114,
+					"id_str": "42034114",
+					"indices": [
+						17,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 896392855018766300,
+		"in_reply_to_status_id_str": "896392855018766336",
+		"in_reply_to_user_id": 3286956391,
+		"in_reply_to_user_id_str": "3286956391",
+		"in_reply_to_screen_name": "JoseTrujilloArt",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16894,
+			"friends_count": 10363,
+			"listed_count": 1028,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3361,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7773,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 25 13:33:37 +0000 2017",
+		"id": 901075088908222500,
+		"id_str": "901075088908222464",
+		"text": "RT @JoseTrujilloArt: \"I would rather die of passion than of boredom.\" ~ Vincent van Gogh @GoogleExpertUK #artdayeveryday #art #quotes https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "artdayeveryday",
+					"indices": [
+						105,
+						120
+					]
+				},
+				{
+					"text": "art",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "quotes",
+					"indices": [
+						126,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JoseTrujilloArt",
+					"name": "Jose Trujillo",
+					"id": 3286956391,
+					"id_str": "3286956391",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "GoogleExpertUK",
+					"name": "Susan Dolan",
+					"id": 42034114,
+					"id_str": "42034114",
+					"indices": [
+						89,
+						104
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16894,
+			"friends_count": 10363,
+			"listed_count": 1028,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3361,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7773,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 12 15:28:05 +0000 2017",
+			"id": 896392855018766300,
+			"id_str": "896392855018766336",
+			"text": "\"I would rather die of passion than of boredom.\" ~ Vincent van Gogh @GoogleExpertUK #artdayeveryday #art #quotes https://t.co/QQOPWa859F",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "artdayeveryday",
+						"indices": [
+							84,
+							99
+						]
+					},
+					{
+						"text": "art",
+						"indices": [
+							100,
+							104
+						]
+					},
+					{
+						"text": "quotes",
+						"indices": [
+							105,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GoogleExpertUK",
+						"name": "Susan Dolan",
+						"id": 42034114,
+						"id_str": "42034114",
+						"indices": [
+							68,
+							83
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 896392852749647900,
+						"id_str": "896392852749647872",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/DHCgjN9XgAAOcSO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHCgjN9XgAAOcSO.jpg",
+						"url": "https://t.co/QQOPWa859F",
+						"display_url": "pic.twitter.com/QQOPWa859F",
+						"expanded_url": "https://twitter.com/JoseTrujilloArt/status/896392855018766336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 254,
+								"h": 198,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 254,
+								"h": 198,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 254,
+								"h": 198,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 896392852749647900,
+						"id_str": "896392852749647872",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/DHCgjN9XgAAOcSO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHCgjN9XgAAOcSO.jpg",
+						"url": "https://t.co/QQOPWa859F",
+						"display_url": "pic.twitter.com/QQOPWa859F",
+						"expanded_url": "https://twitter.com/JoseTrujilloArt/status/896392855018766336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 254,
+								"h": 198,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 254,
+								"h": 198,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 254,
+								"h": 198,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.socialoomph.com\" rel=\"nofollow\">SocialOomph</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3286956391,
+				"id_str": "3286956391",
+				"name": "Jose Trujillo",
+				"screen_name": "JoseTrujilloArt",
+				"location": "",
+				"description": "100% Follow Back!\nCheck out my eBay store by typing my name Jose Trujillo in the eBay search bar",
+				"url": "https://t.co/sUmYlblEgY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sUmYlblEgY",
+								"expanded_url": "http://stores.ebay.com/jtrujillopaintings21",
+								"display_url": "stores.ebay.com/jtrujillopaint…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14641,
+				"friends_count": 14701,
+				"listed_count": 209,
+				"created_at": "Tue Jul 21 23:00:29 +0000 2015",
+				"favourites_count": 2770,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19834,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/670258082392309761/J-QKoPap_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/670258082392309761/J-QKoPap_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3286956391/1468557820",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 41,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 25 13:31:48 +0000 2017",
+		"id": 901074635151753200,
+		"id_str": "901074635151753218",
+		"text": "@fernandexjoseph Haha 😂",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fernandexjoseph",
+					"name": "fernandex",
+					"id": 301698117,
+					"id_str": "301698117",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 893439102988824600,
+		"in_reply_to_status_id_str": "893439102988824577",
+		"in_reply_to_user_id": 301698117,
+		"in_reply_to_user_id_str": "301698117",
+		"in_reply_to_screen_name": "fernandexjoseph",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16894,
+			"friends_count": 10363,
+			"listed_count": 1028,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3361,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7773,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl"
+	},
+	{
 		"created_at": "Fri Aug 25 12:39:45 +0000 2017",
 		"id": 901061536499736600,
 		"id_str": "901061536499736576",
