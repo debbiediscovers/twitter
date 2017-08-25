@@ -1,6 +1,1062 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Fri Aug 25 11:46:34 +0000 2017",
+		"id": 901048149044809700,
+		"id_str": "901048149044809728",
+		"text": "RT @VentureBeat: The best for your biz: intelligent assistants or chat bots? (VB Live) https://t.co/QOTKgBkE0L",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VentureBeat",
+					"name": "VentureBeat",
+					"id": 60642052,
+					"id_str": "60642052",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QOTKgBkE0L",
+					"expanded_url": "https://wp.me/p8wLEc-9vwE",
+					"display_url": "wp.me/p8wLEc-9vwE",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16866,
+			"friends_count": 10364,
+			"listed_count": 1026,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3349,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7768,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 24 19:50:54 +0000 2017",
+			"id": 900807647552839700,
+			"id_str": "900807647552839681",
+			"text": "The best for your biz: intelligent assistants or chat bots? (VB Live) https://t.co/QOTKgBkE0L",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QOTKgBkE0L",
+						"expanded_url": "https://wp.me/p8wLEc-9vwE",
+						"display_url": "wp.me/p8wLEc-9vwE",
+						"indices": [
+							70,
+							93
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://venturebeat.com\" rel=\"nofollow\">VentureBeat</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 60642052,
+				"id_str": "60642052",
+				"name": "VentureBeat",
+				"screen_name": "VentureBeat",
+				"location": "San Francisco + NYC",
+				"description": "Tech news that matters.",
+				"url": "http://t.co/vNmL0zJnXy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/vNmL0zJnXy",
+								"expanded_url": "http://www.venturebeat.com",
+								"display_url": "venturebeat.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 711837,
+				"friends_count": 1564,
+				"listed_count": 19198,
+				"created_at": "Mon Jul 27 16:34:47 +0000 2009",
+				"favourites_count": 878,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 101258,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F1F1F1",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/421572594/VB_Twitter_BG02.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/421572594/VB_Twitter_BG02.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/615577992815882240/Iap3Di46_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/615577992815882240/Iap3Di46_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/60642052/1498248447",
+				"profile_link_color": "E31C29",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F1F1F1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 25 11:30:25 +0000 2017",
+		"id": 901044085519073300,
+		"id_str": "901044085519073280",
+		"text": "RT @VentureBeat: Uber to donate $1.2 million to Girls Who Code as tech industry reels from sexism scandals https://t.co/oJjeeRsSqi by @psaw…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VentureBeat",
+					"name": "VentureBeat",
+					"id": 60642052,
+					"id_str": "60642052",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oJjeeRsSqi",
+					"expanded_url": "https://wp.me/p8wLEc-9vKy",
+					"display_url": "wp.me/p8wLEc-9vKy",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16866,
+			"friends_count": 10364,
+			"listed_count": 1026,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3349,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7768,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 25 07:52:45 +0000 2017",
+			"id": 900989308257136600,
+			"id_str": "900989308257136641",
+			"text": "Uber to donate $1.2 million to Girls Who Code as tech industry reels from sexism scandals https://t.co/oJjeeRsSqi by @psawers",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "psawers",
+						"name": "Paul Sawers",
+						"id": 182326011,
+						"id_str": "182326011",
+						"indices": [
+							117,
+							125
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/oJjeeRsSqi",
+						"expanded_url": "https://wp.me/p8wLEc-9vKy",
+						"display_url": "wp.me/p8wLEc-9vKy",
+						"indices": [
+							90,
+							113
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://venturebeat.com\" rel=\"nofollow\">VentureBeat</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 60642052,
+				"id_str": "60642052",
+				"name": "VentureBeat",
+				"screen_name": "VentureBeat",
+				"location": "San Francisco + NYC",
+				"description": "Tech news that matters.",
+				"url": "http://t.co/vNmL0zJnXy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/vNmL0zJnXy",
+								"expanded_url": "http://www.venturebeat.com",
+								"display_url": "venturebeat.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 711837,
+				"friends_count": 1564,
+				"listed_count": 19198,
+				"created_at": "Mon Jul 27 16:34:47 +0000 2009",
+				"favourites_count": 878,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 101258,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F1F1F1",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/421572594/VB_Twitter_BG02.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/421572594/VB_Twitter_BG02.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/615577992815882240/Iap3Di46_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/615577992815882240/Iap3Di46_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/60642052/1498248447",
+				"profile_link_color": "E31C29",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F1F1F1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 24,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 25 11:28:39 +0000 2017",
+		"id": 901043640604139500,
+		"id_str": "901043640604139520",
+		"text": "RT @larrykim: Happy Priday! 😂🤣 \n#FridayFeeling #FridayHumor https://t.co/VT9t7o48sH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FridayFeeling",
+					"indices": [
+						32,
+						46
+					]
+				},
+				{
+					"text": "FridayHumor",
+					"indices": [
+						47,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "larrykim",
+					"name": "Larry Kim",
+					"id": 17850785,
+					"id_str": "17850785",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 901029720178925600,
+					"id_str": "901029720178925568",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DIEZwbNVoAAsNXK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIEZwbNVoAAsNXK.jpg",
+					"url": "https://t.co/VT9t7o48sH",
+					"display_url": "pic.twitter.com/VT9t7o48sH",
+					"expanded_url": "https://twitter.com/larrykim/status/901029722683035648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 610,
+							"h": 610,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 610,
+							"h": 610,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 610,
+							"h": 610,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 901029722683035600,
+					"source_status_id_str": "901029722683035648",
+					"source_user_id": 17850785,
+					"source_user_id_str": "17850785"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 901029720178925600,
+					"id_str": "901029720178925568",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DIEZwbNVoAAsNXK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIEZwbNVoAAsNXK.jpg",
+					"url": "https://t.co/VT9t7o48sH",
+					"display_url": "pic.twitter.com/VT9t7o48sH",
+					"expanded_url": "https://twitter.com/larrykim/status/901029722683035648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 610,
+							"h": 610,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 610,
+							"h": 610,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 610,
+							"h": 610,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 901029722683035600,
+					"source_status_id_str": "901029722683035648",
+					"source_user_id": 17850785,
+					"source_user_id_str": "17850785"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16866,
+			"friends_count": 10364,
+			"listed_count": 1026,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3349,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7768,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 25 10:33:20 +0000 2017",
+			"id": 901029722683035600,
+			"id_str": "901029722683035648",
+			"text": "Happy Priday! 😂🤣 \n#FridayFeeling #FridayHumor https://t.co/VT9t7o48sH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FridayFeeling",
+						"indices": [
+							18,
+							32
+						]
+					},
+					{
+						"text": "FridayHumor",
+						"indices": [
+							33,
+							45
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 901029720178925600,
+						"id_str": "901029720178925568",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DIEZwbNVoAAsNXK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIEZwbNVoAAsNXK.jpg",
+						"url": "https://t.co/VT9t7o48sH",
+						"display_url": "pic.twitter.com/VT9t7o48sH",
+						"expanded_url": "https://twitter.com/larrykim/status/901029722683035648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 610,
+								"h": 610,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 610,
+								"h": 610,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 610,
+								"h": 610,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 901029720178925600,
+						"id_str": "901029720178925568",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DIEZwbNVoAAsNXK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIEZwbNVoAAsNXK.jpg",
+						"url": "https://t.co/VT9t7o48sH",
+						"display_url": "pic.twitter.com/VT9t7o48sH",
+						"expanded_url": "https://twitter.com/larrykim/status/901029722683035648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 610,
+								"h": 610,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 610,
+								"h": 610,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 610,
+								"h": 610,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17850785,
+				"id_str": "17850785",
+				"name": "Larry Kim",
+				"screen_name": "larrykim",
+				"location": "Boston, MA",
+				"description": "CEO of @mobilemonkey_, Founder @WordStream. Top Columnist @Inc Magazine. ❤️ Entrepreneurship, Start-Ups, Adwords, Facebook advertising. Personal account.",
+				"url": "https://t.co/L7TFusOuJi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L7TFusOuJi",
+								"expanded_url": "https://www.linkedin.com/in/larrykim",
+								"display_url": "linkedin.com/in/larrykim",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 794546,
+				"friends_count": 639401,
+				"listed_count": 9055,
+				"created_at": "Wed Dec 03 22:09:26 +0000 2008",
+				"favourites_count": 478999,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 56712,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/634035372733898752/6aSBCDd9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/634035372733898752/6aSBCDd9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17850785/1450804708",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 79,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 25 11:20:07 +0000 2017",
+		"id": 901041493254717400,
+		"id_str": "901041493254717440",
+		"text": "RT @larrykim: Great insights 🌟52 Influencers Reveal Their Best &amp; Worst Monetization Secrets! https://t.co/kCj1YKNsIp \n\nThanks, @mike_allton…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "larrykim",
+					"name": "Larry Kim",
+					"id": 17850785,
+					"id_str": "17850785",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "mike_allton",
+					"name": "Mike Allton",
+					"id": 24212627,
+					"id_str": "24212627",
+					"indices": [
+						131,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kCj1YKNsIp",
+					"expanded_url": "http://www.sitesell.com/blog/2017/08/monetization-secrets.html#KIM",
+					"display_url": "sitesell.com/blog/2017/08/m…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. Teaching Kids to be Digital Storytellers and to Fundraise & Build Schools with Pencils of Promise",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16866,
+			"friends_count": 10364,
+			"listed_count": 1026,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3349,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7768,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 25 10:45:38 +0000 2017",
+			"id": 901032816946827300,
+			"id_str": "901032816946827264",
+			"text": "Great insights 🌟52 Influencers Reveal Their Best &amp; Worst Monetization Secrets! https://t.co/kCj1YKNsIp \n\nThanks,… https://t.co/cNgypP3n1E",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kCj1YKNsIp",
+						"expanded_url": "http://www.sitesell.com/blog/2017/08/monetization-secrets.html#KIM",
+						"display_url": "sitesell.com/blog/2017/08/m…",
+						"indices": [
+							83,
+							106
+						]
+					},
+					{
+						"url": "https://t.co/cNgypP3n1E",
+						"expanded_url": "https://twitter.com/i/web/status/901032816946827264",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							118,
+							141
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17850785,
+				"id_str": "17850785",
+				"name": "Larry Kim",
+				"screen_name": "larrykim",
+				"location": "Boston, MA",
+				"description": "CEO of @mobilemonkey_, Founder @WordStream. Top Columnist @Inc Magazine. ❤️ Entrepreneurship, Start-Ups, Adwords, Facebook advertising. Personal account.",
+				"url": "https://t.co/L7TFusOuJi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L7TFusOuJi",
+								"expanded_url": "https://www.linkedin.com/in/larrykim",
+								"display_url": "linkedin.com/in/larrykim",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 794546,
+				"friends_count": 639401,
+				"listed_count": 9055,
+				"created_at": "Wed Dec 03 22:09:26 +0000 2008",
+				"favourites_count": 478999,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 56712,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/634035372733898752/6aSBCDd9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/634035372733898752/6aSBCDd9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17850785/1450804708",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 16,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 25 09:37:51 +0000 2017",
 		"id": 901015757915430900,
 		"id_str": "901015757915430913",
