@@ -1,6 +1,480 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Mon Aug 28 01:39:58 +0000 2017",
+		"id": 901982656962846700,
+		"id_str": "901982656962846721",
+		"text": "@TomasSvitorka So true! 😍",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TomasSvitorka",
+					"name": "Tomas Svitorka 🌍",
+					"id": 1960025756,
+					"id_str": "1960025756",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 901982212115005400,
+		"in_reply_to_status_id_str": "901982212115005440",
+		"in_reply_to_user_id": 1960025756,
+		"in_reply_to_user_id_str": "1960025756",
+		"in_reply_to_screen_name": "TomasSvitorka",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. @littlecoderssg @giftedsgp @0rchestras @digitalfuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17189,
+			"friends_count": 9516,
+			"listed_count": 1027,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3430,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7831,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 28 01:39:48 +0000 2017",
+		"id": 901982617955844100,
+		"id_str": "901982617955844097",
+		"text": "RT @TomasSvitorka: #MotivationMonday https://t.co/JwqDT5P0wW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MotivationMonday",
+					"indices": [
+						19,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TomasSvitorka",
+					"name": "Tomas Svitorka 🌍",
+					"id": 1960025756,
+					"id_str": "1960025756",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 901982209476845600,
+					"id_str": "901982209476845568",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DIR8CmWW4AA1ei3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIR8CmWW4AA1ei3.jpg",
+					"url": "https://t.co/JwqDT5P0wW",
+					"display_url": "pic.twitter.com/JwqDT5P0wW",
+					"expanded_url": "https://twitter.com/TomasSvitorka/status/901982212115005440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 901982212115005400,
+					"source_status_id_str": "901982212115005440",
+					"source_user_id": 1960025756,
+					"source_user_id_str": "1960025756"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 901982209476845600,
+					"id_str": "901982209476845568",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DIR8CmWW4AA1ei3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIR8CmWW4AA1ei3.jpg",
+					"url": "https://t.co/JwqDT5P0wW",
+					"display_url": "pic.twitter.com/JwqDT5P0wW",
+					"expanded_url": "https://twitter.com/TomasSvitorka/status/901982212115005440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 901982212115005400,
+					"source_status_id_str": "901982212115005440",
+					"source_user_id": 1960025756,
+					"source_user_id_str": "1960025756"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. @littlecoderssg @giftedsgp @0rchestras @digitalfuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17189,
+			"friends_count": 9516,
+			"listed_count": 1027,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3430,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7831,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695349571854036992/1g9ZjO5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 28 01:38:12 +0000 2017",
+			"id": 901982212115005400,
+			"id_str": "901982212115005440",
+			"text": "#MotivationMonday https://t.co/JwqDT5P0wW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MotivationMonday",
+						"indices": [
+							0,
+							17
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 901982209476845600,
+						"id_str": "901982209476845568",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/DIR8CmWW4AA1ei3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIR8CmWW4AA1ei3.jpg",
+						"url": "https://t.co/JwqDT5P0wW",
+						"display_url": "pic.twitter.com/JwqDT5P0wW",
+						"expanded_url": "https://twitter.com/TomasSvitorka/status/901982212115005440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 901982209476845600,
+						"id_str": "901982209476845568",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/DIR8CmWW4AA1ei3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIR8CmWW4AA1ei3.jpg",
+						"url": "https://t.co/JwqDT5P0wW",
+						"display_url": "pic.twitter.com/JwqDT5P0wW",
+						"expanded_url": "https://twitter.com/TomasSvitorka/status/901982212115005440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://recurpost.com\" rel=\"nofollow\">Recycle Updates</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1960025756,
+				"id_str": "1960025756",
+				"name": "Tomas Svitorka 🌍",
+				"screen_name": "TomasSvitorka",
+				"location": "London, UK",
+				"description": "I'm #LifeCoach❤️ \nInternational #Speaker🌍\nAward-winning #Entrepreneur🏆     \nI help people create a great life. Not OK, not average, Great! #OKisNOTenough™",
+				"url": "https://t.co/RGxdjhiklc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RGxdjhiklc",
+								"expanded_url": "http://tomassvitorka.com",
+								"display_url": "tomassvitorka.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5661,
+				"friends_count": 5466,
+				"listed_count": 114,
+				"created_at": "Mon Oct 14 06:01:42 +0000 2013",
+				"favourites_count": 1676,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4154,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/893016684243542017/cgbYAR6Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/893016684243542017/cgbYAR6Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1960025756/1477837969",
+				"profile_link_color": "FA4D02",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Mon Aug 28 00:58:04 +0000 2017",
 		"id": 901972114235842600,
 		"id_str": "901972114235842561",
