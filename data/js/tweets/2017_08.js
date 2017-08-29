@@ -1,6 +1,430 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Tue Aug 29 16:47:27 +0000 2017",
+		"id": 902573420398780400,
+		"id_str": "902573420398780417",
+		"text": "RT @UBS: 4 #Laureates + 1000 students will debate the questions that #CantBeGoogled. Watch it live: https://t.co/D3FO7YlrQe https://t.co/w8…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Laureates",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"text": "CantBeGoogled",
+					"indices": [
+						69,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UBS",
+					"name": "UBS",
+					"id": 38237581,
+					"id_str": "38237581",
+					"indices": [
+						3,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D3FO7YlrQe",
+					"expanded_url": "http://ow.ly/O6g030eIUw4",
+					"display_url": "ow.ly/O6g030eIUw4",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17577,
+			"friends_count": 10960,
+			"listed_count": 1037,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3472,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 29 07:00:37 +0000 2017",
+			"id": 902425742750994400,
+			"id_str": "902425742750994434",
+			"text": "4 #Laureates + 1000 students will debate the questions that #CantBeGoogled. Watch it live: https://t.co/D3FO7YlrQe https://t.co/w8HBmkOotH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Laureates",
+						"indices": [
+							2,
+							12
+						]
+					},
+					{
+						"text": "CantBeGoogled",
+						"indices": [
+							60,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/D3FO7YlrQe",
+						"expanded_url": "http://ow.ly/O6g030eIUw4",
+						"display_url": "ow.ly/O6g030eIUw4",
+						"indices": [
+							91,
+							114
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 900610436181131300,
+						"id_str": "900610436181131264",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/900610436181131264/img/mEebEKX4PLg5Wyhh.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/900610436181131264/img/mEebEKX4PLg5Wyhh.jpg",
+						"url": "https://t.co/w8HBmkOotH",
+						"display_url": "pic.twitter.com/w8HBmkOotH",
+						"expanded_url": "https://twitter.com/UBS/status/900611536074526720/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 900611536074526700,
+						"source_status_id_str": "900611536074526720",
+						"source_user_id": 38237581,
+						"source_user_id_str": "38237581"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 900610436181131300,
+						"id_str": "900610436181131264",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/900610436181131264/img/mEebEKX4PLg5Wyhh.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/900610436181131264/img/mEebEKX4PLg5Wyhh.jpg",
+						"url": "https://t.co/w8HBmkOotH",
+						"display_url": "pic.twitter.com/w8HBmkOotH",
+						"expanded_url": "https://twitter.com/UBS/status/900611536074526720/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 900611536074526700,
+						"source_status_id_str": "900611536074526720",
+						"source_user_id": 38237581,
+						"source_user_id_str": "38237581",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 43008,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/900610436181131264/vid/1280x720/7tpRV09Lxe9hGgtZ.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/900610436181131264/pl/zBCbVyV863cwy_ct.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/900610436181131264/vid/320x180/jVL1C5IRXHqRppw3.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/900610436181131264/vid/640x360/i2CrxpD5-FYcmMC-.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 38237581,
+								"id_str": "38237581",
+								"name": "UBS",
+								"screen_name": "UBS",
+								"location": "Global",
+								"description": "Follow us for news about UBS, our events and opinions  from around the world.",
+								"url": "http://t.co/b9RydVrEGu",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "http://t.co/b9RydVrEGu",
+												"expanded_url": "http://www.ubs.com/socialmedia",
+												"display_url": "ubs.com/socialmedia",
+												"indices": [
+													0,
+													22
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 312410,
+								"friends_count": 75,
+								"listed_count": 1660,
+								"created_at": "Wed May 06 18:04:09 +0000 2009",
+								"favourites_count": 81,
+								"utc_offset": 7200,
+								"time_zone": "Bern",
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 2427,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/533771622/UBS_twitter_background.png",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/533771622/UBS_twitter_background.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/463961659552194560/GJz60zCa_normal.jpeg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/463961659552194560/GJz60zCa_normal.jpeg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/38237581/1488783025",
+								"profile_link_color": "427C99",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38237581,
+				"id_str": "38237581",
+				"name": "UBS",
+				"screen_name": "UBS",
+				"location": "Global",
+				"description": "Follow us for news about UBS, our events and opinions  from around the world.",
+				"url": "http://t.co/b9RydVrEGu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/b9RydVrEGu",
+								"expanded_url": "http://www.ubs.com/socialmedia",
+								"display_url": "ubs.com/socialmedia",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 312410,
+				"friends_count": 75,
+				"listed_count": 1660,
+				"created_at": "Wed May 06 18:04:09 +0000 2009",
+				"favourites_count": 81,
+				"utc_offset": 7200,
+				"time_zone": "Bern",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2427,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/533771622/UBS_twitter_background.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/533771622/UBS_twitter_background.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/463961659552194560/GJz60zCa_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/463961659552194560/GJz60zCa_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38237581/1488783025",
+				"profile_link_color": "427C99",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 9,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 29 16:07:02 +0000 2017",
 		"id": 902563249404624900,
 		"id_str": "902563249404624897",
