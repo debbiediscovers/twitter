@@ -1,6 +1,565 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 30 06:47:35 +0000 2017",
+		"id": 902784846673567700,
+		"id_str": "902784846673567744",
+		"text": "RT @AccordionGuy: “How do different types of IT people fix a broken lightbulb?”, a comic from @toggl that’s funny because it’s true:\nhttps:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AccordionGuy",
+					"name": "🎹 Joey deVilla 🌴",
+					"id": 1117901,
+					"id_str": "1117901",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "toggl",
+					"name": "Toggl",
+					"id": 29165685,
+					"id_str": "29165685",
+					"indices": [
+						94,
+						100
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17612,
+			"friends_count": 10968,
+			"listed_count": 1038,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3482,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7878,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 16 15:51:36 +0000 2016",
+			"id": 809788073689174000,
+			"id_str": "809788073689174016",
+			"text": "“How do different types of IT people fix a broken lightbulb?”, a comic from @toggl that’s funny because it’s true:… https://t.co/obBqQVdUJB",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "toggl",
+						"name": "Toggl",
+						"id": 29165685,
+						"id_str": "29165685",
+						"indices": [
+							76,
+							82
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/obBqQVdUJB",
+						"expanded_url": "https://twitter.com/i/web/status/809788073689174016",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1117901,
+				"id_str": "1117901",
+				"name": "🎹 Joey deVilla 🌴",
+				"screen_name": "AccordionGuy",
+				"location": "Accordion Bay a.k.a. Tampa Bay",
+				"description": "Rock accordionist. Tech evangelist. https://t.co/V8CK5aNBTF lead product manager. Thrilla from Manila. Canadian turned Tampanian. Bon vivant.",
+				"url": "http://t.co/9T0UUqF4yG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/9T0UUqF4yG",
+								"expanded_url": "http://joeydevilla.com",
+								"display_url": "joeydevilla.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/V8CK5aNBTF",
+								"expanded_url": "http://Sourcetoad.com",
+								"display_url": "Sourcetoad.com",
+								"indices": [
+									36,
+									59
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10974,
+				"friends_count": 9200,
+				"listed_count": 577,
+				"created_at": "Tue Mar 13 21:39:41 +0000 2007",
+				"favourites_count": 569,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18630,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/847597694/a41cba8bbb895d7833da43b7e958573e.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/847597694/a41cba8bbb895d7833da43b7e958573e.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/827538643489275904/tER7p6qL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/827538643489275904/tER7p6qL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1117901/1491592659",
+				"profile_link_color": "124294",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DBDBDB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 29,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 30 06:46:39 +0000 2017",
+		"id": 902784612631318500,
+		"id_str": "902784612631318532",
+		"text": "Awesome interactive prototypes made by kids at bottom of post! @marvelapp 👈💖 https://t.co/GeOaCqe5jk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marvelapp",
+					"name": "Marvel",
+					"id": 865514556,
+					"id_str": "865514556",
+					"indices": [
+						63,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GeOaCqe5jk",
+					"expanded_url": "https://twitter.com/pastel_io/status/879178669436137473",
+					"display_url": "twitter.com/pastel_io/stat…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17612,
+			"friends_count": 10968,
+			"listed_count": 1038,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3482,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7878,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 879178669436137500,
+		"quoted_status_id_str": "879178669436137473",
+		"quoted_status": {
+			"created_at": "Mon Jun 26 03:25:03 +0000 2017",
+			"id": 879178669436137500,
+			"id_str": "879178669436137473",
+			"text": "Pablo Stanley on Design Workshops and Empowering Kids - https://t.co/olrzDqadgL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/olrzDqadgL",
+						"expanded_url": "https://blog.marvelapp.com/pablo-stanley-design-workshops-empowering-kids",
+						"display_url": "blog.marvelapp.com/pablo-stanley-…",
+						"indices": [
+							56,
+							79
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3183149395,
+				"id_str": "3183149395",
+				"name": "pastel.io",
+				"screen_name": "pastel_io",
+				"location": "Chiang Mai, Thailand",
+				"description": "Pastel is a client dashboard for Harvest and Toggl. Enlighten your communication with clients. Checkout our app at https://t.co/RCp9Rx9jyg",
+				"url": "https://t.co/RCp9Rx9jyg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RCp9Rx9jyg",
+								"expanded_url": "https://pastel.io",
+								"display_url": "pastel.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RCp9Rx9jyg",
+								"expanded_url": "https://pastel.io",
+								"display_url": "pastel.io",
+								"indices": [
+									115,
+									138
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 428,
+				"friends_count": 4833,
+				"listed_count": 4,
+				"created_at": "Sat May 02 16:10:52 +0000 2015",
+				"favourites_count": 59,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 134,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/708178472070356992/HScPCA0B_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/708178472070356992/HScPCA0B_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3183149395/1434588293",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 30 06:45:32 +0000 2017",
+		"id": 902784333542391800,
+		"id_str": "902784333542391808",
+		"text": "@pastel_io Love this!! ❤️💖",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pastel_io",
+					"name": "pastel.io",
+					"id": 3183149395,
+					"id_str": "3183149395",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 879178669436137500,
+		"in_reply_to_status_id_str": "879178669436137473",
+		"in_reply_to_user_id": 3183149395,
+		"in_reply_to_user_id_str": "3183149395",
+		"in_reply_to_screen_name": "pastel_io",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17612,
+			"friends_count": 10968,
+			"listed_count": 1038,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3482,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7878,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 30 02:49:10 +0000 2017",
 		"id": 902724849432354800,
 		"id_str": "902724849432354816",
