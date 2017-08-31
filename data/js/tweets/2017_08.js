@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 31 03:26:56 +0000 2017",
+		"id": 903096739330003000,
+		"id_str": "903096739330002944",
+		"text": "RT @ContentMktgTop: 22 Powerful Content Marketing Tools for Wordpress: ... https://t.co/jKrtBMLf0i via @debbiediscovers https://t.co/c3bwt7…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ContentMktgTop",
+					"name": "ContentMarketingTop",
+					"id": 3312033602,
+					"id_str": "3312033602",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						103,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jKrtBMLf0i",
+					"expanded_url": "http://gettopical.com/content-marketing/ee2bd56f4aefd5cc19d8cfd6a1a3dee2?src=twitter",
+					"display_url": "gettopical.com/content-market…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17722,
+			"friends_count": 10800,
+			"listed_count": 1038,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3523,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7902,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 12 04:55:57 +0000 2016",
+			"id": 741856541364490200,
+			"id_str": "741856541364490240",
+			"text": "22 Powerful Content Marketing Tools for Wordpress: ... https://t.co/jKrtBMLf0i via @debbiediscovers https://t.co/c3bwt7dhjW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							83,
+							99
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/jKrtBMLf0i",
+						"expanded_url": "http://gettopical.com/content-marketing/ee2bd56f4aefd5cc19d8cfd6a1a3dee2?src=twitter",
+						"display_url": "gettopical.com/content-market…",
+						"indices": [
+							55,
+							78
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 741856538403340300,
+						"id_str": "741856538403340288",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/Ckual1XVAAAnlDN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ckual1XVAAAnlDN.jpg",
+						"url": "https://t.co/c3bwt7dhjW",
+						"display_url": "pic.twitter.com/c3bwt7dhjW",
+						"expanded_url": "https://twitter.com/ContentMktgTop/status/741856541364490240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 440,
+								"h": 220,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 440,
+								"h": 220,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 440,
+								"h": 220,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 741856538403340300,
+						"id_str": "741856538403340288",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/Ckual1XVAAAnlDN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ckual1XVAAAnlDN.jpg",
+						"url": "https://t.co/c3bwt7dhjW",
+						"display_url": "pic.twitter.com/c3bwt7dhjW",
+						"expanded_url": "https://twitter.com/ContentMktgTop/status/741856541364490240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 440,
+								"h": 220,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 440,
+								"h": 220,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 440,
+								"h": 220,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.contentmarketingtop.com/app\" rel=\"nofollow\">ContentMarketingTop</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3312033602,
+				"id_str": "3312033602",
+				"name": "ContentMarketingTop",
+				"screen_name": "ContentMktgTop",
+				"location": "",
+				"description": "Follow us for the top Content Marketing news, curated by the Twitter community",
+				"url": "https://t.co/MTLSRzhaZU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MTLSRzhaZU",
+								"expanded_url": "http://gettopical.com/content-marketing",
+								"display_url": "gettopical.com/content-market…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4340,
+				"friends_count": 4794,
+				"listed_count": 298,
+				"created_at": "Tue Aug 11 03:16:09 +0000 2015",
+				"favourites_count": 830,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11530,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/630946192407420928/xL4eXtmU_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/630946192407420928/xL4eXtmU_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 31 00:46:51 +0000 2017",
 		"id": 903056453807726600,
 		"id_str": "903056453807726592",
