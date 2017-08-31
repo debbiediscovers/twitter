@@ -1,6 +1,549 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 31 00:46:51 +0000 2017",
+		"id": 903056453807726600,
+		"id_str": "903056453807726592",
+		"text": "RT @verge: YouTube has a new look and, for the first time, a new logo https://t.co/t3dvDyDYyG https://t.co/OeIGZnEyog",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "verge",
+					"name": "The Verge",
+					"id": 275686563,
+					"id_str": "275686563",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/t3dvDyDYyG",
+					"expanded_url": "https://www.theverge.com/2017/8/29/16216868/new-youtube-logo-redesign-font-color-app-design",
+					"display_url": "theverge.com/2017/8/29/1621…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 902545808318443500,
+					"id_str": "902545808318443520",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DIZ8oXpWsAAxtyi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DIZ8oXpWsAAxtyi.jpg",
+					"url": "https://t.co/OeIGZnEyog",
+					"display_url": "pic.twitter.com/OeIGZnEyog",
+					"expanded_url": "https://twitter.com/verge/status/902545842195791873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 213,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 375,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 902545842195791900,
+					"source_status_id_str": "902545842195791873",
+					"source_user_id": 275686563,
+					"source_user_id_str": "275686563"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 902545808318443500,
+					"id_str": "902545808318443520",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DIZ8oXpWsAAxtyi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DIZ8oXpWsAAxtyi.jpg",
+					"url": "https://t.co/OeIGZnEyog",
+					"display_url": "pic.twitter.com/OeIGZnEyog",
+					"expanded_url": "https://twitter.com/verge/status/902545842195791873/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 213,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 375,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 902545842195791900,
+					"source_status_id_str": "902545842195791873",
+					"source_user_id": 275686563,
+					"source_user_id_str": "275686563",
+					"video_info": {
+						"aspect_ratio": [
+							8,
+							5
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DIZ8oXpWsAAxtyi.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17702,
+			"friends_count": 10800,
+			"listed_count": 1037,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3521,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7902,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 29 14:57:51 +0000 2017",
+			"id": 902545842195791900,
+			"id_str": "902545842195791873",
+			"text": "YouTube has a new look and, for the first time, a new logo https://t.co/t3dvDyDYyG https://t.co/OeIGZnEyog",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/t3dvDyDYyG",
+						"expanded_url": "https://www.theverge.com/2017/8/29/16216868/new-youtube-logo-redesign-font-color-app-design",
+						"display_url": "theverge.com/2017/8/29/1621…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 902545808318443500,
+						"id_str": "902545808318443520",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DIZ8oXpWsAAxtyi.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DIZ8oXpWsAAxtyi.jpg",
+						"url": "https://t.co/OeIGZnEyog",
+						"display_url": "pic.twitter.com/OeIGZnEyog",
+						"expanded_url": "https://twitter.com/verge/status/902545842195791873/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 213,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 375,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 902545808318443500,
+						"id_str": "902545808318443520",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DIZ8oXpWsAAxtyi.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DIZ8oXpWsAAxtyi.jpg",
+						"url": "https://t.co/OeIGZnEyog",
+						"display_url": "pic.twitter.com/OeIGZnEyog",
+						"expanded_url": "https://twitter.com/verge/status/902545842195791873/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 213,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 375,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								8,
+								5
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DIZ8oXpWsAAxtyi.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 275686563,
+				"id_str": "275686563",
+				"name": "The Verge",
+				"screen_name": "verge",
+				"location": "New York",
+				"description": "https://t.co/W2SFxIXkC4 covers life in the future.",
+				"url": "http://t.co/W2SFxIXkC4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/W2SFxIXkC4",
+								"expanded_url": "http://www.theverge.com",
+								"display_url": "theverge.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/W2SFxIXkC4",
+								"expanded_url": "http://www.theverge.com",
+								"display_url": "theverge.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2149510,
+				"friends_count": 150,
+				"listed_count": 33190,
+				"created_at": "Fri Apr 01 19:54:22 +0000 2011",
+				"favourites_count": 1737,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 126777,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/481546505468145664/a59ZFvIP.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/481546505468145664/a59ZFvIP.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1502473361",
+				"profile_link_color": "EC008C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1225,
+			"favorite_count": 2994,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1225,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 31 00:40:00 +0000 2017",
+		"id": 903054731597144000,
+		"id_str": "903054731597144064",
+		"text": "Ryan Hoover’s $3M Angel Fund is going by the name Weekend Fund https://t.co/dH6JNVKKdz via @techcrunch #congrats @rrhoover!! 😻",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "congrats",
+					"indices": [
+						103,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TechCrunch",
+					"name": "TechCrunch",
+					"id": 816653,
+					"id_str": "816653",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"screen_name": "rrhoover",
+					"name": "Ryan Hoover OFFLINE",
+					"id": 14417215,
+					"id_str": "14417215",
+					"indices": [
+						113,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dH6JNVKKdz",
+					"expanded_url": "https://techcrunch.com/2017/08/29/weekend-fund-is-ryan-hoovers-3m-angel-fund/",
+					"display_url": "techcrunch.com/2017/08/29/wee…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://drumup.io\" rel=\"nofollow\">drumup.io</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17702,
+			"friends_count": 10800,
+			"listed_count": 1037,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3521,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7902,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 30 23:41:02 +0000 2017",
 		"id": 903039889926742000,
 		"id_str": "903039889926742016",
