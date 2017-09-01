@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Fri Sep 01 08:36:21 +0000 2017",
+		"id": 903536996118704100,
+		"id_str": "903536996118704128",
+		"text": "RT @SociallySorted: How to Define and Create Quality Content: Tips From 35+ Experts https://t.co/fwFprex7TF by @CMIContent",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SociallySorted",
+					"name": "Donna Moritz",
+					"id": 208271692,
+					"id_str": "208271692",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "CMIContent",
+					"name": "Content Marketing",
+					"id": 18240655,
+					"id_str": "18240655",
+					"indices": [
+						111,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fwFprex7TF",
+					"expanded_url": "http://bit.ly/2xEj5wR",
+					"display_url": "bit.ly/2xEj5wR",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17752,
+			"friends_count": 9748,
+			"listed_count": 1035,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3546,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7925,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 01 07:15:44 +0000 2017",
+			"id": 903516707901321200,
+			"id_str": "903516707901321216",
+			"text": "How to Define and Create Quality Content: Tips From 35+ Experts https://t.co/fwFprex7TF by @CMIContent",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CMIContent",
+						"name": "Content Marketing",
+						"id": 18240655,
+						"id_str": "18240655",
+						"indices": [
+							91,
+							102
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/fwFprex7TF",
+						"expanded_url": "http://bit.ly/2xEj5wR",
+						"display_url": "bit.ly/2xEj5wR",
+						"indices": [
+							64,
+							87
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://smarterqueue.com\" rel=\"nofollow\">SmarterQueue</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 208271692,
+				"id_str": "208271692",
+				"name": "Donna Moritz",
+				"screen_name": "SociallySorted",
+				"location": "Sunshine Coast, Queensland",
+				"description": "Top 10 Social Media Blog 2015-2017 - Social Media Examiner | Visual Social Media & Content Strategy | Learn to Create Visual Content https://t.co/iQ46EuFamu",
+				"url": "https://t.co/LYv04UUqhi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LYv04UUqhi",
+								"expanded_url": "http://www.sociallysorted.com.au/blog",
+								"display_url": "sociallysorted.com.au/blog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iQ46EuFamu",
+								"expanded_url": "http://bit.ly/createvisuals",
+								"display_url": "bit.ly/createvisuals",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 47358,
+				"friends_count": 28558,
+				"listed_count": 3551,
+				"created_at": "Tue Oct 26 23:57:59 +0000 2010",
+				"favourites_count": 1576,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 62974,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000523693698/777f3f5d52007c7ad21b437fb772902a_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000523693698/777f3f5d52007c7ad21b437fb772902a_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/208271692/1475649315",
+				"profile_link_color": "642D8B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 01 06:48:01 +0000 2017",
 		"id": 903509731699941400,
 		"id_str": "903509731699941376",
