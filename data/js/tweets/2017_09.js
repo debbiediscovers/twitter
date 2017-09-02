@@ -1,6 +1,930 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sat Sep 02 07:30:02 +0000 2017",
+		"id": 903882696505442300,
+		"id_str": "903882696505442304",
+		"text": "RT @joshsteimle: Top 10 #SocialMarketing #Influencers to Keep An Eye on in 2017 by @CynthiaLIVE via @smxplorer https://t.co/SdDrki0vD2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SocialMarketing",
+					"indices": [
+						24,
+						40
+					]
+				},
+				{
+					"text": "Influencers",
+					"indices": [
+						41,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joshsteimle",
+					"name": "Josh Steimle",
+					"id": 25384284,
+					"id_str": "25384284",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "CynthiaLIVE",
+					"name": "Cynthia Johnson",
+					"id": 153966123,
+					"id_str": "153966123",
+					"indices": [
+						83,
+						95
+					]
+				},
+				{
+					"screen_name": "smxplorer",
+					"name": "SocialMedia Explorer",
+					"id": 987247328,
+					"id_str": "987247328",
+					"indices": [
+						100,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SdDrki0vD2",
+					"expanded_url": "http://bit.ly/2i2v5RQ",
+					"display_url": "bit.ly/2i2v5RQ",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17808,
+			"friends_count": 10013,
+			"listed_count": 1036,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3588,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7947,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 31 08:12:00 +0000 2017",
+			"id": 903168481335631900,
+			"id_str": "903168481335631872",
+			"text": "Top 10 #SocialMarketing #Influencers to Keep An Eye on in 2017 by @CynthiaLIVE via @smxplorer https://t.co/SdDrki0vD2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SocialMarketing",
+						"indices": [
+							7,
+							23
+						]
+					},
+					{
+						"text": "Influencers",
+						"indices": [
+							24,
+							36
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CynthiaLIVE",
+						"name": "Cynthia Johnson",
+						"id": 153966123,
+						"id_str": "153966123",
+						"indices": [
+							66,
+							78
+						]
+					},
+					{
+						"screen_name": "smxplorer",
+						"name": "SocialMedia Explorer",
+						"id": 987247328,
+						"id_str": "987247328",
+						"indices": [
+							83,
+							93
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SdDrki0vD2",
+						"expanded_url": "http://bit.ly/2i2v5RQ",
+						"display_url": "bit.ly/2i2v5RQ",
+						"indices": [
+							94,
+							117
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://meetedgar.com\" rel=\"nofollow\">Meet Edgar</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25384284,
+				"id_str": "25384284",
+				"name": "Josh Steimle",
+				"screen_name": "joshsteimle",
+				"location": "Shenzhen, China",
+				"description": "I turn CMOs into influencers. Author Chief Marketing Officers at Work, 300+ articles on Mashable, TechCrunch, Forbes, Time. Agency CEO, @TEDx speaker, dad.",
+				"url": "https://t.co/02jG8bms5v",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/02jG8bms5v",
+								"expanded_url": "https://www.joshsteimle.com/influencer-coaching",
+								"display_url": "joshsteimle.com/influencer-coa…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16665,
+				"friends_count": 5920,
+				"listed_count": 2001,
+				"created_at": "Thu Mar 19 20:59:20 +0000 2009",
+				"favourites_count": 21841,
+				"utc_offset": 28800,
+				"time_zone": "Hong Kong",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19706,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/454474255673991168/yiOMtoV8.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/454474255673991168/yiOMtoV8.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/837620438884732928/LyKY9k38_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/837620438884732928/LyKY9k38_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25384284/1481180442",
+				"profile_link_color": "EF4336",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E7D492",
+				"profile_text_color": "3A1908",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 02 07:29:42 +0000 2017",
+		"id": 903882610979377200,
+		"id_str": "903882610979377152",
+		"text": "RT @centriciti: How CMOs Select The Marketing Tools They Use https://t.co/YIaAMrApJk\nQuick &amp; informative read by @KimWhitler interviewing @…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "centriciti",
+					"name": "Lawrence Phipps",
+					"id": 14896020,
+					"id_str": "14896020",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "KimWhitler",
+					"name": "Kimberly Whitler",
+					"id": 273661708,
+					"id_str": "273661708",
+					"indices": [
+						117,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YIaAMrApJk",
+					"expanded_url": "https://www.forbes.com/sites/kimberlywhitler/2017/04/16/how-cmos-select-the-marketing-tools-they-use/#25f1807114aa",
+					"display_url": "forbes.com/sites/kimberly…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17808,
+			"friends_count": 10013,
+			"listed_count": 1036,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3588,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7947,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 31 19:52:30 +0000 2017",
+			"id": 903344765709631500,
+			"id_str": "903344765709631488",
+			"text": "How CMOs Select The Marketing Tools They Use https://t.co/YIaAMrApJk\nQuick &amp; informative read by @KimWhitler interviewing @JoshSteimle",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KimWhitler",
+						"name": "Kimberly Whitler",
+						"id": 273661708,
+						"id_str": "273661708",
+						"indices": [
+							101,
+							112
+						]
+					},
+					{
+						"screen_name": "joshsteimle",
+						"name": "Josh Steimle",
+						"id": 25384284,
+						"id_str": "25384284",
+						"indices": [
+							126,
+							138
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YIaAMrApJk",
+						"expanded_url": "https://www.forbes.com/sites/kimberlywhitler/2017/04/16/how-cmos-select-the-marketing-tools-they-use/#25f1807114aa",
+						"display_url": "forbes.com/sites/kimberly…",
+						"indices": [
+							45,
+							68
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14896020,
+				"id_str": "14896020",
+				"name": "Lawrence Phipps",
+				"screen_name": "centriciti",
+				"location": "Denver, CO",
+				"description": "Communicator, product & brand strategist, catalyst for value creation, trendspotter, entrepreneur kickstarter, engaged in commerce, tech & culture",
+				"url": "http://t.co/xR1a7PYqXI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xR1a7PYqXI",
+								"expanded_url": "http://centriciti.com",
+								"display_url": "centriciti.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 594,
+				"friends_count": 904,
+				"listed_count": 104,
+				"created_at": "Sun May 25 02:54:26 +0000 2008",
+				"favourites_count": 193,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1625,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "911A07",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/790335945/b951ebeb61e22294f2fda6e96c0a708f.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/790335945/b951ebeb61e22294f2fda6e96c0a708f.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3114277808/504ed2600a7cc1e96c67269de7c995f2_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3114277808/504ed2600a7cc1e96c67269de7c995f2_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14896020/1360813866",
+				"profile_link_color": "B31212",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "868C65",
+				"profile_text_color": "453F2C",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 02 07:14:13 +0000 2017",
+		"id": 903878715603468300,
+		"id_str": "903878715603468288",
+		"text": "@Artist_Gagne Stay cool https://t.co/ScwDXwXgMf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Artist_Gagne",
+					"name": "Artist C. Gagné",
+					"id": 742573739699757000,
+					"id_str": "742573739699757056",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 903878704866017300,
+					"id_str": "903878704866017280",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DIs45KOUQAAYhdM.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DIs45KOUQAAYhdM.jpg",
+					"url": "https://t.co/ScwDXwXgMf",
+					"display_url": "pic.twitter.com/ScwDXwXgMf",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/903878715603468288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 450,
+							"h": 308,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 308,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 233,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 903878704866017300,
+					"id_str": "903878704866017280",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DIs45KOUQAAYhdM.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DIs45KOUQAAYhdM.jpg",
+					"url": "https://t.co/ScwDXwXgMf",
+					"display_url": "pic.twitter.com/ScwDXwXgMf",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/903878715603468288/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 450,
+							"h": 308,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 308,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 233,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							225,
+							154
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DIs45KOUQAAYhdM.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 903818631791902700,
+		"in_reply_to_status_id_str": "903818631791902720",
+		"in_reply_to_user_id": 742573739699757000,
+		"in_reply_to_user_id_str": "742573739699757056",
+		"in_reply_to_screen_name": "Artist_Gagne",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17808,
+			"friends_count": 10013,
+			"listed_count": 1036,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3588,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7947,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 02 07:13:38 +0000 2017",
+		"id": 903878567808852000,
+		"id_str": "903878567808851968",
+		"text": "@Zella1930 @gapingvoid Me too! https://t.co/iZmW467y3U",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Zella1930",
+					"name": "Charity Son",
+					"id": 133611738,
+					"id_str": "133611738",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "gapingvoid",
+					"name": "gapingvoid",
+					"id": 72982024,
+					"id_str": "72982024",
+					"indices": [
+						11,
+						22
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 903878551069368300,
+					"id_str": "903878551069368321",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DIs4wNSVoAE0fw7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DIs4wNSVoAE0fw7.jpg",
+					"url": "https://t.co/iZmW467y3U",
+					"display_url": "pic.twitter.com/iZmW467y3U",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/903878567808851968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 145,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 255,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 272,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 903878551069368300,
+					"id_str": "903878551069368321",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DIs4wNSVoAE0fw7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DIs4wNSVoAE0fw7.jpg",
+					"url": "https://t.co/iZmW467y3U",
+					"display_url": "pic.twitter.com/iZmW467y3U",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/903878567808851968/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 145,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 255,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							17
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DIs4wNSVoAE0fw7.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 903810594217664500,
+		"in_reply_to_status_id_str": "903810594217664513",
+		"in_reply_to_user_id": 133611738,
+		"in_reply_to_user_id_str": "133611738",
+		"in_reply_to_screen_name": "Zella1930",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17808,
+			"friends_count": 10013,
+			"listed_count": 1036,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3588,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7947,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 02 02:13:49 +0000 2017",
 		"id": 903803118659428400,
 		"id_str": "903803118659428352",
