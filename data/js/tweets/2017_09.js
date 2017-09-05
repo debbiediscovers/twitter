@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 05 02:00:08 +0000 2017",
+		"id": 904886838636142600,
+		"id_str": "904886838636142593",
+		"text": "$SNAP number high to me. https://t.co/aZ3ydrENod",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [
+				{
+					"text": "SNAP",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aZ3ydrENod",
+					"expanded_url": "https://twitter.com/benedictjt/status/904698423617523712",
+					"display_url": "twitter.com/benedictjt/sta…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18074,
+			"friends_count": 9752,
+			"listed_count": 1042,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3691,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8011,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 904698423617523700,
+		"quoted_status_id_str": "904698423617523712",
+		"quoted_status": {
+			"created_at": "Mon Sep 04 13:31:27 +0000 2017",
+			"id": 904698423617523700,
+			"id_str": "904698423617523712",
+			"text": "Amazing chart of an Internet Minute shared by @astiksinha to reiterate the swift &amp; spectacular nature of the Net.… https://t.co/GHwC2VVTLJ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "astiksinha",
+						"name": "Astik Sinha",
+						"id": 51135447,
+						"id_str": "51135447",
+						"indices": [
+							46,
+							57
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/GHwC2VVTLJ",
+						"expanded_url": "https://twitter.com/i/web/status/904698423617523712",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							119,
+							142
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18218175,
+				"id_str": "18218175",
+				"name": "Ben Thambiah",
+				"screen_name": "benedictjt",
+				"location": "",
+				"description": "LGBT, Atheist & Devout Inclusionist. I speak only for myself. RT ≠ endorsement.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 314,
+				"friends_count": 250,
+				"listed_count": 19,
+				"created_at": "Thu Dec 18 16:35:00 +0000 2008",
+				"favourites_count": 2915,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5197,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/739704467185012736/Dk-6fMjS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/739704467185012736/Dk-6fMjS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18218175/1427671475",
+				"profile_link_color": "00B303",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 04 19:15:34 +0000 2017",
 		"id": 904785022946746400,
 		"id_str": "904785022946746369",
