@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 06 11:25:11 +0000 2017",
+		"id": 905391424136347600,
+		"id_str": "905391424136347648",
+		"text": "RT @limlyeheng: https://t.co/twUDvnZtOY @chambersjosh @edutopia @jackiegerstein @techinasia @KQEDedspace @emerbeamer @steveleonardSG @toysa…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "limlyeheng",
+					"name": "Adrian Lim",
+					"id": 193736170,
+					"id_str": "193736170",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "chambersjosh",
+					"name": "Joshua Chambers 🚀",
+					"id": 14620332,
+					"id_str": "14620332",
+					"indices": [
+						40,
+						53
+					]
+				},
+				{
+					"screen_name": "edutopia",
+					"name": "edutopia",
+					"id": 35415477,
+					"id_str": "35415477",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"screen_name": "jackiegerstein",
+					"name": "JackieGerstein Ed.D.",
+					"id": 16005270,
+					"id_str": "16005270",
+					"indices": [
+						64,
+						79
+					]
+				},
+				{
+					"screen_name": "techinasia",
+					"name": "Tech in Asia",
+					"id": 44078873,
+					"id_str": "44078873",
+					"indices": [
+						80,
+						91
+					]
+				},
+				{
+					"screen_name": "KQEDedspace",
+					"name": "KQED Education",
+					"id": 352537935,
+					"id_str": "352537935",
+					"indices": [
+						92,
+						104
+					]
+				},
+				{
+					"screen_name": "emerbeamer",
+					"name": "Emer Beamer",
+					"id": 9229162,
+					"id_str": "9229162",
+					"indices": [
+						105,
+						116
+					]
+				},
+				{
+					"screen_name": "steveleonardSG",
+					"name": "Steve Leonard",
+					"id": 2574271958,
+					"id_str": "2574271958",
+					"indices": [
+						117,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/twUDvnZtOY",
+					"expanded_url": "http://blogs.edweek.org/edweek/education_futures/2017/08/how_singapore_is_introducing_coding_to_early_learners.html",
+					"display_url": "blogs.edweek.org/edweek/educati…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18381,
+			"friends_count": 10585,
+			"listed_count": 1043,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3708,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8027,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 23 14:50:34 +0000 2017",
+			"id": 900369680644296700,
+			"id_str": "900369680644296705",
+			"text": "https://t.co/twUDvnZtOY @chambersjosh @edutopia @jackiegerstein @techinasia @KQEDedspace @emerbeamer @steveleonardSG @toysastools",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "chambersjosh",
+						"name": "Joshua Chambers 🚀",
+						"id": 14620332,
+						"id_str": "14620332",
+						"indices": [
+							24,
+							37
+						]
+					},
+					{
+						"screen_name": "edutopia",
+						"name": "edutopia",
+						"id": 35415477,
+						"id_str": "35415477",
+						"indices": [
+							38,
+							47
+						]
+					},
+					{
+						"screen_name": "jackiegerstein",
+						"name": "JackieGerstein Ed.D.",
+						"id": 16005270,
+						"id_str": "16005270",
+						"indices": [
+							48,
+							63
+						]
+					},
+					{
+						"screen_name": "techinasia",
+						"name": "Tech in Asia",
+						"id": 44078873,
+						"id_str": "44078873",
+						"indices": [
+							64,
+							75
+						]
+					},
+					{
+						"screen_name": "KQEDedspace",
+						"name": "KQED Education",
+						"id": 352537935,
+						"id_str": "352537935",
+						"indices": [
+							76,
+							88
+						]
+					},
+					{
+						"screen_name": "emerbeamer",
+						"name": "Emer Beamer",
+						"id": 9229162,
+						"id_str": "9229162",
+						"indices": [
+							89,
+							100
+						]
+					},
+					{
+						"screen_name": "steveleonardSG",
+						"name": "Steve Leonard",
+						"id": 2574271958,
+						"id_str": "2574271958",
+						"indices": [
+							101,
+							116
+						]
+					},
+					{
+						"screen_name": "toysastools",
+						"name": "Jenn Choi Solutions",
+						"id": 29699674,
+						"id_str": "29699674",
+						"indices": [
+							117,
+							129
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/twUDvnZtOY",
+						"expanded_url": "http://blogs.edweek.org/edweek/education_futures/2017/08/how_singapore_is_introducing_coding_to_early_learners.html",
+						"display_url": "blogs.edweek.org/edweek/educati…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 193736170,
+				"id_str": "193736170",
+				"name": "Adrian Lim",
+				"screen_name": "limlyeheng",
+				"location": "Singapore",
+				"description": "Father, Innovator, Dreamer, Idealistic-pragmatist, Relentless Optimist, Learn-it-All, Tech-Leader. Leadership Mantra: Ready-Fire-Aim",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 266,
+				"friends_count": 264,
+				"listed_count": 173,
+				"created_at": "Wed Sep 22 15:29:11 +0000 2010",
+				"favourites_count": 582,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5529,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/542225028629012480/COVxpHk1_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/542225028629012480/COVxpHk1_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/193736170/1471179305",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed Sep 06 09:50:00 +0000 2017",
 		"id": 905367470935912400,
 		"id_str": "905367470935912448",
