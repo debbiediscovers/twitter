@@ -1,6 +1,550 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 07 07:20:20 +0000 2017",
+		"id": 905692194861748200,
+		"id_str": "905692194861748225",
+		"text": "RT @sg83674: #Thanks to genuinely kind &amp; positive marketers \nlike Deborah Kay our world is a much better place.\nThe motivational tip today:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Thanks",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sg83674",
+					"name": "Stanley Greaves",
+					"id": 1026472178,
+					"id_str": "1026472178",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18468,
+			"friends_count": 11175,
+			"listed_count": 1046,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3728,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8050,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 07 06:44:40 +0000 2017",
+			"id": 905683216555794400,
+			"id_str": "905683216555794432",
+			"text": "#Thanks to genuinely kind &amp; positive marketers \nlike Deborah Kay our world is a much better place.\nThe motivational… https://t.co/ZMXYe7MV0Q",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Thanks",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZMXYe7MV0Q",
+						"expanded_url": "https://twitter.com/i/web/status/905683216555794432",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1026472178,
+				"id_str": "1026472178",
+				"name": "Stanley Greaves",
+				"screen_name": "sg83674",
+				"location": "Canada",
+				"description": "Network Marketing specialist with a passion for life, politics and history. I believe in empowering others and encourage all to think outside of the box.",
+				"url": "https://t.co/T4MFbjmNxX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/T4MFbjmNxX",
+								"expanded_url": "http://www.mindset24global.com/corp/hopebiz",
+								"display_url": "mindset24global.com/corp/hopebiz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3306,
+				"friends_count": 4731,
+				"listed_count": 77,
+				"created_at": "Fri Dec 21 14:15:33 +0000 2012",
+				"favourites_count": 78,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1527,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/667054321616351232/5Yv1JRUd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/667054321616351232/5Yv1JRUd_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 905673511116521500,
+			"quoted_status_id_str": "905673511116521472",
+			"quoted_status": {
+				"created_at": "Thu Sep 07 06:06:06 +0000 2017",
+				"id": 905673511116521500,
+				"id_str": "905673511116521472",
+				"text": "#HAPPY Blasted a product rec email, got a whole bunch of sales in one day! Thx for the tips @edplotts @ladderdigital\nhttps://t.co/UlDugL7jlU",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "HAPPY",
+							"indices": [
+								0,
+								6
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "EdPlotts",
+							"name": "Ed Plotts",
+							"id": 546356462,
+							"id_str": "546356462",
+							"indices": [
+								92,
+								101
+							]
+						},
+						{
+							"screen_name": "ladderdigital",
+							"name": "Ladder.io",
+							"id": 2728977680,
+							"id_str": "2728977680",
+							"indices": [
+								102,
+								116
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/UlDugL7jlU",
+							"expanded_url": "https://medium.com/@edplotts/an-easy-email-tactic-thats-acquired-5-000-transforming-dormant-subscribers-into-customers-dc7ed8e4a31a",
+							"display_url": "medium.com/@edplotts/an-e…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"name": "Deborah Kay",
+					"screen_name": "debbiediscovers",
+					"location": "Central Region, Singapore",
+					"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+					"url": "https://t.co/f7EuC7yqus",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/f7EuC7yqus",
+									"expanded_url": "http://www.digitaldiscovery.sg",
+									"display_url": "digitaldiscovery.sg",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 18468,
+					"friends_count": 11175,
+					"listed_count": 1046,
+					"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+					"favourites_count": 3728,
+					"utc_offset": -39600,
+					"time_zone": "International Date Line West",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 8050,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EBEBEB",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+					"profile_link_color": "D50252",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 5,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 905673511116521500,
+		"quoted_status_id_str": "905673511116521472",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 07 07:20:13 +0000 2017",
+		"id": 905692164151140400,
+		"id_str": "905692164151140352",
+		"text": "@sg83674 THANK YOU! https://t.co/2PnwUUWTSa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sg83674",
+					"name": "Stanley Greaves",
+					"id": 1026472178,
+					"id_str": "1026472178",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 905692141036355600,
+					"id_str": "905692141036355584",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DJGqNCZVwAAGEcV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJGqNCZVwAAGEcV.jpg",
+					"url": "https://t.co/2PnwUUWTSa",
+					"display_url": "pic.twitter.com/2PnwUUWTSa",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/905692164151140352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 255,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 905692141036355600,
+					"id_str": "905692141036355584",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DJGqNCZVwAAGEcV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJGqNCZVwAAGEcV.jpg",
+					"url": "https://t.co/2PnwUUWTSa",
+					"display_url": "pic.twitter.com/2PnwUUWTSa",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/905692164151140352/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 255,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DJGqNCZVwAAGEcV.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 905683216555794400,
+		"in_reply_to_status_id_str": "905683216555794432",
+		"in_reply_to_user_id": 1026472178,
+		"in_reply_to_user_id_str": "1026472178",
+		"in_reply_to_screen_name": "sg83674",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast, obsessed with Data, Digital and Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18468,
+			"friends_count": 11175,
+			"listed_count": 1046,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3728,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8050,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 07 06:40:01 +0000 2017",
 		"id": 905682047498240000,
 		"id_str": "905682047498240000",
