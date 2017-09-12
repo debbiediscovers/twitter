@@ -1,6 +1,601 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 12 09:26:59 +0000 2017",
+		"id": 907536004575256600,
+		"id_str": "907536004575256576",
+		"text": "RT @jamesmlucas: The Tenets of A/B Testing from Duolingo’s Master Growth Hacker https://t.co/nEvexrHbDQ https://t.co/aW856Fb0vv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jamesmlucas",
+					"name": "James Lucas",
+					"id": 20511408,
+					"id_str": "20511408",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nEvexrHbDQ",
+					"expanded_url": "http://bit.ly/2w2rmhM",
+					"display_url": "bit.ly/2w2rmhM",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 907503296457449500,
+					"id_str": "907503296457449473",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DJgZcKHXoAEKX61.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJgZcKHXoAEKX61.jpg",
+					"url": "https://t.co/aW856Fb0vv",
+					"display_url": "pic.twitter.com/aW856Fb0vv",
+					"expanded_url": "https://twitter.com/jamesmlucas/status/907503298441248770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 256,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 256,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 256,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 907503298441248800,
+					"source_status_id_str": "907503298441248770",
+					"source_user_id": 20511408,
+					"source_user_id_str": "20511408"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 907503296457449500,
+					"id_str": "907503296457449473",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DJgZcKHXoAEKX61.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJgZcKHXoAEKX61.jpg",
+					"url": "https://t.co/aW856Fb0vv",
+					"display_url": "pic.twitter.com/aW856Fb0vv",
+					"expanded_url": "https://twitter.com/jamesmlucas/status/907503298441248770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 256,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 256,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 256,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 907503298441248800,
+					"source_status_id_str": "907503298441248770",
+					"source_user_id": 20511408,
+					"source_user_id_str": "20511408"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19229,
+			"friends_count": 9518,
+			"listed_count": 952,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3900,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8176,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 12 07:17:01 +0000 2017",
+			"id": 907503298441248800,
+			"id_str": "907503298441248770",
+			"text": "The Tenets of A/B Testing from Duolingo’s Master Growth Hacker https://t.co/nEvexrHbDQ https://t.co/aW856Fb0vv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nEvexrHbDQ",
+						"expanded_url": "http://bit.ly/2w2rmhM",
+						"display_url": "bit.ly/2w2rmhM",
+						"indices": [
+							63,
+							86
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 907503296457449500,
+						"id_str": "907503296457449473",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DJgZcKHXoAEKX61.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJgZcKHXoAEKX61.jpg",
+						"url": "https://t.co/aW856Fb0vv",
+						"display_url": "pic.twitter.com/aW856Fb0vv",
+						"expanded_url": "https://twitter.com/jamesmlucas/status/907503298441248770/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 256,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 256,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 256,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 907503296457449500,
+						"id_str": "907503296457449473",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DJgZcKHXoAEKX61.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJgZcKHXoAEKX61.jpg",
+						"url": "https://t.co/aW856Fb0vv",
+						"display_url": "pic.twitter.com/aW856Fb0vv",
+						"expanded_url": "https://twitter.com/jamesmlucas/status/907503298441248770/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 256,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 256,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 256,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20511408,
+				"id_str": "20511408",
+				"name": "James Lucas",
+				"screen_name": "jamesmlucas",
+				"location": "Bristol & London, England",
+				"description": "Digital & product strategy #consultant. Keen #golfer and travel enthusiast. Ex Nokia & Telefonica. #startups, #tech, #mobile, #marketing, #beacons, #iot",
+				"url": "https://t.co/TsMm6megYi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TsMm6megYi",
+								"expanded_url": "https://www.getrevue.co/profile/jameslucas",
+								"display_url": "getrevue.co/profile/jamesl…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1636,
+				"friends_count": 1921,
+				"listed_count": 241,
+				"created_at": "Tue Feb 10 13:01:10 +0000 2009",
+				"favourites_count": 584,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12745,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F3F3F3",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378042625/Facebook_Profile_Image__Export_.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378042625/Facebook_Profile_Image__Export_.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/822828482409414656/-bXtx0l9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/822828482409414656/-bXtx0l9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20511408/1457633777",
+				"profile_link_color": "5CBBC3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "555555",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 12 09:16:38 +0000 2017",
+		"id": 907533402496106500,
+		"id_str": "907533402496106496",
+		"text": "RT @debbiediscovers: #TuesdayThoughts:  Averages Are Stupid. Average is for Losers: Quit or be Exceptional: Seth Godin. Illustration by @ga…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TuesdayThoughts",
+					"indices": [
+						21,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19229,
+			"friends_count": 9518,
+			"listed_count": 952,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3900,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8176,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 22 02:45:04 +0000 2016",
+			"id": 800892827261669400,
+			"id_str": "800892827261669376",
+			"text": "#TuesdayThoughts:  Averages Are Stupid. Average is for Losers: Quit or be Exceptional: Seth Godin. Illustration by… https://t.co/QUKPJhztMF",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TuesdayThoughts",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QUKPJhztMF",
+						"expanded_url": "https://twitter.com/i/web/status/800892827261669376",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Central Region, Singapore",
+				"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+				"url": "https://t.co/f7EuC7yqus",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/f7EuC7yqus",
+								"expanded_url": "http://www.digitaldiscovery.sg",
+								"display_url": "digitaldiscovery.sg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19229,
+				"friends_count": 9518,
+				"listed_count": 952,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 3900,
+				"utc_offset": -39600,
+				"time_zone": "International Date Line West",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8176,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 12 04:18:47 +0000 2017",
 		"id": 907458446072545300,
 		"id_str": "907458446072545281",
