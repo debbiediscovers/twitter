@@ -1,6 +1,2422 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 12 11:10:51 +0000 2017",
+		"id": 907562142945075200,
+		"id_str": "907562142945075200",
+		"text": "@akoncloud @SAINSBURY @SMRT_Singapore I cold agree with you but then I would be lying 😬",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "akoncloud",
+					"name": "Andrey Korenkov",
+					"id": 732526070805594100,
+					"id_str": "732526070805594113",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "SAINSBURY",
+					"name": "SAINSBURY",
+					"id": 14095494,
+					"id_str": "14095494",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "SMRT_Singapore",
+					"name": "SMRT Corporation",
+					"id": 307781209,
+					"id_str": "307781209",
+					"indices": [
+						22,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 907561782725681200,
+		"in_reply_to_status_id_str": "907561782725681153",
+		"in_reply_to_user_id": 732526070805594100,
+		"in_reply_to_user_id_str": "732526070805594113",
+		"in_reply_to_screen_name": "akoncloud",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19228,
+			"friends_count": 9522,
+			"listed_count": 953,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3917,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 12 11:07:03 +0000 2017",
+		"id": 907561185964310500,
+		"id_str": "907561185964310528",
+		"text": "@akoncloud @SAINSBURY @SMRT_Singapore 42 degrees. Heavenly. Really?! (Why are there no good gifs for #oxymoron) https://t.co/BDvzXiyF8f",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oxymoron",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "akoncloud",
+					"name": "Andrey Korenkov",
+					"id": 732526070805594100,
+					"id_str": "732526070805594113",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "SAINSBURY",
+					"name": "SAINSBURY",
+					"id": 14095494,
+					"id_str": "14095494",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "SMRT_Singapore",
+					"name": "SMRT Corporation",
+					"id": 307781209,
+					"id_str": "307781209",
+					"indices": [
+						22,
+						37
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 907561169627496400,
+					"id_str": "907561169627496449",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DJhOE0eVwAEihoc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJhOE0eVwAEihoc.jpg",
+					"url": "https://t.co/BDvzXiyF8f",
+					"display_url": "pic.twitter.com/BDvzXiyF8f",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/907561185964310528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 280,
+							"h": 210,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 280,
+							"h": 210,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 280,
+							"h": 210,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 907561169627496400,
+					"id_str": "907561169627496449",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DJhOE0eVwAEihoc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJhOE0eVwAEihoc.jpg",
+					"url": "https://t.co/BDvzXiyF8f",
+					"display_url": "pic.twitter.com/BDvzXiyF8f",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/907561185964310528/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 280,
+							"h": 210,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 280,
+							"h": 210,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 280,
+							"h": 210,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DJhOE0eVwAEihoc.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 907560485192572900,
+		"in_reply_to_status_id_str": "907560485192572928",
+		"in_reply_to_user_id": 732526070805594100,
+		"in_reply_to_user_id_str": "732526070805594113",
+		"in_reply_to_screen_name": "akoncloud",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19228,
+			"friends_count": 9522,
+			"listed_count": 953,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3917,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 12 11:03:45 +0000 2017",
+		"id": 907560358000263200,
+		"id_str": "907560358000263170",
+		"text": "@akoncloud @SAINSBURY @SMRT_Singapore No way in Victoria??!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "akoncloud",
+					"name": "Andrey Korenkov",
+					"id": 732526070805594100,
+					"id_str": "732526070805594113",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "SAINSBURY",
+					"name": "SAINSBURY",
+					"id": 14095494,
+					"id_str": "14095494",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "SMRT_Singapore",
+					"name": "SMRT Corporation",
+					"id": 307781209,
+					"id_str": "307781209",
+					"indices": [
+						22,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 907560166228242400,
+		"in_reply_to_status_id_str": "907560166228242432",
+		"in_reply_to_user_id": 732526070805594100,
+		"in_reply_to_user_id_str": "732526070805594113",
+		"in_reply_to_screen_name": "akoncloud",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19228,
+			"friends_count": 9522,
+			"listed_count": 953,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3917,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 12 11:02:23 +0000 2017",
+		"id": 907560012272214000,
+		"id_str": "907560012272214016",
+		"text": "@akoncloud @SAINSBURY @SMRT_Singapore Singapore may not be that big but it's HOT!!! https://t.co/EYpvo55Km8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "akoncloud",
+					"name": "Andrey Korenkov",
+					"id": 732526070805594100,
+					"id_str": "732526070805594113",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "SAINSBURY",
+					"name": "SAINSBURY",
+					"id": 14095494,
+					"id_str": "14095494",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "SMRT_Singapore",
+					"name": "SMRT Corporation",
+					"id": 307781209,
+					"id_str": "307781209",
+					"indices": [
+						22,
+						37
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 907560001115320300,
+					"id_str": "907560001115320320",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DJhNAzbU8AA6oXn.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJhNAzbU8AA6oXn.jpg",
+					"url": "https://t.co/EYpvo55Km8",
+					"display_url": "pic.twitter.com/EYpvo55Km8",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/907560012272214016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 276,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 188,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 907560001115320300,
+					"id_str": "907560001115320320",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DJhNAzbU8AA6oXn.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJhNAzbU8AA6oXn.jpg",
+					"url": "https://t.co/EYpvo55Km8",
+					"display_url": "pic.twitter.com/EYpvo55Km8",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/907560012272214016/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 276,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 188,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							46
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DJhNAzbU8AA6oXn.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 907559824065314800,
+		"in_reply_to_status_id_str": "907559824065314818",
+		"in_reply_to_user_id": 732526070805594100,
+		"in_reply_to_user_id_str": "732526070805594113",
+		"in_reply_to_screen_name": "akoncloud",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19228,
+			"friends_count": 9522,
+			"listed_count": 953,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3917,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 12 10:59:14 +0000 2017",
+		"id": 907559219003400200,
+		"id_str": "907559219003400197",
+		"text": "@akoncloud @SAINSBURY @SMRT_Singapore Er then I wouldn't need the @SMRT_Singapore 😂 https://t.co/oUaBQ4sATM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "akoncloud",
+					"name": "Andrey Korenkov",
+					"id": 732526070805594100,
+					"id_str": "732526070805594113",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "SAINSBURY",
+					"name": "SAINSBURY",
+					"id": 14095494,
+					"id_str": "14095494",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "SMRT_Singapore",
+					"name": "SMRT Corporation",
+					"id": 307781209,
+					"id_str": "307781209",
+					"indices": [
+						22,
+						37
+					]
+				},
+				{
+					"screen_name": "SMRT_Singapore",
+					"name": "SMRT Corporation",
+					"id": 307781209,
+					"id_str": "307781209",
+					"indices": [
+						66,
+						81
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 907559207938830300,
+					"id_str": "907559207938830336",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DJhMSonUMAAxFc-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJhMSonUMAAxFc-.jpg",
+					"url": "https://t.co/oUaBQ4sATM",
+					"display_url": "pic.twitter.com/oUaBQ4sATM",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/907559219003400197/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 907559207938830300,
+					"id_str": "907559207938830336",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DJhMSonUMAAxFc-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJhMSonUMAAxFc-.jpg",
+					"url": "https://t.co/oUaBQ4sATM",
+					"display_url": "pic.twitter.com/oUaBQ4sATM",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/907559219003400197/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							55,
+							41
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DJhMSonUMAAxFc-.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 907558707772375000,
+		"in_reply_to_status_id_str": "907558707772375040",
+		"in_reply_to_user_id": 732526070805594100,
+		"in_reply_to_user_id_str": "732526070805594113",
+		"in_reply_to_screen_name": "akoncloud",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19228,
+			"friends_count": 9522,
+			"listed_count": 953,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3917,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 12 10:54:09 +0000 2017",
+		"id": 907557943402303500,
+		"id_str": "907557943402303488",
+		"text": "@akoncloud @SAINSBURY @SMRT_Singapore I would strike the lottery. Retire a millionaire. And oh yes... https://t.co/johdaRVWJl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "akoncloud",
+					"name": "Andrey Korenkov",
+					"id": 732526070805594100,
+					"id_str": "732526070805594113",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "SAINSBURY",
+					"name": "SAINSBURY",
+					"id": 14095494,
+					"id_str": "14095494",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "SMRT_Singapore",
+					"name": "SMRT Corporation",
+					"id": 307781209,
+					"id_str": "307781209",
+					"indices": [
+						22,
+						37
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 907557931855487000,
+					"id_str": "907557931855486976",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DJhLIW1VoAAFa3s.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJhLIW1VoAAFa3s.jpg",
+					"url": "https://t.co/johdaRVWJl",
+					"display_url": "pic.twitter.com/johdaRVWJl",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/907557943402303488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 244,
+							"h": 224,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 224,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 224,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 907557931855487000,
+					"id_str": "907557931855486976",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DJhLIW1VoAAFa3s.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJhLIW1VoAAFa3s.jpg",
+					"url": "https://t.co/johdaRVWJl",
+					"display_url": "pic.twitter.com/johdaRVWJl",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/907557943402303488/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 244,
+							"h": 224,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 224,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 224,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							61,
+							56
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DJhLIW1VoAAFa3s.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 907557443764338700,
+		"in_reply_to_status_id_str": "907557443764338688",
+		"in_reply_to_user_id": 732526070805594100,
+		"in_reply_to_user_id_str": "732526070805594113",
+		"in_reply_to_screen_name": "akoncloud",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19228,
+			"friends_count": 9522,
+			"listed_count": 953,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3917,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 12 10:49:21 +0000 2017",
+		"id": 907556734540988400,
+		"id_str": "907556734540988416",
+		"text": "Social Media Mastery as exhibited by @Sainsbury #MustLearn! @SMRT_Singapore pay attention please! https://t.co/66vZy9AhLu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MustLearn",
+					"indices": [
+						48,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SAINSBURY",
+					"name": "SAINSBURY",
+					"id": 14095494,
+					"id_str": "14095494",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"screen_name": "SMRT_Singapore",
+					"name": "SMRT Corporation",
+					"id": 307781209,
+					"id_str": "307781209",
+					"indices": [
+						60,
+						75
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 907556725099601900,
+					"id_str": "907556725099601920",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DJhKCHUUIAAKH33.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJhKCHUUIAAKH33.jpg",
+					"url": "https://t.co/66vZy9AhLu",
+					"display_url": "pic.twitter.com/66vZy9AhLu",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/907556734540988416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 449,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 627,
+							"h": 950,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 627,
+							"h": 950,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 907556725099601900,
+					"id_str": "907556725099601920",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DJhKCHUUIAAKH33.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJhKCHUUIAAKH33.jpg",
+					"url": "https://t.co/66vZy9AhLu",
+					"display_url": "pic.twitter.com/66vZy9AhLu",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/907556734540988416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 449,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 627,
+							"h": 950,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 627,
+							"h": 950,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19228,
+			"friends_count": 9522,
+			"listed_count": 953,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3917,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 12 10:30:38 +0000 2017",
+		"id": 907552025105227800,
+		"id_str": "907552025105227776",
+		"text": "@thejenspot @xavierlur @TwitterSG @maya_hari @arvindergujral @jeffma @aneeshmadani @iamrr @chandan_deep @angadsg… https://t.co/2Uwe7ZQxcT",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thejenspot",
+					"name": "Jennie Sager",
+					"id": 115969998,
+					"id_str": "115969998",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "xavierlur",
+					"name": "Xavier Lur",
+					"id": 12589972,
+					"id_str": "12589972",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "TwitterSG",
+					"name": "Twitter Singapore",
+					"id": 2244983430,
+					"id_str": "2244983430",
+					"indices": [
+						23,
+						33
+					]
+				},
+				{
+					"screen_name": "maya_hari",
+					"name": "Maya Hari",
+					"id": 37878698,
+					"id_str": "37878698",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"screen_name": "arvindergujral",
+					"name": "Arvinder Gujral",
+					"id": 15750223,
+					"id_str": "15750223",
+					"indices": [
+						45,
+						60
+					]
+				},
+				{
+					"screen_name": "jeffma",
+					"name": "Jeff Ma",
+					"id": 15839499,
+					"id_str": "15839499",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"screen_name": "aneeshmadani",
+					"name": "Aneesh ⚡️ Madani",
+					"id": 23760629,
+					"id_str": "23760629",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"screen_name": "iamrr",
+					"name": "Rr Buenaventura",
+					"id": 120744281,
+					"id_str": "120744281",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"screen_name": "chandan_deep",
+					"name": "Chandan Deep",
+					"id": 70371595,
+					"id_str": "70371595",
+					"indices": [
+						90,
+						103
+					]
+				},
+				{
+					"screen_name": "angadsg",
+					"name": "Angad",
+					"id": 139979145,
+					"id_str": "139979145",
+					"indices": [
+						104,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2Uwe7ZQxcT",
+					"expanded_url": "https://twitter.com/i/web/status/907552025105227776",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 907550582818213900,
+		"in_reply_to_status_id_str": "907550582818213888",
+		"in_reply_to_user_id": 115969998,
+		"in_reply_to_user_id_str": "115969998",
+		"in_reply_to_screen_name": "thejenspot",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19228,
+			"friends_count": 9522,
+			"listed_count": 953,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3917,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 12 10:29:26 +0000 2017",
+		"id": 907551720431001600,
+		"id_str": "907551720431001600",
+		"text": "@thejenspot @xavierlur @TwitterSG @maya_hari @arvindergujral @jeffma @aneeshmadani @iamrr @chandan_deep @angadsg… https://t.co/hEA0qk81Ff",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thejenspot",
+					"name": "Jennie Sager",
+					"id": 115969998,
+					"id_str": "115969998",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "xavierlur",
+					"name": "Xavier Lur",
+					"id": 12589972,
+					"id_str": "12589972",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "TwitterSG",
+					"name": "Twitter Singapore",
+					"id": 2244983430,
+					"id_str": "2244983430",
+					"indices": [
+						23,
+						33
+					]
+				},
+				{
+					"screen_name": "maya_hari",
+					"name": "Maya Hari",
+					"id": 37878698,
+					"id_str": "37878698",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"screen_name": "arvindergujral",
+					"name": "Arvinder Gujral",
+					"id": 15750223,
+					"id_str": "15750223",
+					"indices": [
+						45,
+						60
+					]
+				},
+				{
+					"screen_name": "jeffma",
+					"name": "Jeff Ma",
+					"id": 15839499,
+					"id_str": "15839499",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"screen_name": "aneeshmadani",
+					"name": "Aneesh ⚡️ Madani",
+					"id": 23760629,
+					"id_str": "23760629",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"screen_name": "iamrr",
+					"name": "Rr Buenaventura",
+					"id": 120744281,
+					"id_str": "120744281",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"screen_name": "chandan_deep",
+					"name": "Chandan Deep",
+					"id": 70371595,
+					"id_str": "70371595",
+					"indices": [
+						90,
+						103
+					]
+				},
+				{
+					"screen_name": "angadsg",
+					"name": "Angad",
+					"id": 139979145,
+					"id_str": "139979145",
+					"indices": [
+						104,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hEA0qk81Ff",
+					"expanded_url": "https://twitter.com/i/web/status/907551720431001600",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 907550582818213900,
+		"in_reply_to_status_id_str": "907550582818213888",
+		"in_reply_to_user_id": 115969998,
+		"in_reply_to_user_id_str": "115969998",
+		"in_reply_to_screen_name": "thejenspot",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19228,
+			"friends_count": 9522,
+			"listed_count": 953,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3917,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 12 10:23:47 +0000 2017",
+		"id": 907550297341481000,
+		"id_str": "907550297341480960",
+		"text": "RT @50NerdsofGrey: 'I've been a very bad girl,' she said, biting her lip. 'I need to be punished.'\n'Very well,' he said and installed Windo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "50NerdsofGrey",
+					"name": "50 Nerds of Grey",
+					"id": 600029236,
+					"id_str": "600029236",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19228,
+			"friends_count": 9522,
+			"listed_count": 953,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3917,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 07 20:30:58 +0000 2015",
+			"id": 640985632941064200,
+			"id_str": "640985632941064192",
+			"text": "'I've been a very bad girl,' she said, biting her lip. 'I need to be punished.'\n'Very well,' he said and installed Windows 10 on her laptop.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 600029236,
+				"id_str": "600029236",
+				"name": "50 Nerds of Grey",
+				"screen_name": "50NerdsofGrey",
+				"location": "",
+				"description": "Erotic tales to turn you off and on again. I'm now also on Facebook (whatever that is) at https://t.co/jqItiOjqcy",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/jqItiOjqcy",
+								"expanded_url": "https://m.facebook.com/50-Nerds-of-Grey-1711010899151777/",
+								"display_url": "m.facebook.com/50-Nerds-of-Gr…",
+								"indices": [
+									90,
+									113
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 311891,
+				"friends_count": 1338,
+				"listed_count": 1911,
+				"created_at": "Tue Jun 05 11:11:57 +0000 2012",
+				"favourites_count": 2575,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 534,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/743751026784632832/iudv-RAE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/743751026784632832/iudv-RAE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/600029236/1466165010",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45345,
+			"favorite_count": 51117,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 45345,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 12 10:21:05 +0000 2017",
+		"id": 907549618082369500,
+		"id_str": "907549618082369536",
+		"text": "@OfflineTake Ok promise it won't happen again but you have to follow me back HAHA. Can't help you if you don't 😍",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OfflineTake",
+					"name": "TakeItOffline",
+					"id": 791750781779243000,
+					"id_str": "791750781779243009",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 907549251097460700,
+		"in_reply_to_status_id_str": "907549251097460738",
+		"in_reply_to_user_id": 791750781779243000,
+		"in_reply_to_user_id_str": "791750781779243009",
+		"in_reply_to_screen_name": "OfflineTake",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19228,
+			"friends_count": 9522,
+			"listed_count": 953,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3917,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 12 10:20:01 +0000 2017",
+		"id": 907549351597137900,
+		"id_str": "907549351597137925",
+		"text": "@xavierlur @TwitterSG @maya_hari @arvindergujral @jeffma @aneeshmadani @iamrr @chandan_deep @thejenspot @angadsg… https://t.co/gd33GBVPxT",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xavierlur",
+					"name": "Xavier Lur",
+					"id": 12589972,
+					"id_str": "12589972",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "TwitterSG",
+					"name": "Twitter Singapore",
+					"id": 2244983430,
+					"id_str": "2244983430",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "maya_hari",
+					"name": "Maya Hari",
+					"id": 37878698,
+					"id_str": "37878698",
+					"indices": [
+						22,
+						32
+					]
+				},
+				{
+					"screen_name": "arvindergujral",
+					"name": "Arvinder Gujral",
+					"id": 15750223,
+					"id_str": "15750223",
+					"indices": [
+						33,
+						48
+					]
+				},
+				{
+					"screen_name": "jeffma",
+					"name": "Jeff Ma",
+					"id": 15839499,
+					"id_str": "15839499",
+					"indices": [
+						49,
+						56
+					]
+				},
+				{
+					"screen_name": "aneeshmadani",
+					"name": "Aneesh ⚡️ Madani",
+					"id": 23760629,
+					"id_str": "23760629",
+					"indices": [
+						57,
+						70
+					]
+				},
+				{
+					"screen_name": "iamrr",
+					"name": "Rr Buenaventura",
+					"id": 120744281,
+					"id_str": "120744281",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"screen_name": "chandan_deep",
+					"name": "Chandan Deep",
+					"id": 70371595,
+					"id_str": "70371595",
+					"indices": [
+						78,
+						91
+					]
+				},
+				{
+					"screen_name": "thejenspot",
+					"name": "Jennie Sager",
+					"id": 115969998,
+					"id_str": "115969998",
+					"indices": [
+						92,
+						103
+					]
+				},
+				{
+					"screen_name": "angadsg",
+					"name": "Angad",
+					"id": 139979145,
+					"id_str": "139979145",
+					"indices": [
+						104,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gd33GBVPxT",
+					"expanded_url": "https://twitter.com/i/web/status/907549351597137925",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 907231624856662000,
+		"in_reply_to_status_id_str": "907231624856662016",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19228,
+			"friends_count": 9522,
+			"listed_count": 953,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3917,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 12 10:18:01 +0000 2017",
+		"id": 907548848159039500,
+		"id_str": "907548848159039488",
+		"text": "@OfflineTake Follow Unfollow Spam? I most certainly do not! 😱😱😮😮",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OfflineTake",
+					"name": "TakeItOffline",
+					"id": 791750781779243000,
+					"id_str": "791750781779243009",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 791750781779243000,
+		"in_reply_to_user_id_str": "791750781779243009",
+		"in_reply_to_screen_name": "OfflineTake",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19228,
+			"friends_count": 9522,
+			"listed_count": 953,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3917,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 12 10:16:00 +0000 2017",
+		"id": 907548339704447000,
+		"id_str": "907548339704446977",
+		"text": "What's the best metric to measure...\n\n.1. A webpage\n\n.2. Your mobile app\n\n.3. Facebook page\n\nvia @avinash\n\nhttps://t.co/xGemQR9yeM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "avinash",
+					"name": "Avinash Kaushik",
+					"id": 15662446,
+					"id_str": "15662446",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xGemQR9yeM",
+					"expanded_url": "https://madmimi.com/p/c7a7ca?fe=1&pact=1070225-141372193-9001728157-559235425d378447f5ee26c81fc13ed5ee504f8f",
+					"display_url": "madmimi.com/p/c7a7ca?fe=1&…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19228,
+			"friends_count": 9522,
+			"listed_count": 953,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3917,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 12 09:26:59 +0000 2017",
 		"id": 907536004575256600,
 		"id_str": "907536004575256576",
