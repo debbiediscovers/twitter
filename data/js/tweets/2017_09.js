@@ -1,6 +1,607 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 12 19:36:31 +0000 2017",
+		"id": 907689400154202100,
+		"id_str": "907689400154202112",
+		"text": "RT @innov8it_co: The lineup. A beautiful beast #AppleEvent https://t.co/FQ2klGldMZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AppleEvent",
+					"indices": [
+						47,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "innov8it_co",
+					"name": "INNOV8-IT Tech",
+					"id": 833653622110089200,
+					"id_str": "833653622110089216",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 907683822506057700,
+					"id_str": "907683822506057728",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DJi9oKDXoAAZbw2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJi9oKDXoAAZbw2.jpg",
+					"url": "https://t.co/FQ2klGldMZ",
+					"display_url": "pic.twitter.com/FQ2klGldMZ",
+					"expanded_url": "https://twitter.com/innov8it_co/status/907683872380465152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 616,
+							"h": 345,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 616,
+							"h": 345,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 616,
+							"h": 345,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 907683872380465200,
+					"source_status_id_str": "907683872380465152",
+					"source_user_id": 833653622110089200,
+					"source_user_id_str": "833653622110089216"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 907683822506057700,
+					"id_str": "907683822506057728",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DJi9oKDXoAAZbw2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJi9oKDXoAAZbw2.jpg",
+					"url": "https://t.co/FQ2klGldMZ",
+					"display_url": "pic.twitter.com/FQ2klGldMZ",
+					"expanded_url": "https://twitter.com/innov8it_co/status/907683872380465152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 616,
+							"h": 345,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 616,
+							"h": 345,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 616,
+							"h": 345,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 907683872380465200,
+					"source_status_id_str": "907683872380465152",
+					"source_user_id": 833653622110089200,
+					"source_user_id_str": "833653622110089216"
+				},
+				{
+					"id": 907683829330178000,
+					"id_str": "907683829330178049",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DJi9ojeXcAE1hyI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJi9ojeXcAE1hyI.jpg",
+					"url": "https://t.co/FQ2klGldMZ",
+					"display_url": "pic.twitter.com/FQ2klGldMZ",
+					"expanded_url": "https://twitter.com/innov8it_co/status/907683872380465152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 907683872380465200,
+					"source_status_id_str": "907683872380465152",
+					"source_user_id": 833653622110089200,
+					"source_user_id_str": "833653622110089216"
+				},
+				{
+					"id": 907683833964908500,
+					"id_str": "907683833964908544",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DJi9o0vX0AA84FK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJi9o0vX0AA84FK.jpg",
+					"url": "https://t.co/FQ2klGldMZ",
+					"display_url": "pic.twitter.com/FQ2klGldMZ",
+					"expanded_url": "https://twitter.com/innov8it_co/status/907683872380465152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2040,
+							"h": 1360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 907683872380465200,
+					"source_status_id_str": "907683872380465152",
+					"source_user_id": 833653622110089200,
+					"source_user_id_str": "833653622110089216"
+				},
+				{
+					"id": 907683867565461500,
+					"id_str": "907683867565461504",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DJi9qx6XkAANxD5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJi9qx6XkAANxD5.jpg",
+					"url": "https://t.co/FQ2klGldMZ",
+					"display_url": "pic.twitter.com/FQ2klGldMZ",
+					"expanded_url": "https://twitter.com/innov8it_co/status/907683872380465152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 907683872380465200,
+					"source_status_id_str": "907683872380465152",
+					"source_user_id": 833653622110089200,
+					"source_user_id_str": "833653622110089216"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19336,
+			"friends_count": 9822,
+			"listed_count": 951,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3925,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 12 19:14:33 +0000 2017",
+			"id": 907683872380465200,
+			"id_str": "907683872380465152",
+			"text": "The lineup. A beautiful beast #AppleEvent https://t.co/FQ2klGldMZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AppleEvent",
+						"indices": [
+							30,
+							41
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 907683822506057700,
+						"id_str": "907683822506057728",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DJi9oKDXoAAZbw2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJi9oKDXoAAZbw2.jpg",
+						"url": "https://t.co/FQ2klGldMZ",
+						"display_url": "pic.twitter.com/FQ2klGldMZ",
+						"expanded_url": "https://twitter.com/innov8it_co/status/907683872380465152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 616,
+								"h": 345,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 616,
+								"h": 345,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 616,
+								"h": 345,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 907683822506057700,
+						"id_str": "907683822506057728",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DJi9oKDXoAAZbw2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJi9oKDXoAAZbw2.jpg",
+						"url": "https://t.co/FQ2klGldMZ",
+						"display_url": "pic.twitter.com/FQ2klGldMZ",
+						"expanded_url": "https://twitter.com/innov8it_co/status/907683872380465152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 616,
+								"h": 345,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 616,
+								"h": 345,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 616,
+								"h": 345,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 907683829330178000,
+						"id_str": "907683829330178049",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DJi9ojeXcAE1hyI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJi9ojeXcAE1hyI.jpg",
+						"url": "https://t.co/FQ2klGldMZ",
+						"display_url": "pic.twitter.com/FQ2klGldMZ",
+						"expanded_url": "https://twitter.com/innov8it_co/status/907683872380465152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 563,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 563,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 907683833964908500,
+						"id_str": "907683833964908544",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DJi9o0vX0AA84FK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJi9o0vX0AA84FK.jpg",
+						"url": "https://t.co/FQ2klGldMZ",
+						"display_url": "pic.twitter.com/FQ2klGldMZ",
+						"expanded_url": "https://twitter.com/innov8it_co/status/907683872380465152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2040,
+								"h": 1360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 907683867565461500,
+						"id_str": "907683867565461504",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DJi9qx6XkAANxD5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJi9qx6XkAANxD5.jpg",
+						"url": "https://t.co/FQ2klGldMZ",
+						"display_url": "pic.twitter.com/FQ2klGldMZ",
+						"expanded_url": "https://twitter.com/innov8it_co/status/907683872380465152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 563,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 563,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 833653622110089200,
+				"id_str": "833653622110089216",
+				"name": "INNOV8-IT Tech",
+				"screen_name": "innov8it_co",
+				"location": "Global",
+				"description": "We're a tech startup created on principles of #Think, #create, #innovate! #Fortune500 #Tech #PhotoMart. Follow for innovative ideas and solutions around the 🌐",
+				"url": "https://t.co/rDrRX7b5ce",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rDrRX7b5ce",
+								"expanded_url": "http://innov8it.co",
+								"display_url": "innov8it.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 140,
+				"friends_count": 47,
+				"listed_count": 2,
+				"created_at": "Mon Feb 20 12:24:46 +0000 2017",
+				"favourites_count": 34,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 585,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880707048119443456/Oe-zYKi0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880707048119443456/Oe-zYKi0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/833653622110089216/1487745916",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 251,
+			"favorite_count": 337,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 251,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 12 11:18:50 +0000 2017",
 		"id": 907564151781732400,
 		"id_str": "907564151781732353",
