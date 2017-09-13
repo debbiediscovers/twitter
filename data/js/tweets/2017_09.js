@@ -1,6 +1,547 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 13 10:11:03 +0000 2017",
+		"id": 907909482574889000,
+		"id_str": "907909482574888960",
+		"text": "@curata My favourites are @Pinterest, @Feedly, @paper.Li, @elink and @Drumup! But can't believe you left out… https://t.co/eoxSsGWzWI",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "curata",
+					"name": "Curata",
+					"id": 145059093,
+					"id_str": "145059093",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "Pinterest",
+					"name": "Pinterest",
+					"id": 106837463,
+					"id_str": "106837463",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"screen_name": "feedly",
+					"name": "Feedly",
+					"id": 14485018,
+					"id_str": "14485018",
+					"indices": [
+						38,
+						45
+					]
+				},
+				{
+					"screen_name": "ElinK",
+					"name": "Elin-Kathrine Lid",
+					"id": 6645292,
+					"id_str": "6645292",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"screen_name": "drumup",
+					"name": "Margaret Oshiro",
+					"id": 70961117,
+					"id_str": "70961117",
+					"indices": [
+						69,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eoxSsGWzWI",
+					"expanded_url": "https://twitter.com/i/web/status/907909482574888960",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 907593196565397500,
+		"in_reply_to_status_id_str": "907593196565397504",
+		"in_reply_to_user_id": 145059093,
+		"in_reply_to_user_id_str": "145059093",
+		"in_reply_to_screen_name": "curata",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19383,
+			"friends_count": 9821,
+			"listed_count": 951,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3927,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 13 10:06:35 +0000 2017",
+		"id": 907908358799220700,
+		"id_str": "907908358799220737",
+		"text": "RT @curata: 🎈New Blog🎈Why Artificial Intelligence Is the Future of #ContentMarketing https://t.co/qnmRwfs5TR #ai #contentintelligence @paul…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ContentMarketing",
+					"indices": [
+						67,
+						84
+					]
+				},
+				{
+					"text": "ai",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "contentintelligence",
+					"indices": [
+						113,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "curata",
+					"name": "Curata",
+					"id": 145059093,
+					"id_str": "145059093",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qnmRwfs5TR",
+					"expanded_url": "http://ow.ly/AU0A30f4FPx",
+					"display_url": "ow.ly/AU0A30f4FPx",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19383,
+			"friends_count": 9821,
+			"listed_count": 951,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3927,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 12 21:55:11 +0000 2017",
+			"id": 907724295287267300,
+			"id_str": "907724295287267329",
+			"text": "🎈New Blog🎈Why Artificial Intelligence Is the Future of #ContentMarketing https://t.co/qnmRwfs5TR #ai… https://t.co/REskc9dUGa",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ContentMarketing",
+						"indices": [
+							55,
+							72
+						]
+					},
+					{
+						"text": "ai",
+						"indices": [
+							97,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qnmRwfs5TR",
+						"expanded_url": "http://ow.ly/AU0A30f4FPx",
+						"display_url": "ow.ly/AU0A30f4FPx",
+						"indices": [
+							73,
+							96
+						]
+					},
+					{
+						"url": "https://t.co/REskc9dUGa",
+						"expanded_url": "https://twitter.com/i/web/status/907724295287267329",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 145059093,
+				"id_str": "145059093",
+				"name": "Curata",
+				"screen_name": "curata",
+				"location": "Boston, MA",
+				"description": "Curata is the industry leader in #ContentMarketing Software Solutions. Our platforms are powered by machine learning, natural language processing, & AI.",
+				"url": "http://t.co/ctXqDm2vp8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ctXqDm2vp8",
+								"expanded_url": "http://www.curata.com",
+								"display_url": "curata.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4590,
+				"friends_count": 3300,
+				"listed_count": 1162,
+				"created_at": "Tue May 18 01:20:54 +0000 2010",
+				"favourites_count": 8967,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15686,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/284511010/Screen_shot_2011-07-06_at_8.01.37_AM.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/284511010/Screen_shot_2011-07-06_at_8.01.37_AM.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000641914435/ff3e573ed1281e10e9eb2d455195dd87_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000641914435/ff3e573ed1281e10e9eb2d455195dd87_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/145059093/1481133754",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 13 10:04:38 +0000 2017",
+		"id": 907907869789454300,
+		"id_str": "907907869789454338",
+		"text": "@WolfgangDigital @AlanCWolfgang @Moz Woohoo! 🙌👍 I shared the report among a bunch of number of closed Facebook APAC… https://t.co/QuhpoH4xHC",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WolfgangDigital",
+					"name": "Wolfgang Digital",
+					"id": 391869708,
+					"id_str": "391869708",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "AlanCWolfgang",
+					"name": "Alan Coleman",
+					"id": 80855440,
+					"id_str": "80855440",
+					"indices": [
+						17,
+						31
+					]
+				},
+				{
+					"screen_name": "Moz",
+					"name": "Moz",
+					"id": 15651700,
+					"id_str": "15651700",
+					"indices": [
+						32,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QuhpoH4xHC",
+					"expanded_url": "https://twitter.com/i/web/status/907907869789454338",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 907907234033795100,
+		"in_reply_to_status_id_str": "907907234033795073",
+		"in_reply_to_user_id": 391869708,
+		"in_reply_to_user_id_str": "391869708",
+		"in_reply_to_screen_name": "WolfgangDigital",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19383,
+			"friends_count": 9821,
+			"listed_count": 951,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3927,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 13 04:08:00 +0000 2017",
 		"id": 907818119694975000,
 		"id_str": "907818119694974981",
