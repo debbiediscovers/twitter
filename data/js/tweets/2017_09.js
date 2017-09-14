@@ -1,6 +1,136 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 14 11:03:04 +0000 2017",
+		"id": 908284962952011800,
+		"id_str": "908284962952011776",
+		"text": "How to Add Open Graph Meta Tags to @Weebly Sites to make them #SocialMedia friendly -https://t.co/gUhWfmXJZP via @debbiediscovers",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SocialMedia",
+					"indices": [
+						62,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "weebly",
+					"name": "Weebly",
+					"id": 5733082,
+					"id_str": "5733082",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						113,
+						129
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gUhWfmXJZP",
+					"expanded_url": "http://debbiediscovers.weebly.com/2/post/2015/10/making-this-site-social-media-friendly-adding-open-graph-meta-tags.html",
+					"display_url": "debbiediscovers.weebly.com/2/post/2015/10…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19613,
+			"friends_count": 10848,
+			"listed_count": 952,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3948,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8220,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 14 10:11:01 +0000 2017",
 		"id": 908271863742079000,
 		"id_str": "908271863742078977",
