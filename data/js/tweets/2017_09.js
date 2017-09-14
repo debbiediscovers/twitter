@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 14 10:11:01 +0000 2017",
+		"id": 908271863742079000,
+		"id_str": "908271863742078977",
+		"text": "RT @anol_cebu: Retweeted Nikkei Asian Review (@NAR):\n\nAmazon's arrival in Southeast Asia triggers an e-commerce free-for-all... https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anol_cebu",
+					"name": "Emmanuel Mongaya",
+					"id": 38326429,
+					"id_str": "38326429",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "NAR",
+					"name": "Nikkei Asian Review",
+					"id": 436429668,
+					"id_str": "436429668",
+					"indices": [
+						46,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19608,
+			"friends_count": 10843,
+			"listed_count": 951,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 3948,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8219,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 04 19:16:47 +0000 2017",
+			"id": 904785331769139200,
+			"id_str": "904785331769139200",
+			"text": "Retweeted Nikkei Asian Review (@NAR):\n\nAmazon's arrival in Southeast Asia triggers an e-commerce free-for-all... https://t.co/4asBFHruFC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NAR",
+						"name": "Nikkei Asian Review",
+						"id": 436429668,
+						"id_str": "436429668",
+						"indices": [
+							31,
+							35
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4asBFHruFC",
+						"expanded_url": "http://fb.me/29lZMQl89",
+						"display_url": "fb.me/29lZMQl89",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38326429,
+				"id_str": "38326429",
+				"name": "Emmanuel Mongaya",
+				"screen_name": "anol_cebu",
+				"location": "Cebu, Philippines",
+				"description": "Journalist. Blogger. Anti-Pork Advocate. Rat. Sagittarian. Public Relations. Influencer. @PRworksPH Chief Digital Officer",
+				"url": "https://t.co/FercQbf6z9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FercQbf6z9",
+								"expanded_url": "http://www.inbetweencolumns.wordpress.com",
+								"display_url": "inbetweencolumns.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 261,
+				"friends_count": 256,
+				"listed_count": 24,
+				"created_at": "Thu May 07 00:59:37 +0000 2009",
+				"favourites_count": 442,
+				"utc_offset": 28800,
+				"time_zone": "Taipei",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2570,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/450613142209327104/v8hFfTTj_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/450613142209327104/v8hFfTTj_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38326429/1396269978",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 14 06:55:05 +0000 2017",
 		"id": 908222552874426400,
 		"id_str": "908222552874426368",
