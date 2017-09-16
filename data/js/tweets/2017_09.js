@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sat Sep 16 10:11:51 +0000 2017",
+		"id": 908996847762632700,
+		"id_str": "908996847762632704",
+		"text": "\"Virtue has a veil, vice a mask.\" – Victor Hugo https://t.co/czNeMDzsYW https://t.co/9NaFH95wRl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/czNeMDzsYW",
+					"expanded_url": "https://www.instagram.com/p/BZGRvtOgnpK/",
+					"display_url": "instagram.com/p/BZGRvtOgnpK/",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 908996845405458400,
+					"id_str": "908996845405458432",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DJ1n0JhX0AAIHV_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJ1n0JhX0AAIHV_.jpg",
+					"url": "https://t.co/9NaFH95wRl",
+					"display_url": "pic.twitter.com/9NaFH95wRl",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/908996847762632704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 908996845405458400,
+					"id_str": "908996845405458432",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DJ1n0JhX0AAIHV_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJ1n0JhX0AAIHV_.jpg",
+					"url": "https://t.co/9NaFH95wRl",
+					"display_url": "pic.twitter.com/9NaFH95wRl",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/908996847762632704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20352,
+			"friends_count": 12284,
+			"listed_count": 954,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4014,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8270,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "es"
+	},
+	{
+		"created_at": "Sat Sep 16 09:34:27 +0000 2017",
+		"id": 908987434037264400,
+		"id_str": "908987434037264385",
+		"text": "#GOOD #TIPS “Email Prospecting Tips From A Former Spammer” by Keith Carlson https://t.co/XxvEIlhddD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GOOD",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "TIPS",
+					"indices": [
+						6,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XxvEIlhddD",
+					"expanded_url": "https://medium.com/@TheKeithCarlson/email-prospecting-tips-from-a-former-spammer-e497cd0e62cf?source=twitterShare-68564156291e-1505554436",
+					"display_url": "medium.com/@TheKeithCarls…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20352,
+			"friends_count": 12284,
+			"listed_count": 954,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4014,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8270,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 16 07:08:01 +0000 2017",
 		"id": 908950583654080500,
 		"id_str": "908950583654080513",
