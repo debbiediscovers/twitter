@@ -1,6 +1,443 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sat Sep 16 13:07:01 +0000 2017",
+		"id": 909040931835400200,
+		"id_str": "909040931835400192",
+		"text": "HTTPS Services Comparison: Traditional vs Let's Encrypt vs Cloudflare - @Moz https://t.co/AuJGcmXvO7 via @nuzzel",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Moz",
+					"name": "Moz",
+					"id": 15651700,
+					"id_str": "15651700",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"screen_name": "nuzzel",
+					"name": "Nuzzel",
+					"id": 106041193,
+					"id_str": "106041193",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AuJGcmXvO7",
+					"expanded_url": "https://buff.ly/2jrO8cZ",
+					"display_url": "buff.ly/2jrO8cZ",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20349,
+			"friends_count": 12318,
+			"listed_count": 958,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4043,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8282,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr"
+	},
+	{
+		"created_at": "Sat Sep 16 12:27:52 +0000 2017",
+		"id": 909031076139475000,
+		"id_str": "909031076139474945",
+		"text": "RT @Steph1lee: An Illustrated Celebration of Trailblazing Women in Science: https://t.co/4wkHKtAOIu via @brainpickings #WomenInSTEM https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WomenInSTEM",
+					"indices": [
+						119,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Steph1lee",
+					"name": "Steph L Lee",
+					"id": 721241974880120800,
+					"id_str": "721241974880120832",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "brainpickings",
+					"name": "Brain Pickings",
+					"id": 79783264,
+					"id_str": "79783264",
+					"indices": [
+						104,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4wkHKtAOIu",
+					"expanded_url": "https://buff.ly/2vZzBHC",
+					"display_url": "buff.ly/2vZzBHC",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Central Region, Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20349,
+			"friends_count": 12318,
+			"listed_count": 958,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4043,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8282,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 16 09:23:02 +0000 2017",
+			"id": 908984562335719400,
+			"id_str": "908984562335719424",
+			"text": "An Illustrated Celebration of Trailblazing Women in Science: https://t.co/4wkHKtAOIu via @brainpickings #WomenInSTEM https://t.co/WT4yoLS7WX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WomenInSTEM",
+						"indices": [
+							104,
+							116
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "brainpickings",
+						"name": "Brain Pickings",
+						"id": 79783264,
+						"id_str": "79783264",
+						"indices": [
+							89,
+							103
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4wkHKtAOIu",
+						"expanded_url": "https://buff.ly/2vZzBHC",
+						"display_url": "buff.ly/2vZzBHC",
+						"indices": [
+							61,
+							84
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 908984559202480100,
+						"id_str": "908984559202480128",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/DJ1co_2UMAAdzKb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJ1co_2UMAAdzKb.jpg",
+						"url": "https://t.co/WT4yoLS7WX",
+						"display_url": "pic.twitter.com/WT4yoLS7WX",
+						"expanded_url": "https://twitter.com/Steph1lee/status/908984562335719424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 429,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 429,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 429,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 908984559202480100,
+						"id_str": "908984559202480128",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/DJ1co_2UMAAdzKb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJ1co_2UMAAdzKb.jpg",
+						"url": "https://t.co/WT4yoLS7WX",
+						"display_url": "pic.twitter.com/WT4yoLS7WX",
+						"expanded_url": "https://twitter.com/Steph1lee/status/908984562335719424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 429,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 429,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 429,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 721241974880120800,
+				"id_str": "721241974880120832",
+				"name": "Steph L Lee",
+				"screen_name": "Steph1lee",
+				"location": "Singapore",
+				"description": "Social Media Enthusiast, Parent, Mom",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 380,
+				"friends_count": 330,
+				"listed_count": 20,
+				"created_at": "Sat Apr 16 07:41:01 +0000 2016",
+				"favourites_count": 37,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 50,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/726518533476114433/7s2BXRRa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/726518533476114433/7s2BXRRa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/721241974880120832/1461865216",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 16 12:10:12 +0000 2017",
 		"id": 909026632563753000,
 		"id_str": "909026632563752961",
