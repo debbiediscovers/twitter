@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 19 11:47:47 +0000 2017",
+		"id": 910108153081032700,
+		"id_str": "910108153081032704",
+		"text": "RT @avinash: Ponder this: \n\niPhone X would have cost $150 trillion &amp; required 30x world's power output if it were built in 1957.\n\nhttps://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "avinash",
+					"name": "Avinash Kaushik",
+					"id": 15662446,
+					"id_str": "15662446",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21411,
+			"friends_count": 11597,
+			"listed_count": 956,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4091,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8307,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 19 01:23:01 +0000 2017",
+			"id": 909950925116076000,
+			"id_str": "909950925116076032",
+			"text": "Ponder this: \n\niPhone X would have cost $150 trillion &amp; required 30x world's power output if it were built in 1957.\n\nhttps://t.co/MSI1K5Zxbr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MSI1K5Zxbr",
+						"expanded_url": "https://goo.gl/HNmEzr",
+						"display_url": "goo.gl/HNmEzr",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15662446,
+				"id_str": "15662446",
+				"name": "Avinash Kaushik",
+				"screen_name": "avinash",
+				"location": "Lat: 37.4 Long: -122.1",
+				"description": "Author, Web Analytics 2.0 & Web Analytics: An Hour A Day | Digital Marketing Evangelist, Google | Co-Founder, Market Motive",
+				"url": "http://t.co/yNWcDJ7In3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/yNWcDJ7In3",
+								"expanded_url": "http://kaushik.net/avinash",
+								"display_url": "kaushik.net/avinash",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 186112,
+				"friends_count": 88,
+				"listed_count": 11498,
+				"created_at": "Wed Jul 30 16:40:56 +0000 2008",
+				"favourites_count": 14,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17914,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/21072083/1920x1200_HD_Wallpaper_197_Zixpk-12.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/21072083/1920x1200_HD_Wallpaper_197_Zixpk-12.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410216110/avinash_kaushik_by_simon_birkenhead_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410216110/avinash_kaushik_by_simon_birkenhead_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15662446/1398225377",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "C6531B",
+				"profile_sidebar_fill_color": "F3B45A",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 44,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 19 07:49:37 +0000 2017",
 		"id": 910048217936552000,
 		"id_str": "910048217936551936",
