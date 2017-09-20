@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 20 19:01:22 +0000 2017",
+		"id": 910579655454842900,
+		"id_str": "910579655454842880",
+		"text": "RT @socialmedia2day: Facebook now lets you keep track of which ads you've engaged with on the platform https://t.co/oIn694hG4n #socialmedia…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "socialmedia",
+					"indices": [
+						127,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "socialmedia2day",
+					"name": "Social Media Today",
+					"id": 15441074,
+					"id_str": "15441074",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oIn694hG4n",
+					"expanded_url": "http://ow.ly/v13m30fhEFf",
+					"display_url": "ow.ly/v13m30fhEFf",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/f7EuC7yqus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7EuC7yqus",
+							"expanded_url": "http://www.digitaldiscovery.sg",
+							"display_url": "digitaldiscovery.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21464,
+			"friends_count": 11649,
+			"listed_count": 959,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4136,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8322,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 20 12:45:18 +0000 2017",
+			"id": 910485014663630800,
+			"id_str": "910485014663630853",
+			"text": "Facebook now lets you keep track of which ads you've engaged with on the platform https://t.co/oIn694hG4n… https://t.co/AnaMwhFRnm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/oIn694hG4n",
+						"expanded_url": "http://ow.ly/v13m30fhEFf",
+						"display_url": "ow.ly/v13m30fhEFf",
+						"indices": [
+							82,
+							105
+						]
+					},
+					{
+						"url": "https://t.co/AnaMwhFRnm",
+						"expanded_url": "https://twitter.com/i/web/status/910485014663630853",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15441074,
+				"id_str": "15441074",
+				"name": "Social Media Today",
+				"screen_name": "socialmedia2day",
+				"location": "Washington, DC",
+				"description": "#SocialMedia insights, best practices, and tips from best thinkers in #socialmarketing, Signup for our newsletter here:https://t.co/8n8c21YA1O",
+				"url": "http://t.co/JMt5ZSahQF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/JMt5ZSahQF",
+								"expanded_url": "http://www.socialmediatoday.com",
+								"display_url": "socialmediatoday.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/8n8c21YA1O",
+								"expanded_url": "http://ow.ly/NyLD302891u",
+								"display_url": "ow.ly/NyLD302891u",
+								"indices": [
+									119,
+									142
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 718078,
+				"friends_count": 316,
+				"listed_count": 30111,
+				"created_at": "Tue Jul 15 14:53:02 +0000 2008",
+				"favourites_count": 4318,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 142343,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDF0F2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/487250286830841856/_Ajt-PXo.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/487250286830841856/_Ajt-PXo.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/487242217887502337/qOMRQbPk_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/487242217887502337/qOMRQbPk_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15441074/1453226522",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 54,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 20 17:48:18 +0000 2017",
 		"id": 910561266984296400,
 		"id_str": "910561266984296449",
