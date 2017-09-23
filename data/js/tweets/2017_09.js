@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sat Sep 23 22:04:10 +0000 2017",
+		"id": 911712823096492000,
+		"id_str": "911712823096492032",
+		"text": "“Education is the most powerful weapon which you can use to change the world” - Nelson Mandela #GlobalGoals #Goal4 #QualityEducation 📚📖📝",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GlobalGoals",
+					"indices": [
+						95,
+						107
+					]
+				},
+				{
+					"text": "Goal4",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "QualityEducation",
+					"indices": [
+						115,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22749,
+			"friends_count": 13770,
+			"listed_count": 961,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4263,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8360,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 23 21:40:42 +0000 2017",
+		"id": 911706917340201000,
+		"id_str": "911706917340200960",
+		"text": "RT @littlecoderssg: Why this woman is teaching 20,000 Ghanaian kids to code https://t.co/HokDvlhuQU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "littlecoderssg",
+					"name": "Little Coders SG",
+					"id": 3188621004,
+					"id_str": "3188621004",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HokDvlhuQU",
+					"expanded_url": "http://paper.li/littlecodersSG/1443500770?read=https%3A%2F%2Fwww.one.org%2Finternational%2Fblog%2Fthe%2Dwoman%2Dteaching%2Dghanas%2Dkids%2Dto%2Dcode%2F",
+					"display_url": "paper.li/littlecodersSG…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22749,
+			"friends_count": 13770,
+			"listed_count": 961,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4263,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8360,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 23 21:26:09 +0000 2017",
+			"id": 911703254945402900,
+			"id_str": "911703254945402881",
+			"text": "Why this woman is teaching 20,000 Ghanaian kids to code https://t.co/HokDvlhuQU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HokDvlhuQU",
+						"expanded_url": "http://paper.li/littlecodersSG/1443500770?read=https%3A%2F%2Fwww.one.org%2Finternational%2Fblog%2Fthe%2Dwoman%2Dteaching%2Dghanas%2Dkids%2Dto%2Dcode%2F",
+						"display_url": "paper.li/littlecodersSG…",
+						"indices": [
+							56,
+							79
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://paper.li\" rel=\"nofollow\">Paper.li</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3188621004,
+				"id_str": "3188621004",
+				"name": "Little Coders SG",
+				"screen_name": "littlecoderssg",
+				"location": "Singapore",
+				"description": "Code ambassadors supporting the coding for kids movement globally. AI powered content. Occasional human touch delivered by @debbiediscovers 🤖😻",
+				"url": "https://t.co/gVziiEL7vp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gVziiEL7vp",
+								"expanded_url": "https://www.facebook.com/littlecoderssg",
+								"display_url": "facebook.com/littlecoderssg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 439,
+				"friends_count": 1687,
+				"listed_count": 57,
+				"created_at": "Fri May 08 11:37:06 +0000 2015",
+				"favourites_count": 220,
+				"utc_offset": -39600,
+				"time_zone": "Midway Island",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1344,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/660828387716411392/vWWGDPJK_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/660828387716411392/vWWGDPJK_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3188621004/1431619481",
+				"profile_link_color": "7BD7C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 23 12:05:55 +0000 2017",
 		"id": 911562267891609600,
 		"id_str": "911562267891609600",
