@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 27 07:37:37 +0000 2017",
+		"id": 912944302032019500,
+		"id_str": "912944302032019456",
+		"text": "RT @flreln: I just published “How to Get Clients From Messenger Using New Instagram Ads?” https://t.co/FiiPwxCAsh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "flreln",
+					"name": "Vasili Shinkorenko",
+					"id": 1157965549,
+					"id_str": "1157965549",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FiiPwxCAsh",
+					"expanded_url": "https://medium.com/p/how-to-get-clients-from-messenger-using-new-instagram-ads-22c25d81a057",
+					"display_url": "medium.com/p/how-to-get-c…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23457,
+			"friends_count": 12263,
+			"listed_count": 963,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4349,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8388,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 01 20:15:22 +0000 2017",
+			"id": 870373224953065500,
+			"id_str": "870373224953065474",
+			"text": "I just published “How to Get Clients From Messenger Using New Instagram Ads?” https://t.co/FiiPwxCAsh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FiiPwxCAsh",
+						"expanded_url": "https://medium.com/p/how-to-get-clients-from-messenger-using-new-instagram-ads-22c25d81a057",
+						"display_url": "medium.com/p/how-to-get-c…",
+						"indices": [
+							78,
+							101
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://medium.com\" rel=\"nofollow\">Medium</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1157965549,
+				"id_str": "1157965549",
+				"name": "Vasili Shinkorenko",
+				"screen_name": "flreln",
+				"location": "San Francisco, CA",
+				"description": "21 yrs old | Founder of BotCube | Keynote Speaker | Bots Expert",
+				"url": "https://t.co/cGEp3G4AeO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cGEp3G4AeO",
+								"expanded_url": "https://botcube.co",
+								"display_url": "botcube.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41,
+				"friends_count": 45,
+				"listed_count": 9,
+				"created_at": "Thu Feb 07 18:45:43 +0000 2013",
+				"favourites_count": 32,
+				"utc_offset": 10800,
+				"time_zone": "Minsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 65,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895029660429561858/fSNRJz8W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895029660429561858/fSNRJz8W_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1157965549/1502226814",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 27 06:22:01 +0000 2017",
 		"id": 912925275071098900,
 		"id_str": "912925275071098880",
