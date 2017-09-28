@@ -1,6 +1,421 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 28 11:39:48 +0000 2017",
+		"id": 913367634107760600,
+		"id_str": "913367634107760642",
+		"text": "RT @littlecoderssg: Apple’s New “Learn To Code” App Is For Kids—And Maybe Their Parents, Too https://t.co/vd35Ymare1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "littlecoderssg",
+					"name": "Little Coders SG",
+					"id": 3188621004,
+					"id_str": "3188621004",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vd35Ymare1",
+					"expanded_url": "https://www.fastcompany.com/3063691/apple-new-learn-to-code-app-is-for-kids-and-maybe-their-parents-too",
+					"display_url": "fastcompany.com/3063691/apple-…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23449,
+			"friends_count": 12254,
+			"listed_count": 965,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4363,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8397,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 28 09:26:10 +0000 2017",
+			"id": 913334006787211300,
+			"id_str": "913334006787211265",
+			"text": "Apple’s New “Learn To Code” App Is For Kids—And Maybe Their Parents, Too https://t.co/vd35Ymare1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vd35Ymare1",
+						"expanded_url": "https://www.fastcompany.com/3063691/apple-new-learn-to-code-app-is-for-kids-and-maybe-their-parents-too",
+						"display_url": "fastcompany.com/3063691/apple-…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://paper.li\" rel=\"nofollow\">Paper.li</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3188621004,
+				"id_str": "3188621004",
+				"name": "Little Coders SG",
+				"screen_name": "littlecoderssg",
+				"location": "Singapore",
+				"description": "Code ambassadors supporting the coding for kids movement globally. AI powered content. Occasional human touch delivered by @debbiediscovers 🤖😻",
+				"url": "https://t.co/gVziiEL7vp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gVziiEL7vp",
+								"expanded_url": "https://www.facebook.com/littlecoderssg",
+								"display_url": "facebook.com/littlecoderssg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 439,
+				"friends_count": 1687,
+				"listed_count": 57,
+				"created_at": "Fri May 08 11:37:06 +0000 2015",
+				"favourites_count": 221,
+				"utc_offset": -39600,
+				"time_zone": "Midway Island",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1354,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/660828387716411392/vWWGDPJK_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/660828387716411392/vWWGDPJK_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3188621004/1431619481",
+				"profile_link_color": "7BD7C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 28 11:29:29 +0000 2017",
+		"id": 913365039658045400,
+		"id_str": "913365039658045440",
+		"text": "@binpamungkas Hey nice post! Thanks for sharing! 😊",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "binpamungkas",
+					"name": "Bintang Pamungkas",
+					"id": 42672807,
+					"id_str": "42672807",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 913348346449887200,
+		"in_reply_to_status_id_str": "913348346449887232",
+		"in_reply_to_user_id": 42672807,
+		"in_reply_to_user_id_str": "42672807",
+		"in_reply_to_screen_name": "binpamungkas",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23449,
+			"friends_count": 12254,
+			"listed_count": 965,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4363,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8397,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 28 11:27:28 +0000 2017",
+		"id": 913364529966235600,
+		"id_str": "913364529966235648",
+		"text": "@MastercardAP Wow that's awesome! ❤️😍",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MastercardAP",
+					"name": "Mastercard APAC",
+					"id": 2597881976,
+					"id_str": "2597881976",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 912859094184206300,
+		"in_reply_to_status_id_str": "912859094184206336",
+		"in_reply_to_user_id": 2597881976,
+		"in_reply_to_user_id_str": "2597881976",
+		"in_reply_to_screen_name": "MastercardAP",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23449,
+			"friends_count": 12254,
+			"listed_count": 965,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4363,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8397,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 28 10:43:09 +0000 2017",
 		"id": 913353379308437500,
 		"id_str": "913353379308437506",
