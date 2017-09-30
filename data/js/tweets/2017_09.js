@@ -1,6 +1,427 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sat Sep 30 11:48:23 +0000 2017",
+		"id": 914094569641304000,
+		"id_str": "914094569641304065",
+		"text": "RT @agencyabacus: 5 #New #Facebook Updates and Tests Spotted This #Week https://t.co/kGu8N8uDyf https://t.co/V5t7dCc13y",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "New",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						25,
+						34
+					]
+				},
+				{
+					"text": "Week",
+					"indices": [
+						66,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "agencyabacus",
+					"name": "Abacus",
+					"id": 759425548615647200,
+					"id_str": "759425548615647234",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kGu8N8uDyf",
+					"expanded_url": "https://buff.ly/2xKByL1",
+					"display_url": "buff.ly/2xKByL1",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 913772981729587200,
+					"id_str": "913772981729587201",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DK5fr31XcAEPcul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DK5fr31XcAEPcul.jpg",
+					"url": "https://t.co/V5t7dCc13y",
+					"display_url": "pic.twitter.com/V5t7dCc13y",
+					"expanded_url": "https://twitter.com/agencyabacus/status/913772983629512705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 79,
+							"h": 79,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 100,
+							"h": 79,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 100,
+							"h": 79,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 100,
+							"h": 79,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 913772983629512700,
+					"source_status_id_str": "913772983629512705",
+					"source_user_id": 759425548615647200,
+					"source_user_id_str": "759425548615647234"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 913772981729587200,
+					"id_str": "913772981729587201",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DK5fr31XcAEPcul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DK5fr31XcAEPcul.jpg",
+					"url": "https://t.co/V5t7dCc13y",
+					"display_url": "pic.twitter.com/V5t7dCc13y",
+					"expanded_url": "https://twitter.com/agencyabacus/status/913772983629512705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 79,
+							"h": 79,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 100,
+							"h": 79,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 100,
+							"h": 79,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 100,
+							"h": 79,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 913772983629512700,
+					"source_status_id_str": "913772983629512705",
+					"source_user_id": 759425548615647200,
+					"source_user_id_str": "759425548615647234"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24179,
+			"friends_count": 13514,
+			"listed_count": 968,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4399,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8422,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 29 14:30:31 +0000 2017",
+			"id": 913772983629512700,
+			"id_str": "913772983629512705",
+			"text": "5 #New #Facebook Updates and Tests Spotted This #Week https://t.co/kGu8N8uDyf https://t.co/V5t7dCc13y",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "New",
+						"indices": [
+							2,
+							6
+						]
+					},
+					{
+						"text": "Facebook",
+						"indices": [
+							7,
+							16
+						]
+					},
+					{
+						"text": "Week",
+						"indices": [
+							48,
+							53
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kGu8N8uDyf",
+						"expanded_url": "https://buff.ly/2xKByL1",
+						"display_url": "buff.ly/2xKByL1",
+						"indices": [
+							54,
+							77
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 913772981729587200,
+						"id_str": "913772981729587201",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DK5fr31XcAEPcul.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DK5fr31XcAEPcul.jpg",
+						"url": "https://t.co/V5t7dCc13y",
+						"display_url": "pic.twitter.com/V5t7dCc13y",
+						"expanded_url": "https://twitter.com/agencyabacus/status/913772983629512705/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 79,
+								"h": 79,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 100,
+								"h": 79,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 100,
+								"h": 79,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 100,
+								"h": 79,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 913772981729587200,
+						"id_str": "913772981729587201",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DK5fr31XcAEPcul.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DK5fr31XcAEPcul.jpg",
+						"url": "https://t.co/V5t7dCc13y",
+						"display_url": "pic.twitter.com/V5t7dCc13y",
+						"expanded_url": "https://twitter.com/agencyabacus/status/913772983629512705/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 79,
+								"h": 79,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 100,
+								"h": 79,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 100,
+								"h": 79,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 100,
+								"h": 79,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 759425548615647200,
+				"id_str": "759425548615647234",
+				"name": "Abacus",
+				"screen_name": "agencyabacus",
+				"location": "Toronto, Ontario",
+				"description": "A lean, mean, growth focused #Facebook #Advertising machine. We help startups and established brands scale and build sustainable growth engines.",
+				"url": "https://t.co/q8zsPOHPTh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/q8zsPOHPTh",
+								"expanded_url": "http://abacus.agency",
+								"display_url": "abacus.agency",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 745,
+				"friends_count": 554,
+				"listed_count": 74,
+				"created_at": "Sat Jul 30 16:28:55 +0000 2016",
+				"favourites_count": 21386,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 762,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784431894943244288/CUs0tjJR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784431894943244288/CUs0tjJR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/759425548615647234/1486674155",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 30 07:56:40 +0000 2017",
 		"id": 914036257642078200,
 		"id_str": "914036257642078208",
