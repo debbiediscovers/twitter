@@ -1,6 +1,713 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Tue Oct 03 21:59:29 +0000 2017",
+		"id": 915335525157920800,
+		"id_str": "915335525157920768",
+		"text": "RT @LsExaminedLife: #LasVagasShooting #GunSense \n@PressSec @realDonaldTrump \n\n\"It is never the wrong time to do the right thing.\" ~Martin L…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LasVagasShooting",
+					"indices": [
+						20,
+						37
+					]
+				},
+				{
+					"text": "GunSense",
+					"indices": [
+						38,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LsExaminedLife",
+					"name": "Lisa 🔥",
+					"id": 109700634,
+					"id_str": "109700634",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "PressSec",
+					"name": "Sarah Sanders",
+					"id": 818927131883356200,
+					"id_str": "818927131883356161",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						59,
+						75
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25284,
+			"friends_count": 15491,
+			"listed_count": 968,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4439,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8450,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 02 23:04:42 +0000 2017",
+			"id": 914989546835730400,
+			"id_str": "914989546835730437",
+			"text": "#LasVagasShooting #GunSense \n@PressSec @realDonaldTrump \n\n\"It is never the wrong time to do the right thing.\" ~Mart… https://t.co/NfLyjN97UE",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LasVagasShooting",
+						"indices": [
+							0,
+							17
+						]
+					},
+					{
+						"text": "GunSense",
+						"indices": [
+							18,
+							27
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PressSec",
+						"name": "Sarah Sanders",
+						"id": 818927131883356200,
+						"id_str": "818927131883356161",
+						"indices": [
+							29,
+							38
+						]
+					},
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							39,
+							55
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/NfLyjN97UE",
+						"expanded_url": "https://twitter.com/i/web/status/914989546835730437",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 109700634,
+				"id_str": "109700634",
+				"name": "Lisa 🔥",
+				"screen_name": "LsExaminedLife",
+				"location": "Rollin' in My Soros Money 💰",
+				"description": "Educated Liberal Elite. Atheist. Sapiosexual Flirt. MAGAt Slayer. Nuclear Eye Roll/Snark. USAFBrat. #Vets #LGBTQally #BLM #DREAMers #1A #GunSense #NSFW #Resist",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6307,
+				"friends_count": 5955,
+				"listed_count": 41,
+				"created_at": "Fri Jan 29 23:42:42 +0000 2010",
+				"favourites_count": 55140,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31706,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/914698109451632640/48WXyE5m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/914698109451632640/48WXyE5m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/109700634/1506947848",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 914923263054237700,
+			"quoted_status_id_str": "914923263054237696",
+			"quoted_status": {
+				"created_at": "Mon Oct 02 18:41:19 +0000 2017",
+				"id": 914923263054237700,
+				"id_str": "914923263054237696",
+				"text": "White House says now not the time for gun debate https://t.co/ClB9cVo64F https://t.co/iKc7emAEl2",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/ClB9cVo64F",
+							"expanded_url": "http://politi.co/2fEIWxI",
+							"display_url": "politi.co/2fEIWxI",
+							"indices": [
+								49,
+								72
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 914923260445319200,
+							"id_str": "914923260445319168",
+							"indices": [
+								73,
+								96
+							],
+							"media_url": "http://pbs.twimg.com/media/DLJ125-V4AAPZOj.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DLJ125-V4AAPZOj.jpg",
+							"url": "https://t.co/iKc7emAEl2",
+							"display_url": "pic.twitter.com/iKc7emAEl2",
+							"expanded_url": "https://twitter.com/politico/status/914923263054237696/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1160,
+									"h": 629,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 369,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1160,
+									"h": 629,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 914923260445319200,
+							"id_str": "914923260445319168",
+							"indices": [
+								73,
+								96
+							],
+							"media_url": "http://pbs.twimg.com/media/DLJ125-V4AAPZOj.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DLJ125-V4AAPZOj.jpg",
+							"url": "https://t.co/iKc7emAEl2",
+							"display_url": "pic.twitter.com/iKc7emAEl2",
+							"expanded_url": "https://twitter.com/politico/status/914923263054237696/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1160,
+									"h": 629,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 369,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1160,
+									"h": 629,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 9300262,
+					"id_str": "9300262",
+					"name": "POLITICO",
+					"screen_name": "politico",
+					"location": "Washington, D.C.",
+					"description": "Nobody knows politics like POLITICO.\n\nSign up for the only politics newsletter you need in the link below.",
+					"url": "https://t.co/Gx3bYuc9cF",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/Gx3bYuc9cF",
+									"expanded_url": "http://politi.co/2rPNohs",
+									"display_url": "politi.co/2rPNohs",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3420233,
+					"friends_count": 1312,
+					"listed_count": 36323,
+					"created_at": "Mon Oct 08 00:29:38 +0000 2007",
+					"favourites_count": 8,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 244402,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "E6E6E6",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/796212188/bbdc5e3f7842b5b33f418ac5bc9685ee.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/796212188/bbdc5e3f7842b5b33f418ac5bc9685ee.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/677177503694237697/y6yTzWn6_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/677177503694237697/y6yTzWn6_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/9300262/1479760803",
+					"profile_link_color": "DD2E44",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 237,
+				"favorite_count": 329,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 69,
+			"favorite_count": 149,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 914923263054237700,
+		"quoted_status_id_str": "914923263054237696",
+		"retweet_count": 69,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 03 21:55:39 +0000 2017",
+		"id": 915334556449783800,
+		"id_str": "915334556449783808",
+		"text": "RT @giftedsgp: Jack Ma: We need to stop training our kids for manufacturing jobs #imagination #creativity via @CNN  https://t.co/UT0On0WZRm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "imagination",
+					"indices": [
+						81,
+						93
+					]
+				},
+				{
+					"text": "creativity",
+					"indices": [
+						94,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "giftedsgp",
+					"name": "TheGiftedSingaporean",
+					"id": 3238023407,
+					"id_str": "3238023407",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "CNN",
+					"name": "CNN",
+					"id": 759251,
+					"id_str": "759251",
+					"indices": [
+						110,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UT0On0WZRm",
+					"expanded_url": "http://money.cnn.com/2017/09/20/technology/jack-ma-artificial-intelligence-bloomberg-conference/index.html",
+					"display_url": "money.cnn.com/2017/09/20/tec…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25284,
+			"friends_count": 15491,
+			"listed_count": 968,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4439,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8450,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 24 21:32:32 +0000 2017",
+			"id": 912067252081459200,
+			"id_str": "912067252081459200",
+			"text": "Jack Ma: We need to stop training our kids for manufacturing jobs #imagination #creativity via @CNN  https://t.co/UT0On0WZRm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "imagination",
+						"indices": [
+							66,
+							78
+						]
+					},
+					{
+						"text": "creativity",
+						"indices": [
+							79,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CNN",
+						"name": "CNN",
+						"id": 759251,
+						"id_str": "759251",
+						"indices": [
+							95,
+							99
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/UT0On0WZRm",
+						"expanded_url": "http://money.cnn.com/2017/09/20/technology/jack-ma-artificial-intelligence-bloomberg-conference/index.html",
+						"display_url": "money.cnn.com/2017/09/20/tec…",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3238023407,
+				"id_str": "3238023407",
+				"name": "TheGiftedSingaporean",
+				"screen_name": "giftedsgp",
+				"location": "Singapore",
+				"description": "Ex-Gifted Ed Singaporeans, active advocates and supporters of Gifted children. AI powered content. Occasional human touch delivered by @debbiediscovers 💕📕✏️",
+				"url": "https://t.co/Cpez6FoqaX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Cpez6FoqaX",
+								"expanded_url": "https://www.facebook.com/giftedsgp",
+								"display_url": "facebook.com/giftedsgp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 395,
+				"friends_count": 708,
+				"listed_count": 84,
+				"created_at": "Wed May 06 04:18:04 +0000 2015",
+				"favourites_count": 276,
+				"utc_offset": -39600,
+				"time_zone": "International Date Line West",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1711,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/695419153637777408/ZymUqD7w_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/695419153637777408/ZymUqD7w_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238023407/1454618597",
+				"profile_link_color": "D10000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 03 20:50:05 +0000 2017",
 		"id": 915318057903431700,
 		"id_str": "915318057903431680",
