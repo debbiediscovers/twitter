@@ -1,6 +1,427 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Fri Oct 06 10:55:25 +0000 2017",
+		"id": 916255567533842400,
+		"id_str": "916255567533842432",
+		"text": "RT @agencyabacus: The Anatomy of the Perfect #Facebook #Video #Ad. Read More: https://t.co/CKKtB4n4EO https://t.co/mWHtw5gIsU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Facebook",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"text": "Video",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "Ad",
+					"indices": [
+						62,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "agencyabacus",
+					"name": "Abacus",
+					"id": 759425548615647200,
+					"id_str": "759425548615647234",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CKKtB4n4EO",
+					"expanded_url": "https://buff.ly/2xVl2sw",
+					"display_url": "buff.ly/2xVl2sw",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 916022696177156100,
+					"id_str": "916022696177156096",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DLZdyfPVwAAEIrY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLZdyfPVwAAEIrY.jpg",
+					"url": "https://t.co/mWHtw5gIsU",
+					"display_url": "pic.twitter.com/mWHtw5gIsU",
+					"expanded_url": "https://twitter.com/agencyabacus/status/916022698492514304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 916022698492514300,
+					"source_status_id_str": "916022698492514304",
+					"source_user_id": 759425548615647200,
+					"source_user_id_str": "759425548615647234"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 916022696177156100,
+					"id_str": "916022696177156096",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DLZdyfPVwAAEIrY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLZdyfPVwAAEIrY.jpg",
+					"url": "https://t.co/mWHtw5gIsU",
+					"display_url": "pic.twitter.com/mWHtw5gIsU",
+					"expanded_url": "https://twitter.com/agencyabacus/status/916022698492514304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 916022698492514300,
+					"source_status_id_str": "916022698492514304",
+					"source_user_id": 759425548615647200,
+					"source_user_id_str": "759425548615647234"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25425,
+			"friends_count": 15010,
+			"listed_count": 967,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4468,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8481,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 05 19:30:04 +0000 2017",
+			"id": 916022698492514300,
+			"id_str": "916022698492514304",
+			"text": "The Anatomy of the Perfect #Facebook #Video #Ad. Read More: https://t.co/CKKtB4n4EO https://t.co/mWHtw5gIsU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Facebook",
+						"indices": [
+							27,
+							36
+						]
+					},
+					{
+						"text": "Video",
+						"indices": [
+							37,
+							43
+						]
+					},
+					{
+						"text": "Ad",
+						"indices": [
+							44,
+							47
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CKKtB4n4EO",
+						"expanded_url": "https://buff.ly/2xVl2sw",
+						"display_url": "buff.ly/2xVl2sw",
+						"indices": [
+							60,
+							83
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 916022696177156100,
+						"id_str": "916022696177156096",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/DLZdyfPVwAAEIrY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLZdyfPVwAAEIrY.jpg",
+						"url": "https://t.co/mWHtw5gIsU",
+						"display_url": "pic.twitter.com/mWHtw5gIsU",
+						"expanded_url": "https://twitter.com/agencyabacus/status/916022698492514304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 916022696177156100,
+						"id_str": "916022696177156096",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/DLZdyfPVwAAEIrY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLZdyfPVwAAEIrY.jpg",
+						"url": "https://t.co/mWHtw5gIsU",
+						"display_url": "pic.twitter.com/mWHtw5gIsU",
+						"expanded_url": "https://twitter.com/agencyabacus/status/916022698492514304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 759425548615647200,
+				"id_str": "759425548615647234",
+				"name": "Abacus",
+				"screen_name": "agencyabacus",
+				"location": "Toronto, Ontario",
+				"description": "A lean, mean, growth focused #Facebook #Advertising machine. We help startups and established brands scale and build sustainable growth engines.",
+				"url": "https://t.co/q8zsPOHPTh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/q8zsPOHPTh",
+								"expanded_url": "http://abacus.agency",
+								"display_url": "abacus.agency",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 748,
+				"friends_count": 554,
+				"listed_count": 74,
+				"created_at": "Sat Jul 30 16:28:55 +0000 2016",
+				"favourites_count": 21416,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 796,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784431894943244288/CUs0tjJR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784431894943244288/CUs0tjJR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/759425548615647234/1486674155",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 06 09:28:21 +0000 2017",
 		"id": 916233658305888300,
 		"id_str": "916233658305888257",
