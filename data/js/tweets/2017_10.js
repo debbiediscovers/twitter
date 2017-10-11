@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Wed Oct 11 20:24:17 +0000 2017",
+		"id": 918210666804023300,
+		"id_str": "918210666804023296",
+		"text": "@jewelzbyjen @diviki @c_beretas @_inkster_ @robdesphoto @ryan_a_bell @thebethogden Nice gif!! 😍👍",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jewelzbyjen",
+					"name": "Jennifer Brewer🔱",
+					"id": 3379310775,
+					"id_str": "3379310775",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "diviki",
+					"name": "Jean-Marc Diviki",
+					"id": 314513298,
+					"id_str": "314513298",
+					"indices": [
+						13,
+						20
+					]
+				},
+				{
+					"screen_name": "c_beretas",
+					"name": "Christos Beretas",
+					"id": 229122224,
+					"id_str": "229122224",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"screen_name": "_inkster_",
+					"name": "inkster.com",
+					"id": 2722454130,
+					"id_str": "2722454130",
+					"indices": [
+						32,
+						42
+					]
+				},
+				{
+					"screen_name": "robdesphoto",
+					"name": "Roberto Destarac 📷",
+					"id": 156864049,
+					"id_str": "156864049",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"screen_name": "ryan_a_bell",
+					"name": "Ryan A Bell Ai AR VR",
+					"id": 2984872862,
+					"id_str": "2984872862",
+					"indices": [
+						56,
+						68
+					]
+				},
+				{
+					"screen_name": "thebethogden",
+					"name": "Beth Ogden",
+					"id": 547937681,
+					"id_str": "547937681",
+					"indices": [
+						69,
+						82
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 918104932687007700,
+		"in_reply_to_status_id_str": "918104932687007744",
+		"in_reply_to_user_id": 3379310775,
+		"in_reply_to_user_id_str": "3379310775",
+		"in_reply_to_screen_name": "jewelzbyjen",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26333,
+			"friends_count": 16117,
+			"listed_count": 966,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4539,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8523,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 11 11:24:01 +0000 2017",
 		"id": 918074705415872500,
 		"id_str": "918074705415872512",
