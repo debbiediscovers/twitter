@@ -1,6 +1,1170 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sun Oct 15 03:09:14 +0000 2017",
+		"id": 919399742626340900,
+		"id_str": "919399742626340864",
+		"text": "@attractionapp Mine too! Self confessed #SexAndTheCity addict. Did nothing but watch re-runs hungover in business s… https://t.co/GNJ96dB2Lr",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SexAndTheCity",
+					"indices": [
+						40,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "attractionapp",
+					"name": "Anne Bynum",
+					"id": 905137370139213800,
+					"id_str": "905137370139213825",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GNJ96dB2Lr",
+					"expanded_url": "https://twitter.com/i/web/status/919399742626340864",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 919398554145210400,
+		"in_reply_to_status_id_str": "919398554145210368",
+		"in_reply_to_user_id": 905137370139213800,
+		"in_reply_to_user_id_str": "905137370139213825",
+		"in_reply_to_screen_name": "attractionapp",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27705,
+			"friends_count": 16831,
+			"listed_count": 968,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4575,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8554,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 15 03:00:08 +0000 2017",
+		"id": 919397451890507800,
+		"id_str": "919397451890507776",
+		"text": "@attractionapp @chatfuel  https://t.co/gEJUpfPbPM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "attractionapp",
+					"name": "Anne Bynum",
+					"id": 905137370139213800,
+					"id_str": "905137370139213825",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "chatfuel",
+					"name": "Chatfuel",
+					"id": 3355773219,
+					"id_str": "3355773219",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 919397418981978100,
+					"id_str": "919397418981978112",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DMJbFNXU8AA5cOS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMJbFNXU8AA5cOS.jpg",
+					"url": "https://t.co/gEJUpfPbPM",
+					"display_url": "pic.twitter.com/gEJUpfPbPM",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/919397451890507776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 942,
+							"h": 733,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 529,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 942,
+							"h": 733,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 919397418981978100,
+					"id_str": "919397418981978112",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DMJbFNXU8AA5cOS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMJbFNXU8AA5cOS.jpg",
+					"url": "https://t.co/gEJUpfPbPM",
+					"display_url": "pic.twitter.com/gEJUpfPbPM",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/919397451890507776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 942,
+							"h": 733,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 529,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 942,
+							"h": 733,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 919395833631596500,
+		"in_reply_to_status_id_str": "919395833631596545",
+		"in_reply_to_user_id": 905137370139213800,
+		"in_reply_to_user_id_str": "905137370139213825",
+		"in_reply_to_screen_name": "attractionapp",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27705,
+			"friends_count": 16831,
+			"listed_count": 968,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4575,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8554,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sun Oct 15 02:59:14 +0000 2017",
+		"id": 919397226203320300,
+		"id_str": "919397226203320320",
+		"text": "@attractionapp @chatfuel LOL because you're trying to get pregnant with him??? https://t.co/BtEe2NgnR7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "attractionapp",
+					"name": "Anne Bynum",
+					"id": 905137370139213800,
+					"id_str": "905137370139213825",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "chatfuel",
+					"name": "Chatfuel",
+					"id": 3355773219,
+					"id_str": "3355773219",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 919397214706790400,
+					"id_str": "919397214706790400",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DMJa5UYU8AABs3F.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DMJa5UYU8AABs3F.jpg",
+					"url": "https://t.co/BtEe2NgnR7",
+					"display_url": "pic.twitter.com/BtEe2NgnR7",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/919397226203320320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 246,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 919397214706790400,
+					"id_str": "919397214706790400",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DMJa5UYU8AABs3F.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DMJa5UYU8AABs3F.jpg",
+					"url": "https://t.co/BtEe2NgnR7",
+					"display_url": "pic.twitter.com/BtEe2NgnR7",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/919397226203320320/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 246,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							60
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DMJa5UYU8AABs3F.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 919396933776502800,
+		"in_reply_to_status_id_str": "919396933776502784",
+		"in_reply_to_user_id": 905137370139213800,
+		"in_reply_to_user_id_str": "905137370139213825",
+		"in_reply_to_screen_name": "attractionapp",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27705,
+			"friends_count": 16831,
+			"listed_count": 968,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4575,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8554,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 15 02:46:36 +0000 2017",
+		"id": 919394044291059700,
+		"id_str": "919394044291059712",
+		"text": "@attractionapp @chatfuel LOL you can chat to the chatbot I just built for my friend. It can analyse your skintone a… https://t.co/PpL0dEpGAD",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "attractionapp",
+					"name": "Anne Bynum",
+					"id": 905137370139213800,
+					"id_str": "905137370139213825",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "chatfuel",
+					"name": "Chatfuel",
+					"id": 3355773219,
+					"id_str": "3355773219",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PpL0dEpGAD",
+					"expanded_url": "https://twitter.com/i/web/status/919394044291059712",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 919392001690239000,
+		"in_reply_to_status_id_str": "919392001690238976",
+		"in_reply_to_user_id": 905137370139213800,
+		"in_reply_to_user_id_str": "905137370139213825",
+		"in_reply_to_screen_name": "attractionapp",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27705,
+			"friends_count": 16831,
+			"listed_count": 968,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4575,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8554,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 15 02:28:21 +0000 2017",
+		"id": 919389452576874500,
+		"id_str": "919389452576874496",
+		"text": "@attractionapp https://t.co/CRmZFoWJmt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "attractionapp",
+					"name": "Anne Bynum",
+					"id": 905137370139213800,
+					"id_str": "905137370139213825",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CRmZFoWJmt",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/919074381631971329",
+					"display_url": "twitter.com/debbiediscover…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 919388759593848800,
+		"in_reply_to_status_id_str": "919388759593848832",
+		"in_reply_to_user_id": 905137370139213800,
+		"in_reply_to_user_id_str": "905137370139213825",
+		"in_reply_to_screen_name": "attractionapp",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27705,
+			"friends_count": 16831,
+			"listed_count": 968,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4575,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8554,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 919074381631971300,
+		"quoted_status_id_str": "919074381631971329",
+		"quoted_status": {
+			"created_at": "Sat Oct 14 05:36:22 +0000 2017",
+			"id": 919074381631971300,
+			"id_str": "919074381631971329",
+			"text": "#FREE Udemy course by @Chatfuel's Andrew Demeter on how to build a $FB chatbot https://t.co/nfYMYkld6T 🔥 ⚡️ #GOOD! Signup NOW!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FREE",
+						"indices": [
+							0,
+							5
+						]
+					},
+					{
+						"text": "GOOD",
+						"indices": [
+							108,
+							113
+						]
+					}
+				],
+				"symbols": [
+					{
+						"text": "FB",
+						"indices": [
+							67,
+							70
+						]
+					}
+				],
+				"user_mentions": [
+					{
+						"screen_name": "chatfuel",
+						"name": "Chatfuel",
+						"id": 3355773219,
+						"id_str": "3355773219",
+						"indices": [
+							22,
+							31
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/nfYMYkld6T",
+						"expanded_url": "https://www.udemy.com/building-a-facebook-messenger-chat-bot-in-chatfuel/?couponCode=NEW-FREE-CODE",
+						"display_url": "udemy.com/building-a-fac…",
+						"indices": [
+							79,
+							102
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+				"url": "https://t.co/iftpTVexLs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iftpTVexLs",
+								"expanded_url": "https://about.me/debbiediscovers",
+								"display_url": "about.me/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27705,
+				"friends_count": 16831,
+				"listed_count": 968,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 4575,
+				"utc_offset": -39600,
+				"time_zone": "International Date Line West",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8554,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sun Oct 15 02:27:27 +0000 2017",
+		"id": 919389224054353900,
+		"id_str": "919389224054353920",
+		"text": "@attractionapp Why don't you make a Facebook messenger chatbot for what you do? Sounds like it would be a great fit!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "attractionapp",
+					"name": "Anne Bynum",
+					"id": 905137370139213800,
+					"id_str": "905137370139213825",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 919388759593848800,
+		"in_reply_to_status_id_str": "919388759593848832",
+		"in_reply_to_user_id": 905137370139213800,
+		"in_reply_to_user_id_str": "905137370139213825",
+		"in_reply_to_screen_name": "attractionapp",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27705,
+			"friends_count": 16831,
+			"listed_count": 968,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4575,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8554,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 15 02:23:46 +0000 2017",
+		"id": 919388297541042200,
+		"id_str": "919388297541042176",
+		"text": "@attractionapp  https://t.co/jw7lJEfzh7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "attractionapp",
+					"name": "Anne Bynum",
+					"id": 905137370139213800,
+					"id_str": "905137370139213825",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 919388277999726600,
+					"id_str": "919388277999726592",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/DMJSxIjU8AAHyxj.png",
+					"media_url_https": "https://pbs.twimg.com/media/DMJSxIjU8AAHyxj.png",
+					"url": "https://t.co/jw7lJEfzh7",
+					"display_url": "pic.twitter.com/jw7lJEfzh7",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/919388297541042176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 698,
+							"h": 855,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 698,
+							"h": 855,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 555,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 919388277999726600,
+					"id_str": "919388277999726592",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/DMJSxIjU8AAHyxj.png",
+					"media_url_https": "https://pbs.twimg.com/media/DMJSxIjU8AAHyxj.png",
+					"url": "https://t.co/jw7lJEfzh7",
+					"display_url": "pic.twitter.com/jw7lJEfzh7",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/919388297541042176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 698,
+							"h": 855,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 698,
+							"h": 855,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 555,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 919384938981421000,
+		"in_reply_to_status_id_str": "919384938981421056",
+		"in_reply_to_user_id": 905137370139213800,
+		"in_reply_to_user_id_str": "905137370139213825",
+		"in_reply_to_screen_name": "attractionapp",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27705,
+			"friends_count": 16831,
+			"listed_count": 968,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4575,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8554,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sun Oct 15 02:06:46 +0000 2017",
 		"id": 919384019728351200,
 		"id_str": "919384019728351232",
