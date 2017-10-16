@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Mon Oct 16 12:29:41 +0000 2017",
+		"id": 919903169588609000,
+		"id_str": "919903169588609024",
+		"text": "Can One define character in 28o characters 🤔 #wtf 🇺🇸😵😳💩 https://t.co/b3UH8YAzaS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wtf",
+					"indices": [
+						45,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b3UH8YAzaS",
+					"expanded_url": "https://twitter.com/usatoday/status/919020033308790784",
+					"display_url": "twitter.com/usatoday/statu…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27995,
+			"friends_count": 17174,
+			"listed_count": 967,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4585,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8571,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 919020033308790800,
+		"quoted_status_id_str": "919020033308790784",
+		"quoted_status": {
+			"created_at": "Sat Oct 14 02:00:25 +0000 2017",
+			"id": 919020033308790800,
+			"id_str": "919020033308790784",
+			"text": "\"Character can be hard to define, but we see it in every day acts,\" Trump said in the proclamation. https://t.co/ZzjgtZYFo3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZzjgtZYFo3",
+						"expanded_url": "https://usat.ly/2yjI4qU",
+						"display_url": "usat.ly/2yjI4qU",
+						"indices": [
+							100,
+							123
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15754281,
+				"id_str": "15754281",
+				"name": "USA TODAY",
+				"screen_name": "USATODAY",
+				"location": "USA TODAY HQ, McLean, Va.",
+				"description": "The latest news and most interesting stories from USA TODAY. News that's meant to be shared.",
+				"url": "http://t.co/7xDl0vVHSt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/7xDl0vVHSt",
+								"expanded_url": "http://www.usatoday.com",
+								"display_url": "usatoday.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3483338,
+				"friends_count": 460,
+				"listed_count": 31900,
+				"created_at": "Wed Aug 06 19:55:31 +0000 2008",
+				"favourites_count": 1757,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 227004,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0092D0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000089862470/7aa9f896147a89917aa047e30ab6ebc2.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000089862470/7aa9f896147a89917aa047e30ab6ebc2.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/881124724776075264/HIaW0jIz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/881124724776075264/HIaW0jIz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15754281/1505558777",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 55,
+			"favorite_count": 149,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Oct 16 11:48:01 +0000 2017",
 		"id": 919892685229453300,
 		"id_str": "919892685229453312",
