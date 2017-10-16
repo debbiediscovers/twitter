@@ -1,6 +1,640 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Mon Oct 16 21:41:47 +0000 2017",
+		"id": 920042111893831700,
+		"id_str": "920042111893831680",
+		"text": "@PinchForth Sure! When? Browsing through your Twitter feed! Love it! You’ve got some great posts!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PinchForth",
+					"name": "PinchForth",
+					"id": 866437884152361000,
+					"id_str": "866437884152360960",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 920041817965547500,
+		"in_reply_to_status_id_str": "920041817965547520",
+		"in_reply_to_user_id": 866437884152361000,
+		"in_reply_to_user_id_str": "866437884152360960",
+		"in_reply_to_screen_name": "PinchForth",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28006,
+			"friends_count": 17173,
+			"listed_count": 963,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4600,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8575,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 16 21:37:18 +0000 2017",
+		"id": 920040983143727100,
+		"id_str": "920040983143727104",
+		"text": "@PinchForth Hee hee was a fun thing to do on a Sunday afternoon!! Took 4 hours! 😎🤓",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PinchForth",
+					"name": "PinchForth",
+					"id": 866437884152361000,
+					"id_str": "866437884152360960",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 920019780815458300,
+		"in_reply_to_status_id_str": "920019780815458305",
+		"in_reply_to_user_id": 866437884152361000,
+		"in_reply_to_user_id_str": "866437884152360960",
+		"in_reply_to_screen_name": "PinchForth",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28006,
+			"friends_count": 17173,
+			"listed_count": 963,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4600,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8575,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 16 21:15:19 +0000 2017",
+		"id": 920035449380388900,
+		"id_str": "920035449380388864",
+		"text": "RT @PinchForth: Be faster! Thanks @GrowthHackers https://t.co/NQYv6It5lq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PinchForth",
+					"name": "PinchForth",
+					"id": 866437884152361000,
+					"id_str": "866437884152360960",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "GrowthHackers",
+					"name": "GrowthHackers",
+					"id": 1705885393,
+					"id_str": "1705885393",
+					"indices": [
+						34,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NQYv6It5lq",
+					"expanded_url": "https://twitter.com/GrowthHackers/status/920024353420570629",
+					"display_url": "twitter.com/GrowthHackers/…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28006,
+			"friends_count": 17173,
+			"listed_count": 963,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4600,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8575,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 16 20:34:24 +0000 2017",
+			"id": 920025154008252400,
+			"id_str": "920025154008252416",
+			"text": "Be faster! Thanks @GrowthHackers https://t.co/NQYv6It5lq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GrowthHackers",
+						"name": "GrowthHackers",
+						"id": 1705885393,
+						"id_str": "1705885393",
+						"indices": [
+							18,
+							32
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/NQYv6It5lq",
+						"expanded_url": "https://twitter.com/GrowthHackers/status/920024353420570629",
+						"display_url": "twitter.com/GrowthHackers/…",
+						"indices": [
+							33,
+							56
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 866437884152361000,
+				"id_str": "866437884152360960",
+				"name": "PinchForth",
+				"screen_name": "PinchForth",
+				"location": "Boston, MA",
+				"description": "Grow faster, we'll help! It's about time marketing leaders could leverage a team to tackle Growth like they can for PR, Media, Creative and Brand.",
+				"url": "https://t.co/XqUle90zJW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XqUle90zJW",
+								"expanded_url": "https://www.pinchforth.com",
+								"display_url": "pinchforth.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27,
+				"friends_count": 39,
+				"listed_count": 0,
+				"created_at": "Sun May 21 23:37:44 +0000 2017",
+				"favourites_count": 20,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/869009289335066624/TXV3VuG7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/869009289335066624/TXV3VuG7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/866437884152360960/1496022962",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 920024353420570600,
+			"quoted_status_id_str": "920024353420570629",
+			"quoted_status": {
+				"created_at": "Mon Oct 16 20:31:13 +0000 2017",
+				"id": 920024353420570600,
+				"id_str": "920024353420570629",
+				"text": "Conversion Rate #Optimization Tips – 12 Easy Ways to Boost #Sales: https://t.co/TTcFkVpR80 https://t.co/2kF7sLntH8",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "Optimization",
+							"indices": [
+								16,
+								29
+							]
+						},
+						{
+							"text": "Sales",
+							"indices": [
+								59,
+								65
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/TTcFkVpR80",
+							"expanded_url": "http://growthhackers.com/articles/conversion-rate-optimization-tips-12-easy-ways-to-boost-sales?utm_source=twitter&utm_medium=GrowthHackers&utm_campaign=2266",
+							"display_url": "growthhackers.com/articles/conve…",
+							"indices": [
+								67,
+								90
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 920024351382097900,
+							"id_str": "920024351382097920",
+							"indices": [
+								91,
+								114
+							],
+							"media_url": "http://pbs.twimg.com/media/DMSVRejW0AAxyQM.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DMSVRejW0AAxyQM.jpg",
+							"url": "https://t.co/2kF7sLntH8",
+							"display_url": "pic.twitter.com/2kF7sLntH8",
+							"expanded_url": "https://twitter.com/GrowthHackers/status/920024353420570629/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 385,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 798,
+									"h": 452,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 798,
+									"h": 452,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 920024351382097900,
+							"id_str": "920024351382097920",
+							"indices": [
+								91,
+								114
+							],
+							"media_url": "http://pbs.twimg.com/media/DMSVRejW0AAxyQM.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DMSVRejW0AAxyQM.jpg",
+							"url": "https://t.co/2kF7sLntH8",
+							"display_url": "pic.twitter.com/2kF7sLntH8",
+							"expanded_url": "https://twitter.com/GrowthHackers/status/920024353420570629/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 385,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 798,
+									"h": 452,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 798,
+									"h": 452,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1705885393,
+					"id_str": "1705885393",
+					"name": "GrowthHackers",
+					"screen_name": "GrowthHackers",
+					"location": "Everywhere",
+					"description": "The Official Twitter Account of GrowthHackers. Premiere destination to collaborate and get inspired to help grow your business.",
+					"url": "http://t.co/DCIXoMTmSt",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/DCIXoMTmSt",
+									"expanded_url": "http://growthhackers.com",
+									"display_url": "growthhackers.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 186777,
+					"friends_count": 57207,
+					"listed_count": 9735,
+					"created_at": "Tue Aug 27 23:38:53 +0000 2013",
+					"favourites_count": 11094,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 204293,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "131516",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/595698783461253120/dZEKStgB_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/595698783461253120/dZEKStgB_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1705885393/1496176504",
+					"profile_link_color": "12AC8E",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 920024353420570600,
+		"quoted_status_id_str": "920024353420570629",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Oct 16 20:34:09 +0000 2017",
 		"id": 920025092477698000,
 		"id_str": "920025092477698048",
