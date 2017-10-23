@@ -1,6 +1,399 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Mon Oct 23 03:27:40 +0000 2017",
+		"id": 922303480974282800,
+		"id_str": "922303480974282752",
+		"text": "RT @SingaporeSail: #MotivationMonday Hardwork comes before 🥇🥇🥇 https://t.co/Er1jgAQI3e https://t.co/4jx8JCS9HA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MotivationMonday",
+					"indices": [
+						19,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SingaporeSail",
+					"name": "SG Sailing",
+					"id": 906430548641439700,
+					"id_str": "906430548641439744",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Er1jgAQI3e",
+					"expanded_url": "https://www.instagram.com/p/Bakx_kIhhhm/",
+					"display_url": "instagram.com/p/Bakx_kIhhhm/",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 922297075227877400,
+					"id_str": "922297075227877376",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/DMyoTapW4AAPAbZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMyoTapW4AAPAbZ.jpg",
+					"url": "https://t.co/4jx8JCS9HA",
+					"display_url": "pic.twitter.com/4jx8JCS9HA",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/922297078193295361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 922297078193295400,
+					"source_status_id_str": "922297078193295361",
+					"source_user_id": 906430548641439700,
+					"source_user_id_str": "906430548641439744"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 922297075227877400,
+					"id_str": "922297075227877376",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/DMyoTapW4AAPAbZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMyoTapW4AAPAbZ.jpg",
+					"url": "https://t.co/4jx8JCS9HA",
+					"display_url": "pic.twitter.com/4jx8JCS9HA",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/922297078193295361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 922297078193295400,
+					"source_status_id_str": "922297078193295361",
+					"source_user_id": 906430548641439700,
+					"source_user_id_str": "906430548641439744"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29938,
+			"friends_count": 19450,
+			"listed_count": 972,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4693,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8640,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 23 03:02:13 +0000 2017",
+			"id": 922297078193295400,
+			"id_str": "922297078193295361",
+			"text": "#MotivationMonday Hardwork comes before 🥇🥇🥇 https://t.co/Er1jgAQI3e https://t.co/4jx8JCS9HA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MotivationMonday",
+						"indices": [
+							0,
+							17
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Er1jgAQI3e",
+						"expanded_url": "https://www.instagram.com/p/Bakx_kIhhhm/",
+						"display_url": "instagram.com/p/Bakx_kIhhhm/",
+						"indices": [
+							44,
+							67
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 922297075227877400,
+						"id_str": "922297075227877376",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DMyoTapW4AAPAbZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMyoTapW4AAPAbZ.jpg",
+						"url": "https://t.co/4jx8JCS9HA",
+						"display_url": "pic.twitter.com/4jx8JCS9HA",
+						"expanded_url": "https://twitter.com/SingaporeSail/status/922297078193295361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 922297075227877400,
+						"id_str": "922297075227877376",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DMyoTapW4AAPAbZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMyoTapW4AAPAbZ.jpg",
+						"url": "https://t.co/4jx8JCS9HA",
+						"display_url": "pic.twitter.com/4jx8JCS9HA",
+						"expanded_url": "https://twitter.com/SingaporeSail/status/922297078193295361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 906430548641439700,
+				"id_str": "906430548641439744",
+				"name": "SG Sailing",
+				"screen_name": "SingaporeSail",
+				"location": "Singapore",
+				"description": "Official Twitter account for the Singapore Sailing Federation. Join us on our voyage to bring Singapore glory from sea. #MakingWavesTogether #Olympic2020",
+				"url": "https://t.co/OIAmTTUj7g",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OIAmTTUj7g",
+								"expanded_url": "http://www.sailing.org.sg/sea-games-2017",
+								"display_url": "sailing.org.sg/sea-games-2017",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1429,
+				"friends_count": 2161,
+				"listed_count": 6,
+				"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+				"favourites_count": 63,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 222,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Oct 23 02:14:00 +0000 2017",
 		"id": 922284944688169000,
 		"id_str": "922284944688168962",
