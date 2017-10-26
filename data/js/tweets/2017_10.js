@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Thu Oct 26 02:02:37 +0000 2017",
+		"id": 923369244556795900,
+		"id_str": "923369244556795904",
+		"text": "RT @SingaporeSail: Coke is donating $30k to @specialolympics for every submission! #tokyo2020 https://t.co/p5w9MvCIJ0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tokyo2020",
+					"indices": [
+						83,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SingaporeSail",
+					"name": "SG Sailing",
+					"id": 906430548641439700,
+					"id_str": "906430548641439744",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "SpecialOlympics",
+					"name": "Special Olympics",
+					"id": 19598173,
+					"id_str": "19598173",
+					"indices": [
+						44,
+						60
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/p5w9MvCIJ0",
+					"expanded_url": "https://twitter.com/illustrator/status/923293097471090690",
+					"display_url": "twitter.com/illustrator/st…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30587,
+			"friends_count": 18638,
+			"listed_count": 969,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4723,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8653,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 26 01:57:00 +0000 2017",
+			"id": 923367827859316700,
+			"id_str": "923367827859316736",
+			"text": "Coke is donating $30k to @specialolympics for every submission! #tokyo2020 https://t.co/p5w9MvCIJ0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tokyo2020",
+						"indices": [
+							64,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SpecialOlympics",
+						"name": "Special Olympics",
+						"id": 19598173,
+						"id_str": "19598173",
+						"indices": [
+							25,
+							41
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/p5w9MvCIJ0",
+						"expanded_url": "https://twitter.com/illustrator/status/923293097471090690",
+						"display_url": "twitter.com/illustrator/st…",
+						"indices": [
+							75,
+							98
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 906430548641439700,
+				"id_str": "906430548641439744",
+				"name": "SG Sailing",
+				"screen_name": "SingaporeSail",
+				"location": "Singapore",
+				"description": "Official Twitter account for Singapore Sailing Federation. Join us on our Olympic voyage to bring Singapore glory from sea #MakingWavesTogether #Olympic2020",
+				"url": "https://t.co/8w7xJU5n9n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8w7xJU5n9n",
+								"expanded_url": "http://www.sailing.org.sg",
+								"display_url": "sailing.org.sg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1759,
+				"friends_count": 3025,
+				"listed_count": 7,
+				"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+				"favourites_count": 94,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 227,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+				"profile_link_color": "D10000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 923293097471090700,
+			"quoted_status_id_str": "923293097471090690",
+			"quoted_status": {
+				"created_at": "Wed Oct 25 21:00:03 +0000 2017",
+				"id": 923293097471090700,
+				"id_str": "923293097471090690",
+				"text": "Get a @CocaCola brief to make your own work of art using @creativecloud to benefit @SpecialOlympics.… https://t.co/AYy14L4GIL",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "CocaCola",
+							"name": "Coca-Cola",
+							"id": 26787673,
+							"id_str": "26787673",
+							"indices": [
+								6,
+								15
+							]
+						},
+						{
+							"screen_name": "creativecloud",
+							"name": "Adobe Creative Cloud",
+							"id": 481598648,
+							"id_str": "481598648",
+							"indices": [
+								57,
+								71
+							]
+						},
+						{
+							"screen_name": "SpecialOlympics",
+							"name": "Special Olympics",
+							"id": 19598173,
+							"id_str": "19598173",
+							"indices": [
+								83,
+								99
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/AYy14L4GIL",
+							"expanded_url": "https://twitter.com/i/web/status/923293097471090690",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 23822236,
+					"id_str": "23822236",
+					"name": "Adobe Illustrator",
+					"screen_name": "Illustrator",
+					"location": "",
+					"description": "Create logos, icons, sketches, typography and complex illustrations for print, web, interactive, video and mobile. Follow along for Illustrator tips & tricks.",
+					"url": "https://t.co/2joJeTi45C",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/2joJeTi45C",
+									"expanded_url": "http://adobe.ly/IllustratorCC",
+									"display_url": "adobe.ly/IllustratorCC",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 408368,
+					"friends_count": 272,
+					"listed_count": 4617,
+					"created_at": "Wed Mar 11 20:22:34 +0000 2009",
+					"favourites_count": 2609,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 15337,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "1A1B1F",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/861988399/30137182f7dda0f22ee936b6f2cc0014.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/861988399/30137182f7dda0f22ee936b6f2cc0014.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/879913584456642560/BpvwVn-2_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/879913584456642560/BpvwVn-2_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/23822236/1508332572",
+					"profile_link_color": "E16614",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "E3E3E3",
+					"profile_text_color": "303030",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 9,
+				"favorite_count": 36,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 923293097471090700,
+		"quoted_status_id_str": "923293097471090690",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 25 09:46:01 +0000 2017",
 		"id": 923123474754814000,
 		"id_str": "923123474754813953",
