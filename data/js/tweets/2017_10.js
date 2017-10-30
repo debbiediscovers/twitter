@@ -1,6 +1,474 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Mon Oct 30 12:11:52 +0000 2017",
+		"id": 924972118462300200,
+		"id_str": "924972118462300160",
+		"text": "Why you need Outbound for Inbound Marketing! https://t.co/dML0gK8EoP via @nuzzel",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nuzzel",
+					"name": "Nuzzel",
+					"id": 106041193,
+					"id_str": "106041193",
+					"indices": [
+						73,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dML0gK8EoP",
+					"expanded_url": "https://buff.ly/2A0wwcn",
+					"display_url": "buff.ly/2A0wwcn",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31792,
+			"friends_count": 20692,
+			"listed_count": 971,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4772,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8715,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 30 12:04:41 +0000 2017",
+		"id": 924970308808867800,
+		"id_str": "924970308808867840",
+		"text": "How do you like your hamburger?? - @Verge https://t.co/CWz34frILF via @nuzzel",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "verge",
+					"name": "The Verge",
+					"id": 275686563,
+					"id_str": "275686563",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"screen_name": "nuzzel",
+					"name": "Nuzzel",
+					"id": 106041193,
+					"id_str": "106041193",
+					"indices": [
+						70,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CWz34frILF",
+					"expanded_url": "https://buff.ly/2gUcETP",
+					"display_url": "buff.ly/2gUcETP",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31792,
+			"friends_count": 20692,
+			"listed_count": 971,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4772,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8715,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 30 11:43:41 +0000 2017",
+		"id": 924965022375166000,
+		"id_str": "924965022375165952",
+		"text": "#mondaymotivation. Mind over matter! 😍 https://t.co/Vl83ueJiBx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mondaymotivation",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vl83ueJiBx",
+					"expanded_url": "https://twitter.com/singaporesail/status/924777277682053122",
+					"display_url": "twitter.com/singaporesail/…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31792,
+			"friends_count": 20692,
+			"listed_count": 971,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4772,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8715,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 924777277682053100,
+		"quoted_status_id_str": "924777277682053122",
+		"quoted_status": {
+			"created_at": "Sun Oct 29 23:17:39 +0000 2017",
+			"id": 924777277682053100,
+			"id_str": "924777277682053122",
+			"text": "#MondayMotivation 2 Words: Positive Mindset. 💪Here’s to a great week ahead everyone! #RoadtoTokyo2020 #SailforSG… https://t.co/kqEDuHV1qh",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MondayMotivation",
+						"indices": [
+							0,
+							17
+						]
+					},
+					{
+						"text": "RoadtoTokyo2020",
+						"indices": [
+							85,
+							101
+						]
+					},
+					{
+						"text": "SailforSG",
+						"indices": [
+							102,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kqEDuHV1qh",
+						"expanded_url": "https://twitter.com/i/web/status/924777277682053122",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 906430548641439700,
+				"id_str": "906430548641439744",
+				"name": "SG Sailing",
+				"screen_name": "SingaporeSail",
+				"location": "Singapore",
+				"description": "Official Twitter account for Singapore Sailing Federation. Join us on our Olympic voyage to bring Singapore glory from sea #MakingWavesTogether #Olympic2020",
+				"url": "https://t.co/8w7xJU5n9n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8w7xJU5n9n",
+								"expanded_url": "http://www.sailing.org.sg",
+								"display_url": "sailing.org.sg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1910,
+				"friends_count": 2042,
+				"listed_count": 9,
+				"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+				"favourites_count": 109,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 247,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+				"profile_link_color": "D10000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "da"
+	},
+	{
 		"created_at": "Mon Oct 30 09:32:01 +0000 2017",
 		"id": 924931887776251900,
 		"id_str": "924931887776251905",
