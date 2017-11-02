@@ -1,6 +1,2974 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Thu Nov 02 12:42:09 +0000 2017",
+		"id": 926066900106281000,
+		"id_str": "926066900106280960",
+		"text": "RT @debbiediscovers: @GrabSG #grabsgfail",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "grabsgfail",
+					"indices": [
+						29,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32930,
+			"friends_count": 21494,
+			"listed_count": 976,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4808,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 02 12:23:46 +0000 2017",
+			"id": 926062276234244100,
+			"id_str": "926062276234244096",
+			"text": "@GrabSG #grabsgfail",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "grabsgfail",
+						"indices": [
+							8,
+							19
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GrabSG",
+						"name": "Grab Singapore",
+						"id": 1724451330,
+						"id_str": "1724451330",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 926056657557303300,
+			"in_reply_to_status_id_str": "926056657557303296",
+			"in_reply_to_user_id": 1724451330,
+			"in_reply_to_user_id_str": "1724451330",
+			"in_reply_to_screen_name": "GrabSG",
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+				"url": "https://t.co/iftpTVexLs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iftpTVexLs",
+								"expanded_url": "https://about.me/debbiediscovers",
+								"display_url": "about.me/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32930,
+				"friends_count": 21494,
+				"listed_count": 976,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 4808,
+				"utc_offset": -39600,
+				"time_zone": "International Date Line West",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8761,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und"
+	},
+	{
+		"created_at": "Thu Nov 02 12:42:05 +0000 2017",
+		"id": 926066886915141600,
+		"id_str": "926066886915141636",
+		"text": "RT @debbiediscovers: @AvtarRamSingh @GrabSG Omg I’m having such a major issue with @grabsg cancellations. Never using @Grabsg again",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "AvtarRamSingh",
+					"name": "Avtar Ram Singh",
+					"id": 366406586,
+					"id_str": "366406586",
+					"indices": [
+						21,
+						35
+					]
+				},
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						36,
+						43
+					]
+				},
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						118,
+						125
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32930,
+			"friends_count": 21494,
+			"listed_count": 976,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4808,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 02 12:21:00 +0000 2017",
+			"id": 926061579786788900,
+			"id_str": "926061579786788864",
+			"text": "@AvtarRamSingh @GrabSG Omg I’m having such a major issue with @grabsg cancellations. Never using @Grabsg again",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AvtarRamSingh",
+						"name": "Avtar Ram Singh",
+						"id": 366406586,
+						"id_str": "366406586",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "GrabSG",
+						"name": "Grab Singapore",
+						"id": 1724451330,
+						"id_str": "1724451330",
+						"indices": [
+							15,
+							22
+						]
+					},
+					{
+						"screen_name": "GrabSG",
+						"name": "Grab Singapore",
+						"id": 1724451330,
+						"id_str": "1724451330",
+						"indices": [
+							62,
+							69
+						]
+					},
+					{
+						"screen_name": "GrabSG",
+						"name": "Grab Singapore",
+						"id": 1724451330,
+						"id_str": "1724451330",
+						"indices": [
+							97,
+							104
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 922423515227156500,
+			"in_reply_to_status_id_str": "922423515227156481",
+			"in_reply_to_user_id": 366406586,
+			"in_reply_to_user_id_str": "366406586",
+			"in_reply_to_screen_name": "AvtarRamSingh",
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+				"url": "https://t.co/iftpTVexLs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iftpTVexLs",
+								"expanded_url": "https://about.me/debbiediscovers",
+								"display_url": "about.me/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32930,
+				"friends_count": 21494,
+				"listed_count": 976,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 4808,
+				"utc_offset": -39600,
+				"time_zone": "International Date Line West",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8761,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 02 12:41:59 +0000 2017",
+		"id": 926066861082533900,
+		"id_str": "926066861082533889",
+		"text": "RT @debbiediscovers: @iamFeeKee @GrabSG Looks like a chronic problem. I’ve had that happen to me a lot too",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "iamFeeKee",
+					"name": "bobblehead",
+					"id": 34278304,
+					"id_str": "34278304",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						32,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32930,
+			"friends_count": 21494,
+			"listed_count": 976,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4808,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 02 12:18:50 +0000 2017",
+			"id": 926061035643007000,
+			"id_str": "926061035643006976",
+			"text": "@iamFeeKee @GrabSG Looks like a chronic problem. I’ve had that happen to me a lot too",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "iamFeeKee",
+						"name": "bobblehead",
+						"id": 34278304,
+						"id_str": "34278304",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "GrabSG",
+						"name": "Grab Singapore",
+						"id": 1724451330,
+						"id_str": "1724451330",
+						"indices": [
+							11,
+							18
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 924201183975051300,
+			"in_reply_to_status_id_str": "924201183975051264",
+			"in_reply_to_user_id": 34278304,
+			"in_reply_to_user_id_str": "34278304",
+			"in_reply_to_screen_name": "iamFeeKee",
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+				"url": "https://t.co/iftpTVexLs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iftpTVexLs",
+								"expanded_url": "https://about.me/debbiediscovers",
+								"display_url": "about.me/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32930,
+				"friends_count": 21494,
+				"listed_count": 976,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 4808,
+				"utc_offset": -39600,
+				"time_zone": "International Date Line West",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8761,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 02 12:23:46 +0000 2017",
+		"id": 926062276234244100,
+		"id_str": "926062276234244096",
+		"text": "@GrabSG #grabsgfail",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "grabsgfail",
+					"indices": [
+						8,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 926056657557303300,
+		"in_reply_to_status_id_str": "926056657557303296",
+		"in_reply_to_user_id": 1724451330,
+		"in_reply_to_user_id_str": "1724451330",
+		"in_reply_to_screen_name": "GrabSG",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32930,
+			"friends_count": 21494,
+			"listed_count": 976,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4808,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und"
+	},
+	{
+		"created_at": "Thu Nov 02 12:21:00 +0000 2017",
+		"id": 926061579786788900,
+		"id_str": "926061579786788864",
+		"text": "@AvtarRamSingh @GrabSG Omg I’m having such a major issue with @grabsg cancellations. Never using @Grabsg again",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AvtarRamSingh",
+					"name": "Avtar Ram Singh",
+					"id": 366406586,
+					"id_str": "366406586",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						62,
+						69
+					]
+				},
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						97,
+						104
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 922423515227156500,
+		"in_reply_to_status_id_str": "922423515227156481",
+		"in_reply_to_user_id": 366406586,
+		"in_reply_to_user_id_str": "366406586",
+		"in_reply_to_screen_name": "AvtarRamSingh",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32930,
+			"friends_count": 21494,
+			"listed_count": 976,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4808,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 02 12:20:16 +0000 2017",
+		"id": 926061396105748500,
+		"id_str": "926061396105748480",
+		"text": "RT @AvtarRamSingh: Got a @GrabSG for $7.\n\nDriver canceled after two minutes.\n\nFare is now $11.\n\nWhy should I pay extra, @GrabSG?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AvtarRamSingh",
+					"name": "Avtar Ram Singh",
+					"id": 366406586,
+					"id_str": "366406586",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						120,
+						127
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32930,
+			"friends_count": 21494,
+			"listed_count": 976,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4808,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 23 11:24:38 +0000 2017",
+			"id": 922423515227156500,
+			"id_str": "922423515227156481",
+			"text": "Got a @GrabSG for $7.\n\nDriver canceled after two minutes.\n\nFare is now $11.\n\nWhy should I pay extra, @GrabSG?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GrabSG",
+						"name": "Grab Singapore",
+						"id": 1724451330,
+						"id_str": "1724451330",
+						"indices": [
+							6,
+							13
+						]
+					},
+					{
+						"screen_name": "GrabSG",
+						"name": "Grab Singapore",
+						"id": 1724451330,
+						"id_str": "1724451330",
+						"indices": [
+							101,
+							108
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 366406586,
+				"id_str": "366406586",
+				"name": "Avtar Ram Singh",
+				"screen_name": "AvtarRamSingh",
+				"location": "Singapore",
+				"description": "Strategy, Data, Marketing, Content, Football, Movies, Literature. Possibly in that order. Once rumored to be Thor's stunt double. @SpursOfficial fan.",
+				"url": "https://t.co/a5tgIkVWXI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/a5tgIkVWXI",
+								"expanded_url": "https://linkedin.com/in/avtarramsingh",
+								"display_url": "linkedin.com/in/avtarramsin…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 156193,
+				"friends_count": 107025,
+				"listed_count": 1148,
+				"created_at": "Fri Sep 02 03:38:09 +0000 2011",
+				"favourites_count": 5524,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6383,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/749277085567332352/j5J50rCY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/749277085567332352/j5J50rCY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/366406586/1467477006",
+				"profile_link_color": "5C6767",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 02 12:18:50 +0000 2017",
+		"id": 926061035643007000,
+		"id_str": "926061035643006976",
+		"text": "@iamFeeKee @GrabSG Looks like a chronic problem. I’ve had that happen to me a lot too",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iamFeeKee",
+					"name": "bobblehead",
+					"id": 34278304,
+					"id_str": "34278304",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 924201183975051300,
+		"in_reply_to_status_id_str": "924201183975051264",
+		"in_reply_to_user_id": 34278304,
+		"in_reply_to_user_id_str": "34278304",
+		"in_reply_to_screen_name": "iamFeeKee",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32930,
+			"friends_count": 21494,
+			"listed_count": 976,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4808,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 02 12:18:35 +0000 2017",
+		"id": 926060968941035500,
+		"id_str": "926060968941035520",
+		"text": "RT @iamFeeKee: @GrabSG so yall gon make me wait 11min n 9mins fo two different rides n get cancelled both? Really? Fo real dawg?!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iamFeeKee",
+					"name": "bobblehead",
+					"id": 34278304,
+					"id_str": "34278304",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						15,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32930,
+			"friends_count": 21494,
+			"listed_count": 976,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4808,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 28 09:08:27 +0000 2017",
+			"id": 924201183975051300,
+			"id_str": "924201183975051264",
+			"text": "@GrabSG so yall gon make me wait 11min n 9mins fo two different rides n get cancelled both? Really? Fo real dawg?!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GrabSG",
+						"name": "Grab Singapore",
+						"id": 1724451330,
+						"id_str": "1724451330",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 1724451330,
+			"in_reply_to_user_id_str": "1724451330",
+			"in_reply_to_screen_name": "GrabSG",
+			"user": {
+				"id": 34278304,
+				"id_str": "34278304",
+				"name": "bobblehead",
+				"screen_name": "iamFeeKee",
+				"location": "Lion City #Twitterpura",
+				"description": "i aint a businessman im a business, man @DaFamSG since 2006 #SGSneakerheads/#teamcLIT",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1007,
+				"friends_count": 399,
+				"listed_count": 20,
+				"created_at": "Wed Apr 22 13:59:18 +0000 2009",
+				"favourites_count": 758,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 106082,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/490047461088436226/w6kZhUPd.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/490047461088436226/w6kZhUPd.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/867424826759290880/kRX8QK6X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/867424826759290880/kRX8QK6X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34278304/1456587011",
+				"profile_link_color": "0A090A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "75016D",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 02 12:18:26 +0000 2017",
+		"id": 926060935101288400,
+		"id_str": "926060935101288448",
+		"text": "RT @zeligdhilee: Extremely pissed with all 3 @GrabSG Drivers who can’t pick me at Suntec. Road closures aren’t an excuse when other Drivers…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zeligdhilee",
+					"name": "Zelig Dhi Lee",
+					"id": 226604286,
+					"id_str": "226604286",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						45,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32930,
+			"friends_count": 21494,
+			"listed_count": 976,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4808,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 28 12:38:04 +0000 2017",
+			"id": 924253935723933700,
+			"id_str": "924253935723933697",
+			"text": "Extremely pissed with all 3 @GrabSG Drivers who can’t pick me at Suntec. Road closures aren’t an excuse when other Drivers can enter.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GrabSG",
+						"name": "Grab Singapore",
+						"id": 1724451330,
+						"id_str": "1724451330",
+						"indices": [
+							28,
+							35
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 226604286,
+				"id_str": "226604286",
+				"name": "Zelig Dhi Lee",
+				"screen_name": "zeligdhilee",
+				"location": "Singapore",
+				"description": "NTU grad student. politics. youth development. environment. special needs. social entrepreneurship.",
+				"url": "https://t.co/ZlXdDhSRjU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZlXdDhSRjU",
+								"expanded_url": "http://sg.linkedin.com/in/zeligdhilee",
+								"display_url": "sg.linkedin.com/in/zeligdhilee",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 404,
+				"friends_count": 622,
+				"listed_count": 22,
+				"created_at": "Tue Dec 14 16:07:03 +0000 2010",
+				"favourites_count": 794,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11456,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/682208033527607296/5Ue4PX9F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/682208033527607296/5Ue4PX9F_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 02 12:17:55 +0000 2017",
+		"id": 926060802121052200,
+		"id_str": "926060802121052160",
+		"text": "RT @itsjunming: how can i change a driver’s rating? it should be 1 star instead of 5 @GrabSG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "itsjunming",
+					"name": "Jm",
+					"id": 302106785,
+					"id_str": "302106785",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						85,
+						92
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32930,
+			"friends_count": 21494,
+			"listed_count": 976,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4808,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 31 13:02:46 +0000 2017",
+			"id": 925347312695590900,
+			"id_str": "925347312695590913",
+			"text": "how can i change a driver’s rating? it should be 1 star instead of 5 @GrabSG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GrabSG",
+						"name": "Grab Singapore",
+						"id": 1724451330,
+						"id_str": "1724451330",
+						"indices": [
+							69,
+							76
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 302106785,
+				"id_str": "302106785",
+				"name": "Jm",
+				"screen_name": "itsjunming",
+				"location": "Yishun, Singapore",
+				"description": "i thank you for guessing my age as 20.",
+				"url": "https://t.co/U81bo176nO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/U81bo176nO",
+								"expanded_url": "https://Instagram.com/itsjunming/",
+								"display_url": "Instagram.com/itsjunming/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 352,
+				"friends_count": 272,
+				"listed_count": 10,
+				"created_at": "Fri May 20 16:19:28 +0000 2011",
+				"favourites_count": 159,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 44288,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/780716375/aabea896d4762182136f578dbc3c87a4.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/780716375/aabea896d4762182136f578dbc3c87a4.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/914500288802824193/gvmTL1e0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/914500288802824193/gvmTL1e0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/302106785/1509373335",
+				"profile_link_color": "858585",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 02 12:17:43 +0000 2017",
+		"id": 926060752011530200,
+		"id_str": "926060752011530241",
+		"text": "@ujustwatchme @GrabSG Omg I’ve had SIX cancellations after the driver sends me a “I’ve arrived” notification. Drives me NUTS!!!!!😡😡😡😡😡😡",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ujustwatchme",
+					"name": "WJ",
+					"id": 544795721,
+					"id_str": "544795721",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 925517339038068700,
+		"in_reply_to_status_id_str": "925517339038068736",
+		"in_reply_to_user_id": 544795721,
+		"in_reply_to_user_id_str": "544795721",
+		"in_reply_to_screen_name": "ujustwatchme",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32930,
+			"friends_count": 21494,
+			"listed_count": 976,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4808,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 02 12:16:44 +0000 2017",
+		"id": 926060504203669500,
+		"id_str": "926060504203669506",
+		"text": "RT @ujustwatchme: Can’t believe 2 cancellation even when the driver pass by the lobby. Wasted my time. @GrabSG https://t.co/ZTapZnFeAK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ujustwatchme",
+					"name": "WJ",
+					"id": 544795721,
+					"id_str": "544795721",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						103,
+						110
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 925517332981604400,
+					"id_str": "925517332981604352",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DNgZHFnV4AAeEZk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DNgZHFnV4AAeEZk.jpg",
+					"url": "https://t.co/ZTapZnFeAK",
+					"display_url": "pic.twitter.com/ZTapZnFeAK",
+					"expanded_url": "https://twitter.com/ujustwatchme/status/925517339038068736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 778,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 778,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 925517339038068700,
+					"source_status_id_str": "925517339038068736",
+					"source_user_id": 544795721,
+					"source_user_id_str": "544795721"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 925517332981604400,
+					"id_str": "925517332981604352",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DNgZHFnV4AAeEZk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DNgZHFnV4AAeEZk.jpg",
+					"url": "https://t.co/ZTapZnFeAK",
+					"display_url": "pic.twitter.com/ZTapZnFeAK",
+					"expanded_url": "https://twitter.com/ujustwatchme/status/925517339038068736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 778,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 778,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 925517339038068700,
+					"source_status_id_str": "925517339038068736",
+					"source_user_id": 544795721,
+					"source_user_id_str": "544795721"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32930,
+			"friends_count": 21494,
+			"listed_count": 976,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4808,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 01 00:18:23 +0000 2017",
+			"id": 925517339038068700,
+			"id_str": "925517339038068736",
+			"text": "Can’t believe 2 cancellation even when the driver pass by the lobby. Wasted my time. @GrabSG https://t.co/ZTapZnFeAK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GrabSG",
+						"name": "Grab Singapore",
+						"id": 1724451330,
+						"id_str": "1724451330",
+						"indices": [
+							85,
+							92
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 925517332981604400,
+						"id_str": "925517332981604352",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DNgZHFnV4AAeEZk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNgZHFnV4AAeEZk.jpg",
+						"url": "https://t.co/ZTapZnFeAK",
+						"display_url": "pic.twitter.com/ZTapZnFeAK",
+						"expanded_url": "https://twitter.com/ujustwatchme/status/925517339038068736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 750,
+								"h": 778,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 778,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 656,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 925517332981604400,
+						"id_str": "925517332981604352",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DNgZHFnV4AAeEZk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNgZHFnV4AAeEZk.jpg",
+						"url": "https://t.co/ZTapZnFeAK",
+						"display_url": "pic.twitter.com/ZTapZnFeAK",
+						"expanded_url": "https://twitter.com/ujustwatchme/status/925517339038068736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 750,
+								"h": 778,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 778,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 656,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 544795721,
+				"id_str": "544795721",
+				"name": "WJ",
+				"screen_name": "ujustwatchme",
+				"location": "SG, JURONG",
+				"description": "shorter than giraffe | Owner of Rabbit Island",
+				"url": "https://t.co/G5xW8XtVF4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G5xW8XtVF4",
+								"expanded_url": "http://Instagram.com/awrkfic",
+								"display_url": "Instagram.com/awrkfic",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 221,
+				"friends_count": 213,
+				"listed_count": 2,
+				"created_at": "Wed Apr 04 03:13:17 +0000 2012",
+				"favourites_count": 1038,
+				"utc_offset": 28800,
+				"time_zone": "Beijing",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3496,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/762015313/65d67fac4ce41b4bd9b9eb5e58730773.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/762015313/65d67fac4ce41b4bd9b9eb5e58730773.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/868382511033757701/KDPKTGFk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/868382511033757701/KDPKTGFk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/544795721/1464613991",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 02 12:16:17 +0000 2017",
+		"id": 926060393205604400,
+		"id_str": "926060393205604352",
+		"text": "@xxfreenxx_ @GrabSG Totally agree!!!! Getting worse and worse. And bribing us with cash promos does not work if you… https://t.co/WV3DFgFR3I",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xxfreenxx_",
+					"name": "afr.eenn",
+					"id": 587412406,
+					"id_str": "587412406",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						12,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WV3DFgFR3I",
+					"expanded_url": "https://twitter.com/i/web/status/926060393205604352",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 925664602511126500,
+		"in_reply_to_status_id_str": "925664602511126529",
+		"in_reply_to_user_id": 587412406,
+		"in_reply_to_user_id_str": "587412406",
+		"in_reply_to_screen_name": "xxfreenxx_",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32930,
+			"friends_count": 21494,
+			"listed_count": 976,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4808,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 02 12:15:45 +0000 2017",
+		"id": 926060256811139100,
+		"id_str": "926060256811139073",
+		"text": "RT @xxfreenxx_: @GrabSG service getting worst. I can’t even add my card details on the grabpay page. after calling grab , issue still wasn’…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xxfreenxx_",
+					"name": "afr.eenn",
+					"id": 587412406,
+					"id_str": "587412406",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32930,
+			"friends_count": 21494,
+			"listed_count": 976,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4808,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 01 10:03:33 +0000 2017",
+			"id": 925664602511126500,
+			"id_str": "925664602511126529",
+			"text": "@GrabSG service getting worst. I can’t even add my card details on the grabpay page. after calling grab , issue still wasn’t solve.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GrabSG",
+						"name": "Grab Singapore",
+						"id": 1724451330,
+						"id_str": "1724451330",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 1724451330,
+			"in_reply_to_user_id_str": "1724451330",
+			"in_reply_to_screen_name": "GrabSG",
+			"user": {
+				"id": 587412406,
+				"id_str": "587412406",
+				"name": "afr.eenn",
+				"screen_name": "xxfreenxx_",
+				"location": "",
+				"description": "I don't trust everyone nowadays, because behind every fake smile there's a fucking backstabber 👌💯",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1556,
+				"friends_count": 2397,
+				"listed_count": 8,
+				"created_at": "Tue May 22 13:06:08 +0000 2012",
+				"favourites_count": 22111,
+				"utc_offset": 28800,
+				"time_zone": "Beijing",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 70368,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/432107377307811842/b62ySUc-.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/432107377307811842/b62ySUc-.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/916982799101333504/wPW0AleC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/916982799101333504/wPW0AleC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/587412406/1506023596",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 02 12:15:25 +0000 2017",
+		"id": 926060174007087100,
+		"id_str": "926060174007087104",
+		"text": "@dhirajkumarsi16 @GrabSG My grab  experience sucks too!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dhirajkumarsi16",
+					"name": "Dhiraj Singh",
+					"id": 808169492,
+					"id_str": "808169492",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						17,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 925904248130347000,
+		"in_reply_to_status_id_str": "925904248130347008",
+		"in_reply_to_user_id": 808169492,
+		"in_reply_to_user_id_str": "808169492",
+		"in_reply_to_screen_name": "dhirajkumarsi16",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32930,
+			"friends_count": 21494,
+			"listed_count": 976,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4808,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 02 12:14:57 +0000 2017",
+		"id": 926060056231100400,
+		"id_str": "926060056231100417",
+		"text": "@in_sane_ @GrabSG I’m super disappointed with grab too",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "in_sane_",
+					"name": "pray",
+					"id": 2935587932,
+					"id_str": "2935587932",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 925936709434466300,
+		"in_reply_to_status_id_str": "925936709434466304",
+		"in_reply_to_user_id": 2935587932,
+		"in_reply_to_user_id_str": "2935587932",
+		"in_reply_to_screen_name": "in_sane_",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Discovery Enthusiast. Insatiably curious. Obsessed with Data, Digital & Design. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32930,
+			"friends_count": 21494,
+			"listed_count": 976,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4808,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 02 11:42:26 +0000 2017",
 		"id": 926051871747223600,
 		"id_str": "926051871747223552",
