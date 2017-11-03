@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Fri Nov 03 18:31:54 +0000 2017",
+		"id": 926517305479012400,
+		"id_str": "926517305479012352",
+		"text": "RT @DataBreachToday: Massive Malaysian data breach affects millions https://t.co/btmRFXBHeN by @Jeremy_Kirk\nPOV: @troyhunt @BryceBoland  @h…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DataBreachToday",
+					"name": "DataBreachToday",
+					"id": 386744032,
+					"id_str": "386744032",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "Jeremy_Kirk",
+					"name": "Jeremy Kirk",
+					"id": 18629282,
+					"id_str": "18629282",
+					"indices": [
+						95,
+						107
+					]
+				},
+				{
+					"screen_name": "troyhunt",
+					"name": "Troy Hunt",
+					"id": 14414286,
+					"id_str": "14414286",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"screen_name": "BryceBoland",
+					"name": "Bryce Boland",
+					"id": 1885910293,
+					"id_str": "1885910293",
+					"indices": [
+						123,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/btmRFXBHeN",
+					"expanded_url": "http://bit.ly/2zpEAX7",
+					"display_url": "bit.ly/2zpEAX7",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33100,
+			"friends_count": 22258,
+			"listed_count": 974,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4835,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8784,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 03 06:04:00 +0000 2017",
+			"id": 926329092391166000,
+			"id_str": "926329092391165953",
+			"text": "Massive Malaysian data breach affects millions https://t.co/btmRFXBHeN by @Jeremy_Kirk\nPOV: @troyhunt @BryceBoland… https://t.co/OjIUEYSJAS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Jeremy_Kirk",
+						"name": "Jeremy Kirk",
+						"id": 18629282,
+						"id_str": "18629282",
+						"indices": [
+							74,
+							86
+						]
+					},
+					{
+						"screen_name": "troyhunt",
+						"name": "Troy Hunt",
+						"id": 14414286,
+						"id_str": "14414286",
+						"indices": [
+							92,
+							101
+						]
+					},
+					{
+						"screen_name": "BryceBoland",
+						"name": "Bryce Boland",
+						"id": 1885910293,
+						"id_str": "1885910293",
+						"indices": [
+							102,
+							114
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/btmRFXBHeN",
+						"expanded_url": "http://bit.ly/2zpEAX7",
+						"display_url": "bit.ly/2zpEAX7",
+						"indices": [
+							47,
+							70
+						]
+					},
+					{
+						"url": "https://t.co/OjIUEYSJAS",
+						"expanded_url": "https://twitter.com/i/web/status/926329092391165953",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 386744032,
+				"id_str": "386744032",
+				"name": "DataBreachToday",
+				"screen_name": "DataBreachToday",
+				"location": "",
+				"description": "https://t.co/W3hdE2tDZS brings you the most up-to-date data breach detection, notification and prevention news. Part of the @ISMG_News network.",
+				"url": "http://t.co/PHze7EuT8o",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/PHze7EuT8o",
+								"expanded_url": "http://www.databreachtoday.com",
+								"display_url": "databreachtoday.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/W3hdE2tDZS",
+								"expanded_url": "https://DataBreachToday.com",
+								"display_url": "DataBreachToday.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4408,
+				"friends_count": 645,
+				"listed_count": 271,
+				"created_at": "Fri Oct 07 20:29:41 +0000 2011",
+				"favourites_count": 189,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4971,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEDEE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000077175192/b366a71365cc77ce40a195184ba372d0.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000077175192/b366a71365cc77ce40a195184ba372d0.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/484336518631149569/o8O3Kf9M_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/484336518631149569/o8O3Kf9M_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/386744032/1404309778",
+				"profile_link_color": "E67E22",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 10,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 03 16:07:03 +0000 2017",
 		"id": 926480856100888600,
 		"id_str": "926480856100888576",
