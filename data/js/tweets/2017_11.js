@@ -1,6 +1,960 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Mon Nov 06 10:55:45 +0000 2017",
+		"id": 927489675941396500,
+		"id_str": "927489675941396481",
+		"text": "@mykinderquotes Heh we’re a very new startup. Like who’s crazy enough to start a lipstick brand in this competitive… https://t.co/l7Y4SNmhXb",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mykinderquotes",
+					"name": "Amy C. Braun",
+					"id": 704849558694555600,
+					"id_str": "704849558694555649",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/l7Y4SNmhXb",
+					"expanded_url": "https://twitter.com/i/web/status/927489675941396481",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 927480449416548400,
+		"in_reply_to_status_id_str": "927480449416548352",
+		"in_reply_to_user_id": 704849558694555600,
+		"in_reply_to_user_id_str": "704849558694555649",
+		"in_reply_to_screen_name": "mykinderquotes",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33572,
+			"friends_count": 22478,
+			"listed_count": 983,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4877,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8847,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 06 10:37:10 +0000 2017",
+		"id": 927484999590223900,
+		"id_str": "927484999590223873",
+		"text": "This! Is seriously the most awesome project ever!!! ❤️😍well done @Microsoft https://t.co/eHWmQsxWQV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						65,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eHWmQsxWQV",
+					"expanded_url": "https://twitter.com/littlecoderssg/status/927285937410887680",
+					"display_url": "twitter.com/littlecoderssg…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33572,
+			"friends_count": 22478,
+			"listed_count": 983,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4877,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8847,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 927285937410887700,
+		"quoted_status_id_str": "927285937410887680",
+		"quoted_status": {
+			"created_at": "Sun Nov 05 21:26:10 +0000 2017",
+			"id": 927285937410887700,
+			"id_str": "927285937410887680",
+			"text": "With Project Torino, Microsoft creates a physical programming language inclusive of visually impaired children - ... https://t.co/XTpvaVT4F3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XTpvaVT4F3",
+						"expanded_url": "https://paper.li/littlecodersSG/1443500770?read=https%3A%2F%2Fblogs.microsoft.com%2Fai%2F2017%2F03%2F15%2Fproject%2Dtorino%2Dmicrosoft%2Dcreates%2Dphysical%2Dprogramming%2Dlanguage%2Dinclusive%2Dvisually%2Dimpaired%2Dchildren%2F",
+						"display_url": "paper.li/littlecodersSG…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://paper.li\" rel=\"nofollow\">Paper.li</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3188621004,
+				"id_str": "3188621004",
+				"name": "Little Coders SG",
+				"screen_name": "littlecoderssg",
+				"location": "Singapore",
+				"description": "Code ambassadors supporting the coding for kids movement globally. AI powered content. Occasional human touch delivered by @debbiediscovers 🤖😻",
+				"url": "https://t.co/gVziiEL7vp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gVziiEL7vp",
+								"expanded_url": "https://www.facebook.com/littlecoderssg",
+								"display_url": "facebook.com/littlecoderssg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 588,
+				"friends_count": 2670,
+				"listed_count": 59,
+				"created_at": "Fri May 08 11:37:06 +0000 2015",
+				"favourites_count": 239,
+				"utc_offset": -39600,
+				"time_zone": "Midway Island",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1434,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/660828387716411392/vWWGDPJK_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/660828387716411392/vWWGDPJK_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3188621004/1431619481",
+				"profile_link_color": "7BD7C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 06 10:36:25 +0000 2017",
+		"id": 927484811022704600,
+		"id_str": "927484811022704640",
+		"text": "RT @littlecoderssg: Steve Jobs Believed Everyone Should Learn This 1 Skill https://t.co/r1vBEad6pf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "littlecoderssg",
+					"name": "Little Coders SG",
+					"id": 3188621004,
+					"id_str": "3188621004",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/r1vBEad6pf",
+					"expanded_url": "https://www.inc.com/glenn-leibowitz/steve-jobs-believed-everyone-should-learn-this-1-s.html",
+					"display_url": "inc.com/glenn-leibowit…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33572,
+			"friends_count": 22478,
+			"listed_count": 983,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4877,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8847,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 06 09:26:13 +0000 2017",
+			"id": 927467143591006200,
+			"id_str": "927467143591006208",
+			"text": "Steve Jobs Believed Everyone Should Learn This 1 Skill https://t.co/r1vBEad6pf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/r1vBEad6pf",
+						"expanded_url": "https://www.inc.com/glenn-leibowitz/steve-jobs-believed-everyone-should-learn-this-1-s.html",
+						"display_url": "inc.com/glenn-leibowit…",
+						"indices": [
+							55,
+							78
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://paper.li\" rel=\"nofollow\">Paper.li</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3188621004,
+				"id_str": "3188621004",
+				"name": "Little Coders SG",
+				"screen_name": "littlecoderssg",
+				"location": "Singapore",
+				"description": "Code ambassadors supporting the coding for kids movement globally. AI powered content. Occasional human touch delivered by @debbiediscovers 🤖😻",
+				"url": "https://t.co/gVziiEL7vp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gVziiEL7vp",
+								"expanded_url": "https://www.facebook.com/littlecoderssg",
+								"display_url": "facebook.com/littlecoderssg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 588,
+				"friends_count": 2670,
+				"listed_count": 59,
+				"created_at": "Fri May 08 11:37:06 +0000 2015",
+				"favourites_count": 239,
+				"utc_offset": -39600,
+				"time_zone": "Midway Island",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1434,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/660828387716411392/vWWGDPJK_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/660828387716411392/vWWGDPJK_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3188621004/1431619481",
+				"profile_link_color": "7BD7C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 06 10:32:01 +0000 2017",
+		"id": 927483705525813200,
+		"id_str": "927483705525813255",
+		"text": "Why Your Next Hire Should Be a Cognitive Developer: IBM's Bob Lord on Marketing Smarts [Podcast] https://t.co/CNVEM0G4d8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CNVEM0G4d8",
+					"expanded_url": "https://www.marketingprofs.com/podcasts/2017/33004/martech-bob-lord-marketing-smarts",
+					"display_url": "marketingprofs.com/podcasts/2017/…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://drumup.io\" rel=\"nofollow\">drumup.io</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33572,
+			"friends_count": 22478,
+			"listed_count": 983,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4877,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8847,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 06 10:27:51 +0000 2017",
+		"id": 927482654664024000,
+		"id_str": "927482654664024064",
+		"text": "RT @jeremarketer: Another day, another Twitter censorship faux pas?\nhttps://t.co/cp7sE5z9t9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jeremarketer",
+					"name": "Jeremy Goldman",
+					"id": 6446772,
+					"id_str": "6446772",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cp7sE5z9t9",
+					"expanded_url": "https://www.theverge.com/2017/11/5/16610296/twitter-fixing-error-removed-bisexual-news-photo-videos-search-results",
+					"display_url": "theverge.com/2017/11/5/1661…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33572,
+			"friends_count": 22478,
+			"listed_count": 983,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4877,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8847,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 06 01:42:27 +0000 2017",
+			"id": 927350435387772900,
+			"id_str": "927350435387772928",
+			"text": "Another day, another Twitter censorship faux pas?\nhttps://t.co/cp7sE5z9t9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cp7sE5z9t9",
+						"expanded_url": "https://www.theverge.com/2017/11/5/16610296/twitter-fixing-error-removed-bisexual-news-photo-videos-search-results",
+						"display_url": "theverge.com/2017/11/5/1661…",
+						"indices": [
+							50,
+							73
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6446772,
+				"id_str": "6446772",
+				"name": "Jeremy Goldman",
+				"screen_name": "jeremarketer",
+				"location": "New York, NY",
+				"description": "Entrepreneur, strategist, author of the book @GoingSocial. @Inc & @TNW columnist. Founder, @FirebrandGrp. Call me a social media guru & I'll slap you silly.",
+				"url": "http://t.co/melpFNt1Xi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/melpFNt1Xi",
+								"expanded_url": "http://www.jeremygoldman.com",
+								"display_url": "jeremygoldman.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 64311,
+				"friends_count": 1046,
+				"listed_count": 2305,
+				"created_at": "Wed May 30 16:11:48 +0000 2007",
+				"favourites_count": 2833,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 74116,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/738087475/7206674cb3f43788fefa43d110f9d277.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/738087475/7206674cb3f43788fefa43d110f9d277.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/818209320923959296/WM6P8_dK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/818209320923959296/WM6P8_dK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6446772/1483911324",
+				"profile_link_color": "5C2FB5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 06 10:27:30 +0000 2017",
+		"id": 927482569318318100,
+		"id_str": "927482569318318080",
+		"text": "@jeremarketer Building a chatbot that only responds in gifs! Wanna chat to it when I’m done? 😬",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jeremarketer",
+					"name": "Jeremy Goldman",
+					"id": 6446772,
+					"id_str": "6446772",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 927350567776735200,
+		"in_reply_to_status_id_str": "927350567776735233",
+		"in_reply_to_user_id": 6446772,
+		"in_reply_to_user_id_str": "6446772",
+		"in_reply_to_screen_name": "jeremarketer",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33572,
+			"friends_count": 22478,
+			"listed_count": 983,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4877,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8847,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 06 09:08:58 +0000 2017",
 		"id": 927462802104631300,
 		"id_str": "927462802104631297",
