@@ -1,6 +1,564 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Fri Nov 10 10:59:13 +0000 2017",
+		"id": 928940101303812100,
+		"id_str": "928940101303812096",
+		"text": "RT @Alyssa_Milano: One tweet has brought together 1.7 million voices from 85 countries. Standing side by side, together, our movement will…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Alyssa_Milano",
+					"name": "Alyssa Milano",
+					"id": 26642006,
+					"id_str": "26642006",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34499,
+			"friends_count": 24894,
+			"listed_count": 976,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4946,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8910,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 24 14:05:20 +0000 2017",
+			"id": 922826342890131500,
+			"id_str": "922826342890131456",
+			"text": "One tweet has brought together 1.7 million voices from 85 countries. Standing side by side, together, our movement will only grow.  #MeToo",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MeToo",
+						"indices": [
+							132,
+							138
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26642006,
+				"id_str": "26642006",
+				"name": "Alyssa Milano",
+				"screen_name": "Alyssa_Milano",
+				"location": "Los Angeles",
+				"description": "🇺🇸 I get political/personal here. Check out @PatNotPart Also, please follow my other accounts if you only want career updates➛ @AlyssaDotCom @TouchByAM",
+				"url": "https://t.co/GY8OnR3Ehb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GY8OnR3Ehb",
+								"expanded_url": "http://Alyssa.com",
+								"display_url": "Alyssa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3281375,
+				"friends_count": 2314,
+				"listed_count": 36222,
+				"created_at": "Thu Mar 26 00:34:20 +0000 2009",
+				"favourites_count": 730,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 44915,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "260808",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/661959433/xe6d763cc8cba668262cc59c090da580.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/661959433/xe6d763cc8cba668262cc59c090da580.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/926529003959099392/I5CkFDld_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/926529003959099392/I5CkFDld_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26642006/1509736705",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "77BF56",
+				"profile_sidebar_fill_color": "A5C44F",
+				"profile_text_color": "EBE18F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5070,
+			"favorite_count": 28135,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5070,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 10 10:16:31 +0000 2017",
+		"id": 928929354595254300,
+		"id_str": "928929354595254272",
+		"text": "@RamjiGurjar007 As opposed to?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RamjiGurjar007",
+					"name": "Ramjilal Gurjar",
+					"id": 925767820692029400,
+					"id_str": "925767820692029440",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 928904572801896400,
+		"in_reply_to_status_id_str": "928904572801896449",
+		"in_reply_to_user_id": 925767820692029400,
+		"in_reply_to_user_id_str": "925767820692029440",
+		"in_reply_to_screen_name": "RamjiGurjar007",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34499,
+			"friends_count": 24894,
+			"listed_count": 976,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4946,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8910,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 10 10:16:03 +0000 2017",
+		"id": 928929237876162600,
+		"id_str": "928929237876162562",
+		"text": "@johnmayerauthor @filmdailyco @RepLawyer @juliet_cromwell @NOefinger @ericlahti1 #fridayfeeling #friyay hello!! https://t.co/B7gtbWm92e",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fridayfeeling",
+					"indices": [
+						81,
+						95
+					]
+				},
+				{
+					"text": "friyay",
+					"indices": [
+						96,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johnmayerauthor",
+					"name": "John Mayer",
+					"id": 3295245730,
+					"id_str": "3295245730",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "filmdailyco",
+					"name": "Film Daily",
+					"id": 877994481211105300,
+					"id_str": "877994481211105281",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "RepLawyer",
+					"name": "Aaron Minc",
+					"id": 221494964,
+					"id_str": "221494964",
+					"indices": [
+						30,
+						40
+					]
+				},
+				{
+					"screen_name": "juliet_cromwell",
+					"name": "Juliet Cromwell",
+					"id": 4821253223,
+					"id_str": "4821253223",
+					"indices": [
+						41,
+						57
+					]
+				},
+				{
+					"screen_name": "NOefinger",
+					"name": "Nick Oefinger",
+					"id": 783615778297815000,
+					"id_str": "783615778297815040",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"screen_name": "ericlahti1",
+					"name": "Eric Lahti",
+					"id": 2675543232,
+					"id_str": "2675543232",
+					"indices": [
+						69,
+						80
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 928929225750470700,
+					"id_str": "928929225750470656",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DOQ4NYpV4AAuScM.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOQ4NYpV4AAuScM.jpg",
+					"url": "https://t.co/B7gtbWm92e",
+					"display_url": "pic.twitter.com/B7gtbWm92e",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/928929237876162562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 928929225750470700,
+					"id_str": "928929225750470656",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DOQ4NYpV4AAuScM.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOQ4NYpV4AAuScM.jpg",
+					"url": "https://t.co/B7gtbWm92e",
+					"display_url": "pic.twitter.com/B7gtbWm92e",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/928929237876162562/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DOQ4NYpV4AAuScM.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 928907624153866200,
+		"in_reply_to_status_id_str": "928907624153866240",
+		"in_reply_to_user_id": 3295245730,
+		"in_reply_to_user_id_str": "3295245730",
+		"in_reply_to_screen_name": "johnmayerauthor",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34499,
+			"friends_count": 24894,
+			"listed_count": 976,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4946,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8910,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 10 09:06:01 +0000 2017",
 		"id": 928911611749732400,
 		"id_str": "928911611749732352",
