@@ -1,6 +1,953 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sat Nov 11 10:23:28 +0000 2017",
+		"id": 929293489900159000,
+		"id_str": "929293489900158976",
+		"text": "RT @osakasaul: 10 #Brands That Already Rock #Twitter’s New #280Character Limit ~ @GeoffDx ⛔🗿 https://t.co/CM6RYxCZtm #smm #contentmarketing…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Brands",
+					"indices": [
+						18,
+						25
+					]
+				},
+				{
+					"text": "Twitter",
+					"indices": [
+						44,
+						52
+					]
+				},
+				{
+					"text": "280Character",
+					"indices": [
+						59,
+						72
+					]
+				},
+				{
+					"text": "smm",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "contentmarketing",
+					"indices": [
+						122,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "osakasaul",
+					"name": "Saul Fleischman",
+					"id": 54516534,
+					"id_str": "54516534",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "Geoffdx",
+					"name": "Geoff Desreumaux 🤓",
+					"id": 150586604,
+					"id_str": "150586604",
+					"indices": [
+						81,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CM6RYxCZtm",
+					"expanded_url": "http://rite.ly/K5dW",
+					"display_url": "rite.ly/K5dW",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34827,
+			"friends_count": 24679,
+			"listed_count": 977,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4991,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8935,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 11 00:11:54 +0000 2017",
+			"id": 929139587091435500,
+			"id_str": "929139587091435520",
+			"text": "10 #Brands That Already Rock #Twitter’s New #280Character Limit ~ @GeoffDx ⛔🗿 https://t.co/CM6RYxCZtm #smm… https://t.co/rgO8NZf59w",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Brands",
+						"indices": [
+							3,
+							10
+						]
+					},
+					{
+						"text": "Twitter",
+						"indices": [
+							29,
+							37
+						]
+					},
+					{
+						"text": "280Character",
+						"indices": [
+							44,
+							57
+						]
+					},
+					{
+						"text": "smm",
+						"indices": [
+							102,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Geoffdx",
+						"name": "Geoff Desreumaux 🤓",
+						"id": 150586604,
+						"id_str": "150586604",
+						"indices": [
+							66,
+							74
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CM6RYxCZtm",
+						"expanded_url": "http://rite.ly/K5dW",
+						"display_url": "rite.ly/K5dW",
+						"indices": [
+							78,
+							101
+						]
+					},
+					{
+						"url": "https://t.co/rgO8NZf59w",
+						"expanded_url": "https://twitter.com/i/web/status/929139587091435520",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ritekit.com\" rel=\"nofollow\">RiteKit</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54516534,
+				"id_str": "54516534",
+				"name": "Saul Fleischman",
+				"screen_name": "osakasaul",
+				"location": "Osaka, Japan",
+				"description": "CEO @Rite_Kit: @RiteForge, @RitePush @Rite_ly & @RiteTag SaaS tools for socialmedia creation, publishing, automation & analytics solutions for inbound marketers",
+				"url": "https://t.co/FibQsRXQ1K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FibQsRXQ1K",
+								"expanded_url": "https://ritekit.com",
+								"display_url": "ritekit.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28249,
+				"friends_count": 1446,
+				"listed_count": 1936,
+				"created_at": "Tue Jul 07 11:17:46 +0000 2009",
+				"favourites_count": 5591,
+				"utc_offset": 32400,
+				"time_zone": "Osaka",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 54558,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/700594337520824320/O1niECfo.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/700594337520824320/O1niECfo.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/617175360573050880/NpvwTkt3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/617175360573050880/NpvwTkt3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54516534/1470567182",
+				"profile_link_color": "C02F92",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 11 10:23:18 +0000 2017",
+		"id": 929293450192678900,
+		"id_str": "929293450192678912",
+		"text": "RT @osakasaul: 6 Fantastic #Free Tools For Powerful #ContentMarketing 🗓💰⚒ https://t.co/RqMEYZy0PT https://t.co/2Pu0s41EqT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Free",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "ContentMarketing",
+					"indices": [
+						52,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "osakasaul",
+					"name": "Saul Fleischman",
+					"id": 54516534,
+					"id_str": "54516534",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RqMEYZy0PT",
+					"expanded_url": "http://rite.ly/K5Kc",
+					"display_url": "rite.ly/K5Kc",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 929153680934359000,
+					"id_str": "929153680934359040",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DOUEWZXW0AAQLMS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOUEWZXW0AAQLMS.jpg",
+					"url": "https://t.co/2Pu0s41EqT",
+					"display_url": "pic.twitter.com/2Pu0s41EqT",
+					"expanded_url": "https://twitter.com/osakasaul/status/929153684231086080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 929153684231086100,
+					"source_status_id_str": "929153684231086080",
+					"source_user_id": 54516534,
+					"source_user_id_str": "54516534"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 929153680934359000,
+					"id_str": "929153680934359040",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DOUEWZXW0AAQLMS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOUEWZXW0AAQLMS.jpg",
+					"url": "https://t.co/2Pu0s41EqT",
+					"display_url": "pic.twitter.com/2Pu0s41EqT",
+					"expanded_url": "https://twitter.com/osakasaul/status/929153684231086080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 929153684231086100,
+					"source_status_id_str": "929153684231086080",
+					"source_user_id": 54516534,
+					"source_user_id_str": "54516534"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34827,
+			"friends_count": 24679,
+			"listed_count": 977,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4991,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8935,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 11 01:07:55 +0000 2017",
+			"id": 929153684231086100,
+			"id_str": "929153684231086080",
+			"text": "6 Fantastic #Free Tools For Powerful #ContentMarketing 🗓💰⚒ https://t.co/RqMEYZy0PT https://t.co/2Pu0s41EqT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Free",
+						"indices": [
+							12,
+							17
+						]
+					},
+					{
+						"text": "ContentMarketing",
+						"indices": [
+							37,
+							54
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RqMEYZy0PT",
+						"expanded_url": "http://rite.ly/K5Kc",
+						"display_url": "rite.ly/K5Kc",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 929153680934359000,
+						"id_str": "929153680934359040",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/DOUEWZXW0AAQLMS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOUEWZXW0AAQLMS.jpg",
+						"url": "https://t.co/2Pu0s41EqT",
+						"display_url": "pic.twitter.com/2Pu0s41EqT",
+						"expanded_url": "https://twitter.com/osakasaul/status/929153684231086080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 850,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 929153680934359000,
+						"id_str": "929153680934359040",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/DOUEWZXW0AAQLMS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOUEWZXW0AAQLMS.jpg",
+						"url": "https://t.co/2Pu0s41EqT",
+						"display_url": "pic.twitter.com/2Pu0s41EqT",
+						"expanded_url": "https://twitter.com/osakasaul/status/929153684231086080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 850,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ritekit.com\" rel=\"nofollow\">RiteKit</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54516534,
+				"id_str": "54516534",
+				"name": "Saul Fleischman",
+				"screen_name": "osakasaul",
+				"location": "Osaka, Japan",
+				"description": "CEO @Rite_Kit: @RiteForge, @RitePush @Rite_ly & @RiteTag SaaS tools for socialmedia creation, publishing, automation & analytics solutions for inbound marketers",
+				"url": "https://t.co/FibQsRXQ1K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FibQsRXQ1K",
+								"expanded_url": "https://ritekit.com",
+								"display_url": "ritekit.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28249,
+				"friends_count": 1446,
+				"listed_count": 1936,
+				"created_at": "Tue Jul 07 11:17:46 +0000 2009",
+				"favourites_count": 5591,
+				"utc_offset": 32400,
+				"time_zone": "Osaka",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 54558,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/700594337520824320/O1niECfo.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/700594337520824320/O1niECfo.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/617175360573050880/NpvwTkt3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/617175360573050880/NpvwTkt3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54516534/1470567182",
+				"profile_link_color": "C02F92",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 11 10:23:04 +0000 2017",
+		"id": 929293390855811100,
+		"id_str": "929293390855811072",
+		"text": "@osakasaul @MogulTechINT I saw that this morning and thought of you guys! ❤️",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "osakasaul",
+					"name": "Saul Fleischman",
+					"id": 54516534,
+					"id_str": "54516534",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "MogulTechINT",
+					"name": "Mogul Tech",
+					"id": 904351312103354400,
+					"id_str": "904351312103354368",
+					"indices": [
+						11,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 929267551233654800,
+		"in_reply_to_status_id_str": "929267551233654784",
+		"in_reply_to_user_id": 54516534,
+		"in_reply_to_user_id_str": "54516534",
+		"in_reply_to_screen_name": "osakasaul",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34827,
+			"friends_count": 24679,
+			"listed_count": 977,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4991,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8935,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 11 10:22:09 +0000 2017",
+		"id": 929293160001372200,
+		"id_str": "929293160001372160",
+		"text": "@osakasaul @EdPlotts @RiteTag Great advice! Thanks Saul! ❤️",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "osakasaul",
+					"name": "Saul Fleischman",
+					"id": 54516534,
+					"id_str": "54516534",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "EdPlotts",
+					"name": "Ed Plotts",
+					"id": 546356462,
+					"id_str": "546356462",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "RiteTag",
+					"name": "RiteTag",
+					"id": 140362525,
+					"id_str": "140362525",
+					"indices": [
+						21,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 929182474390798300,
+		"in_reply_to_status_id_str": "929182474390798336",
+		"in_reply_to_user_id": 54516534,
+		"in_reply_to_user_id_str": "54516534",
+		"in_reply_to_screen_name": "osakasaul",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34827,
+			"friends_count": 24679,
+			"listed_count": 977,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4991,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8935,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 11 09:50:01 +0000 2017",
 		"id": 929285073194455000,
 		"id_str": "929285073194455046",
