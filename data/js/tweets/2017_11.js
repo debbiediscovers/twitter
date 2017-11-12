@@ -1,6 +1,399 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sun Nov 12 04:35:01 +0000 2017",
+		"id": 929568187192025100,
+		"id_str": "929568187192025088",
+		"text": "RT @wef: Would you ace these Oxford University interview questions? https://t.co/mtWIGh5GN5 #education https://t.co/guVERSv58U",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "education",
+					"indices": [
+						92,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wef",
+					"name": "World Economic Forum",
+					"id": 5120691,
+					"id_str": "5120691",
+					"indices": [
+						3,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mtWIGh5GN5",
+					"expanded_url": "http://wef.ch/2yW9q9k",
+					"display_url": "wef.ch/2yW9q9k",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 929392562426798100,
+					"id_str": "929392562426798081",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DOXdnIRW4AEWa8J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOXdnIRW4AEWa8J.jpg",
+					"url": "https://t.co/guVERSv58U",
+					"display_url": "pic.twitter.com/guVERSv58U",
+					"expanded_url": "https://twitter.com/wef/status/929392564658204672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 485,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 485,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 929392564658204700,
+					"source_status_id_str": "929392564658204672",
+					"source_user_id": 5120691,
+					"source_user_id_str": "5120691"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 929392562426798100,
+					"id_str": "929392562426798081",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DOXdnIRW4AEWa8J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOXdnIRW4AEWa8J.jpg",
+					"url": "https://t.co/guVERSv58U",
+					"display_url": "pic.twitter.com/guVERSv58U",
+					"expanded_url": "https://twitter.com/wef/status/929392564658204672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 485,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 485,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 929392564658204700,
+					"source_status_id_str": "929392564658204672",
+					"source_user_id": 5120691,
+					"source_user_id_str": "5120691"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34900,
+			"friends_count": 23629,
+			"listed_count": 975,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 4992,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8943,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 11 16:57:09 +0000 2017",
+			"id": 929392564658204700,
+			"id_str": "929392564658204672",
+			"text": "Would you ace these Oxford University interview questions? https://t.co/mtWIGh5GN5 #education https://t.co/guVERSv58U",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "education",
+						"indices": [
+							83,
+							93
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mtWIGh5GN5",
+						"expanded_url": "http://wef.ch/2yW9q9k",
+						"display_url": "wef.ch/2yW9q9k",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 929392562426798100,
+						"id_str": "929392562426798081",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DOXdnIRW4AEWa8J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOXdnIRW4AEWa8J.jpg",
+						"url": "https://t.co/guVERSv58U",
+						"display_url": "pic.twitter.com/guVERSv58U",
+						"expanded_url": "https://twitter.com/wef/status/929392564658204672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 485,
+								"h": 295,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 485,
+								"h": 295,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 485,
+								"h": 295,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 929392562426798100,
+						"id_str": "929392562426798081",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DOXdnIRW4AEWa8J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOXdnIRW4AEWa8J.jpg",
+						"url": "https://t.co/guVERSv58U",
+						"display_url": "pic.twitter.com/guVERSv58U",
+						"expanded_url": "https://twitter.com/wef/status/929392564658204672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 485,
+								"h": 295,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 485,
+								"h": 295,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 485,
+								"h": 295,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5120691,
+				"id_str": "5120691",
+				"name": "World Economic Forum",
+				"screen_name": "wef",
+				"location": "Geneva, Switzerland",
+				"description": "The international organization for public private cooperation. Follow us for research, insight and analysis on global issues",
+				"url": "https://t.co/1vmI17VRPv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1vmI17VRPv",
+								"expanded_url": "http://wef.ch/agenda",
+								"display_url": "wef.ch/agenda",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3200882,
+				"friends_count": 346,
+				"listed_count": 23345,
+				"created_at": "Wed Apr 18 14:00:19 +0000 2007",
+				"favourites_count": 1913,
+				"utc_offset": 3600,
+				"time_zone": "Bern",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 101174,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCFCFC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459256738458267648/NQmn-I-R.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459256738458267648/NQmn-I-R.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/565498192171507712/r2Hb2gvX_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/565498192171507712/r2Hb2gvX_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5120691/1498537802",
+				"profile_link_color": "419FCF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Nov 12 03:44:27 +0000 2017",
 		"id": 929555463313662000,
 		"id_str": "929555463313661952",
