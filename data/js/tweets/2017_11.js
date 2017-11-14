@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Tue Nov 14 09:56:42 +0000 2017",
+		"id": 930373918287728600,
+		"id_str": "930373918287728645",
+		"text": "RT @piersmorgan: This is why I love Twitter. https://t.co/HOq3S3jHqq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "piersmorgan",
+					"name": "Piers Morgan",
+					"id": 216299334,
+					"id_str": "216299334",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 928561360983687200,
+					"id_str": "928561360983687168",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DOLpo1mWAAAlwq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOLpo1mWAAAlwq1.jpg",
+					"url": "https://t.co/HOq3S3jHqq",
+					"display_url": "pic.twitter.com/HOq3S3jHqq",
+					"expanded_url": "https://twitter.com/piersmorgan/status/928561362892140544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1115,
+							"h": 1574,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 928561362892140500,
+					"source_status_id_str": "928561362892140544",
+					"source_user_id": 216299334,
+					"source_user_id_str": "216299334"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 928561360983687200,
+					"id_str": "928561360983687168",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DOLpo1mWAAAlwq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOLpo1mWAAAlwq1.jpg",
+					"url": "https://t.co/HOq3S3jHqq",
+					"display_url": "pic.twitter.com/HOq3S3jHqq",
+					"expanded_url": "https://twitter.com/piersmorgan/status/928561362892140544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1115,
+							"h": 1574,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 928561362892140500,
+					"source_status_id_str": "928561362892140544",
+					"source_user_id": 216299334,
+					"source_user_id_str": "216299334"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34985,
+			"friends_count": 22177,
+			"listed_count": 980,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 5012,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8966,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 09:54:15 +0000 2017",
+			"id": 928561362892140500,
+			"id_str": "928561362892140544",
+			"text": "This is why I love Twitter. https://t.co/HOq3S3jHqq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 928561360983687200,
+						"id_str": "928561360983687168",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DOLpo1mWAAAlwq1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOLpo1mWAAAlwq1.jpg",
+						"url": "https://t.co/HOq3S3jHqq",
+						"display_url": "pic.twitter.com/HOq3S3jHqq",
+						"expanded_url": "https://twitter.com/piersmorgan/status/928561362892140544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1115,
+								"h": 1574,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 850,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 482,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 928561360983687200,
+						"id_str": "928561360983687168",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DOLpo1mWAAAlwq1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOLpo1mWAAAlwq1.jpg",
+						"url": "https://t.co/HOq3S3jHqq",
+						"display_url": "pic.twitter.com/HOq3S3jHqq",
+						"expanded_url": "https://twitter.com/piersmorgan/status/928561362892140544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1115,
+								"h": 1574,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 850,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 482,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 216299334,
+				"id_str": "216299334",
+				"name": "Piers Morgan",
+				"screen_name": "piersmorgan",
+				"location": "London, Newick, LA. ",
+				"description": "'One day you're the cock of the walk, the next a feather duster.'",
+				"url": "https://t.co/TH9Sq5e5X5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TH9Sq5e5X5",
+								"expanded_url": "https://www.instagram.com/thepiersmorgan/",
+								"display_url": "instagram.com/thepiersmorgan/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6215147,
+				"friends_count": 1576,
+				"listed_count": 18696,
+				"created_at": "Tue Nov 16 09:37:44 +0000 2010",
+				"favourites_count": 15,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 108527,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "EBC1CB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/488416101148004352/9Rcg3pxs.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/488416101148004352/9Rcg3pxs.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/870221940690124801/Uiu7aejS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/870221940690124801/Uiu7aejS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/216299334/1440168979",
+				"profile_link_color": "B30024",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4386,
+			"favorite_count": 10559,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4386,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 14 08:44:01 +0000 2017",
 		"id": 930355628324765700,
 		"id_str": "930355628324765696",
