@@ -1,6 +1,864 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 15 19:32:09 +0000 2017",
+		"id": 930881125521621000,
+		"id_str": "930881125521620993",
+		"text": "RT @SaijoGeorge: Just saw that 2 of @SuppleSolutions #SEO tools were mentioned in @ahrefs latest post: https://t.co/qhhKHx5lz7 , thanks @Jo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEO",
+					"indices": [
+						53,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SaijoGeorge",
+					"name": "Saijo George",
+					"id": 633856429,
+					"id_str": "633856429",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "SuppleSolutions",
+					"name": "Supple",
+					"id": 802453494,
+					"id_str": "802453494",
+					"indices": [
+						36,
+						52
+					]
+				},
+				{
+					"screen_name": "ahrefs",
+					"name": "Ahrefs.com",
+					"id": 256999501,
+					"id_str": "256999501",
+					"indices": [
+						82,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qhhKHx5lz7",
+					"expanded_url": "https://ahrefs.com/blog/free-seo-tools/",
+					"display_url": "ahrefs.com/blog/free-seo-…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35108,
+			"friends_count": 21901,
+			"listed_count": 984,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 5030,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 14 03:05:16 +0000 2017",
+			"id": 930270377212764200,
+			"id_str": "930270377212764160",
+			"text": "Just saw that 2 of @SuppleSolutions #SEO tools were mentioned in @ahrefs latest post: https://t.co/qhhKHx5lz7 , thanks @JoshuaCHardwick",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SEO",
+						"indices": [
+							36,
+							40
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SuppleSolutions",
+						"name": "Supple",
+						"id": 802453494,
+						"id_str": "802453494",
+						"indices": [
+							19,
+							35
+						]
+					},
+					{
+						"screen_name": "ahrefs",
+						"name": "Ahrefs.com",
+						"id": 256999501,
+						"id_str": "256999501",
+						"indices": [
+							65,
+							72
+						]
+					},
+					{
+						"screen_name": "JoshuaCHardwick",
+						"name": "Joshua Hardwick",
+						"id": 2188449426,
+						"id_str": "2188449426",
+						"indices": [
+							119,
+							135
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qhhKHx5lz7",
+						"expanded_url": "https://ahrefs.com/blog/free-seo-tools/",
+						"display_url": "ahrefs.com/blog/free-seo-…",
+						"indices": [
+							86,
+							109
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 633856429,
+				"id_str": "633856429",
+				"name": "Saijo George",
+				"screen_name": "SaijoGeorge",
+				"location": "Melbourne",
+				"description": "🗣 📱Ok Google:   \n◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️What does Saijo George do?◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️#SEO",
+				"url": "https://t.co/UlhgiI5KE3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UlhgiI5KE3",
+								"expanded_url": "https://saijogeorge.com/projects.html",
+								"display_url": "saijogeorge.com/projects.html",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3100,
+				"friends_count": 995,
+				"listed_count": 493,
+				"created_at": "Thu Jul 12 16:17:29 +0000 2012",
+				"favourites_count": 1900,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9111,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/565453721165766656/SAgtW54L_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/565453721165766656/SAgtW54L_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/633856429/1460079045",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 15 19:31:54 +0000 2017",
+		"id": 930881062716112900,
+		"id_str": "930881062716112896",
+		"text": "RT @SaijoGeorge: Hamburger Button to Doughnut Menu Animationby @Osorpenke #WebDesign #CodeMyUI https://t.co/Up2GQMQoMg https://t.co/fNN8t4B…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WebDesign",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"text": "CodeMyUI",
+					"indices": [
+						85,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SaijoGeorge",
+					"name": "Saijo George",
+					"id": 633856429,
+					"id_str": "633856429",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "Osorpenke",
+					"name": "Zoë",
+					"id": 907389866471817200,
+					"id_str": "907389866471817216",
+					"indices": [
+						63,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Up2GQMQoMg",
+					"expanded_url": "http://zpr.io/nfEFT",
+					"display_url": "zpr.io/nfEFT",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35108,
+			"friends_count": 21901,
+			"listed_count": 984,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 5030,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 15 10:10:41 +0000 2017",
+			"id": 930739824012689400,
+			"id_str": "930739824012689408",
+			"text": "Hamburger Button to Doughnut Menu Animationby @Osorpenke #WebDesign #CodeMyUI https://t.co/Up2GQMQoMg https://t.co/fNN8t4Bady",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WebDesign",
+						"indices": [
+							57,
+							67
+						]
+					},
+					{
+						"text": "CodeMyUI",
+						"indices": [
+							68,
+							77
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Osorpenke",
+						"name": "Zoë",
+						"id": 907389866471817200,
+						"id_str": "907389866471817216",
+						"indices": [
+							46,
+							56
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Up2GQMQoMg",
+						"expanded_url": "http://zpr.io/nfEFT",
+						"display_url": "zpr.io/nfEFT",
+						"indices": [
+							78,
+							101
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 930739821785550800,
+						"id_str": "930739821785550849",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DOqm78fWkAEjVc3.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOqm78fWkAEjVc3.jpg",
+						"url": "https://t.co/fNN8t4Bady",
+						"display_url": "pic.twitter.com/fNN8t4Bady",
+						"expanded_url": "https://twitter.com/SaijoGeorge/status/930739824012689408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 880,
+								"h": 440,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 880,
+								"h": 440,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 930739821785550800,
+						"id_str": "930739821785550849",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DOqm78fWkAEjVc3.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOqm78fWkAEjVc3.jpg",
+						"url": "https://t.co/fNN8t4Bady",
+						"display_url": "pic.twitter.com/fNN8t4Bady",
+						"expanded_url": "https://twitter.com/SaijoGeorge/status/930739824012689408/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 880,
+								"h": 440,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 880,
+								"h": 440,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								2,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DOqm78fWkAEjVc3.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 633856429,
+				"id_str": "633856429",
+				"name": "Saijo George",
+				"screen_name": "SaijoGeorge",
+				"location": "Melbourne",
+				"description": "🗣 📱Ok Google:   \n◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️What does Saijo George do?◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️#SEO",
+				"url": "https://t.co/UlhgiI5KE3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UlhgiI5KE3",
+								"expanded_url": "https://saijogeorge.com/projects.html",
+								"display_url": "saijogeorge.com/projects.html",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3100,
+				"friends_count": 995,
+				"listed_count": 493,
+				"created_at": "Thu Jul 12 16:17:29 +0000 2012",
+				"favourites_count": 1900,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9111,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/565453721165766656/SAgtW54L_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/565453721165766656/SAgtW54L_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/633856429/1460079045",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 15 19:30:17 +0000 2017",
+		"id": 930880653108768800,
+		"id_str": "930880653108768768",
+		"text": "@mohitmehta18 @GIPHY @chatfuel @rahuldecoded !🙏👍 https://t.co/d0OkqjLI5X",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mohitmehta18",
+					"name": "mohit mehta",
+					"id": 496132038,
+					"id_str": "496132038",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "GIPHY",
+					"name": "GIPHY",
+					"id": 1020383864,
+					"id_str": "1020383864",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"screen_name": "chatfuel",
+					"name": "Chatfuel",
+					"id": 3355773219,
+					"id_str": "3355773219",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"screen_name": "rahuldecoded",
+					"name": "Rahul Bhattacharjee",
+					"id": 3145199379,
+					"id_str": "3145199379",
+					"indices": [
+						31,
+						44
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 930880639997329400,
+					"id_str": "930880639997329409",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DOsnApNUQAE8kXf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOsnApNUQAE8kXf.jpg",
+					"url": "https://t.co/d0OkqjLI5X",
+					"display_url": "pic.twitter.com/d0OkqjLI5X",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/930880653108768768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 262,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 262,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 262,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 930880639997329400,
+					"id_str": "930880639997329409",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DOsnApNUQAE8kXf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOsnApNUQAE8kXf.jpg",
+					"url": "https://t.co/d0OkqjLI5X",
+					"display_url": "pic.twitter.com/d0OkqjLI5X",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/930880653108768768/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 262,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 262,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 262,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							131,
+							100
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DOsnApNUQAE8kXf.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 930809367686914000,
+		"in_reply_to_status_id_str": "930809367686914049",
+		"in_reply_to_user_id": 496132038,
+		"in_reply_to_user_id_str": "496132038",
+		"in_reply_to_screen_name": "mohitmehta18",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/iftpTVexLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iftpTVexLs",
+							"expanded_url": "https://about.me/debbiediscovers",
+							"display_url": "about.me/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35108,
+			"friends_count": 21901,
+			"listed_count": 984,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 5030,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed Nov 15 12:25:45 +0000 2017",
 		"id": 930773817672077300,
 		"id_str": "930773817672077313",
