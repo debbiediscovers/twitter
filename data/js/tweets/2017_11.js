@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Fri Nov 17 23:22:52 +0000 2017",
+		"id": 931663959681204200,
+		"id_str": "931663959681204225",
+		"text": "RT @Backlinko: Interesting new ranking factors study by @semrush --\nhttps://t.co/asLWOX3961\nFound that direct traffic=#1 correlated ranking…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Backlinko",
+					"name": "Brian Dean",
+					"id": 949596536,
+					"id_str": "949596536",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "semrush",
+					"name": "SEMrush",
+					"id": 21896072,
+					"id_str": "21896072",
+					"indices": [
+						56,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/asLWOX3961",
+					"expanded_url": "https://www.semrush.com/ranking-factors/",
+					"display_url": "semrush.com/ranking-factor…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35052,
+			"friends_count": 18829,
+			"listed_count": 981,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 6141,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8997,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 17 15:06:11 +0000 2017",
+			"id": 931538968579014700,
+			"id_str": "931538968579014656",
+			"text": "Interesting new ranking factors study by @semrush --\nhttps://t.co/asLWOX3961\nFound that direct traffic=#1 correlated ranking factor.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "semrush",
+						"name": "SEMrush",
+						"id": 21896072,
+						"id_str": "21896072",
+						"indices": [
+							41,
+							49
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/asLWOX3961",
+						"expanded_url": "https://www.semrush.com/ranking-factors/",
+						"display_url": "semrush.com/ranking-factor…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 949596536,
+				"id_str": "949596536",
+				"name": "Brian Dean",
+				"screen_name": "Backlinko",
+				"location": "",
+				"description": "Link Building. SEO. Content Marketing.",
+				"url": "http://t.co/I7q32iqCrO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/I7q32iqCrO",
+								"expanded_url": "http://Backlinko.com/",
+								"display_url": "Backlinko.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 58844,
+				"friends_count": 523,
+				"listed_count": 2214,
+				"created_at": "Thu Nov 15 11:55:01 +0000 2012",
+				"favourites_count": 8737,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5863,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9ADB69",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000141348639/B9MwRwc5.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000141348639/B9MwRwc5.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/644532550782873600/nrewMJB6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/644532550782873600/nrewMJB6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/949596536/1433849397",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 38,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 17 23:10:10 +0000 2017",
 		"id": 931660763730550800,
 		"id_str": "931660763730550784",
