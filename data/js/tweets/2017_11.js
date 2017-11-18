@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sat Nov 18 15:32:14 +0000 2017",
+		"id": 931907912238112800,
+		"id_str": "931907912238112768",
+		"text": "@BonnieBuysHouse  https://t.co/rOvolmdLOA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BonnieBuysHouse",
+					"name": "🏡Bonnie Buys Houses",
+					"id": 2254127934,
+					"id_str": "2254127934",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 931907901945294800,
+					"id_str": "931907901945294849",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DO7NTKLUMAEl5QX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DO7NTKLUMAEl5QX.jpg",
+					"url": "https://t.co/rOvolmdLOA",
+					"display_url": "pic.twitter.com/rOvolmdLOA",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/931907912238112768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 244,
+							"h": 250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 250,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 931907901945294800,
+					"id_str": "931907901945294849",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DO7NTKLUMAEl5QX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DO7NTKLUMAEl5QX.jpg",
+					"url": "https://t.co/rOvolmdLOA",
+					"display_url": "pic.twitter.com/rOvolmdLOA",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/931907912238112768/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 244,
+							"h": 250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 250,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							122,
+							125
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DO7NTKLUMAEl5QX.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 931849514851463200,
+		"in_reply_to_status_id_str": "931849514851463168",
+		"in_reply_to_user_id": 2254127934,
+		"in_reply_to_user_id_str": "2254127934",
+		"in_reply_to_screen_name": "BonnieBuysHouse",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35082,
+			"friends_count": 18315,
+			"listed_count": 982,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 6446,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9010,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sat Nov 18 11:17:08 +0000 2017",
 		"id": 931843712782622700,
 		"id_str": "931843712782622720",
