@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sun Nov 19 04:27:32 +0000 2017",
+		"id": 932103022393430000,
+		"id_str": "932103022393430016",
+		"text": "@Chocolatchipss @Reuters lol https://t.co/qqXeswuP3l",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Chocolatchipss",
+					"name": "Chocolatchips",
+					"id": 915786824173449200,
+					"id_str": "915786824173449216",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Reuters",
+					"name": "Reuters Top News",
+					"id": 1652541,
+					"id_str": "1652541",
+					"indices": [
+						16,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 932103010859155500,
+					"id_str": "932103010859155456",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DO9-v_hVAAAzob0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DO9-v_hVAAAzob0.jpg",
+					"url": "https://t.co/qqXeswuP3l",
+					"display_url": "pic.twitter.com/qqXeswuP3l",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/932103022393430016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 244,
+							"h": 136,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 136,
+							"h": 136,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 136,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 932103010859155500,
+					"id_str": "932103010859155456",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DO9-v_hVAAAzob0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DO9-v_hVAAAzob0.jpg",
+					"url": "https://t.co/qqXeswuP3l",
+					"display_url": "pic.twitter.com/qqXeswuP3l",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/932103022393430016/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 244,
+							"h": 136,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 136,
+							"h": 136,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 136,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							61,
+							34
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DO9-v_hVAAAzob0.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 932019594604306400,
+		"in_reply_to_status_id_str": "932019594604306432",
+		"in_reply_to_user_id": 915786824173449200,
+		"in_reply_to_user_id_str": "915786824173449216",
+		"in_reply_to_screen_name": "Chocolatchipss",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35044,
+			"friends_count": 16158,
+			"listed_count": 979,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 6949,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9020,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sun Nov 19 04:26:38 +0000 2017",
+		"id": 932102795511046100,
+		"id_str": "932102795511046144",
+		"text": "@Neo_Talaga8  https://t.co/CYjLbVeZoj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Neo_Talaga8",
+					"name": "I Can Do This Talaga",
+					"id": 897495815022940200,
+					"id_str": "897495815022940162",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 932102784014434300,
+					"id_str": "932102784014434304",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DO9-iydVQAAOioQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DO9-iydVQAAOioQ.jpg",
+					"url": "https://t.co/CYjLbVeZoj",
+					"display_url": "pic.twitter.com/CYjLbVeZoj",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/932102795511046144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 354,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 354,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 354,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 932102784014434300,
+					"id_str": "932102784014434304",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DO9-iydVQAAOioQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DO9-iydVQAAOioQ.jpg",
+					"url": "https://t.co/CYjLbVeZoj",
+					"display_url": "pic.twitter.com/CYjLbVeZoj",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/932102795511046144/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 354,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 354,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 354,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							59,
+							50
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DO9-iydVQAAOioQ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 932053183106515000,
+		"in_reply_to_status_id_str": "932053183106514944",
+		"in_reply_to_user_id": 897495815022940200,
+		"in_reply_to_user_id_str": "897495815022940162",
+		"in_reply_to_screen_name": "Neo_Talaga8",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35044,
+			"friends_count": 16158,
+			"listed_count": 979,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 6949,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9020,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sun Nov 19 03:22:34 +0000 2017",
 		"id": 932086671876636700,
 		"id_str": "932086671876636672",
