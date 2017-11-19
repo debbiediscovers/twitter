@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sun Nov 19 10:32:22 +0000 2017",
+		"id": 932194833698922500,
+		"id_str": "932194833698922497",
+		"text": "RT @NiemanLab: Bad news from Mashable, BuzzFeed, and Vice shows times are rough for ad-supported digital media https://t.co/TGuzvNjXx3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NiemanLab",
+					"name": "Nieman Lab",
+					"id": 15865878,
+					"id_str": "15865878",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TGuzvNjXx3",
+					"expanded_url": "https://buff.ly/2isBOGA",
+					"display_url": "buff.ly/2isBOGA",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35024,
+			"friends_count": 16158,
+			"listed_count": 981,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 6953,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9025,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 18 21:16:01 +0000 2017",
+			"id": 931994425387077600,
+			"id_str": "931994425387077633",
+			"text": "Bad news from Mashable, BuzzFeed, and Vice shows times are rough for ad-supported digital media https://t.co/TGuzvNjXx3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TGuzvNjXx3",
+						"expanded_url": "https://buff.ly/2isBOGA",
+						"display_url": "buff.ly/2isBOGA",
+						"indices": [
+							96,
+							119
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15865878,
+				"id_str": "15865878",
+				"name": "Nieman Lab",
+				"screen_name": "NiemanLab",
+				"location": "Cambridge, Mass.",
+				"description": "We are the Nieman Journalism Lab at Harvard. We're trying to figure out the future of news.",
+				"url": "http://t.co/jiDaWLVnA4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/jiDaWLVnA4",
+								"expanded_url": "http://niemanlab.org",
+								"display_url": "niemanlab.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 276802,
+				"friends_count": 831,
+				"listed_count": 13400,
+				"created_at": "Fri Aug 15 18:26:30 +0000 2008",
+				"favourites_count": 2247,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 39170,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8D0000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5449899/Twitter_BG_Flag.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5449899/Twitter_BG_Flag.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/512664555827126272/pzZXwZC8_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/512664555827126272/pzZXwZC8_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15865878/1411063708",
+				"profile_link_color": "333333",
+				"profile_sidebar_border_color": "E0DFC0",
+				"profile_sidebar_fill_color": "E0DFC0",
+				"profile_text_color": "8D0000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 21,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Nov 19 10:02:01 +0000 2017",
 		"id": 932187195766485000,
 		"id_str": "932187195766484992",
