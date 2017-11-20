@@ -1,6 +1,471 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Mon Nov 20 07:12:02 +0000 2017",
+		"id": 932506804751233000,
+		"id_str": "932506804751233024",
+		"text": "Welcome to the age of BYOB (Bring Your Own Bot) https://t.co/53YbPKGprH via https://t.co/NupEN7XZSf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/53YbPKGprH",
+					"expanded_url": "https://www.cioinsight.com/it-management/welcome-to-the-age-of-byob-bring-your-own-bot.html",
+					"display_url": "cioinsight.com/it-management/…",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/NupEN7XZSf",
+					"expanded_url": "https://drumup.io",
+					"display_url": "drumup.io",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://drumup.io\" rel=\"nofollow\">drumup.io</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34886,
+			"friends_count": 14040,
+			"listed_count": 985,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 6964,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9037,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 20 06:47:59 +0000 2017",
+		"id": 932500754253807600,
+		"id_str": "932500754253807616",
+		"text": "@bramk @nocodemvp Nice! I love @startupstash!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bramk",
+					"name": "Bram Kanstein",
+					"id": 45139007,
+					"id_str": "45139007",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "nocodemvp",
+					"name": "NO CODE MVP",
+					"id": 893043905616379900,
+					"id_str": "893043905616379904",
+					"indices": [
+						7,
+						17
+					]
+				},
+				{
+					"screen_name": "startupstash",
+					"name": "Startup Stash 🔎💻",
+					"id": 2789384378,
+					"id_str": "2789384378",
+					"indices": [
+						31,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 932487848103764000,
+		"in_reply_to_status_id_str": "932487848103763968",
+		"in_reply_to_user_id": 45139007,
+		"in_reply_to_user_id_str": "45139007",
+		"in_reply_to_screen_name": "bramk",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34886,
+			"friends_count": 14040,
+			"listed_count": 985,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 6964,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9037,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 20 06:43:30 +0000 2017",
+		"id": 932499626317398000,
+		"id_str": "932499626317398016",
+		"text": "RT @debbiediscovers: “How to use Dialogflow’s Small Talk agent with Chatfuel” by @debbiediscovers https://t.co/NyM9jKbbmk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						81,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NyM9jKbbmk",
+					"expanded_url": "https://chatbotslife.com/how-to-use-dialogflows-prebuilt-small-talk-agent-with-chatfuel-8054379e5848",
+					"display_url": "chatbotslife.com/how-to-use-dia…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34886,
+			"friends_count": 14040,
+			"listed_count": 985,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 6964,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9037,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 18 07:45:20 +0000 2017",
+			"id": 931790409885294600,
+			"id_str": "931790409885294592",
+			"text": "“How to use Dialogflow’s Small Talk agent with Chatfuel” by @debbiediscovers https://t.co/NyM9jKbbmk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							60,
+							76
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/NyM9jKbbmk",
+						"expanded_url": "https://chatbotslife.com/how-to-use-dialogflows-prebuilt-small-talk-agent-with-chatfuel-8054379e5848",
+						"display_url": "chatbotslife.com/how-to-use-dia…",
+						"indices": [
+							77,
+							100
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+				"url": "https://t.co/IprDI3V3T9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IprDI3V3T9",
+								"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+								"display_url": "digitaldiscovery.sg/about-deborah-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34886,
+				"friends_count": 14040,
+				"listed_count": 985,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 6964,
+				"utc_offset": -39600,
+				"time_zone": "International Date Line West",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9037,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 20 05:54:57 +0000 2017",
 		"id": 932487407840084000,
 		"id_str": "932487407840083969",
