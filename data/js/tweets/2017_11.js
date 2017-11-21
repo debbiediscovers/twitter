@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Tue Nov 21 04:34:56 +0000 2017",
+		"id": 932829660110454800,
+		"id_str": "932829660110454784",
+		"text": "RT @SingaporeSail: 10 Olympic athletes' daily habits you should steal (that don't involve the gym) https://t.co/3PNSZ3XQyx via @usatodaycol…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SingaporeSail",
+					"name": "Singapore Sailing Federation 🇸🇬 ⛵️",
+					"id": 906430548641439700,
+					"id_str": "906430548641439744",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3PNSZ3XQyx",
+					"expanded_url": "http://usat.ly/2aKd3Pm",
+					"display_url": "usat.ly/2aKd3Pm",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34770,
+			"friends_count": 13837,
+			"listed_count": 984,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 7050,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9047,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 21 03:03:54 +0000 2017",
+			"id": 932806749970563100,
+			"id_str": "932806749970563072",
+			"text": "10 Olympic athletes' daily habits you should steal (that don't involve the gym) https://t.co/3PNSZ3XQyx via @usatodaycollege",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "USATODAYcollege",
+						"name": "USA TODAY College",
+						"id": 21405623,
+						"id_str": "21405623",
+						"indices": [
+							108,
+							124
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3PNSZ3XQyx",
+						"expanded_url": "http://usat.ly/2aKd3Pm",
+						"display_url": "usat.ly/2aKd3Pm",
+						"indices": [
+							80,
+							103
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 906430548641439700,
+				"id_str": "906430548641439744",
+				"name": "Singapore Sailing Federation 🇸🇬 ⛵️",
+				"screen_name": "SingaporeSail",
+				"location": "Singapore",
+				"description": "Official Twitter account for Singapore Sailing Team. Join us on our Olympic voyage to bring Singapore glory from sea #MakingWavesTogether #Olympic2020",
+				"url": "https://t.co/8w7xJU5n9n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8w7xJU5n9n",
+								"expanded_url": "http://www.sailing.org.sg",
+								"display_url": "sailing.org.sg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2192,
+				"friends_count": 3059,
+				"listed_count": 9,
+				"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+				"favourites_count": 2684,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 299,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+				"profile_link_color": "D10000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 21 04:34:51 +0000 2017",
+		"id": 932829638123864000,
+		"id_str": "932829638123864064",
+		"text": "RT @SingaporeSail: #TuesdayThoughts There will be forces in life that you can’t control but you can always adapt and react constructively…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TuesdayThoughts",
+					"indices": [
+						19,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SingaporeSail",
+					"name": "Singapore Sailing Federation 🇸🇬 ⛵️",
+					"id": 906430548641439700,
+					"id_str": "906430548641439744",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34770,
+			"friends_count": 13837,
+			"listed_count": 984,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 7050,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9047,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 21 03:06:39 +0000 2017",
+			"id": 932807442924048400,
+			"id_str": "932807442924048384",
+			"text": "#TuesdayThoughts There will be forces in life that you can’t control but you can always adapt and react constructiv… https://t.co/ZMUzHo825M",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TuesdayThoughts",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZMUzHo825M",
+						"expanded_url": "https://twitter.com/i/web/status/932807442924048384",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 906430548641439700,
+				"id_str": "906430548641439744",
+				"name": "Singapore Sailing Federation 🇸🇬 ⛵️",
+				"screen_name": "SingaporeSail",
+				"location": "Singapore",
+				"description": "Official Twitter account for Singapore Sailing Team. Join us on our Olympic voyage to bring Singapore glory from sea #MakingWavesTogether #Olympic2020",
+				"url": "https://t.co/8w7xJU5n9n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8w7xJU5n9n",
+								"expanded_url": "http://www.sailing.org.sg",
+								"display_url": "sailing.org.sg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2192,
+				"friends_count": 3059,
+				"listed_count": 9,
+				"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+				"favourites_count": 2684,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 299,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+				"profile_link_color": "D10000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 7,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 21 03:13:28 +0000 2017",
 		"id": 932809155198435300,
 		"id_str": "932809155198435329",
