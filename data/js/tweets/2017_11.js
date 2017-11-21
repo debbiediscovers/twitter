@@ -1,6 +1,617 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Tue Nov 21 20:06:27 +0000 2017",
+		"id": 933064082361434100,
+		"id_str": "933064082361434112",
+		"text": "RT @tomaslau: What’s The Best Design Advice You’ve Ever Received? https://t.co/BavSBwtA8C",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tomaslau",
+					"name": "Tomas Laurinavicius",
+					"id": 53951974,
+					"id_str": "53951974",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BavSBwtA8C",
+					"expanded_url": "http://bit.ly/2z6ndXD",
+					"display_url": "bit.ly/2z6ndXD",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34740,
+			"friends_count": 13925,
+			"listed_count": 987,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 7342,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 21 17:59:04 +0000 2017",
+			"id": 933032023849160700,
+			"id_str": "933032023849160704",
+			"text": "What’s The Best Design Advice You’ve Ever Received? https://t.co/BavSBwtA8C",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BavSBwtA8C",
+						"expanded_url": "http://bit.ly/2z6ndXD",
+						"display_url": "bit.ly/2z6ndXD",
+						"indices": [
+							52,
+							75
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 53951974,
+				"id_str": "53951974",
+				"name": "Tomas Laurinavicius",
+				"screen_name": "tomaslau",
+				"location": "Montego Bay, Jamaica 🇯🇲",
+				"description": "Lifestyle entrepreneur and blogger from Lithuania. I contribute to Forbes, Observer, The Next Web & Entrepreneur.",
+				"url": "https://t.co/v2eGSyMDas",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/v2eGSyMDas",
+								"expanded_url": "http://tomaslau.com/now",
+								"display_url": "tomaslau.com/now",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 54875,
+				"friends_count": 34442,
+				"listed_count": 1539,
+				"created_at": "Sun Jul 05 17:06:21 +0000 2009",
+				"favourites_count": 22940,
+				"utc_offset": 3600,
+				"time_zone": "West Central Africa",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 30770,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452655098/white_texture.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452655098/white_texture.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/833147310414589953/x1RsGCyH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/833147310414589953/x1RsGCyH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/53951974/1487585170",
+				"profile_link_color": "C6903D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 21 20:05:20 +0000 2017",
+		"id": 933063800021925900,
+		"id_str": "933063800021925888",
+		"text": "RT @TweetPilotHQ: How to access Twitter's API - A Guide for Non Developers https://t.co/V0zAH4Udzw @debbiediscovers https://t.co/WfbDzG6wAz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TweetPilotHQ",
+					"name": "TweetPilot",
+					"id": 3306856941,
+					"id_str": "3306856941",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						99,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/V0zAH4Udzw",
+					"expanded_url": "https://buff.ly/2zVTu7i",
+					"display_url": "buff.ly/2zVTu7i",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 933009370719367200,
+					"id_str": "933009370719367170",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DPK3FFHWsAIBWm3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPK3FFHWsAIBWm3.jpg",
+					"url": "https://t.co/WfbDzG6wAz",
+					"display_url": "pic.twitter.com/WfbDzG6wAz",
+					"expanded_url": "https://twitter.com/TweetPilotHQ/status/933009374150348800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 933009374150348800,
+					"source_status_id_str": "933009374150348800",
+					"source_user_id": 3306856941,
+					"source_user_id_str": "3306856941"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 933009370719367200,
+					"id_str": "933009370719367170",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DPK3FFHWsAIBWm3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPK3FFHWsAIBWm3.jpg",
+					"url": "https://t.co/WfbDzG6wAz",
+					"display_url": "pic.twitter.com/WfbDzG6wAz",
+					"expanded_url": "https://twitter.com/TweetPilotHQ/status/933009374150348800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 933009374150348800,
+					"source_status_id_str": "933009374150348800",
+					"source_user_id": 3306856941,
+					"source_user_id_str": "3306856941"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34740,
+			"friends_count": 13925,
+			"listed_count": 987,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 7342,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 21 16:29:03 +0000 2017",
+			"id": 933009374150348800,
+			"id_str": "933009374150348800",
+			"text": "How to access Twitter's API - A Guide for Non Developers https://t.co/V0zAH4Udzw @debbiediscovers https://t.co/WfbDzG6wAz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							81,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/V0zAH4Udzw",
+						"expanded_url": "https://buff.ly/2zVTu7i",
+						"display_url": "buff.ly/2zVTu7i",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 933009370719367200,
+						"id_str": "933009370719367170",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DPK3FFHWsAIBWm3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPK3FFHWsAIBWm3.jpg",
+						"url": "https://t.co/WfbDzG6wAz",
+						"display_url": "pic.twitter.com/WfbDzG6wAz",
+						"expanded_url": "https://twitter.com/TweetPilotHQ/status/933009374150348800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 933009370719367200,
+						"id_str": "933009370719367170",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DPK3FFHWsAIBWm3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPK3FFHWsAIBWm3.jpg",
+						"url": "https://t.co/WfbDzG6wAz",
+						"display_url": "pic.twitter.com/WfbDzG6wAz",
+						"expanded_url": "https://twitter.com/TweetPilotHQ/status/933009374150348800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3306856941,
+				"id_str": "3306856941",
+				"name": "TweetPilot",
+				"screen_name": "TweetPilotHQ",
+				"location": "United Kingdom",
+				"description": "Easily Grow, Manage and Analyse your #Twitter Account",
+				"url": "https://t.co/BMIfcX3lET",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BMIfcX3lET",
+								"expanded_url": "https://tweetpilot.com/",
+								"display_url": "tweetpilot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3181,
+				"friends_count": 1496,
+				"listed_count": 312,
+				"created_at": "Wed Jun 03 09:58:07 +0000 2015",
+				"favourites_count": 8408,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3237,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/799622300073132033/krob-iXS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/799622300073132033/krob-iXS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3306856941/1484049694",
+				"profile_link_color": "359ACF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 21 11:03:00 +0000 2017",
 		"id": 932927320184066000,
 		"id_str": "932927320184066050",
