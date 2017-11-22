@@ -1,6 +1,677 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 22 02:43:46 +0000 2017",
+		"id": 933164071930572800,
+		"id_str": "933164071930572800",
+		"text": "RT @WebVantageSEO: How to access Twitter's API - A Guide for Non Developers https://t.co/N1iFadyOXb @debbiediscovers https://t.co/BkyjPg8SM5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WebVantageSEO",
+					"name": "WebVantage Marketing",
+					"id": 3044650508,
+					"id_str": "3044650508",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						100,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/N1iFadyOXb",
+					"expanded_url": "https://buff.ly/2zoqUMq",
+					"display_url": "buff.ly/2zoqUMq",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 933144275944079400,
+					"id_str": "933144275944079360",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DPMxxmPWAAA3_si.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPMxxmPWAAA3_si.jpg",
+					"url": "https://t.co/BkyjPg8SM5",
+					"display_url": "pic.twitter.com/BkyjPg8SM5",
+					"expanded_url": "https://twitter.com/WebVantageSEO/status/933144279073021952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 933144279073022000,
+					"source_status_id_str": "933144279073021952",
+					"source_user_id": 3044650508,
+					"source_user_id_str": "3044650508"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 933144275944079400,
+					"id_str": "933144275944079360",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DPMxxmPWAAA3_si.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPMxxmPWAAA3_si.jpg",
+					"url": "https://t.co/BkyjPg8SM5",
+					"display_url": "pic.twitter.com/BkyjPg8SM5",
+					"expanded_url": "https://twitter.com/WebVantageSEO/status/933144279073021952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 933144279073022000,
+					"source_status_id_str": "933144279073021952",
+					"source_user_id": 3044650508,
+					"source_user_id_str": "3044650508"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34718,
+			"friends_count": 14344,
+			"listed_count": 985,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 7357,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 22 01:25:07 +0000 2017",
+			"id": 933144279073022000,
+			"id_str": "933144279073021952",
+			"text": "How to access Twitter's API - A Guide for Non Developers https://t.co/N1iFadyOXb @debbiediscovers https://t.co/BkyjPg8SM5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							81,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/N1iFadyOXb",
+						"expanded_url": "https://buff.ly/2zoqUMq",
+						"display_url": "buff.ly/2zoqUMq",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 933144275944079400,
+						"id_str": "933144275944079360",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DPMxxmPWAAA3_si.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPMxxmPWAAA3_si.jpg",
+						"url": "https://t.co/BkyjPg8SM5",
+						"display_url": "pic.twitter.com/BkyjPg8SM5",
+						"expanded_url": "https://twitter.com/WebVantageSEO/status/933144279073021952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 933144275944079400,
+						"id_str": "933144275944079360",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DPMxxmPWAAA3_si.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPMxxmPWAAA3_si.jpg",
+						"url": "https://t.co/BkyjPg8SM5",
+						"display_url": "pic.twitter.com/BkyjPg8SM5",
+						"expanded_url": "https://twitter.com/WebVantageSEO/status/933144279073021952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3044650508,
+				"id_str": "3044650508",
+				"name": "WebVantage Marketing",
+				"screen_name": "WebVantageSEO",
+				"location": "Sacramento, CA",
+				"description": "WebVantage Marketing is a Search Engine Optimization, Search Engine Marketing, and Web Design firm looking to assist businesses with their online goals.",
+				"url": "http://t.co/yxh7NsCD3U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/yxh7NsCD3U",
+								"expanded_url": "http://www.webvantagemarketing.com",
+								"display_url": "webvantagemarketing.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 64,
+				"friends_count": 3,
+				"listed_count": 155,
+				"created_at": "Thu Feb 26 20:57:07 +0000 2015",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2317,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/580458409834708992/9rSfzbOL_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/580458409834708992/9rSfzbOL_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3044650508/1427227062",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 22 02:34:20 +0000 2017",
+		"id": 933161696033509400,
+		"id_str": "933161696033509378",
+		"text": "If you wanna learn about #bitcoin and #cryptocurrency checkout this free email course by @NiklasGoeke! 💰 Live on… https://t.co/Im7WsYLzzx",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bitcoin",
+					"indices": [
+						25,
+						33
+					]
+				},
+				{
+					"text": "cryptocurrency",
+					"indices": [
+						38,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NiklasGoeke",
+					"name": "Niklas Goeke",
+					"id": 1364467364,
+					"id_str": "1364467364",
+					"indices": [
+						89,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Im7WsYLzzx",
+					"expanded_url": "https://twitter.com/i/web/status/933161696033509378",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34718,
+			"friends_count": 14344,
+			"listed_count": 985,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 7357,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 932888906940510200,
+		"quoted_status_id_str": "932888906940510208",
+		"quoted_status": {
+			"created_at": "Tue Nov 21 08:30:22 +0000 2017",
+			"id": 932888906940510200,
+			"id_str": "932888906940510208",
+			"text": "Made a #free mini #email #course - #Bitcoin For Beginners. Will teach you the basics of #cryptocurrencies in #fun w… https://t.co/XiGrWCWM80",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "free",
+						"indices": [
+							7,
+							12
+						]
+					},
+					{
+						"text": "email",
+						"indices": [
+							18,
+							24
+						]
+					},
+					{
+						"text": "course",
+						"indices": [
+							25,
+							32
+						]
+					},
+					{
+						"text": "Bitcoin",
+						"indices": [
+							35,
+							43
+						]
+					},
+					{
+						"text": "cryptocurrencies",
+						"indices": [
+							88,
+							105
+						]
+					},
+					{
+						"text": "fun",
+						"indices": [
+							109,
+							113
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XiGrWCWM80",
+						"expanded_url": "https://twitter.com/i/web/status/932888906940510208",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1364467364,
+				"id_str": "1364467364",
+				"name": "Niklas Goeke",
+				"screen_name": "NiklasGoeke",
+				"location": "Germany",
+				"description": "#Writer in progress. #Student @TU_Muenchen. Love #pizza, #productivity, #writing & #books. 400+ summaries on @fourminutebooks 📚🔥.",
+				"url": "http://t.co/JhVL45Fffa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/JhVL45Fffa",
+								"expanded_url": "http://niklasgoeke.com",
+								"display_url": "niklasgoeke.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1940,
+				"friends_count": 146,
+				"listed_count": 409,
+				"created_at": "Fri Apr 19 13:52:15 +0000 2013",
+				"favourites_count": 5568,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9878,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/517306900661030912/yMKCCM-7_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/517306900661030912/yMKCCM-7_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1364467364/1486584425",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 22 01:11:07 +0000 2017",
 		"id": 933140754469290000,
 		"id_str": "933140754469289985",
