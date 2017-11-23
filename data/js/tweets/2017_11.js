@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Thu Nov 23 01:50:37 +0000 2017",
+		"id": 933513081434411000,
+		"id_str": "933513081434411008",
+		"text": "RT @SEOGoodGuys: Big list of citation sources (and links) for local SEO in Singapore https://t.co/jC98aKGbnp #backlinks #Citations #Singapo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "backlinks",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"text": "Citations",
+					"indices": [
+						120,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SEOGoodGuys",
+					"name": "SEOGoodGuys",
+					"id": 777314166,
+					"id_str": "777314166",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jC98aKGbnp",
+					"expanded_url": "https://goo.gl/ckNn6p",
+					"display_url": "goo.gl/ckNn6p",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34876,
+			"friends_count": 12651,
+			"listed_count": 986,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 7452,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9088,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 22 03:18:27 +0000 2017",
+			"id": 933172799841230800,
+			"id_str": "933172799841230848",
+			"text": "Big list of citation sources (and links) for local SEO in Singapore https://t.co/jC98aKGbnp #backlinks #Citations… https://t.co/lWCB7f9xCA",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "backlinks",
+						"indices": [
+							92,
+							102
+						]
+					},
+					{
+						"text": "Citations",
+						"indices": [
+							103,
+							113
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jC98aKGbnp",
+						"expanded_url": "https://goo.gl/ckNn6p",
+						"display_url": "goo.gl/ckNn6p",
+						"indices": [
+							68,
+							91
+						]
+					},
+					{
+						"url": "https://t.co/lWCB7f9xCA",
+						"expanded_url": "https://twitter.com/i/web/status/933172799841230848",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://missinglettr.com\" rel=\"nofollow\">Missinglettr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 777314166,
+				"id_str": "777314166",
+				"name": "SEOGoodGuys",
+				"screen_name": "SEOGoodGuys",
+				"location": "Singapore",
+				"description": "Singapore's SEO Blog for startups and good guys. Follow us to get updates on SEO news and white hat SEO tips! Read our articles at http://t.co/wjwOR80t",
+				"url": "http://t.co/ExA14LeIL0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ExA14LeIL0",
+								"expanded_url": "http://seogoodguys.com.sg",
+								"display_url": "seogoodguys.com.sg",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/wjwOR80t",
+								"expanded_url": "http://seogoodguys.com.sg/blog",
+								"display_url": "seogoodguys.com.sg/blog",
+								"indices": [
+									131,
+									151
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18,
+				"friends_count": 44,
+				"listed_count": 5,
+				"created_at": "Fri Aug 24 03:32:26 +0000 2012",
+				"favourites_count": 2,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 72,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3122943987/501812ff17bd7ecd25018cd59d19ef7d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3122943987/501812ff17bd7ecd25018cd59d19ef7d_normal.png",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 23 00:36:12 +0000 2017",
 		"id": 933494357532885000,
 		"id_str": "933494357532884992",
