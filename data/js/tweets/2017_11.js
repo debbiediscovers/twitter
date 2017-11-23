@@ -1,6 +1,422 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Thu Nov 23 13:07:04 +0000 2017",
+		"id": 933683317127475200,
+		"id_str": "933683317127475200",
+		"text": "RT @SEOGoodGuys: Should you stop doing SEO? What happens if you do? https://t.co/PcNQfnT4Ds #Seo #seogoodguys https://t.co/DRBiAKvD87",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seo",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "seogoodguys",
+					"indices": [
+						97,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SEOGoodGuys",
+					"name": "SEOGoodGuys",
+					"id": 777314166,
+					"id_str": "777314166",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PcNQfnT4Ds",
+					"expanded_url": "https://goo.gl/iVmq3L",
+					"display_url": "goo.gl/iVmq3L",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 930273655367577600,
+					"id_str": "930273655367577606",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/DOj-9fQWsAYuOd_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOj-9fQWsAYuOd_.jpg",
+					"url": "https://t.co/DRBiAKvD87",
+					"display_url": "pic.twitter.com/DRBiAKvD87",
+					"expanded_url": "https://twitter.com/SEOGoodGuys/status/930273658001657858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 419,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 419,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 419,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 930273658001657900,
+					"source_status_id_str": "930273658001657858",
+					"source_user_id": 777314166,
+					"source_user_id_str": "777314166"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 930273655367577600,
+					"id_str": "930273655367577606",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/DOj-9fQWsAYuOd_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOj-9fQWsAYuOd_.jpg",
+					"url": "https://t.co/DRBiAKvD87",
+					"display_url": "pic.twitter.com/DRBiAKvD87",
+					"expanded_url": "https://twitter.com/SEOGoodGuys/status/930273658001657858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 419,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 419,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 419,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 930273658001657900,
+					"source_status_id_str": "930273658001657858",
+					"source_user_id": 777314166,
+					"source_user_id_str": "777314166"
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34886,
+			"friends_count": 12261,
+			"listed_count": 986,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 7476,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9095,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 14 03:18:18 +0000 2017",
+			"id": 930273658001657900,
+			"id_str": "930273658001657858",
+			"text": "Should you stop doing SEO? What happens if you do? https://t.co/PcNQfnT4Ds #Seo #seogoodguys https://t.co/DRBiAKvD87",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Seo",
+						"indices": [
+							75,
+							79
+						]
+					},
+					{
+						"text": "seogoodguys",
+						"indices": [
+							80,
+							92
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PcNQfnT4Ds",
+						"expanded_url": "https://goo.gl/iVmq3L",
+						"display_url": "goo.gl/iVmq3L",
+						"indices": [
+							51,
+							74
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 930273655367577600,
+						"id_str": "930273655367577606",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DOj-9fQWsAYuOd_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOj-9fQWsAYuOd_.jpg",
+						"url": "https://t.co/DRBiAKvD87",
+						"display_url": "pic.twitter.com/DRBiAKvD87",
+						"expanded_url": "https://twitter.com/SEOGoodGuys/status/930273658001657858/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 419,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 419,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 419,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 930273655367577600,
+						"id_str": "930273655367577606",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DOj-9fQWsAYuOd_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOj-9fQWsAYuOd_.jpg",
+						"url": "https://t.co/DRBiAKvD87",
+						"display_url": "pic.twitter.com/DRBiAKvD87",
+						"expanded_url": "https://twitter.com/SEOGoodGuys/status/930273658001657858/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 419,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 419,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 419,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://missinglettr.com\" rel=\"nofollow\">Missinglettr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 777314166,
+				"id_str": "777314166",
+				"name": "SEOGoodGuys",
+				"screen_name": "SEOGoodGuys",
+				"location": "Singapore",
+				"description": "Singapore's SEO Blog for startups and good guys. Follow us to get updates on SEO news and white hat SEO tips! Read our articles at http://t.co/wjwOR80t",
+				"url": "http://t.co/ExA14LeIL0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ExA14LeIL0",
+								"expanded_url": "http://seogoodguys.com.sg",
+								"display_url": "seogoodguys.com.sg",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/wjwOR80t",
+								"expanded_url": "http://seogoodguys.com.sg/blog",
+								"display_url": "seogoodguys.com.sg/blog",
+								"indices": [
+									131,
+									151
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18,
+				"friends_count": 44,
+				"listed_count": 5,
+				"created_at": "Fri Aug 24 03:32:26 +0000 2012",
+				"favourites_count": 2,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 72,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3122943987/501812ff17bd7ecd25018cd59d19ef7d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3122943987/501812ff17bd7ecd25018cd59d19ef7d_normal.png",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 23 11:51:18 +0000 2017",
 		"id": 933664248651169800,
 		"id_str": "933664248651169793",
