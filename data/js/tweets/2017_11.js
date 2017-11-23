@@ -1,6 +1,1277 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Thu Nov 23 22:02:05 +0000 2017",
+		"id": 933817960715743200,
+		"id_str": "933817960715743232",
+		"text": "How Inspiring Brands Give Thanks on Social Media https://t.co/GeR7iJubSb via @cmicontent",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CMIContent",
+					"name": "Content Marketing",
+					"id": 18240655,
+					"id_str": "18240655",
+					"indices": [
+						77,
+						88
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GeR7iJubSb",
+					"expanded_url": "https://buff.ly/2iJ0j2A",
+					"display_url": "buff.ly/2iJ0j2A",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34875,
+			"friends_count": 12284,
+			"listed_count": 990,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 7515,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 23 21:52:27 +0000 2017",
+		"id": 933815534394716200,
+		"id_str": "933815534394716161",
+		"text": "5 Black Friday Consumer Trends That Will Surprise You - Cox Blue https://t.co/nH6FTaFimp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nH6FTaFimp",
+					"expanded_url": "https://buff.ly/2B9rGcy",
+					"display_url": "buff.ly/2B9rGcy",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34875,
+			"friends_count": 12284,
+			"listed_count": 990,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 7515,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 23 21:47:10 +0000 2017",
+		"id": 933814204104134700,
+		"id_str": "933814204104134657",
+		"text": "I love Chrome Extensions! https://t.co/eAaNHjp0T1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eAaNHjp0T1",
+					"expanded_url": "https://buff.ly/2iMzrie",
+					"display_url": "buff.ly/2iMzrie",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34875,
+			"friends_count": 12284,
+			"listed_count": 990,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 7515,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 23 21:28:34 +0000 2017",
+		"id": 933809524401569800,
+		"id_str": "933809524401569792",
+		"text": "@JuliaEMcCoy Congrats Julia! Will def check it out! 😊",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JuliaEMcCoy",
+					"name": "Julia McCoy |  📖 New book out Nov 30!",
+					"id": 2319024469,
+					"id_str": "2319024469",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 925186793716240400,
+		"in_reply_to_status_id_str": "925186793716240384",
+		"in_reply_to_user_id": 2319024469,
+		"in_reply_to_user_id_str": "2319024469",
+		"in_reply_to_screen_name": "JuliaEMcCoy",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34875,
+			"friends_count": 12284,
+			"listed_count": 990,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 7515,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 23 21:24:54 +0000 2017",
+		"id": 933808600547442700,
+		"id_str": "933808600547442688",
+		"text": "If you engage like a human, your ROI is high. Well said @JuliaEMcCoy 💕#TwitterTips https://t.co/EyQo0tZrtF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TwitterTips",
+					"indices": [
+						70,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JuliaEMcCoy",
+					"name": "Julia McCoy |  📖 New book out Nov 30!",
+					"id": 2319024469,
+					"id_str": "2319024469",
+					"indices": [
+						56,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EyQo0tZrtF",
+					"expanded_url": "https://twitter.com/sejournal/status/930073156882173953",
+					"display_url": "twitter.com/sejournal/stat…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34875,
+			"friends_count": 12284,
+			"listed_count": 990,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 7515,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 930073156882174000,
+		"quoted_status_id_str": "930073156882173953",
+		"quoted_status": {
+			"created_at": "Mon Nov 13 14:01:35 +0000 2017",
+			"id": 930073156882174000,
+			"id_str": "930073156882173953",
+			"text": "How to Be a Top Tweeter: 5 Tips That Will Get Your Tweets Noticed - @JuliaEMcCoy https://t.co/nNg4QsO1dc https://t.co/cxtFYQ6xoc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JuliaEMcCoy",
+						"name": "Julia McCoy |  📖 New book out Nov 30!",
+						"id": 2319024469,
+						"id_str": "2319024469",
+						"indices": [
+							68,
+							80
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/nNg4QsO1dc",
+						"expanded_url": "https://www.searchenginejournal.com/how-to-get-your-tweets-noticed/223237/?utm_source=twitter&utm_medium=social&utm_campaign=auto-publish-twitter",
+						"display_url": "searchenginejournal.com/how-to-get-you…",
+						"indices": [
+							81,
+							104
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 930073154919260200,
+						"id_str": "930073154919260161",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/DOhIm04W4AE8_v8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOhIm04W4AE8_v8.jpg",
+						"url": "https://t.co/cxtFYQ6xoc",
+						"display_url": "pic.twitter.com/cxtFYQ6xoc",
+						"expanded_url": "https://twitter.com/sejournal/status/930073156882173953/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 760,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 760,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 358,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 930073154919260200,
+						"id_str": "930073154919260161",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/DOhIm04W4AE8_v8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOhIm04W4AE8_v8.jpg",
+						"url": "https://t.co/cxtFYQ6xoc",
+						"display_url": "pic.twitter.com/cxtFYQ6xoc",
+						"expanded_url": "https://twitter.com/sejournal/status/930073156882173953/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 760,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 760,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 358,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.searchenginejournal.com/\" rel=\"nofollow\">Search-Engine-Journal</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14113411,
+				"id_str": "14113411",
+				"name": "SearchEngineJournal®",
+				"screen_name": "sejournal",
+				"location": "United States",
+				"description": "Educating and empowering the SEO community by providing the freshest news and latest best practices via the industry’s smartest practitioners.",
+				"url": "https://t.co/8rYL3HrcqJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8rYL3HrcqJ",
+								"expanded_url": "https://SearchEngineJournal.com",
+								"display_url": "SearchEngineJournal.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 160082,
+				"friends_count": 844,
+				"listed_count": 6357,
+				"created_at": "Mon Mar 10 13:15:21 +0000 2008",
+				"favourites_count": 4935,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33751,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453633306152534017/89FoXQ_H.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453633306152534017/89FoXQ_H.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874053291495178240/IwqGteeT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874053291495178240/IwqGteeT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14113411/1495487185",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 23 21:17:56 +0000 2017",
+		"id": 933806846850109400,
+		"id_str": "933806846850109440",
+		"text": "@MaddyOsman @HubSpot Great tips! Timely too! 😍👍",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MaddyOsman",
+					"name": "Maddy Osman",
+					"id": 292559628,
+					"id_str": "292559628",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "HubSpot",
+					"name": "HubSpot",
+					"id": 14458280,
+					"id_str": "14458280",
+					"indices": [
+						12,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 933802842749571100,
+		"in_reply_to_status_id_str": "933802842749571074",
+		"in_reply_to_user_id": 292559628,
+		"in_reply_to_user_id_str": "292559628",
+		"in_reply_to_screen_name": "MaddyOsman",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34875,
+			"friends_count": 12284,
+			"listed_count": 990,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 7515,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 23 21:17:43 +0000 2017",
+		"id": 933806793410584600,
+		"id_str": "933806793410584576",
+		"text": "RT @MaddyOsman: Experts Share Their Top 8 Holiday #EmailMarketing Tips for 2017 https://t.co/7bkV02c5Xw @hubspot https://t.co/GWjpFvQQPL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EmailMarketing",
+					"indices": [
+						50,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MaddyOsman",
+					"name": "Maddy Osman",
+					"id": 292559628,
+					"id_str": "292559628",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "HubSpot",
+					"name": "HubSpot",
+					"id": 14458280,
+					"id_str": "14458280",
+					"indices": [
+						104,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7bkV02c5Xw",
+					"expanded_url": "https://buff.ly/2z3MpSL",
+					"display_url": "buff.ly/2z3MpSL",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 933802839515598800,
+					"id_str": "933802839515598849",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/DPWIvCuUEAEmzfX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPWIvCuUEAEmzfX.jpg",
+					"url": "https://t.co/GWjpFvQQPL",
+					"display_url": "pic.twitter.com/GWjpFvQQPL",
+					"expanded_url": "https://twitter.com/MaddyOsman/status/933802842749571074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 598,
+							"h": 398,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 598,
+							"h": 398,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 598,
+							"h": 398,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 933802842749571100,
+					"source_status_id_str": "933802842749571074",
+					"source_user_id": 292559628,
+					"source_user_id_str": "292559628"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 933802839515598800,
+					"id_str": "933802839515598849",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/DPWIvCuUEAEmzfX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPWIvCuUEAEmzfX.jpg",
+					"url": "https://t.co/GWjpFvQQPL",
+					"display_url": "pic.twitter.com/GWjpFvQQPL",
+					"expanded_url": "https://twitter.com/MaddyOsman/status/933802842749571074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 598,
+							"h": 398,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 598,
+							"h": 398,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 598,
+							"h": 398,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 933802842749571100,
+					"source_status_id_str": "933802842749571074",
+					"source_user_id": 292559628,
+					"source_user_id_str": "292559628"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34875,
+			"friends_count": 12284,
+			"listed_count": 990,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 7515,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 23 21:02:01 +0000 2017",
+			"id": 933802842749571100,
+			"id_str": "933802842749571074",
+			"text": "Experts Share Their Top 8 Holiday #EmailMarketing Tips for 2017 https://t.co/7bkV02c5Xw @hubspot https://t.co/GWjpFvQQPL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EmailMarketing",
+						"indices": [
+							34,
+							49
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HubSpot",
+						"name": "HubSpot",
+						"id": 14458280,
+						"id_str": "14458280",
+						"indices": [
+							88,
+							96
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7bkV02c5Xw",
+						"expanded_url": "https://buff.ly/2z3MpSL",
+						"display_url": "buff.ly/2z3MpSL",
+						"indices": [
+							64,
+							87
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 933802839515598800,
+						"id_str": "933802839515598849",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/DPWIvCuUEAEmzfX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPWIvCuUEAEmzfX.jpg",
+						"url": "https://t.co/GWjpFvQQPL",
+						"display_url": "pic.twitter.com/GWjpFvQQPL",
+						"expanded_url": "https://twitter.com/MaddyOsman/status/933802842749571074/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 598,
+								"h": 398,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 598,
+								"h": 398,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 598,
+								"h": 398,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 933802839515598800,
+						"id_str": "933802839515598849",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/DPWIvCuUEAEmzfX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPWIvCuUEAEmzfX.jpg",
+						"url": "https://t.co/GWjpFvQQPL",
+						"display_url": "pic.twitter.com/GWjpFvQQPL",
+						"expanded_url": "https://twitter.com/MaddyOsman/status/933802842749571074/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 598,
+								"h": 398,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 598,
+								"h": 398,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 598,
+								"h": 398,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 292559628,
+				"id_str": "292559628",
+				"name": "Maddy Osman",
+				"screen_name": "MaddyOsman",
+				"location": "Denver, CO",
+				"description": "#ContentMarketer with an #SEO/#WebDesign edge at https://t.co/sX2TPnUOCJ | #LBlogger https://t.co/YR0ytVOa7R | #Ecommerce at @tanksgetaround | ✉️: madeline.osman@gmail.com",
+				"url": "https://t.co/IxE5lTpQL9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IxE5lTpQL9",
+								"expanded_url": "http://www.the-blogsmith.com",
+								"display_url": "the-blogsmith.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sX2TPnUOCJ",
+								"expanded_url": "http://The-Blogsmith.com",
+								"display_url": "The-Blogsmith.com",
+								"indices": [
+									49,
+									72
+								]
+							},
+							{
+								"url": "https://t.co/YR0ytVOa7R",
+								"expanded_url": "http://UrbanCheapAss.com",
+								"display_url": "UrbanCheapAss.com",
+								"indices": [
+									85,
+									108
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 11322,
+				"friends_count": 6202,
+				"listed_count": 984,
+				"created_at": "Tue May 03 21:09:03 +0000 2011",
+				"favourites_count": 29354,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15842,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCF9F2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/298042134/xa388ca070287e57d15dcc3dfcfd5d62.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/298042134/xa388ca070287e57d15dcc3dfcfd5d62.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/883491986182873088/WjNkB52v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/883491986182873088/WjNkB52v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/292559628/1495146238",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "3A1D15",
+				"profile_sidebar_fill_color": "860404",
+				"profile_text_color": "ECE2AF",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 23 21:09:52 +0000 2017",
 		"id": 933804818082046000,
 		"id_str": "933804818082045952",
