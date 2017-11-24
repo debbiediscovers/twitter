@@ -1,6 +1,789 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Fri Nov 24 18:07:25 +0000 2017",
+		"id": 934121290700529700,
+		"id_str": "934121290700529664",
+		"text": "RT @MonumentalSeo: How to access Twitter's API - A Guide for Non Developers https://t.co/nZkjsatfDv @debbiediscovers https://t.co/Xw21FgREsp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MonumentalSeo",
+					"name": "Monumental SEO",
+					"id": 733772740826660900,
+					"id_str": "733772740826660865",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						100,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nZkjsatfDv",
+					"expanded_url": "https://buff.ly/2mVsaAU",
+					"display_url": "buff.ly/2mVsaAU",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 933735170678521900,
+					"id_str": "933735170678521856",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DPVLMMqVAAA4Es_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPVLMMqVAAA4Es_.jpg",
+					"url": "https://t.co/Xw21FgREsp",
+					"display_url": "pic.twitter.com/Xw21FgREsp",
+					"expanded_url": "https://twitter.com/MonumentalSeo/status/933735174696853504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 933735174696853500,
+					"source_status_id_str": "933735174696853504",
+					"source_user_id": 733772740826660900,
+					"source_user_id_str": "733772740826660865"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 933735170678521900,
+					"id_str": "933735170678521856",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DPVLMMqVAAA4Es_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPVLMMqVAAA4Es_.jpg",
+					"url": "https://t.co/Xw21FgREsp",
+					"display_url": "pic.twitter.com/Xw21FgREsp",
+					"expanded_url": "https://twitter.com/MonumentalSeo/status/933735174696853504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 933735174696853500,
+					"source_status_id_str": "933735174696853504",
+					"source_user_id": 733772740826660900,
+					"source_user_id_str": "733772740826660865"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34910,
+			"friends_count": 12228,
+			"listed_count": 991,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 7521,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9125,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 23 16:33:08 +0000 2017",
+			"id": 933735174696853500,
+			"id_str": "933735174696853504",
+			"text": "How to access Twitter's API - A Guide for Non Developers https://t.co/nZkjsatfDv @debbiediscovers https://t.co/Xw21FgREsp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							81,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/nZkjsatfDv",
+						"expanded_url": "https://buff.ly/2mVsaAU",
+						"display_url": "buff.ly/2mVsaAU",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 933735170678521900,
+						"id_str": "933735170678521856",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DPVLMMqVAAA4Es_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPVLMMqVAAA4Es_.jpg",
+						"url": "https://t.co/Xw21FgREsp",
+						"display_url": "pic.twitter.com/Xw21FgREsp",
+						"expanded_url": "https://twitter.com/MonumentalSeo/status/933735174696853504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 933735170678521900,
+						"id_str": "933735170678521856",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DPVLMMqVAAA4Es_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPVLMMqVAAA4Es_.jpg",
+						"url": "https://t.co/Xw21FgREsp",
+						"display_url": "pic.twitter.com/Xw21FgREsp",
+						"expanded_url": "https://twitter.com/MonumentalSeo/status/933735174696853504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 733772740826660900,
+				"id_str": "733772740826660865",
+				"name": "Monumental SEO",
+				"screen_name": "MonumentalSeo",
+				"location": "Florida",
+				"description": "",
+				"url": "https://t.co/Jp63VR7HYx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Jp63VR7HYx",
+								"expanded_url": "https://MonumentalSeo.com",
+								"display_url": "MonumentalSeo.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7,
+				"friends_count": 1,
+				"listed_count": 25,
+				"created_at": "Fri May 20 21:33:49 +0000 2016",
+				"favourites_count": 0,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1066,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/840959311803215873/QdWREunT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/840959311803215873/QdWREunT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/733772740826660865/1489339805",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 24 18:03:49 +0000 2017",
+		"id": 934120385188044800,
+		"id_str": "934120385188044800",
+		"text": "RT @denottione: The best Black Friday deals for designers under $50/£50 https://t.co/wWP0nvyCoQ via @creativebloq https://t.co/RdhpVn88R9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "denottione",
+					"name": "DeNottiOne",
+					"id": 1715876323,
+					"id_str": "1715876323",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "CreativeBloq",
+					"name": "Creative Bloq",
+					"id": 418597196,
+					"id_str": "418597196",
+					"indices": [
+						100,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wWP0nvyCoQ",
+					"expanded_url": "http://dlvr.it/Q2gnD3",
+					"display_url": "dlvr.it/Q2gnD3",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 934110371849183200,
+					"id_str": "934110371849183233",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/DPagbx8UIAEbDa7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPagbx8UIAEbDa7.jpg",
+					"url": "https://t.co/RdhpVn88R9",
+					"display_url": "pic.twitter.com/RdhpVn88R9",
+					"expanded_url": "https://twitter.com/denottione/status/934110374713896960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 779,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 779,
+							"h": 438,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 934110374713897000,
+					"source_status_id_str": "934110374713896960",
+					"source_user_id": 1715876323,
+					"source_user_id_str": "1715876323"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 934110371849183200,
+					"id_str": "934110371849183233",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/DPagbx8UIAEbDa7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPagbx8UIAEbDa7.jpg",
+					"url": "https://t.co/RdhpVn88R9",
+					"display_url": "pic.twitter.com/RdhpVn88R9",
+					"expanded_url": "https://twitter.com/denottione/status/934110374713896960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 779,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 779,
+							"h": 438,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 934110374713897000,
+					"source_status_id_str": "934110374713896960",
+					"source_user_id": 1715876323,
+					"source_user_id_str": "1715876323"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34910,
+			"friends_count": 12228,
+			"listed_count": 991,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 7521,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9125,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 24 17:24:02 +0000 2017",
+			"id": 934110374713897000,
+			"id_str": "934110374713896960",
+			"text": "The best Black Friday deals for designers under $50/£50 https://t.co/wWP0nvyCoQ via @creativebloq https://t.co/RdhpVn88R9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CreativeBloq",
+						"name": "Creative Bloq",
+						"id": 418597196,
+						"id_str": "418597196",
+						"indices": [
+							84,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wWP0nvyCoQ",
+						"expanded_url": "http://dlvr.it/Q2gnD3",
+						"display_url": "dlvr.it/Q2gnD3",
+						"indices": [
+							56,
+							79
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 934110371849183200,
+						"id_str": "934110371849183233",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DPagbx8UIAEbDa7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPagbx8UIAEbDa7.jpg",
+						"url": "https://t.co/RdhpVn88R9",
+						"display_url": "pic.twitter.com/RdhpVn88R9",
+						"expanded_url": "https://twitter.com/denottione/status/934110374713896960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 779,
+								"h": 438,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 779,
+								"h": 438,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 934110371849183200,
+						"id_str": "934110371849183233",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DPagbx8UIAEbDa7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPagbx8UIAEbDa7.jpg",
+						"url": "https://t.co/RdhpVn88R9",
+						"display_url": "pic.twitter.com/RdhpVn88R9",
+						"expanded_url": "https://twitter.com/denottione/status/934110374713896960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 779,
+								"h": 438,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 779,
+								"h": 438,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1715876323,
+				"id_str": "1715876323",
+				"name": "DeNottiOne",
+				"screen_name": "denottione",
+				"location": "space",
+				"description": "#Digital #Designer, #Web #Developer, #SEO, Space Invader, Day Dreamer, almost killed by Curiosity the Cat",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1017,
+				"friends_count": 702,
+				"listed_count": 68,
+				"created_at": "Sat Aug 31 14:33:57 +0000 2013",
+				"favourites_count": 207,
+				"utc_offset": -39600,
+				"time_zone": "International Date Line West",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4549,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/635140767296548864/4RrozagU.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/635140767296548864/4RrozagU.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/635139540693356544/8FTAGffk_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/635139540693356544/8FTAGffk_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1715876323/1475087477",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 24 13:07:03 +0000 2017",
 		"id": 934045701906075600,
 		"id_str": "934045701906075648",
