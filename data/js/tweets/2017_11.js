@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Fri Nov 24 11:24:33 +0000 2017",
+		"id": 934019905686446100,
+		"id_str": "934019905686446080",
+		"text": "RT @debbiediscovers: @johnmayerauthor @filmdailyco @RepLawyer @juliet_cromwell @NOefinger @ericlahti1 #fridayfeeling #friyay hello!! https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fridayfeeling",
+					"indices": [
+						102,
+						116
+					]
+				},
+				{
+					"text": "friyay",
+					"indices": [
+						117,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "johnmayerauthor",
+					"name": "John Mayer",
+					"id": 3295245730,
+					"id_str": "3295245730",
+					"indices": [
+						21,
+						37
+					]
+				},
+				{
+					"screen_name": "filmdailyco",
+					"name": "Film Daily",
+					"id": 877994481211105300,
+					"id_str": "877994481211105281",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "RepLawyer",
+					"name": "Aaron Minc",
+					"id": 221494964,
+					"id_str": "221494964",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"screen_name": "juliet_cromwell",
+					"name": "Juliet Cromwell",
+					"id": 4821253223,
+					"id_str": "4821253223",
+					"indices": [
+						62,
+						78
+					]
+				},
+				{
+					"screen_name": "NOefinger",
+					"name": "Nick Oefinger",
+					"id": 783615778297815000,
+					"id_str": "783615778297815040",
+					"indices": [
+						79,
+						89
+					]
+				},
+				{
+					"screen_name": "ericlahti1",
+					"name": "Eric Lahti",
+					"id": 2675543232,
+					"id_str": "2675543232",
+					"indices": [
+						90,
+						101
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34938,
+			"friends_count": 12215,
+			"listed_count": 990,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 7518,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9121,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 10 10:16:03 +0000 2017",
+			"id": 928929237876162600,
+			"id_str": "928929237876162562",
+			"text": "@johnmayerauthor @filmdailyco @RepLawyer @juliet_cromwell @NOefinger @ericlahti1 #fridayfeeling #friyay hello!! https://t.co/B7gtbWm92e",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "fridayfeeling",
+						"indices": [
+							81,
+							95
+						]
+					},
+					{
+						"text": "friyay",
+						"indices": [
+							96,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "johnmayerauthor",
+						"name": "John Mayer",
+						"id": 3295245730,
+						"id_str": "3295245730",
+						"indices": [
+							0,
+							16
+						]
+					},
+					{
+						"screen_name": "filmdailyco",
+						"name": "Film Daily",
+						"id": 877994481211105300,
+						"id_str": "877994481211105281",
+						"indices": [
+							17,
+							29
+						]
+					},
+					{
+						"screen_name": "RepLawyer",
+						"name": "Aaron Minc",
+						"id": 221494964,
+						"id_str": "221494964",
+						"indices": [
+							30,
+							40
+						]
+					},
+					{
+						"screen_name": "juliet_cromwell",
+						"name": "Juliet Cromwell",
+						"id": 4821253223,
+						"id_str": "4821253223",
+						"indices": [
+							41,
+							57
+						]
+					},
+					{
+						"screen_name": "NOefinger",
+						"name": "Nick Oefinger",
+						"id": 783615778297815000,
+						"id_str": "783615778297815040",
+						"indices": [
+							58,
+							68
+						]
+					},
+					{
+						"screen_name": "ericlahti1",
+						"name": "Eric Lahti",
+						"id": 2675543232,
+						"id_str": "2675543232",
+						"indices": [
+							69,
+							80
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 928929225750470700,
+						"id_str": "928929225750470656",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DOQ4NYpV4AAuScM.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOQ4NYpV4AAuScM.jpg",
+						"url": "https://t.co/B7gtbWm92e",
+						"display_url": "pic.twitter.com/B7gtbWm92e",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/928929237876162562/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 498,
+								"h": 498,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 498,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 498,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 928929225750470700,
+						"id_str": "928929225750470656",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DOQ4NYpV4AAuScM.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOQ4NYpV4AAuScM.jpg",
+						"url": "https://t.co/B7gtbWm92e",
+						"display_url": "pic.twitter.com/B7gtbWm92e",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/928929237876162562/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 498,
+								"h": 498,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 498,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 498,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DOQ4NYpV4AAuScM.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 928907624153866200,
+			"in_reply_to_status_id_str": "928907624153866240",
+			"in_reply_to_user_id": 3295245730,
+			"in_reply_to_user_id_str": "3295245730",
+			"in_reply_to_screen_name": "johnmayerauthor",
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+				"url": "https://t.co/IprDI3V3T9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IprDI3V3T9",
+								"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+								"display_url": "digitaldiscovery.sg/about-deborah-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34938,
+				"friends_count": 12215,
+				"listed_count": 990,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 7518,
+				"utc_offset": -39600,
+				"time_zone": "International Date Line West",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9121,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 24 07:55:02 +0000 2017",
 		"id": 933967178776244200,
 		"id_str": "933967178776244224",
