@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Fri Nov 24 07:55:02 +0000 2017",
+		"id": 933967178776244200,
+		"id_str": "933967178776244224",
+		"text": "Best Black Friday deal ever! Get it now! Carrd PRO plan via @ajlkn https://t.co/xxxyWhn4ur",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ajlkn",
+					"name": "aj ⚡️ 🍜",
+					"id": 55303867,
+					"id_str": "55303867",
+					"indices": [
+						60,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xxxyWhn4ur",
+					"expanded_url": "https://twitter.com/ajlkn/status/933816833878253569",
+					"display_url": "twitter.com/ajlkn/status/9…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34923,
+			"friends_count": 12209,
+			"listed_count": 989,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 7527,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9120,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 933816833878253600,
+		"quoted_status_id_str": "933816833878253569",
+		"quoted_status": {
+			"created_at": "Thu Nov 23 21:57:37 +0000 2017",
+			"id": 933816833878253600,
+			"id_str": "933816833878253569",
+			"text": "🔥 Carrd + Black Friday is a GO 🔥\n\n 50% off ALL Pro plans. Here's how to get it 👇  \n\n1️⃣ Dashboard → Account → Upgra… https://t.co/Dazjmb6CLF",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Dazjmb6CLF",
+						"expanded_url": "https://twitter.com/i/web/status/933816833878253569",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55303867,
+				"id_str": "55303867",
+				"name": "aj ⚡️ 🍜",
+				"screen_name": "ajlkn",
+				"location": "Nashville, TN",
+				"description": "Computers. https://t.co/hCHWnvKdIV + https://t.co/OR1wraM2zc + https://t.co/7Saf8L2X9G",
+				"url": "https://t.co/hOyVG2rAOy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hOyVG2rAOy",
+								"expanded_url": "https://aj.lkn.io",
+								"display_url": "aj.lkn.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/hCHWnvKdIV",
+								"expanded_url": "http://carrd.co",
+								"display_url": "carrd.co",
+								"indices": [
+									11,
+									34
+								]
+							},
+							{
+								"url": "https://t.co/OR1wraM2zc",
+								"expanded_url": "http://html5up.net",
+								"display_url": "html5up.net",
+								"indices": [
+									37,
+									60
+								]
+							},
+							{
+								"url": "https://t.co/7Saf8L2X9G",
+								"expanded_url": "http://pixelarity.com",
+								"display_url": "pixelarity.com",
+								"indices": [
+									63,
+									86
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 41383,
+				"friends_count": 109,
+				"listed_count": 663,
+				"created_at": "Thu Jul 09 17:40:50 +0000 2009",
+				"favourites_count": 8432,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19641,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F4F4F4",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/479340318/bg1.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/479340318/bg1.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/738608465212366849/etPIzWeg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/738608465212366849/etPIzWeg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/55303867/1464932971",
+				"profile_link_color": "CC5568",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D8D9C0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 24 06:34:56 +0000 2017",
 		"id": 933947021660000300,
 		"id_str": "933947021660000256",
