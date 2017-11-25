@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sat Nov 25 21:04:48 +0000 2017",
+		"id": 934528317583003600,
+		"id_str": "934528317583003650",
+		"text": "RT @Steph1lee: Why women #entrepreneurs do more with less https://t.co/wXq7eKkaOF via @kimgarst",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "entrepreneurs",
+					"indices": [
+						25,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Steph1lee",
+					"name": "Steph L Lee",
+					"id": 721241974880120800,
+					"id_str": "721241974880120832",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "kimgarst",
+					"name": "Kim Garst",
+					"id": 19713521,
+					"id_str": "19713521",
+					"indices": [
+						86,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wXq7eKkaOF",
+					"expanded_url": "https://buff.ly/2iPKqHq",
+					"display_url": "buff.ly/2iPKqHq",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick entrepreneur. Chatbot builder. Sailing enthusiast. Insatiably curious. @LittleCodersSG @GiftedSGP @0rchestras @DigitalFuturist are my passion projects!",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34575,
+			"friends_count": 10021,
+			"listed_count": 995,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8267,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9152,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 25 20:32:00 +0000 2017",
+			"id": 934520063096475600,
+			"id_str": "934520063096475648",
+			"text": "Why women #entrepreneurs do more with less https://t.co/wXq7eKkaOF via @kimgarst",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "entrepreneurs",
+						"indices": [
+							10,
+							24
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kimgarst",
+						"name": "Kim Garst",
+						"id": 19713521,
+						"id_str": "19713521",
+						"indices": [
+							71,
+							80
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wXq7eKkaOF",
+						"expanded_url": "https://buff.ly/2iPKqHq",
+						"display_url": "buff.ly/2iPKqHq",
+						"indices": [
+							43,
+							66
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 721241974880120800,
+				"id_str": "721241974880120832",
+				"name": "Steph L Lee",
+				"screen_name": "Steph1lee",
+				"location": "Singapore",
+				"description": "Social Media Enthusiast, Parent, Mom",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 678,
+				"friends_count": 917,
+				"listed_count": 19,
+				"created_at": "Sat Apr 16 07:41:01 +0000 2016",
+				"favourites_count": 48,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 268,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/726518533476114433/7s2BXRRa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/726518533476114433/7s2BXRRa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/721241974880120832/1461865216",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 25 17:57:56 +0000 2017",
 		"id": 934481294070661100,
 		"id_str": "934481294070661121",
@@ -1012,7 +1249,7 @@ Grailbird.data.tweets_2017_11 =
 				"name": "Joe Murfin 👍",
 				"screen_name": "JoeMurfin",
 				"location": "London UK",
-				"description": "👨🏼‍💻Coffee and burrito 🌯 enthusiast.. ☕️ #keepgoing @growthhackslack 🚀",
+				"description": "👨🏼💻Coffee and burrito 🌯 enthusiast.. ☕️ #keepgoing @growthhackslack 🚀",
 				"url": "https://t.co/nljeHI398I",
 				"entities": {
 					"url": {
