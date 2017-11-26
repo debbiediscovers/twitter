@@ -1,6 +1,628 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sun Nov 26 10:07:35 +0000 2017",
+		"id": 934725311438008300,
+		"id_str": "934725311438008320",
+		"text": "@NealSchaffer @robpowellbiz Congrats @NealSchaffer and great list @robpowellbiz! So glad to see @MikeKawula and… https://t.co/jnaSUt2z28",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NealSchaffer",
+					"name": "Neal Schaffer",
+					"id": 16438898,
+					"id_str": "16438898",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "robpowellbiz",
+					"name": "Rob Powell",
+					"id": 799756269527568400,
+					"id_str": "799756269527568384",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "NealSchaffer",
+					"name": "Neal Schaffer",
+					"id": 16438898,
+					"id_str": "16438898",
+					"indices": [
+						37,
+						50
+					]
+				},
+				{
+					"screen_name": "robpowellbiz",
+					"name": "Rob Powell",
+					"id": 799756269527568400,
+					"id_str": "799756269527568384",
+					"indices": [
+						66,
+						79
+					]
+				},
+				{
+					"screen_name": "MikeKawula",
+					"name": "Mike Kawula 🌴🐨🌴",
+					"id": 100065631,
+					"id_str": "100065631",
+					"indices": [
+						96,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jnaSUt2z28",
+					"expanded_url": "https://twitter.com/i/web/status/934725311438008320",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 934424913175294000,
+		"in_reply_to_status_id_str": "934424913175293952",
+		"in_reply_to_user_id": 16438898,
+		"in_reply_to_user_id_str": "16438898",
+		"in_reply_to_screen_name": "NealSchaffer",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick Entrepreneur. School Builder. AirBnB Superhost. Chatbot & AI enthusiast. @singaporesail #SailforSG Passionate abt education. Allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34493,
+			"friends_count": 10275,
+			"listed_count": 995,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8409,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9168,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 26 10:03:00 +0000 2017",
+		"id": 934724159426330600,
+		"id_str": "934724159426330624",
+		"text": "RT @NealSchaffer: The Top 50 Marketing Experts on Twitter [honored to have made the list!] https://t.co/loIXcdI5fC via @robpowellbiz #twitt…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NealSchaffer",
+					"name": "Neal Schaffer",
+					"id": 16438898,
+					"id_str": "16438898",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "robpowellbiz",
+					"name": "Rob Powell",
+					"id": 799756269527568400,
+					"id_str": "799756269527568384",
+					"indices": [
+						119,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/loIXcdI5fC",
+					"expanded_url": "https://robpowellbizblog.com/top-50-marketing-experts-twitter/",
+					"display_url": "robpowellbizblog.com/top-50-marketi…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick Entrepreneur. School Builder. AirBnB Superhost. Chatbot & AI enthusiast. @singaporesail #SailforSG Passionate abt education. Allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34493,
+			"friends_count": 10275,
+			"listed_count": 995,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8409,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9168,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 25 14:13:54 +0000 2017",
+			"id": 934424913175294000,
+			"id_str": "934424913175293952",
+			"text": "The Top 50 Marketing Experts on Twitter [honored to have made the list!] https://t.co/loIXcdI5fC via @robpowellbiz… https://t.co/8DWNzTantd",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "robpowellbiz",
+						"name": "Rob Powell",
+						"id": 799756269527568400,
+						"id_str": "799756269527568384",
+						"indices": [
+							101,
+							114
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/loIXcdI5fC",
+						"expanded_url": "https://robpowellbizblog.com/top-50-marketing-experts-twitter/",
+						"display_url": "robpowellbizblog.com/top-50-marketi…",
+						"indices": [
+							73,
+							96
+						]
+					},
+					{
+						"url": "https://t.co/8DWNzTantd",
+						"expanded_url": "https://twitter.com/i/web/status/934424913175293952",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tweepsmap.com\" rel=\"nofollow\">Tweepsmap</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16438898,
+				"id_str": "16438898",
+				"name": "Neal Schaffer",
+				"screen_name": "NealSchaffer",
+				"location": "Irvine, Orange County, CA USA",
+				"description": "Help businesses generate ROI from social media. Author, Speaker & Consultant. New #influencermarketing book: https://t.co/Z9bWWfapJ6",
+				"url": "https://t.co/0aFFIuIVoJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0aFFIuIVoJ",
+								"expanded_url": "http://nealschaffer.com",
+								"display_url": "nealschaffer.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Z9bWWfapJ6",
+								"expanded_url": "https://publishizer.com/the-business-of-influence/",
+								"display_url": "publishizer.com/the-business-o…",
+								"indices": [
+									109,
+									132
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 197782,
+				"friends_count": 76253,
+				"listed_count": 12278,
+				"created_at": "Wed Sep 24 19:13:56 +0000 2008",
+				"favourites_count": 64172,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 159622,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000109893354/0375ee88996cf0dad26e6a0d0b20dd10.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000109893354/0375ee88996cf0dad26e6a0d0b20dd10.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/622580869652328448/yYdwuOKs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/622580869652328448/yYdwuOKs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16438898/1401950157",
+				"profile_link_color": "387CBB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C4D8EA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 14,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 26 10:02:31 +0000 2017",
+		"id": 934724037686599700,
+		"id_str": "934724037686599680",
+		"text": "RT @unisyscorp: #AI, growing more potent &amp; easier to use, threatens to add to the already serious challenges companies face from #cyberatta…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						16,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "unisyscorp",
+					"name": "Unisys Corporation",
+					"id": 48402711,
+					"id_str": "48402711",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick Entrepreneur. School Builder. AirBnB Superhost. Chatbot & AI enthusiast. @singaporesail #SailforSG Passionate abt education. Allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34493,
+			"friends_count": 10275,
+			"listed_count": 995,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8409,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9168,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 25 14:12:01 +0000 2017",
+			"id": 934424436668805100,
+			"id_str": "934424436668805120",
+			"text": "#AI, growing more potent &amp; easier to use, threatens to add to the already serious challenges companies face from… https://t.co/cUn8IetnhP",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AI",
+						"indices": [
+							0,
+							3
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cUn8IetnhP",
+						"expanded_url": "https://twitter.com/i/web/status/934424436668805120",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							118,
+							141
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 48402711,
+				"id_str": "48402711",
+				"name": "Unisys Corporation",
+				"screen_name": "unisyscorp",
+				"location": "Blue Bell, PA, USA",
+				"description": "Updates and insights on business developments and news from Unisys Corporate and PR Team",
+				"url": "http://t.co/NzABxvMBuq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/NzABxvMBuq",
+								"expanded_url": "http://www.unisys.com",
+								"display_url": "unisys.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26311,
+				"friends_count": 2092,
+				"listed_count": 1811,
+				"created_at": "Thu Jun 18 16:27:50 +0000 2009",
+				"favourites_count": 8300,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 31707,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CCCCCC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/851192219/c02dafff26546a729eb7fc5fd057c49d.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/851192219/c02dafff26546a729eb7fc5fd057c49d.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/916377467056619522/jOZ8Dot3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/916377467056619522/jOZ8Dot3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/48402711/1505845427",
+				"profile_link_color": "002E5F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F2F2F2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Nov 26 09:03:21 +0000 2017",
 		"id": 934709147286749200,
 		"id_str": "934709147286749186",
