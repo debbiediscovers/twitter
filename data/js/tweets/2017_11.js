@@ -1,6 +1,1637 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sun Nov 26 18:53:00 +0000 2017",
+		"id": 934857537333137400,
+		"id_str": "934857537333137408",
+		"text": "RT @petesena: Awesome podcast by Howard Schultz on How I built @Starbucks  https://t.co/zVHpzmIY5U #Entrepreneurship",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Entrepreneurship",
+					"indices": [
+						99,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "petesena",
+					"name": "Peter Sena",
+					"id": 42950013,
+					"id_str": "42950013",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "Starbucks",
+					"name": "Starbucks Coffee",
+					"id": 30973,
+					"id_str": "30973",
+					"indices": [
+						63,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zVHpzmIY5U",
+					"expanded_url": "http://apple.co/2zfbwlE",
+					"display_url": "apple.co/2zfbwlE",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Serial Entrepreneur. AirBnB Superhost. Chatbot & AI developer. Run @singaporesail #SailforSG. 💖Twitter. Passionate abt education. Allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34398,
+			"friends_count": 10321,
+			"listed_count": 998,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8563,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9178,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 19 14:30:01 +0000 2017",
+			"id": 932254639491297300,
+			"id_str": "932254639491297281",
+			"text": "Awesome podcast by Howard Schultz on How I built @Starbucks  https://t.co/zVHpzmIY5U #Entrepreneurship",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Entrepreneurship",
+						"indices": [
+							85,
+							102
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Starbucks",
+						"name": "Starbucks Coffee",
+						"id": 30973,
+						"id_str": "30973",
+						"indices": [
+							49,
+							59
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zVHpzmIY5U",
+						"expanded_url": "http://apple.co/2zfbwlE",
+						"display_url": "apple.co/2zfbwlE",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42950013,
+				"id_str": "42950013",
+				"name": "Peter Sena",
+				"screen_name": "petesena",
+				"location": "Wherever the challenge exists",
+				"description": "Entrepreneur / Founder driven by innovation. Polymath. Designer. Keynote Speaker. Technologist. Design / Systems thinker. Student of life. @digitalsurgeons",
+				"url": "https://t.co/8A0bXT1u7D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8A0bXT1u7D",
+								"expanded_url": "https://www.linkedin.com/in/petersena",
+								"display_url": "linkedin.com/in/petersena",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38609,
+				"friends_count": 11827,
+				"listed_count": 711,
+				"created_at": "Wed May 27 19:13:57 +0000 2009",
+				"favourites_count": 1578,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14009,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/671712244/f4ad1fd259c8c7d81c8e864cd0248213.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/671712244/f4ad1fd259c8c7d81c8e864cd0248213.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/669207345293996033/Xh14cJ7d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/669207345293996033/Xh14cJ7d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42950013/1509667564",
+				"profile_link_color": "FF5900",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F5F5F5",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 26 18:49:56 +0000 2017",
+		"id": 934856764406644700,
+		"id_str": "934856764406644736",
+		"text": "Me - Alexa Echo for voice apps!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 934856606562447400,
+		"in_reply_to_status_id_str": "934856606562447360",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Serial Entrepreneur. AirBnB Superhost. Chatbot & AI developer. Run @singaporesail #SailforSG. 💖Twitter. Passionate abt education. Allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34398,
+			"friends_count": 10321,
+			"listed_count": 998,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8563,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9178,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 26 18:49:18 +0000 2017",
+		"id": 934856606562447400,
+		"id_str": "934856606562447360",
+		"text": "What are people buying in #CyberMonday?? 🤔",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CyberMonday",
+					"indices": [
+						26,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Serial Entrepreneur. AirBnB Superhost. Chatbot & AI developer. Run @singaporesail #SailforSG. 💖Twitter. Passionate abt education. Allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34398,
+			"friends_count": 10321,
+			"listed_count": 998,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8563,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9178,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 26 18:44:00 +0000 2017",
+		"id": 934855273658966000,
+		"id_str": "934855273658966021",
+		"text": "RT @petesena: Chasing the \"omnishopper\" across channels - how to optimize your integrated marketing strategy for consumers who research onl…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "petesena",
+					"name": "Peter Sena",
+					"id": 42950013,
+					"id_str": "42950013",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Serial Entrepreneur. AirBnB Superhost. Chatbot & AI developer. Run @singaporesail #SailforSG. 💖Twitter. Passionate abt education. Allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34398,
+			"friends_count": 10321,
+			"listed_count": 998,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8563,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9178,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 22 20:30:28 +0000 2017",
+			"id": 933432515540541400,
+			"id_str": "933432515540541440",
+			"text": "Chasing the \"omnishopper\" across channels - how to optimize your integrated marketing strategy for consumers who re… https://t.co/I2pX42xr8H",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/I2pX42xr8H",
+						"expanded_url": "https://twitter.com/i/web/status/933432515540541440",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42950013,
+				"id_str": "42950013",
+				"name": "Peter Sena",
+				"screen_name": "petesena",
+				"location": "Wherever the challenge exists",
+				"description": "Entrepreneur / Founder driven by innovation. Polymath. Designer. Keynote Speaker. Technologist. Design / Systems thinker. Student of life. @digitalsurgeons",
+				"url": "https://t.co/8A0bXT1u7D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8A0bXT1u7D",
+								"expanded_url": "https://www.linkedin.com/in/petersena",
+								"display_url": "linkedin.com/in/petersena",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38609,
+				"friends_count": 11827,
+				"listed_count": 711,
+				"created_at": "Wed May 27 19:13:57 +0000 2009",
+				"favourites_count": 1578,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14009,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/671712244/f4ad1fd259c8c7d81c8e864cd0248213.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/671712244/f4ad1fd259c8c7d81c8e864cd0248213.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/669207345293996033/Xh14cJ7d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/669207345293996033/Xh14cJ7d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42950013/1509667564",
+				"profile_link_color": "FF5900",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F5F5F5",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 26 18:43:48 +0000 2017",
+		"id": 934855224287674400,
+		"id_str": "934855224287674368",
+		"text": "Study Results: The Top 20 Influencers Of CMOs via @forbes https://t.co/hKE7U11qNu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Forbes",
+					"name": "Forbes",
+					"id": 91478624,
+					"id_str": "91478624",
+					"indices": [
+						50,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hKE7U11qNu",
+					"expanded_url": "http://www.forbes.com/sites/kimberlywhitler/2017/01/08/the-top-influencers-of-cmos-in-2016/#6f9179fc67c1",
+					"display_url": "forbes.com/sites/kimberly…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Serial Entrepreneur. AirBnB Superhost. Chatbot & AI developer. Run @singaporesail #SailforSG. 💖Twitter. Passionate abt education. Allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34398,
+			"friends_count": 10321,
+			"listed_count": 998,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8563,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9178,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 26 18:29:26 +0000 2017",
+		"id": 934851607107215400,
+		"id_str": "934851607107215360",
+		"text": "RT @petesena: Digital transformation is more than just an updated site and fresh branded artifacts - it should be a ground-up restructuring…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "petesena",
+					"name": "Peter Sena",
+					"id": 42950013,
+					"id_str": "42950013",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Serial Entrepreneur. AirBnB Superhost. Chatbot & AI developer. Run @singaporesail #SailforSG. 💖Twitter. Passionate abt education. Allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34398,
+			"friends_count": 10321,
+			"listed_count": 998,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8563,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9178,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 23 14:30:33 +0000 2017",
+			"id": 933704327474176000,
+			"id_str": "933704327474176001",
+			"text": "Digital transformation is more than just an updated site and fresh branded artifacts - it should be a ground-up res… https://t.co/7y5hvKtyAc",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7y5hvKtyAc",
+						"expanded_url": "https://twitter.com/i/web/status/933704327474176001",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42950013,
+				"id_str": "42950013",
+				"name": "Peter Sena",
+				"screen_name": "petesena",
+				"location": "Wherever the challenge exists",
+				"description": "Entrepreneur / Founder driven by innovation. Polymath. Designer. Keynote Speaker. Technologist. Design / Systems thinker. Student of life. @digitalsurgeons",
+				"url": "https://t.co/8A0bXT1u7D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8A0bXT1u7D",
+								"expanded_url": "https://www.linkedin.com/in/petersena",
+								"display_url": "linkedin.com/in/petersena",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38609,
+				"friends_count": 11827,
+				"listed_count": 711,
+				"created_at": "Wed May 27 19:13:57 +0000 2009",
+				"favourites_count": 1578,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14009,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/671712244/f4ad1fd259c8c7d81c8e864cd0248213.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/671712244/f4ad1fd259c8c7d81c8e864cd0248213.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/669207345293996033/Xh14cJ7d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/669207345293996033/Xh14cJ7d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42950013/1509667564",
+				"profile_link_color": "FF5900",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F5F5F5",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 26 18:26:33 +0000 2017",
+		"id": 934850881836630000,
+		"id_str": "934850881836630016",
+		"text": "RT @mailshakeapp: Use #DesignThinking to Beat the ‘Feature Factory’: https://t.co/KyqrXNVLQz by @NikkiElizDemere on @DigitalSurgeons #ProdM…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DesignThinking",
+					"indices": [
+						22,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mailshakeapp",
+					"name": "mailshake",
+					"id": 743134105701777400,
+					"id_str": "743134105701777408",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "NikkiElizDemere",
+					"name": "Nichole Elizabeth 🌻",
+					"id": 39099783,
+					"id_str": "39099783",
+					"indices": [
+						96,
+						112
+					]
+				},
+				{
+					"screen_name": "digitalsurgeons",
+					"name": "Digital Surgeons",
+					"id": 18189130,
+					"id_str": "18189130",
+					"indices": [
+						116,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KyqrXNVLQz",
+					"expanded_url": "https://buff.ly/2n55w9o",
+					"display_url": "buff.ly/2n55w9o",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Serial Entrepreneur. AirBnB Superhost. Chatbot & AI developer. Run @singaporesail #SailforSG. 💖Twitter. Passionate abt education. Allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34398,
+			"friends_count": 10321,
+			"listed_count": 998,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8563,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9178,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 26 14:17:02 +0000 2017",
+			"id": 934788087963639800,
+			"id_str": "934788087963639808",
+			"text": "Use #DesignThinking to Beat the ‘Feature Factory’: https://t.co/KyqrXNVLQz by @NikkiElizDemere on @DigitalSurgeons… https://t.co/zigmvyiaRu",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DesignThinking",
+						"indices": [
+							4,
+							19
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NikkiElizDemere",
+						"name": "Nichole Elizabeth 🌻",
+						"id": 39099783,
+						"id_str": "39099783",
+						"indices": [
+							78,
+							94
+						]
+					},
+					{
+						"screen_name": "digitalsurgeons",
+						"name": "Digital Surgeons",
+						"id": 18189130,
+						"id_str": "18189130",
+						"indices": [
+							98,
+							114
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/KyqrXNVLQz",
+						"expanded_url": "https://buff.ly/2n55w9o",
+						"display_url": "buff.ly/2n55w9o",
+						"indices": [
+							51,
+							74
+						]
+					},
+					{
+						"url": "https://t.co/zigmvyiaRu",
+						"expanded_url": "https://twitter.com/i/web/status/934788087963639808",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 743134105701777400,
+				"id_str": "743134105701777408",
+				"name": "mailshake",
+				"screen_name": "mailshakeapp",
+				"location": "Indianapolis, Austin & SF",
+				"description": "Outreach emails, perfected.",
+				"url": "https://t.co/a9DJtBatd0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/a9DJtBatd0",
+								"expanded_url": "https://mailshake.com",
+								"display_url": "mailshake.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3340,
+				"friends_count": 3595,
+				"listed_count": 397,
+				"created_at": "Wed Jun 15 17:32:32 +0000 2016",
+				"favourites_count": 3907,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2870,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/743134182205841408/dCdrZkti_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/743134182205841408/dCdrZkti_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/743134105701777408/1466012240",
+				"profile_link_color": "005AAC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 8,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 26 18:23:46 +0000 2017",
+		"id": 934850179437535200,
+		"id_str": "934850179437535232",
+		"text": "RT @get_buzzing: How to access Twitter's API - A Guide for Non Developers https://t.co/OI5sjG3HQx @debbiediscovers https://t.co/zQS9PycIBZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "get_buzzing",
+					"name": "Socially Buzzing INC",
+					"id": 613773174,
+					"id_str": "613773174",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						98,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OI5sjG3HQx",
+					"expanded_url": "http://bit.ly/2Ba6un0",
+					"display_url": "bit.ly/2Ba6un0",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 934426512954220500,
+					"id_str": "934426512954220544",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DPe_9nVX4AAhULn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPe_9nVX4AAhULn.jpg",
+					"url": "https://t.co/zQS9PycIBZ",
+					"display_url": "pic.twitter.com/zQS9PycIBZ",
+					"expanded_url": "https://twitter.com/get_buzzing/status/934426516393529349/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 934426516393529300,
+					"source_status_id_str": "934426516393529349",
+					"source_user_id": 613773174,
+					"source_user_id_str": "613773174"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 934426512954220500,
+					"id_str": "934426512954220544",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DPe_9nVX4AAhULn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPe_9nVX4AAhULn.jpg",
+					"url": "https://t.co/zQS9PycIBZ",
+					"display_url": "pic.twitter.com/zQS9PycIBZ",
+					"expanded_url": "https://twitter.com/get_buzzing/status/934426516393529349/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 934426516393529300,
+					"source_status_id_str": "934426516393529349",
+					"source_user_id": 613773174,
+					"source_user_id_str": "613773174"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Serial Entrepreneur. AirBnB Superhost. Chatbot & AI developer. Run @singaporesail #SailforSG. 💖Twitter. Passionate abt education. Allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34398,
+			"friends_count": 10321,
+			"listed_count": 998,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8563,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9178,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 25 14:20:16 +0000 2017",
+			"id": 934426516393529300,
+			"id_str": "934426516393529349",
+			"text": "How to access Twitter's API - A Guide for Non Developers https://t.co/OI5sjG3HQx @debbiediscovers https://t.co/zQS9PycIBZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							81,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/OI5sjG3HQx",
+						"expanded_url": "http://bit.ly/2Ba6un0",
+						"display_url": "bit.ly/2Ba6un0",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 934426512954220500,
+						"id_str": "934426512954220544",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DPe_9nVX4AAhULn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPe_9nVX4AAhULn.jpg",
+						"url": "https://t.co/zQS9PycIBZ",
+						"display_url": "pic.twitter.com/zQS9PycIBZ",
+						"expanded_url": "https://twitter.com/get_buzzing/status/934426516393529349/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 934426512954220500,
+						"id_str": "934426512954220544",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DPe_9nVX4AAhULn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPe_9nVX4AAhULn.jpg",
+						"url": "https://t.co/zQS9PycIBZ",
+						"display_url": "pic.twitter.com/zQS9PycIBZ",
+						"expanded_url": "https://twitter.com/get_buzzing/status/934426516393529349/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 613773174,
+				"id_str": "613773174",
+				"name": "Socially Buzzing INC",
+				"screen_name": "get_buzzing",
+				"location": "Cincinnati, Ohio",
+				"description": "Socially Buzzing works with businesses to lay the groundwork for social success, market digitally, and brand their presence across Web 2.0. #SMM #SEO #WEBDEV",
+				"url": "http://t.co/ROCye1X818",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ROCye1X818",
+								"expanded_url": "http://sociallybuzzing.com",
+								"display_url": "sociallybuzzing.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3897,
+				"friends_count": 808,
+				"listed_count": 319,
+				"created_at": "Wed Jun 20 19:29:02 +0000 2012",
+				"favourites_count": 437,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4187,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "282828",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453944714471800832/pdGtn2eI.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453944714471800832/pdGtn2eI.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/687741378378489856/k5XUEk3V_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/687741378378489856/k5XUEk3V_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/613773174/1452801467",
+				"profile_link_color": "00BBEF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Nov 26 13:07:01 +0000 2017",
 		"id": 934770466979446800,
 		"id_str": "934770466979446784",
