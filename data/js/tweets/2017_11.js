@@ -1,6 +1,508 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sun Nov 26 23:41:01 +0000 2017",
+		"id": 934930017708138500,
+		"id_str": "934930017708138496",
+		"text": "RT @theodoropoylos: 10 benefits of adopting chatbot marketing to your business https://t.co/K5mu1tQvzq https://t.co/30QEGCNUpm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theodoropoylos",
+					"name": "Giannis",
+					"id": 31352658,
+					"id_str": "31352658",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/K5mu1tQvzq",
+					"expanded_url": "http://bit.ly/2iOTAEa",
+					"display_url": "bit.ly/2iOTAEa",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 934902101611868200,
+					"id_str": "934902101611868160",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DPlwghJXcAAsPNs.png",
+					"media_url_https": "https://pbs.twimg.com/media/DPlwghJXcAAsPNs.png",
+					"url": "https://t.co/30QEGCNUpm",
+					"display_url": "pic.twitter.com/30QEGCNUpm",
+					"expanded_url": "https://twitter.com/theodoropoylos/status/934902104489168897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 503,
+							"h": 455,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 503,
+							"h": 455,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 503,
+							"h": 455,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 934902104489168900,
+					"source_status_id_str": "934902104489168897",
+					"source_user_id": 31352658,
+					"source_user_id_str": "31352658"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 934902101611868200,
+					"id_str": "934902101611868160",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DPlwghJXcAAsPNs.png",
+					"media_url_https": "https://pbs.twimg.com/media/DPlwghJXcAAsPNs.png",
+					"url": "https://t.co/30QEGCNUpm",
+					"display_url": "pic.twitter.com/30QEGCNUpm",
+					"expanded_url": "https://twitter.com/theodoropoylos/status/934902104489168897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 503,
+							"h": 455,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 503,
+							"h": 455,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 503,
+							"h": 455,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 934902104489168900,
+					"source_status_id_str": "934902104489168897",
+					"source_user_id": 31352658,
+					"source_user_id_str": "31352658"
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Serial Entrepreneur. Chatbot & AI developer. #GlobalEducation advocate. School Builder. I run @singaporesail #SailforSG Allergic to sloth and stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34468,
+			"friends_count": 10833,
+			"listed_count": 998,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8628,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9187,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 26 21:50:06 +0000 2017",
+			"id": 934902104489168900,
+			"id_str": "934902104489168897",
+			"text": "10 benefits of adopting chatbot marketing to your business https://t.co/K5mu1tQvzq https://t.co/30QEGCNUpm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/K5mu1tQvzq",
+						"expanded_url": "http://bit.ly/2iOTAEa",
+						"display_url": "bit.ly/2iOTAEa",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 934902101611868200,
+						"id_str": "934902101611868160",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/DPlwghJXcAAsPNs.png",
+						"media_url_https": "https://pbs.twimg.com/media/DPlwghJXcAAsPNs.png",
+						"url": "https://t.co/30QEGCNUpm",
+						"display_url": "pic.twitter.com/30QEGCNUpm",
+						"expanded_url": "https://twitter.com/theodoropoylos/status/934902104489168897/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 503,
+								"h": 455,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 503,
+								"h": 455,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 503,
+								"h": 455,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 934902101611868200,
+						"id_str": "934902101611868160",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/DPlwghJXcAAsPNs.png",
+						"media_url_https": "https://pbs.twimg.com/media/DPlwghJXcAAsPNs.png",
+						"url": "https://t.co/30QEGCNUpm",
+						"display_url": "pic.twitter.com/30QEGCNUpm",
+						"expanded_url": "https://twitter.com/theodoropoylos/status/934902104489168897/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 503,
+								"h": 455,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 503,
+								"h": 455,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 503,
+								"h": 455,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31352658,
+				"id_str": "31352658",
+				"name": "Giannis",
+				"screen_name": "theodoropoylos",
+				"location": "Greece - Cyprus and beyond",
+				"description": "#Digital #Marketer Consultant #SEO #SocialMedia #growthacker #ContentMarketing #DigitalAnalytics #CRO #webdevelopment #webdesign",
+				"url": "https://t.co/cWr2X59xdh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cWr2X59xdh",
+								"expanded_url": "https://www.linkedin.com/in/giannistheodoropoulos/",
+								"display_url": "linkedin.com/in/giannistheo…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3369,
+				"friends_count": 3198,
+				"listed_count": 145,
+				"created_at": "Wed Apr 15 05:54:11 +0000 2009",
+				"favourites_count": 41,
+				"utc_offset": 7200,
+				"time_zone": "Athens",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3444,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "59472F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/875371852/d5b892af209e212de112792342b7137c.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/875371852/d5b892af209e212de112792342b7137c.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836989585150332928/d0yjCqYY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836989585150332928/d0yjCqYY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31352658/1488220493",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "061127",
+				"profile_text_color": "827972",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 26 23:35:19 +0000 2017",
+		"id": 934928585093206000,
+		"id_str": "934928585093206017",
+		"text": "Educators on #ArtificialIntelligence: Here's the One Thing It Can't Do Well https://t.co/lOPQLxAcN0 #edtech via… https://t.co/ByNqu1j3te",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ArtificialIntelligence",
+					"indices": [
+						13,
+						36
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						100,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lOPQLxAcN0",
+					"expanded_url": "https://buff.ly/2BdeROy",
+					"display_url": "buff.ly/2BdeROy",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/ByNqu1j3te",
+					"expanded_url": "https://twitter.com/i/web/status/934928585093206017",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Serial Entrepreneur. Chatbot & AI developer. #GlobalEducation advocate. School Builder. I run @singaporesail #SailforSG Allergic to sloth and stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34468,
+			"friends_count": 10833,
+			"listed_count": 998,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8628,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9187,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Nov 26 22:52:41 +0000 2017",
 		"id": 934917855027519500,
 		"id_str": "934917855027519488",
