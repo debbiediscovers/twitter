@@ -1,6 +1,832 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Tue Nov 28 02:50:26 +0000 2017",
+		"id": 935340075914633200,
+		"id_str": "935340075914633216",
+		"text": "7 metrics for monitoring your chatbot’s performance https://t.co/WFFLWXLWza via @VentureBeat #ChatBot #Analytics",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ChatBot",
+					"indices": [
+						93,
+						101
+					]
+				},
+				{
+					"text": "Analytics",
+					"indices": [
+						102,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VentureBeat",
+					"name": "VentureBeat",
+					"id": 60642052,
+					"id_str": "60642052",
+					"indices": [
+						80,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WFFLWXLWza",
+					"expanded_url": "https://venturebeat.com/2017/11/19/7-metrics-for-measuring-chatbot-success/",
+					"display_url": "venturebeat.com/2017/11/19/7-m…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Serial Entrepreneur | Chatbot builder | #GlobalEducation advocate | School Builder | I run @singaporesail #SailforSG | Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34548,
+			"friends_count": 10503,
+			"listed_count": 1000,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8337,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9213,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 28 02:49:14 +0000 2017",
+		"id": 935339773526360000,
+		"id_str": "935339773526360065",
+		"text": "#GREAT 10 Social Media Trends That Will Shape 2018 - The Experts' Voice by @richyjin for @talkwalker byhttps://www.… https://t.co/mFZzylJCnO",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GREAT",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "richyjin",
+					"name": "richard sunley",
+					"id": 131080373,
+					"id_str": "131080373",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"screen_name": "Talkwalker",
+					"name": "Talkwalker",
+					"id": 435009374,
+					"id_str": "435009374",
+					"indices": [
+						89,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mFZzylJCnO",
+					"expanded_url": "https://twitter.com/i/web/status/935339773526360065",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Serial Entrepreneur | Chatbot builder | #GlobalEducation advocate | School Builder | I run @singaporesail #SailforSG | Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34548,
+			"friends_count": 10503,
+			"listed_count": 1000,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8337,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9213,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 28 02:40:21 +0000 2017",
+		"id": 935337540017623000,
+		"id_str": "935337540017623040",
+		"text": "Salesforce's Einstein #AI debuts bot platform for businesses via @venturebeat https://t.co/VgPFEONLkT #ArtificialIntelligence",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "ArtificialIntelligence",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VentureBeat",
+					"name": "VentureBeat",
+					"id": 60642052,
+					"id_str": "60642052",
+					"indices": [
+						65,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VgPFEONLkT",
+					"expanded_url": "https://buff.ly/2BjiaEa",
+					"display_url": "buff.ly/2BjiaEa",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Serial Entrepreneur | Chatbot builder | #GlobalEducation advocate | School Builder | I run @singaporesail #SailforSG | Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34548,
+			"friends_count": 10503,
+			"listed_count": 1000,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8337,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9213,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 28 02:32:13 +0000 2017",
+		"id": 935335493243306000,
+		"id_str": "935335493243305990",
+		"text": "RT @john_matthews: India implicated in one of the ‘largest ever’ bot farms to hit digital advertising https://t.co/iOeBRHRdDO via @Mumbrell…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "john_matthews",
+					"name": "John Matthews",
+					"id": 16343212,
+					"id_str": "16343212",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iOeBRHRdDO",
+					"expanded_url": "https://www.mumbrella.asia/?p=93504",
+					"display_url": "mumbrella.asia/?p=93504",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Serial Entrepreneur | Chatbot builder | #GlobalEducation advocate | School Builder | I run @singaporesail #SailforSG | Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34548,
+			"friends_count": 10503,
+			"listed_count": 1000,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8337,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9213,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 22 03:52:11 +0000 2017",
+			"id": 933181287661051900,
+			"id_str": "933181287661051904",
+			"text": "India implicated in one of the ‘largest ever’ bot farms to hit digital advertising https://t.co/iOeBRHRdDO via… https://t.co/qjcI8S2i1i",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iOeBRHRdDO",
+						"expanded_url": "https://www.mumbrella.asia/?p=93504",
+						"display_url": "mumbrella.asia/?p=93504",
+						"indices": [
+							83,
+							106
+						]
+					},
+					{
+						"url": "https://t.co/qjcI8S2i1i",
+						"expanded_url": "https://twitter.com/i/web/status/933181287661051904",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16343212,
+				"id_str": "16343212",
+				"name": "John Matthews",
+				"screen_name": "john_matthews",
+				"location": "Singapore",
+				"description": "Group Head of Performance & Media at APD. Sports mad Digital Marketer from Northampton, living in Singapore",
+				"url": "https://t.co/1LznzneGqK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1LznzneGqK",
+								"expanded_url": "http://www.apdgroup.com",
+								"display_url": "apdgroup.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1039,
+				"friends_count": 1776,
+				"listed_count": 65,
+				"created_at": "Thu Sep 18 05:02:34 +0000 2008",
+				"favourites_count": 54,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1772,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/26573529/Picture_012.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/26573529/Picture_012.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/125320474/ctl.dudley-moore1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/125320474/ctl.dudley-moore1_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 28 02:32:07 +0000 2017",
+		"id": 935335467192422400,
+		"id_str": "935335467192422400",
+		"text": "@john_matthews @MumbrellaAsia Yup it's a serious problem..",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "john_matthews",
+					"name": "John Matthews",
+					"id": 16343212,
+					"id_str": "16343212",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "MumbrellaAsia",
+					"name": "MumbrellaAsia",
+					"id": 803100357467344900,
+					"id_str": "803100357467344897",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 933181287661051900,
+		"in_reply_to_status_id_str": "933181287661051904",
+		"in_reply_to_user_id": 16343212,
+		"in_reply_to_user_id_str": "16343212",
+		"in_reply_to_screen_name": "john_matthews",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Serial Entrepreneur | Chatbot builder | #GlobalEducation advocate | School Builder | I run @singaporesail #SailforSG | Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34548,
+			"friends_count": 10503,
+			"listed_count": 1000,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8337,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9213,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 28 02:29:34 +0000 2017",
+		"id": 935334823542923300,
+		"id_str": "935334823542923264",
+		"text": "@RachelYYHuang Actually AI will only enhance Digital Marketing. What AI will do is kill content marketers who do no… https://t.co/7SLuoFt5yW",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RachelYYHuang",
+					"name": "Rachel Huang",
+					"id": 535351415,
+					"id_str": "535351415",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7SLuoFt5yW",
+					"expanded_url": "https://twitter.com/i/web/status/935334823542923264",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 933697895743750100,
+		"in_reply_to_status_id_str": "933697895743750150",
+		"in_reply_to_user_id": 535351415,
+		"in_reply_to_user_id_str": "535351415",
+		"in_reply_to_screen_name": "RachelYYHuang",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Serial Entrepreneur | Chatbot builder | #GlobalEducation advocate | School Builder | I run @singaporesail #SailforSG | Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34548,
+			"friends_count": 10503,
+			"listed_count": 1000,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8337,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9213,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 28 01:04:19 +0000 2017",
 		"id": 935313369854238700,
 		"id_str": "935313369854238721",
@@ -197,7 +1023,7 @@ Grailbird.data.tweets_2017_11 =
 		"created_at": "Tue Nov 28 01:02:43 +0000 2017",
 		"id": 935312968194990100,
 		"id_str": "935312968194990080",
-		"text": "My kind of social media. 😘 ✌️🙋‍♀️\n\n12 of the Sassiest Brands on Social Media https://t.co/csu26AHOdk via @HubSpot",
+		"text": "My kind of social media. 😘 ✌️🙋♀️\n\n12 of the Sassiest Brands on Social Media https://t.co/csu26AHOdk via @HubSpot",
 		"truncated": false,
 		"entities": {
 			"hashtags": [],
