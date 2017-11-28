@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Tue Nov 28 21:26:36 +0000 2017",
+		"id": 935620967287504900,
+		"id_str": "935620967287504896",
+		"text": "RT @TheRegister: Pro tip: You can log into macOS High Sierra as root with no password https://t.co/oe74nAVr2I",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheRegister",
+					"name": "The Register",
+					"id": 78012548,
+					"id_str": "78012548",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oe74nAVr2I",
+					"expanded_url": "http://reg.cx/2vyD",
+					"display_url": "reg.cx/2vyD",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Serial Entrepreneur | Chatbot builder | #GlobalEducation advocate | School Builder | I run @singaporesail #SailforSG | Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34492,
+			"friends_count": 10595,
+			"listed_count": 1000,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8644,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9241,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 28 20:16:52 +0000 2017",
+			"id": 935603419208978400,
+			"id_str": "935603419208978433",
+			"text": "Pro tip: You can log into macOS High Sierra as root with no password https://t.co/oe74nAVr2I",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/oe74nAVr2I",
+						"expanded_url": "http://reg.cx/2vyD",
+						"display_url": "reg.cx/2vyD",
+						"indices": [
+							69,
+							92
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://theregister.co.uk/\" rel=\"nofollow\">Vulture Central</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 78012548,
+				"id_str": "78012548",
+				"name": "The Register",
+				"screen_name": "TheRegister",
+				"location": "London  San Francisco  Sydney",
+				"description": "Biting the hand that feeds IT. Technology and science news for world+dog. Send tipoffs to news@theregister.co.uk",
+				"url": "http://t.co/Gxz6SJm95D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Gxz6SJm95D",
+								"expanded_url": "http://www.theregister.co.uk/",
+								"display_url": "theregister.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 75601,
+				"friends_count": 71,
+				"listed_count": 3193,
+				"created_at": "Mon Sep 28 13:24:46 +0000 2009",
+				"favourites_count": 1271,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 106647,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "292A2B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000099035295/7621a6d721ecae23dc5d3df4c6c4279a.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000099035295/7621a6d721ecae23dc5d3df4c6c4279a.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000628331746/5f111cbaa05662491e9e2468a26fd364_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000628331746/5f111cbaa05662491e9e2468a26fd364_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/78012548/1454510421",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "2E2D2E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 336,
+			"favorite_count": 252,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 336,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 28 21:13:12 +0000 2017",
+		"id": 935617597340500000,
+		"id_str": "935617597340499968",
+		"text": "#Trending Yikes! https://t.co/v1E5Y5hMtS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Trending",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v1E5Y5hMtS",
+					"expanded_url": "https://twitter.com/lemiorhan/status/935578694541770752",
+					"display_url": "twitter.com/lemiorhan/stat…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Serial Entrepreneur | Chatbot builder | #GlobalEducation advocate | School Builder | I run @singaporesail #SailforSG | Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34492,
+			"friends_count": 10595,
+			"listed_count": 1000,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8644,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9241,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 935578694541770800,
+		"quoted_status_id_str": "935578694541770752",
+		"quoted_status": {
+			"created_at": "Tue Nov 28 18:38:37 +0000 2017",
+			"id": 935578694541770800,
+			"id_str": "935578694541770752",
+			"text": "Dear @AppleSupport, we noticed a *HUGE* security issue at MacOS High Sierra. Anyone can login as \"root\" with empty… https://t.co/2il11lEgj9",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AppleSupport",
+						"name": "Apple Support",
+						"id": 3309375033,
+						"id_str": "3309375033",
+						"indices": [
+							5,
+							18
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2il11lEgj9",
+						"expanded_url": "https://twitter.com/i/web/status/935578694541770752",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19352690,
+				"id_str": "19352690",
+				"name": "Lemi Orhan Ergin",
+				"screen_name": "lemiorhan",
+				"location": "Istanbul, Turkey",
+				"description": "Agile Software Craftsman, iyzicoder @ https://t.co/bOY5R5tjmS, Founder of Software Craftsmanship Turkey @scturkey, The community guy https://t.co/HGm61kkGK4",
+				"url": "https://t.co/lnyrs7v63E",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lnyrs7v63E",
+								"expanded_url": "http://www.lemiorhanergin.com",
+								"display_url": "lemiorhanergin.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/bOY5R5tjmS",
+								"expanded_url": "http://www.iyzico.com",
+								"display_url": "iyzico.com",
+								"indices": [
+									38,
+									61
+								]
+							},
+							{
+								"url": "https://t.co/HGm61kkGK4",
+								"expanded_url": "http://bit.ly/lemiorhan",
+								"display_url": "bit.ly/lemiorhan",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5359,
+				"friends_count": 999,
+				"listed_count": 164,
+				"created_at": "Thu Jan 22 18:32:55 +0000 2009",
+				"favourites_count": 8597,
+				"utc_offset": 10800,
+				"time_zone": "Istanbul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6364,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/366695052/twiterbackground.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/366695052/twiterbackground.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/804424648586838016/CzQcq6d7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/804424648586838016/CzQcq6d7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19352690/1478705916",
+				"profile_link_color": "124B91",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4646,
+			"favorite_count": 4189,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 28 21:06:00 +0000 2017",
 		"id": 935615782699933700,
 		"id_str": "935615782699933696",
