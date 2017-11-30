@@ -1,6 +1,573 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Thu Nov 30 21:39:06 +0000 2017",
+		"id": 936348890374144000,
+		"id_str": "936348890374144000",
+		"text": "Oh WOW my second video response for today! #LOVE @MadalynSklar thanks so much your video made my day!!!!… https://t.co/AGxDjccYi0",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOVE",
+					"indices": [
+						43,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MadalynSklar",
+					"name": "Madalyn Sklar 🚀 Speaker. Podcaster. Chat Host.",
+					"id": 14164297,
+					"id_str": "14164297",
+					"indices": [
+						49,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AGxDjccYi0",
+					"expanded_url": "https://twitter.com/i/web/status/936348890374144000",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Serial Entrepreneur | Chatbot builder | #GlobalEducation advocate | School Builder | I run @singaporesail #SailforSG | Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35127,
+			"friends_count": 13042,
+			"listed_count": 1008,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8556,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9330,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 936343542615695400,
+		"quoted_status_id_str": "936343542615695368",
+		"quoted_status": {
+			"created_at": "Thu Nov 30 21:17:51 +0000 2017",
+			"id": 936343542615695400,
+			"id_str": "936343542615695368",
+			"text": "@debbiediscovers @AskAaronLee @WhoTrendedIT Thank you Deborah! I appreciate your kind words. #TwitterSmarter rocks.… https://t.co/SOnH45x1Ay",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TwitterSmarter",
+						"indices": [
+							93,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							0,
+							16
+						]
+					},
+					{
+						"screen_name": "AskAaronLee",
+						"name": "Aaron Lee",
+						"id": 25458378,
+						"id_str": "25458378",
+						"indices": [
+							17,
+							29
+						]
+					},
+					{
+						"screen_name": "WhoTrendedIT",
+						"name": "Who Trended it ?",
+						"id": 1304720396,
+						"id_str": "1304720396",
+						"indices": [
+							30,
+							43
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SOnH45x1Ay",
+						"expanded_url": "https://twitter.com/i/web/status/936343542615695368",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 936329794173546500,
+			"in_reply_to_status_id_str": "936329794173546496",
+			"in_reply_to_user_id": 3060836348,
+			"in_reply_to_user_id_str": "3060836348",
+			"in_reply_to_screen_name": "debbiediscovers",
+			"user": {
+				"id": 14164297,
+				"id_str": "14164297",
+				"name": "Madalyn Sklar 🚀 Speaker. Podcaster. Chat Host.",
+				"screen_name": "MadalynSklar",
+				"location": "Houston, TX",
+				"description": "Twitter Marketing Pro. Hear my podcast 🎧 https://t.co/nBDQrJYmZT. Host #TwitterSmarter chat Thurs 1pm ET. Host #SocialROI chat Tues 5pm ET. #VideoReplyDay",
+				"url": "https://t.co/Oaeqp32FDf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Oaeqp32FDf",
+								"expanded_url": "http://www.madalynsklar.com",
+								"display_url": "madalynsklar.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nBDQrJYmZT",
+								"expanded_url": "http://bit.ly/twittersmarter",
+								"display_url": "bit.ly/twittersmarter",
+								"indices": [
+									41,
+									64
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 65556,
+				"friends_count": 49893,
+				"listed_count": 4466,
+				"created_at": "Mon Mar 17 17:00:38 +0000 2008",
+				"favourites_count": 95594,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 159596,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/686424901540958208/G5PA4JQ3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/686424901540958208/G5PA4JQ3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14164297/1485550174",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 30 21:37:54 +0000 2017",
+		"id": 936348589025980400,
+		"id_str": "936348589025980416",
+		"text": "How awesome is it when the CEO of a top Twitter Marketing firm takes the time to make you a video response to your… https://t.co/Q1b3mvYK93",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q1b3mvYK93",
+					"expanded_url": "https://twitter.com/i/web/status/936348589025980416",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Serial Entrepreneur | Chatbot builder | #GlobalEducation advocate | School Builder | I run @singaporesail #SailforSG | Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35127,
+			"friends_count": 13042,
+			"listed_count": 1008,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8556,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9330,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 936232546060390400,
+		"quoted_status_id_str": "936232546060390401",
+		"quoted_status": {
+			"created_at": "Thu Nov 30 13:56:47 +0000 2017",
+			"id": 936232546060390400,
+			"id_str": "936232546060390401",
+			"text": "@debbiediscovers @Inquisition @buffer @scottmannTN @TwitterSupport @UnionMetrics @alfred_lua @Brian_G_Peters… https://t.co/TSU7cxk4tC",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							0,
+							16
+						]
+					},
+					{
+						"screen_name": "Inquisition",
+						"name": "Inquisition",
+						"id": 16488746,
+						"id_str": "16488746",
+						"indices": [
+							17,
+							29
+						]
+					},
+					{
+						"screen_name": "buffer",
+						"name": "Buffer",
+						"id": 197962366,
+						"id_str": "197962366",
+						"indices": [
+							30,
+							37
+						]
+					},
+					{
+						"screen_name": "scottmannTN",
+						"name": "Scott Ninneman",
+						"id": 35955278,
+						"id_str": "35955278",
+						"indices": [
+							38,
+							50
+						]
+					},
+					{
+						"screen_name": "TwitterSupport",
+						"name": "Twitter Support",
+						"id": 17874544,
+						"id_str": "17874544",
+						"indices": [
+							51,
+							66
+						]
+					},
+					{
+						"screen_name": "UnionMetrics",
+						"name": "Union Metrics",
+						"id": 392394776,
+						"id_str": "392394776",
+						"indices": [
+							67,
+							80
+						]
+					},
+					{
+						"screen_name": "alfred_lua",
+						"name": "Alfred Lua",
+						"id": 1303155157,
+						"id_str": "1303155157",
+						"indices": [
+							81,
+							92
+						]
+					},
+					{
+						"screen_name": "Brian_G_Peters",
+						"name": "Brian Peters 📲",
+						"id": 218393841,
+						"id_str": "218393841",
+						"indices": [
+							93,
+							108
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/TSU7cxk4tC",
+						"expanded_url": "https://twitter.com/i/web/status/936232546060390401",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 936002264304513000,
+			"in_reply_to_status_id_str": "936002264304513024",
+			"in_reply_to_user_id": 3060836348,
+			"in_reply_to_user_id_str": "3060836348",
+			"in_reply_to_screen_name": "debbiediscovers",
+			"user": {
+				"id": 100065631,
+				"id_str": "100065631",
+				"name": "Mike Kawula 🌴🐨🌴",
+				"screen_name": "MikeKawula",
+				"location": "Tampa, FL",
+				"description": "Entrepreneur, Author, Inc 500 Alum, Dad & Husband 🙏 CEO @theSocialQuant Social Media Twitter Startup Tool 😎 Top 100 Marketing Influencer https://t.co/EBcMhmC4cc",
+				"url": "https://t.co/cVcybNjA60",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cVcybNjA60",
+								"expanded_url": "http://www.SocialQuant.net",
+								"display_url": "SocialQuant.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/EBcMhmC4cc",
+								"expanded_url": "http://bit.ly/mkawula",
+								"display_url": "bit.ly/mkawula",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 111077,
+				"friends_count": 74929,
+				"listed_count": 5987,
+				"created_at": "Mon Dec 28 22:36:58 +0000 2009",
+				"favourites_count": 11632,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 114936,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F2F0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000173310249/A8MStUKG.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000173310249/A8MStUKG.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/846351831542501377/7lD5Pinb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/846351831542501377/7lD5Pinb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/100065631/1495889961",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 30 21:07:37 +0000 2017",
 		"id": 936340967115731000,
 		"id_str": "936340967115730946",
