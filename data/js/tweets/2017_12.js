@@ -1,6 +1,772 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Fri Dec 01 20:37:23 +0000 2017",
+		"id": 936695746178334700,
+		"id_str": "936695746178334720",
+		"text": "@gobottish @ainabivi Yes! That would be pretty cool! Ok see what I can do! 🇸🇬👍😊",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gobottish",
+					"name": "bottish #5: Dec, 7",
+					"id": 760815330923077600,
+					"id_str": "760815330923077633",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "ainabivi",
+					"name": "Ainara Bilbao 💃",
+					"id": 2168049924,
+					"id_str": "2168049924",
+					"indices": [
+						11,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 936693821324300300,
+		"in_reply_to_status_id_str": "936693821324300288",
+		"in_reply_to_user_id": 760815330923077600,
+		"in_reply_to_user_id_str": "760815330923077633",
+		"in_reply_to_screen_name": "gobottish",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick Entrepreneur | #bottish100 | #GlobalEducation advocate | School Builder | I run @singaporesail #SailforSG | Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35480,
+			"friends_count": 13117,
+			"listed_count": 1009,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8780,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9353,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 01 20:33:46 +0000 2017",
+		"id": 936694834529583100,
+		"id_str": "936694834529583104",
+		"text": "RT @gobottish: Welcome 👋🏻 hope to have #Singapore as a #bottish host in 2018 🙏🏻 see https://t.co/94HrsweYUN best @ainabivi https://t.co/2TQ…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Singapore",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"text": "bottish",
+					"indices": [
+						55,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gobottish",
+					"name": "bottish #5: Dec, 7",
+					"id": 760815330923077600,
+					"id_str": "760815330923077633",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "ainabivi",
+					"name": "Ainara Bilbao 💃",
+					"id": 2168049924,
+					"id_str": "2168049924",
+					"indices": [
+						113,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/94HrsweYUN",
+					"expanded_url": "http://meet.bottish.co",
+					"display_url": "meet.bottish.co",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick Entrepreneur | #bottish100 | #GlobalEducation advocate | School Builder | I run @singaporesail #SailforSG | Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35480,
+			"friends_count": 13117,
+			"listed_count": 1009,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8780,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9353,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 01 20:29:44 +0000 2017",
+			"id": 936693821324300300,
+			"id_str": "936693821324300288",
+			"text": "Welcome 👋🏻 hope to have #Singapore as a #bottish host in 2018 🙏🏻 see https://t.co/94HrsweYUN best @ainabivi https://t.co/2TQKSk21ye",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Singapore",
+						"indices": [
+							24,
+							34
+						]
+					},
+					{
+						"text": "bottish",
+						"indices": [
+							40,
+							48
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ainabivi",
+						"name": "Ainara Bilbao 💃",
+						"id": 2168049924,
+						"id_str": "2168049924",
+						"indices": [
+							98,
+							107
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/94HrsweYUN",
+						"expanded_url": "http://meet.bottish.co",
+						"display_url": "meet.bottish.co",
+						"indices": [
+							69,
+							92
+						]
+					},
+					{
+						"url": "https://t.co/2TQKSk21ye",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/936693044983689216",
+						"display_url": "twitter.com/debbiediscover…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 760815330923077600,
+				"id_str": "760815330923077633",
+				"name": "bottish #5: Dec, 7",
+				"screen_name": "gobottish",
+				"location": "🇨🇭🇦🇹🇬🇧🇫🇷🇩🇪",
+				"description": "All about 🤖 ro/bots •🎙 First worldwide free digital conference • 📆 Six times a year • 🇨🇭🇪🇸 Made • 🚀 Founded @thomaschulz • 📺 https://t.co/YMcmMI4Vng",
+				"url": "https://t.co/g68Tpz3dy2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/g68Tpz3dy2",
+								"expanded_url": "http://go.bottish.co",
+								"display_url": "go.bottish.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YMcmMI4Vng",
+								"expanded_url": "http://join.bottish.co",
+								"display_url": "join.bottish.co",
+								"indices": [
+									125,
+									148
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4677,
+				"friends_count": 3523,
+				"listed_count": 464,
+				"created_at": "Wed Aug 03 12:31:24 +0000 2016",
+				"favourites_count": 14904,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4088,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/913690620908187648/vDvyzTJh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/913690620908187648/vDvyzTJh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/760815330923077633/1506675761",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 936693044983689200,
+			"quoted_status_id_str": "936693044983689216",
+			"quoted_status": {
+				"created_at": "Fri Dec 01 20:26:39 +0000 2017",
+				"id": 936693044983689200,
+				"id_str": "936693044983689216",
+				"text": "Thanks for including me in the #bottish100 🤖 #1 in Singapore 🙌🇸🇬 https://t.co/mQRdHgTpnd",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "bottish100",
+							"indices": [
+								31,
+								42
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/mQRdHgTpnd",
+							"expanded_url": "https://twitter.com/sprkybot/status/935792856266133504",
+							"display_url": "twitter.com/sprkybot/statu…",
+							"indices": [
+								65,
+								88
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"name": "Deborah Kay",
+					"screen_name": "debbiediscovers",
+					"location": "Singapore",
+					"description": "Lipstick Entrepreneur | #bottish100 | #GlobalEducation advocate | School Builder | I run @singaporesail #SailforSG | Love Twitter, allergic to stupid tweets",
+					"url": "https://t.co/IprDI3V3T9",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/IprDI3V3T9",
+									"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+									"display_url": "digitaldiscovery.sg/about-deborah-…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 35480,
+					"friends_count": 13117,
+					"listed_count": 1009,
+					"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+					"favourites_count": 8780,
+					"utc_offset": -39600,
+					"time_zone": "International Date Line West",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 9353,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EBEBEB",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+					"profile_link_color": "D50252",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 935792856266133500,
+				"quoted_status_id_str": "935792856266133504",
+				"retweet_count": 0,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 936693044983689200,
+		"quoted_status_id_str": "936693044983689216",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 01 20:26:39 +0000 2017",
+		"id": 936693044983689200,
+		"id_str": "936693044983689216",
+		"text": "Thanks for including me in the #bottish100 🤖 #1 in Singapore 🙌🇸🇬 https://t.co/mQRdHgTpnd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bottish100",
+					"indices": [
+						31,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mQRdHgTpnd",
+					"expanded_url": "https://twitter.com/sprkybot/status/935792856266133504",
+					"display_url": "twitter.com/sprkybot/statu…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Lipstick Entrepreneur | #bottish100 | #GlobalEducation advocate | School Builder | I run @singaporesail #SailforSG | Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35480,
+			"friends_count": 13117,
+			"listed_count": 1009,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8780,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9353,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 935792856266133500,
+		"quoted_status_id_str": "935792856266133504",
+		"quoted_status": {
+			"created_at": "Wed Nov 29 08:49:37 +0000 2017",
+			"id": 935792856266133500,
+			"id_str": "935792856266133504",
+			"text": "🚀 Our Top Performers\n📆 Week 48\n🇸🇬 #Singapore \n🤖 I am #bottish #AI #bots #robotics\n👉🏼 https://t.co/lWUZ2iHIrN… https://t.co/0vuYuVAC0k",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Singapore",
+						"indices": [
+							34,
+							44
+						]
+					},
+					{
+						"text": "bottish",
+						"indices": [
+							53,
+							61
+						]
+					},
+					{
+						"text": "AI",
+						"indices": [
+							62,
+							65
+						]
+					},
+					{
+						"text": "bots",
+						"indices": [
+							66,
+							71
+						]
+					},
+					{
+						"text": "robotics",
+						"indices": [
+							72,
+							81
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lWUZ2iHIrN",
+						"expanded_url": "http://iam.bottish.co",
+						"display_url": "iam.bottish.co",
+						"indices": [
+							85,
+							108
+						]
+					},
+					{
+						"url": "https://t.co/0vuYuVAC0k",
+						"expanded_url": "https://twitter.com/i/web/status/935792856266133504",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 768515799644532700,
+				"id_str": "768515799644532736",
+				"name": "Sparky Bot 🕵🏼",
+				"screen_name": "SprkyBot",
+				"location": "",
+				"description": "24/7 supporting @gobottish #bots #chatbots #AI #robotics #bottish100 99% 🤖 bot-made, 1% human 👨🏻‍💻 @thomaschulz #sprkyfeed",
+				"url": "https://t.co/g68Tpz3dy2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/g68Tpz3dy2",
+								"expanded_url": "http://go.bottish.co",
+								"display_url": "go.bottish.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 645,
+				"friends_count": 3,
+				"listed_count": 432,
+				"created_at": "Wed Aug 24 18:30:19 +0000 2016",
+				"favourites_count": 713,
+				"utc_offset": 3600,
+				"time_zone": "Bern",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 36677,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/771618390003687424/_0oJCn9t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/771618390003687424/_0oJCn9t_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/768515799644532736/1506676976",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 01 19:26:00 +0000 2017",
 		"id": 936677783236960300,
 		"id_str": "936677783236960262",
