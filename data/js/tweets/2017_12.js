@@ -1,6 +1,797 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Fri Dec 01 23:09:58 +0000 2017",
+		"id": 936734143416635400,
+		"id_str": "936734143416635392",
+		"text": "@Capwalid @SprkyBot @gobottish @victoralexiev @bhoga @Changsst @willvelida @kesterpoh @ginaheng80 @yhchao_tw… https://t.co/mhMK7WvBJH",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Capwalid",
+					"name": "ωαℓiɒ",
+					"id": 903579566,
+					"id_str": "903579566",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "SprkyBot",
+					"name": "Sparky Bot 🕵🏼",
+					"id": 768515799644532700,
+					"id_str": "768515799644532736",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"screen_name": "gobottish",
+					"name": "bottish #5: Dec, 7",
+					"id": 760815330923077600,
+					"id_str": "760815330923077633",
+					"indices": [
+						20,
+						30
+					]
+				},
+				{
+					"screen_name": "victoralexiev",
+					"name": "Victor Alexiev",
+					"id": 95860007,
+					"id_str": "95860007",
+					"indices": [
+						31,
+						45
+					]
+				},
+				{
+					"screen_name": "bhoga",
+					"name": "Bhagaban Behera",
+					"id": 12063312,
+					"id_str": "12063312",
+					"indices": [
+						46,
+						52
+					]
+				},
+				{
+					"screen_name": "Changsst",
+					"name": "Sze Tho ChangSheng",
+					"id": 82589705,
+					"id_str": "82589705",
+					"indices": [
+						53,
+						62
+					]
+				},
+				{
+					"screen_name": "willvelida",
+					"name": "Will Velida",
+					"id": 198597597,
+					"id_str": "198597597",
+					"indices": [
+						63,
+						74
+					]
+				},
+				{
+					"screen_name": "kesterpoh",
+					"name": "Kester Poh",
+					"id": 26999915,
+					"id_str": "26999915",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"screen_name": "ginaheng80",
+					"name": "Gina Heng",
+					"id": 18552903,
+					"id_str": "18552903",
+					"indices": [
+						86,
+						97
+					]
+				},
+				{
+					"screen_name": "yhchao_tw",
+					"name": "YuHsuan Chao",
+					"id": 706797570153001000,
+					"id_str": "706797570153000960",
+					"indices": [
+						98,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mhMK7WvBJH",
+					"expanded_url": "https://twitter.com/i/web/status/936734143416635392",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 936715975810015200,
+		"in_reply_to_status_id_str": "936715975810015232",
+		"in_reply_to_user_id": 903579566,
+		"in_reply_to_user_id_str": "903579566",
+		"in_reply_to_screen_name": "Capwalid",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur | #bottish100 | #GlobalEducation advocate | Run @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP | ❤️Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35487,
+			"friends_count": 13115,
+			"listed_count": 1007,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8787,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9359,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 01 23:09:03 +0000 2017",
+		"id": 936733914101510100,
+		"id_str": "936733914101510144",
+		"text": "@gobottish @ainabivi @SprkyBot 😊😊 I suspect it might be that if you tag someone in Moments, they don't get notified… https://t.co/L2THkJY2vp",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gobottish",
+					"name": "bottish #5: Dec, 7",
+					"id": 760815330923077600,
+					"id_str": "760815330923077633",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "ainabivi",
+					"name": "Ainara Bilbao 💃",
+					"id": 2168049924,
+					"id_str": "2168049924",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "SprkyBot",
+					"name": "Sparky Bot 🕵🏼",
+					"id": 768515799644532700,
+					"id_str": "768515799644532736",
+					"indices": [
+						21,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/L2THkJY2vp",
+					"expanded_url": "https://twitter.com/i/web/status/936733914101510144",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 936724286034890800,
+		"in_reply_to_status_id_str": "936724286034890753",
+		"in_reply_to_user_id": 760815330923077600,
+		"in_reply_to_user_id_str": "760815330923077633",
+		"in_reply_to_screen_name": "gobottish",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur | #bottish100 | #GlobalEducation advocate | Run @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP | ❤️Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35487,
+			"friends_count": 13115,
+			"listed_count": 1007,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8787,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9359,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 01 23:07:36 +0000 2017",
+		"id": 936733548291039200,
+		"id_str": "936733548291039232",
+		"text": "Pretty good guide for optimising your #GoogleAnalytics for beginners https://t.co/UerQ3NKa4u via @jeffbullas",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAnalytics",
+					"indices": [
+						38,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jeffbullas",
+					"name": "Jeff Bullas",
+					"id": 18185124,
+					"id_str": "18185124",
+					"indices": [
+						97,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UerQ3NKa4u",
+					"expanded_url": "http://www.jeffbullas.com/content-marketers-google-analytics/",
+					"display_url": "jeffbullas.com/content-market…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur | #bottish100 | #GlobalEducation advocate | Run @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP | ❤️Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35487,
+			"friends_count": 13115,
+			"listed_count": 1007,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8787,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9359,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 01 23:06:26 +0000 2017",
+		"id": 936733255826419700,
+		"id_str": "936733255826419712",
+		"text": "RT @digitalfuturist: Formula One inks deal with Snapchat as it pushes drive towards digital future https://t.co/1HJtvV0JSm #digitalfuture #…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digitalfuture",
+					"indices": [
+						123,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "digitalfuturist",
+					"name": "Digital Futurist",
+					"id": 746360730920718300,
+					"id_str": "746360730920718336",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1HJtvV0JSm",
+					"expanded_url": "https://buff.ly/2igrZii",
+					"display_url": "buff.ly/2igrZii",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur | #bottish100 | #GlobalEducation advocate | Run @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP | ❤️Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35487,
+			"friends_count": 13115,
+			"listed_count": 1007,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8787,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9359,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 01 02:17:10 +0000 2017",
+			"id": 936418867223679000,
+			"id_str": "936418867223678977",
+			"text": "Formula One inks deal with Snapchat as it pushes drive towards digital future https://t.co/1HJtvV0JSm… https://t.co/QHg6APgVlS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1HJtvV0JSm",
+						"expanded_url": "https://buff.ly/2igrZii",
+						"display_url": "buff.ly/2igrZii",
+						"indices": [
+							78,
+							101
+						]
+					},
+					{
+						"url": "https://t.co/QHg6APgVlS",
+						"expanded_url": "https://twitter.com/i/web/status/936418867223678977",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 746360730920718300,
+				"id_str": "746360730920718336",
+				"name": "Digital Futurist",
+				"screen_name": "digitalfuturist",
+				"location": "In the Digital Future",
+				"description": "#AI news bot by @debbiediscovers. #DigitalDisruption, #DigitalTransformation and Strategy. In the digital future, we are all dead. The future of digital is now.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1257,
+				"friends_count": 2467,
+				"listed_count": 30,
+				"created_at": "Fri Jun 24 15:14:00 +0000 2016",
+				"favourites_count": 260,
+				"utc_offset": -39600,
+				"time_zone": "International Date Line West",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 361,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/751328844389376000/nRhNMn0W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/751328844389376000/nRhNMn0W_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/746360730920718336/1467951506",
+				"profile_link_color": "36E2BE",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 01 22:13:32 +0000 2017",
+		"id": 936719945156538400,
+		"id_str": "936719945156538369",
+		"text": "@gobottish @ainabivi Sure 😊 Perhaps let's set up a time next week? BTW I didn't get notified that I was included in… https://t.co/GRCHSF1Sz9",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gobottish",
+					"name": "bottish #5: Dec, 7",
+					"id": 760815330923077600,
+					"id_str": "760815330923077633",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "ainabivi",
+					"name": "Ainara Bilbao 💃",
+					"id": 2168049924,
+					"id_str": "2168049924",
+					"indices": [
+						11,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GRCHSF1Sz9",
+					"expanded_url": "https://twitter.com/i/web/status/936719945156538369",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 936696579859378200,
+		"in_reply_to_status_id_str": "936696579859378177",
+		"in_reply_to_user_id": 760815330923077600,
+		"in_reply_to_user_id_str": "760815330923077633",
+		"in_reply_to_screen_name": "gobottish",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur | #bottish100 | #GlobalEducation advocate | Run @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP | ❤️Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35487,
+			"friends_count": 13115,
+			"listed_count": 1007,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8787,
+			"utc_offset": -39600,
+			"time_zone": "International Date Line West",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9359,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 01 21:12:25 +0000 2017",
 		"id": 936704560969662500,
 		"id_str": "936704560969662464",
