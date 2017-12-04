@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sun Dec 03 23:18:02 +0000 2017",
+		"id": 937460949627359200,
+		"id_str": "937460949627359238",
+		"text": "RT @CECHR_UoD: Communities of Ocean Action on Marine Pollution\nhttps://t.co/yqjb7FaLoJ #SDG14 #SaveOurOcean #PlasticPollution #CleanSeas \nC…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDG14",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "SaveOurOcean",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"text": "PlasticPollution",
+					"indices": [
+						108,
+						125
+					]
+				},
+				{
+					"text": "CleanSeas",
+					"indices": [
+						126,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CECHR_UoD",
+					"name": "CECHR",
+					"id": 482133423,
+					"id_str": "482133423",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yqjb7FaLoJ",
+					"expanded_url": "http://sdg.iisd.org/events/communities-of-ocean-action-on-marine-pollution-implementation-of-sdg-14/",
+					"display_url": "sdg.iisd.org/events/communi…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur #Bottish100 Power 100 #GlobalEducation advocate @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35310,
+			"friends_count": 7621,
+			"listed_count": 1011,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8798,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9412,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 01 19:34:00 +0000 2017",
+			"id": 936679796196511700,
+			"id_str": "936679796196511744",
+			"text": "Communities of Ocean Action on Marine Pollution\nhttps://t.co/yqjb7FaLoJ #SDG14 #SaveOurOcean #PlasticPollution… https://t.co/FGpbkzbqXL",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SDG14",
+						"indices": [
+							72,
+							78
+						]
+					},
+					{
+						"text": "SaveOurOcean",
+						"indices": [
+							79,
+							92
+						]
+					},
+					{
+						"text": "PlasticPollution",
+						"indices": [
+							93,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yqjb7FaLoJ",
+						"expanded_url": "http://sdg.iisd.org/events/communities-of-ocean-action-on-marine-pollution-implementation-of-sdg-14/",
+						"display_url": "sdg.iisd.org/events/communi…",
+						"indices": [
+							48,
+							71
+						]
+					},
+					{
+						"url": "https://t.co/FGpbkzbqXL",
+						"expanded_url": "https://twitter.com/i/web/status/936679796196511744",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 936523269192138800,
+			"in_reply_to_status_id_str": "936523269192138753",
+			"in_reply_to_user_id": 482133423,
+			"in_reply_to_user_id_str": "482133423",
+			"in_reply_to_screen_name": "CECHR_UoD",
+			"user": {
+				"id": 482133423,
+				"id_str": "482133423",
+				"name": "CECHR",
+				"screen_name": "CECHR_UoD",
+				"location": "University of Dundee",
+				"description": "Centre for Environmental Change & Human Resilience: \r\nMain themes: Food Water Energy Health  Sustainability Ecology Environmental Economic & Social Well-being",
+				"url": "http://t.co/AJDpZAGAcw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/AJDpZAGAcw",
+								"expanded_url": "http://www.dundee.ac.uk/cechr",
+								"display_url": "dundee.ac.uk/cechr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 150487,
+				"friends_count": 97428,
+				"listed_count": 3648,
+				"created_at": "Fri Feb 03 15:24:19 +0000 2012",
+				"favourites_count": 36939,
+				"utc_offset": 0,
+				"time_zone": "Edinburgh",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 52546,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F7FFF2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670598631/97b8437239591ea5e99eb9a2ef911081.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670598631/97b8437239591ea5e99eb9a2ef911081.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/460738918497787904/KrpfiJYt_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/460738918497787904/KrpfiJYt_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/482133423/1398683714",
+				"profile_link_color": "00640F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Dec 03 23:09:25 +0000 2017",
 		"id": 937458781868269600,
 		"id_str": "937458781868269568",
