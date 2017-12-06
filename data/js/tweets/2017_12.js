@@ -1,6 +1,549 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Wed Dec 06 00:07:13 +0000 2017",
+		"id": 938198105060552700,
+		"id_str": "938198105060552704",
+		"text": "RT @Snoopy: Snoopy visited a classroom today to kick off #HourOfCode and teach students about coding through #SnoopySnowBrawl. Click here t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HourOfCode",
+					"indices": [
+						57,
+						68
+					]
+				},
+				{
+					"text": "SnoopySnowBrawl",
+					"indices": [
+						109,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Snoopy",
+					"name": "PEANUTS",
+					"id": 245548093,
+					"id_str": "245548093",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34885,
+			"friends_count": 9425,
+			"listed_count": 1016,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8797,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9453,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 04 19:08:12 +0000 2017",
+			"id": 937760465765191700,
+			"id_str": "937760465765191681",
+			"text": "Snoopy visited a classroom today to kick off #HourOfCode and teach students about coding through #SnoopySnowBrawl.… https://t.co/v2wYfXtZKk",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HourOfCode",
+						"indices": [
+							45,
+							56
+						]
+					},
+					{
+						"text": "SnoopySnowBrawl",
+						"indices": [
+							97,
+							113
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/v2wYfXtZKk",
+						"expanded_url": "https://twitter.com/i/web/status/937760465765191681",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 245548093,
+				"id_str": "245548093",
+				"name": "PEANUTS",
+				"screen_name": "Snoopy",
+				"location": "",
+				"description": "Follow Peanuts everywhere! \nInstagram: Snoopygrams / Snapchat: SnoopysSnaps / Facebook: Snoopy",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 743671,
+				"friends_count": 47,
+				"listed_count": 4526,
+				"created_at": "Mon Jan 31 23:14:17 +0000 2011",
+				"favourites_count": 580,
+				"utc_offset": -32400,
+				"time_zone": "Alaska",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11498,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446723711014424576/0V7PSzdx.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446723711014424576/0V7PSzdx.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/911225345063424000/PjMWFJ_y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/911225345063424000/PjMWFJ_y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/245548093/1506088007",
+				"profile_link_color": "005596",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFE600",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 205,
+			"favorite_count": 902,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 205,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Dec 06 00:06:45 +0000 2017",
+		"id": 938197988333125600,
+		"id_str": "938197988333125632",
+		"text": "RT @codeorg: “Getting more girls involved is one of my key targets. I think it’s very important for students to see other students doing th…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "codeorg",
+					"name": "Code.org",
+					"id": 850107536,
+					"id_str": "850107536",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34885,
+			"friends_count": 9425,
+			"listed_count": 1016,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8797,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9453,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 06 00:06:19 +0000 2017",
+			"id": 938197875296682000,
+			"id_str": "938197875296681984",
+			"text": "“Getting more girls involved is one of my key targets. I think it’s very important for students to see other studen… https://t.co/iIjqqt4Vex",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iIjqqt4Vex",
+						"expanded_url": "https://twitter.com/i/web/status/938197875296681984",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 850107536,
+				"id_str": "850107536",
+				"name": "Code.org",
+				"screen_name": "codeorg",
+				"location": "",
+				"description": "http://t.co/rQdcoEyAx8 is a non-profit dedicated to exposing all students to computer science. Anybody can learn.",
+				"url": "http://code.org",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://code.org",
+								"expanded_url": null,
+								"indices": [
+									0,
+									15
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/rQdcoEyAx8",
+								"expanded_url": "http://Code.org",
+								"display_url": "Code.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1059671,
+				"friends_count": 249,
+				"listed_count": 4210,
+				"created_at": "Thu Sep 27 23:10:20 +0000 2012",
+				"favourites_count": 8909,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5235,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3CAFBE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/562295957383954432/HznhvglX_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/562295957383954432/HznhvglX_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/850107536/1402432308",
+				"profile_link_color": "3CAFBE",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 937722308436914200,
+			"quoted_status_id_str": "937722308436914176",
+			"quoted_status": {
+				"created_at": "Mon Dec 04 16:36:35 +0000 2017",
+				"id": 937722308436914200,
+				"id_str": "937722308436914176",
+				"text": "Niamani Knight is one of 6,000 students joining our Amazon offices for #HourOfCode. Her passion: making code both c… https://t.co/7SHyrBptIj",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "HourOfCode",
+							"indices": [
+								71,
+								82
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/7SHyrBptIj",
+							"expanded_url": "https://twitter.com/i/web/status/937722308436914176",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 818902172347678700,
+					"id_str": "818902172347678720",
+					"name": "Amazon News",
+					"screen_name": "amazonnews",
+					"location": "United States",
+					"description": "The official account for news about Amazon.",
+					"url": "https://t.co/2VpJ1Ng2yq",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/2VpJ1Ng2yq",
+									"expanded_url": "http://www.amazon.com/about",
+									"display_url": "amazon.com/about",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 29250,
+					"friends_count": 433,
+					"listed_count": 132,
+					"created_at": "Tue Jan 10 19:27:47 +0000 2017",
+					"favourites_count": 896,
+					"utc_offset": -28800,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 797,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/823601050397487104/73qfbTCR_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/823601050397487104/73qfbTCR_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/818902172347678720/1497028481",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 14,
+				"favorite_count": 25,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 6,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 937722308436914200,
+		"quoted_status_id_str": "937722308436914176",
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 05 23:07:07 +0000 2017",
 		"id": 938182977548439600,
 		"id_str": "938182977548439552",
@@ -108,7 +651,7 @@ Grailbird.data.tweets_2017_12 =
 			"created_at": "Mon Nov 13 18:26:46 +0000 2017",
 			"id": 930139892931317800,
 			"id_str": "930139892931317760",
-			"text": "Proud to be part of #HourofCode! 🙌  👩🏿‍💻👩🏾‍💻👩🏼‍💻  Unleash your superpowers with our #WonderWoman coding project, or… https://t.co/eKZGTjQr7D",
+			"text": "Proud to be part of #HourofCode! 🙌  👩🏿💻👩🏾💻👩🏼💻  Unleash your superpowers with our #WonderWoman coding project, or… https://t.co/eKZGTjQr7D",
 			"truncated": true,
 			"entities": {
 				"hashtags": [
