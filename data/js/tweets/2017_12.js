@@ -1,6 +1,929 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Thu Dec 07 10:02:24 +0000 2017",
+		"id": 938710275338879000,
+		"id_str": "938710275338878976",
+		"text": "Awesome chatbot feature Posty just launched on @producthunt by @nikmoussou! Please upvote! ❤️🙏👍 https://t.co/UFpQgB4MT8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProductHunt",
+					"name": "Product Hunt",
+					"id": 2208027565,
+					"id_str": "2208027565",
+					"indices": [
+						47,
+						59
+					]
+				},
+				{
+					"screen_name": "nikmoussou",
+					"name": "Nick Moussoulis",
+					"id": 104371455,
+					"id_str": "104371455",
+					"indices": [
+						63,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UFpQgB4MT8",
+					"expanded_url": "https://twitter.com/nikmoussou/status/938688078918701058",
+					"display_url": "twitter.com/nikmoussou/sta…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35036,
+			"friends_count": 10997,
+			"listed_count": 1014,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8838,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9486,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 938688078918701000,
+		"quoted_status_id_str": "938688078918701058",
+		"quoted_status": {
+			"created_at": "Thu Dec 07 08:34:12 +0000 2017",
+			"id": 938688078918701000,
+			"id_str": "938688078918701058",
+			"text": "Posty-The Notebot!: Create custom \"post-it\" notes &amp; share them with your friends #chatbots https://t.co/ZjYwc6AnZ1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "chatbots",
+						"indices": [
+							85,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZjYwc6AnZ1",
+						"expanded_url": "https://www.producthunt.com/posts/posty-the-notebot",
+						"display_url": "producthunt.com/posts/posty-th…",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 104371455,
+				"id_str": "104371455",
+				"name": "Nick Moussoulis",
+				"screen_name": "nikmoussou",
+				"location": "Athens, Greece",
+				"description": "I run Insanebots! A digital marketing agency that builds high converting messenger chatbots | Writer for https://t.co/iOaBRRpq3Z & https://t.co/EmtVBQn0dI",
+				"url": "https://t.co/kfIHXPwwgR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kfIHXPwwgR",
+								"expanded_url": "http://www.isnanebots.com",
+								"display_url": "isnanebots.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iOaBRRpq3Z",
+								"expanded_url": "http://chatbotsmagazine.com",
+								"display_url": "chatbotsmagazine.com",
+								"indices": [
+									105,
+									128
+								]
+							},
+							{
+								"url": "https://t.co/EmtVBQn0dI",
+								"expanded_url": "http://chatbotslife.com",
+								"display_url": "chatbotslife.com",
+								"indices": [
+									131,
+									154
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 84,
+				"friends_count": 105,
+				"listed_count": 18,
+				"created_at": "Wed Jan 13 03:52:19 +0000 2010",
+				"favourites_count": 44,
+				"utc_offset": 7200,
+				"time_zone": "Athens",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 415,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/851759970102239232/eQJf1k4__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/851759970102239232/eQJf1k4__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/104371455/1497859808",
+				"profile_link_color": "0674EC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Dec 07 09:51:24 +0000 2017",
+		"id": 938707505772765200,
+		"id_str": "938707505772765185",
+		"text": "RT @debbiediscovers: @growth_zone @nadinehullsvg @labco_nyc @jen_thewriter @brettscott_NH @Switch_Newz Sending #goodvibes from Singapore! h…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "goodvibes",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "growth_zone",
+					"name": "Growth.zone",
+					"id": 857224671690981400,
+					"id_str": "857224671690981377",
+					"indices": [
+						21,
+						33
+					]
+				},
+				{
+					"screen_name": "nadinehullsvg",
+					"name": "Nadine Hull",
+					"id": 749945562510729200,
+					"id_str": "749945562510729216",
+					"indices": [
+						34,
+						48
+					]
+				},
+				{
+					"screen_name": "labco_nyc",
+					"name": "LabCo NYC",
+					"id": 860491385501347800,
+					"id_str": "860491385501347843",
+					"indices": [
+						49,
+						59
+					]
+				},
+				{
+					"screen_name": "jen_thewriter",
+					"name": "Jennifer Mitchell",
+					"id": 4550344817,
+					"id_str": "4550344817",
+					"indices": [
+						60,
+						74
+					]
+				},
+				{
+					"screen_name": "brettscott_NH",
+					"name": "Brett Scott",
+					"id": 858008424617037800,
+					"id_str": "858008424617037826",
+					"indices": [
+						75,
+						89
+					]
+				},
+				{
+					"screen_name": "Switch_Newz",
+					"name": "Nintendo Switch Newz",
+					"id": 834412427362103300,
+					"id_str": "834412427362103296",
+					"indices": [
+						90,
+						102
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35036,
+			"friends_count": 10997,
+			"listed_count": 1014,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8838,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9486,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 07 09:50:39 +0000 2017",
+			"id": 938707318350405600,
+			"id_str": "938707318350405632",
+			"text": "@growth_zone @nadinehullsvg @labco_nyc @jen_thewriter @brettscott_NH @Switch_Newz Sending #goodvibes from Singapore! https://t.co/Vnov1W0qbW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "goodvibes",
+						"indices": [
+							90,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "growth_zone",
+						"name": "Growth.zone",
+						"id": 857224671690981400,
+						"id_str": "857224671690981377",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "nadinehullsvg",
+						"name": "Nadine Hull",
+						"id": 749945562510729200,
+						"id_str": "749945562510729216",
+						"indices": [
+							13,
+							27
+						]
+					},
+					{
+						"screen_name": "labco_nyc",
+						"name": "LabCo NYC",
+						"id": 860491385501347800,
+						"id_str": "860491385501347843",
+						"indices": [
+							28,
+							38
+						]
+					},
+					{
+						"screen_name": "jen_thewriter",
+						"name": "Jennifer Mitchell",
+						"id": 4550344817,
+						"id_str": "4550344817",
+						"indices": [
+							39,
+							53
+						]
+					},
+					{
+						"screen_name": "brettscott_NH",
+						"name": "Brett Scott",
+						"id": 858008424617037800,
+						"id_str": "858008424617037826",
+						"indices": [
+							54,
+							68
+						]
+					},
+					{
+						"screen_name": "Switch_Newz",
+						"name": "Nintendo Switch Newz",
+						"id": 834412427362103300,
+						"id_str": "834412427362103296",
+						"indices": [
+							69,
+							81
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 938707306140676100,
+						"id_str": "938707306140676096",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DQb1UkqUMAAg_1W.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQb1UkqUMAAg_1W.jpg",
+						"url": "https://t.co/Vnov1W0qbW",
+						"display_url": "pic.twitter.com/Vnov1W0qbW",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/938707318350405632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 320,
+								"h": 266,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 266,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 320,
+								"h": 266,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 938707306140676100,
+						"id_str": "938707306140676096",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DQb1UkqUMAAg_1W.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQb1UkqUMAAg_1W.jpg",
+						"url": "https://t.co/Vnov1W0qbW",
+						"display_url": "pic.twitter.com/Vnov1W0qbW",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/938707318350405632/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 320,
+								"h": 266,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 266,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 320,
+								"h": 266,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								160,
+								133
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DQb1UkqUMAAg_1W.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 938530554110242800,
+			"in_reply_to_status_id_str": "938530554110242816",
+			"in_reply_to_user_id": 857224671690981400,
+			"in_reply_to_user_id_str": "857224671690981377",
+			"in_reply_to_screen_name": "growth_zone",
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+				"url": "https://t.co/IprDI3V3T9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IprDI3V3T9",
+								"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+								"display_url": "digitaldiscovery.sg/about-deborah-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35036,
+				"friends_count": 10997,
+				"listed_count": 1014,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 8838,
+				"utc_offset": -39600,
+				"time_zone": "Midway Island",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9486,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Dec 07 09:50:39 +0000 2017",
+		"id": 938707318350405600,
+		"id_str": "938707318350405632",
+		"text": "@growth_zone @nadinehullsvg @labco_nyc @jen_thewriter @brettscott_NH @Switch_Newz Sending #goodvibes from Singapore! https://t.co/Vnov1W0qbW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "goodvibes",
+					"indices": [
+						90,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "growth_zone",
+					"name": "Growth.zone",
+					"id": 857224671690981400,
+					"id_str": "857224671690981377",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "nadinehullsvg",
+					"name": "Nadine Hull",
+					"id": 749945562510729200,
+					"id_str": "749945562510729216",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "labco_nyc",
+					"name": "LabCo NYC",
+					"id": 860491385501347800,
+					"id_str": "860491385501347843",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"screen_name": "jen_thewriter",
+					"name": "Jennifer Mitchell",
+					"id": 4550344817,
+					"id_str": "4550344817",
+					"indices": [
+						39,
+						53
+					]
+				},
+				{
+					"screen_name": "brettscott_NH",
+					"name": "Brett Scott",
+					"id": 858008424617037800,
+					"id_str": "858008424617037826",
+					"indices": [
+						54,
+						68
+					]
+				},
+				{
+					"screen_name": "Switch_Newz",
+					"name": "Nintendo Switch Newz",
+					"id": 834412427362103300,
+					"id_str": "834412427362103296",
+					"indices": [
+						69,
+						81
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 938707306140676100,
+					"id_str": "938707306140676096",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DQb1UkqUMAAg_1W.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQb1UkqUMAAg_1W.jpg",
+					"url": "https://t.co/Vnov1W0qbW",
+					"display_url": "pic.twitter.com/Vnov1W0qbW",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/938707318350405632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 266,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 266,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 266,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 938707306140676100,
+					"id_str": "938707306140676096",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DQb1UkqUMAAg_1W.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQb1UkqUMAAg_1W.jpg",
+					"url": "https://t.co/Vnov1W0qbW",
+					"display_url": "pic.twitter.com/Vnov1W0qbW",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/938707318350405632/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 266,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 266,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 266,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							160,
+							133
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DQb1UkqUMAAg_1W.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 938530554110242800,
+		"in_reply_to_status_id_str": "938530554110242816",
+		"in_reply_to_user_id": 857224671690981400,
+		"in_reply_to_user_id_str": "857224671690981377",
+		"in_reply_to_screen_name": "growth_zone",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35036,
+			"friends_count": 10997,
+			"listed_count": 1014,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8838,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9486,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 07 06:48:09 +0000 2017",
 		"id": 938661387898724400,
 		"id_str": "938661387898724352",
