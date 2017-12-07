@@ -1,6 +1,597 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Thu Dec 07 02:29:41 +0000 2017",
+		"id": 938596345056608300,
+		"id_str": "938596345056608256",
+		"text": "@sandy_moon2003 Thanks for sharing! https://t.co/JnJffUufw2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sandy_moon2003",
+					"name": "Sandra Ramirez",
+					"id": 833843272501989400,
+					"id_str": "833843272501989378",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 938596332394049500,
+					"id_str": "938596332394049536",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DQaQZDPU8AAhhHR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQaQZDPU8AAhhHR.jpg",
+					"url": "https://t.co/JnJffUufw2",
+					"display_url": "pic.twitter.com/JnJffUufw2",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/938596345056608256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 938596332394049500,
+					"id_str": "938596332394049536",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DQaQZDPU8AAhhHR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQaQZDPU8AAhhHR.jpg",
+					"url": "https://t.co/JnJffUufw2",
+					"display_url": "pic.twitter.com/JnJffUufw2",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/938596345056608256/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							62
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DQaQZDPU8AAhhHR.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 938587418550308900,
+		"in_reply_to_status_id_str": "938587418550308864",
+		"in_reply_to_user_id": 833843272501989400,
+		"in_reply_to_user_id_str": "833843272501989378",
+		"in_reply_to_screen_name": "sandy_moon2003",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34942,
+			"friends_count": 10996,
+			"listed_count": 1016,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8827,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9476,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Dec 07 02:29:08 +0000 2017",
+		"id": 938596205071700000,
+		"id_str": "938596205071699968",
+		"text": "RT @sandy_moon2003: 👏🏻💃🏻👗👯 #GirlsWithGoals #STEM #Equality #happyinyourskin https://t.co/1tHIs82v6N",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsWithGoals",
+					"indices": [
+						27,
+						42
+					]
+				},
+				{
+					"text": "STEM",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "Equality",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"text": "happyinyourskin",
+					"indices": [
+						59,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sandy_moon2003",
+					"name": "Sandra Ramirez",
+					"id": 833843272501989400,
+					"id_str": "833843272501989378",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1tHIs82v6N",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/937087040792883200",
+					"display_url": "twitter.com/debbiediscover…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34942,
+			"friends_count": 10996,
+			"listed_count": 1016,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8827,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9476,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 07 01:54:13 +0000 2017",
+			"id": 938587418550308900,
+			"id_str": "938587418550308864",
+			"text": "👏🏻💃🏻👗👯 #GirlsWithGoals #STEM #Equality #happyinyourskin https://t.co/1tHIs82v6N",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GirlsWithGoals",
+						"indices": [
+							7,
+							22
+						]
+					},
+					{
+						"text": "STEM",
+						"indices": [
+							23,
+							28
+						]
+					},
+					{
+						"text": "Equality",
+						"indices": [
+							29,
+							38
+						]
+					},
+					{
+						"text": "happyinyourskin",
+						"indices": [
+							39,
+							55
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1tHIs82v6N",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/937087040792883200",
+						"display_url": "twitter.com/debbiediscover…",
+						"indices": [
+							56,
+							79
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 833843272501989400,
+				"id_str": "833843272501989378",
+				"name": "Sandra Ramirez",
+				"screen_name": "sandy_moon2003",
+				"location": "Juárez, Chihuahua",
+				"description": "Supply chain lover, Procurement & Logistics guru. Wife and proud mother of two. Happy, empowered and beautiful woman (inside and out). All tweets are my own 🚩",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 69,
+				"friends_count": 111,
+				"listed_count": 1,
+				"created_at": "Tue Feb 21 00:58:23 +0000 2017",
+				"favourites_count": 2175,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2145,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/833863138730659841/XAMch3pc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/833863138730659841/XAMch3pc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/833843272501989378/1487644076",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "77d45fff09fe6f8a",
+				"url": "https://api.twitter.com/1.1/geo/id/77d45fff09fe6f8a.json",
+				"place_type": "city",
+				"name": "Juárez",
+				"full_name": "Juárez, Chihuahua",
+				"country_code": "MX",
+				"country": "Mexico",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-106.950638,
+								31.1206809
+							],
+							[
+								-106.185378,
+								31.1206809
+							],
+							[
+								-106.185378,
+								31.7838668
+							],
+							[
+								-106.950638,
+								31.7838668
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 937087040792883200,
+			"quoted_status_id_str": "937087040792883200",
+			"quoted_status": {
+				"created_at": "Sat Dec 02 22:32:15 +0000 2017",
+				"id": 937087040792883200,
+				"id_str": "937087040792883200",
+				"text": "\"It is said that girls with dreams become women with vision. May we empower each other to carry out this vision, be… https://t.co/AGVvga5nS2",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/AGVvga5nS2",
+							"expanded_url": "https://twitter.com/i/web/status/937087040792883200",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"name": "Deborah Kay",
+					"screen_name": "debbiediscovers",
+					"location": "Singapore",
+					"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+					"url": "https://t.co/IprDI3V3T9",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/IprDI3V3T9",
+									"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+									"display_url": "digitaldiscovery.sg/about-deborah-…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 34942,
+					"friends_count": 10996,
+					"listed_count": 1016,
+					"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+					"favourites_count": 8827,
+					"utc_offset": -39600,
+					"time_zone": "Midway Island",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 9476,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EBEBEB",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+					"profile_link_color": "D50252",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 935898616178401300,
+				"quoted_status_id_str": "935898616178401280",
+				"retweet_count": 13,
+				"favorite_count": 16,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 937087040792883200,
+		"quoted_status_id_str": "937087040792883200",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Thu Dec 07 00:36:35 +0000 2017",
 		"id": 938567884019847200,
 		"id_str": "938567884019847168",
