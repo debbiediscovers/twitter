@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Thu Dec 07 12:10:32 +0000 2017",
+		"id": 938742520665821200,
+		"id_str": "938742520665821185",
+		"text": "#InfluencerMarketing: New Research for Video Creators - &amp;SMExaminer https://t.co/18gdqcQ7fV #video #videomarketing",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InfluencerMarketing",
+					"indices": [
+						0,
+						20
+					]
+				},
+				{
+					"text": "video",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "videomarketing",
+					"indices": [
+						103,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/18gdqcQ7fV",
+					"expanded_url": "https://buff.ly/2BRR0VY",
+					"display_url": "buff.ly/2BRR0VY",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35041,
+			"friends_count": 10997,
+			"listed_count": 1013,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8842,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9488,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Dec 07 11:13:34 +0000 2017",
+		"id": 938728186103214100,
+		"id_str": "938728186103214080",
+		"text": "RT @Maila246: Dishing out some #branding #socialmedia &amp; #ladyboss tips over at @foxandowlmedia Read my interview on their site&gt; https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "branding",
+					"indices": [
+						31,
+						40
+					]
+				},
+				{
+					"text": "socialmedia",
+					"indices": [
+						41,
+						53
+					]
+				},
+				{
+					"text": "ladyboss",
+					"indices": [
+						60,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Maila246",
+					"name": "Maila Zahid",
+					"id": 289875165,
+					"id_str": "289875165",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "foxandowlmedia",
+					"name": "Melissa De Klerk",
+					"id": 748765194390638600,
+					"id_str": "748765194390638592",
+					"indices": [
+						83,
+						98
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35041,
+			"friends_count": 10997,
+			"listed_count": 1013,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8842,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9488,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 25 16:44:46 +0000 2017",
+			"id": 923228857292992500,
+			"id_str": "923228857292992512",
+			"text": "Dishing out some #branding #socialmedia &amp; #ladyboss tips over at @foxandowlmedia Read my interview on their site&gt;… https://t.co/T3MMDzKxQ9",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "branding",
+						"indices": [
+							17,
+							26
+						]
+					},
+					{
+						"text": "socialmedia",
+						"indices": [
+							27,
+							39
+						]
+					},
+					{
+						"text": "ladyboss",
+						"indices": [
+							46,
+							55
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "foxandowlmedia",
+						"name": "Melissa De Klerk",
+						"id": 748765194390638600,
+						"id_str": "748765194390638592",
+						"indices": [
+							69,
+							84
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/T3MMDzKxQ9",
+						"expanded_url": "https://twitter.com/i/web/status/923228857292992512",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							122,
+							145
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 289875165,
+				"id_str": "289875165",
+				"name": "Maila Zahid",
+				"screen_name": "Maila246",
+				"location": "",
+				"description": "Chatbot Maker | Bookworm | Foodie  Helping busy business owners save time + get subscribers + sell more using Facebook Messenger Chatbots.\nCheck what I'm up to👇",
+				"url": "https://t.co/4JksqSFdpx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4JksqSFdpx",
+								"expanded_url": "https://linktr.ee/hellomaila",
+								"display_url": "linktr.ee/hellomaila",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 612,
+				"friends_count": 323,
+				"listed_count": 42,
+				"created_at": "Fri Apr 29 11:07:13 +0000 2011",
+				"favourites_count": 403,
+				"utc_offset": 0,
+				"time_zone": "Casablanca",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 667,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/618151860499714048/Vo7ywQZ-.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/618151860499714048/Vo7ywQZ-.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/914868414803533826/_9MMqBkt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/914868414803533826/_9MMqBkt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/289875165/1506956707",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 07 10:02:24 +0000 2017",
 		"id": 938710275338879000,
 		"id_str": "938710275338878976",
