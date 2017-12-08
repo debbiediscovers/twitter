@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Fri Dec 08 20:53:13 +0000 2017",
+		"id": 939236443737567200,
+		"id_str": "939236443737567233",
+		"text": "RT @ninetwice: How to access Twitter's API - A Guide for Non Developers https://t.co/yCW6yEppun @debbiediscovers https://t.co/M9HdeMOfsp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ninetwice",
+					"name": "NINETWICE SEO & SEM",
+					"id": 377339683,
+					"id_str": "377339683",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						96,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yCW6yEppun",
+					"expanded_url": "https://buff.ly/2AExPAF",
+					"display_url": "buff.ly/2AExPAF",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 939194137735319600,
+					"id_str": "939194137735319553",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/DQiwF5rX0AENQWd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQiwF5rX0AENQWd.jpg",
+					"url": "https://t.co/M9HdeMOfsp",
+					"display_url": "pic.twitter.com/M9HdeMOfsp",
+					"expanded_url": "https://twitter.com/ninetwice/status/939194140931260417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 939194140931260400,
+					"source_status_id_str": "939194140931260417",
+					"source_user_id": 377339683,
+					"source_user_id_str": "377339683"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 939194137735319600,
+					"id_str": "939194137735319553",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/DQiwF5rX0AENQWd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQiwF5rX0AENQWd.jpg",
+					"url": "https://t.co/M9HdeMOfsp",
+					"display_url": "pic.twitter.com/M9HdeMOfsp",
+					"expanded_url": "https://twitter.com/ninetwice/status/939194140931260417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 939194140931260400,
+					"source_status_id_str": "939194140931260417",
+					"source_user_id": 377339683,
+					"source_user_id_str": "377339683"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35190,
+			"friends_count": 11934,
+			"listed_count": 1015,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8885,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 08 18:05:07 +0000 2017",
+			"id": 939194140931260400,
+			"id_str": "939194140931260417",
+			"text": "How to access Twitter's API - A Guide for Non Developers https://t.co/yCW6yEppun @debbiediscovers https://t.co/M9HdeMOfsp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							81,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/yCW6yEppun",
+						"expanded_url": "https://buff.ly/2AExPAF",
+						"display_url": "buff.ly/2AExPAF",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 939194137735319600,
+						"id_str": "939194137735319553",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DQiwF5rX0AENQWd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQiwF5rX0AENQWd.jpg",
+						"url": "https://t.co/M9HdeMOfsp",
+						"display_url": "pic.twitter.com/M9HdeMOfsp",
+						"expanded_url": "https://twitter.com/ninetwice/status/939194140931260417/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 939194137735319600,
+						"id_str": "939194137735319553",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DQiwF5rX0AENQWd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQiwF5rX0AENQWd.jpg",
+						"url": "https://t.co/M9HdeMOfsp",
+						"display_url": "pic.twitter.com/M9HdeMOfsp",
+						"expanded_url": "https://twitter.com/ninetwice/status/939194140931260417/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 377339683,
+				"id_str": "377339683",
+				"name": "NINETWICE SEO & SEM",
+				"screen_name": "ninetwice",
+				"location": "Miami / Orlando / Boston",
+				"description": "We'll expose your competitors' online marketing strategy and give it to you for FREE. Details here https://t.co/t26eCPz5Ns",
+				"url": "http://t.co/FuENMzjf1I",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/FuENMzjf1I",
+								"expanded_url": "http://www.ninetwice.com",
+								"display_url": "ninetwice.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/t26eCPz5Ns",
+								"expanded_url": "http://j.mp/99linkedin",
+								"display_url": "j.mp/99linkedin",
+								"indices": [
+									99,
+									122
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 377,
+				"friends_count": 1945,
+				"listed_count": 122,
+				"created_at": "Wed Sep 21 12:28:54 +0000 2011",
+				"favourites_count": 1200,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1197,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446113964498235392/v2wkfDbL.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446113964498235392/v2wkfDbL.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/829045259845955584/iFiEIXk-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/829045259845955584/iFiEIXk-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/377339683/1464367703",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 08 17:20:08 +0000 2017",
 		"id": 939182820957741000,
 		"id_str": "939182820957741056",
