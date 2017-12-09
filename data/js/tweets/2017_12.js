@@ -1,6 +1,391 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sat Dec 09 12:48:13 +0000 2017",
+		"id": 939476780070477800,
+		"id_str": "939476780070477824",
+		"text": "RT @EvolveRevenue: How to access Twitter's API - A Guide for Non Developers https://t.co/XfRm3vaauB @debbiediscovers https://t.co/xZl3zTPxLx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EvolveRevenue",
+					"name": "Evolve Revenue",
+					"id": 865601859389706200,
+					"id_str": "865601859389706242",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						100,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XfRm3vaauB",
+					"expanded_url": "https://buff.ly/2ALseZm",
+					"display_url": "buff.ly/2ALseZm",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 939472454082166800,
+					"id_str": "939472454082166784",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DQmtOC3VAAAA4Be.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQmtOC3VAAAA4Be.jpg",
+					"url": "https://t.co/xZl3zTPxLx",
+					"display_url": "pic.twitter.com/xZl3zTPxLx",
+					"expanded_url": "https://twitter.com/EvolveRevenue/status/939472457001525248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 939472457001525200,
+					"source_status_id_str": "939472457001525248",
+					"source_user_id": 865601859389706200,
+					"source_user_id_str": "865601859389706242"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 939472454082166800,
+					"id_str": "939472454082166784",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DQmtOC3VAAAA4Be.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQmtOC3VAAAA4Be.jpg",
+					"url": "https://t.co/xZl3zTPxLx",
+					"display_url": "pic.twitter.com/xZl3zTPxLx",
+					"expanded_url": "https://twitter.com/EvolveRevenue/status/939472457001525248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 939472457001525200,
+					"source_status_id_str": "939472457001525248",
+					"source_user_id": 865601859389706200,
+					"source_user_id_str": "865601859389706242"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35219,
+			"friends_count": 12588,
+			"listed_count": 1014,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8897,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9525,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 09 12:31:02 +0000 2017",
+			"id": 939472457001525200,
+			"id_str": "939472457001525248",
+			"text": "How to access Twitter's API - A Guide for Non Developers https://t.co/XfRm3vaauB @debbiediscovers https://t.co/xZl3zTPxLx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							81,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XfRm3vaauB",
+						"expanded_url": "https://buff.ly/2ALseZm",
+						"display_url": "buff.ly/2ALseZm",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 939472454082166800,
+						"id_str": "939472454082166784",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DQmtOC3VAAAA4Be.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQmtOC3VAAAA4Be.jpg",
+						"url": "https://t.co/xZl3zTPxLx",
+						"display_url": "pic.twitter.com/xZl3zTPxLx",
+						"expanded_url": "https://twitter.com/EvolveRevenue/status/939472457001525248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 939472454082166800,
+						"id_str": "939472454082166784",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DQmtOC3VAAAA4Be.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQmtOC3VAAAA4Be.jpg",
+						"url": "https://t.co/xZl3zTPxLx",
+						"display_url": "pic.twitter.com/xZl3zTPxLx",
+						"expanded_url": "https://twitter.com/EvolveRevenue/status/939472457001525248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 865601859389706200,
+				"id_str": "865601859389706242",
+				"name": "Evolve Revenue",
+				"screen_name": "EvolveRevenue",
+				"location": "London, England",
+				"description": "Evolve Revenue is a digital and social media marketing agency that help business increase their revenue using cutting edge marketing techniques online.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8,
+				"friends_count": 1,
+				"listed_count": 4,
+				"created_at": "Fri May 19 16:15:40 +0000 2017",
+				"favourites_count": 35,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 324,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/865682737293918208/DmIlK7ro_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/865682737293918208/DmIlK7ro_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/865601859389706242/1495230679",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 09 05:44:43 +0000 2017",
 		"id": 939370201623044100,
 		"id_str": "939370201623044096",
