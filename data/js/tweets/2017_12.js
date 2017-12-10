@@ -1,6 +1,391 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sun Dec 10 21:53:44 +0000 2017",
+		"id": 939976450991468500,
+		"id_str": "939976450991468544",
+		"text": "RT @LauraHart447: How to access Twitter's API - A Guide for Non Developers https://t.co/iZxD43N1ie @debbiediscovers https://t.co/igCwOfUtrL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LauraHart447",
+					"name": "Laura Hart",
+					"id": 734926801508565000,
+					"id_str": "734926801508564993",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						99,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iZxD43N1ie",
+					"expanded_url": "https://buff.ly/2BoZW8m",
+					"display_url": "buff.ly/2BoZW8m",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 939848693947293700,
+					"id_str": "939848693947293697",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DQsDaFlX4AETZ85.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQsDaFlX4AETZ85.jpg",
+					"url": "https://t.co/igCwOfUtrL",
+					"display_url": "pic.twitter.com/igCwOfUtrL",
+					"expanded_url": "https://twitter.com/LauraHart447/status/939848697562779648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 939848697562779600,
+					"source_status_id_str": "939848697562779648",
+					"source_user_id": 734926801508565000,
+					"source_user_id_str": "734926801508564993"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 939848693947293700,
+					"id_str": "939848693947293697",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DQsDaFlX4AETZ85.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQsDaFlX4AETZ85.jpg",
+					"url": "https://t.co/igCwOfUtrL",
+					"display_url": "pic.twitter.com/igCwOfUtrL",
+					"expanded_url": "https://twitter.com/LauraHart447/status/939848697562779648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 939848697562779600,
+					"source_status_id_str": "939848697562779648",
+					"source_user_id": 734926801508565000,
+					"source_user_id_str": "734926801508564993"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35201,
+			"friends_count": 10777,
+			"listed_count": 1007,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8947,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9569,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 10 13:26:05 +0000 2017",
+			"id": 939848697562779600,
+			"id_str": "939848697562779648",
+			"text": "How to access Twitter's API - A Guide for Non Developers https://t.co/iZxD43N1ie @debbiediscovers https://t.co/igCwOfUtrL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							81,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/iZxD43N1ie",
+						"expanded_url": "https://buff.ly/2BoZW8m",
+						"display_url": "buff.ly/2BoZW8m",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 939848693947293700,
+						"id_str": "939848693947293697",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DQsDaFlX4AETZ85.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQsDaFlX4AETZ85.jpg",
+						"url": "https://t.co/igCwOfUtrL",
+						"display_url": "pic.twitter.com/igCwOfUtrL",
+						"expanded_url": "https://twitter.com/LauraHart447/status/939848697562779648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 939848693947293700,
+						"id_str": "939848693947293697",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DQsDaFlX4AETZ85.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQsDaFlX4AETZ85.jpg",
+						"url": "https://t.co/igCwOfUtrL",
+						"display_url": "pic.twitter.com/igCwOfUtrL",
+						"expanded_url": "https://twitter.com/LauraHart447/status/939848697562779648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 734926801508565000,
+				"id_str": "734926801508564993",
+				"name": "Laura Hart",
+				"screen_name": "LauraHart447",
+				"location": "Cedar Park, TX",
+				"description": "A dancing fool that's proud to call Austin home! Love Live Music! Social Media Manager for @CleanCarpetATX",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 506,
+				"friends_count": 561,
+				"listed_count": 27,
+				"created_at": "Tue May 24 01:59:38 +0000 2016",
+				"favourites_count": 2473,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 696,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/734927200097468418/-iJ4LkxC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/734927200097468418/-iJ4LkxC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/734926801508564993/1464212785",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Dec 10 17:20:04 +0000 2017",
 		"id": 939907580020785200,
 		"id_str": "939907580020785152",
