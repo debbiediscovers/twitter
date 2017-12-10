@@ -1,10 +1,807 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sun Dec 10 03:55:44 +0000 2017",
+		"id": 939705161726832600,
+		"id_str": "939705161726832640",
+		"text": "RT @UN: Today, we see a disturbing hostility towards human rights. Let us stand against those negative forces. Let us stand up and speak ou…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UN",
+					"name": "United Nations",
+					"id": 14159148,
+					"id_str": "14159148",
+					"indices": [
+						3,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35196,
+			"friends_count": 12719,
+			"listed_count": 1011,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8916,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9542,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 09 23:06:03 +0000 2017",
+			"id": 939632262328418300,
+			"id_str": "939632262328418305",
+			"text": "Today, we see a disturbing hostility towards human rights. Let us stand against those negative forces. Let us stand… https://t.co/O59Vq9j6nf",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/O59Vq9j6nf",
+						"expanded_url": "https://twitter.com/i/web/status/939632262328418305",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14159148,
+				"id_str": "14159148",
+				"name": "United Nations",
+				"screen_name": "UN",
+				"location": "New York, NY",
+				"description": "Official account of #UnitedNations. Get latest information on the UN. Follow us on Instagram: unitednations. #GlobalGoals #StandUp4HumanRights",
+				"url": "https://t.co/kgJqUNDMpy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kgJqUNDMpy",
+								"expanded_url": "http://www.un.org",
+								"display_url": "un.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9780292,
+				"friends_count": 1154,
+				"listed_count": 38463,
+				"created_at": "Sun Mar 16 20:15:36 +0000 2008",
+				"favourites_count": 1124,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 60311,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0197D6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/765681180/1001e289be48bdb34f8e07948b5f2a7a.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/765681180/1001e289be48bdb34f8e07948b5f2a7a.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/888426262754082817/Wnv87v2K_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/888426262754082817/Wnv87v2K_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14159148/1505244421",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 536,
+			"favorite_count": 754,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 536,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Dec 10 03:55:31 +0000 2017",
+		"id": 939705107557388300,
+		"id_str": "939705107557388288",
+		"text": "RT @UNOCHA: December 10 is #HumanRightsDay. Use the hashtag #StandUp4HumanRights to tweet with the new emoji.\n\nSpread the message the world…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HumanRightsDay",
+					"indices": [
+						27,
+						42
+					]
+				},
+				{
+					"text": "StandUp4HumanRights",
+					"indices": [
+						60,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UNOCHA",
+					"name": "UNOCHA",
+					"id": 21303235,
+					"id_str": "21303235",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35196,
+			"friends_count": 12719,
+			"listed_count": 1011,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8916,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9542,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 09 11:26:02 +0000 2017",
+			"id": 939456097508888600,
+			"id_str": "939456097508888576",
+			"text": "December 10 is #HumanRightsDay. Use the hashtag #StandUp4HumanRights to tweet with the new emoji.\n\nSpread the messa… https://t.co/XHqcVGTbRn",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HumanRightsDay",
+						"indices": [
+							15,
+							30
+						]
+					},
+					{
+						"text": "StandUp4HumanRights",
+						"indices": [
+							48,
+							68
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XHqcVGTbRn",
+						"expanded_url": "https://twitter.com/i/web/status/939456097508888576",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21303235,
+				"id_str": "21303235",
+				"name": "UNOCHA",
+				"screen_name": "UNOCHA",
+				"location": "",
+				"description": "The UN Office for the Coordination of Humanitarian Affairs (OCHA) mobilizes & coordinates humanitarian assistance to people in need worldwide. #NotATarget",
+				"url": "https://t.co/4TpBu8anmT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4TpBu8anmT",
+								"expanded_url": "http://www.unocha.org",
+								"display_url": "unocha.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 250512,
+				"friends_count": 1316,
+				"listed_count": 2734,
+				"created_at": "Thu Feb 19 14:41:13 +0000 2009",
+				"favourites_count": 9316,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19832,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "026BB6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/280416830/ocha_twitter_background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/280416830/ocha_twitter_background.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/929115726602035201/qj1v7Vwi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/929115726602035201/qj1v7Vwi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21303235/1512506541",
+				"profile_link_color": "026BB6",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 126,
+			"favorite_count": 126,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 126,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Dec 10 03:55:04 +0000 2017",
+		"id": 939704994323763200,
+		"id_str": "939704994323763200",
+		"text": "Everyone should read this... personal #cybersecurity is important. https://t.co/7zUiZCJixF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cybersecurity",
+					"indices": [
+						38,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7zUiZCJixF",
+					"expanded_url": "https://twitter.com/onefern/status/939701433783300096",
+					"display_url": "twitter.com/onefern/status…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35196,
+			"friends_count": 12719,
+			"listed_count": 1011,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8916,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9542,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 939701433783300100,
+		"quoted_status_id_str": "939701433783300096",
+		"quoted_status": {
+			"created_at": "Sun Dec 10 03:40:55 +0000 2017",
+			"id": 939701433783300100,
+			"id_str": "939701433783300096",
+			"text": "#WIRED Guide to #Digital #Security https://t.co/4f2x5e6HXv via @WIRED #cybersecurity",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WIRED",
+						"indices": [
+							0,
+							6
+						]
+					},
+					{
+						"text": "Digital",
+						"indices": [
+							16,
+							24
+						]
+					},
+					{
+						"text": "Security",
+						"indices": [
+							25,
+							34
+						]
+					},
+					{
+						"text": "cybersecurity",
+						"indices": [
+							70,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WIRED",
+						"name": "WIRED",
+						"id": 1344951,
+						"id_str": "1344951",
+						"indices": [
+							63,
+							69
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4f2x5e6HXv",
+						"expanded_url": "https://www.wired.com/2017/12/digital-security-guide/",
+						"display_url": "wired.com/2017/12/digita…",
+						"indices": [
+							35,
+							58
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 544789016,
+				"id_str": "544789016",
+				"name": "Fen Chia",
+				"screen_name": "onefern",
+				"location": "Singapore",
+				"description": "Risk, insurance, lifestyle writer. Russia, China, athletics and tech nut.",
+				"url": "https://t.co/1t2le9itiU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1t2le9itiU",
+								"expanded_url": "https://www.instagram.com/massiminaferny/",
+								"display_url": "instagram.com/massiminaferny/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22,
+				"friends_count": 139,
+				"listed_count": 1,
+				"created_at": "Wed Apr 04 03:01:24 +0000 2012",
+				"favourites_count": 262,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 443,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902570533425881089/6MQkKH4C_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902570533425881089/6MQkKH4C_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/544789016/1512495103",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "es"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Dec 10 03:54:40 +0000 2017",
+		"id": 939704894197342200,
+		"id_str": "939704894197342208",
+		"text": "@onefern @WIRED Good share!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "onefern",
+					"name": "Fen Chia",
+					"id": 544789016,
+					"id_str": "544789016",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "WIRED",
+					"name": "WIRED",
+					"id": 1344951,
+					"id_str": "1344951",
+					"indices": [
+						9,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 939701433783300100,
+		"in_reply_to_status_id_str": "939701433783300096",
+		"in_reply_to_user_id": 544789016,
+		"in_reply_to_user_id_str": "544789016",
+		"in_reply_to_screen_name": "onefern",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35196,
+			"friends_count": 12719,
+			"listed_count": 1011,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8916,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9542,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Dec 10 03:09:03 +0000 2017",
 		"id": 939693414328688600,
 		"id_str": "939693414328688640",
-		"text": "RT @SingaporeSail: 🙋‍♀️🙋‍♂️ https://t.co/UmeqIFTpd0",
+		"text": "RT @SingaporeSail: 🙋♀️🙋♂️ https://t.co/UmeqIFTpd0",
 		"truncated": false,
 		"entities": {
 			"hashtags": [],
@@ -108,7 +905,7 @@ Grailbird.data.tweets_2017_12 =
 			"created_at": "Sun Dec 10 02:04:01 +0000 2017",
 			"id": 939677048737488900,
 			"id_str": "939677048737488898",
-			"text": "🙋‍♀️🙋‍♂️ https://t.co/UmeqIFTpd0",
+			"text": "🙋♀️🙋♂️ https://t.co/UmeqIFTpd0",
 			"truncated": false,
 			"entities": {
 				"hashtags": [],
@@ -204,7 +1001,7 @@ Grailbird.data.tweets_2017_12 =
 				"created_at": "Sat Dec 09 06:23:35 +0000 2017",
 				"id": 939379983671324700,
 				"id_str": "939379983671324673",
-				"text": "Hands up 🙋‍♂️ 🙋 if you're at the Youth Worlds! \n\n#youthworlds #yswcsanya https://t.co/5cTyrKFVy9",
+				"text": "Hands up 🙋♂️ 🙋 if you're at the Youth Worlds! \n\n#youthworlds #yswcsanya https://t.co/5cTyrKFVy9",
 				"truncated": false,
 				"entities": {
 					"hashtags": [
