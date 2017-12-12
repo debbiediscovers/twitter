@@ -1,6 +1,620 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Tue Dec 12 04:31:22 +0000 2017",
+		"id": 940438905911885800,
+		"id_str": "940438905911885824",
+		"text": "RT @SingaporeSail: So proud of our salor Junrui Lu from #Singapore in 2nd place for Laser Radial boys at @youthworlds #SailforSG 🇸🇬🥈\n\n#yout…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Singapore",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"text": "SailforSG",
+					"indices": [
+						118,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SingaporeSail",
+					"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+					"id": 906430548641439700,
+					"id_str": "906430548641439744",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "youthworlds",
+					"name": "Youth Sailing Worlds",
+					"id": 40852388,
+					"id_str": "40852388",
+					"indices": [
+						105,
+						117
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35487,
+			"friends_count": 11751,
+			"listed_count": 1009,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8982,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9597,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 12 04:13:30 +0000 2017",
+			"id": 940434408925839400,
+			"id_str": "940434408925839361",
+			"text": "So proud of our salor Junrui Lu from #Singapore in 2nd place for Laser Radial boys at @youthworlds #SailforSG 🇸🇬🥈… https://t.co/UAG9dFshKE",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Singapore",
+						"indices": [
+							37,
+							47
+						]
+					},
+					{
+						"text": "SailforSG",
+						"indices": [
+							99,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "youthworlds",
+						"name": "Youth Sailing Worlds",
+						"id": 40852388,
+						"id_str": "40852388",
+						"indices": [
+							86,
+							98
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/UAG9dFshKE",
+						"expanded_url": "https://twitter.com/i/web/status/940434408925839361",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 906430548641439700,
+				"id_str": "906430548641439744",
+				"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+				"screen_name": "SingaporeSail",
+				"location": "Singapore",
+				"description": "Official Twitter account of Singapore Sailing Federation & National Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+				"url": "https://t.co/8w7xJU5n9n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8w7xJU5n9n",
+								"expanded_url": "http://www.sailing.org.sg",
+								"display_url": "sailing.org.sg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2736,
+				"friends_count": 3364,
+				"listed_count": 21,
+				"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+				"favourites_count": 3489,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 462,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+				"profile_link_color": "D10000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 940164099832397800,
+			"quoted_status_id_str": "940164099832397829",
+			"quoted_status": {
+				"created_at": "Mon Dec 11 10:19:23 +0000 2017",
+				"id": 940164099832397800,
+				"id_str": "940164099832397829",
+				"text": "@SailingEnergy Laser Radial Boys, in first place we have Giacomo Giovanelli 🇮🇹 with 9 pts, followed by Caelin Winch… https://t.co/HCt7957JCt",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "SailingEnergy",
+							"name": "Sailing Energy",
+							"id": 2785386384,
+							"id_str": "2785386384",
+							"indices": [
+								0,
+								14
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/HCt7957JCt",
+							"expanded_url": "https://twitter.com/i/web/status/940164099832397829",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": 940161826976809000,
+				"in_reply_to_status_id_str": "940161826976808960",
+				"in_reply_to_user_id": 40852388,
+				"in_reply_to_user_id_str": "40852388",
+				"in_reply_to_screen_name": "youthworlds",
+				"user": {
+					"id": 40852388,
+					"id_str": "40852388",
+					"name": "Youth Sailing Worlds",
+					"screen_name": "youthworlds",
+					"location": "Sanya, China",
+					"description": "🌎⛵️The Youth Sailing World Championships are the world’s leading youth sailing event.",
+					"url": "https://t.co/PXUUCNeODS",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/PXUUCNeODS",
+									"expanded_url": "http://www.facebook.com/youthworlds",
+									"display_url": "facebook.com/youthworlds",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 5835,
+					"friends_count": 15,
+					"listed_count": 72,
+					"created_at": "Mon May 18 10:59:20 +0000 2009",
+					"favourites_count": 260,
+					"utc_offset": 0,
+					"time_zone": "London",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 3073,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "004FA3",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/174167882/twitter-template_ISAF_2.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/174167882/twitter-template_ISAF_2.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/938048996895019010/1pN8AycE_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/938048996895019010/1pN8AycE_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/40852388/1512131446",
+					"profile_link_color": "333333",
+					"profile_sidebar_border_color": "004FA3",
+					"profile_sidebar_fill_color": "8E8E91",
+					"profile_text_color": "004FA3",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 3,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 940164099832397800,
+		"quoted_status_id_str": "940164099832397829",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 12 04:31:15 +0000 2017",
+		"id": 940438876329349100,
+		"id_str": "940438876329349120",
+		"text": "Extreme sailing for our youth sailors! #SailforSG https://t.co/oYmcsBTJYt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SailforSG",
+					"indices": [
+						39,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oYmcsBTJYt",
+					"expanded_url": "https://twitter.com/youthworlds/status/940428864089665542",
+					"display_url": "twitter.com/youthworlds/st…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35487,
+			"friends_count": 11751,
+			"listed_count": 1009,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8982,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9597,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 940428864089665500,
+		"quoted_status_id_str": "940428864089665542",
+		"quoted_status": {
+			"created_at": "Tue Dec 12 03:51:28 +0000 2017",
+			"id": 940428864089665500,
+			"id_str": "940428864089665542",
+			"text": "The first results of the day are in and they are from the Nacra 15. Germany took the win but the Belgian team still… https://t.co/lzOexM4eKR",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lzOexM4eKR",
+						"expanded_url": "https://twitter.com/i/web/status/940428864089665542",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40852388,
+				"id_str": "40852388",
+				"name": "Youth Sailing Worlds",
+				"screen_name": "youthworlds",
+				"location": "Sanya, China",
+				"description": "🌎⛵️The Youth Sailing World Championships are the world’s leading youth sailing event.",
+				"url": "https://t.co/PXUUCNeODS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PXUUCNeODS",
+								"expanded_url": "http://www.facebook.com/youthworlds",
+								"display_url": "facebook.com/youthworlds",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5835,
+				"friends_count": 15,
+				"listed_count": 72,
+				"created_at": "Mon May 18 10:59:20 +0000 2009",
+				"favourites_count": 260,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3073,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "004FA3",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/174167882/twitter-template_ISAF_2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/174167882/twitter-template_ISAF_2.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/938048996895019010/1pN8AycE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/938048996895019010/1pN8AycE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40852388/1512131446",
+				"profile_link_color": "333333",
+				"profile_sidebar_border_color": "004FA3",
+				"profile_sidebar_fill_color": "8E8E91",
+				"profile_text_color": "004FA3",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "008c89c263ca6817",
+				"url": "https://api.twitter.com/1.1/geo/id/008c89c263ca6817.json",
+				"place_type": "admin",
+				"name": "Hainan",
+				"full_name": "Hainan, People's Republic of China",
+				"country_code": "CN",
+				"country": "People's Republic of China",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								108.6126,
+								18.159175
+							],
+							[
+								111.27354,
+								18.159175
+							],
+							[
+								111.27354,
+								20.16163
+							],
+							[
+								108.6126,
+								20.16163
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 12 04:08:01 +0000 2017",
 		"id": 940433030719594500,
 		"id_str": "940433030719594496",
