@@ -1,6 +1,1111 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Tue Dec 12 22:34:11 +0000 2017",
+		"id": 940711407112220700,
+		"id_str": "940711407112220673",
+		"text": "@marketing_minx Yaaaaaas! #Want ☕️☕️",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Want",
+					"indices": [
+						26,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marketing_minx",
+					"name": "Marketing Minx",
+					"id": 934339410476314600,
+					"id_str": "934339410476314625",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 938377306094968800,
+		"in_reply_to_status_id_str": "938377306094968832",
+		"in_reply_to_user_id": 934339410476314600,
+		"in_reply_to_user_id_str": "934339410476314625",
+		"in_reply_to_screen_name": "marketing_minx",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35605,
+			"friends_count": 11788,
+			"listed_count": 1011,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8999,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Tue Dec 12 22:32:36 +0000 2017",
+		"id": 940711008279994400,
+		"id_str": "940711008279994368",
+		"text": "RT @debbiediscovers: Could a Videogame Strengthen Your Aging Brain? https://t.co/6Mi3zwmVe4 via https://t.co/NupEN7XZSf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6Mi3zwmVe4",
+					"expanded_url": "https://www.wired.com/story/could-a-videogame-strengthen-your-aging-brain/",
+					"display_url": "wired.com/story/could-a-…",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/NupEN7XZSf",
+					"expanded_url": "https://drumup.io",
+					"display_url": "drumup.io",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35605,
+			"friends_count": 11788,
+			"listed_count": 1011,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8999,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 06 10:04:01 +0000 2017",
+			"id": 938348294966730800,
+			"id_str": "938348294966730752",
+			"text": "Could a Videogame Strengthen Your Aging Brain? https://t.co/6Mi3zwmVe4 via https://t.co/NupEN7XZSf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6Mi3zwmVe4",
+						"expanded_url": "https://www.wired.com/story/could-a-videogame-strengthen-your-aging-brain/",
+						"display_url": "wired.com/story/could-a-…",
+						"indices": [
+							47,
+							70
+						]
+					},
+					{
+						"url": "https://t.co/NupEN7XZSf",
+						"expanded_url": "https://drumup.io",
+						"display_url": "drumup.io",
+						"indices": [
+							75,
+							98
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://drumup.io\" rel=\"nofollow\">drumup.io</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+				"url": "https://t.co/IprDI3V3T9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IprDI3V3T9",
+								"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+								"display_url": "digitaldiscovery.sg/about-deborah-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35605,
+				"friends_count": 11788,
+				"listed_count": 1011,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 8999,
+				"utc_offset": -39600,
+				"time_zone": "Midway Island",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9615,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 12 22:32:30 +0000 2017",
+		"id": 940710983839785000,
+		"id_str": "940710983839784960",
+		"text": "RT @debbiediscovers: #WomenInTech: Hot Topics and Top Influencers - @onalytica https://t.co/F2o1DuE3fw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WomenInTech",
+					"indices": [
+						21,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "Onalytica",
+					"name": "onalytica",
+					"id": 26525599,
+					"id_str": "26525599",
+					"indices": [
+						68,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/F2o1DuE3fw",
+					"expanded_url": "https://buff.ly/2nF2n0k",
+					"display_url": "buff.ly/2nF2n0k",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35605,
+			"friends_count": 11788,
+			"listed_count": 1011,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8999,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 07 21:30:59 +0000 2017",
+			"id": 938883563709239300,
+			"id_str": "938883563709239298",
+			"text": "#WomenInTech: Hot Topics and Top Influencers - @onalytica https://t.co/F2o1DuE3fw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WomenInTech",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Onalytica",
+						"name": "onalytica",
+						"id": 26525599,
+						"id_str": "26525599",
+						"indices": [
+							47,
+							57
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/F2o1DuE3fw",
+						"expanded_url": "https://buff.ly/2nF2n0k",
+						"display_url": "buff.ly/2nF2n0k",
+						"indices": [
+							58,
+							81
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+				"url": "https://t.co/IprDI3V3T9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IprDI3V3T9",
+								"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+								"display_url": "digitaldiscovery.sg/about-deborah-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35605,
+				"friends_count": 11788,
+				"listed_count": 1011,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 8999,
+				"utc_offset": -39600,
+				"time_zone": "Midway Island",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9615,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 12 22:32:01 +0000 2017",
+		"id": 940710862918004700,
+		"id_str": "940710862918004736",
+		"text": "RT @debbiediscovers: Fact checking bot. #Amazing https://t.co/BEtvGiNAkb @martech_today https://t.co/RqSDqTwegJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Amazing",
+					"indices": [
+						40,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "martech_today",
+					"name": "MarTech Today",
+					"id": 747815998531768300,
+					"id_str": "747815998531768324",
+					"indices": [
+						73,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BEtvGiNAkb",
+					"expanded_url": "https://buff.ly/2ktHNif",
+					"display_url": "buff.ly/2ktHNif",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 938567882258096100,
+					"id_str": "938567882258096128",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/DQZ2hCOVoAAH-DG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQZ2hCOVoAAH-DG.jpg",
+					"url": "https://t.co/RqSDqTwegJ",
+					"display_url": "pic.twitter.com/RqSDqTwegJ",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/938567884019847168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 436,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 436,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 436,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 938567884019847200,
+					"source_status_id_str": "938567884019847168",
+					"source_user_id": 3060836348,
+					"source_user_id_str": "3060836348"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 938567882258096100,
+					"id_str": "938567882258096128",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/DQZ2hCOVoAAH-DG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQZ2hCOVoAAH-DG.jpg",
+					"url": "https://t.co/RqSDqTwegJ",
+					"display_url": "pic.twitter.com/RqSDqTwegJ",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/938567884019847168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 436,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 436,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 436,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 938567884019847200,
+					"source_status_id_str": "938567884019847168",
+					"source_user_id": 3060836348,
+					"source_user_id_str": "3060836348"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35605,
+			"friends_count": 11788,
+			"listed_count": 1011,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8999,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 07 00:36:35 +0000 2017",
+			"id": 938567884019847200,
+			"id_str": "938567884019847168",
+			"text": "Fact checking bot. #Amazing https://t.co/BEtvGiNAkb @martech_today https://t.co/RqSDqTwegJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Amazing",
+						"indices": [
+							19,
+							27
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "martech_today",
+						"name": "MarTech Today",
+						"id": 747815998531768300,
+						"id_str": "747815998531768324",
+						"indices": [
+							52,
+							66
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BEtvGiNAkb",
+						"expanded_url": "https://buff.ly/2ktHNif",
+						"display_url": "buff.ly/2ktHNif",
+						"indices": [
+							28,
+							51
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 938567882258096100,
+						"id_str": "938567882258096128",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/DQZ2hCOVoAAH-DG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQZ2hCOVoAAH-DG.jpg",
+						"url": "https://t.co/RqSDqTwegJ",
+						"display_url": "pic.twitter.com/RqSDqTwegJ",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/938567884019847168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 436,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 436,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 436,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 938567882258096100,
+						"id_str": "938567882258096128",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/DQZ2hCOVoAAH-DG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQZ2hCOVoAAH-DG.jpg",
+						"url": "https://t.co/RqSDqTwegJ",
+						"display_url": "pic.twitter.com/RqSDqTwegJ",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/938567884019847168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 436,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 436,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 436,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+				"url": "https://t.co/IprDI3V3T9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IprDI3V3T9",
+								"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+								"display_url": "digitaldiscovery.sg/about-deborah-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35605,
+				"friends_count": 11788,
+				"listed_count": 1011,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 8999,
+				"utc_offset": -39600,
+				"time_zone": "Midway Island",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9615,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 12 22:28:17 +0000 2017",
+		"id": 940709922051723300,
+		"id_str": "940709922051723264",
+		"text": "@imassoc Thanks! Look forward to reading your tweets! :)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "imassoc",
+					"name": "IMAssociates",
+					"id": 36755727,
+					"id_str": "36755727",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 940706489206837200,
+		"in_reply_to_status_id_str": "940706489206837250",
+		"in_reply_to_user_id": 36755727,
+		"in_reply_to_user_id_str": "36755727",
+		"in_reply_to_screen_name": "imassoc",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35605,
+			"friends_count": 11788,
+			"listed_count": 1011,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8999,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 12 21:54:51 +0000 2017",
 		"id": 940701508215197700,
 		"id_str": "940701508215197698",
