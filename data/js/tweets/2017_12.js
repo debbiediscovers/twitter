@@ -1,6 +1,1155 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Tue Dec 12 21:54:51 +0000 2017",
+		"id": 940701508215197700,
+		"id_str": "940701508215197698",
+		"text": "Everyday something changes lol how to keep up 😂😂 - @Verge https://t.co/FjclriVIjv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "verge",
+					"name": "The Verge",
+					"id": 275686563,
+					"id_str": "275686563",
+					"indices": [
+						51,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FjclriVIjv",
+					"expanded_url": "https://buff.ly/2nU44Hk",
+					"display_url": "buff.ly/2nU44Hk",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35580,
+			"friends_count": 11764,
+			"listed_count": 1009,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8993,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9611,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 12 21:45:59 +0000 2017",
+		"id": 940699277868851200,
+		"id_str": "940699277868851200",
+		"text": "#LOVE #THIS! 😍❤️ @Verge https://t.co/zizqBUxkPD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOVE",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "THIS",
+					"indices": [
+						6,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "verge",
+					"name": "The Verge",
+					"id": 275686563,
+					"id_str": "275686563",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zizqBUxkPD",
+					"expanded_url": "https://buff.ly/2Bbc2AY",
+					"display_url": "buff.ly/2Bbc2AY",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35580,
+			"friends_count": 11764,
+			"listed_count": 1009,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8993,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9611,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Tue Dec 12 21:40:12 +0000 2017",
+		"id": 940697819953926100,
+		"id_str": "940697819953926144",
+		"text": "Not a fan of this! 😔- @Verge https://t.co/kFHRYFvfNS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "verge",
+					"name": "The Verge",
+					"id": 275686563,
+					"id_str": "275686563",
+					"indices": [
+						22,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kFHRYFvfNS",
+					"expanded_url": "https://buff.ly/2z3Aanr",
+					"display_url": "buff.ly/2z3Aanr",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35580,
+			"friends_count": 11764,
+			"listed_count": 1009,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8993,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9611,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 12 21:19:56 +0000 2017",
+		"id": 940692721945100300,
+		"id_str": "940692721945100288",
+		"text": "RT @littlecoderssg: Microsoft designed these colorful toys to teach blind kids to code https://t.co/rmldWMG4uQ #coding #kidscoding",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "coding",
+					"indices": [
+						111,
+						118
+					]
+				},
+				{
+					"text": "kidscoding",
+					"indices": [
+						119,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "littlecoderssg",
+					"name": "Little Coders SG",
+					"id": 3188621004,
+					"id_str": "3188621004",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rmldWMG4uQ",
+					"expanded_url": "https://buff.ly/2izH7Hy",
+					"display_url": "buff.ly/2izH7Hy",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35580,
+			"friends_count": 11764,
+			"listed_count": 1009,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8993,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9611,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 11 10:13:08 +0000 2017",
+			"id": 940162526620323800,
+			"id_str": "940162526620323840",
+			"text": "Microsoft designed these colorful toys to teach blind kids to code https://t.co/rmldWMG4uQ #coding #kidscoding",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "coding",
+						"indices": [
+							91,
+							98
+						]
+					},
+					{
+						"text": "kidscoding",
+						"indices": [
+							99,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rmldWMG4uQ",
+						"expanded_url": "https://buff.ly/2izH7Hy",
+						"display_url": "buff.ly/2izH7Hy",
+						"indices": [
+							67,
+							90
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3188621004,
+				"id_str": "3188621004",
+				"name": "Little Coders SG",
+				"screen_name": "littlecoderssg",
+				"location": "Singapore",
+				"description": "Code ambassadors supporting the kids coding movement globally. #AI powered content. Occasional human touch delivered by @debbiediscovers 🤖😻",
+				"url": "https://t.co/gVziiEL7vp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gVziiEL7vp",
+								"expanded_url": "https://www.facebook.com/littlecoderssg",
+								"display_url": "facebook.com/littlecoderssg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 811,
+				"friends_count": 2741,
+				"listed_count": 60,
+				"created_at": "Fri May 08 11:37:06 +0000 2015",
+				"favourites_count": 855,
+				"utc_offset": -39600,
+				"time_zone": "Midway Island",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1572,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/660828387716411392/vWWGDPJK_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/660828387716411392/vWWGDPJK_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3188621004/1431619481",
+				"profile_link_color": "7BD7C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 12 21:19:47 +0000 2017",
+		"id": 940692682371866600,
+		"id_str": "940692682371866624",
+		"text": "RT @littlecoderssg: How Scratch and Minecraft Developers Hope to Keep Kids Coding For Life https://t.co/4dpFP4YKvs #coding #kidscoding",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "coding",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "kidscoding",
+					"indices": [
+						123,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "littlecoderssg",
+					"name": "Little Coders SG",
+					"id": 3188621004,
+					"id_str": "3188621004",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4dpFP4YKvs",
+					"expanded_url": "https://buff.ly/2AzhzkZ",
+					"display_url": "buff.ly/2AzhzkZ",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35580,
+			"friends_count": 11764,
+			"listed_count": 1009,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8993,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9611,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 11 22:17:00 +0000 2017",
+			"id": 940344694986477600,
+			"id_str": "940344694986477569",
+			"text": "How Scratch and Minecraft Developers Hope to Keep Kids Coding For Life https://t.co/4dpFP4YKvs #coding #kidscoding",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "coding",
+						"indices": [
+							95,
+							102
+						]
+					},
+					{
+						"text": "kidscoding",
+						"indices": [
+							103,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4dpFP4YKvs",
+						"expanded_url": "https://buff.ly/2AzhzkZ",
+						"display_url": "buff.ly/2AzhzkZ",
+						"indices": [
+							71,
+							94
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3188621004,
+				"id_str": "3188621004",
+				"name": "Little Coders SG",
+				"screen_name": "littlecoderssg",
+				"location": "Singapore",
+				"description": "Code ambassadors supporting the kids coding movement globally. #AI powered content. Occasional human touch delivered by @debbiediscovers 🤖😻",
+				"url": "https://t.co/gVziiEL7vp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gVziiEL7vp",
+								"expanded_url": "https://www.facebook.com/littlecoderssg",
+								"display_url": "facebook.com/littlecoderssg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 811,
+				"friends_count": 2741,
+				"listed_count": 60,
+				"created_at": "Fri May 08 11:37:06 +0000 2015",
+				"favourites_count": 855,
+				"utc_offset": -39600,
+				"time_zone": "Midway Island",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1572,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/660828387716411392/vWWGDPJK_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/660828387716411392/vWWGDPJK_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3188621004/1431619481",
+				"profile_link_color": "7BD7C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 12 21:12:24 +0000 2017",
+		"id": 940690823410155500,
+		"id_str": "940690823410155520",
+		"text": "RT @creativewavevb: How to access Twitter's API - A Guide for Non Developers https://t.co/EV14YJBcmF @debbiediscovers https://t.co/e0k0uKme…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "creativewavevb",
+					"name": "Creative Wave",
+					"id": 812068991237767200,
+					"id_str": "812068991237767168",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						101,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EV14YJBcmF",
+					"expanded_url": "https://buff.ly/2kYxVgJ",
+					"display_url": "buff.ly/2kYxVgJ",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35580,
+			"friends_count": 11764,
+			"listed_count": 1009,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 8993,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9611,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 12 18:30:07 +0000 2017",
+			"id": 940649985082822700,
+			"id_str": "940649985082822656",
+			"text": "How to access Twitter's API - A Guide for Non Developers https://t.co/EV14YJBcmF @debbiediscovers https://t.co/e0k0uKme1r",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							81,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/EV14YJBcmF",
+						"expanded_url": "https://buff.ly/2kYxVgJ",
+						"display_url": "buff.ly/2kYxVgJ",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 940649980649525200,
+						"id_str": "940649980649525248",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DQ3cLHKX0AAliJI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQ3cLHKX0AAliJI.jpg",
+						"url": "https://t.co/e0k0uKme1r",
+						"display_url": "pic.twitter.com/e0k0uKme1r",
+						"expanded_url": "https://twitter.com/creativewavevb/status/940649985082822656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 940649980649525200,
+						"id_str": "940649980649525248",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DQ3cLHKX0AAliJI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQ3cLHKX0AAliJI.jpg",
+						"url": "https://t.co/e0k0uKme1r",
+						"display_url": "pic.twitter.com/e0k0uKme1r",
+						"expanded_url": "https://twitter.com/creativewavevb/status/940649985082822656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 812068991237767200,
+				"id_str": "812068991237767168",
+				"name": "Creative Wave",
+				"screen_name": "creativewavevb",
+				"location": "Virginia Beach, VA",
+				"description": "#CWVB Marketing + Social Media Marketing, Brand Awareness, Event Planning #NoWaveIsTheSame",
+				"url": "https://t.co/KiuxfpC7ce",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KiuxfpC7ce",
+								"expanded_url": "http://www.facebook.com/creativewavevb",
+								"display_url": "facebook.com/creativewavevb",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 71,
+				"friends_count": 272,
+				"listed_count": 13,
+				"created_at": "Thu Dec 22 22:55:09 +0000 2016",
+				"favourites_count": 225,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1215,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/812070309180350465/bksSR2Te_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/812070309180350465/bksSR2Te_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/812068991237767168/1482447644",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 12 17:20:00 +0000 2017",
 		"id": 940632340652613600,
 		"id_str": "940632340652613634",
