@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sat Dec 16 23:52:37 +0000 2017",
+		"id": 942180697615212500,
+		"id_str": "942180697615212544",
+		"text": "RT @b0rk: hello! here is a tweetstorm with my \"so you want to be a wizard\" zine! https://t.co/e97fMSQJgp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "b0rk",
+					"name": "⚡Julia Evans⚡",
+					"id": 6603532,
+					"id_str": "6603532",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 941899136751865900,
+					"id_str": "941899136751865856",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DRJMRkRXkAAeq07.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRJMRkRXkAAeq07.jpg",
+					"url": "https://t.co/e97fMSQJgp",
+					"display_url": "pic.twitter.com/e97fMSQJgp",
+					"expanded_url": "https://twitter.com/b0rk/status/941901614796943361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 941901614796943400,
+					"source_status_id_str": "941901614796943361",
+					"source_user_id": 6603532,
+					"source_user_id_str": "6603532"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 941899136751865900,
+					"id_str": "941899136751865856",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DRJMRkRXkAAeq07.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRJMRkRXkAAeq07.jpg",
+					"url": "https://t.co/e97fMSQJgp",
+					"display_url": "pic.twitter.com/e97fMSQJgp",
+					"expanded_url": "https://twitter.com/b0rk/status/941901614796943361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 941901614796943400,
+					"source_status_id_str": "941901614796943361",
+					"source_user_id": 6603532,
+					"source_user_id_str": "6603532"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36025,
+			"friends_count": 11629,
+			"listed_count": 1011,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9065,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 16 05:23:39 +0000 2017",
+			"id": 941901614796943400,
+			"id_str": "941901614796943361",
+			"text": "hello! here is a tweetstorm with my \"so you want to be a wizard\" zine! https://t.co/e97fMSQJgp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 941899136751865900,
+						"id_str": "941899136751865856",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DRJMRkRXkAAeq07.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRJMRkRXkAAeq07.jpg",
+						"url": "https://t.co/e97fMSQJgp",
+						"display_url": "pic.twitter.com/e97fMSQJgp",
+						"expanded_url": "https://twitter.com/b0rk/status/941901614796943361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1365,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 941899136751865900,
+						"id_str": "941899136751865856",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DRJMRkRXkAAeq07.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRJMRkRXkAAeq07.jpg",
+						"url": "https://t.co/e97fMSQJgp",
+						"display_url": "pic.twitter.com/e97fMSQJgp",
+						"expanded_url": "https://twitter.com/b0rk/status/941901614796943361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1365,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6603532,
+				"id_str": "6603532",
+				"name": "⚡Julia Evans⚡",
+				"screen_name": "b0rk",
+				"location": "Montreal",
+				"description": "programming and exclamation marks.  ♥ @recursecenter, @bangbangcon",
+				"url": "http://t.co/9Wxp3hwduY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/9Wxp3hwduY",
+								"expanded_url": "http://jvns.ca",
+								"display_url": "jvns.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39651,
+				"friends_count": 616,
+				"listed_count": 1038,
+				"created_at": "Tue Jun 05 21:05:09 +0000 2007",
+				"favourites_count": 20704,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14712,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/846106819391115264/iZAxk4qr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/846106819391115264/iZAxk4qr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6603532/1400593082",
+				"profile_link_color": "C74C00",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 238,
+			"favorite_count": 521,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 238,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 16 23:00:59 +0000 2017",
 		"id": 942167701992063000,
 		"id_str": "942167701992062976",
