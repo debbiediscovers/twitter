@@ -1,6 +1,855 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sun Dec 17 12:01:45 +0000 2017",
+		"id": 942364186515882000,
+		"id_str": "942364186515881985",
+		"text": "RT @lisa_jocko: #ShakespeareSunday “What a terrible era in which idiots govern the blind.”",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ShakespeareSunday",
+					"indices": [
+						16,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lisa_jocko",
+					"name": "Lisa Jocko",
+					"id": 894616395987640300,
+					"id_str": "894616395987640320",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36048,
+			"friends_count": 11856,
+			"listed_count": 1012,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9077,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9702,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 17 09:06:02 +0000 2017",
+			"id": 942319967071961100,
+			"id_str": "942319967071961088",
+			"text": "#ShakespeareSunday “What a terrible era in which idiots govern the blind.”",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ShakespeareSunday",
+						"indices": [
+							0,
+							18
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 894616395987640300,
+				"id_str": "894616395987640320",
+				"name": "Lisa Jocko",
+				"screen_name": "lisa_jocko",
+				"location": "Camarillo, CA",
+				"description": "waiting for #RICO #RESIST \n\n#Aspie #INTJ #Stoic Extrapolation. Forensic Genealogist. \n\ngranddaughter of Beryl E. Brown, WWII/OSS/CIA #SearchAngel \n\nRT≠endorse",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1869,
+				"friends_count": 2004,
+				"listed_count": 1,
+				"created_at": "Mon Aug 07 17:49:04 +0000 2017",
+				"favourites_count": 32827,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22830,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/933980607327084544/hWNm2jws_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/933980607327084544/hWNm2jws_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/894616395987640320/1509924869",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51,
+			"favorite_count": 67,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Dec 17 11:25:10 +0000 2017",
+		"id": 942354984061956100,
+		"id_str": "942354984061956096",
+		"text": "RT @debbiediscovers: 50 hours left to support this @kickstarter project by @taralinney to empower girls in coding! https://t.co/XjL0TYbNCI…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "kickstarter",
+					"name": "Kickstarter",
+					"id": 16186995,
+					"id_str": "16186995",
+					"indices": [
+						51,
+						63
+					]
+				},
+				{
+					"screen_name": "TaraLinney",
+					"name": "Tara Linney🌎",
+					"id": 335617284,
+					"id_str": "335617284",
+					"indices": [
+						75,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XjL0TYbNCI",
+					"expanded_url": "https://twitter.com/TaraLinney/status/938000008254771200",
+					"display_url": "twitter.com/TaraLinney/sta…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36048,
+			"friends_count": 11856,
+			"listed_count": 1012,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9077,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9702,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 17 10:57:35 +0000 2017",
+			"id": 942348039787659300,
+			"id_str": "942348039787659264",
+			"text": "50 hours left to support this @kickstarter project by @taralinney to empower girls in coding! https://t.co/XjL0TYbNCI #kidscancode",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "kidscancode",
+						"indices": [
+							118,
+							130
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kickstarter",
+						"name": "Kickstarter",
+						"id": 16186995,
+						"id_str": "16186995",
+						"indices": [
+							30,
+							42
+						]
+					},
+					{
+						"screen_name": "TaraLinney",
+						"name": "Tara Linney🌎",
+						"id": 335617284,
+						"id_str": "335617284",
+						"indices": [
+							54,
+							65
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XjL0TYbNCI",
+						"expanded_url": "https://twitter.com/TaraLinney/status/938000008254771200",
+						"display_url": "twitter.com/TaraLinney/sta…",
+						"indices": [
+							94,
+							117
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+				"url": "https://t.co/IprDI3V3T9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IprDI3V3T9",
+								"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+								"display_url": "digitaldiscovery.sg/about-deborah-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36048,
+				"friends_count": 11856,
+				"listed_count": 1012,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 9077,
+				"utc_offset": -39600,
+				"time_zone": "Midway Island",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9702,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 938000008254771200,
+			"quoted_status_id_str": "938000008254771200",
+			"quoted_status": {
+				"created_at": "Tue Dec 05 11:00:03 +0000 2017",
+				"id": 938000008254771200,
+				"id_str": "938000008254771200",
+				"text": "Hi @debbiediscovers as a #coding entrepreneur I'd appreciate your support with this @kickstarter project to help br… https://t.co/vYdmj1pEmw",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "coding",
+							"indices": [
+								25,
+								32
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "debbiediscovers",
+							"name": "Deborah Kay",
+							"id": 3060836348,
+							"id_str": "3060836348",
+							"indices": [
+								3,
+								19
+							]
+						},
+						{
+							"screen_name": "kickstarter",
+							"name": "Kickstarter",
+							"id": 16186995,
+							"id_str": "16186995",
+							"indices": [
+								84,
+								96
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/vYdmj1pEmw",
+							"expanded_url": "https://twitter.com/i/web/status/938000008254771200",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 335617284,
+					"id_str": "335617284",
+					"name": "Tara Linney🌎",
+					"screen_name": "TaraLinney",
+					"location": "Singapore",
+					"description": "GCI, GET, RCE, ASCD Emerging Leader '17, ISTE Global PLN President, Innovative EdTech Coach, Keynote Speaker #coding Blueberry Lover. Nerd. #edcamp #GTAMTV14",
+					"url": "https://t.co/fE4mEjWhMg",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/fE4mEjWhMg",
+									"expanded_url": "https://www.kickstarter.com/projects/1658926740/girls-can-code",
+									"display_url": "kickstarter.com/projects/16589…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 5369,
+					"friends_count": 3780,
+					"listed_count": 352,
+					"created_at": "Thu Jul 14 23:46:54 +0000 2011",
+					"favourites_count": 7341,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 15809,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "0099B9",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/495581006234009600/29b1jrDc.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/495581006234009600/29b1jrDc.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/917895818614419456/l1ZEGwoz_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/917895818614419456/l1ZEGwoz_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/335617284/1509006720",
+					"profile_link_color": "0C00B8",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "95E8EC",
+					"profile_text_color": "3C3940",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 938000008254771200,
+		"quoted_status_id_str": "938000008254771200",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Dec 17 11:25:05 +0000 2017",
+		"id": 942354960255037400,
+		"id_str": "942354960255037440",
+		"text": "RT @TaraLinney: Hi @debbiediscovers as a #coding entrepreneur I'd appreciate your support with this @kickstarter project to help bridge the…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "coding",
+					"indices": [
+						41,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TaraLinney",
+					"name": "Tara Linney🌎",
+					"id": 335617284,
+					"id_str": "335617284",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						19,
+						35
+					]
+				},
+				{
+					"screen_name": "kickstarter",
+					"name": "Kickstarter",
+					"id": 16186995,
+					"id_str": "16186995",
+					"indices": [
+						100,
+						112
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, #Bottish100 Power 100, #GlobalGoals advocate, @SingaporeSail @DigitalFuturist @LittleCodersSG @GiftedSGP Love Twitter, allergic to stupid tweets",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36048,
+			"friends_count": 11856,
+			"listed_count": 1012,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9077,
+			"utc_offset": -39600,
+			"time_zone": "Midway Island",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9702,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 05 11:00:03 +0000 2017",
+			"id": 938000008254771200,
+			"id_str": "938000008254771200",
+			"text": "Hi @debbiediscovers as a #coding entrepreneur I'd appreciate your support with this @kickstarter project to help br… https://t.co/vYdmj1pEmw",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "coding",
+						"indices": [
+							25,
+							32
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							3,
+							19
+						]
+					},
+					{
+						"screen_name": "kickstarter",
+						"name": "Kickstarter",
+						"id": 16186995,
+						"id_str": "16186995",
+						"indices": [
+							84,
+							96
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vYdmj1pEmw",
+						"expanded_url": "https://twitter.com/i/web/status/938000008254771200",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 335617284,
+				"id_str": "335617284",
+				"name": "Tara Linney🌎",
+				"screen_name": "TaraLinney",
+				"location": "Singapore",
+				"description": "GCI, GET, RCE, ASCD Emerging Leader '17, ISTE Global PLN President, Innovative EdTech Coach, Keynote Speaker #coding Blueberry Lover. Nerd. #edcamp #GTAMTV14",
+				"url": "https://t.co/fE4mEjWhMg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fE4mEjWhMg",
+								"expanded_url": "https://www.kickstarter.com/projects/1658926740/girls-can-code",
+								"display_url": "kickstarter.com/projects/16589…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5369,
+				"friends_count": 3780,
+				"listed_count": 352,
+				"created_at": "Thu Jul 14 23:46:54 +0000 2011",
+				"favourites_count": 7341,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15809,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/495581006234009600/29b1jrDc.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/495581006234009600/29b1jrDc.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/917895818614419456/l1ZEGwoz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/917895818614419456/l1ZEGwoz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/335617284/1509006720",
+				"profile_link_color": "0C00B8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Dec 17 11:02:28 +0000 2017",
 		"id": 942349270320955400,
 		"id_str": "942349270320955392",
