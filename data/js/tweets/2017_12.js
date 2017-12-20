@@ -1,6 +1,686 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Wed Dec 20 12:17:28 +0000 2017",
+		"id": 943455306389921800,
+		"id_str": "943455306389921792",
+		"text": "RT @Extechuk: Great to see a snippet from Extech's @JoeMorecroft article on #AI and #Strategy go viral. Read the article here: https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "Strategy",
+					"indices": [
+						84,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Extechuk",
+					"name": "extech.co.uk",
+					"id": 54236771,
+					"id_str": "54236771",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "JoeMorecroft",
+					"name": "Joe Morecroft",
+					"id": 23236360,
+					"id_str": "23236360",
+					"indices": [
+						51,
+						64
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36394,
+			"friends_count": 14376,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9426,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9791,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 20 12:16:42 +0000 2017",
+			"id": 943455115549265900,
+			"id_str": "943455115549265920",
+			"text": "Great to see a snippet from Extech's @JoeMorecroft article on #AI and #Strategy go viral. Read the article here:… https://t.co/suOf7m4ORw",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AI",
+						"indices": [
+							62,
+							65
+						]
+					},
+					{
+						"text": "Strategy",
+						"indices": [
+							70,
+							79
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JoeMorecroft",
+						"name": "Joe Morecroft",
+						"id": 23236360,
+						"id_str": "23236360",
+						"indices": [
+							37,
+							50
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/suOf7m4ORw",
+						"expanded_url": "https://twitter.com/i/web/status/943455115549265920",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54236771,
+				"id_str": "54236771",
+				"name": "extech.co.uk",
+				"screen_name": "Extechuk",
+				"location": "South East, England",
+				"description": "Multi award winning IT MSP with a passion for humanising Digital transformation helping our customers define and implement their Digital transformation strategy",
+				"url": "https://t.co/RWbCt5vb4z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RWbCt5vb4z",
+								"expanded_url": "http://www.extech.co.uk",
+								"display_url": "extech.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1321,
+				"friends_count": 2057,
+				"listed_count": 31,
+				"created_at": "Mon Jul 06 15:37:00 +0000 2009",
+				"favourites_count": 161,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2187,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFCC4D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/520840373912883200/EJ8RlO9l.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/520840373912883200/EJ8RlO9l.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/778613086483873792/xKqIjSgX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/778613086483873792/xKqIjSgX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54236771/1475078870",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 942538346651201500,
+			"quoted_status_id_str": "942538346651201536",
+			"quoted_status": {
+				"created_at": "Sun Dec 17 23:33:48 +0000 2017",
+				"id": 942538346651201500,
+				"id_str": "942538346651201536",
+				"text": "A machine learning algorithm walked into a bar. \n\nThe bartender asked, “What would you like to drink?” \n\nThe algori… https://t.co/htqBDdxdQ9",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/htqBDdxdQ9",
+							"expanded_url": "https://twitter.com/i/web/status/942538346651201536",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"name": "Deborah Kay",
+					"screen_name": "debbiediscovers",
+					"location": "Singapore",
+					"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+					"url": "https://t.co/IprDI3V3T9",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/IprDI3V3T9",
+									"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+									"display_url": "digitaldiscovery.sg/about-deborah-…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 36394,
+					"friends_count": 14376,
+					"listed_count": 1021,
+					"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+					"favourites_count": 9426,
+					"utc_offset": 28800,
+					"time_zone": "Singapore",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 9791,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EBEBEB",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+					"profile_link_color": "D50252",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3901,
+				"favorite_count": 8434,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 942538346651201500,
+		"quoted_status_id_str": "942538346651201536",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Dec 20 12:16:15 +0000 2017",
+		"id": 943454999626924000,
+		"id_str": "943454999626924032",
+		"text": "@moingshaikh @hjdave 😂😂👍👍",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "moingshaikh",
+					"name": "Moin Shaikh‏",
+					"id": 328318972,
+					"id_str": "328318972",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "hjdave",
+					"name": "Hiren Dave",
+					"id": 22751360,
+					"id_str": "22751360",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 943454487720505300,
+		"in_reply_to_status_id_str": "943454487720505345",
+		"in_reply_to_user_id": 328318972,
+		"in_reply_to_user_id_str": "328318972",
+		"in_reply_to_screen_name": "moingshaikh",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36394,
+			"friends_count": 14376,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9426,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9791,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Wed Dec 20 12:12:59 +0000 2017",
+		"id": 943454177371463700,
+		"id_str": "943454177371463682",
+		"text": "RT @JoeMorecroft: What does the future of strategy look like in a world run by machines? Will machine learning eventually lead us all to th…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JoeMorecroft",
+					"name": "Joe Morecroft",
+					"id": 23236360,
+					"id_str": "23236360",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36394,
+			"friends_count": 14376,
+			"listed_count": 1021,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9426,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9791,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 25 11:51:42 +0000 2017",
+			"id": 934389127885344800,
+			"id_str": "934389127885344768",
+			"text": "What does the future of strategy look like in a world run by machines? Will machine learning eventually lead us all… https://t.co/3bSM1SaTas",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3bSM1SaTas",
+						"expanded_url": "https://twitter.com/i/web/status/934389127885344768",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23236360,
+				"id_str": "23236360",
+				"name": "Joe Morecroft",
+				"screen_name": "JoeMorecroft",
+				"location": "Brighton, UK",
+				"description": "Digital Innovation Strategy Project Lead with @UniOfBrighton @Extechuk @InnovateUK \n🔗https://t.co/3Nto9T3eEx | #DigitalMarketing #Strategy | #MBA | #NFFC",
+				"url": "https://t.co/YGzdOWXc8V",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YGzdOWXc8V",
+								"expanded_url": "https://www.linkedin.com/in/joemorecroft",
+								"display_url": "linkedin.com/in/joemorecroft",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3Nto9T3eEx",
+								"expanded_url": "https://goo.gl/zsRgzD",
+								"display_url": "goo.gl/zsRgzD",
+								"indices": [
+									85,
+									108
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 766,
+				"friends_count": 1207,
+				"listed_count": 19,
+				"created_at": "Sat Mar 07 21:23:19 +0000 2009",
+				"favourites_count": 300,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 830,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F6BB42",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/922863709927755777/RHWLyGDj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/922863709927755777/RHWLyGDj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23236360/1463915528",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 10,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Dec 20 12:11:05 +0000 2017",
 		"id": 943453701821235200,
 		"id_str": "943453701821235200",
@@ -495,7 +1175,7 @@ Grailbird.data.tweets_2017_12 =
 			"user_mentions": [
 				{
 					"screen_name": "triketora",
-					"name": "Tracy Chou 👩🏻‍💻",
+					"name": "Tracy Chou 👩🏻💻",
 					"id": 19556080,
 					"id_str": "19556080",
 					"indices": [
@@ -618,7 +1298,7 @@ Grailbird.data.tweets_2017_12 =
 			"user": {
 				"id": 19556080,
 				"id_str": "19556080",
-				"name": "Tracy Chou 👩🏻‍💻",
+				"name": "Tracy Chou 👩🏻💻",
 				"screen_name": "triketora",
 				"location": "nyc via sf",
 				"description": "tbd. organizing w @arenasummit, @projectinclude. @homebrew advisor. prev @pinterest, @usds, @quora, @stanford. i turn coffee into code. i like yoga and running.",
