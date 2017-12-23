@@ -1,6 +1,697 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sat Dec 23 00:02:48 +0000 2017",
+		"id": 944357585561325600,
+		"id_str": "944357585561325568",
+		"text": "@mkwntrs @mashable Does that mean I can send you my Xmas wishlist? 😝😝",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mkwntrs",
+					"name": "me",
+					"id": 1035468018,
+					"id_str": "1035468018",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "mashable",
+					"name": "Mashable",
+					"id": 972651,
+					"id_str": "972651",
+					"indices": [
+						9,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 944353487210602500,
+		"in_reply_to_status_id_str": "944353487210602498",
+		"in_reply_to_user_id": 1035468018,
+		"in_reply_to_user_id_str": "1035468018",
+		"in_reply_to_screen_name": "mkwntrs",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36638,
+			"friends_count": 15506,
+			"listed_count": 1023,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9542,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9851,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Dec 23 00:02:20 +0000 2017",
+		"id": 944357470264115200,
+		"id_str": "944357470264115201",
+		"text": "@mkwntrs @mashable As long as you cash out whenever you can ... https://t.co/5cvM2FrD5E",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mkwntrs",
+					"name": "me",
+					"id": 1035468018,
+					"id_str": "1035468018",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "mashable",
+					"name": "Mashable",
+					"id": 972651,
+					"id_str": "972651",
+					"indices": [
+						9,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 944357279133982700,
+					"id_str": "944357279133982720",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DRsH8SPV4AAT7w9.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DRsH8SPV4AAT7w9.jpg",
+					"url": "https://t.co/5cvM2FrD5E",
+					"display_url": "pic.twitter.com/5cvM2FrD5E",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/944357470264115201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 284,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 284,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 284,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 944357279133982700,
+					"id_str": "944357279133982720",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DRsH8SPV4AAT7w9.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DRsH8SPV4AAT7w9.jpg",
+					"url": "https://t.co/5cvM2FrD5E",
+					"display_url": "pic.twitter.com/5cvM2FrD5E",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/944357470264115201/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 284,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 284,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 284,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							142
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DRsH8SPV4AAT7w9.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 944353487210602500,
+		"in_reply_to_status_id_str": "944353487210602498",
+		"in_reply_to_user_id": 1035468018,
+		"in_reply_to_user_id_str": "1035468018",
+		"in_reply_to_screen_name": "mkwntrs",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36638,
+			"friends_count": 15506,
+			"listed_count": 1023,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9542,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9851,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 22 23:46:50 +0000 2017",
+		"id": 944353566235377700,
+		"id_str": "944353566235377664",
+		"text": "RT @business: These bitcoin traders aim to profit on the inexeperience of others https://t.co/lw0TNsDeqG https://t.co/tPtPbArOGc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "business",
+					"name": "Bloomberg",
+					"id": 34713362,
+					"id_str": "34713362",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lw0TNsDeqG",
+					"expanded_url": "https://bloom.bg/2kIQ2nM",
+					"display_url": "bloom.bg/2kIQ2nM",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 944304789344718800,
+					"id_str": "944304789344718848",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DRrYM-iXkAA-sNE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRrYM-iXkAA-sNE.jpg",
+					"url": "https://t.co/tPtPbArOGc",
+					"display_url": "pic.twitter.com/tPtPbArOGc",
+					"expanded_url": "https://twitter.com/business/status/944304791924199427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 461,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 814,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 814,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 944304791924199400,
+					"source_status_id_str": "944304791924199427",
+					"source_user_id": 34713362,
+					"source_user_id_str": "34713362"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 944304789344718800,
+					"id_str": "944304789344718848",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DRrYM-iXkAA-sNE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRrYM-iXkAA-sNE.jpg",
+					"url": "https://t.co/tPtPbArOGc",
+					"display_url": "pic.twitter.com/tPtPbArOGc",
+					"expanded_url": "https://twitter.com/business/status/944304791924199427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 461,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 814,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 814,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 944304791924199400,
+					"source_status_id_str": "944304791924199427",
+					"source_user_id": 34713362,
+					"source_user_id_str": "34713362"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36638,
+			"friends_count": 15506,
+			"listed_count": 1023,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9542,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9851,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 22 20:33:01 +0000 2017",
+			"id": 944304791924199400,
+			"id_str": "944304791924199427",
+			"text": "These bitcoin traders aim to profit on the inexeperience of others https://t.co/lw0TNsDeqG https://t.co/tPtPbArOGc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lw0TNsDeqG",
+						"expanded_url": "https://bloom.bg/2kIQ2nM",
+						"display_url": "bloom.bg/2kIQ2nM",
+						"indices": [
+							67,
+							90
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 944304789344718800,
+						"id_str": "944304789344718848",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DRrYM-iXkAA-sNE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRrYM-iXkAA-sNE.jpg",
+						"url": "https://t.co/tPtPbArOGc",
+						"display_url": "pic.twitter.com/tPtPbArOGc",
+						"expanded_url": "https://twitter.com/business/status/944304791924199427/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 461,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 814,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 814,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 944304789344718800,
+						"id_str": "944304789344718848",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DRrYM-iXkAA-sNE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRrYM-iXkAA-sNE.jpg",
+						"url": "https://t.co/tPtPbArOGc",
+						"display_url": "pic.twitter.com/tPtPbArOGc",
+						"expanded_url": "https://twitter.com/business/status/944304791924199427/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 461,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 814,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 814,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34713362,
+				"id_str": "34713362",
+				"name": "Bloomberg",
+				"screen_name": "business",
+				"location": "New York and the World",
+				"description": "The first word in business news.",
+				"url": "http://t.co/YFISwy1upH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YFISwy1upH",
+								"expanded_url": "http://www.bloomberg.com",
+								"display_url": "bloomberg.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4465753,
+				"friends_count": 1091,
+				"listed_count": 46390,
+				"created_at": "Thu Apr 23 20:05:17 +0000 2009",
+				"favourites_count": 340,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 303626,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "101112",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/544322097833467904/1fjpNCr9.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/544322097833467904/1fjpNCr9.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/714946924105883648/4fgNVF4H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/714946924105883648/4fgNVF4H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34713362/1503349279",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "DADADA",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 41,
+			"favorite_count": 68,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 22 23:05:48 +0000 2017",
 		"id": 944343242975277000,
 		"id_str": "944343242975277056",
