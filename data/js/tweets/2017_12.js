@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Mon Dec 25 00:10:02 +0000 2017",
+		"id": 945084180785905700,
+		"id_str": "945084180785905664",
+		"text": "Growth hacking: Strategies and techniques from marketing’s 25 most influential leaders https://t.co/74XszyXttV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/74XszyXttV",
+					"expanded_url": "http://mashable.com/2017/11/07/influencer-markting-tips-tricks-25-most-influential/",
+					"display_url": "mashable.com/2017/11/07/inf…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://drumup.io\" rel=\"nofollow\">drumup.io</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36757,
+			"friends_count": 17148,
+			"listed_count": 1025,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9599,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9886,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Dec 24 23:57:02 +0000 2017",
+		"id": 945080909740384300,
+		"id_str": "945080909740384257",
+		"text": "@DominicONorton Sure!  Always happy chatting about chatbots 😍  Would love to know what you're doing in social entre… https://t.co/oMUHOb8tRy",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DominicONorton",
+					"name": "Dominic Norton",
+					"id": 432389389,
+					"id_str": "432389389",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oMUHOb8tRy",
+					"expanded_url": "https://twitter.com/i/web/status/945080909740384257",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 945071339609739300,
+		"in_reply_to_status_id_str": "945071339609739266",
+		"in_reply_to_user_id": 432389389,
+		"in_reply_to_user_id_str": "432389389",
+		"in_reply_to_screen_name": "DominicONorton",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36757,
+			"friends_count": 17148,
+			"listed_count": 1025,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9599,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9886,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 884578125798981600,
+		"quoted_status_id_str": "884578125798981632",
+		"quoted_status": {
+			"created_at": "Tue Jul 11 01:00:34 +0000 2017",
+			"id": 884578125798981600,
+			"id_str": "884578125798981632",
+			"text": "Proud to share the school @coppo @pavtalk @aaronlintz @trhyndes helped build w/ @PencilsOfPromis in Mak Phouk… https://t.co/MCdPUneHRX",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Coppo",
+						"name": "Andrew Coppin",
+						"id": 17455384,
+						"id_str": "17455384",
+						"indices": [
+							26,
+							32
+						]
+					},
+					{
+						"screen_name": "pavtalk",
+						"name": "Paul Katsen",
+						"id": 237133992,
+						"id_str": "237133992",
+						"indices": [
+							33,
+							41
+						]
+					},
+					{
+						"screen_name": "aaronlintz",
+						"name": "Aaron Lintz",
+						"id": 229213968,
+						"id_str": "229213968",
+						"indices": [
+							42,
+							53
+						]
+					},
+					{
+						"screen_name": "trhyndes",
+						"name": "Robert Hyndes",
+						"id": 18655993,
+						"id_str": "18655993",
+						"indices": [
+							54,
+							63
+						]
+					},
+					{
+						"screen_name": "PencilsOfPromis",
+						"name": "Pencils of Promise",
+						"id": 18369852,
+						"id_str": "18369852",
+						"indices": [
+							80,
+							96
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/MCdPUneHRX",
+						"expanded_url": "https://twitter.com/i/web/status/884578125798981632",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+				"url": "https://t.co/IprDI3V3T9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IprDI3V3T9",
+								"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+								"display_url": "digitaldiscovery.sg/about-deborah-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36757,
+				"friends_count": 17148,
+				"listed_count": 1025,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 9599,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9886,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 266,
+			"favorite_count": 522,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Dec 24 23:50:53 +0000 2017",
+		"id": 945079361866154000,
+		"id_str": "945079361866153984",
+		"text": "Me and my Machine Learning joke 😂😂😂!  #MachineLearning #MLJoke\n\nTop mentioned in entire graph with Nasa, Google and… https://t.co/ovl9ZJCe48",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MachineLearning",
+					"indices": [
+						38,
+						54
+					]
+				},
+				{
+					"text": "MLJoke",
+					"indices": [
+						55,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ovl9ZJCe48",
+					"expanded_url": "https://twitter.com/i/web/status/945079361866153984",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36757,
+			"friends_count": 17148,
+			"listed_count": 1025,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9599,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9886,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Dec 24 22:43:12 +0000 2017",
 		"id": 945062329523118100,
 		"id_str": "945062329523118081",
