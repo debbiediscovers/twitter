@@ -1,6 +1,515 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Thu Dec 28 19:36:47 +0000 2017",
+		"id": 946464970098671600,
+		"id_str": "946464970098671616",
+		"text": "RT @LinkingIn2Sales: What Analytics do you get from Twitter's API? https://t.co/eCqW5OIW7q via @debbiediscovers https://t.co/7iIr1WOuF0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LinkingIn2Sales",
+					"name": "Linking Into Sales",
+					"id": 102879387,
+					"id_str": "102879387",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						95,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eCqW5OIW7q",
+					"expanded_url": "http://bit.ly/2l5jjcJ",
+					"display_url": "bit.ly/2l5jjcJ",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 946460783541702700,
+					"id_str": "946460783541702656",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DSKBEWzXUAAs8j5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DSKBEWzXUAAs8j5.jpg",
+					"url": "https://t.co/7iIr1WOuF0",
+					"display_url": "pic.twitter.com/7iIr1WOuF0",
+					"expanded_url": "https://twitter.com/LinkingIn2Sales/status/946460786704216064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 946460786704216000,
+					"source_status_id_str": "946460786704216064",
+					"source_user_id": 102879387,
+					"source_user_id_str": "102879387"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 946460783541702700,
+					"id_str": "946460783541702656",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DSKBEWzXUAAs8j5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DSKBEWzXUAAs8j5.jpg",
+					"url": "https://t.co/7iIr1WOuF0",
+					"display_url": "pic.twitter.com/7iIr1WOuF0",
+					"expanded_url": "https://twitter.com/LinkingIn2Sales/status/946460786704216064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 946460786704216000,
+					"source_status_id_str": "946460786704216064",
+					"source_user_id": 102879387,
+					"source_user_id_str": "102879387"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37329,
+			"friends_count": 13451,
+			"listed_count": 1026,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9697,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 28 19:20:10 +0000 2017",
+			"id": 946460786704216000,
+			"id_str": "946460786704216064",
+			"text": "What Analytics do you get from Twitter's API? https://t.co/eCqW5OIW7q via @debbiediscovers https://t.co/7iIr1WOuF0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							74,
+							90
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/eCqW5OIW7q",
+						"expanded_url": "http://bit.ly/2l5jjcJ",
+						"display_url": "bit.ly/2l5jjcJ",
+						"indices": [
+							46,
+							69
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 946460783541702700,
+						"id_str": "946460783541702656",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DSKBEWzXUAAs8j5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DSKBEWzXUAAs8j5.jpg",
+						"url": "https://t.co/7iIr1WOuF0",
+						"display_url": "pic.twitter.com/7iIr1WOuF0",
+						"expanded_url": "https://twitter.com/LinkingIn2Sales/status/946460786704216064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 946460783541702700,
+						"id_str": "946460783541702656",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DSKBEWzXUAAs8j5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DSKBEWzXUAAs8j5.jpg",
+						"url": "https://t.co/7iIr1WOuF0",
+						"display_url": "pic.twitter.com/7iIr1WOuF0",
+						"expanded_url": "https://twitter.com/LinkingIn2Sales/status/946460786704216064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 102879387,
+				"id_str": "102879387",
+				"name": "Linking Into Sales",
+				"screen_name": "LinkingIn2Sales",
+				"location": "Raleigh, NC",
+				"description": "Linking into Sales provides #B2BSales Pros https://t.co/8rA04a7sHQ. We produce the #1 #SocialSelling #Podcast with @GregHyer @MartinBrossman & @ElyseArcher.",
+				"url": "http://t.co/G1r99676se",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/G1r99676se",
+								"expanded_url": "http://www.linkingintosales.com",
+								"display_url": "linkingintosales.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/8rA04a7sHQ",
+								"expanded_url": "http://SocialSelling.training",
+								"display_url": "SocialSelling.training",
+								"indices": [
+									43,
+									66
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1465,
+				"friends_count": 1166,
+				"listed_count": 502,
+				"created_at": "Fri Jan 08 04:00:36 +0000 2010",
+				"favourites_count": 268,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5554,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "42697D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/674257168854441984/2cXKYgFM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/674257168854441984/2cXKYgFM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/102879387/1454559577",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Dec 28 19:20:32 +0000 2017",
+		"id": 946460878529904600,
+		"id_str": "946460878529904640",
+		"text": "@ManyChatHQ I’ll delete the tweets",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ManyChatHQ",
+					"name": "ManyChat",
+					"id": 4596260174,
+					"id_str": "4596260174",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 946459120789422100,
+		"in_reply_to_status_id_str": "946459120789422081",
+		"in_reply_to_user_id": 4596260174,
+		"in_reply_to_user_id_str": "4596260174",
+		"in_reply_to_screen_name": "ManyChatHQ",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37329,
+			"friends_count": 13451,
+			"listed_count": 1026,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9697,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 28 19:11:00 +0000 2017",
 		"id": 946458478582706200,
 		"id_str": "946458478582706176",
