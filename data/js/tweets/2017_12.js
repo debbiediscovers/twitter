@@ -1,6 +1,523 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Thu Dec 28 20:30:21 +0000 2017",
+		"id": 946478448989503500,
+		"id_str": "946478448989503488",
+		"text": "@Dialogflow I love BB! 😍❤️👍@KLM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dialogflow",
+					"name": "Dialogflow",
+					"id": 2774598458,
+					"id_str": "2774598458",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "KLM",
+					"name": "Royal Dutch Airlines",
+					"id": 56377143,
+					"id_str": "56377143",
+					"indices": [
+						27,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 941726755198349300,
+		"in_reply_to_status_id_str": "941726755198349312",
+		"in_reply_to_user_id": 2774598458,
+		"in_reply_to_user_id_str": "2774598458",
+		"in_reply_to_screen_name": "Dialogflow",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37331,
+			"friends_count": 13450,
+			"listed_count": 1032,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9700,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Dec 28 20:29:48 +0000 2017",
+		"id": 946478308258017300,
+		"id_str": "946478308258017280",
+		"text": "RT @Dialogflow: Pack your travel bags with BB, KLM's smart and helpful service bot built with Dialogflow. https://t.co/gYvq5Zr0UM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dialogflow",
+					"name": "Dialogflow",
+					"id": 2774598458,
+					"id_str": "2774598458",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gYvq5Zr0UM",
+					"expanded_url": "https://twitter.com/KLM/status/941232456455413761",
+					"display_url": "twitter.com/KLM/status/941…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37331,
+			"friends_count": 13450,
+			"listed_count": 1032,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9700,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 15 17:48:49 +0000 2017",
+			"id": 941726755198349300,
+			"id_str": "941726755198349312",
+			"text": "Pack your travel bags with BB, KLM's smart and helpful service bot built with Dialogflow. https://t.co/gYvq5Zr0UM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gYvq5Zr0UM",
+						"expanded_url": "https://twitter.com/KLM/status/941232456455413761",
+						"display_url": "twitter.com/KLM/status/941…",
+						"indices": [
+							90,
+							113
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2774598458,
+				"id_str": "2774598458",
+				"name": "Dialogflow",
+				"screen_name": "Dialogflow",
+				"location": "",
+				"description": "Give users new ways to interact with your product by building engaging voice and text-based conversational apps.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6919,
+				"friends_count": 1588,
+				"listed_count": 313,
+				"created_at": "Wed Aug 27 20:58:16 +0000 2014",
+				"favourites_count": 691,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 736,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880147119528476672/S7C-2C6t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880147119528476672/S7C-2C6t_normal.jpg",
+				"profile_link_color": "EF6C00",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 941232456455413800,
+			"quoted_status_id_str": "941232456455413761",
+			"quoted_status": {
+				"created_at": "Thu Dec 14 09:04:39 +0000 2017",
+				"id": 941232456455413800,
+				"id_str": "941232456455413761",
+				"text": "No more packing stress! Meet KLM’s pack assistant on Google Home. https://t.co/zYTC317kUP",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 941231823761346600,
+							"id_str": "941231823761346561",
+							"indices": [
+								66,
+								89
+							],
+							"media_url": "http://pbs.twimg.com/media/DQ_t0dLX0AAOJUT.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DQ_t0dLX0AAOJUT.jpg",
+							"url": "https://t.co/zYTC317kUP",
+							"display_url": "pic.twitter.com/zYTC317kUP",
+							"expanded_url": "https://twitter.com/KLM/status/941232456455413761/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 240,
+									"h": 240,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 240,
+									"h": 240,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 240,
+									"h": 240,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 941231823761346600,
+							"id_str": "941231823761346561",
+							"indices": [
+								66,
+								89
+							],
+							"media_url": "http://pbs.twimg.com/media/DQ_t0dLX0AAOJUT.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DQ_t0dLX0AAOJUT.jpg",
+							"url": "https://t.co/zYTC317kUP",
+							"display_url": "pic.twitter.com/zYTC317kUP",
+							"expanded_url": "https://twitter.com/KLM/status/941232456455413761/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 240,
+									"h": 240,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 240,
+									"h": 240,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 240,
+									"h": 240,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									1,
+									1
+								],
+								"duration_millis": 60040,
+								"variants": [
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/941231823761346561/vid/240x240/9-wFrkCw0uTIoYXu.mp4"
+									},
+									{
+										"bitrate": 1280000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/941231823761346561/vid/720x720/nk3EpqsWSVGTP4m3.mp4"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/941231823761346561/vid/480x480/bcEqXkNadf3WTozT.mp4"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/amplify_video/941231823761346561/pl/VzplmyrFwZk6s8vB.m3u8"
+									}
+								]
+							},
+							"additional_media_info": {
+								"title": "",
+								"description": "",
+								"embeddable": true,
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 56377143,
+					"id_str": "56377143",
+					"name": "Royal Dutch Airlines",
+					"screen_name": "KLM",
+					"location": "Amsterdam, the Netherlands",
+					"description": "Official global account of KLM. While we keep you updated, we're at your service in 10 languages. Share personal details only in direct messages!",
+					"url": "http://t.co/2mYq8RKb8Z",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/2mYq8RKb8Z",
+									"expanded_url": "http://www.klm.com",
+									"display_url": "klm.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2366579,
+					"friends_count": 67081,
+					"listed_count": 6696,
+					"created_at": "Mon Jul 13 13:52:38 +0000 2009",
+					"favourites_count": 314,
+					"utc_offset": 3600,
+					"time_zone": "Amsterdam",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 958298,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181388536/HZxC02AZ.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181388536/HZxC02AZ.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/603848039862796289/xivNn5bW_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/603848039862796289/xivNn5bW_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/56377143/1513267634",
+					"profile_link_color": "00A3DE",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "C2DEEA",
+					"profile_text_color": "003145",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 149,
+				"favorite_count": 602,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 11,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 941232456455413800,
+		"quoted_status_id_str": "941232456455413761",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 28 19:36:47 +0000 2017",
 		"id": 946464970098671600,
 		"id_str": "946464970098671616",
