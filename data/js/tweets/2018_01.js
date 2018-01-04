@@ -1,6 +1,802 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Thu Jan 04 11:42:25 +0000 2018",
+		"id": 948882303320641500,
+		"id_str": "948882303320641536",
+		"text": "RT @BournCraft: What Analytics do you get from Twitter's API? https://t.co/Kt5DqyEaLR via @debbiediscovers https://t.co/P1Y9LmDeBj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BournCraft",
+					"name": "Bourn Craft",
+					"id": 918700748560515100,
+					"id_str": "918700748560515072",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						90,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Kt5DqyEaLR",
+					"expanded_url": "https://buff.ly/2Cnb7eB",
+					"display_url": "buff.ly/2Cnb7eB",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 948851756930252800,
+					"id_str": "948851756930252800",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DSr_pUxVQAAQ7km.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DSr_pUxVQAAQ7km.jpg",
+					"url": "https://t.co/P1Y9LmDeBj",
+					"display_url": "pic.twitter.com/P1Y9LmDeBj",
+					"expanded_url": "https://twitter.com/BournCraft/status/948851760147386368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 948851760147386400,
+					"source_status_id_str": "948851760147386368",
+					"source_user_id": 918700748560515100,
+					"source_user_id_str": "918700748560515072"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 948851756930252800,
+					"id_str": "948851756930252800",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DSr_pUxVQAAQ7km.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DSr_pUxVQAAQ7km.jpg",
+					"url": "https://t.co/P1Y9LmDeBj",
+					"display_url": "pic.twitter.com/P1Y9LmDeBj",
+					"expanded_url": "https://twitter.com/BournCraft/status/948851760147386368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 948851760147386400,
+					"source_status_id_str": "948851760147386368",
+					"source_user_id": 918700748560515100,
+					"source_user_id_str": "918700748560515072"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37557,
+			"friends_count": 21472,
+			"listed_count": 1030,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9891,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10146,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 04 09:41:03 +0000 2018",
+			"id": 948851760147386400,
+			"id_str": "948851760147386368",
+			"text": "What Analytics do you get from Twitter's API? https://t.co/Kt5DqyEaLR via @debbiediscovers https://t.co/P1Y9LmDeBj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							74,
+							90
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Kt5DqyEaLR",
+						"expanded_url": "https://buff.ly/2Cnb7eB",
+						"display_url": "buff.ly/2Cnb7eB",
+						"indices": [
+							46,
+							69
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 948851756930252800,
+						"id_str": "948851756930252800",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DSr_pUxVQAAQ7km.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DSr_pUxVQAAQ7km.jpg",
+						"url": "https://t.co/P1Y9LmDeBj",
+						"display_url": "pic.twitter.com/P1Y9LmDeBj",
+						"expanded_url": "https://twitter.com/BournCraft/status/948851760147386368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 948851756930252800,
+						"id_str": "948851756930252800",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DSr_pUxVQAAQ7km.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DSr_pUxVQAAQ7km.jpg",
+						"url": "https://t.co/P1Y9LmDeBj",
+						"display_url": "pic.twitter.com/P1Y9LmDeBj",
+						"expanded_url": "https://twitter.com/BournCraft/status/948851760147386368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 918700748560515100,
+				"id_str": "918700748560515072",
+				"name": "Bourn Craft",
+				"screen_name": "BournCraft",
+				"location": "Nairobi, Kenya",
+				"description": "Digital Marketing Agency",
+				"url": "https://t.co/JMhxETu6xO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JMhxETu6xO",
+								"expanded_url": "https://about.me/bourncraft",
+								"display_url": "about.me/bourncraft",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14,
+				"friends_count": 3,
+				"listed_count": 1,
+				"created_at": "Fri Oct 13 04:51:41 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": 10800,
+				"time_zone": "Nairobi",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 303,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/918844501656977408/VWWY0y9B_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/918844501656977408/VWWY0y9B_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/918700748560515072/1507904601",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 04 11:42:21 +0000 2018",
+		"id": 948882288758042600,
+		"id_str": "948882288758042624",
+		"text": "RT @faresjidalla: How to access Twitter's API - A Guide for Non Developers https://t.co/4Np60mdWvA @debbiediscovers https://t.co/aM3MlCHGeH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "faresjidalla",
+					"name": "Fares Jidalla",
+					"id": 1095593011,
+					"id_str": "1095593011",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						99,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4Np60mdWvA",
+					"expanded_url": "https://buff.ly/2CMO2mh",
+					"display_url": "buff.ly/2CMO2mh",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 948868381855248400,
+					"id_str": "948868381855248385",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DSsOxBcU8AEkmON.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DSsOxBcU8AEkmON.jpg",
+					"url": "https://t.co/aM3MlCHGeH",
+					"display_url": "pic.twitter.com/aM3MlCHGeH",
+					"expanded_url": "https://twitter.com/faresjidalla/status/948868385940627456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 948868385940627500,
+					"source_status_id_str": "948868385940627456",
+					"source_user_id": 1095593011,
+					"source_user_id_str": "1095593011"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 948868381855248400,
+					"id_str": "948868381855248385",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DSsOxBcU8AEkmON.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DSsOxBcU8AEkmON.jpg",
+					"url": "https://t.co/aM3MlCHGeH",
+					"display_url": "pic.twitter.com/aM3MlCHGeH",
+					"expanded_url": "https://twitter.com/faresjidalla/status/948868385940627456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 948868385940627500,
+					"source_status_id_str": "948868385940627456",
+					"source_user_id": 1095593011,
+					"source_user_id_str": "1095593011"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37557,
+			"friends_count": 21472,
+			"listed_count": 1030,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9891,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10146,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 04 10:47:06 +0000 2018",
+			"id": 948868385940627500,
+			"id_str": "948868385940627456",
+			"text": "How to access Twitter's API - A Guide for Non Developers https://t.co/4Np60mdWvA @debbiediscovers https://t.co/aM3MlCHGeH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							81,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4Np60mdWvA",
+						"expanded_url": "https://buff.ly/2CMO2mh",
+						"display_url": "buff.ly/2CMO2mh",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 948868381855248400,
+						"id_str": "948868381855248385",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DSsOxBcU8AEkmON.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DSsOxBcU8AEkmON.jpg",
+						"url": "https://t.co/aM3MlCHGeH",
+						"display_url": "pic.twitter.com/aM3MlCHGeH",
+						"expanded_url": "https://twitter.com/faresjidalla/status/948868385940627456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 948868381855248400,
+						"id_str": "948868381855248385",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DSsOxBcU8AEkmON.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DSsOxBcU8AEkmON.jpg",
+						"url": "https://t.co/aM3MlCHGeH",
+						"display_url": "pic.twitter.com/aM3MlCHGeH",
+						"expanded_url": "https://twitter.com/faresjidalla/status/948868385940627456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1095593011,
+				"id_str": "1095593011",
+				"name": "Fares Jidalla",
+				"screen_name": "faresjidalla",
+				"location": "Italy",
+				"description": "Consulente Web Marketing at Best74, Marketing & Communication Degree",
+				"url": "http://t.co/DhLoOkJhGt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/DhLoOkJhGt",
+								"expanded_url": "http://www.faresjidalla.it",
+								"display_url": "faresjidalla.it",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 165,
+				"friends_count": 98,
+				"listed_count": 89,
+				"created_at": "Wed Jan 16 15:51:40 +0000 2013",
+				"favourites_count": 210,
+				"utc_offset": 3600,
+				"time_zone": "Rome",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1293,
+				"lang": "it",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "AAF0E7",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000174021457/EL38jpUV.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000174021457/EL38jpUV.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000446351843/466bfc2f8b8bdd104d537377d693be30_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000446351843/466bfc2f8b8bdd104d537377d693be30_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1095593011/1378981291",
+				"profile_link_color": "33CCA6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "1DEEF2",
+				"profile_text_color": "0DD8CB",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jan 04 10:37:15 +0000 2018",
 		"id": 948865906502860800,
 		"id_str": "948865906502860800",
