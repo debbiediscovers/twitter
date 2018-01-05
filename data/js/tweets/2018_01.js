@@ -1,6 +1,587 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Fri Jan 05 11:04:00 +0000 2018",
+		"id": 949235023307268100,
+		"id_str": "949235023307268097",
+		"text": "Everyone repeat after me: #TGIF Thank God I’m #Fabulous! 💕💖\n⠀⠀\n#friyay #fridayfun #wordsofwisdom #qotd #thehappynow… https://t.co/rUVEGk8e09",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TGIF",
+					"indices": [
+						26,
+						31
+					]
+				},
+				{
+					"text": "Fabulous",
+					"indices": [
+						46,
+						55
+					]
+				},
+				{
+					"text": "friyay",
+					"indices": [
+						63,
+						70
+					]
+				},
+				{
+					"text": "fridayfun",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"text": "wordsofwisdom",
+					"indices": [
+						82,
+						96
+					]
+				},
+				{
+					"text": "qotd",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "thehappynow",
+					"indices": [
+						103,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rUVEGk8e09",
+					"expanded_url": "https://twitter.com/i/web/status/949235023307268097",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37625,
+			"friends_count": 21475,
+			"listed_count": 1044,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9921,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10164,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 05 10:22:16 +0000 2018",
+		"id": 949224520463757300,
+		"id_str": "949224520463757312",
+		"text": "RT @AndrewKanatsky: Can't wait to grab someone's child on the plane and be like \"shhhhh don't worry I saw this on twitter\" https://t.co/LUU…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AndrewKanatsky",
+					"name": "Andrew Kanatsky",
+					"id": 3069142862,
+					"id_str": "3069142862",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37625,
+			"friends_count": 21475,
+			"listed_count": 1044,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9921,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10164,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 25 05:35:56 +0000 2017",
+			"id": 945166199092011000,
+			"id_str": "945166199092011009",
+			"text": "Can't wait to grab someone's child on the plane and be like \"shhhhh don't worry I saw this on twitter\" https://t.co/LUUAxT0Lo6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LUUAxT0Lo6",
+						"expanded_url": "https://twitter.com/lifehacks/status/944055348654088192",
+						"display_url": "twitter.com/lifehacks/stat…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3069142862,
+				"id_str": "3069142862",
+				"name": "Andrew Kanatsky",
+				"screen_name": "AndrewKanatsky",
+				"location": "California, USA",
+				"description": "message me for cheap promotions",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51423,
+				"friends_count": 1534,
+				"listed_count": 1659,
+				"created_at": "Mon Mar 09 05:10:53 +0000 2015",
+				"favourites_count": 13638,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1491,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/944739778590777344/h6y1Q2xb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/944739778590777344/h6y1Q2xb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3069142862/1511400415",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 944055348654088200,
+			"quoted_status_id_str": "944055348654088192",
+			"quoted_status": {
+				"created_at": "Fri Dec 22 04:01:49 +0000 2017",
+				"id": 944055348654088200,
+				"id_str": "944055348654088192",
+				"text": "How to calm a crying baby (Credit: Robert Hamilton) https://t.co/vi2WdwGfp9",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 763583734184566800,
+							"id_str": "763583734184566784",
+							"indices": [
+								52,
+								75
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/763583734184566784/pu/img/ywex1Gz3XybreXQo.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/763583734184566784/pu/img/ywex1Gz3XybreXQo.jpg",
+							"url": "https://t.co/vi2WdwGfp9",
+							"display_url": "pic.twitter.com/vi2WdwGfp9",
+							"expanded_url": "https://twitter.com/vorfreudc/status/763584240315424768/video/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 640,
+									"h": 480,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 640,
+									"h": 480,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 640,
+									"h": 480,
+									"resize": "fit"
+								}
+							},
+							"source_status_id": 763584240315424800,
+							"source_status_id_str": "763584240315424768",
+							"source_user_id": 1387076972,
+							"source_user_id_str": "1387076972"
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 763583734184566800,
+							"id_str": "763583734184566784",
+							"indices": [
+								52,
+								75
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/763583734184566784/pu/img/ywex1Gz3XybreXQo.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/763583734184566784/pu/img/ywex1Gz3XybreXQo.jpg",
+							"url": "https://t.co/vi2WdwGfp9",
+							"display_url": "pic.twitter.com/vi2WdwGfp9",
+							"expanded_url": "https://twitter.com/vorfreudc/status/763584240315424768/video/1",
+							"type": "video",
+							"sizes": {
+								"medium": {
+									"w": 640,
+									"h": 480,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 640,
+									"h": 480,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 640,
+									"h": 480,
+									"resize": "fit"
+								}
+							},
+							"source_status_id": 763584240315424800,
+							"source_status_id_str": "763584240315424768",
+							"source_user_id": 1387076972,
+							"source_user_id_str": "1387076972",
+							"video_info": {
+								"aspect_ratio": [
+									4,
+									3
+								],
+								"duration_millis": 38539,
+								"variants": [
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/763583734184566784/pu/pl/zyifYsx7KnNCiCHy.m3u8"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/763583734184566784/pu/vid/480x360/A9sQwpZF1Jk1CEKx.mp4"
+									},
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/763583734184566784/pu/vid/240x180/oYlwM2NAF09ER9X0.mp4"
+									}
+								]
+							},
+							"additional_media_info": {
+								"monetizable": false,
+								"source_user": {
+									"id": 1387076972,
+									"id_str": "1387076972",
+									"name": "CryPto TrOLl",
+									"screen_name": "vorfreudc",
+									"location": "Oxford, England",
+									"description": "Oxford University Alumni. GSW 2017-2018 Champs. Yes, I own a Lambo on the moon",
+									"url": null,
+									"entities": {
+										"description": {
+											"urls": []
+										}
+									},
+									"protected": false,
+									"followers_count": 41326,
+									"friends_count": 1027,
+									"listed_count": 22,
+									"created_at": "Sun Apr 28 14:20:06 +0000 2013",
+									"favourites_count": 32883,
+									"utc_offset": -25200,
+									"time_zone": "Arizona",
+									"geo_enabled": true,
+									"verified": false,
+									"statuses_count": 38044,
+									"lang": "en",
+									"contributors_enabled": false,
+									"is_translator": false,
+									"is_translation_enabled": false,
+									"profile_background_color": "C0DEED",
+									"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+									"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+									"profile_background_tile": false,
+									"profile_image_url": "http://pbs.twimg.com/profile_images/947722235665461250/hWEVSqEv_normal.jpg",
+									"profile_image_url_https": "https://pbs.twimg.com/profile_images/947722235665461250/hWEVSqEv_normal.jpg",
+									"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387076972/1514584886",
+									"profile_link_color": "1DA1F2",
+									"profile_sidebar_border_color": "C0DEED",
+									"profile_sidebar_fill_color": "DDEEF6",
+									"profile_text_color": "333333",
+									"profile_use_background_image": true,
+									"has_extended_profile": true,
+									"default_profile": true,
+									"default_profile_image": false,
+									"following": false,
+									"follow_request_sent": false,
+									"notifications": false,
+									"translator_type": "none"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1530122682,
+					"id_str": "1530122682",
+					"name": "Life Hacks",
+					"screen_name": "lifehacks",
+					"location": "",
+					"description": "We do not claim the rights to any content posted.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 667586,
+					"friends_count": 111,
+					"listed_count": 1707,
+					"created_at": "Wed Jun 19 08:08:28 +0000 2013",
+					"favourites_count": 6,
+					"utc_offset": -25200,
+					"time_zone": "Arizona",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 4989,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "CBD5D6",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/898278487504695297/P0pV8Wwx_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/898278487504695297/P0pV8Wwx_normal.jpg",
+					"profile_link_color": "009999",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 66698,
+				"favorite_count": 186170,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 106053,
+			"favorite_count": 294071,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 944055348654088200,
+		"quoted_status_id_str": "944055348654088192",
+		"retweet_count": 106053,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jan 05 09:58:19 +0000 2018",
 		"id": 949218493974569000,
 		"id_str": "949218493974568961",
