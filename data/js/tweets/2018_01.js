@@ -1,6 +1,624 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sat Jan 06 07:42:39 +0000 2018",
+		"id": 949546741698781200,
+		"id_str": "949546741698781184",
+		"text": "RT @NajibTaeef: How to access Twitter's API - A Guide for Non Developers https://t.co/EoXXsPXmMb @debbiediscovers https://t.co/45gTYQnFP0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NajibTaeef",
+					"name": "Taeef Najib",
+					"id": 3318192080,
+					"id_str": "3318192080",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						97,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EoXXsPXmMb",
+					"expanded_url": "https://buff.ly/2m0qMtX",
+					"display_url": "buff.ly/2m0qMtX",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 949540301403775000,
+					"id_str": "949540301403774976",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/DS1x340W4AAmwwJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DS1x340W4AAmwwJ.jpg",
+					"url": "https://t.co/45gTYQnFP0",
+					"display_url": "pic.twitter.com/45gTYQnFP0",
+					"expanded_url": "https://twitter.com/NajibTaeef/status/949540304360759296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 949540304360759300,
+					"source_status_id_str": "949540304360759296",
+					"source_user_id": 3318192080,
+					"source_user_id_str": "3318192080"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 949540301403775000,
+					"id_str": "949540301403774976",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/DS1x340W4AAmwwJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DS1x340W4AAmwwJ.jpg",
+					"url": "https://t.co/45gTYQnFP0",
+					"display_url": "pic.twitter.com/45gTYQnFP0",
+					"expanded_url": "https://twitter.com/NajibTaeef/status/949540304360759296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 949540304360759300,
+					"source_status_id_str": "949540304360759296",
+					"source_user_id": 3318192080,
+					"source_user_id_str": "3318192080"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37732,
+			"friends_count": 22108,
+			"listed_count": 1036,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9949,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10187,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 06 07:17:04 +0000 2018",
+			"id": 949540304360759300,
+			"id_str": "949540304360759296",
+			"text": "How to access Twitter's API - A Guide for Non Developers https://t.co/EoXXsPXmMb @debbiediscovers https://t.co/45gTYQnFP0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							81,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/EoXXsPXmMb",
+						"expanded_url": "https://buff.ly/2m0qMtX",
+						"display_url": "buff.ly/2m0qMtX",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 949540301403775000,
+						"id_str": "949540301403774976",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DS1x340W4AAmwwJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DS1x340W4AAmwwJ.jpg",
+						"url": "https://t.co/45gTYQnFP0",
+						"display_url": "pic.twitter.com/45gTYQnFP0",
+						"expanded_url": "https://twitter.com/NajibTaeef/status/949540304360759296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 949540301403775000,
+						"id_str": "949540301403774976",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DS1x340W4AAmwwJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DS1x340W4AAmwwJ.jpg",
+						"url": "https://t.co/45gTYQnFP0",
+						"display_url": "pic.twitter.com/45gTYQnFP0",
+						"expanded_url": "https://twitter.com/NajibTaeef/status/949540304360759296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3318192080,
+				"id_str": "3318192080",
+				"name": "Taeef Najib",
+				"screen_name": "NajibTaeef",
+				"location": "",
+				"description": "An #entrepreneur, a #digitalmarketing strategist, a #graphicdesign expert, a #marketing and #business enthusiast.",
+				"url": "https://t.co/GPj9VqFRRv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GPj9VqFRRv",
+								"expanded_url": "http://www.taeefnajib.com",
+								"display_url": "taeefnajib.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 687,
+				"friends_count": 613,
+				"listed_count": 325,
+				"created_at": "Tue Aug 18 00:40:19 +0000 2015",
+				"favourites_count": 115,
+				"utc_offset": 21600,
+				"time_zone": "Dhaka",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1490,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/673156297974349824/A8XaKAp7_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/673156297974349824/A8XaKAp7_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3318192080/1449254735",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 06 07:42:36 +0000 2018",
+		"id": 949546727974957000,
+		"id_str": "949546727974957056",
+		"text": "RT @Sociability: 8 indispensable (and free) Google tools https://t.co/JinlMkVFFr (via @debbiediscovers)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sociability",
+					"name": "★ Society, Technology & Media",
+					"id": 53106736,
+					"id_str": "53106736",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						86,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JinlMkVFFr",
+					"expanded_url": "https://knowledgeenthusiast.com/2017/08/21/15-best-free-google-tools-digital-marketers-should-be-using/",
+					"display_url": "knowledgeenthusiast.com/2017/08/21/15-…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37732,
+			"friends_count": 22108,
+			"listed_count": 1036,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9949,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10187,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 06 06:34:27 +0000 2018",
+			"id": 949529577356972000,
+			"id_str": "949529577356972033",
+			"text": "8 indispensable (and free) Google tools https://t.co/JinlMkVFFr (via @debbiediscovers)",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							69,
+							85
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/JinlMkVFFr",
+						"expanded_url": "https://knowledgeenthusiast.com/2017/08/21/15-best-free-google-tools-digital-marketers-should-be-using/",
+						"display_url": "knowledgeenthusiast.com/2017/08/21/15-…",
+						"indices": [
+							40,
+							63
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 53106736,
+				"id_str": "53106736",
+				"name": "★ Society, Technology & Media",
+				"screen_name": "Sociability",
+				"location": "The cloud ☁",
+				"description": "News about social consequences of technology, media deconstruction, Internet, telecom, and world headlines; partly manual, partly automatic.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1549,
+				"friends_count": 567,
+				"listed_count": 281,
+				"created_at": "Thu Jul 02 16:15:20 +0000 2009",
+				"favourites_count": 42,
+				"utc_offset": -10800,
+				"time_zone": "Santiago",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 74792,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CCCCCC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/99953332/twitterbackground4.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/99953332/twitterbackground4.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/939918197209300992/vq6QugkS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/939918197209300992/vq6QugkS_normal.jpg",
+				"profile_link_color": "333333",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CCCCCC",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jan 06 05:52:33 +0000 2018",
 		"id": 949519035036704800,
 		"id_str": "949519035036704773",
