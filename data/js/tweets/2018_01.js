@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sun Jan 07 18:43:50 +0000 2018",
+		"id": 950075519395029000,
+		"id_str": "950075519395028992",
+		"text": "RT @digitalfuturist: 3 Companies Nailing Digital Transformation (That You Haven't Heard About) https://t.co/XIzmTcgVRP #digitalfuture #digi…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digitalfuture",
+					"indices": [
+						119,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "digitalfuturist",
+					"name": "Digital Futurist",
+					"id": 746360730920718300,
+					"id_str": "746360730920718336",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XIzmTcgVRP",
+					"expanded_url": "https://buff.ly/2AgrlYV",
+					"display_url": "buff.ly/2AgrlYV",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots 4PnWgQ",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37756,
+			"friends_count": 15119,
+			"listed_count": 1041,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9981,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 07 18:17:01 +0000 2018",
+			"id": 950068771330363400,
+			"id_str": "950068771330363399",
+			"text": "3 Companies Nailing Digital Transformation (That You Haven't Heard About) https://t.co/XIzmTcgVRP #digitalfuture… https://t.co/Kz8dEo8dtF",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "digitalfuture",
+						"indices": [
+							98,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XIzmTcgVRP",
+						"expanded_url": "https://buff.ly/2AgrlYV",
+						"display_url": "buff.ly/2AgrlYV",
+						"indices": [
+							74,
+							97
+						]
+					},
+					{
+						"url": "https://t.co/Kz8dEo8dtF",
+						"expanded_url": "https://twitter.com/i/web/status/950068771330363399",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 746360730920718300,
+				"id_str": "746360730920718336",
+				"name": "Digital Futurist",
+				"screen_name": "digitalfuturist",
+				"location": "In the Digital Future",
+				"description": "#AI news bot by @debbiediscovers. #DigitalDisruption, #DigitalTransformation and Strategy. In the digital future, we are all dead. The future of digital is now.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1770,
+				"friends_count": 3827,
+				"listed_count": 34,
+				"created_at": "Fri Jun 24 15:14:00 +0000 2016",
+				"favourites_count": 275,
+				"utc_offset": -39600,
+				"time_zone": "International Date Line West",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 555,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/751328844389376000/nRhNMn0W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/751328844389376000/nRhNMn0W_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/746360730920718336/1467951506",
+				"profile_link_color": "36E2BE",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 07 17:20:05 +0000 2018",
 		"id": 950054446234468400,
 		"id_str": "950054446234468353",
