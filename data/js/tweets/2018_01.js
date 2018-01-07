@@ -1,6 +1,650 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sun Jan 07 16:00:18 +0000 2018",
+		"id": 950034365320519700,
+		"id_str": "950034365320519681",
+		"text": "How to Build a Chatbot from Pitch to Promotion https://t.co/XIJ5PIjsrz #bots #AI #chatbots",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bots",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "chatbots",
+					"indices": [
+						81,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XIJ5PIjsrz",
+					"expanded_url": "https://buff.ly/2iCboWg",
+					"display_url": "buff.ly/2iCboWg",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots 4PnWgQ",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37770,
+			"friends_count": 15116,
+			"listed_count": 1037,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9980,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10216,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 07 15:30:05 +0000 2018",
+		"id": 950026764000129000,
+		"id_str": "950026764000129024",
+		"text": "RT @tferriss: Why you should define your fears instead of your goals. Here's a preview of my new @TED talk... https://t.co/nLfNMrt585",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tferriss",
+					"name": "Tim Ferriss",
+					"id": 11740902,
+					"id_str": "11740902",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "Ted",
+					"name": "Ted Severson",
+					"id": 2941831,
+					"id_str": "2941831",
+					"indices": [
+						97,
+						101
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 949782646166573000,
+					"id_str": "949782646166573056",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/949782646166573056/pu/img/R9gDH3SA6ww3gSBk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/949782646166573056/pu/img/R9gDH3SA6ww3gSBk.jpg",
+					"url": "https://t.co/nLfNMrt585",
+					"display_url": "pic.twitter.com/nLfNMrt585",
+					"expanded_url": "https://twitter.com/tferriss/status/949782776731103237/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 949782776731103200,
+					"source_status_id_str": "949782776731103237",
+					"source_user_id": 11740902,
+					"source_user_id_str": "11740902"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 949782646166573000,
+					"id_str": "949782646166573056",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/949782646166573056/pu/img/R9gDH3SA6ww3gSBk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/949782646166573056/pu/img/R9gDH3SA6ww3gSBk.jpg",
+					"url": "https://t.co/nLfNMrt585",
+					"display_url": "pic.twitter.com/nLfNMrt585",
+					"expanded_url": "https://twitter.com/tferriss/status/949782776731103237/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 949782776731103200,
+					"source_status_id_str": "949782776731103237",
+					"source_user_id": 11740902,
+					"source_user_id_str": "11740902",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 34869,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/949782646166573056/pu/vid/720x720/vD3cxtJ8mwE4rL1k.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/949782646166573056/pu/vid/240x240/KFiHhpKa-GCG5rr4.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/949782646166573056/pu/pl/sg2plkWhdfRYBwYG.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/949782646166573056/pu/vid/480x480/sOUSICCvfTgTaSKa.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 11740902,
+							"id_str": "11740902",
+							"name": "Tim Ferriss",
+							"screen_name": "tferriss",
+							"location": "Global",
+							"description": "Author of 4 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more: https://t.co/tBnbIBQD1Z), host of The Tim Ferriss Show podcast (200M+ downloads)",
+							"url": "https://t.co/wIKRirphc0",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/wIKRirphc0",
+											"expanded_url": "http://tribeofmentors.com",
+											"display_url": "tribeofmentors.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/tBnbIBQD1Z",
+											"expanded_url": "http://angel.co/tim",
+											"display_url": "angel.co/tim",
+											"indices": [
+												75,
+												98
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 1515468,
+							"friends_count": 1436,
+							"listed_count": 22105,
+							"created_at": "Wed Jan 02 04:36:53 +0000 2008",
+							"favourites_count": 10822,
+							"utc_offset": -28800,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 22231,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "9AE4E8",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2770739/greek_dessert.jpg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2770739/greek_dessert.jpg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/49918572/half-face-ice_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/49918572/half-face-ice_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/11740902/1509137887",
+							"profile_link_color": "0000FF",
+							"profile_sidebar_border_color": "87BC44",
+							"profile_sidebar_fill_color": "E0FF92",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots 4PnWgQ",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37770,
+			"friends_count": 15116,
+			"listed_count": 1037,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9980,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10216,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 06 23:20:34 +0000 2018",
+			"id": 949782776731103200,
+			"id_str": "949782776731103237",
+			"text": "Why you should define your fears instead of your goals. Here's a preview of my new @TED talk... https://t.co/nLfNMrt585",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Ted",
+						"name": "Ted Severson",
+						"id": 2941831,
+						"id_str": "2941831",
+						"indices": [
+							83,
+							87
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 949782646166573000,
+						"id_str": "949782646166573056",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/949782646166573056/pu/img/R9gDH3SA6ww3gSBk.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/949782646166573056/pu/img/R9gDH3SA6ww3gSBk.jpg",
+						"url": "https://t.co/nLfNMrt585",
+						"display_url": "pic.twitter.com/nLfNMrt585",
+						"expanded_url": "https://twitter.com/tferriss/status/949782776731103237/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 949782646166573000,
+						"id_str": "949782646166573056",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/949782646166573056/pu/img/R9gDH3SA6ww3gSBk.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/949782646166573056/pu/img/R9gDH3SA6ww3gSBk.jpg",
+						"url": "https://t.co/nLfNMrt585",
+						"display_url": "pic.twitter.com/nLfNMrt585",
+						"expanded_url": "https://twitter.com/tferriss/status/949782776731103237/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 34869,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/949782646166573056/pu/vid/720x720/vD3cxtJ8mwE4rL1k.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/949782646166573056/pu/vid/240x240/KFiHhpKa-GCG5rr4.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/949782646166573056/pu/pl/sg2plkWhdfRYBwYG.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/949782646166573056/pu/vid/480x480/sOUSICCvfTgTaSKa.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://meetedgar.com\" rel=\"nofollow\">Meet Edgar</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11740902,
+				"id_str": "11740902",
+				"name": "Tim Ferriss",
+				"screen_name": "tferriss",
+				"location": "Global",
+				"description": "Author of 4 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more: https://t.co/tBnbIBQD1Z), host of The Tim Ferriss Show podcast (200M+ downloads)",
+				"url": "https://t.co/wIKRirphc0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wIKRirphc0",
+								"expanded_url": "http://tribeofmentors.com",
+								"display_url": "tribeofmentors.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/tBnbIBQD1Z",
+								"expanded_url": "http://angel.co/tim",
+								"display_url": "angel.co/tim",
+								"indices": [
+									75,
+									98
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1515468,
+				"friends_count": 1436,
+				"listed_count": 22105,
+				"created_at": "Wed Jan 02 04:36:53 +0000 2008",
+				"favourites_count": 10822,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22231,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2770739/greek_dessert.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2770739/greek_dessert.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/49918572/half-face-ice_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/49918572/half-face-ice_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11740902/1509137887",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 229,
+			"favorite_count": 863,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 229,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 07 13:30:06 +0000 2018",
 		"id": 949996569327226900,
 		"id_str": "949996569327226882",
