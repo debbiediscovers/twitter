@@ -1,6 +1,892 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sun Jan 07 05:11:34 +0000 2018",
+		"id": 949871109821927400,
+		"id_str": "949871109821927424",
+		"text": "RT @debbiediscovers: Building A Simple AI Chatbot With Web Speech API And Node.js https://t.co/uQTb16FQRz #bots #AI #chatbots",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bots",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "chatbots",
+					"indices": [
+						116,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uQTb16FQRz",
+					"expanded_url": "https://buff.ly/2ADayzm",
+					"display_url": "buff.ly/2ADayzm",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://debbiediscovers.com\" rel=\"nofollow\">TWITTER LIST ADDER</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots 4PnWgQ",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37808,
+			"friends_count": 15116,
+			"listed_count": 1044,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9978,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10210,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 06 17:20:03 +0000 2018",
+			"id": 949692049615478800,
+			"id_str": "949692049615478785",
+			"text": "Building A Simple AI Chatbot With Web Speech API And Node.js https://t.co/uQTb16FQRz #bots #AI #chatbots",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "bots",
+						"indices": [
+							85,
+							90
+						]
+					},
+					{
+						"text": "AI",
+						"indices": [
+							91,
+							94
+						]
+					},
+					{
+						"text": "chatbots",
+						"indices": [
+							95,
+							104
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uQTb16FQRz",
+						"expanded_url": "https://buff.ly/2ADayzm",
+						"display_url": "buff.ly/2ADayzm",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots 4PnWgQ",
+				"url": "https://t.co/IprDI3V3T9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IprDI3V3T9",
+								"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+								"display_url": "digitaldiscovery.sg/about-deborah-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37808,
+				"friends_count": 15116,
+				"listed_count": 1044,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 9978,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10210,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 07 04:30:49 +0000 2018",
+		"id": 949860851552608300,
+		"id_str": "949860851552608256",
+		"text": "The real risk of automation: boredom https://t.co/vmJCNvI3bO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vmJCNvI3bO",
+					"expanded_url": "https://buff.ly/2F87Ama",
+					"display_url": "buff.ly/2F87Ama",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots 4PnWgQ",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37808,
+			"friends_count": 15116,
+			"listed_count": 1044,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9978,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10210,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 07 04:28:13 +0000 2018",
+		"id": 949860199078101000,
+		"id_str": "949860199078100992",
+		"text": "Lying is not only normal; it’s also a sign of intelligence. https://t.co/t5h944uEFp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t5h944uEFp",
+					"expanded_url": "https://nyti.ms/2EbKppt",
+					"display_url": "nyti.ms/2EbKppt",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots 4PnWgQ",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37808,
+			"friends_count": 15116,
+			"listed_count": 1044,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9978,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10210,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 07 04:17:45 +0000 2018",
+		"id": 949857563582935000,
+		"id_str": "949857563582935041",
+		"text": "RT @SingaporeSail: Former NFL punter shares his excitement that augmented reality will soon be everywhere. He focuses on the role it will p…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SingaporeSail",
+					"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+					"id": 906430548641439700,
+					"id_str": "906430548641439744",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots 4PnWgQ",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37808,
+			"friends_count": 15116,
+			"listed_count": 1044,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9978,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10210,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 07 04:16:14 +0000 2018",
+			"id": 949857180877865000,
+			"id_str": "949857180877864961",
+			"text": "Former NFL punter shares his excitement that augmented reality will soon be everywhere. He focuses on the role it w… https://t.co/3tzgu8Arfv",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3tzgu8Arfv",
+						"expanded_url": "https://twitter.com/i/web/status/949857180877864961",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 906430548641439700,
+				"id_str": "906430548641439744",
+				"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+				"screen_name": "SingaporeSail",
+				"location": "Singapore",
+				"description": "Official Twitter account of Singapore Sailing Federation & National Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+				"url": "https://t.co/8w7xJU5n9n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8w7xJU5n9n",
+								"expanded_url": "http://www.sailing.org.sg",
+								"display_url": "sailing.org.sg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3279,
+				"friends_count": 4276,
+				"listed_count": 22,
+				"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+				"favourites_count": 3686,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 599,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+				"profile_link_color": "D10000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 07 04:17:32 +0000 2018",
+		"id": 949857510529286100,
+		"id_str": "949857510529286144",
+		"text": "RT @SingaporeSail: To the world, we’re just a team. To each other, we’re family. Happy Sunday y’all ❤️😍 #SailforSG #MakingWavesTogether htt…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SailforSG",
+					"indices": [
+						104,
+						114
+					]
+				},
+				{
+					"text": "MakingWavesTogether",
+					"indices": [
+						115,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SingaporeSail",
+					"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+					"id": 906430548641439700,
+					"id_str": "906430548641439744",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots 4PnWgQ",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37808,
+			"friends_count": 15116,
+			"listed_count": 1044,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 9978,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10210,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 07 03:49:57 +0000 2018",
+			"id": 949850567412736000,
+			"id_str": "949850567412736002",
+			"text": "To the world, we’re just a team. To each other, we’re family. Happy Sunday y’all ❤️😍 #SailforSG… https://t.co/XRWrBl1XMf",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SailforSG",
+						"indices": [
+							85,
+							95
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XRWrBl1XMf",
+						"expanded_url": "https://twitter.com/i/web/status/949850567412736002",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 906430548641439700,
+				"id_str": "906430548641439744",
+				"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+				"screen_name": "SingaporeSail",
+				"location": "Singapore",
+				"description": "Official Twitter account of Singapore Sailing Federation & National Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+				"url": "https://t.co/8w7xJU5n9n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8w7xJU5n9n",
+								"expanded_url": "http://www.sailing.org.sg",
+								"display_url": "sailing.org.sg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3279,
+				"friends_count": 4276,
+				"listed_count": 22,
+				"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+				"favourites_count": 3686,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 599,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+				"profile_link_color": "D10000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 07 02:41:59 +0000 2018",
 		"id": 949833462751506400,
 		"id_str": "949833462751506432",
