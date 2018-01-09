@@ -1,6 +1,1137 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 09 20:11:35 +0000 2018",
+		"id": 950822380674453500,
+		"id_str": "950822380674453504",
+		"text": "RT @debbiediscovers: A machine learning algorithm walked into a bar. \n\nThe bartender asked, “What would you like to drink?” \n\nThe algorithm…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37676,
+			"friends_count": 16345,
+			"listed_count": 1043,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10004,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10253,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 17 23:33:48 +0000 2017",
+			"id": 942538346651201500,
+			"id_str": "942538346651201536",
+			"text": "A machine learning algorithm walked into a bar. \n\nThe bartender asked, “What would you like to drink?” \n\nThe algori… https://t.co/htqBDdxdQ9",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/htqBDdxdQ9",
+						"expanded_url": "https://twitter.com/i/web/status/942538346651201536",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+				"url": "https://t.co/IprDI3V3T9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IprDI3V3T9",
+								"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+								"display_url": "digitaldiscovery.sg/about-deborah-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37676,
+				"friends_count": 16345,
+				"listed_count": 1043,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 10004,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10253,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4573,
+			"favorite_count": 9755,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4573,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 09 20:10:23 +0000 2018",
+		"id": 950822078176927700,
+		"id_str": "950822078176927744",
+		"text": "RT @crimsonhexagon: Why marketers should use #AI with #ImageAnalytics in 2018: https://t.co/TZRzKWSW9V https://t.co/y4cGWX0Xnj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "ImageAnalytics",
+					"indices": [
+						54,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "crimsonhexagon",
+					"name": "Crimson Hexagon",
+					"id": 15782297,
+					"id_str": "15782297",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TZRzKWSW9V",
+					"expanded_url": "http://bit.ly/2CKRai1",
+					"display_url": "bit.ly/2CKRai1",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 950733226665914400,
+					"id_str": "950733226665914368",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DTGu1RuVMAAB6JX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTGu1RuVMAAB6JX.jpg",
+					"url": "https://t.co/y4cGWX0Xnj",
+					"display_url": "pic.twitter.com/y4cGWX0Xnj",
+					"expanded_url": "https://twitter.com/crimsonhexagon/status/950733228775825408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 950733228775825400,
+					"source_status_id_str": "950733228775825408",
+					"source_user_id": 15782297,
+					"source_user_id_str": "15782297"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 950733226665914400,
+					"id_str": "950733226665914368",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DTGu1RuVMAAB6JX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTGu1RuVMAAB6JX.jpg",
+					"url": "https://t.co/y4cGWX0Xnj",
+					"display_url": "pic.twitter.com/y4cGWX0Xnj",
+					"expanded_url": "https://twitter.com/crimsonhexagon/status/950733228775825408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 950733228775825400,
+					"source_status_id_str": "950733228775825408",
+					"source_user_id": 15782297,
+					"source_user_id_str": "15782297"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37676,
+			"friends_count": 16345,
+			"listed_count": 1043,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10004,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10253,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 09 14:17:20 +0000 2018",
+			"id": 950733228775825400,
+			"id_str": "950733228775825408",
+			"text": "Why marketers should use #AI with #ImageAnalytics in 2018: https://t.co/TZRzKWSW9V https://t.co/y4cGWX0Xnj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AI",
+						"indices": [
+							25,
+							28
+						]
+					},
+					{
+						"text": "ImageAnalytics",
+						"indices": [
+							34,
+							49
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TZRzKWSW9V",
+						"expanded_url": "http://bit.ly/2CKRai1",
+						"display_url": "bit.ly/2CKRai1",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 950733226665914400,
+						"id_str": "950733226665914368",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/DTGu1RuVMAAB6JX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTGu1RuVMAAB6JX.jpg",
+						"url": "https://t.co/y4cGWX0Xnj",
+						"display_url": "pic.twitter.com/y4cGWX0Xnj",
+						"expanded_url": "https://twitter.com/crimsonhexagon/status/950733228775825408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 950733226665914400,
+						"id_str": "950733226665914368",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/DTGu1RuVMAAB6JX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTGu1RuVMAAB6JX.jpg",
+						"url": "https://t.co/y4cGWX0Xnj",
+						"display_url": "pic.twitter.com/y4cGWX0Xnj",
+						"expanded_url": "https://twitter.com/crimsonhexagon/status/950733228775825408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15782297,
+				"id_str": "15782297",
+				"name": "Crimson Hexagon",
+				"screen_name": "crimsonhexagon",
+				"location": "Boston, MA",
+				"description": "An innovator in social media analytics, Crimson Hexagon works to provide the most valuable insights for brands and agencies on a global scale.",
+				"url": "http://t.co/w2Ej0NKNna",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/w2Ej0NKNna",
+								"expanded_url": "http://www.crimsonhexagon.com",
+								"display_url": "crimsonhexagon.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12004,
+				"friends_count": 4673,
+				"listed_count": 990,
+				"created_at": "Fri Aug 08 20:04:11 +0000 2008",
+				"favourites_count": 3727,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12600,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E6E6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438665325/Screen_Shot_2012-02-29_at_3.30.34_PM.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438665325/Screen_Shot_2012-02-29_at_3.30.34_PM.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/588526117348249600/KWRXV9t3_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/588526117348249600/KWRXV9t3_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15782297/1501680291",
+				"profile_link_color": "009494",
+				"profile_sidebar_border_color": "CCCCCC",
+				"profile_sidebar_fill_color": "CCCCCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 09 20:09:10 +0000 2018",
+		"id": 950821772965933000,
+		"id_str": "950821772965933056",
+		"text": "RT @JohnNosta: Interesting! Kodak announces ICO, stock jumps 44% https://t.co/0uqRS3U0DT via @techcrunch #CES2018 #technology #cryptocurren…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CES2018",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "technology",
+					"indices": [
+						114,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JohnNosta",
+					"name": "JOHN NOSTA",
+					"id": 19711691,
+					"id_str": "19711691",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "TechCrunch",
+					"name": "TechCrunch",
+					"id": 816653,
+					"id_str": "816653",
+					"indices": [
+						93,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0uqRS3U0DT",
+					"expanded_url": "http://tcrn.ch/2AJDD8w",
+					"display_url": "tcrn.ch/2AJDD8w",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37676,
+			"friends_count": 16345,
+			"listed_count": 1043,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10004,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10253,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 09 20:04:27 +0000 2018",
+			"id": 950820583507456000,
+			"id_str": "950820583507456000",
+			"text": "Interesting! Kodak announces ICO, stock jumps 44% https://t.co/0uqRS3U0DT via @techcrunch #CES2018 #technology #cryptocurrency @evankirstel",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CES2018",
+						"indices": [
+							90,
+							98
+						]
+					},
+					{
+						"text": "technology",
+						"indices": [
+							99,
+							110
+						]
+					},
+					{
+						"text": "cryptocurrency",
+						"indices": [
+							111,
+							126
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TechCrunch",
+						"name": "TechCrunch",
+						"id": 816653,
+						"id_str": "816653",
+						"indices": [
+							78,
+							89
+						]
+					},
+					{
+						"screen_name": "evankirstel",
+						"name": "Evan Kirstel",
+						"id": 35203319,
+						"id_str": "35203319",
+						"indices": [
+							127,
+							139
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/0uqRS3U0DT",
+						"expanded_url": "http://tcrn.ch/2AJDD8w",
+						"display_url": "tcrn.ch/2AJDD8w",
+						"indices": [
+							50,
+							73
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19711691,
+				"id_str": "19711691",
+				"name": "JOHN NOSTA",
+				"screen_name": "JohnNosta",
+				"location": " 07945",
+				"description": "#1 ranked global digital health influencer shaping the future of tech, medicine & health. https://t.co/sSQY1n0Z64 Google Health Board  @Forbes @PsychToday",
+				"url": "https://t.co/bRid18ZXLp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bRid18ZXLp",
+								"expanded_url": "http://JohnNosta.com",
+								"display_url": "JohnNosta.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sSQY1n0Z64",
+								"expanded_url": "http://www.NostaLab.com",
+								"display_url": "NostaLab.com",
+								"indices": [
+									90,
+									113
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 41678,
+				"friends_count": 28684,
+				"listed_count": 2562,
+				"created_at": "Thu Jan 29 14:00:16 +0000 2009",
+				"favourites_count": 10265,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 76786,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/717003236/3872d764be04f505f92ddb21ac2bc233.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/717003236/3872d764be04f505f92ddb21ac2bc233.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/465891972226351104/kUgffUXh_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/465891972226351104/kUgffUXh_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19711691/1491866647",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 09 20:05:20 +0000 2018",
+		"id": 950820805486628900,
+		"id_str": "950820805486628864",
+		"text": "RT @MarshaCollier: Here Are the 7 Top #Tech Trends to Watch, According to #CES2018\n✔ 5G\n✔ Artificial Intelligence\n✔ Robotics\n✔ Voice: The F…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Tech",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "CES2018",
+					"indices": [
+						74,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarshaCollier",
+					"name": "Marsha Collier",
+					"id": 14262772,
+					"id_str": "14262772",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37676,
+			"friends_count": 16345,
+			"listed_count": 1043,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10004,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10253,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 09 16:29:03 +0000 2018",
+			"id": 950766377484382200,
+			"id_str": "950766377484382208",
+			"text": "Here Are the 7 Top #Tech Trends to Watch, According to #CES2018\n✔ 5G\n✔ Artificial Intelligence\n✔ Robotics\n✔ Voice:… https://t.co/gftWOsvyBl",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Tech",
+						"indices": [
+							19,
+							24
+						]
+					},
+					{
+						"text": "CES2018",
+						"indices": [
+							55,
+							63
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gftWOsvyBl",
+						"expanded_url": "https://twitter.com/i/web/status/950766377484382208",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14262772,
+				"id_str": "14262772",
+				"name": "Marsha Collier",
+				"screen_name": "MarshaCollier",
+				"location": "Los Angeles",
+				"description": "Author 48 📚: Social Media, eCommerce, eBay, Customer Service. Forbes Top 10 Futurist, Founder #CustServ, #techradio podcast, marketing whisperer. StarTrek nerd",
+				"url": "http://t.co/M14kDkWYp6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/M14kDkWYp6",
+								"expanded_url": "http://www.coolebaytools.com",
+								"display_url": "coolebaytools.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 212777,
+				"friends_count": 74263,
+				"listed_count": 9407,
+				"created_at": "Mon Mar 31 02:14:24 +0000 2008",
+				"favourites_count": 10214,
+				"utc_offset": -28800,
+				"time_zone": "America/Los_Angeles",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 349750,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "848484",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/679907198/7c8f16b2b161e233d04db3cb3c3bfa22.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/679907198/7c8f16b2b161e233d04db3cb3c3bfa22.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/647168352993964032/8Am4mB8m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/647168352993964032/8Am4mB8m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14262772/1400696437",
+				"profile_link_color": "A60018",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 315,
+			"favorite_count": 175,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 315,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 09 17:20:01 +0000 2018",
 		"id": 950779202638438400,
 		"id_str": "950779202638438400",
