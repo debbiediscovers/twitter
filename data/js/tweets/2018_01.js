@@ -1,6 +1,484 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 09 22:52:29 +0000 2018",
+		"id": 950862869968506900,
+		"id_str": "950862869968506880",
+		"text": "This is so awesome! Congrats @canva @MelanieCanva So much love for @Canva ❤️😍👍 I use it every day!   https://t.co/FBaSidRDw4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "canva",
+					"name": "Canva",
+					"id": 36542528,
+					"id_str": "36542528",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"screen_name": "MelanieCanva",
+					"name": "Melanie Perkins",
+					"id": 311340284,
+					"id_str": "311340284",
+					"indices": [
+						36,
+						49
+					]
+				},
+				{
+					"screen_name": "canva",
+					"name": "Canva",
+					"id": 36542528,
+					"id_str": "36542528",
+					"indices": [
+						67,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FBaSidRDw4",
+					"expanded_url": "https://twitter.com/alvinlindsay21/status/950623205017841665",
+					"display_url": "twitter.com/alvinlindsay21…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37680,
+			"friends_count": 16345,
+			"listed_count": 1046,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10007,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10256,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 950623205017841700,
+		"quoted_status_id_str": "950623205017841665",
+		"quoted_status": {
+			"created_at": "Tue Jan 09 07:00:08 +0000 2018",
+			"id": 950623205017841700,
+			"id_str": "950623205017841665",
+			"text": "Online graphic design startup Canva is now worth $1 billion https://t.co/WWBKwG5ypX  @mashable https://t.co/PsdtYmrzK4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mashable",
+						"name": "Mashable",
+						"id": 972651,
+						"id_str": "972651",
+						"indices": [
+							85,
+							94
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WWBKwG5ypX",
+						"expanded_url": "http://dlvr.it/Q9SL0c",
+						"display_url": "dlvr.it/Q9SL0c",
+						"indices": [
+							60,
+							83
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 950623201364607000,
+						"id_str": "950623201364606976",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/DTFKw9iVAAATQaI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTFKw9iVAAATQaI.jpg",
+						"url": "https://t.co/PsdtYmrzK4",
+						"display_url": "pic.twitter.com/PsdtYmrzK4",
+						"expanded_url": "https://twitter.com/alvinlindsay21/status/950623205017841665/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 950623201364607000,
+						"id_str": "950623201364606976",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/DTFKw9iVAAATQaI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTFKw9iVAAATQaI.jpg",
+						"url": "https://t.co/PsdtYmrzK4",
+						"display_url": "pic.twitter.com/PsdtYmrzK4",
+						"expanded_url": "https://twitter.com/alvinlindsay21/status/950623205017841665/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15830958,
+				"id_str": "15830958",
+				"name": "Alvin Lindsay",
+				"screen_name": "alvinlindsay21",
+				"location": "alvin@alvinlindsay.co.uk",
+				"description": "📽️ Entrepreneur. Tips for online business. The latest news on social media marketing 🚀digital marketing. Increase sales & traffic fast  https://t.co/5lMNB9G0BR",
+				"url": "https://t.co/dPrtHQMWGR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dPrtHQMWGR",
+								"expanded_url": "http://alvinlindsay.co.uk",
+								"display_url": "alvinlindsay.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/5lMNB9G0BR",
+								"expanded_url": "http://alvin-lindsay.com",
+								"display_url": "alvin-lindsay.com",
+								"indices": [
+									136,
+									159
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 104052,
+				"friends_count": 42948,
+				"listed_count": 4159,
+				"created_at": "Wed Aug 13 01:17:09 +0000 2008",
+				"favourites_count": 52136,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 250231,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/647939328/rwxxyrhopl5r6vef7eyb.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/647939328/rwxxyrhopl5r6vef7eyb.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/807358602226925568/Tt3pStOQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/807358602226925568/Tt3pStOQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15830958/1481312933",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 09 22:51:12 +0000 2018",
+		"id": 950862549444059100,
+		"id_str": "950862549444059136",
+		"text": "#LOVE this is so awesome! Nice work @visa https://t.co/mCklWXKdUs via @cmicontent #VideoMarketing #Storytelling",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOVE",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "VideoMarketing",
+					"indices": [
+						82,
+						97
+					]
+				},
+				{
+					"text": "Storytelling",
+					"indices": [
+						98,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Visa",
+					"name": "Visa",
+					"id": 551373363,
+					"id_str": "551373363",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"screen_name": "CMIContent",
+					"name": "Content Marketing",
+					"id": 18240655,
+					"id_str": "18240655",
+					"indices": [
+						70,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mCklWXKdUs",
+					"expanded_url": "http://contentmarketinginstitute.com/2018/01/video-storytelling-secrets/#.WlVHRQ8u_T0.twitter",
+					"display_url": "contentmarketinginstitute.com/2018/01/video-…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37680,
+			"friends_count": 16345,
+			"listed_count": 1046,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10007,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10256,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 09 20:13:51 +0000 2018",
 		"id": 950822948784361500,
 		"id_str": "950822948784361472",
