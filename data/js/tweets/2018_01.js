@@ -1,6 +1,520 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Wed Jan 10 05:04:57 +0000 2018",
+		"id": 950956604890873900,
+		"id_str": "950956604890873856",
+		"text": "RT @MadalynSklar: How To Run A Twitter Chat That Nurtures A Loyal Community  https://t.co/pfdZCrhzEV #TwitterSmarter https://t.co/21lHyPbfuP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TwitterSmarter",
+					"indices": [
+						101,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MadalynSklar",
+					"name": "Madalyn Sklar 🚀 Speaker. Podcaster. Chat Host.",
+					"id": 14164297,
+					"id_str": "14164297",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pfdZCrhzEV",
+					"expanded_url": "https://socialmediaweek.org/blog/2017/10/run-twitter-chat-nurtures-loyal-community/",
+					"display_url": "socialmediaweek.org/blog/2017/10/r…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 950956007244496900,
+					"id_str": "950956007244496896",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DTJ5c0DVAAACqaw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTJ5c0DVAAACqaw.jpg",
+					"url": "https://t.co/21lHyPbfuP",
+					"display_url": "pic.twitter.com/21lHyPbfuP",
+					"expanded_url": "https://twitter.com/MadalynSklar/status/950956009811578880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 940,
+							"h": 492,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 940,
+							"h": 492,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 950956009811578900,
+					"source_status_id_str": "950956009811578880",
+					"source_user_id": 14164297,
+					"source_user_id_str": "14164297"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 950956007244496900,
+					"id_str": "950956007244496896",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DTJ5c0DVAAACqaw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTJ5c0DVAAACqaw.jpg",
+					"url": "https://t.co/21lHyPbfuP",
+					"display_url": "pic.twitter.com/21lHyPbfuP",
+					"expanded_url": "https://twitter.com/MadalynSklar/status/950956009811578880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 940,
+							"h": 492,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 940,
+							"h": 492,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 950956009811578900,
+					"source_status_id_str": "950956009811578880",
+					"source_user_id": 14164297,
+					"source_user_id_str": "14164297"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37763,
+			"friends_count": 15981,
+			"listed_count": 1040,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10031,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10272,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 10 05:02:35 +0000 2018",
+			"id": 950956009811578900,
+			"id_str": "950956009811578880",
+			"text": "How To Run A Twitter Chat That Nurtures A Loyal Community  https://t.co/pfdZCrhzEV #TwitterSmarter https://t.co/21lHyPbfuP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TwitterSmarter",
+						"indices": [
+							83,
+							98
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pfdZCrhzEV",
+						"expanded_url": "https://socialmediaweek.org/blog/2017/10/run-twitter-chat-nurtures-loyal-community/",
+						"display_url": "socialmediaweek.org/blog/2017/10/r…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 950956007244496900,
+						"id_str": "950956007244496896",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/DTJ5c0DVAAACqaw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTJ5c0DVAAACqaw.jpg",
+						"url": "https://t.co/21lHyPbfuP",
+						"display_url": "pic.twitter.com/21lHyPbfuP",
+						"expanded_url": "https://twitter.com/MadalynSklar/status/950956009811578880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 940,
+								"h": 492,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 940,
+								"h": 492,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 950956007244496900,
+						"id_str": "950956007244496896",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/DTJ5c0DVAAACqaw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTJ5c0DVAAACqaw.jpg",
+						"url": "https://t.co/21lHyPbfuP",
+						"display_url": "pic.twitter.com/21lHyPbfuP",
+						"expanded_url": "https://twitter.com/MadalynSklar/status/950956009811578880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 940,
+								"h": 492,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 940,
+								"h": 492,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.socialjukebox.com\" rel=\"nofollow\">The Social Jukebox</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14164297,
+				"id_str": "14164297",
+				"name": "Madalyn Sklar 🚀 Speaker. Podcaster. Chat Host.",
+				"screen_name": "MadalynSklar",
+				"location": "Houston, TX",
+				"description": "Twitter Marketing Pro. Listen to my Twitter Tips podcast 🎧 https://t.co/nBDQrJYmZT. Host #TwitterSmarter chat Thurs 1pm ET. #SocialROI chat Tues 5pm ET.",
+				"url": "https://t.co/Oaeqp32FDf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Oaeqp32FDf",
+								"expanded_url": "http://www.madalynsklar.com",
+								"display_url": "madalynsklar.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nBDQrJYmZT",
+								"expanded_url": "http://bit.ly/twittersmarter",
+								"display_url": "bit.ly/twittersmarter",
+								"indices": [
+									59,
+									82
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 66354,
+				"friends_count": 50147,
+				"listed_count": 4489,
+				"created_at": "Mon Mar 17 17:00:38 +0000 2008",
+				"favourites_count": 99737,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 163077,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/686424901540958208/G5PA4JQ3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/686424901540958208/G5PA4JQ3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14164297/1485550174",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 10 04:45:57 +0000 2018",
+		"id": 950951823313059800,
+		"id_str": "950951823313059840",
+		"text": "@yogenthiran96 @canva That’s so great well done for doing that!! 👏👏👏",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yogenthiran96",
+					"name": "YoGen",
+					"id": 202213361,
+					"id_str": "202213361",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "canva",
+					"name": "Canva",
+					"id": 36542528,
+					"id_str": "36542528",
+					"indices": [
+						15,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 938449633285611500,
+		"in_reply_to_status_id_str": "938449633285611520",
+		"in_reply_to_user_id": 202213361,
+		"in_reply_to_user_id_str": "202213361",
+		"in_reply_to_screen_name": "yogenthiran96",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37763,
+			"friends_count": 15981,
+			"listed_count": 1040,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10031,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10272,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 10 01:49:55 +0000 2018",
 		"id": 950907523493593100,
 		"id_str": "950907523493593088",
