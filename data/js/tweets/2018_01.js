@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Thu Jan 11 09:28:26 +0000 2018",
+		"id": 951385302991487000,
+		"id_str": "951385302991486976",
+		"text": "@PaulAnderson38 @jusbrzn @mlesemann @ROUROUROBIN @Jax_xxxx @_GoodBox @mudit101jain @GavinLee_lewis @Dealazer… https://t.co/Pg8bEYByV1",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PaulAnderson38",
+					"name": "Paul Anderson or Neo",
+					"id": 351484777,
+					"id_str": "351484777",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "jusbrzn",
+					"name": "Bran💋",
+					"id": 912505780947050500,
+					"id_str": "912505780947050496",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"screen_name": "mlesemann",
+					"name": "Mara Lesemann",
+					"id": 16572643,
+					"id_str": "16572643",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"screen_name": "ROUROUROBIN",
+					"name": "Róu Róu",
+					"id": 709509299358183400,
+					"id_str": "709509299358183424",
+					"indices": [
+						36,
+						48
+					]
+				},
+				{
+					"screen_name": "Jax_xxxx",
+					"name": "Jax",
+					"id": 1102173740,
+					"id_str": "1102173740",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"screen_name": "_GoodBox",
+					"name": "GoodBox",
+					"id": 794497645830111200,
+					"id_str": "794497645830111232",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"screen_name": "mudit101jain",
+					"name": "Mudit Jain",
+					"id": 789498646995664900,
+					"id_str": "789498646995664896",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"screen_name": "GavinLee_lewis",
+					"name": "Gavin Lee Lewis",
+					"id": 2719520289,
+					"id_str": "2719520289",
+					"indices": [
+						83,
+						98
+					]
+				},
+				{
+					"screen_name": "Dealazer",
+					"name": "Dealazer",
+					"id": 24088313,
+					"id_str": "24088313",
+					"indices": [
+						99,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Pg8bEYByV1",
+					"expanded_url": "https://twitter.com/i/web/status/951385302991486976",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 951381850479583200,
+		"in_reply_to_status_id_str": "951381850479583232",
+		"in_reply_to_user_id": 351484777,
+		"in_reply_to_user_id_str": "351484777",
+		"in_reply_to_screen_name": "PaulAnderson38",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37761,
+			"friends_count": 16938,
+			"listed_count": 1040,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10067,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10296,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Thu Jan 11 09:10:48 +0000 2018",
 		"id": 951380865757556700,
 		"id_str": "951380865757556736",
