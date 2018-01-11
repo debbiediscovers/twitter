@@ -1,6 +1,793 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Thu Jan 11 21:03:53 +0000 2018",
+		"id": 951560318383112200,
+		"id_str": "951560318383112192",
+		"text": "RT @Alyssa_Milano: Thread. https://t.co/zsz4s5Xh2v",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Alyssa_Milano",
+					"name": "Alyssa Milano",
+					"id": 26642006,
+					"id_str": "26642006",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zsz4s5Xh2v",
+					"expanded_url": "https://twitter.com/hmaesq/status/951454747399196672",
+					"display_url": "twitter.com/hmaesq/status/…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37784,
+			"friends_count": 16936,
+			"listed_count": 1045,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10070,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10304,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 11 15:38:03 +0000 2018",
+			"id": 951478319203037200,
+			"id_str": "951478319203037185",
+			"text": "Thread. https://t.co/zsz4s5Xh2v",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zsz4s5Xh2v",
+						"expanded_url": "https://twitter.com/hmaesq/status/951454747399196672",
+						"display_url": "twitter.com/hmaesq/status/…",
+						"indices": [
+							8,
+							31
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26642006,
+				"id_str": "26642006",
+				"name": "Alyssa Milano",
+				"screen_name": "Alyssa_Milano",
+				"location": "Los Angeles",
+				"description": "🇺🇸 I get political/personal here. Check out @PatNotPart Also, please follow my other accounts if you only want career updates➛ @AlyssaDotCom @TouchByAM",
+				"url": "https://t.co/GY8OnQM3pD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GY8OnQM3pD",
+								"expanded_url": "http://Alyssa.com",
+								"display_url": "Alyssa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3388643,
+				"friends_count": 2497,
+				"listed_count": 36563,
+				"created_at": "Thu Mar 26 00:34:20 +0000 2009",
+				"favourites_count": 1058,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 46538,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "260808",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/661959433/xe6d763cc8cba668262cc59c090da580.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/661959433/xe6d763cc8cba668262cc59c090da580.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950350525786152960/O7rptFeD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950350525786152960/O7rptFeD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26642006/1515416198",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "77BF56",
+				"profile_sidebar_fill_color": "A5C44F",
+				"profile_text_color": "EBE18F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 951454747399196700,
+			"quoted_status_id_str": "951454747399196672",
+			"quoted_status": {
+				"created_at": "Thu Jan 11 14:04:23 +0000 2018",
+				"id": 951454747399196700,
+				"id_str": "951454747399196672",
+				"text": "A thread on Trump's new buzzword, #ChainMigration.\n\nYou'll hear it constantly now. Some horrendous threat that must… https://t.co/Zb2bd2Wiml",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "ChainMigration",
+							"indices": [
+								34,
+								49
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/Zb2bd2Wiml",
+							"expanded_url": "https://twitter.com/i/web/status/951454747399196672",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3311036150,
+					"id_str": "3311036150",
+					"name": "Hassan Ahmad",
+					"screen_name": "HMAesq",
+					"location": "Tysons Corner, VA",
+					"description": "Dirty immigration lawyer and advocate. Board member, @TheVAAB, VA Com on Diversity, @DullesJustice. Musings at https://t.co/bwX4wIR9iT.",
+					"url": "https://t.co/uXkbEZrkIy",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/uXkbEZrkIy",
+									"expanded_url": "http://www.hmalegal.com/hassan-m-ahmad-esq.html",
+									"display_url": "hmalegal.com/hassan-m-ahmad…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/bwX4wIR9iT",
+									"expanded_url": "http://typhoonical.com",
+									"display_url": "typhoonical.com",
+									"indices": [
+										111,
+										134
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 5210,
+					"friends_count": 819,
+					"listed_count": 121,
+					"created_at": "Mon Aug 10 02:14:26 +0000 2015",
+					"favourites_count": 13234,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 12508,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/949837591821635584/CbiXNFEx_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/949837591821635584/CbiXNFEx_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3311036150/1515295070",
+					"profile_link_color": "145B72",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 171,
+				"favorite_count": 221,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 65,
+			"favorite_count": 176,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 951454747399196700,
+		"quoted_status_id_str": "951454747399196672",
+		"retweet_count": 65,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 11 21:03:34 +0000 2018",
+		"id": 951560238452240400,
+		"id_str": "951560238452240384",
+		"text": "RT @HMAesq: @Allandaros Interestingly, here's a short thread showing very similar usage of the term from a Nazi propaganda poster. The idea…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HMAesq",
+					"name": "Hassan Ahmad",
+					"id": 3311036150,
+					"id_str": "3311036150",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "Allandaros",
+					"name": "Humza Kazmi",
+					"id": 17950332,
+					"id_str": "17950332",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37784,
+			"friends_count": 16936,
+			"listed_count": 1045,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10070,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10304,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 11 14:18:50 +0000 2018",
+			"id": 951458385010053100,
+			"id_str": "951458385010053122",
+			"text": "@Allandaros Interestingly, here's a short thread showing very similar usage of the term from a Nazi propaganda post… https://t.co/OQvp5w29UF",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Allandaros",
+						"name": "Humza Kazmi",
+						"id": 17950332,
+						"id_str": "17950332",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/OQvp5w29UF",
+						"expanded_url": "https://twitter.com/i/web/status/951458385010053122",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 951454747399196700,
+			"in_reply_to_status_id_str": "951454747399196672",
+			"in_reply_to_user_id": 3311036150,
+			"in_reply_to_user_id_str": "3311036150",
+			"in_reply_to_screen_name": "HMAesq",
+			"user": {
+				"id": 3311036150,
+				"id_str": "3311036150",
+				"name": "Hassan Ahmad",
+				"screen_name": "HMAesq",
+				"location": "Tysons Corner, VA",
+				"description": "Dirty immigration lawyer and advocate. Board member, @TheVAAB, VA Com on Diversity, @DullesJustice. Musings at https://t.co/bwX4wIR9iT.",
+				"url": "https://t.co/uXkbEZrkIy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uXkbEZrkIy",
+								"expanded_url": "http://www.hmalegal.com/hassan-m-ahmad-esq.html",
+								"display_url": "hmalegal.com/hassan-m-ahmad…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/bwX4wIR9iT",
+								"expanded_url": "http://typhoonical.com",
+								"display_url": "typhoonical.com",
+								"indices": [
+									111,
+									134
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5210,
+				"friends_count": 819,
+				"listed_count": 121,
+				"created_at": "Mon Aug 10 02:14:26 +0000 2015",
+				"favourites_count": 13234,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 12508,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/949837591821635584/CbiXNFEx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/949837591821635584/CbiXNFEx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3311036150/1515295070",
+				"profile_link_color": "145B72",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 943850012685070300,
+			"quoted_status_id_str": "943850012685070337",
+			"quoted_status": {
+				"created_at": "Thu Dec 21 14:25:53 +0000 2017",
+				"id": 943850012685070300,
+				"id_str": "943850012685070337",
+				"text": "https://t.co/RMavAaS6UW",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 943849963024474100,
+							"id_str": "943849963024474113",
+							"indices": [
+								0,
+								23
+							],
+							"media_url": "http://pbs.twimg.com/media/DRk6imdW4AE9EFV.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DRk6imdW4AE9EFV.jpg",
+							"url": "https://t.co/RMavAaS6UW",
+							"display_url": "pic.twitter.com/RMavAaS6UW",
+							"expanded_url": "https://twitter.com/kjhealy/status/943850012685070337/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1186,
+									"h": 966,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1186,
+									"h": 966,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 554,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 943849963024474100,
+							"id_str": "943849963024474113",
+							"indices": [
+								0,
+								23
+							],
+							"media_url": "http://pbs.twimg.com/media/DRk6imdW4AE9EFV.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DRk6imdW4AE9EFV.jpg",
+							"url": "https://t.co/RMavAaS6UW",
+							"display_url": "pic.twitter.com/RMavAaS6UW",
+							"expanded_url": "https://twitter.com/kjhealy/status/943850012685070337/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1186,
+									"h": 966,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1186,
+									"h": 966,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 554,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 943849987330408400,
+							"id_str": "943849987330408448",
+							"indices": [
+								0,
+								23
+							],
+							"media_url": "http://pbs.twimg.com/media/DRk6kBAWAAAVQqA.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DRk6kBAWAAAVQqA.jpg",
+							"url": "https://t.co/RMavAaS6UW",
+							"display_url": "pic.twitter.com/RMavAaS6UW",
+							"expanded_url": "https://twitter.com/kjhealy/status/943850012685070337/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 570,
+									"h": 563,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 570,
+									"h": 563,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 570,
+									"h": 563,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 782325,
+					"id_str": "782325",
+					"name": "Kieran Healy",
+					"screen_name": "kjhealy",
+					"location": "Durham/Chapel Hill NC",
+					"description": "You should look at https://t.co/hMfJaT5m8x",
+					"url": "https://t.co/9AodRQczL6",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/9AodRQczL6",
+									"expanded_url": "http://kieranhealy.org",
+									"display_url": "kieranhealy.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/hMfJaT5m8x",
+									"expanded_url": "http://socviz.co",
+									"display_url": "socviz.co",
+									"indices": [
+										19,
+										42
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 13284,
+					"friends_count": 100,
+					"listed_count": 531,
+					"created_at": "Tue Feb 20 05:00:17 +0000 2007",
+					"favourites_count": 12414,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 228,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EDF5FC",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/916702572890779648/1SZWDObf_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/916702572890779648/1SZWDObf_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/782325/1470327212",
+					"profile_link_color": "000000",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "E1DFD2",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 5979,
+				"favorite_count": 8097,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "und"
+			},
+			"retweet_count": 25,
+			"favorite_count": 57,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 943850012685070300,
+		"quoted_status_id_str": "943850012685070337",
+		"retweet_count": 25,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jan 11 18:44:42 +0000 2018",
 		"id": 951525291565838300,
 		"id_str": "951525291565838336",
