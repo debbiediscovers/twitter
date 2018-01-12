@@ -1,6 +1,976 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Fri Jan 12 11:10:41 +0000 2018",
+		"id": 951773421691658200,
+		"id_str": "951773421691658240",
+		"text": "What???..... a freak???  https://t.co/CsGRcvxfdb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CsGRcvxfdb",
+					"expanded_url": "https://buff.ly/2D3oxjg",
+					"display_url": "buff.ly/2D3oxjg",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37823,
+			"friends_count": 18072,
+			"listed_count": 1045,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10337,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10328,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 12 11:06:00 +0000 2018",
+		"id": 951772243977166800,
+		"id_str": "951772243977166848",
+		"text": "ProgrammableWeb's best cognitive, analytics, development APIs of 2017 https://t.co/l4h5x7XUzf via https://t.co/NupEN7XZSf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l4h5x7XUzf",
+					"expanded_url": "http://www.zdnet.com/article/programmablewebs-list-of-top-apis-for-2017/",
+					"display_url": "zdnet.com/article/progra…",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/NupEN7XZSf",
+					"expanded_url": "https://drumup.io",
+					"display_url": "drumup.io",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://drumup.io\" rel=\"nofollow\">drumup.io</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37823,
+			"friends_count": 18072,
+			"listed_count": 1045,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10337,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10328,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 12 11:04:30 +0000 2018",
+		"id": 951771866972041200,
+		"id_str": "951771866972041217",
+		"text": "RT @jimmykimmel: #Trump has lied so many times, they made a documentary about it… https://t.co/tAthLByB8x",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Trump",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jimmykimmel",
+					"name": "Jimmy Kimmel",
+					"id": 26053643,
+					"id_str": "26053643",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 951337411249713200,
+					"id_str": "951337411249713152",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DTPYFjsU8AEJsn6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTPYFjsU8AEJsn6.jpg",
+					"url": "https://t.co/tAthLByB8x",
+					"display_url": "pic.twitter.com/tAthLByB8x",
+					"expanded_url": "https://twitter.com/jimmykimmel/status/951444928646664192/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 951444928646664200,
+					"source_status_id_str": "951444928646664192",
+					"source_user_id": 26053643,
+					"source_user_id_str": "26053643"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 951337411249713200,
+					"id_str": "951337411249713152",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DTPYFjsU8AEJsn6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTPYFjsU8AEJsn6.jpg",
+					"url": "https://t.co/tAthLByB8x",
+					"display_url": "pic.twitter.com/tAthLByB8x",
+					"expanded_url": "https://twitter.com/jimmykimmel/status/951444928646664192/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 951444928646664200,
+					"source_status_id_str": "951444928646664192",
+					"source_user_id": 26053643,
+					"source_user_id_str": "26053643",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 321588,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/951337411249713152/pl/zTqfIaTXrxw_sGWr.m3u8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/951337411249713152/vid/1280x720/_IdXP9-nrv53DWTW.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/951337411249713152/vid/640x360/ssUWkRFTCfa_Z-dc.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/951337411249713152/vid/320x180/nufxnH0asE-60SHP.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.youtube.com/user/JimmyKimmelLive"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 26053643,
+							"id_str": "26053643",
+							"name": "Jimmy Kimmel",
+							"screen_name": "jimmykimmel",
+							"location": "Los Angeles",
+							"description": "Blessed. Fortunate. Ready to Serve.  https://t.co/ruFTB3yu8L",
+							"url": "http://t.co/vxqRce2D2n",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/vxqRce2D2n",
+											"expanded_url": "http://www.youtube.com/user/JimmyKimmelLive",
+											"display_url": "youtube.com/user/JimmyKimm…",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/ruFTB3yu8L",
+											"expanded_url": "http://Facebook.com/JimmyKimmel",
+											"display_url": "Facebook.com/JimmyKimmel",
+											"indices": [
+												37,
+												60
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 10955202,
+							"friends_count": 572,
+							"listed_count": 24281,
+							"created_at": "Mon Mar 23 18:05:56 +0000 2009",
+							"favourites_count": 7319,
+							"utc_offset": -28800,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 5050,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "0099B9",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/220777287/supermoon.jpg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/220777287/supermoon.jpg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/836673015374987264/BFOVLxBr_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/836673015374987264/BFOVLxBr_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/26053643/1508096403",
+							"profile_link_color": "2416E3",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "95E8EC",
+							"profile_text_color": "3C3940",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37823,
+			"friends_count": 18072,
+			"listed_count": 1045,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10337,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10328,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 11 13:25:22 +0000 2018",
+			"id": 951444928646664200,
+			"id_str": "951444928646664192",
+			"text": "#Trump has lied so many times, they made a documentary about it… https://t.co/tAthLByB8x",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Trump",
+						"indices": [
+							0,
+							6
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 951337411249713200,
+						"id_str": "951337411249713152",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DTPYFjsU8AEJsn6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTPYFjsU8AEJsn6.jpg",
+						"url": "https://t.co/tAthLByB8x",
+						"display_url": "pic.twitter.com/tAthLByB8x",
+						"expanded_url": "https://twitter.com/jimmykimmel/status/951444928646664192/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 951337411249713200,
+						"id_str": "951337411249713152",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DTPYFjsU8AEJsn6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTPYFjsU8AEJsn6.jpg",
+						"url": "https://t.co/tAthLByB8x",
+						"display_url": "pic.twitter.com/tAthLByB8x",
+						"expanded_url": "https://twitter.com/jimmykimmel/status/951444928646664192/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 321588,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/951337411249713152/pl/zTqfIaTXrxw_sGWr.m3u8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/951337411249713152/vid/1280x720/_IdXP9-nrv53DWTW.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/951337411249713152/vid/640x360/ssUWkRFTCfa_Z-dc.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/951337411249713152/vid/320x180/nufxnH0asE-60SHP.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://www.youtube.com/user/JimmyKimmelLive"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26053643,
+				"id_str": "26053643",
+				"name": "Jimmy Kimmel",
+				"screen_name": "jimmykimmel",
+				"location": "Los Angeles",
+				"description": "Blessed. Fortunate. Ready to Serve.  https://t.co/ruFTB3yu8L",
+				"url": "http://t.co/vxqRce2D2n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/vxqRce2D2n",
+								"expanded_url": "http://www.youtube.com/user/JimmyKimmelLive",
+								"display_url": "youtube.com/user/JimmyKimm…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ruFTB3yu8L",
+								"expanded_url": "http://Facebook.com/JimmyKimmel",
+								"display_url": "Facebook.com/JimmyKimmel",
+								"indices": [
+									37,
+									60
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10955202,
+				"friends_count": 572,
+				"listed_count": 24281,
+				"created_at": "Mon Mar 23 18:05:56 +0000 2009",
+				"favourites_count": 7319,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5050,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/220777287/supermoon.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/220777287/supermoon.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836673015374987264/BFOVLxBr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836673015374987264/BFOVLxBr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26053643/1508096403",
+				"profile_link_color": "2416E3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3950,
+			"favorite_count": 10775,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3950,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 12 11:03:57 +0000 2018",
+		"id": 951771725603024900,
+		"id_str": "951771725603024897",
+		"text": "#trump #maga https://t.co/UTJkbVePrN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "trump",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "maga",
+					"indices": [
+						7,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UTJkbVePrN",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/951730817092403200",
+					"display_url": "twitter.com/debbiediscover…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37823,
+			"friends_count": 18072,
+			"listed_count": 1045,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10337,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10328,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 951730817092403200,
+		"quoted_status_id_str": "951730817092403200",
+		"quoted_status": {
+			"created_at": "Fri Jan 12 08:21:23 +0000 2018",
+			"id": 951730817092403200,
+			"id_str": "951730817092403200",
+			"text": "Wow. America sure has a #shithole racist pig for a president 😡https://t.co/8J9yv9Ts26",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "shithole",
+						"indices": [
+							24,
+							33
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8J9yv9Ts26",
+						"expanded_url": "https://www.nytimes.com/2018/01/11/us/politics/trump-shithole-countries.html",
+						"display_url": "nytimes.com/2018/01/11/us/…",
+						"indices": [
+							62,
+							85
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+				"url": "https://t.co/IprDI3V3T9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IprDI3V3T9",
+								"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+								"display_url": "digitaldiscovery.sg/about-deborah-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37823,
+				"friends_count": 18072,
+				"listed_count": 1045,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 10337,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10328,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Fri Jan 12 08:46:59 +0000 2018",
 		"id": 951737260092768300,
 		"id_str": "951737260092768257",
