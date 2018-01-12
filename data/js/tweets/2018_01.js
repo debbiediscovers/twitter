@@ -1,6 +1,1595 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Fri Jan 12 22:00:22 +0000 2018",
+		"id": 951936919864135700,
+		"id_str": "951936919864135681",
+		"text": "RT @pjmccarrison: What Analytics do you get from Twitter's API? https://t.co/R5R3S2T08B via @debbiediscovers https://t.co/B5NP3QJJZG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pjmccarrison",
+					"name": "Paul J. McCarrison",
+					"id": 775841676665364500,
+					"id_str": "775841676665364484",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						92,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R5R3S2T08B",
+					"expanded_url": "https://buff.ly/2D6ScIu",
+					"display_url": "buff.ly/2D6ScIu",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 951907674186223600,
+					"id_str": "951907674186223616",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DTXa_HrWkAAUc9m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTXa_HrWkAAUc9m.jpg",
+					"url": "https://t.co/B5NP3QJJZG",
+					"display_url": "pic.twitter.com/B5NP3QJJZG",
+					"expanded_url": "https://twitter.com/pjmccarrison/status/951907676774191109/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 951907676774191100,
+					"source_status_id_str": "951907676774191109",
+					"source_user_id": 775841676665364500,
+					"source_user_id_str": "775841676665364484"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 951907674186223600,
+					"id_str": "951907674186223616",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DTXa_HrWkAAUc9m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTXa_HrWkAAUc9m.jpg",
+					"url": "https://t.co/B5NP3QJJZG",
+					"display_url": "pic.twitter.com/B5NP3QJJZG",
+					"expanded_url": "https://twitter.com/pjmccarrison/status/951907676774191109/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 951907676774191100,
+					"source_status_id_str": "951907676774191109",
+					"source_user_id": 775841676665364500,
+					"source_user_id_str": "775841676665364484"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37805,
+			"friends_count": 18069,
+			"listed_count": 1046,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10364,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10341,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 12 20:04:10 +0000 2018",
+			"id": 951907676774191100,
+			"id_str": "951907676774191109",
+			"text": "What Analytics do you get from Twitter's API? https://t.co/R5R3S2T08B via @debbiediscovers https://t.co/B5NP3QJJZG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							74,
+							90
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/R5R3S2T08B",
+						"expanded_url": "https://buff.ly/2D6ScIu",
+						"display_url": "buff.ly/2D6ScIu",
+						"indices": [
+							46,
+							69
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 951907674186223600,
+						"id_str": "951907674186223616",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DTXa_HrWkAAUc9m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTXa_HrWkAAUc9m.jpg",
+						"url": "https://t.co/B5NP3QJJZG",
+						"display_url": "pic.twitter.com/B5NP3QJJZG",
+						"expanded_url": "https://twitter.com/pjmccarrison/status/951907676774191109/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 951907674186223600,
+						"id_str": "951907674186223616",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DTXa_HrWkAAUc9m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTXa_HrWkAAUc9m.jpg",
+						"url": "https://t.co/B5NP3QJJZG",
+						"display_url": "pic.twitter.com/B5NP3QJJZG",
+						"expanded_url": "https://twitter.com/pjmccarrison/status/951907676774191109/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 775841676665364500,
+				"id_str": "775841676665364484",
+				"name": "Paul J. McCarrison",
+				"screen_name": "pjmccarrison",
+				"location": "Auckland, New Zealand",
+				"description": "Entrepreneur & CEO at Rocketshp Digital Agency specializing in solving problems, greasing wheels, and turning great ideas into outstanding results",
+				"url": "https://t.co/JcKDrr7nmu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JcKDrr7nmu",
+								"expanded_url": "https://rocketshp.com",
+								"display_url": "rocketshp.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 738,
+				"friends_count": 659,
+				"listed_count": 207,
+				"created_at": "Tue Sep 13 23:40:45 +0000 2016",
+				"favourites_count": 28,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2543,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874543896058974208/cmM9o010_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874543896058974208/cmM9o010_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/775841676665364484/1473840210",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 12 21:20:55 +0000 2018",
+		"id": 951926992265359400,
+		"id_str": "951926992265359360",
+		"text": "RT @muumi_tweets: #ICancelledMyTripToLondon because I found out that Paddington bear, an undocumented migrant from Peru, lives in London. h…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ICancelledMyTripToLondon",
+					"indices": [
+						18,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "muumi_tweets",
+					"name": "muumi ❄️ stable genius",
+					"id": 923921421910380500,
+					"id_str": "923921421910380544",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37805,
+			"friends_count": 18069,
+			"listed_count": 1046,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10364,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10341,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 12 15:37:28 +0000 2018",
+			"id": 951840560679194600,
+			"id_str": "951840560679194624",
+			"text": "#ICancelledMyTripToLondon because I found out that Paddington bear, an undocumented migrant from Peru, lives in Lon… https://t.co/0wkJyONff3",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ICancelledMyTripToLondon",
+						"indices": [
+							0,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0wkJyONff3",
+						"expanded_url": "https://twitter.com/i/web/status/951840560679194624",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 923921421910380500,
+				"id_str": "923921421910380544",
+				"name": "muumi ❄️ stable genius",
+				"screen_name": "muumi_tweets",
+				"location": "",
+				"description": "❄️For every situation, there is a Muumi quote❄️ For every occasion there is an old #TrumpTweet🤡👖🔥#WorldCitizen 🌎🌍🌏 🇪🇺🇳🇱🇫🇮",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17,
+				"friends_count": 69,
+				"listed_count": 0,
+				"created_at": "Fri Oct 27 14:36:47 +0000 2017",
+				"favourites_count": 26,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 405,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/923922293998411777/P7lpZrU-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/923922293998411777/P7lpZrU-_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 36,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 12 21:17:47 +0000 2018",
+		"id": 951926202335293400,
+		"id_str": "951926202335293441",
+		"text": "RT @Lost_Droids: #ICancelledMyTripToLondon because my best Russian friend wouldn't let me go.\n\n#TrumpVisit https://t.co/4Fx8T6kPRV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ICancelledMyTripToLondon",
+					"indices": [
+						17,
+						42
+					]
+				},
+				{
+					"text": "TrumpVisit",
+					"indices": [
+						95,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lost_Droids",
+					"name": "Lost Droids",
+					"id": 2975000080,
+					"id_str": "2975000080",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 951784965024383000,
+					"id_str": "951784965024382978",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DTVrYgbWAAIMoJa.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DTVrYgbWAAIMoJa.jpg",
+					"url": "https://t.co/4Fx8T6kPRV",
+					"display_url": "pic.twitter.com/4Fx8T6kPRV",
+					"expanded_url": "https://twitter.com/Lost_Droids/status/951785104124403712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 328,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 328,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 328,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 951785104124403700,
+					"source_status_id_str": "951785104124403712",
+					"source_user_id": 2975000080,
+					"source_user_id_str": "2975000080"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 951784965024383000,
+					"id_str": "951784965024382978",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DTVrYgbWAAIMoJa.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DTVrYgbWAAIMoJa.jpg",
+					"url": "https://t.co/4Fx8T6kPRV",
+					"display_url": "pic.twitter.com/4Fx8T6kPRV",
+					"expanded_url": "https://twitter.com/Lost_Droids/status/951785104124403712/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 328,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 328,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 328,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 951785104124403700,
+					"source_status_id_str": "951785104124403712",
+					"source_user_id": 2975000080,
+					"source_user_id_str": "2975000080",
+					"video_info": {
+						"aspect_ratio": [
+							41,
+							60
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DTVrYgbWAAIMoJa.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37805,
+			"friends_count": 18069,
+			"listed_count": 1046,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10364,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10341,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 12 11:57:06 +0000 2018",
+			"id": 951785104124403700,
+			"id_str": "951785104124403712",
+			"text": "#ICancelledMyTripToLondon because my best Russian friend wouldn't let me go.\n\n#TrumpVisit https://t.co/4Fx8T6kPRV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ICancelledMyTripToLondon",
+						"indices": [
+							0,
+							25
+						]
+					},
+					{
+						"text": "TrumpVisit",
+						"indices": [
+							78,
+							89
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 951784965024383000,
+						"id_str": "951784965024382978",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DTVrYgbWAAIMoJa.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DTVrYgbWAAIMoJa.jpg",
+						"url": "https://t.co/4Fx8T6kPRV",
+						"display_url": "pic.twitter.com/4Fx8T6kPRV",
+						"expanded_url": "https://twitter.com/Lost_Droids/status/951785104124403712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 328,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 328,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 328,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 951784965024383000,
+						"id_str": "951784965024382978",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DTVrYgbWAAIMoJa.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DTVrYgbWAAIMoJa.jpg",
+						"url": "https://t.co/4Fx8T6kPRV",
+						"display_url": "pic.twitter.com/4Fx8T6kPRV",
+						"expanded_url": "https://twitter.com/Lost_Droids/status/951785104124403712/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 328,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 328,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 328,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								41,
+								60
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DTVrYgbWAAIMoJa.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2975000080,
+				"id_str": "2975000080",
+				"name": "Lost Droids",
+				"screen_name": "Lost_Droids",
+				"location": "",
+				"description": "The moment you realise they were the droids you were looking for.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 84,
+				"friends_count": 27,
+				"listed_count": 12,
+				"created_at": "Mon Jan 12 17:03:09 +0000 2015",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2493,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/554685513571905537/NhzqBvUy_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/554685513571905537/NhzqBvUy_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 781,
+			"favorite_count": 2321,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 781,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 12 21:15:48 +0000 2018",
+		"id": 951925706220486700,
+		"id_str": "951925706220486656",
+		"text": "RT @DYSONlife4real: #ICancelledMyTripToLondon\n\nbecause I can't hold a pint glass like a pro........... https://t.co/PWYPDQJx8E",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ICancelledMyTripToLondon",
+					"indices": [
+						20,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DYSONlife4real",
+					"name": "Mad(ame) Dyson",
+					"id": 733415053987328000,
+					"id_str": "733415053987328000",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 951857183154671600,
+					"id_str": "951857183154671617",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DTWtEJ7WkAEgQnl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTWtEJ7WkAEgQnl.jpg",
+					"url": "https://t.co/PWYPDQJx8E",
+					"display_url": "pic.twitter.com/PWYPDQJx8E",
+					"expanded_url": "https://twitter.com/DYSONlife4real/status/951857242055299073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 951857242055299100,
+					"source_status_id_str": "951857242055299073",
+					"source_user_id": 733415053987328000,
+					"source_user_id_str": "733415053987328000"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 951857183154671600,
+					"id_str": "951857183154671617",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DTWtEJ7WkAEgQnl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTWtEJ7WkAEgQnl.jpg",
+					"url": "https://t.co/PWYPDQJx8E",
+					"display_url": "pic.twitter.com/PWYPDQJx8E",
+					"expanded_url": "https://twitter.com/DYSONlife4real/status/951857242055299073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 951857242055299100,
+					"source_status_id_str": "951857242055299073",
+					"source_user_id": 733415053987328000,
+					"source_user_id_str": "733415053987328000"
+				},
+				{
+					"id": 951857221788491800,
+					"id_str": "951857221788491788",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DTWtGZ2X4AwaUiJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTWtGZ2X4AwaUiJ.jpg",
+					"url": "https://t.co/PWYPDQJx8E",
+					"display_url": "pic.twitter.com/PWYPDQJx8E",
+					"expanded_url": "https://twitter.com/DYSONlife4real/status/951857242055299073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 335,
+							"h": 283,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 335,
+							"h": 283,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 335,
+							"h": 283,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 951857242055299100,
+					"source_status_id_str": "951857242055299073",
+					"source_user_id": 733415053987328000,
+					"source_user_id_str": "733415053987328000"
+				},
+				{
+					"id": 951857230688727000,
+					"id_str": "951857230688727044",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DTWtG7AWsAQJ1Jp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTWtG7AWsAQJ1Jp.jpg",
+					"url": "https://t.co/PWYPDQJx8E",
+					"display_url": "pic.twitter.com/PWYPDQJx8E",
+					"expanded_url": "https://twitter.com/DYSONlife4real/status/951857242055299073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 323,
+							"h": 279,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 323,
+							"h": 279,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 323,
+							"h": 279,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 951857242055299100,
+					"source_status_id_str": "951857242055299073",
+					"source_user_id": 733415053987328000,
+					"source_user_id_str": "733415053987328000"
+				},
+				{
+					"id": 951857238163017700,
+					"id_str": "951857238163017728",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DTWtHW2XUAAHF6D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTWtHW2XUAAHF6D.jpg",
+					"url": "https://t.co/PWYPDQJx8E",
+					"display_url": "pic.twitter.com/PWYPDQJx8E",
+					"expanded_url": "https://twitter.com/DYSONlife4real/status/951857242055299073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 407,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 407,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 360,
+							"h": 407,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 951857242055299100,
+					"source_status_id_str": "951857242055299073",
+					"source_user_id": 733415053987328000,
+					"source_user_id_str": "733415053987328000"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37805,
+			"friends_count": 18069,
+			"listed_count": 1046,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10364,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10341,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 12 16:43:45 +0000 2018",
+			"id": 951857242055299100,
+			"id_str": "951857242055299073",
+			"text": "#ICancelledMyTripToLondon\n\nbecause I can't hold a pint glass like a pro........... https://t.co/PWYPDQJx8E",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ICancelledMyTripToLondon",
+						"indices": [
+							0,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 951857183154671600,
+						"id_str": "951857183154671617",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/DTWtEJ7WkAEgQnl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTWtEJ7WkAEgQnl.jpg",
+						"url": "https://t.co/PWYPDQJx8E",
+						"display_url": "pic.twitter.com/PWYPDQJx8E",
+						"expanded_url": "https://twitter.com/DYSONlife4real/status/951857242055299073/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 951857183154671600,
+						"id_str": "951857183154671617",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/DTWtEJ7WkAEgQnl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTWtEJ7WkAEgQnl.jpg",
+						"url": "https://t.co/PWYPDQJx8E",
+						"display_url": "pic.twitter.com/PWYPDQJx8E",
+						"expanded_url": "https://twitter.com/DYSONlife4real/status/951857242055299073/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 951857221788491800,
+						"id_str": "951857221788491788",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/DTWtGZ2X4AwaUiJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTWtGZ2X4AwaUiJ.jpg",
+						"url": "https://t.co/PWYPDQJx8E",
+						"display_url": "pic.twitter.com/PWYPDQJx8E",
+						"expanded_url": "https://twitter.com/DYSONlife4real/status/951857242055299073/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 335,
+								"h": 283,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 335,
+								"h": 283,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 335,
+								"h": 283,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 951857230688727000,
+						"id_str": "951857230688727044",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/DTWtG7AWsAQJ1Jp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTWtG7AWsAQJ1Jp.jpg",
+						"url": "https://t.co/PWYPDQJx8E",
+						"display_url": "pic.twitter.com/PWYPDQJx8E",
+						"expanded_url": "https://twitter.com/DYSONlife4real/status/951857242055299073/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 323,
+								"h": 279,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 323,
+								"h": 279,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 323,
+								"h": 279,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 951857238163017700,
+						"id_str": "951857238163017728",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/DTWtHW2XUAAHF6D.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTWtHW2XUAAHF6D.jpg",
+						"url": "https://t.co/PWYPDQJx8E",
+						"display_url": "pic.twitter.com/PWYPDQJx8E",
+						"expanded_url": "https://twitter.com/DYSONlife4real/status/951857242055299073/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 360,
+								"h": 407,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 360,
+								"h": 407,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 360,
+								"h": 407,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 733415053987328000,
+				"id_str": "733415053987328000",
+				"name": "Mad(ame) Dyson",
+				"screen_name": "DYSONlife4real",
+				"location": "United Kingdom",
+				"description": "That's me......there ⬆",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1060,
+				"friends_count": 1064,
+				"listed_count": 65,
+				"created_at": "Thu May 19 21:52:29 +0000 2016",
+				"favourites_count": 21332,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14461,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/949434384557531137/_VVD8O3S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/949434384557531137/_VVD8O3S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/733415053987328000/1511563875",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 87,
+			"favorite_count": 350,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jan 12 21:08:00 +0000 2018",
 		"id": 951923739523862500,
 		"id_str": "951923739523862528",
