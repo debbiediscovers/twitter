@@ -1,6 +1,436 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sun Jan 14 05:56:24 +0000 2018",
+		"id": 952419107105751000,
+		"id_str": "952419107105751040",
+		"text": "RT @BIUK: Stop-motion artist Alex Unger spends months creating incredibly detailed pieces. https://t.co/m6R4MNLIQj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BIUK",
+					"name": "Business Insider UK",
+					"id": 294176860,
+					"id_str": "294176860",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 927858992059215900,
+					"id_str": "927858992059215872",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DOBr3aZX0AE_sYP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOBr3aZX0AE_sYP.jpg",
+					"url": "https://t.co/m6R4MNLIQj",
+					"display_url": "pic.twitter.com/m6R4MNLIQj",
+					"expanded_url": "https://twitter.com/BIUK/status/930367208923869186/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 930367208923869200,
+					"source_status_id_str": "930367208923869186",
+					"source_user_id": 294176860,
+					"source_user_id_str": "294176860"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 927858992059215900,
+					"id_str": "927858992059215872",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DOBr3aZX0AE_sYP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOBr3aZX0AE_sYP.jpg",
+					"url": "https://t.co/m6R4MNLIQj",
+					"display_url": "pic.twitter.com/m6R4MNLIQj",
+					"expanded_url": "https://twitter.com/BIUK/status/930367208923869186/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 930367208923869200,
+					"source_status_id_str": "930367208923869186",
+					"source_user_id": 294176860,
+					"source_user_id_str": "294176860",
+					"additional_media_info": {
+						"title": "Crazy stop-motion art takes months to create",
+						"description": "",
+						"embeddable": false,
+						"monetizable": true,
+						"source_user": {
+							"id": 294176860,
+							"id_str": "294176860",
+							"name": "Business Insider UK",
+							"screen_name": "BIUK",
+							"location": "London",
+							"description": "The latest @BusinessInsider news and views from Europe.",
+							"url": "http://t.co/aPhMlddjMV",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/aPhMlddjMV",
+											"expanded_url": "http://uk.businessinsider.com",
+											"display_url": "uk.businessinsider.com",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 84281,
+							"friends_count": 71,
+							"listed_count": 1348,
+							"created_at": "Fri May 06 17:21:24 +0000 2011",
+							"favourites_count": 867,
+							"utc_offset": 0,
+							"time_zone": "UTC",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 107789,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/890152475067650048/6MuA0NTT_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/890152475067650048/6MuA0NTT_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/294176860/1469780010",
+							"profile_link_color": "185F7C",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37832,
+			"friends_count": 18763,
+			"listed_count": 1041,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10398,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10379,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 14 09:30:02 +0000 2017",
+			"id": 930367208923869200,
+			"id_str": "930367208923869186",
+			"text": "Stop-motion artist Alex Unger spends months creating incredibly detailed pieces. https://t.co/m6R4MNLIQj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 927858992059215900,
+						"id_str": "927858992059215872",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/DOBr3aZX0AE_sYP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOBr3aZX0AE_sYP.jpg",
+						"url": "https://t.co/m6R4MNLIQj",
+						"display_url": "pic.twitter.com/m6R4MNLIQj",
+						"expanded_url": "https://twitter.com/BIUK/status/930367208923869186/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 927858992059215900,
+						"id_str": "927858992059215872",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/DOBr3aZX0AE_sYP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOBr3aZX0AE_sYP.jpg",
+						"url": "https://t.co/m6R4MNLIQj",
+						"display_url": "pic.twitter.com/m6R4MNLIQj",
+						"expanded_url": "https://twitter.com/BIUK/status/930367208923869186/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"additional_media_info": {
+							"title": "Crazy stop-motion art takes months to create",
+							"description": "",
+							"embeddable": false,
+							"monetizable": true
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 294176860,
+				"id_str": "294176860",
+				"name": "Business Insider UK",
+				"screen_name": "BIUK",
+				"location": "London",
+				"description": "The latest @BusinessInsider news and views from Europe.",
+				"url": "http://t.co/aPhMlddjMV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/aPhMlddjMV",
+								"expanded_url": "http://uk.businessinsider.com",
+								"display_url": "uk.businessinsider.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 84281,
+				"friends_count": 71,
+				"listed_count": 1348,
+				"created_at": "Fri May 06 17:21:24 +0000 2011",
+				"favourites_count": 867,
+				"utc_offset": 0,
+				"time_zone": "UTC",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 107789,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/890152475067650048/6MuA0NTT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/890152475067650048/6MuA0NTT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/294176860/1469780010",
+				"profile_link_color": "185F7C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 100,
+			"favorite_count": 208,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 100,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 14 03:10:01 +0000 2018",
 		"id": 952377233879965700,
 		"id_str": "952377233879965696",
