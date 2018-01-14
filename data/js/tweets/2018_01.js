@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sun Jan 14 20:56:29 +0000 2018",
+		"id": 952645620325470200,
+		"id_str": "952645620325470208",
+		"text": "RT @revelagency: What Analytics do you get from Twitter's API? https://t.co/NmuXhYYJUs via @debbiediscovers https://t.co/O8eLaqqDTd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "revelagency",
+					"name": "Revel Agency",
+					"id": 806568492719865900,
+					"id_str": "806568492719865856",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						91,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NmuXhYYJUs",
+					"expanded_url": "https://buff.ly/2mCeOXG",
+					"display_url": "buff.ly/2mCeOXG",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 952538569108750300,
+					"id_str": "952538569108750336",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DTgYyCaWAAAzWZ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTgYyCaWAAAzWZ8.jpg",
+					"url": "https://t.co/O8eLaqqDTd",
+					"display_url": "pic.twitter.com/O8eLaqqDTd",
+					"expanded_url": "https://twitter.com/revelagency/status/952538572632002560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 952538572632002600,
+					"source_status_id_str": "952538572632002560",
+					"source_user_id": 806568492719865900,
+					"source_user_id_str": "806568492719865856"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 952538569108750300,
+					"id_str": "952538569108750336",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DTgYyCaWAAAzWZ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTgYyCaWAAAzWZ8.jpg",
+					"url": "https://t.co/O8eLaqqDTd",
+					"display_url": "pic.twitter.com/O8eLaqqDTd",
+					"expanded_url": "https://twitter.com/revelagency/status/952538572632002560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 952538572632002600,
+					"source_status_id_str": "952538572632002560",
+					"source_user_id": 806568492719865900,
+					"source_user_id_str": "806568492719865856"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37834,
+			"friends_count": 12971,
+			"listed_count": 1049,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10406,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10393,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 14 13:51:07 +0000 2018",
+			"id": 952538572632002600,
+			"id_str": "952538572632002560",
+			"text": "What Analytics do you get from Twitter's API? https://t.co/NmuXhYYJUs via @debbiediscovers https://t.co/O8eLaqqDTd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							74,
+							90
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/NmuXhYYJUs",
+						"expanded_url": "https://buff.ly/2mCeOXG",
+						"display_url": "buff.ly/2mCeOXG",
+						"indices": [
+							46,
+							69
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 952538569108750300,
+						"id_str": "952538569108750336",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DTgYyCaWAAAzWZ8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTgYyCaWAAAzWZ8.jpg",
+						"url": "https://t.co/O8eLaqqDTd",
+						"display_url": "pic.twitter.com/O8eLaqqDTd",
+						"expanded_url": "https://twitter.com/revelagency/status/952538572632002560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 952538569108750300,
+						"id_str": "952538569108750336",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DTgYyCaWAAAzWZ8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTgYyCaWAAAzWZ8.jpg",
+						"url": "https://t.co/O8eLaqqDTd",
+						"display_url": "pic.twitter.com/O8eLaqqDTd",
+						"expanded_url": "https://twitter.com/revelagency/status/952538572632002560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 806568492719865900,
+				"id_str": "806568492719865856",
+				"name": "Revel Agency",
+				"screen_name": "revelagency",
+				"location": "Nashua, NH",
+				"description": "NH Social Media Management & Digital Marketing Agency for Restaurants, Bars and Cafes. #restaurantsocialmedia #restaurantmarketing",
+				"url": "https://t.co/FI1Dw15vkE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FI1Dw15vkE",
+								"expanded_url": "http://RevelAgency.com",
+								"display_url": "RevelAgency.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17,
+				"friends_count": 30,
+				"listed_count": 5,
+				"created_at": "Wed Dec 07 18:38:08 +0000 2016",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 515,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/873616802290343936/30JfkW-m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/873616802290343936/30JfkW-m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/806568492719865856/1492807674",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 14 17:20:15 +0000 2018",
 		"id": 952591200116191200,
 		"id_str": "952591200116191232",
