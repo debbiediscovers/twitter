@@ -1,6 +1,564 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 16 14:34:47 +0000 2018",
+		"id": 953274334654681100,
+		"id_str": "953274334654681088",
+		"text": "Stairway to heaven 👼 ⠀⠀\n#lookingup_architecture #building_shotz #architecturelovers #architecturedesign… https://t.co/JWufhQqTMX",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lookingup_architecture",
+					"indices": [
+						24,
+						47
+					]
+				},
+				{
+					"text": "building_shotz",
+					"indices": [
+						48,
+						63
+					]
+				},
+				{
+					"text": "architecturelovers",
+					"indices": [
+						64,
+						83
+					]
+				},
+				{
+					"text": "architecturedesign",
+					"indices": [
+						84,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JWufhQqTMX",
+					"expanded_url": "https://twitter.com/i/web/status/953274334654681088",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37827,
+			"friends_count": 14961,
+			"listed_count": 1048,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10448,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10435,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 16 14:27:58 +0000 2018",
+		"id": 953272622686470100,
+		"id_str": "953272622686470144",
+		"text": "RT @TalbertSwan: @EdKrassen @IRdotnet @realDonaldTrump Racist White Supremacist Klan POTUS https://t.co/pdvh3LMjTR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TalbertSwan",
+					"name": "Bishop Talbert Swan",
+					"id": 16873455,
+					"id_str": "16873455",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "EdKrassen",
+					"name": "Ed Krassenstein",
+					"id": 132339474,
+					"id_str": "132339474",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "IRdotnet",
+					"name": "IR.net",
+					"id": 16790005,
+					"id_str": "16790005",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						38,
+						54
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 953272197107167200,
+					"id_str": "953272197107167233",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DTq0AzrUMAEr_3F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTq0AzrUMAEr_3F.jpg",
+					"url": "https://t.co/pdvh3LMjTR",
+					"display_url": "pic.twitter.com/pdvh3LMjTR",
+					"expanded_url": "https://twitter.com/TalbertSwan/status/953272212475301894/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1152,
+							"h": 1150,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 953272212475301900,
+					"source_status_id_str": "953272212475301894",
+					"source_user_id": 16873455,
+					"source_user_id_str": "16873455"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 953272197107167200,
+					"id_str": "953272197107167233",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DTq0AzrUMAEr_3F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTq0AzrUMAEr_3F.jpg",
+					"url": "https://t.co/pdvh3LMjTR",
+					"display_url": "pic.twitter.com/pdvh3LMjTR",
+					"expanded_url": "https://twitter.com/TalbertSwan/status/953272212475301894/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1152,
+							"h": 1150,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 953272212475301900,
+					"source_status_id_str": "953272212475301894",
+					"source_user_id": 16873455,
+					"source_user_id_str": "16873455"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37827,
+			"friends_count": 14961,
+			"listed_count": 1048,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10448,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10435,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 16 14:26:21 +0000 2018",
+			"id": 953272212475301900,
+			"id_str": "953272212475301894",
+			"text": "@EdKrassen @IRdotnet @realDonaldTrump Racist White Supremacist Klan POTUS https://t.co/pdvh3LMjTR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EdKrassen",
+						"name": "Ed Krassenstein",
+						"id": 132339474,
+						"id_str": "132339474",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "IRdotnet",
+						"name": "IR.net",
+						"id": 16790005,
+						"id_str": "16790005",
+						"indices": [
+							11,
+							20
+						]
+					},
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							21,
+							37
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 953272197107167200,
+						"id_str": "953272197107167233",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DTq0AzrUMAEr_3F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTq0AzrUMAEr_3F.jpg",
+						"url": "https://t.co/pdvh3LMjTR",
+						"display_url": "pic.twitter.com/pdvh3LMjTR",
+						"expanded_url": "https://twitter.com/TalbertSwan/status/953272212475301894/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 679,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 1150,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1152,
+								"h": 1150,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 953272197107167200,
+						"id_str": "953272197107167233",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DTq0AzrUMAEr_3F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTq0AzrUMAEr_3F.jpg",
+						"url": "https://t.co/pdvh3LMjTR",
+						"display_url": "pic.twitter.com/pdvh3LMjTR",
+						"expanded_url": "https://twitter.com/TalbertSwan/status/953272212475301894/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 679,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 1150,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1152,
+								"h": 1150,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 953271904336580600,
+			"in_reply_to_status_id_str": "953271904336580608",
+			"in_reply_to_user_id": 16873455,
+			"in_reply_to_user_id_str": "16873455",
+			"in_reply_to_screen_name": "TalbertSwan",
+			"user": {
+				"id": 16873455,
+				"id_str": "16873455",
+				"name": "Bishop Talbert Swan",
+				"screen_name": "TalbertSwan",
+				"location": "Global",
+				"description": "Husband, Dad, GrandDad, Pastor, Prelate, Activist, Writer, Talk Show Host, Freedom Fighter #413Hope #COGIC @SpringofHope413 https://t.co/wc2phju3Li",
+				"url": "https://t.co/7ykIp5u6KN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7ykIp5u6KN",
+								"expanded_url": "http://Instagram.com/talbertswan",
+								"display_url": "Instagram.com/talbertswan",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wc2phju3Li",
+								"expanded_url": "http://facebook.com/talbertswan",
+								"display_url": "facebook.com/talbertswan",
+								"indices": [
+									124,
+									147
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 49026,
+				"friends_count": 4154,
+				"listed_count": 466,
+				"created_at": "Mon Oct 20 19:45:56 +0000 2008",
+				"favourites_count": 9534,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21186,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/933209941493641216/Lts0fM9y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/933209941493641216/Lts0fM9y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16873455/1511584369",
+				"profile_link_color": "793D00",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 15,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue Jan 16 13:30:15 +0000 2018",
 		"id": 953258095316230100,
 		"id_str": "953258095316230145",
