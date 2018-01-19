@@ -1,6 +1,703 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Fri Jan 19 03:57:34 +0000 2018",
+		"id": 954201140664479700,
+		"id_str": "954201140664479744",
+		"text": "RT @dadtrepreneurr: How to access Twitter's API - A Guide for Non Developers https://t.co/ffZVJ7tExg @debbiediscovers https://t.co/gg9vS5pW…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dadtrepreneurr",
+					"name": "Razvan Popescu",
+					"id": 32948985,
+					"id_str": "32948985",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						101,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ffZVJ7tExg",
+					"expanded_url": "https://buff.ly/2DM5uru",
+					"display_url": "buff.ly/2DM5uru",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37708,
+			"friends_count": 11703,
+			"listed_count": 1041,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10608,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10471,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 19 02:22:05 +0000 2018",
+			"id": 954177110452654100,
+			"id_str": "954177110452654082",
+			"text": "How to access Twitter's API - A Guide for Non Developers https://t.co/ffZVJ7tExg @debbiediscovers https://t.co/gg9vS5pWBB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							81,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ffZVJ7tExg",
+						"expanded_url": "https://buff.ly/2DM5uru",
+						"display_url": "buff.ly/2DM5uru",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 954177107600560100,
+						"id_str": "954177107600560129",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DT3rBh9XUAEKLyd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DT3rBh9XUAEKLyd.jpg",
+						"url": "https://t.co/gg9vS5pWBB",
+						"display_url": "pic.twitter.com/gg9vS5pWBB",
+						"expanded_url": "https://twitter.com/dadtrepreneurr/status/954177110452654082/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 954177107600560100,
+						"id_str": "954177107600560129",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DT3rBh9XUAEKLyd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DT3rBh9XUAEKLyd.jpg",
+						"url": "https://t.co/gg9vS5pWBB",
+						"display_url": "pic.twitter.com/gg9vS5pWBB",
+						"expanded_url": "https://twitter.com/dadtrepreneurr/status/954177110452654082/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 32948985,
+				"id_str": "32948985",
+				"name": "Razvan Popescu",
+				"screen_name": "dadtrepreneurr",
+				"location": "Sydney, New South Wales",
+				"description": "A digital strategy dynamo who commands the stage like a rock legend, engaging clients and challenging them with thought-provoking, paradigm-shifting ideas.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24834,
+				"friends_count": 16353,
+				"listed_count": 360,
+				"created_at": "Sat Apr 18 17:25:25 +0000 2009",
+				"favourites_count": 956,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12670,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CCCCCC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/799893230426865664/YzOmFf5X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/799893230426865664/YzOmFf5X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/32948985/1465863087",
+				"profile_link_color": "BE1E2D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 19 03:57:31 +0000 2018",
+		"id": 954201127142113300,
+		"id_str": "954201127142113280",
+		"text": "RT @baermktg: What Analytics do you get from Twitter's API? https://t.co/hTcTcsKXzK via @debbiediscovers https://t.co/DaSn7NIot4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "baermktg",
+					"name": "David Baer",
+					"id": 2364673465,
+					"id_str": "2364673465",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						88,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hTcTcsKXzK",
+					"expanded_url": "https://buff.ly/2mIbny0",
+					"display_url": "buff.ly/2mIbny0",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 954179113375486000,
+					"id_str": "954179113375485952",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DT3s2SDX0AAr0tM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DT3s2SDX0AAr0tM.jpg",
+					"url": "https://t.co/DaSn7NIot4",
+					"display_url": "pic.twitter.com/DaSn7NIot4",
+					"expanded_url": "https://twitter.com/baermktg/status/954179116131143682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 954179116131143700,
+					"source_status_id_str": "954179116131143682",
+					"source_user_id": 2364673465,
+					"source_user_id_str": "2364673465"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 954179113375486000,
+					"id_str": "954179113375485952",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DT3s2SDX0AAr0tM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DT3s2SDX0AAr0tM.jpg",
+					"url": "https://t.co/DaSn7NIot4",
+					"display_url": "pic.twitter.com/DaSn7NIot4",
+					"expanded_url": "https://twitter.com/baermktg/status/954179116131143682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 954179116131143700,
+					"source_status_id_str": "954179116131143682",
+					"source_user_id": 2364673465,
+					"source_user_id_str": "2364673465"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37708,
+			"friends_count": 11703,
+			"listed_count": 1041,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10608,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10471,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 19 02:30:03 +0000 2018",
+			"id": 954179116131143700,
+			"id_str": "954179116131143682",
+			"text": "What Analytics do you get from Twitter's API? https://t.co/hTcTcsKXzK via @debbiediscovers https://t.co/DaSn7NIot4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							74,
+							90
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/hTcTcsKXzK",
+						"expanded_url": "https://buff.ly/2mIbny0",
+						"display_url": "buff.ly/2mIbny0",
+						"indices": [
+							46,
+							69
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 954179113375486000,
+						"id_str": "954179113375485952",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DT3s2SDX0AAr0tM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DT3s2SDX0AAr0tM.jpg",
+						"url": "https://t.co/DaSn7NIot4",
+						"display_url": "pic.twitter.com/DaSn7NIot4",
+						"expanded_url": "https://twitter.com/baermktg/status/954179116131143682/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 954179113375486000,
+						"id_str": "954179113375485952",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DT3s2SDX0AAr0tM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DT3s2SDX0AAr0tM.jpg",
+						"url": "https://t.co/DaSn7NIot4",
+						"display_url": "pic.twitter.com/DaSn7NIot4",
+						"expanded_url": "https://twitter.com/baermktg/status/954179116131143682/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2364673465,
+				"id_str": "2364673465",
+				"name": "David Baer",
+				"screen_name": "baermktg",
+				"location": "Portland, OR",
+				"description": "Digital Marketing Consultant | Marketing Funnel Architect | Helping Entrepreneurs and Marketers use the Web More Profitably",
+				"url": "https://t.co/vqwnel6Dad",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vqwnel6Dad",
+								"expanded_url": "http://baeronmarketing.com/case-study",
+								"display_url": "baeronmarketing.com/case-study",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18907,
+				"friends_count": 15708,
+				"listed_count": 1427,
+				"created_at": "Thu Feb 27 21:22:28 +0000 2014",
+				"favourites_count": 2931,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20181,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FA743E",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/585585110319177728/0faD4EDB.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/585585110319177728/0faD4EDB.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770269722495504384/izcwQbJ-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770269722495504384/izcwQbJ-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2364673465/1472482387",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jan 19 01:42:35 +0000 2018",
 		"id": 954167171487158300,
 		"id_str": "954167171487158273",
