@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sat Jan 20 16:45:08 +0000 2018",
+		"id": 954756690628329500,
+		"id_str": "954756690628329472",
+		"text": "RT @brainpicker: “I am bombarded yet I stand.”\n\nAdrienne Rich's stunning ode to history's unsung women of science https://t.co/SH0M4R4FSI #…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brainpicker",
+					"name": "Maria Popova",
+					"id": 9207632,
+					"id_str": "9207632",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SH0M4R4FSI",
+					"expanded_url": "https://www.brainpickings.org/2017/04/27/janna-levin-reads-planetarium-by-adrienne-rich/",
+					"display_url": "brainpickings.org/2017/04/27/jan…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37589,
+			"friends_count": 12667,
+			"listed_count": 1051,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10802,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10505,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 20 03:44:00 +0000 2018",
+			"id": 954560112735158300,
+			"id_str": "954560112735158272",
+			"text": "“I am bombarded yet I stand.”\n\nAdrienne Rich's stunning ode to history's unsung women of science https://t.co/SH0M4R4FSI #WomensMarch",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WomensMarch",
+						"indices": [
+							121,
+							133
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SH0M4R4FSI",
+						"expanded_url": "https://www.brainpickings.org/2017/04/27/janna-levin-reads-planetarium-by-adrienne-rich/",
+						"display_url": "brainpickings.org/2017/04/27/jan…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9207632,
+				"id_str": "9207632",
+				"name": "Maria Popova",
+				"screen_name": "brainpicker",
+				"location": "Brooklyn, NY",
+				"description": "Reader. Writer.",
+				"url": "http://t.co/j1Rss5YgMu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/j1Rss5YgMu",
+								"expanded_url": "http://brainpickings.org",
+								"display_url": "brainpickings.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 848973,
+				"friends_count": 306,
+				"listed_count": 25979,
+				"created_at": "Tue Oct 02 14:18:16 +0000 2007",
+				"favourites_count": 1544,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 120706,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFDB00",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/497431340292128768/pY1bFk_F.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/497431340292128768/pY1bFk_F.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/577255253852065794/qGnSwsBR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/577255253852065794/qGnSwsBR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9207632/1430428764",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EBEAE5",
+				"profile_text_color": "3F3F3F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 80,
+			"favorite_count": 173,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jan 20 16:00:05 +0000 2018",
 		"id": 954745353688973300,
 		"id_str": "954745353688973314",
