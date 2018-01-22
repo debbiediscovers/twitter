@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Mon Jan 22 20:20:40 +0000 2018",
+		"id": 955535708046819300,
+		"id_str": "955535708046819328",
+		"text": "RT @BoostVC: Congrats to #BoostAlumni Storyline from #Tribe10 for being nominated as a developer tool of the year on @ProductHunt! \n\nhttps:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoostAlumni",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"text": "Tribe10",
+					"indices": [
+						53,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoostVC",
+					"name": "Boost VC",
+					"id": 539137645,
+					"id_str": "539137645",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "ProductHunt",
+					"name": "Product Hunt",
+					"id": 2208027565,
+					"id_str": "2208027565",
+					"indices": [
+						117,
+						129
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37459,
+			"friends_count": 13364,
+			"listed_count": 1055,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10838,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10555,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 22 18:21:36 +0000 2018",
+			"id": 955505742714318800,
+			"id_str": "955505742714318848",
+			"text": "Congrats to #BoostAlumni Storyline from #Tribe10 for being nominated as a developer tool of the year on… https://t.co/UTRltZzVfo",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BoostAlumni",
+						"indices": [
+							12,
+							24
+						]
+					},
+					{
+						"text": "Tribe10",
+						"indices": [
+							40,
+							48
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UTRltZzVfo",
+						"expanded_url": "https://twitter.com/i/web/status/955505742714318848",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 539137645,
+				"id_str": "539137645",
+				"name": "Boost VC",
+				"screen_name": "BoostVC",
+				"location": "",
+				"description": "We are a Family of Founders making Sci-Fi a Reality! #VR/#AR #blockchain/#crypto #bots #space #AI #drones 200+ companies funded - https://t.co/77BJJmCs8s",
+				"url": "https://t.co/TFGDy7Cd6E",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TFGDy7Cd6E",
+								"expanded_url": "http://www.boost.vc",
+								"display_url": "boost.vc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/77BJJmCs8s",
+								"expanded_url": "http://www.boost.vc/podcast",
+								"display_url": "boost.vc/podcast",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 22058,
+				"friends_count": 1044,
+				"listed_count": 805,
+				"created_at": "Wed Mar 28 15:30:26 +0000 2012",
+				"favourites_count": 1828,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3402,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/507613988570419200/UlfWX5my.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/507613988570419200/UlfWX5my.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/643525168858537984/yT8dBkhS_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/643525168858537984/yT8dBkhS_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/539137645/1493083566",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 10,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 22 19:55:51 +0000 2018",
 		"id": 955529462224834600,
 		"id_str": "955529462224834560",
