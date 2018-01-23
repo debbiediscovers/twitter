@@ -1,6 +1,1300 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 23 09:05:20 +0000 2018",
+		"id": 955728142093750300,
+		"id_str": "955728142093750272",
+		"text": "Every sunset gives us one less day to live. 🌒 Every sunrise gives us one more day to hope. 🌔\n⠀⠀… https://t.co/ttKiXXj67h",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ttKiXXj67h",
+					"expanded_url": "https://twitter.com/i/web/status/955728142093750272",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37432,
+			"friends_count": 14060,
+			"listed_count": 1058,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10858,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10572,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 23 08:48:20 +0000 2018",
+		"id": 955723866248069100,
+		"id_str": "955723866248069120",
+		"text": "@thomaSchulz @gobottish @RecastAI @SAP @sapnews @SprkyBot @SAPFrance @JoergKnaus @ainabivi @HubSpot @motionai Indeed! 🤖💰💲",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thomaSchulz",
+					"name": "Thomas Schulz",
+					"id": 226482490,
+					"id_str": "226482490",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "gobottish",
+					"name": "bottish #6: Feb 22, 2018",
+					"id": 760815330923077600,
+					"id_str": "760815330923077633",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "RecastAI",
+					"name": "Recast.AI",
+					"id": 3841309414,
+					"id_str": "3841309414",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"screen_name": "SAP",
+					"name": "SAP",
+					"id": 76117579,
+					"id_str": "76117579",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"screen_name": "sapnews",
+					"name": "SAP News",
+					"id": 19230878,
+					"id_str": "19230878",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"screen_name": "SprkyBot",
+					"name": "Sparky Bot 🕵🏼",
+					"id": 768515799644532700,
+					"id_str": "768515799644532736",
+					"indices": [
+						48,
+						57
+					]
+				},
+				{
+					"screen_name": "SAPFrance",
+					"name": "SAP France",
+					"id": 611489995,
+					"id_str": "611489995",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"screen_name": "JoergKnaus",
+					"name": "Jörg Knaus",
+					"id": 2961811313,
+					"id_str": "2961811313",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"screen_name": "ainabivi",
+					"name": "Ainara Bilbao 💃",
+					"id": 2168049924,
+					"id_str": "2168049924",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"screen_name": "HubSpot",
+					"name": "HubSpot",
+					"id": 14458280,
+					"id_str": "14458280",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"screen_name": "motionai",
+					"name": "Motion AI",
+					"id": 3642547219,
+					"id_str": "3642547219",
+					"indices": [
+						100,
+						109
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 955723380791173100,
+		"in_reply_to_status_id_str": "955723380791173120",
+		"in_reply_to_user_id": 226482490,
+		"in_reply_to_user_id_str": "226482490",
+		"in_reply_to_screen_name": "thomaSchulz",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37432,
+			"friends_count": 14060,
+			"listed_count": 1058,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10858,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10572,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 23 08:46:12 +0000 2018",
+		"id": 955723327183597600,
+		"id_str": "955723327183597568",
+		"text": "@thomaSchulz @gobottish @RecastAI @SAP @sapnews @SprkyBot @SAPFrance @JoergKnaus @ainabivi @HubSpot @motionai 😬😬😬… https://t.co/1xIIeLBkds",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thomaSchulz",
+					"name": "Thomas Schulz",
+					"id": 226482490,
+					"id_str": "226482490",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "gobottish",
+					"name": "bottish #6: Feb 22, 2018",
+					"id": 760815330923077600,
+					"id_str": "760815330923077633",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "RecastAI",
+					"name": "Recast.AI",
+					"id": 3841309414,
+					"id_str": "3841309414",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"screen_name": "SAP",
+					"name": "SAP",
+					"id": 76117579,
+					"id_str": "76117579",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"screen_name": "sapnews",
+					"name": "SAP News",
+					"id": 19230878,
+					"id_str": "19230878",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"screen_name": "SprkyBot",
+					"name": "Sparky Bot 🕵🏼",
+					"id": 768515799644532700,
+					"id_str": "768515799644532736",
+					"indices": [
+						48,
+						57
+					]
+				},
+				{
+					"screen_name": "SAPFrance",
+					"name": "SAP France",
+					"id": 611489995,
+					"id_str": "611489995",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"screen_name": "JoergKnaus",
+					"name": "Jörg Knaus",
+					"id": 2961811313,
+					"id_str": "2961811313",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"screen_name": "ainabivi",
+					"name": "Ainara Bilbao 💃",
+					"id": 2168049924,
+					"id_str": "2168049924",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"screen_name": "HubSpot",
+					"name": "HubSpot",
+					"id": 14458280,
+					"id_str": "14458280",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"screen_name": "motionai",
+					"name": "Motion AI",
+					"id": 3642547219,
+					"id_str": "3642547219",
+					"indices": [
+						100,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1xIIeLBkds",
+					"expanded_url": "https://twitter.com/i/web/status/955723327183597568",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 955723067757645800,
+		"in_reply_to_status_id_str": "955723067757645824",
+		"in_reply_to_user_id": 226482490,
+		"in_reply_to_user_id_str": "226482490",
+		"in_reply_to_screen_name": "thomaSchulz",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37432,
+			"friends_count": 14060,
+			"listed_count": 1058,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10858,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10572,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 23 08:44:13 +0000 2018",
+		"id": 955722827956568000,
+		"id_str": "955722827956568065",
+		"text": "@thomaSchulz @gobottish @RecastAI @SAP @sapnews @SprkyBot @SAPFrance @JoergKnaus @ainabivi Thomas do you know how m… https://t.co/BmQx1YHaHs",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thomaSchulz",
+					"name": "Thomas Schulz",
+					"id": 226482490,
+					"id_str": "226482490",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "gobottish",
+					"name": "bottish #6: Feb 22, 2018",
+					"id": 760815330923077600,
+					"id_str": "760815330923077633",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "RecastAI",
+					"name": "Recast.AI",
+					"id": 3841309414,
+					"id_str": "3841309414",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"screen_name": "SAP",
+					"name": "SAP",
+					"id": 76117579,
+					"id_str": "76117579",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"screen_name": "sapnews",
+					"name": "SAP News",
+					"id": 19230878,
+					"id_str": "19230878",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"screen_name": "SprkyBot",
+					"name": "Sparky Bot 🕵🏼",
+					"id": 768515799644532700,
+					"id_str": "768515799644532736",
+					"indices": [
+						48,
+						57
+					]
+				},
+				{
+					"screen_name": "SAPFrance",
+					"name": "SAP France",
+					"id": 611489995,
+					"id_str": "611489995",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"screen_name": "JoergKnaus",
+					"name": "Jörg Knaus",
+					"id": 2961811313,
+					"id_str": "2961811313",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"screen_name": "ainabivi",
+					"name": "Ainara Bilbao 💃",
+					"id": 2168049924,
+					"id_str": "2168049924",
+					"indices": [
+						81,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BmQx1YHaHs",
+					"expanded_url": "https://twitter.com/i/web/status/955722827956568065",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 955722576625586200,
+		"in_reply_to_status_id_str": "955722576625586176",
+		"in_reply_to_user_id": 226482490,
+		"in_reply_to_user_id_str": "226482490",
+		"in_reply_to_screen_name": "thomaSchulz",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37432,
+			"friends_count": 14060,
+			"listed_count": 1058,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10858,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10572,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 23 08:38:58 +0000 2018",
+		"id": 955721506595553300,
+		"id_str": "955721506595553287",
+		"text": "@gobottish @RecastAI @SAP @sapnews @SprkyBot @SAPFrance @JoergKnaus @thomaSchulz @ainabivi How much did they pay? 🧐",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gobottish",
+					"name": "bottish #6: Feb 22, 2018",
+					"id": 760815330923077600,
+					"id_str": "760815330923077633",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "RecastAI",
+					"name": "Recast.AI",
+					"id": 3841309414,
+					"id_str": "3841309414",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "SAP",
+					"name": "SAP",
+					"id": 76117579,
+					"id_str": "76117579",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"screen_name": "sapnews",
+					"name": "SAP News",
+					"id": 19230878,
+					"id_str": "19230878",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"screen_name": "SprkyBot",
+					"name": "Sparky Bot 🕵🏼",
+					"id": 768515799644532700,
+					"id_str": "768515799644532736",
+					"indices": [
+						35,
+						44
+					]
+				},
+				{
+					"screen_name": "SAPFrance",
+					"name": "SAP France",
+					"id": 611489995,
+					"id_str": "611489995",
+					"indices": [
+						45,
+						55
+					]
+				},
+				{
+					"screen_name": "JoergKnaus",
+					"name": "Jörg Knaus",
+					"id": 2961811313,
+					"id_str": "2961811313",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"screen_name": "thomaSchulz",
+					"name": "Thomas Schulz",
+					"id": 226482490,
+					"id_str": "226482490",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"screen_name": "ainabivi",
+					"name": "Ainara Bilbao 💃",
+					"id": 2168049924,
+					"id_str": "2168049924",
+					"indices": [
+						81,
+						90
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 955716558554361900,
+		"in_reply_to_status_id_str": "955716558554361856",
+		"in_reply_to_user_id": 760815330923077600,
+		"in_reply_to_user_id_str": "760815330923077633",
+		"in_reply_to_screen_name": "gobottish",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37432,
+			"friends_count": 14060,
+			"listed_count": 1058,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10858,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10572,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 23 08:37:42 +0000 2018",
+		"id": 955721190156349400,
+		"id_str": "955721190156349440",
+		"text": "RT @gobottish: SAP Acquires @RecastAI Paris startup focused on conversational user experience\n\n@SAP @sapnews via @SprkyBot \n#UXdesign #bots…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UXdesign",
+					"indices": [
+						124,
+						133
+					]
+				},
+				{
+					"text": "bots",
+					"indices": [
+						134,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gobottish",
+					"name": "bottish #6: Feb 22, 2018",
+					"id": 760815330923077600,
+					"id_str": "760815330923077633",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "RecastAI",
+					"name": "Recast.AI",
+					"id": 3841309414,
+					"id_str": "3841309414",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"screen_name": "SAP",
+					"name": "SAP",
+					"id": 76117579,
+					"id_str": "76117579",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"screen_name": "sapnews",
+					"name": "SAP News",
+					"id": 19230878,
+					"id_str": "19230878",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"screen_name": "SprkyBot",
+					"name": "Sparky Bot 🕵🏼",
+					"id": 768515799644532700,
+					"id_str": "768515799644532736",
+					"indices": [
+						113,
+						122
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37432,
+			"friends_count": 14060,
+			"listed_count": 1058,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10858,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10572,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 23 08:19:18 +0000 2018",
+			"id": 955716558554361900,
+			"id_str": "955716558554361856",
+			"text": "SAP Acquires @RecastAI Paris startup focused on conversational user experience\n\n@SAP @sapnews via @SprkyBot… https://t.co/7qtyJQKzyn",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RecastAI",
+						"name": "Recast.AI",
+						"id": 3841309414,
+						"id_str": "3841309414",
+						"indices": [
+							13,
+							22
+						]
+					},
+					{
+						"screen_name": "SAP",
+						"name": "SAP",
+						"id": 76117579,
+						"id_str": "76117579",
+						"indices": [
+							80,
+							84
+						]
+					},
+					{
+						"screen_name": "sapnews",
+						"name": "SAP News",
+						"id": 19230878,
+						"id_str": "19230878",
+						"indices": [
+							85,
+							93
+						]
+					},
+					{
+						"screen_name": "SprkyBot",
+						"name": "Sparky Bot 🕵🏼",
+						"id": 768515799644532700,
+						"id_str": "768515799644532736",
+						"indices": [
+							98,
+							107
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7qtyJQKzyn",
+						"expanded_url": "https://twitter.com/i/web/status/955716558554361856",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 760815330923077600,
+				"id_str": "760815330923077633",
+				"name": "bottish #6: Feb 22, 2018",
+				"screen_name": "gobottish",
+				"location": "🇨🇭🇦🇹🇬🇧🇫🇷🇩🇪",
+				"description": "All about 🤖 ro/bots and AI•🎙 First worldwide free digital conference • 📆 Six times a year • 🚀 Founded @thomaschulz • 👉🏼https://t.co/YMcmMI4Vng",
+				"url": "https://t.co/g68Tpz3dy2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/g68Tpz3dy2",
+								"expanded_url": "http://go.bottish.co",
+								"display_url": "go.bottish.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YMcmMI4Vng",
+								"expanded_url": "http://join.bottish.co",
+								"display_url": "join.bottish.co",
+								"indices": [
+									119,
+									142
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4711,
+				"friends_count": 3669,
+				"listed_count": 472,
+				"created_at": "Wed Aug 03 12:31:24 +0000 2016",
+				"favourites_count": 15117,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4346,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/913690620908187648/vDvyzTJh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/913690620908187648/vDvyzTJh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/760815330923077633/1515091108",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 23 08:22:45 +0000 2018",
+		"id": 955717425940459500,
+		"id_str": "955717425940459520",
+		"text": "@GrumpyAlien LOVE THIS! SO TRUE!!! 😍",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GrumpyAlien",
+					"name": "Eat Bad",
+					"id": 1054574228,
+					"id_str": "1054574228",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 955521227170418700,
+		"in_reply_to_status_id_str": "955521227170418698",
+		"in_reply_to_user_id": 1054574228,
+		"in_reply_to_user_id_str": "1054574228",
+		"in_reply_to_screen_name": "GrumpyAlien",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37432,
+			"friends_count": 14060,
+			"listed_count": 1058,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10858,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10572,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 23 08:10:55 +0000 2018",
 		"id": 955714447879815200,
 		"id_str": "955714447879815168",
