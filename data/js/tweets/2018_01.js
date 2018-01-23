@@ -1,6 +1,594 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 23 04:22:45 +0000 2018",
+		"id": 955657027589570600,
+		"id_str": "955657027589570562",
+		"text": "@TW2CayC 🙌😀 #smile! https://t.co/VKblIQ82MR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "smile",
+					"indices": [
+						12,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TW2CayC",
+					"name": "Cay",
+					"id": 3394714588,
+					"id_str": "3394714588",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 955656986674135000,
+					"id_str": "955656986674135040",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DUMs91HVAAAn8_6.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DUMs91HVAAAn8_6.jpg",
+					"url": "https://t.co/VKblIQ82MR",
+					"display_url": "pic.twitter.com/VKblIQ82MR",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/955657027589570562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 955656986674135000,
+					"id_str": "955656986674135040",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DUMs91HVAAAn8_6.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DUMs91HVAAAn8_6.jpg",
+					"url": "https://t.co/VKblIQ82MR",
+					"display_url": "pic.twitter.com/VKblIQ82MR",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/955657027589570562/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							60
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DUMs91HVAAAn8_6.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 955609704037802000,
+		"in_reply_to_status_id_str": "955609704037801984",
+		"in_reply_to_user_id": 3394714588,
+		"in_reply_to_user_id_str": "3394714588",
+		"in_reply_to_screen_name": "TW2CayC",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37430,
+			"friends_count": 13368,
+			"listed_count": 1049,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10841,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10558,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Tue Jan 23 04:21:52 +0000 2018",
+		"id": 955656805455052800,
+		"id_str": "955656805455052800",
+		"text": "RT @debbiediscovers: Venture outside your comfort zone #debbiediscovers #disney60 http://t.co/6D1iUaE40Q",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "debbiediscovers",
+					"indices": [
+						55,
+						71
+					]
+				},
+				{
+					"text": "disney60",
+					"indices": [
+						72,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 607277481217814500,
+					"id_str": "607277481217814528",
+					"indices": [
+						82,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/CG17ptQU8AA4jt2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CG17ptQU8AA4jt2.jpg",
+					"url": "http://t.co/6D1iUaE40Q",
+					"display_url": "pic.twitter.com/6D1iUaE40Q",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/607277481360359425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 607277481360359400,
+					"source_status_id_str": "607277481360359425",
+					"source_user_id": 3060836348,
+					"source_user_id_str": "3060836348"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 607277481217814500,
+					"id_str": "607277481217814528",
+					"indices": [
+						82,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/CG17ptQU8AA4jt2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CG17ptQU8AA4jt2.jpg",
+					"url": "http://t.co/6D1iUaE40Q",
+					"display_url": "pic.twitter.com/6D1iUaE40Q",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/607277481360359425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 607277481360359400,
+					"source_status_id_str": "607277481360359425",
+					"source_user_id": 3060836348,
+					"source_user_id_str": "3060836348"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37430,
+			"friends_count": 13368,
+			"listed_count": 1049,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10841,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10558,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 06 20:06:48 +0000 2015",
+			"id": 607277481360359400,
+			"id_str": "607277481360359425",
+			"text": "Venture outside your comfort zone #debbiediscovers #disney60 http://t.co/6D1iUaE40Q",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "debbiediscovers",
+						"indices": [
+							34,
+							50
+						]
+					},
+					{
+						"text": "disney60",
+						"indices": [
+							51,
+							60
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 607277481217814500,
+						"id_str": "607277481217814528",
+						"indices": [
+							61,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/CG17ptQU8AA4jt2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CG17ptQU8AA4jt2.jpg",
+						"url": "http://t.co/6D1iUaE40Q",
+						"display_url": "pic.twitter.com/6D1iUaE40Q",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/607277481360359425/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 607277481217814500,
+						"id_str": "607277481217814528",
+						"indices": [
+							61,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/CG17ptQU8AA4jt2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CG17ptQU8AA4jt2.jpg",
+						"url": "http://t.co/6D1iUaE40Q",
+						"display_url": "pic.twitter.com/6D1iUaE40Q",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/607277481360359425/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+				"url": "https://t.co/IprDI3V3T9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IprDI3V3T9",
+								"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+								"display_url": "digitaldiscovery.sg/about-deborah-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37430,
+				"friends_count": 13368,
+				"listed_count": 1049,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 10841,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10558,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 23 01:10:09 +0000 2018",
 		"id": 955608560750202900,
 		"id_str": "955608560750202880",
