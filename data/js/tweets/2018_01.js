@@ -1,6 +1,359 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 23 22:37:52 +0000 2018",
+		"id": 955932624698032100,
+		"id_str": "955932624698032129",
+		"text": "RT @MikeSchiemer: 10 Terrific Social Media Marketing Tips https://t.co/T4tjX8Lg3o / #SMM #SocialMediaMarketing #SocialSelling https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMM",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "SocialMediaMarketing",
+					"indices": [
+						89,
+						110
+					]
+				},
+				{
+					"text": "SocialSelling",
+					"indices": [
+						111,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MikeSchiemer",
+					"name": "Michael J. Schiemer",
+					"id": 47030292,
+					"id_str": "47030292",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/T4tjX8Lg3o",
+					"expanded_url": "http://www.myfrugalbusiness.com/2015/09/tips-social-media-marketing-mike-schiemer.html",
+					"display_url": "myfrugalbusiness.com/2015/09/tips-s…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/IprDI3V3T9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprDI3V3T9",
+							"expanded_url": "https://digitaldiscovery.sg/about-deborah-kay/",
+							"display_url": "digitaldiscovery.sg/about-deborah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37440,
+			"friends_count": 14183,
+			"listed_count": 1056,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10864,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10577,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 22 14:00:10 +0000 2018",
+			"id": 955439952388599800,
+			"id_str": "955439952388599808",
+			"text": "10 Terrific Social Media Marketing Tips https://t.co/T4tjX8Lg3o / #SMM #SocialMediaMarketing #SocialSelling https://t.co/1pO2Pbr5i6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SMM",
+						"indices": [
+							66,
+							70
+						]
+					},
+					{
+						"text": "SocialMediaMarketing",
+						"indices": [
+							71,
+							92
+						]
+					},
+					{
+						"text": "SocialSelling",
+						"indices": [
+							93,
+							107
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/T4tjX8Lg3o",
+						"expanded_url": "http://www.myfrugalbusiness.com/2015/09/tips-social-media-marketing-mike-schiemer.html",
+						"display_url": "myfrugalbusiness.com/2015/09/tips-s…",
+						"indices": [
+							40,
+							63
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 640657848133881900,
+						"id_str": "640657848133881856",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/COQS6ySWEAAsumh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/COQS6ySWEAAsumh.jpg",
+						"url": "https://t.co/1pO2Pbr5i6",
+						"display_url": "pic.twitter.com/1pO2Pbr5i6",
+						"expanded_url": "http://twitter.com/FrugalBusiness/status/640657848813383680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 829,
+								"h": 431,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 829,
+								"h": 431,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 354,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 640657848813383700,
+						"source_status_id_str": "640657848813383680",
+						"source_user_id": 555478542,
+						"source_user_id_str": "555478542"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 640657848133881900,
+						"id_str": "640657848133881856",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/COQS6ySWEAAsumh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/COQS6ySWEAAsumh.jpg",
+						"url": "https://t.co/1pO2Pbr5i6",
+						"display_url": "pic.twitter.com/1pO2Pbr5i6",
+						"expanded_url": "http://twitter.com/FrugalBusiness/status/640657848813383680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 829,
+								"h": 431,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 829,
+								"h": 431,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 354,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 640657848813383700,
+						"source_status_id_str": "640657848813383680",
+						"source_user_id": 555478542,
+						"source_user_id_str": "555478542"
+					}
+				]
+			},
+			"source": "<a href=\"https://www.socialoomph.com\" rel=\"nofollow\">SocialOomph</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47030292,
+				"id_str": "47030292",
+				"name": "Michael J. Schiemer",
+				"screen_name": "MikeSchiemer",
+				"location": "MA_RI_NH || Bootstrap Business",
+				"description": "Frugal Entrepreneur | Digital Marketing Manager | Investor | Social Selling Specialist | Consultant | Author of The $10 Digital Media Startup: https://t.co/6QzPM0vs0U",
+				"url": "https://t.co/6BQe7jMp16",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6BQe7jMp16",
+								"expanded_url": "http://www.MyFrugalBusiness.com",
+								"display_url": "MyFrugalBusiness.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/6QzPM0vs0U",
+								"expanded_url": "http://Goo.gl/kPE0fV",
+								"display_url": "Goo.gl/kPE0fV",
+								"indices": [
+									143,
+									166
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 235380,
+				"friends_count": 209410,
+				"listed_count": 7994,
+				"created_at": "Sun Jun 14 04:11:34 +0000 2009",
+				"favourites_count": 42523,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 70426,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/592470436878819329/ekS37QON.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/592470436878819329/ekS37QON.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/794667103060115460/YeSfTHz-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/794667103060115460/YeSfTHz-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47030292/1487677772",
+				"profile_link_color": "058518",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 46,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 23 17:20:01 +0000 2018",
 		"id": 955852634837176300,
 		"id_str": "955852634837176320",
