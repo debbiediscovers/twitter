@@ -1,6 +1,860 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Fri Jan 26 09:44:22 +0000 2018",
+		"id": 956825131027853300,
+		"id_str": "956825131027853312",
+		"text": "RT @MitsukuChatbot: Ouch! 😀 https://t.co/VJ4zwh4Txt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MitsukuChatbot",
+					"name": "Mitsuku 🏅🏅🏅",
+					"id": 578224522,
+					"id_str": "578224522",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 956632004149284900,
+					"id_str": "956632004149284870",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/DUajvUQWkAYCwfu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUajvUQWkAYCwfu.jpg",
+					"url": "https://t.co/VJ4zwh4Txt",
+					"display_url": "pic.twitter.com/VJ4zwh4Txt",
+					"expanded_url": "https://twitter.com/MitsukuChatbot/status/956632069924446208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 43,
+							"h": 43,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 525,
+							"h": 43,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 43,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 525,
+							"h": 43,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 956632069924446200,
+					"source_status_id_str": "956632069924446208",
+					"source_user_id": 578224522,
+					"source_user_id_str": "578224522"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 956632004149284900,
+					"id_str": "956632004149284870",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/DUajvUQWkAYCwfu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUajvUQWkAYCwfu.jpg",
+					"url": "https://t.co/VJ4zwh4Txt",
+					"display_url": "pic.twitter.com/VJ4zwh4Txt",
+					"expanded_url": "https://twitter.com/MitsukuChatbot/status/956632069924446208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 43,
+							"h": 43,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 525,
+							"h": 43,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 43,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 525,
+							"h": 43,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 956632069924446200,
+					"source_status_id_str": "956632069924446208",
+					"source_user_id": 578224522,
+					"source_user_id_str": "578224522"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37346,
+			"friends_count": 15163,
+			"listed_count": 1053,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10878,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10609,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 25 20:57:13 +0000 2018",
+			"id": 956632069924446200,
+			"id_str": "956632069924446208",
+			"text": "Ouch! 😀 https://t.co/VJ4zwh4Txt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 956632004149284900,
+						"id_str": "956632004149284870",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/media/DUajvUQWkAYCwfu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUajvUQWkAYCwfu.jpg",
+						"url": "https://t.co/VJ4zwh4Txt",
+						"display_url": "pic.twitter.com/VJ4zwh4Txt",
+						"expanded_url": "https://twitter.com/MitsukuChatbot/status/956632069924446208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 43,
+								"h": 43,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 525,
+								"h": 43,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 525,
+								"h": 43,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 525,
+								"h": 43,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 956632004149284900,
+						"id_str": "956632004149284870",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/media/DUajvUQWkAYCwfu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUajvUQWkAYCwfu.jpg",
+						"url": "https://t.co/VJ4zwh4Txt",
+						"display_url": "pic.twitter.com/VJ4zwh4Txt",
+						"expanded_url": "https://twitter.com/MitsukuChatbot/status/956632069924446208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 43,
+								"h": 43,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 525,
+								"h": 43,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 525,
+								"h": 43,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 525,
+								"h": 43,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 578224522,
+				"id_str": "578224522",
+				"name": "Mitsuku 🏅🏅🏅",
+				"screen_name": "MitsukuChatbot",
+				"location": "Goole, England",
+				"description": "AIML developer and Loebner Prize winner 2013/2016/2017. Tweets are by Mitsuku's programmer, Steve Worswick rather than the bot itself.",
+				"url": "https://t.co/tb0oFgymDI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tb0oFgymDI",
+								"expanded_url": "http://www.mitsuku.com",
+								"display_url": "mitsuku.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1965,
+				"friends_count": 330,
+				"listed_count": 82,
+				"created_at": "Sat May 12 17:03:12 +0000 2012",
+				"favourites_count": 8601,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4269,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438476746233368576/uo2xqzSU.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438476746233368576/uo2xqzSU.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/923663340538417152/cO_mk1Si_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/923663340538417152/cO_mk1Si_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/578224522/1509053542",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 11,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 26 09:44:03 +0000 2018",
+		"id": 956825051646500900,
+		"id_str": "956825051646500865",
+		"text": "#Savage #Chatbot Alert! 🔥💥 \n\nWanna feel the burn? Talk to https://t.co/TVhdteHoGV https://t.co/lA9aJnzUFs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Savage",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Chatbot",
+					"indices": [
+						8,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TVhdteHoGV",
+					"expanded_url": "http://www.mitsuku.com/",
+					"display_url": "mitsuku.com",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/lA9aJnzUFs",
+					"expanded_url": "https://twitter.com/MitsukuChatbot/status/956632069924446208",
+					"display_url": "twitter.com/MitsukuChatbot…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37346,
+			"friends_count": 15163,
+			"listed_count": 1053,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10878,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10609,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 956632069924446200,
+		"quoted_status_id_str": "956632069924446208",
+		"quoted_status": {
+			"created_at": "Thu Jan 25 20:57:13 +0000 2018",
+			"id": 956632069924446200,
+			"id_str": "956632069924446208",
+			"text": "Ouch! 😀 https://t.co/VJ4zwh4Txt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 956632004149284900,
+						"id_str": "956632004149284870",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/media/DUajvUQWkAYCwfu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUajvUQWkAYCwfu.jpg",
+						"url": "https://t.co/VJ4zwh4Txt",
+						"display_url": "pic.twitter.com/VJ4zwh4Txt",
+						"expanded_url": "https://twitter.com/MitsukuChatbot/status/956632069924446208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 43,
+								"h": 43,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 525,
+								"h": 43,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 525,
+								"h": 43,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 525,
+								"h": 43,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 956632004149284900,
+						"id_str": "956632004149284870",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/media/DUajvUQWkAYCwfu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUajvUQWkAYCwfu.jpg",
+						"url": "https://t.co/VJ4zwh4Txt",
+						"display_url": "pic.twitter.com/VJ4zwh4Txt",
+						"expanded_url": "https://twitter.com/MitsukuChatbot/status/956632069924446208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 43,
+								"h": 43,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 525,
+								"h": 43,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 525,
+								"h": 43,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 525,
+								"h": 43,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 578224522,
+				"id_str": "578224522",
+				"name": "Mitsuku 🏅🏅🏅",
+				"screen_name": "MitsukuChatbot",
+				"location": "Goole, England",
+				"description": "AIML developer and Loebner Prize winner 2013/2016/2017. Tweets are by Mitsuku's programmer, Steve Worswick rather than the bot itself.",
+				"url": "https://t.co/tb0oFgymDI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tb0oFgymDI",
+								"expanded_url": "http://www.mitsuku.com",
+								"display_url": "mitsuku.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1965,
+				"friends_count": 330,
+				"listed_count": 82,
+				"created_at": "Sat May 12 17:03:12 +0000 2012",
+				"favourites_count": 8601,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4269,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438476746233368576/uo2xqzSU.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438476746233368576/uo2xqzSU.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/923663340538417152/cO_mk1Si_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/923663340538417152/cO_mk1Si_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/578224522/1509053542",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 26 09:17:56 +0000 2018",
+		"id": 956818475749490700,
+		"id_str": "956818475749490689",
+		"text": "RT @debbiediscovers: A machine learning algorithm walked into a bar. \n\nThe bartender asked, “What would you like to drink?” \n\nThe algorithm…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37346,
+			"friends_count": 15163,
+			"listed_count": 1053,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10878,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10609,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 17 23:33:48 +0000 2017",
+			"id": 942538346651201500,
+			"id_str": "942538346651201536",
+			"text": "A machine learning algorithm walked into a bar. \n\nThe bartender asked, “What would you like to drink?” \n\nThe algori… https://t.co/htqBDdxdQ9",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/htqBDdxdQ9",
+						"expanded_url": "https://twitter.com/i/web/status/942538346651201536",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+				"url": "https://t.co/1ZPsVnusbG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnusbG",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37346,
+				"friends_count": 15163,
+				"listed_count": 1053,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 10878,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10609,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4586,
+			"favorite_count": 9735,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4586,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jan 26 08:19:18 +0000 2018",
 		"id": 956803720414601200,
 		"id_str": "956803720414601216",
