@@ -1,6 +1,1575 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sun Jan 28 08:24:47 +0000 2018",
+		"id": 957529875434283000,
+		"id_str": "957529875434283008",
+		"text": "RT @TamaraMcCleary: How 1 #Tech #Entrepreneur Is Harnessing Her Strength to Lift Up Other #Women of Color https://t.co/xgEksjGySB via @POPS…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Tech",
+					"indices": [
+						26,
+						31
+					]
+				},
+				{
+					"text": "Entrepreneur",
+					"indices": [
+						32,
+						45
+					]
+				},
+				{
+					"text": "Women",
+					"indices": [
+						90,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TamaraMcCleary",
+					"name": "Tamara McCleary",
+					"id": 2307675307,
+					"id_str": "2307675307",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xgEksjGySB",
+					"expanded_url": "https://www.popsugar.com/news/Tech-Entrepreneur-Clinay-Cameron-Interview-44487233",
+					"display_url": "popsugar.com/news/Tech-Entr…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37287,
+			"friends_count": 15540,
+			"listed_count": 1052,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10962,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10660,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 28 08:16:00 +0000 2018",
+			"id": 957527667548487700,
+			"id_str": "957527667548487680",
+			"text": "How 1 #Tech #Entrepreneur Is Harnessing Her Strength to Lift Up Other #Women of Color https://t.co/xgEksjGySB via… https://t.co/NceXZnackt",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Tech",
+						"indices": [
+							6,
+							11
+						]
+					},
+					{
+						"text": "Entrepreneur",
+						"indices": [
+							12,
+							25
+						]
+					},
+					{
+						"text": "Women",
+						"indices": [
+							70,
+							76
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xgEksjGySB",
+						"expanded_url": "https://www.popsugar.com/news/Tech-Entrepreneur-Clinay-Cameron-Interview-44487233",
+						"display_url": "popsugar.com/news/Tech-Entr…",
+						"indices": [
+							86,
+							109
+						]
+					},
+					{
+						"url": "https://t.co/NceXZnackt",
+						"expanded_url": "https://twitter.com/i/web/status/957527667548487680",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2307675307,
+				"id_str": "2307675307",
+				"name": "Tamara McCleary",
+				"screen_name": "TamaraMcCleary",
+				"location": "Boulder, CO",
+				"description": "#CEO @ThuliumCo | Top 25 #CMO #CIO #AI #AR #VR #IoT #BigData #MarTech Influencer | #Leadership #Marketing #DigitalTransformation Speaker | #WEF18 #DTECH2018",
+				"url": "https://t.co/vhy3st6Cnc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vhy3st6Cnc",
+								"expanded_url": "http://TamaraMcCleary.com",
+								"display_url": "TamaraMcCleary.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 272076,
+				"friends_count": 80039,
+				"listed_count": 7687,
+				"created_at": "Fri Jan 24 03:50:40 +0000 2014",
+				"favourites_count": 111595,
+				"utc_offset": -25200,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 82368,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/742144800745357313/jROm3OL7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/742144800745357313/jROm3OL7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2307675307/1512330885",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 13,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 28 08:21:28 +0000 2018",
+		"id": 957529044559396900,
+		"id_str": "957529044559396864",
+		"text": "RT @digitalsurgeons: 7 Resources for kickstarting #DesignThinking @DigitalSurgeons https://t.co/VxMFeJn9w4 #Design https://t.co/3AxtZGBVKj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DesignThinking",
+					"indices": [
+						50,
+						65
+					]
+				},
+				{
+					"text": "Design",
+					"indices": [
+						107,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "digitalsurgeons",
+					"name": "Digital Surgeons",
+					"id": 18189130,
+					"id_str": "18189130",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "digitalsurgeons",
+					"name": "Digital Surgeons",
+					"id": 18189130,
+					"id_str": "18189130",
+					"indices": [
+						66,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VxMFeJn9w4",
+					"expanded_url": "https://buff.ly/2DjZjx6",
+					"display_url": "buff.ly/2DjZjx6",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 956512235655868400,
+					"id_str": "956512235655868417",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DUY2z32VMAEx4J3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUY2z32VMAEx4J3.jpg",
+					"url": "https://t.co/3AxtZGBVKj",
+					"display_url": "pic.twitter.com/3AxtZGBVKj",
+					"expanded_url": "https://twitter.com/digitalsurgeons/status/956512237149216768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 956512237149216800,
+					"source_status_id_str": "956512237149216768",
+					"source_user_id": 18189130,
+					"source_user_id_str": "18189130"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 956512235655868400,
+					"id_str": "956512235655868417",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DUY2z32VMAEx4J3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUY2z32VMAEx4J3.jpg",
+					"url": "https://t.co/3AxtZGBVKj",
+					"display_url": "pic.twitter.com/3AxtZGBVKj",
+					"expanded_url": "https://twitter.com/digitalsurgeons/status/956512237149216768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 956512237149216800,
+					"source_status_id_str": "956512237149216768",
+					"source_user_id": 18189130,
+					"source_user_id_str": "18189130"
+				},
+				{
+					"id": 956512234108174300,
+					"id_str": "956512234108174336",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DUY2zyFVQAAQ34X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUY2zyFVQAAQ34X.jpg",
+					"url": "https://t.co/3AxtZGBVKj",
+					"display_url": "pic.twitter.com/3AxtZGBVKj",
+					"expanded_url": "https://twitter.com/digitalsurgeons/status/956512237149216768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 956512237149216800,
+					"source_status_id_str": "956512237149216768",
+					"source_user_id": 18189130,
+					"source_user_id_str": "18189130"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37287,
+			"friends_count": 15540,
+			"listed_count": 1052,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10962,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10660,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 25 13:01:03 +0000 2018",
+			"id": 956512237149216800,
+			"id_str": "956512237149216768",
+			"text": "7 Resources for kickstarting #DesignThinking @DigitalSurgeons https://t.co/VxMFeJn9w4 #Design https://t.co/3AxtZGBVKj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DesignThinking",
+						"indices": [
+							29,
+							44
+						]
+					},
+					{
+						"text": "Design",
+						"indices": [
+							86,
+							93
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "digitalsurgeons",
+						"name": "Digital Surgeons",
+						"id": 18189130,
+						"id_str": "18189130",
+						"indices": [
+							45,
+							61
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VxMFeJn9w4",
+						"expanded_url": "https://buff.ly/2DjZjx6",
+						"display_url": "buff.ly/2DjZjx6",
+						"indices": [
+							62,
+							85
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 956512235655868400,
+						"id_str": "956512235655868417",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DUY2z32VMAEx4J3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUY2z32VMAEx4J3.jpg",
+						"url": "https://t.co/3AxtZGBVKj",
+						"display_url": "pic.twitter.com/3AxtZGBVKj",
+						"expanded_url": "https://twitter.com/digitalsurgeons/status/956512237149216768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 956512235655868400,
+						"id_str": "956512235655868417",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DUY2z32VMAEx4J3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUY2z32VMAEx4J3.jpg",
+						"url": "https://t.co/3AxtZGBVKj",
+						"display_url": "pic.twitter.com/3AxtZGBVKj",
+						"expanded_url": "https://twitter.com/digitalsurgeons/status/956512237149216768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 956512234108174300,
+						"id_str": "956512234108174336",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DUY2zyFVQAAQ34X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUY2zyFVQAAQ34X.jpg",
+						"url": "https://t.co/3AxtZGBVKj",
+						"display_url": "pic.twitter.com/3AxtZGBVKj",
+						"expanded_url": "https://twitter.com/digitalsurgeons/status/956512237149216768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 400,
+								"h": 280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 280,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18189130,
+				"id_str": "18189130",
+				"name": "Digital Surgeons",
+				"screen_name": "digitalsurgeons",
+				"location": "New Haven | NYC | Vancouver",
+				"description": "We Design Demand.™ We’re a technology-enabled, outcome-obsessed agency that knows moving the needle is all that matters.",
+				"url": "https://t.co/souakK9ALa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/souakK9ALa",
+								"expanded_url": "http://www.digitalsurgeons.com",
+								"display_url": "digitalsurgeons.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3804,
+				"friends_count": 382,
+				"listed_count": 233,
+				"created_at": "Wed Dec 17 13:58:02 +0000 2008",
+				"favourites_count": 246,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2885,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "232323",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/115979354/newdstwitterback.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/115979354/newdstwitterback.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/888032940772478976/IEeppF_5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/888032940772478976/IEeppF_5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18189130/1500558543",
+				"profile_link_color": "E94B20",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "3D3E43",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 28 08:21:11 +0000 2018",
+		"id": 957528969829478400,
+		"id_str": "957528969829478400",
+		"text": "RT @digitalsurgeons: Why we should be disagreeing more at work via @HBR https://t.co/bkuNz0ZVuA #work #success https://t.co/rekzxUUTb7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "work",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "success",
+					"indices": [
+						102,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "digitalsurgeons",
+					"name": "Digital Surgeons",
+					"id": 18189130,
+					"id_str": "18189130",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "HBR",
+					"name": "hyunbr",
+					"id": 132755292,
+					"id_str": "132755292",
+					"indices": [
+						67,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bkuNz0ZVuA",
+					"expanded_url": "https://buff.ly/2D5UJiE",
+					"display_url": "buff.ly/2D5UJiE",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 956943320869056500,
+					"id_str": "956943320869056512",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DUe-4VaVMAA9Ync.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUe-4VaVMAA9Ync.jpg",
+					"url": "https://t.co/rekzxUUTb7",
+					"display_url": "pic.twitter.com/rekzxUUTb7",
+					"expanded_url": "https://twitter.com/digitalsurgeons/status/956943323247333380/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 956943323247333400,
+					"source_status_id_str": "956943323247333380",
+					"source_user_id": 18189130,
+					"source_user_id_str": "18189130"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 956943320869056500,
+					"id_str": "956943320869056512",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DUe-4VaVMAA9Ync.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUe-4VaVMAA9Ync.jpg",
+					"url": "https://t.co/rekzxUUTb7",
+					"display_url": "pic.twitter.com/rekzxUUTb7",
+					"expanded_url": "https://twitter.com/digitalsurgeons/status/956943323247333380/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 956943323247333400,
+					"source_status_id_str": "956943323247333380",
+					"source_user_id": 18189130,
+					"source_user_id_str": "18189130"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37287,
+			"friends_count": 15540,
+			"listed_count": 1052,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10962,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10660,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 26 17:34:02 +0000 2018",
+			"id": 956943323247333400,
+			"id_str": "956943323247333380",
+			"text": "Why we should be disagreeing more at work via @HBR https://t.co/bkuNz0ZVuA #work #success https://t.co/rekzxUUTb7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "work",
+						"indices": [
+							75,
+							80
+						]
+					},
+					{
+						"text": "success",
+						"indices": [
+							81,
+							89
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HBR",
+						"name": "hyunbr",
+						"id": 132755292,
+						"id_str": "132755292",
+						"indices": [
+							46,
+							50
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/bkuNz0ZVuA",
+						"expanded_url": "https://buff.ly/2D5UJiE",
+						"display_url": "buff.ly/2D5UJiE",
+						"indices": [
+							51,
+							74
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 956943320869056500,
+						"id_str": "956943320869056512",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DUe-4VaVMAA9Ync.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUe-4VaVMAA9Ync.jpg",
+						"url": "https://t.co/rekzxUUTb7",
+						"display_url": "pic.twitter.com/rekzxUUTb7",
+						"expanded_url": "https://twitter.com/digitalsurgeons/status/956943323247333380/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 956943320869056500,
+						"id_str": "956943320869056512",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DUe-4VaVMAA9Ync.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUe-4VaVMAA9Ync.jpg",
+						"url": "https://t.co/rekzxUUTb7",
+						"display_url": "pic.twitter.com/rekzxUUTb7",
+						"expanded_url": "https://twitter.com/digitalsurgeons/status/956943323247333380/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18189130,
+				"id_str": "18189130",
+				"name": "Digital Surgeons",
+				"screen_name": "digitalsurgeons",
+				"location": "New Haven | NYC | Vancouver",
+				"description": "We Design Demand.™ We’re a technology-enabled, outcome-obsessed agency that knows moving the needle is all that matters.",
+				"url": "https://t.co/souakK9ALa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/souakK9ALa",
+								"expanded_url": "http://www.digitalsurgeons.com",
+								"display_url": "digitalsurgeons.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3804,
+				"friends_count": 382,
+				"listed_count": 233,
+				"created_at": "Wed Dec 17 13:58:02 +0000 2008",
+				"favourites_count": 246,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2885,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "232323",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/115979354/newdstwitterback.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/115979354/newdstwitterback.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/888032940772478976/IEeppF_5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/888032940772478976/IEeppF_5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18189130/1500558543",
+				"profile_link_color": "E94B20",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "3D3E43",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 28 08:18:25 +0000 2018",
+		"id": 957528274594234400,
+		"id_str": "957528274594234369",
+		"text": "Twitter now lets advertisers sponsor publishers’ Moments https://t.co/WJNs2dtKys via @techcrunch",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TechCrunch",
+					"name": "TechCrunch",
+					"id": 816653,
+					"id_str": "816653",
+					"indices": [
+						85,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WJNs2dtKys",
+					"expanded_url": "http://tcrn.ch/2rKU6Kc",
+					"display_url": "tcrn.ch/2rKU6Kc",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37287,
+			"friends_count": 15540,
+			"listed_count": 1052,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10962,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10660,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 28 07:27:26 +0000 2018",
+		"id": 957515445757608000,
+		"id_str": "957515445757607937",
+		"text": "RT @Steph1lee: Instagram Ads: The Incredible How-To Guide with FAQ and Tips https://t.co/WQ8El7z308 #instagrammarketing #instagram #smm #gr…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "instagrammarketing",
+					"indices": [
+						100,
+						119
+					]
+				},
+				{
+					"text": "instagram",
+					"indices": [
+						120,
+						130
+					]
+				},
+				{
+					"text": "smm",
+					"indices": [
+						131,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Steph1lee",
+					"name": "Steph L Lee",
+					"id": 721241974880120800,
+					"id_str": "721241974880120832",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WQ8El7z308",
+					"expanded_url": "https://buff.ly/2nknO38",
+					"display_url": "buff.ly/2nknO38",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37287,
+			"friends_count": 15540,
+			"listed_count": 1052,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10962,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10660,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 27 16:35:00 +0000 2018",
+			"id": 957290857538912300,
+			"id_str": "957290857538912258",
+			"text": "Instagram Ads: The Incredible How-To Guide with FAQ and Tips https://t.co/WQ8El7z308 #instagrammarketing #instagram… https://t.co/zfKfpg9lZe",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "instagrammarketing",
+						"indices": [
+							85,
+							104
+						]
+					},
+					{
+						"text": "instagram",
+						"indices": [
+							105,
+							115
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WQ8El7z308",
+						"expanded_url": "https://buff.ly/2nknO38",
+						"display_url": "buff.ly/2nknO38",
+						"indices": [
+							61,
+							84
+						]
+					},
+					{
+						"url": "https://t.co/zfKfpg9lZe",
+						"expanded_url": "https://twitter.com/i/web/status/957290857538912258",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 721241974880120800,
+				"id_str": "721241974880120832",
+				"name": "Steph L Lee",
+				"screen_name": "Steph1lee",
+				"location": "",
+				"description": "Social Media Enthusiast, Instagram Expert Algorithm Cracker and Growthhacker.  Get 1,200 likes on Instagram for 5 days FREE! Link in bio (INVITE ONLY)",
+				"url": "https://t.co/FUXaNqK8YF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FUXaNqK8YF",
+								"expanded_url": "https://getfuelgram.com/fuelgroups/U4BF1FIG",
+								"display_url": "getfuelgram.com/fuelgroups/U4B…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 721,
+				"friends_count": 966,
+				"listed_count": 20,
+				"created_at": "Sat Apr 16 07:41:01 +0000 2016",
+				"favourites_count": 268,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 400,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/726518533476114433/7s2BXRRa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/726518533476114433/7s2BXRRa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/721241974880120832/1461865216",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 28 02:51:34 +0000 2018",
 		"id": 957446018840240100,
 		"id_str": "957446018840240128",
