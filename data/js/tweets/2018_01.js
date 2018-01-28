@@ -1,6 +1,622 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sun Jan 28 16:00:33 +0000 2018",
+		"id": 957644573639102500,
+		"id_str": "957644573639102465",
+		"text": "RT @ICTEvangelist: I’m very pleased to be able to launch the Periodic Table of iOS Apps for AR &amp; VR 🤔💡🏆💫\n\nBlog post plus hi-res &amp; interacti…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ICTEvangelist",
+					"name": "Mark Anderson",
+					"id": 114015711,
+					"id_str": "114015711",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37292,
+			"friends_count": 15576,
+			"listed_count": 1055,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10962,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10664,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 24 16:35:44 +0000 2018",
+			"id": 956203879741444100,
+			"id_str": "956203879741444096",
+			"text": "I’m very pleased to be able to launch the Periodic Table of iOS Apps for AR &amp; VR 🤔💡🏆💫\n\nBlog post plus hi-res &amp; inte… https://t.co/aD7PPnYROt",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aD7PPnYROt",
+						"expanded_url": "https://twitter.com/i/web/status/956203879741444096",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							125,
+							148
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 114015711,
+				"id_str": "114015711",
+				"name": "Mark Anderson",
+				"screen_name": "ICTEvangelist",
+				"location": "Cardiff, Wales",
+				"description": "ICT Evangelist. Educator, Speaker, Consultant, Blogger & Author. Pay it forward. ITL Associate. ADE/GCI/MIE.",
+				"url": "https://t.co/mLHOBlDBH1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mLHOBlDBH1",
+								"expanded_url": "http://ictevangelist.com",
+								"display_url": "ictevangelist.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47747,
+				"friends_count": 1831,
+				"listed_count": 1709,
+				"created_at": "Sat Feb 13 20:23:23 +0000 2010",
+				"favourites_count": 17097,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 109870,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/603825034990329856/SK_MaWf1.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/603825034990329856/SK_MaWf1.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/953977961652342784/5Gblt4MI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/953977961652342784/5Gblt4MI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/114015711/1502112811",
+				"profile_link_color": "34495E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 387,
+			"favorite_count": 675,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 387,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 28 15:30:08 +0000 2018",
+		"id": 957636920326180900,
+		"id_str": "957636920326180865",
+		"text": "RT @denottione: 19 #webdesign trends for 2018 | @webflowapp https://t.co/x2TiVbFXrM https://t.co/XxaAuUx6cX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "webdesign",
+					"indices": [
+						19,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "denottione",
+					"name": "DeNottiOne",
+					"id": 1715876323,
+					"id_str": "1715876323",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "webflowapp",
+					"name": "Webflow",
+					"id": 403930194,
+					"id_str": "403930194",
+					"indices": [
+						48,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x2TiVbFXrM",
+					"expanded_url": "https://buff.ly/2njRqhs",
+					"display_url": "buff.ly/2njRqhs",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 957180134787829800,
+					"id_str": "957180134787829760",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/DUiWQuAW0AAnkbE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUiWQuAW0AAnkbE.jpg",
+					"url": "https://t.co/XxaAuUx6cX",
+					"display_url": "pic.twitter.com/XxaAuUx6cX",
+					"expanded_url": "https://twitter.com/denottione/status/957180136801128448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 538,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1023,
+							"h": 538,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 957180136801128400,
+					"source_status_id_str": "957180136801128448",
+					"source_user_id": 1715876323,
+					"source_user_id_str": "1715876323"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 957180134787829800,
+					"id_str": "957180134787829760",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/DUiWQuAW0AAnkbE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUiWQuAW0AAnkbE.jpg",
+					"url": "https://t.co/XxaAuUx6cX",
+					"display_url": "pic.twitter.com/XxaAuUx6cX",
+					"expanded_url": "https://twitter.com/denottione/status/957180136801128448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 538,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1023,
+							"h": 538,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 957180136801128400,
+					"source_status_id_str": "957180136801128448",
+					"source_user_id": 1715876323,
+					"source_user_id_str": "1715876323"
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37292,
+			"friends_count": 15576,
+			"listed_count": 1055,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10962,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10664,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 27 09:15:02 +0000 2018",
+			"id": 957180136801128400,
+			"id_str": "957180136801128448",
+			"text": "19 #webdesign trends for 2018 | @webflowapp https://t.co/x2TiVbFXrM https://t.co/XxaAuUx6cX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "webdesign",
+						"indices": [
+							3,
+							13
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "webflowapp",
+						"name": "Webflow",
+						"id": 403930194,
+						"id_str": "403930194",
+						"indices": [
+							32,
+							43
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/x2TiVbFXrM",
+						"expanded_url": "https://buff.ly/2njRqhs",
+						"display_url": "buff.ly/2njRqhs",
+						"indices": [
+							44,
+							67
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 957180134787829800,
+						"id_str": "957180134787829760",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DUiWQuAW0AAnkbE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUiWQuAW0AAnkbE.jpg",
+						"url": "https://t.co/XxaAuUx6cX",
+						"display_url": "pic.twitter.com/XxaAuUx6cX",
+						"expanded_url": "https://twitter.com/denottione/status/957180136801128448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 358,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1023,
+								"h": 538,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1023,
+								"h": 538,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 957180134787829800,
+						"id_str": "957180134787829760",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DUiWQuAW0AAnkbE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUiWQuAW0AAnkbE.jpg",
+						"url": "https://t.co/XxaAuUx6cX",
+						"display_url": "pic.twitter.com/XxaAuUx6cX",
+						"expanded_url": "https://twitter.com/denottione/status/957180136801128448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 358,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1023,
+								"h": 538,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1023,
+								"h": 538,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1715876323,
+				"id_str": "1715876323",
+				"name": "DeNottiOne",
+				"screen_name": "denottione",
+				"location": "space",
+				"description": "#Digital #Designer, #Web #Developer, #SEO, 5D free trial for 600 powerlikes from Fuelgram link in bio",
+				"url": "https://t.co/prX7Gd4c17",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/prX7Gd4c17",
+								"expanded_url": "https://bit.ly/600-Free-IG-Likes",
+								"display_url": "bit.ly/600-Free-IG-Li…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1442,
+				"friends_count": 2033,
+				"listed_count": 68,
+				"created_at": "Sat Aug 31 14:33:57 +0000 2013",
+				"favourites_count": 399,
+				"utc_offset": -39600,
+				"time_zone": "International Date Line West",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5084,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/635140767296548864/4RrozagU.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/635140767296548864/4RrozagU.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/635139540693356544/8FTAGffk_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/635139540693356544/8FTAGffk_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1715876323/1475087477",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 28 13:30:24 +0000 2018",
 		"id": 957606790052700200,
 		"id_str": "957606790052700160",
