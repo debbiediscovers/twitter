@@ -1,6 +1,1483 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sun Jan 28 21:46:52 +0000 2018",
+		"id": 957731729115988000,
+		"id_str": "957731729115987968",
+		"text": "RT @debbiediscovers: @cocteau Great piece guys. Thousands of fake bots providers on the dark net. Why did so many use Devumi? Also if Devum…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "cocteau",
+					"name": "Mark Hansen",
+					"id": 20743,
+					"id_str": "20743",
+					"indices": [
+						21,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37270,
+			"friends_count": 15616,
+			"listed_count": 1052,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10972,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10674,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 28 21:46:42 +0000 2018",
+			"id": 957731686178947100,
+			"id_str": "957731686178947073",
+			"text": "@cocteau Great piece guys. Thousands of fake bots providers on the dark net. Why did so many use Devumi? Also if De… https://t.co/pWQMQcUKKz",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cocteau",
+						"name": "Mark Hansen",
+						"id": 20743,
+						"id_str": "20743",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/pWQMQcUKKz",
+						"expanded_url": "https://twitter.com/i/web/status/957731686178947073",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 957613471151030300,
+			"in_reply_to_status_id_str": "957613471151030273",
+			"in_reply_to_user_id": 20743,
+			"in_reply_to_user_id_str": "20743",
+			"in_reply_to_screen_name": "cocteau",
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+				"url": "https://t.co/1ZPsVnusbG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnusbG",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37270,
+				"friends_count": 15616,
+				"listed_count": 1052,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 10972,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10674,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 28 21:46:42 +0000 2018",
+		"id": 957731686178947100,
+		"id_str": "957731686178947073",
+		"text": "@cocteau Great piece guys. Thousands of fake bots providers on the dark net. Why did so many use Devumi? Also if De… https://t.co/pWQMQcUKKz",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cocteau",
+					"name": "Mark Hansen",
+					"id": 20743,
+					"id_str": "20743",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pWQMQcUKKz",
+					"expanded_url": "https://twitter.com/i/web/status/957731686178947073",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 957613471151030300,
+		"in_reply_to_status_id_str": "957613471151030273",
+		"in_reply_to_user_id": 20743,
+		"in_reply_to_user_id_str": "20743",
+		"in_reply_to_screen_name": "cocteau",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37270,
+			"friends_count": 15616,
+			"listed_count": 1052,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10972,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10674,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 28 21:37:26 +0000 2018",
+		"id": 957729356410859500,
+		"id_str": "957729356410859520",
+		"text": "RT @hmason: This way, someone looking for me might see 100 impersonator bots, but they would also see 100s of my bots, all pointing back to…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hmason",
+					"name": "Hilary Mason",
+					"id": 765548,
+					"id_str": "765548",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37270,
+			"friends_count": 15616,
+			"listed_count": 1052,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10972,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10674,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 28 15:37:13 +0000 2018",
+			"id": 957638702179737600,
+			"id_str": "957638702179737605",
+			"text": "This way, someone looking for me might see 100 impersonator bots, but they would also see 100s of my bots, all poin… https://t.co/7kuP1pzmA9",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7kuP1pzmA9",
+						"expanded_url": "https://twitter.com/i/web/status/957638702179737605",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 957638700887920600,
+			"in_reply_to_status_id_str": "957638700887920640",
+			"in_reply_to_user_id": 765548,
+			"in_reply_to_user_id_str": "765548",
+			"in_reply_to_screen_name": "hmason",
+			"user": {
+				"id": 765548,
+				"id_str": "765548",
+				"name": "Hilary Mason",
+				"screen_name": "hmason",
+				"location": "NYC",
+				"description": "VP Research at @Cloudera. Founder at @FastForwardLabs. Data Scientist in Residence at @accel. I ♥ data and cheeseburgers.",
+				"url": "http://t.co/ijjKDNIVOE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ijjKDNIVOE",
+								"expanded_url": "http://www.hilarymason.com",
+								"display_url": "hilarymason.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 103748,
+				"friends_count": 1460,
+				"listed_count": 5108,
+				"created_at": "Sun Feb 11 21:22:24 +0000 2007",
+				"favourites_count": 10489,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17103,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/73787182/background_steampunk_smaller.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/73787182/background_steampunk_smaller.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948689418709323777/sTBM3vG0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948689418709323777/sTBM3vG0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/765548/1353033581",
+				"profile_link_color": "282F8A",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "AB892B",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 48,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 28 21:37:23 +0000 2018",
+		"id": 957729341575540700,
+		"id_str": "957729341575540736",
+		"text": "RT @hmason: The impersonator's namespace was very predictable (it was always \"hmason[a-z0-9*]\". I wrote my own bot creation script to fill…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hmason",
+					"name": "Hilary Mason",
+					"id": 765548,
+					"id_str": "765548",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37270,
+			"friends_count": 15616,
+			"listed_count": 1052,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10972,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10674,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 28 15:37:13 +0000 2018",
+			"id": 957638700887920600,
+			"id_str": "957638700887920640",
+			"text": "The impersonator's namespace was very predictable (it was always \"hmason[a-z0-9*]\". I wrote my own bot creation scr… https://t.co/IA4wttIBml",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IA4wttIBml",
+						"expanded_url": "https://twitter.com/i/web/status/957638700887920640",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 957638699633791000,
+			"in_reply_to_status_id_str": "957638699633790978",
+			"in_reply_to_user_id": 765548,
+			"in_reply_to_user_id_str": "765548",
+			"in_reply_to_screen_name": "hmason",
+			"user": {
+				"id": 765548,
+				"id_str": "765548",
+				"name": "Hilary Mason",
+				"screen_name": "hmason",
+				"location": "NYC",
+				"description": "VP Research at @Cloudera. Founder at @FastForwardLabs. Data Scientist in Residence at @accel. I ♥ data and cheeseburgers.",
+				"url": "http://t.co/ijjKDNIVOE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ijjKDNIVOE",
+								"expanded_url": "http://www.hilarymason.com",
+								"display_url": "hilarymason.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 103748,
+				"friends_count": 1460,
+				"listed_count": 5108,
+				"created_at": "Sun Feb 11 21:22:24 +0000 2007",
+				"favourites_count": 10489,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17103,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/73787182/background_steampunk_smaller.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/73787182/background_steampunk_smaller.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948689418709323777/sTBM3vG0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948689418709323777/sTBM3vG0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/765548/1353033581",
+				"profile_link_color": "282F8A",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "AB892B",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 118,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 28 21:37:17 +0000 2018",
+		"id": 957729316942397400,
+		"id_str": "957729316942397440",
+		"text": "RT @hmason: I did two things. 1) I got the help of a friend who was a Twitter engineer. This is apparently the only way to solve the proble…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hmason",
+					"name": "Hilary Mason",
+					"id": 765548,
+					"id_str": "765548",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37270,
+			"friends_count": 15616,
+			"listed_count": 1052,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10972,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10674,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 28 15:37:12 +0000 2018",
+			"id": 957638699633791000,
+			"id_str": "957638699633790978",
+			"text": "I did two things. 1) I got the help of a friend who was a Twitter engineer. This is apparently the only way to solv… https://t.co/AD829spqXJ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AD829spqXJ",
+						"expanded_url": "https://twitter.com/i/web/status/957638699633790978",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 957638697930887200,
+			"in_reply_to_status_id_str": "957638697930887168",
+			"in_reply_to_user_id": 765548,
+			"in_reply_to_user_id_str": "765548",
+			"in_reply_to_screen_name": "hmason",
+			"user": {
+				"id": 765548,
+				"id_str": "765548",
+				"name": "Hilary Mason",
+				"screen_name": "hmason",
+				"location": "NYC",
+				"description": "VP Research at @Cloudera. Founder at @FastForwardLabs. Data Scientist in Residence at @accel. I ♥ data and cheeseburgers.",
+				"url": "http://t.co/ijjKDNIVOE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ijjKDNIVOE",
+								"expanded_url": "http://www.hilarymason.com",
+								"display_url": "hilarymason.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 103748,
+				"friends_count": 1460,
+				"listed_count": 5108,
+				"created_at": "Sun Feb 11 21:22:24 +0000 2007",
+				"favourites_count": 10489,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17103,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/73787182/background_steampunk_smaller.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/73787182/background_steampunk_smaller.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948689418709323777/sTBM3vG0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948689418709323777/sTBM3vG0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/765548/1353033581",
+				"profile_link_color": "282F8A",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "AB892B",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 54,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 28 21:37:11 +0000 2018",
+		"id": 957729289625002000,
+		"id_str": "957729289625001990",
+		"text": "RT @hmason: This piece on the bot economy is excellent for many reasons! The presentation of data, code, and images in the story is fantast…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hmason",
+					"name": "Hilary Mason",
+					"id": 765548,
+					"id_str": "765548",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37270,
+			"friends_count": 15616,
+			"listed_count": 1052,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10972,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10674,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 28 15:37:11 +0000 2018",
+			"id": 957638693275226100,
+			"id_str": "957638693275226112",
+			"text": "This piece on the bot economy is excellent for many reasons! The presentation of data, code, and images in the stor… https://t.co/4UMMTZlahK",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4UMMTZlahK",
+						"expanded_url": "https://twitter.com/i/web/status/957638693275226112",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 765548,
+				"id_str": "765548",
+				"name": "Hilary Mason",
+				"screen_name": "hmason",
+				"location": "NYC",
+				"description": "VP Research at @Cloudera. Founder at @FastForwardLabs. Data Scientist in Residence at @accel. I ♥ data and cheeseburgers.",
+				"url": "http://t.co/ijjKDNIVOE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ijjKDNIVOE",
+								"expanded_url": "http://www.hilarymason.com",
+								"display_url": "hilarymason.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 103748,
+				"friends_count": 1460,
+				"listed_count": 5108,
+				"created_at": "Sun Feb 11 21:22:24 +0000 2007",
+				"favourites_count": 10489,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17103,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/73787182/background_steampunk_smaller.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/73787182/background_steampunk_smaller.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948689418709323777/sTBM3vG0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948689418709323777/sTBM3vG0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/765548/1353033581",
+				"profile_link_color": "282F8A",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "AB892B",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 957613471151030300,
+			"quoted_status_id_str": "957613471151030273",
+			"quoted_status": {
+				"created_at": "Sun Jan 28 13:56:57 +0000 2018",
+				"id": 957613471151030300,
+				"id_str": "957613471151030273",
+				"text": "[1/3] Today in the Sunday NewYorkTimes \"The Follower Factory.\" It looks at buying influence on social media and the… https://t.co/1QgwINNZEH",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/1QgwINNZEH",
+							"expanded_url": "https://twitter.com/i/web/status/957613471151030273",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 20743,
+					"id_str": "20743",
+					"name": "Mark Hansen",
+					"screen_name": "cocteau",
+					"location": "New York, New York",
+					"description": "Professor of Journalism at Columbia University and head of the David and Helen Gurley Brown Institute for Media Innovation - markh@columbia.edu",
+					"url": "https://t.co/0TxBqc89Cb",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/0TxBqc89Cb",
+									"expanded_url": "http://brown.columbia.edu",
+									"display_url": "brown.columbia.edu",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4047,
+					"friends_count": 515,
+					"listed_count": 276,
+					"created_at": "Fri Nov 24 19:11:30 +0000 2006",
+					"favourites_count": 72,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 2465,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "525252",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/577528243240058880/LPBFsV9k_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/577528243240058880/LPBFsV9k_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/20743/1426528179",
+					"profile_link_color": "999999",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 20,
+				"favorite_count": 61,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 204,
+			"favorite_count": 375,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 957613471151030300,
+		"quoted_status_id_str": "957613471151030273",
+		"retweet_count": 204,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 28 21:34:54 +0000 2018",
+		"id": 957728717744193500,
+		"id_str": "957728717744193536",
+		"text": "RT @BetteMidler: HOLY SHIT!!  THIS IS A MUST-READ!!!TheFollowerFactory via @NYTimes                   https://t.co/3XVEzmEUNm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BetteMidler",
+					"name": "Bette Midler",
+					"id": 139823781,
+					"id_str": "139823781",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						75,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3XVEzmEUNm",
+					"expanded_url": "https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html",
+					"display_url": "nytimes.com/interactive/20…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37270,
+			"friends_count": 15616,
+			"listed_count": 1052,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10972,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10674,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 28 17:48:21 +0000 2018",
+			"id": 957671704603648000,
+			"id_str": "957671704603648000",
+			"text": "HOLY SHIT!!  THIS IS A MUST-READ!!!TheFollowerFactory via @NYTimes                   https://t.co/3XVEzmEUNm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nytimes",
+						"name": "The New York Times",
+						"id": 807095,
+						"id_str": "807095",
+						"indices": [
+							58,
+							66
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3XVEzmEUNm",
+						"expanded_url": "https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html",
+						"display_url": "nytimes.com/interactive/20…",
+						"indices": [
+							85,
+							108
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 139823781,
+				"id_str": "139823781",
+				"name": "Bette Midler",
+				"screen_name": "BetteMidler",
+				"location": "New York, NY",
+				"description": "Pensive nymph, hausfrau and Martyr.",
+				"url": "https://t.co/7ODxSaP5Lc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7ODxSaP5Lc",
+								"expanded_url": "http://BetteMidler.com",
+								"display_url": "BetteMidler.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1328702,
+				"friends_count": 47,
+				"listed_count": 7720,
+				"created_at": "Mon May 03 20:00:36 +0000 2010",
+				"favourites_count": 221,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8171,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/583974732623585280/jmu1bYQY.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/583974732623585280/jmu1bYQY.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/889876848837967872/pG72I_0Q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/889876848837967872/pG72I_0Q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/139823781/1501459492",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 207,
+			"favorite_count": 480,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 207,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 28 19:25:33 +0000 2018",
 		"id": 957696166098911200,
 		"id_str": "957696166098911232",
