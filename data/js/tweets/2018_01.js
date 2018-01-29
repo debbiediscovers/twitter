@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Mon Jan 29 12:18:16 +0000 2018",
+		"id": 957951022911037400,
+		"id_str": "957951022911037440",
+		"text": "Woot woot not everyday you get a tweet from @wyclef! 🔥💥 Well donte @AskAaronLee @AgoraPulse 😍❤️ https://t.co/Hhaof7DRJb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wyclef",
+					"name": "Wyclef Jean",
+					"id": 20659839,
+					"id_str": "20659839",
+					"indices": [
+						44,
+						51
+					]
+				},
+				{
+					"screen_name": "AskAaronLee",
+					"name": "Aaron Lee",
+					"id": 25458378,
+					"id_str": "25458378",
+					"indices": [
+						67,
+						79
+					]
+				},
+				{
+					"screen_name": "AgoraPulse",
+					"name": "AgoraPulse",
+					"id": 281546383,
+					"id_str": "281546383",
+					"indices": [
+						80,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Hhaof7DRJb",
+					"expanded_url": "https://twitter.com/wyclef/status/957601815905886208",
+					"display_url": "twitter.com/wyclef/status/…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37266,
+			"friends_count": 15698,
+			"listed_count": 1056,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10985,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10699,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 957601815905886200,
+		"quoted_status_id_str": "957601815905886208",
+		"quoted_status": {
+			"created_at": "Sun Jan 28 13:10:38 +0000 2018",
+			"id": 957601815905886200,
+			"id_str": "957601815905886208",
+			"text": "@AskAaronLee I just downloaded @AgoraPulse and already loving it🙏🏾 recommendation came from @Maddi_says",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AskAaronLee",
+						"name": "Aaron Lee",
+						"id": 25458378,
+						"id_str": "25458378",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "AgoraPulse",
+						"name": "AgoraPulse",
+						"id": 281546383,
+						"id_str": "281546383",
+						"indices": [
+							31,
+							42
+						]
+					},
+					{
+						"screen_name": "Maddi_says",
+						"name": "Madeline Nelson",
+						"id": 744369242,
+						"id_str": "744369242",
+						"indices": [
+							92,
+							103
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 25458378,
+			"in_reply_to_user_id_str": "25458378",
+			"in_reply_to_screen_name": "AskAaronLee",
+			"user": {
+				"id": 20659839,
+				"id_str": "20659839",
+				"name": "Wyclef Jean",
+				"screen_name": "wyclef",
+				"location": "",
+				"description": "The Official and Only Wyclef Twitter Profile. #Carnival3 Deluxe Album OUT NOW: https://t.co/CM4Xp2vQPW",
+				"url": "https://t.co/A59JC6vsSL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/A59JC6vsSL",
+								"expanded_url": "http://www.wyclef.com",
+								"display_url": "wyclef.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/CM4Xp2vQPW",
+								"expanded_url": "https://open.spotify.com/album/1CYcnRiV2J9bWGCXbXrvQC?si=J5CxK4HxSzKK2Aix_iqXRQ",
+								"display_url": "open.spotify.com/album/1CYcnRiV…",
+								"indices": [
+									79,
+									102
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4315216,
+				"friends_count": 6008,
+				"listed_count": 13440,
+				"created_at": "Thu Feb 12 07:11:07 +0000 2009",
+				"favourites_count": 5650,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 32162,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "990000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450627631608651776/BzzpwDg8.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450627631608651776/BzzpwDg8.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877913955477446656/0Q160um2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877913955477446656/0Q160um2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20659839/1508955050",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 29 11:53:24 +0000 2018",
 		"id": 957944767433683000,
 		"id_str": "957944767433682944",
