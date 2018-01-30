@@ -1,6 +1,603 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 30 02:06:12 +0000 2018",
+		"id": 958159379722780700,
+		"id_str": "958159379722780672",
+		"text": "@PencilsOfPromis hi there, I'm trying to get in touch with Susie Harrison but her email bounced. Keen to discuss my… https://t.co/7cJznty15V",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PencilsOfPromis",
+					"name": "Pencils of Promise",
+					"id": 18369852,
+					"id_str": "18369852",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7cJznty15V",
+					"expanded_url": "https://twitter.com/i/web/status/958159379722780672",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 956648605833510900,
+		"in_reply_to_status_id_str": "956648605833510912",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37246,
+			"friends_count": 15795,
+			"listed_count": 1050,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10991,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10709,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 30 01:20:06 +0000 2018",
+		"id": 958147776214265900,
+		"id_str": "958147776214265856",
+		"text": "RT @futurism: One robot shows kids the \"roots\" of how to code. https://t.co/s8QN2h63Bb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "futurism",
+					"name": "Futurism",
+					"id": 2557446343,
+					"id_str": "2557446343",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 956570952573300700,
+					"id_str": "956570952573300736",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/956570952573300736/img/vr5rQ7HDmnRYzHOr.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/956570952573300736/img/vr5rQ7HDmnRYzHOr.jpg",
+					"url": "https://t.co/s8QN2h63Bb",
+					"display_url": "pic.twitter.com/s8QN2h63Bb",
+					"expanded_url": "https://twitter.com/futurism/status/956889465833734144/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 956889465833734100,
+					"source_status_id_str": "956889465833734144",
+					"source_user_id": 2557446343,
+					"source_user_id_str": "2557446343"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 956570952573300700,
+					"id_str": "956570952573300736",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/956570952573300736/img/vr5rQ7HDmnRYzHOr.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/956570952573300736/img/vr5rQ7HDmnRYzHOr.jpg",
+					"url": "https://t.co/s8QN2h63Bb",
+					"display_url": "pic.twitter.com/s8QN2h63Bb",
+					"expanded_url": "https://twitter.com/futurism/status/956889465833734144/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 956889465833734100,
+					"source_status_id_str": "956889465833734144",
+					"source_user_id": 2557446343,
+					"source_user_id_str": "2557446343",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 116951,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/956570952573300736/vid/480x480/KcIp0dTCutI5_NMu.mp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/956570952573300736/vid/720x720/wQc_khafd4efpb72.mp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/956570952573300736/vid/240x240/ABYClPOt5OgtxQjU.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/956570952573300736/pl/-hXTC2jE6NHekehk.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 2557446343,
+							"id_str": "2557446343",
+							"name": "Futurism",
+							"screen_name": "futurism",
+							"location": "Brooklyn, NY",
+							"description": "The science and tech that will shape our future",
+							"url": "https://t.co/Rshhpdbarg",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/Rshhpdbarg",
+											"expanded_url": "http://www.futurism.com",
+											"display_url": "futurism.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 159354,
+							"friends_count": 23,
+							"listed_count": 2810,
+							"created_at": "Mon Jun 09 19:52:26 +0000 2014",
+							"favourites_count": 503,
+							"utc_offset": -18000,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 20610,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/857314271792726016/iZPyYwKQ_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/857314271792726016/iZPyYwKQ_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2557446343/1493234597",
+							"profile_link_color": "0000FF",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37246,
+			"friends_count": 15795,
+			"listed_count": 1050,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10991,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10709,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 26 14:00:01 +0000 2018",
+			"id": 956889465833734100,
+			"id_str": "956889465833734144",
+			"text": "One robot shows kids the \"roots\" of how to code. https://t.co/s8QN2h63Bb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 956570952573300700,
+						"id_str": "956570952573300736",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/956570952573300736/img/vr5rQ7HDmnRYzHOr.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/956570952573300736/img/vr5rQ7HDmnRYzHOr.jpg",
+						"url": "https://t.co/s8QN2h63Bb",
+						"display_url": "pic.twitter.com/s8QN2h63Bb",
+						"expanded_url": "https://twitter.com/futurism/status/956889465833734144/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 956570952573300700,
+						"id_str": "956570952573300736",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/956570952573300736/img/vr5rQ7HDmnRYzHOr.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/956570952573300736/img/vr5rQ7HDmnRYzHOr.jpg",
+						"url": "https://t.co/s8QN2h63Bb",
+						"display_url": "pic.twitter.com/s8QN2h63Bb",
+						"expanded_url": "https://twitter.com/futurism/status/956889465833734144/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 116951,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/956570952573300736/vid/480x480/KcIp0dTCutI5_NMu.mp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/956570952573300736/vid/720x720/wQc_khafd4efpb72.mp4"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/956570952573300736/vid/240x240/ABYClPOt5OgtxQjU.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/956570952573300736/pl/-hXTC2jE6NHekehk.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2557446343,
+				"id_str": "2557446343",
+				"name": "Futurism",
+				"screen_name": "futurism",
+				"location": "Brooklyn, NY",
+				"description": "The science and tech that will shape our future",
+				"url": "https://t.co/Rshhpdbarg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Rshhpdbarg",
+								"expanded_url": "http://www.futurism.com",
+								"display_url": "futurism.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 159354,
+				"friends_count": 23,
+				"listed_count": 2810,
+				"created_at": "Mon Jun 09 19:52:26 +0000 2014",
+				"favourites_count": 503,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20610,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/857314271792726016/iZPyYwKQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/857314271792726016/iZPyYwKQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2557446343/1493234597",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 214,
+			"favorite_count": 420,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 214,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 30 01:10:01 +0000 2018",
 		"id": 958145238782025700,
 		"id_str": "958145238782025728",
