@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 30 05:11:13 +0000 2018",
+		"id": 958205942352420900,
+		"id_str": "958205942352420864",
+		"text": "RT @Oobahs: I made the shed I live in London's top-rated restaurant on TripAdvisor. Then I actually opened it. Ladies &amp; Gents, after months…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Oobahs",
+					"name": "Oobah Butler",
+					"id": 106936218,
+					"id_str": "106936218",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37247,
+			"friends_count": 15813,
+			"listed_count": 1051,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10993,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10712,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 06 12:17:49 +0000 2017",
+			"id": 938381964201087000,
+			"id_str": "938381964201086976",
+			"text": "I made the shed I live in London's top-rated restaurant on TripAdvisor. Then I actually opened it. Ladies &amp; Gents,… https://t.co/ih7XwOFdc1",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ih7XwOFdc1",
+						"expanded_url": "https://twitter.com/i/web/status/938381964201086976",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 106936218,
+				"id_str": "106936218",
+				"name": "Oobah Butler",
+				"screen_name": "Oobahs",
+				"location": "",
+				"description": "freelance writer: @vice @noiseymusic @shortlist @guardian etc. made music: @my_grey_horse make films, here's one: https://t.co/uzok0CGm5a",
+				"url": "https://t.co/I6EDuDYdlZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/I6EDuDYdlZ",
+								"expanded_url": "http://www.oobah.com",
+								"display_url": "oobah.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/uzok0CGm5a",
+								"expanded_url": "https://youtu.be/flrSEADBdyo",
+								"display_url": "youtu.be/flrSEADBdyo",
+								"indices": [
+									114,
+									137
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 13120,
+				"friends_count": 750,
+				"listed_count": 49,
+				"created_at": "Thu Jan 21 03:38:52 +0000 2010",
+				"favourites_count": 3736,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2085,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000007054825/bb14b2c5efde4fe17b7fc698a691e1ea.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000007054825/bb14b2c5efde4fe17b7fc698a691e1ea.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/911300302493581314/XgfQ6JjB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/911300302493581314/XgfQ6JjB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/106936218/1506105158",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2104,
+			"favorite_count": 3814,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2104,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 30 05:10:02 +0000 2018",
+		"id": 958205641520115700,
+		"id_str": "958205641520115712",
+		"text": "The combination of human and artificial intelligence will define humanity’s future https://t.co/iq8b8bzXok",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iq8b8bzXok",
+					"expanded_url": "https://techcrunch.com/2016/10/12/the-combination-of-human-and-artificial-intelligence-will-define-humanitys-future/",
+					"display_url": "techcrunch.com/2016/10/12/the…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://drumup.io\" rel=\"nofollow\">drumup.io</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37247,
+			"friends_count": 15813,
+			"listed_count": 1051,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 10993,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10712,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1454619192",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 30 03:19:28 +0000 2018",
 		"id": 958177818579357700,
 		"id_str": "958177818579357696",
