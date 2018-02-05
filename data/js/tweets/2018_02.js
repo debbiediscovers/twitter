@@ -1,6 +1,707 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 05 03:03:26 +0000 2018",
+		"id": 960348109552287700,
+		"id_str": "960348109552287744",
+		"text": "RT @NikkiElizDemere: There are 3 parts of a content mission statement, according to Content Inc. \n\n1. Core target audience \n2. Material tha…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NikkiElizDemere",
+					"name": "Nichole Elizabeth 🌻",
+					"id": 39099783,
+					"id_str": "39099783",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37353,
+			"friends_count": 18278,
+			"listed_count": 1062,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11078,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10834,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 04 01:10:10 +0000 2018",
+			"id": 959957215816966100,
+			"id_str": "959957215816966144",
+			"text": "There are 3 parts of a content mission statement, according to Content Inc. \n\n1. Core target audience \n2. Material… https://t.co/JGC8vzMdCm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JGC8vzMdCm",
+						"expanded_url": "https://twitter.com/i/web/status/959957215816966144",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39099783,
+				"id_str": "39099783",
+				"name": "Nichole Elizabeth 🌻",
+				"screen_name": "NikkiElizDemere",
+				"location": "Tampa, Florida",
+				"description": "Community Growth at @ZestisApp. Amateur Photographer. SaaS Consultant. Moderator at @ProductHunt & @GrowthHackers. Previously: Growth at @InboundOrg.",
+				"url": "https://t.co/fYEJXTdnwU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fYEJXTdnwU",
+								"expanded_url": "http://nicholeelizabethdemere.com/",
+								"display_url": "nicholeelizabethdemere.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 69052,
+				"friends_count": 57632,
+				"listed_count": 3208,
+				"created_at": "Sun May 10 19:48:34 +0000 2009",
+				"favourites_count": 47841,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 102591,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "474647",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494998340333867009/wiNg4Yyr.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494998340333867009/wiNg4Yyr.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/908780256563286016/GvMpwxua_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/908780256563286016/GvMpwxua_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39099783/1482217225",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "91DAB6",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "44c12398792e903e",
+				"url": "https://api.twitter.com/1.1/geo/id/44c12398792e903e.json",
+				"place_type": "city",
+				"name": "Westchase",
+				"full_name": "Westchase, FL",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-82.6485771,
+								28.038662
+							],
+							[
+								-82.5782626,
+								28.038662
+							],
+							[
+								-82.5782626,
+								28.0854399
+							],
+							[
+								-82.6485771,
+								28.0854399
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 55,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 05 03:03:19 +0000 2018",
+		"id": 960348082389975000,
+		"id_str": "960348082389975040",
+		"text": "RT @VladoBotsvadze: I'm blown away by this photo. https://t.co/9xx0eCBOzx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VladoBotsvadze",
+					"name": "Vladimer Botsvadze",
+					"id": 373883201,
+					"id_str": "373883201",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 959965727271866400,
+					"id_str": "959965727271866372",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DVJ7viqW0AQMEAg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DVJ7viqW0AQMEAg.jpg",
+					"url": "https://t.co/9xx0eCBOzx",
+					"display_url": "pic.twitter.com/9xx0eCBOzx",
+					"expanded_url": "https://twitter.com/VladoBotsvadze/status/959965754002231296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 711,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 574,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 711,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 959965754002231300,
+					"source_status_id_str": "959965754002231296",
+					"source_user_id": 373883201,
+					"source_user_id_str": "373883201"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 959965727271866400,
+					"id_str": "959965727271866372",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DVJ7viqW0AQMEAg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DVJ7viqW0AQMEAg.jpg",
+					"url": "https://t.co/9xx0eCBOzx",
+					"display_url": "pic.twitter.com/9xx0eCBOzx",
+					"expanded_url": "https://twitter.com/VladoBotsvadze/status/959965754002231296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 711,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 574,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 711,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 959965754002231300,
+					"source_status_id_str": "959965754002231296",
+					"source_user_id": 373883201,
+					"source_user_id_str": "373883201"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37353,
+			"friends_count": 18278,
+			"listed_count": 1062,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11078,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10834,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 04 01:44:05 +0000 2018",
+			"id": 959965754002231300,
+			"id_str": "959965754002231296",
+			"text": "I'm blown away by this photo. https://t.co/9xx0eCBOzx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 959965727271866400,
+						"id_str": "959965727271866372",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DVJ7viqW0AQMEAg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVJ7viqW0AQMEAg.jpg",
+						"url": "https://t.co/9xx0eCBOzx",
+						"display_url": "pic.twitter.com/9xx0eCBOzx",
+						"expanded_url": "https://twitter.com/VladoBotsvadze/status/959965754002231296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 711,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 574,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 711,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 959965727271866400,
+						"id_str": "959965727271866372",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DVJ7viqW0AQMEAg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVJ7viqW0AQMEAg.jpg",
+						"url": "https://t.co/9xx0eCBOzx",
+						"display_url": "pic.twitter.com/9xx0eCBOzx",
+						"expanded_url": "https://twitter.com/VladoBotsvadze/status/959965754002231296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 711,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 574,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 711,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 373883201,
+				"id_str": "373883201",
+				"name": "Vladimer Botsvadze",
+				"screen_name": "VladoBotsvadze",
+				"location": "NYC | London | Dubai | Shanghai",
+				"description": "Award-Winning Entrepreneur | Top 10 Marketing Influencer | Professor | Keynote Speaker | Fortune 500 Consultant | Trainer | Bookings: info@vladimerbotsvadze.com",
+				"url": "https://t.co/XgkQtWJUYz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XgkQtWJUYz",
+								"expanded_url": "http://www.vladimerbotsvadze.com",
+								"display_url": "vladimerbotsvadze.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45884,
+				"friends_count": 42557,
+				"listed_count": 4067,
+				"created_at": "Thu Sep 15 10:21:10 +0000 2011",
+				"favourites_count": 14150,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 68867,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/688345695053565952/eIVBBWM3.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/688345695053565952/eIVBBWM3.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/666239469130006528/7Ffprr69_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/666239469130006528/7Ffprr69_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/373883201/1509830314",
+				"profile_link_color": "000CF5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 83,
+			"favorite_count": 144,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 05 02:52:01 +0000 2018",
+		"id": 960345238781935600,
+		"id_str": "960345238781935616",
+		"text": "Google Chrome: Beware these malicious extensions that record everything you do https://t.co/KmozEw2ev6 via https://t.co/NupEN7XZSf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KmozEw2ev6",
+					"expanded_url": "http://www.zdnet.com/article/google-chrome-beware-these-malicious-extensions-that-record-everything-you-do/",
+					"display_url": "zdnet.com/article/google…",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/NupEN7XZSf",
+					"expanded_url": "https://drumup.io",
+					"display_url": "drumup.io",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://drumup.io\" rel=\"nofollow\">drumup.io</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37353,
+			"friends_count": 18278,
+			"listed_count": 1062,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11078,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10834,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 05 02:00:33 +0000 2018",
 		"id": 960332283059359700,
 		"id_str": "960332283059359746",
