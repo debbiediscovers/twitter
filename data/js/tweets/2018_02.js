@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 08 14:25:55 +0000 2018",
+		"id": 961607028102725600,
+		"id_str": "961607028102725633",
+		"text": "RT @positivesparks: What Analytics do you get from Twitter's API? https://t.co/Sj44ITH7CQ via @debbiediscovers https://t.co/PLwLJcVRTE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "positivesparks",
+					"name": "Phil Byrne",
+					"id": 288739549,
+					"id_str": "288739549",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						94,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Sj44ITH7CQ",
+					"expanded_url": "http://bit.ly/2leKXDi",
+					"display_url": "bit.ly/2leKXDi",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 961510440646754300,
+					"id_str": "961510440646754304",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DVf4psaUQAAnEXX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DVf4psaUQAAnEXX.jpg",
+					"url": "https://t.co/PLwLJcVRTE",
+					"display_url": "pic.twitter.com/PLwLJcVRTE",
+					"expanded_url": "https://twitter.com/positivesparks/status/961510444149166080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 961510444149166100,
+					"source_status_id_str": "961510444149166080",
+					"source_user_id": 288739549,
+					"source_user_id_str": "288739549"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 961510440646754300,
+					"id_str": "961510440646754304",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DVf4psaUQAAnEXX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DVf4psaUQAAnEXX.jpg",
+					"url": "https://t.co/PLwLJcVRTE",
+					"display_url": "pic.twitter.com/PLwLJcVRTE",
+					"expanded_url": "https://twitter.com/positivesparks/status/961510444149166080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 961510444149166100,
+					"source_status_id_str": "961510444149166080",
+					"source_user_id": 288739549,
+					"source_user_id_str": "288739549"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37446,
+			"friends_count": 19222,
+			"listed_count": 1065,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11100,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 08 08:02:08 +0000 2018",
+			"id": 961510444149166100,
+			"id_str": "961510444149166080",
+			"text": "What Analytics do you get from Twitter's API? https://t.co/Sj44ITH7CQ via @debbiediscovers https://t.co/PLwLJcVRTE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							74,
+							90
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Sj44ITH7CQ",
+						"expanded_url": "http://bit.ly/2leKXDi",
+						"display_url": "bit.ly/2leKXDi",
+						"indices": [
+							46,
+							69
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 961510440646754300,
+						"id_str": "961510440646754304",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DVf4psaUQAAnEXX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVf4psaUQAAnEXX.jpg",
+						"url": "https://t.co/PLwLJcVRTE",
+						"display_url": "pic.twitter.com/PLwLJcVRTE",
+						"expanded_url": "https://twitter.com/positivesparks/status/961510444149166080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 961510440646754300,
+						"id_str": "961510440646754304",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DVf4psaUQAAnEXX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVf4psaUQAAnEXX.jpg",
+						"url": "https://t.co/PLwLJcVRTE",
+						"display_url": "pic.twitter.com/PLwLJcVRTE",
+						"expanded_url": "https://twitter.com/positivesparks/status/961510444149166080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 288739549,
+				"id_str": "288739549",
+				"name": "Phil Byrne",
+				"screen_name": "positivesparks",
+				"location": "Truro",
+				"description": "Web Marketing Coach. Director Of PPC & Online Advertising Agency. Podcaster. Writer & Lover Of Digital Living. Try my FREE online ad kit https://t.co/wZW4P2pvhX",
+				"url": "https://t.co/Z5e8w4rqnQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Z5e8w4rqnQ",
+								"expanded_url": "http://www.positivesparks.co.uk",
+								"display_url": "positivesparks.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wZW4P2pvhX",
+								"expanded_url": "http://bit.ly/webmkit",
+								"display_url": "bit.ly/webmkit",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3809,
+				"friends_count": 2827,
+				"listed_count": 483,
+				"created_at": "Wed Apr 27 11:35:36 +0000 2011",
+				"favourites_count": 461,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8881,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "AD2323",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451321968218746880/HIcoVEp1.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451321968218746880/HIcoVEp1.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/453626813139283968/8YykIrIS_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/453626813139283968/8YykIrIS_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/288739549/1396438193",
+				"profile_link_color": "434447",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 08 13:30:35 +0000 2018",
 		"id": 961593099737862100,
 		"id_str": "961593099737862145",
