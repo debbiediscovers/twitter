@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sat Feb 10 13:30:04 +0000 2018",
+		"id": 962317747156865000,
+		"id_str": "962317747156865024",
+		"text": "RT @digitalsurgeons: 5 scientifically proven ways to give a killer #presentation @salubriousdish https://t.co/uVdxehoyHo via @Inc #speaker…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "presentation",
+					"indices": [
+						67,
+						80
+					]
+				},
+				{
+					"text": "speaker",
+					"indices": [
+						130,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "digitalsurgeons",
+					"name": "Digital Surgeons",
+					"id": 18189130,
+					"id_str": "18189130",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "salubriousdish",
+					"name": "Christina DesMarais",
+					"id": 138144382,
+					"id_str": "138144382",
+					"indices": [
+						81,
+						96
+					]
+				},
+				{
+					"screen_name": "Inc",
+					"name": "Inc.",
+					"id": 16896485,
+					"id_str": "16896485",
+					"indices": [
+						125,
+						129
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uVdxehoyHo",
+					"expanded_url": "https://buff.ly/2nhm1w6",
+					"display_url": "buff.ly/2nhm1w6",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37443,
+			"friends_count": 19721,
+			"listed_count": 1063,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11130,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10921,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 07 15:30:35 +0000 2018",
+			"id": 961260913100775400,
+			"id_str": "961260913100775424",
+			"text": "5 scientifically proven ways to give a killer #presentation @salubriousdish https://t.co/uVdxehoyHo via @Inc… https://t.co/i35jGtBUxu",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "presentation",
+						"indices": [
+							46,
+							59
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "salubriousdish",
+						"name": "Christina DesMarais",
+						"id": 138144382,
+						"id_str": "138144382",
+						"indices": [
+							60,
+							75
+						]
+					},
+					{
+						"screen_name": "Inc",
+						"name": "Inc.",
+						"id": 16896485,
+						"id_str": "16896485",
+						"indices": [
+							104,
+							108
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/uVdxehoyHo",
+						"expanded_url": "https://buff.ly/2nhm1w6",
+						"display_url": "buff.ly/2nhm1w6",
+						"indices": [
+							76,
+							99
+						]
+					},
+					{
+						"url": "https://t.co/i35jGtBUxu",
+						"expanded_url": "https://twitter.com/i/web/status/961260913100775424",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18189130,
+				"id_str": "18189130",
+				"name": "Digital Surgeons",
+				"screen_name": "digitalsurgeons",
+				"location": "New Haven | NYC | Vancouver",
+				"description": "We Design Demand.™ We’re a technology-enabled, outcome-obsessed agency that knows moving the needle is all that matters.",
+				"url": "https://t.co/souakK9ALa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/souakK9ALa",
+								"expanded_url": "http://www.digitalsurgeons.com",
+								"display_url": "digitalsurgeons.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3816,
+				"friends_count": 386,
+				"listed_count": 234,
+				"created_at": "Wed Dec 17 13:58:02 +0000 2008",
+				"favourites_count": 251,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2935,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "232323",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/115979354/newdstwitterback.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/115979354/newdstwitterback.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/888032940772478976/IEeppF_5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/888032940772478976/IEeppF_5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18189130/1500558543",
+				"profile_link_color": "E94B20",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "3D3E43",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 10 12:15:13 +0000 2018",
 		"id": 962298909639958500,
 		"id_str": "962298909639958528",
