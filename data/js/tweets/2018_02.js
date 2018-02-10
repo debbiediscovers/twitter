@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sat Feb 10 02:14:46 +0000 2018",
+		"id": 962147801651007500,
+		"id_str": "962147801651007489",
+		"text": "RT @digitalsurgeons: The #science of why swearing physically reduces pain https://t.co/ONwqugh97k via @WIRED #linguistics https://t.co/hSi3…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "science",
+					"indices": [
+						25,
+						33
+					]
+				},
+				{
+					"text": "linguistics",
+					"indices": [
+						109,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "digitalsurgeons",
+					"name": "Digital Surgeons",
+					"id": 18189130,
+					"id_str": "18189130",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "WIRED",
+					"name": "WIRED",
+					"id": 1344951,
+					"id_str": "1344951",
+					"indices": [
+						102,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ONwqugh97k",
+					"expanded_url": "https://buff.ly/2GnZMgI",
+					"display_url": "buff.ly/2GnZMgI",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37461,
+			"friends_count": 19593,
+			"listed_count": 1062,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11126,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10914,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 08 17:34:05 +0000 2018",
+			"id": 961654379773354000,
+			"id_str": "961654379773353986",
+			"text": "The #science of why swearing physically reduces pain https://t.co/ONwqugh97k via @WIRED #linguistics https://t.co/hSi3rmJfCy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "science",
+						"indices": [
+							4,
+							12
+						]
+					},
+					{
+						"text": "linguistics",
+						"indices": [
+							88,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WIRED",
+						"name": "WIRED",
+						"id": 1344951,
+						"id_str": "1344951",
+						"indices": [
+							81,
+							87
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ONwqugh97k",
+						"expanded_url": "https://buff.ly/2GnZMgI",
+						"display_url": "buff.ly/2GnZMgI",
+						"indices": [
+							53,
+							76
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 961654376841572400,
+						"id_str": "961654376841572352",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DVh7j4hXcAA9P6J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVh7j4hXcAA9P6J.jpg",
+						"url": "https://t.co/hSi3rmJfCy",
+						"display_url": "pic.twitter.com/hSi3rmJfCy",
+						"expanded_url": "https://twitter.com/digitalsurgeons/status/961654379773353986/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1072,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 961654376841572400,
+						"id_str": "961654376841572352",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DVh7j4hXcAA9P6J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVh7j4hXcAA9P6J.jpg",
+						"url": "https://t.co/hSi3rmJfCy",
+						"display_url": "pic.twitter.com/hSi3rmJfCy",
+						"expanded_url": "https://twitter.com/digitalsurgeons/status/961654379773353986/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1072,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18189130,
+				"id_str": "18189130",
+				"name": "Digital Surgeons",
+				"screen_name": "digitalsurgeons",
+				"location": "New Haven | NYC | Vancouver",
+				"description": "We Design Demand.™ We’re a technology-enabled, outcome-obsessed agency that knows moving the needle is all that matters.",
+				"url": "https://t.co/souakK9ALa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/souakK9ALa",
+								"expanded_url": "http://www.digitalsurgeons.com",
+								"display_url": "digitalsurgeons.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3816,
+				"friends_count": 386,
+				"listed_count": 233,
+				"created_at": "Wed Dec 17 13:58:02 +0000 2008",
+				"favourites_count": 251,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2935,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "232323",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/115979354/newdstwitterback.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/115979354/newdstwitterback.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/888032940772478976/IEeppF_5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/888032940772478976/IEeppF_5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18189130/1500558543",
+				"profile_link_color": "E94B20",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "3D3E43",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 10 00:57:05 +0000 2018",
 		"id": 962128253665210400,
 		"id_str": "962128253665210369",
