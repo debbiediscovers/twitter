@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sun Feb 11 03:10:03 +0000 2018",
+		"id": 962524102228631600,
+		"id_str": "962524102228631552",
+		"text": "RT @youreasytravel: #Nature #Penguins could be wiped out : #globalwarming. Baby penguins not fed in time, parents have to swim to far for f…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Nature",
+					"indices": [
+						20,
+						27
+					]
+				},
+				{
+					"text": "Penguins",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"text": "globalwarming",
+					"indices": [
+						59,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "youreasytravel",
+					"name": "your easy travel",
+					"id": 776320042661281800,
+					"id_str": "776320042661281792",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37495,
+			"friends_count": 20309,
+			"listed_count": 1065,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11137,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10926,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 09 00:00:30 +0000 2018",
+			"id": 961751626884243500,
+			"id_str": "961751626884243456",
+			"text": "#Nature #Penguins could be wiped out : #globalwarming. Baby penguins not fed in time, parents have to swim to far f… https://t.co/GF9IZZU2pj",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Nature",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"text": "Penguins",
+						"indices": [
+							8,
+							17
+						]
+					},
+					{
+						"text": "globalwarming",
+						"indices": [
+							39,
+							53
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GF9IZZU2pj",
+						"expanded_url": "https://twitter.com/i/web/status/961751626884243456",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tweepsmap.com\" rel=\"nofollow\">Tweepsmap</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 776320042661281800,
+				"id_str": "776320042661281792",
+				"name": "your easy travel",
+				"screen_name": "youreasytravel",
+				"location": "The Netherlands",
+				"description": "Travel is magic, info on destinations and travelreasons: sports, arts, science, nature,... Create awareness for #climatechange https://t.co/g2vUrPwPNF",
+				"url": "https://t.co/JOEr6U6uOQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JOEr6U6uOQ",
+								"expanded_url": "http://www.mybeautifuldestination.com",
+								"display_url": "mybeautifuldestination.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/g2vUrPwPNF",
+								"expanded_url": "http://mybeautifuldestination.com",
+								"display_url": "mybeautifuldestination.com",
+								"indices": [
+									127,
+									150
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14707,
+				"friends_count": 15745,
+				"listed_count": 137,
+				"created_at": "Thu Sep 15 07:21:36 +0000 2016",
+				"favourites_count": 61560,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5767,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/910808034682839040/iCbY2iQp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/910808034682839040/iCbY2iQp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/776320042661281792/1517994188",
+				"profile_link_color": "1A1462",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 11 00:28:46 +0000 2018",
 		"id": 962483513525194800,
 		"id_str": "962483513525194752",
