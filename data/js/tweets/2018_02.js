@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Tue Feb 13 20:54:57 +0000 2018",
+		"id": 963516870010679300,
+		"id_str": "963516870010679296",
+		"text": "RT @melindagates: Budgets are a reflection of our priorities. When we cut funding for the programs that are keeping women &amp; children alive,…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melindagates",
+					"name": "Melinda Gates",
+					"id": 161801527,
+					"id_str": "161801527",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37674,
+			"friends_count": 21325,
+			"listed_count": 1064,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11184,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10984,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 12 20:28:06 +0000 2018",
+			"id": 963147725813383200,
+			"id_str": "963147725813383168",
+			"text": "Budgets are a reflection of our priorities. When we cut funding for the programs that are keeping women &amp; children… https://t.co/ozNWyUCukP",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ozNWyUCukP",
+						"expanded_url": "https://twitter.com/i/web/status/963147725813383168",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 963147724135821300,
+			"in_reply_to_status_id_str": "963147724135821313",
+			"in_reply_to_user_id": 161801527,
+			"in_reply_to_user_id_str": "161801527",
+			"in_reply_to_screen_name": "melindagates",
+			"user": {
+				"id": 161801527,
+				"id_str": "161801527",
+				"name": "Melinda Gates",
+				"screen_name": "melindagates",
+				"location": "Seattle, WA",
+				"description": "Co-chair of the Bill & Melinda Gates Foundation, businesswoman, and mother. Dedicated to helping all people lead healthy, productive lives.",
+				"url": "https://t.co/SA6CktP61n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SA6CktP61n",
+								"expanded_url": "http://m-gat.es/2CeOp7c",
+								"display_url": "m-gat.es/2CeOp7c",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2056896,
+				"friends_count": 225,
+				"listed_count": 8271,
+				"created_at": "Thu Jul 01 20:32:42 +0000 2010",
+				"favourites_count": 137,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2671,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A11D27",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/741052779/8bd1c550abb925cbe73673b134cd1542.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/741052779/8bd1c550abb925cbe73673b134cd1542.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/576426383989080065/HoFESJ2k_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/576426383989080065/HoFESJ2k_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/161801527/1518515155",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 333,
+			"favorite_count": 898,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 333,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Feb 13 19:21:54 +0000 2018",
 		"id": 963493451714109400,
 		"id_str": "963493451714109440",
