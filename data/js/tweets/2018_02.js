@@ -1,6 +1,521 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Tue Feb 13 23:36:40 +0000 2018",
+		"id": 963557564939083800,
+		"id_str": "963557564939083776",
+		"text": "RT @petesena: In a creative slump? Here are 10 exercises to improve creative thinking https://t.co/hcu7iWmoQi @FastCoDesign #CreativeEnergy…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CreativeEnergy",
+					"indices": [
+						124,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "petesena",
+					"name": "Peter Sena",
+					"id": 42950013,
+					"id_str": "42950013",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "FastCoDesign",
+					"name": "Co.Design",
+					"id": 158865339,
+					"id_str": "158865339",
+					"indices": [
+						110,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hcu7iWmoQi",
+					"expanded_url": "http://bit.ly/2sghD6g",
+					"display_url": "bit.ly/2sghD6g",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37673,
+			"friends_count": 21433,
+			"listed_count": 1064,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11191,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10988,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 12 14:30:24 +0000 2018",
+			"id": 963057705706512400,
+			"id_str": "963057705706512385",
+			"text": "In a creative slump? Here are 10 exercises to improve creative thinking https://t.co/hcu7iWmoQi @FastCoDesign… https://t.co/q559Cho51I",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "FastCoDesign",
+						"name": "Co.Design",
+						"id": 158865339,
+						"id_str": "158865339",
+						"indices": [
+							96,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/hcu7iWmoQi",
+						"expanded_url": "http://bit.ly/2sghD6g",
+						"display_url": "bit.ly/2sghD6g",
+						"indices": [
+							72,
+							95
+						]
+					},
+					{
+						"url": "https://t.co/q559Cho51I",
+						"expanded_url": "https://twitter.com/i/web/status/963057705706512385",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42950013,
+				"id_str": "42950013",
+				"name": "Peter Sena",
+				"screen_name": "petesena",
+				"location": "Wherever the challenge exists",
+				"description": "Entrepreneur / Founder driven by innovation. Polymath. Designer. Keynote Speaker. Technologist. Design / Systems thinker. Student of life. @digitalsurgeons",
+				"url": "https://t.co/8A0bXT1u7D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8A0bXT1u7D",
+								"expanded_url": "https://www.linkedin.com/in/petersena",
+								"display_url": "linkedin.com/in/petersena",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38382,
+				"friends_count": 11913,
+				"listed_count": 703,
+				"created_at": "Wed May 27 19:13:57 +0000 2009",
+				"favourites_count": 1606,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14185,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/671712244/f4ad1fd259c8c7d81c8e864cd0248213.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/671712244/f4ad1fd259c8c7d81c8e864cd0248213.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/669207345293996033/Xh14cJ7d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/669207345293996033/Xh14cJ7d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42950013/1509667564",
+				"profile_link_color": "FF5900",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F5F5F5",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 24,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 13 23:34:15 +0000 2018",
+		"id": 963556957620588500,
+		"id_str": "963556957620588544",
+		"text": "RT @digitalsurgeons: Great insights from @WanderfulWorld1 on how #AI is changing the landscape of #ContentMarketing https://t.co/kGJTAAKFyu…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "ContentMarketing",
+					"indices": [
+						98,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "digitalsurgeons",
+					"name": "Digital Surgeons",
+					"id": 18189130,
+					"id_str": "18189130",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "WanderfulWorld1",
+					"name": "Lizzie Davey",
+					"id": 475744504,
+					"id_str": "475744504",
+					"indices": [
+						41,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kGJTAAKFyu",
+					"expanded_url": "https://buff.ly/2EdVJFl",
+					"display_url": "buff.ly/2EdVJFl",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37673,
+			"friends_count": 21433,
+			"listed_count": 1064,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11191,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10988,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 13 21:45:06 +0000 2018",
+			"id": 963529489019007000,
+			"id_str": "963529489019006976",
+			"text": "Great insights from @WanderfulWorld1 on how #AI is changing the landscape of #ContentMarketing… https://t.co/FlNcODGdUM",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AI",
+						"indices": [
+							44,
+							47
+						]
+					},
+					{
+						"text": "ContentMarketing",
+						"indices": [
+							77,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WanderfulWorld1",
+						"name": "Lizzie Davey",
+						"id": 475744504,
+						"id_str": "475744504",
+						"indices": [
+							20,
+							36
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FlNcODGdUM",
+						"expanded_url": "https://twitter.com/i/web/status/963529489019006976",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							96,
+							119
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18189130,
+				"id_str": "18189130",
+				"name": "Digital Surgeons",
+				"screen_name": "digitalsurgeons",
+				"location": "New Haven | NYC | Vancouver",
+				"description": "We Design Demand.™ We’re a technology-enabled, outcome-obsessed agency that knows moving the needle is all that matters.",
+				"url": "https://t.co/souakK9ALa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/souakK9ALa",
+								"expanded_url": "http://www.digitalsurgeons.com",
+								"display_url": "digitalsurgeons.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3817,
+				"friends_count": 386,
+				"listed_count": 233,
+				"created_at": "Wed Dec 17 13:58:02 +0000 2008",
+				"favourites_count": 252,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2946,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "232323",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/115979354/newdstwitterback.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/115979354/newdstwitterback.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/888032940772478976/IEeppF_5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/888032940772478976/IEeppF_5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18189130/1500558543",
+				"profile_link_color": "E94B20",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "3D3E43",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Feb 13 21:41:55 +0000 2018",
 		"id": 963528686682062800,
 		"id_str": "963528686682062848",
