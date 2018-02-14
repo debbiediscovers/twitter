@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Wed Feb 14 20:46:09 +0000 2018",
+		"id": 963877040322728000,
+		"id_str": "963877040322727939",
+		"text": "RT @denottione: Google launches ‘Instagram Stories’ for mobile sites https://t.co/ErUfIJqHVm via @creativebloq https://t.co/1KPD4FoA1o",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "denottione",
+					"name": "DeNottiOne",
+					"id": 1715876323,
+					"id_str": "1715876323",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "CreativeBloq",
+					"name": "Creative Bloq",
+					"id": 418597196,
+					"id_str": "418597196",
+					"indices": [
+						97,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ErUfIJqHVm",
+					"expanded_url": "http://dlvr.it/QGKmBf",
+					"display_url": "dlvr.it/QGKmBf",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 963788714588516400,
+					"id_str": "963788714588516353",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DWAQusOUMAEJXW9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWAQusOUMAEJXW9.jpg",
+					"url": "https://t.co/1KPD4FoA1o",
+					"display_url": "pic.twitter.com/1KPD4FoA1o",
+					"expanded_url": "https://twitter.com/denottione/status/963788718078287872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 633,
+							"h": 356,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 633,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 633,
+							"h": 356,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963788718078287900,
+					"source_status_id_str": "963788718078287872",
+					"source_user_id": 1715876323,
+					"source_user_id_str": "1715876323"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 963788714588516400,
+					"id_str": "963788714588516353",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DWAQusOUMAEJXW9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWAQusOUMAEJXW9.jpg",
+					"url": "https://t.co/1KPD4FoA1o",
+					"display_url": "pic.twitter.com/1KPD4FoA1o",
+					"expanded_url": "https://twitter.com/denottione/status/963788718078287872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 633,
+							"h": 356,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 633,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 633,
+							"h": 356,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963788718078287900,
+					"source_status_id_str": "963788718078287872",
+					"source_user_id": 1715876323,
+					"source_user_id_str": "1715876323"
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37645,
+			"friends_count": 21547,
+			"listed_count": 1065,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11201,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11000,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 14 14:55:11 +0000 2018",
+			"id": 963788718078287900,
+			"id_str": "963788718078287872",
+			"text": "Google launches ‘Instagram Stories’ for mobile sites https://t.co/ErUfIJqHVm via @creativebloq https://t.co/1KPD4FoA1o",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CreativeBloq",
+						"name": "Creative Bloq",
+						"id": 418597196,
+						"id_str": "418597196",
+						"indices": [
+							81,
+							94
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ErUfIJqHVm",
+						"expanded_url": "http://dlvr.it/QGKmBf",
+						"display_url": "dlvr.it/QGKmBf",
+						"indices": [
+							53,
+							76
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 963788714588516400,
+						"id_str": "963788714588516353",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/DWAQusOUMAEJXW9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWAQusOUMAEJXW9.jpg",
+						"url": "https://t.co/1KPD4FoA1o",
+						"display_url": "pic.twitter.com/1KPD4FoA1o",
+						"expanded_url": "https://twitter.com/denottione/status/963788718078287872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 633,
+								"h": 356,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 633,
+								"h": 356,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 633,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 963788714588516400,
+						"id_str": "963788714588516353",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/DWAQusOUMAEJXW9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWAQusOUMAEJXW9.jpg",
+						"url": "https://t.co/1KPD4FoA1o",
+						"display_url": "pic.twitter.com/1KPD4FoA1o",
+						"expanded_url": "https://twitter.com/denottione/status/963788718078287872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 633,
+								"h": 356,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 633,
+								"h": 356,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 633,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1715876323,
+				"id_str": "1715876323",
+				"name": "DeNottiOne",
+				"screen_name": "denottione",
+				"location": "space",
+				"description": "#Digital #Designer, #Web #Developer, #SEO, 5D free trial for 600 powerlikes from Fuelgram link in bio",
+				"url": "https://t.co/prX7Gd4c17",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/prX7Gd4c17",
+								"expanded_url": "https://bit.ly/600-Free-IG-Likes",
+								"display_url": "bit.ly/600-Free-IG-Li…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1451,
+				"friends_count": 2028,
+				"listed_count": 69,
+				"created_at": "Sat Aug 31 14:33:57 +0000 2013",
+				"favourites_count": 400,
+				"utc_offset": -39600,
+				"time_zone": "International Date Line West",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5240,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/635140767296548864/4RrozagU.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/635140767296548864/4RrozagU.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/635139540693356544/8FTAGffk_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/635139540693356544/8FTAGffk_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1715876323/1475087477",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Feb 14 19:05:53 +0000 2018",
 		"id": 963851808937533400,
 		"id_str": "963851808937533441",
