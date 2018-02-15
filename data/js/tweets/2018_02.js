@@ -1,6 +1,943 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 15 20:44:20 +0000 2018",
+		"id": 964238972175007700,
+		"id_str": "964238972175007749",
+		"text": "RT @RebecBrockman: Fascinating article!\nWhy Cosabella replaced its agency with AI and will never go back to humans https://t.co/gxbEX3sAQs…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RebecBrockman",
+					"name": "Rebecca Brockman",
+					"id": 924896938327240700,
+					"id_str": "924896938327240704",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gxbEX3sAQs",
+					"expanded_url": "http://bit.ly/2EuKGV4",
+					"display_url": "bit.ly/2EuKGV4",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37682,
+			"friends_count": 21840,
+			"listed_count": 1065,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11223,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11027,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 15 16:55:51 +0000 2018",
+			"id": 964181474785353700,
+			"id_str": "964181474785353729",
+			"text": "Fascinating article!\nWhy Cosabella replaced its agency with AI and will never go back to humans… https://t.co/QkwNzvYade",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QkwNzvYade",
+						"expanded_url": "https://twitter.com/i/web/status/964181474785353729",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 924896938327240700,
+				"id_str": "924896938327240704",
+				"name": "Rebecca Brockman",
+				"screen_name": "RebecBrockman",
+				"location": "Conroe, TX",
+				"description": "Passionate about #ContentStrategy, #SocialMedia, & finishing up my MS in #TechComm and MS in #ICT. https://t.co/IHr5MxQX9j",
+				"url": "https://t.co/lzTmC84qTG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lzTmC84qTG",
+								"expanded_url": "http://facebook.com/rebecca.brockman.100",
+								"display_url": "facebook.com/rebecca.brockm…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/IHr5MxQX9j",
+								"expanded_url": "http://www.linkedin.com/in/rebecca-brockman-100",
+								"display_url": "linkedin.com/in/rebecca-bro…",
+								"indices": [
+									99,
+									122
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1626,
+				"friends_count": 1491,
+				"listed_count": 8,
+				"created_at": "Mon Oct 30 07:13:08 +0000 2017",
+				"favourites_count": 633,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 928,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/926555062758907904/Aq1PnKmx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/926555062758907904/Aq1PnKmx_normal.jpg",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 15 20:44:05 +0000 2018",
+		"id": 964238910577565700,
+		"id_str": "964238910577565696",
+		"text": "@AgoraPulse @drumupio @iagdotme @jakrogalski @getdesignwizard @brand24 @BuzzSumo @semrush @nuzzel @AudienseCo Awesome!! Game changer!!!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AgoraPulse",
+					"name": "AgoraPulse",
+					"id": 281546383,
+					"id_str": "281546383",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "drumupio",
+					"name": "DrumUp",
+					"id": 2445069702,
+					"id_str": "2445069702",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "iagdotme",
+					"name": "Ian Anderson Gray",
+					"id": 369627599,
+					"id_str": "369627599",
+					"indices": [
+						22,
+						31
+					]
+				},
+				{
+					"screen_name": "jakrogalski",
+					"name": "Jakub Rogalski",
+					"id": 4103607754,
+					"id_str": "4103607754",
+					"indices": [
+						32,
+						44
+					]
+				},
+				{
+					"screen_name": "getdesignwizard",
+					"name": "DesignWizard",
+					"id": 773463022144725000,
+					"id_str": "773463022144724992",
+					"indices": [
+						45,
+						61
+					]
+				},
+				{
+					"screen_name": "brand24",
+					"name": "Brand24",
+					"id": 168651283,
+					"id_str": "168651283",
+					"indices": [
+						62,
+						70
+					]
+				},
+				{
+					"screen_name": "BuzzSumo",
+					"name": "BuzzSumo",
+					"id": 919759388,
+					"id_str": "919759388",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"screen_name": "semrush",
+					"name": "SEMrush",
+					"id": 21896072,
+					"id_str": "21896072",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"screen_name": "nuzzel",
+					"name": "Nuzzel",
+					"id": 106041193,
+					"id_str": "106041193",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"screen_name": "AudienseCo",
+					"name": "Audiense",
+					"id": 233631354,
+					"id_str": "233631354",
+					"indices": [
+						98,
+						109
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 964172138075877400,
+		"in_reply_to_status_id_str": "964172138075877376",
+		"in_reply_to_user_id": 281546383,
+		"in_reply_to_user_id_str": "281546383",
+		"in_reply_to_screen_name": "AgoraPulse",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37682,
+			"friends_count": 21840,
+			"listed_count": 1065,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11223,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11027,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 15 20:43:52 +0000 2018",
+		"id": 964238854185107500,
+		"id_str": "964238854185107456",
+		"text": "RT @AgoraPulse: @drumupio @debbiediscovers @iagdotme @jakrogalski @getdesignwizard @brand24 @BuzzSumo @semrush @nuzzel @AudienseCo We now p…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AgoraPulse",
+					"name": "AgoraPulse",
+					"id": 281546383,
+					"id_str": "281546383",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "drumupio",
+					"name": "DrumUp",
+					"id": 2445069702,
+					"id_str": "2445069702",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						26,
+						42
+					]
+				},
+				{
+					"screen_name": "iagdotme",
+					"name": "Ian Anderson Gray",
+					"id": 369627599,
+					"id_str": "369627599",
+					"indices": [
+						43,
+						52
+					]
+				},
+				{
+					"screen_name": "jakrogalski",
+					"name": "Jakub Rogalski",
+					"id": 4103607754,
+					"id_str": "4103607754",
+					"indices": [
+						53,
+						65
+					]
+				},
+				{
+					"screen_name": "getdesignwizard",
+					"name": "DesignWizard",
+					"id": 773463022144725000,
+					"id_str": "773463022144724992",
+					"indices": [
+						66,
+						82
+					]
+				},
+				{
+					"screen_name": "brand24",
+					"name": "Brand24",
+					"id": 168651283,
+					"id_str": "168651283",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"screen_name": "BuzzSumo",
+					"name": "BuzzSumo",
+					"id": 919759388,
+					"id_str": "919759388",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"screen_name": "semrush",
+					"name": "SEMrush",
+					"id": 21896072,
+					"id_str": "21896072",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"screen_name": "nuzzel",
+					"name": "Nuzzel",
+					"id": 106041193,
+					"id_str": "106041193",
+					"indices": [
+						111,
+						118
+					]
+				},
+				{
+					"screen_name": "AudienseCo",
+					"name": "Audiense",
+					"id": 233631354,
+					"id_str": "233631354",
+					"indices": [
+						119,
+						130
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37682,
+			"friends_count": 21840,
+			"listed_count": 1065,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11223,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11027,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 15 16:18:45 +0000 2018",
+			"id": 964172138075877400,
+			"id_str": "964172138075877376",
+			"text": "@drumupio @debbiediscovers @iagdotme @jakrogalski @getdesignwizard @brand24 @BuzzSumo @semrush @nuzzel @AudienseCo… https://t.co/KdB4dX6eVB",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "drumupio",
+						"name": "DrumUp",
+						"id": 2445069702,
+						"id_str": "2445069702",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							10,
+							26
+						]
+					},
+					{
+						"screen_name": "iagdotme",
+						"name": "Ian Anderson Gray",
+						"id": 369627599,
+						"id_str": "369627599",
+						"indices": [
+							27,
+							36
+						]
+					},
+					{
+						"screen_name": "jakrogalski",
+						"name": "Jakub Rogalski",
+						"id": 4103607754,
+						"id_str": "4103607754",
+						"indices": [
+							37,
+							49
+						]
+					},
+					{
+						"screen_name": "getdesignwizard",
+						"name": "DesignWizard",
+						"id": 773463022144725000,
+						"id_str": "773463022144724992",
+						"indices": [
+							50,
+							66
+						]
+					},
+					{
+						"screen_name": "brand24",
+						"name": "Brand24",
+						"id": 168651283,
+						"id_str": "168651283",
+						"indices": [
+							67,
+							75
+						]
+					},
+					{
+						"screen_name": "BuzzSumo",
+						"name": "BuzzSumo",
+						"id": 919759388,
+						"id_str": "919759388",
+						"indices": [
+							76,
+							85
+						]
+					},
+					{
+						"screen_name": "semrush",
+						"name": "SEMrush",
+						"id": 21896072,
+						"id_str": "21896072",
+						"indices": [
+							86,
+							94
+						]
+					},
+					{
+						"screen_name": "nuzzel",
+						"name": "Nuzzel",
+						"id": 106041193,
+						"id_str": "106041193",
+						"indices": [
+							95,
+							102
+						]
+					},
+					{
+						"screen_name": "AudienseCo",
+						"name": "Audiense",
+						"id": 233631354,
+						"id_str": "233631354",
+						"indices": [
+							103,
+							114
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/KdB4dX6eVB",
+						"expanded_url": "https://twitter.com/i/web/status/964172138075877376",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://manager.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+			"in_reply_to_status_id": 963998652476747800,
+			"in_reply_to_status_id_str": "963998652476747777",
+			"in_reply_to_user_id": 2445069702,
+			"in_reply_to_user_id_str": "2445069702",
+			"in_reply_to_screen_name": "drumupio",
+			"user": {
+				"id": 281546383,
+				"id_str": "281546383",
+				"name": "AgoraPulse",
+				"screen_name": "AgoraPulse",
+				"location": "Paris - San Francisco",
+				"description": "Social Media Management & CRM Platform. Monitor your accounts. Qualify your Fans. Export your customized reports. \nTry us for Free: https://t.co/fOSAGA74iy",
+				"url": "http://t.co/XoKyjIdvcB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/XoKyjIdvcB",
+								"expanded_url": "http://www.agorapulse.com",
+								"display_url": "agorapulse.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/fOSAGA74iy",
+								"expanded_url": "http://bit.ly/2pUhyyQ",
+								"display_url": "bit.ly/2pUhyyQ",
+								"indices": [
+									132,
+									155
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7261,
+				"friends_count": 1723,
+				"listed_count": 803,
+				"created_at": "Wed Apr 13 14:00:33 +0000 2011",
+				"favourites_count": 32346,
+				"utc_offset": -10800,
+				"time_zone": "Greenland",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 35965,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/635789669410672640/2ScYTkdx_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/635789669410672640/2ScYTkdx_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/281546383/1517521900",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 15 20:43:25 +0000 2018",
+		"id": 964238744134930400,
+		"id_str": "964238744134930432",
+		"text": "@ThompConsult @mmuzecom Ok!! Will do thanks 🙏 😘",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ThompConsult",
+					"name": "Michael Thomspon",
+					"id": 841982870277234700,
+					"id_str": "841982870277234689",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "mmuzecom",
+					"name": "mmuze",
+					"id": 2554797445,
+					"id_str": "2554797445",
+					"indices": [
+						14,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 964147336061517800,
+		"in_reply_to_status_id_str": "964147336061517825",
+		"in_reply_to_user_id": 841982870277234700,
+		"in_reply_to_user_id_str": "841982870277234689",
+		"in_reply_to_screen_name": "ThompConsult",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37682,
+			"friends_count": 21840,
+			"listed_count": 1065,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11223,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11027,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 15 17:35:58 +0000 2018",
 		"id": 964191570353360900,
 		"id_str": "964191570353360906",
