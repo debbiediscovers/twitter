@@ -1,6 +1,982 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Fri Feb 16 20:46:19 +0000 2018",
+		"id": 964601858357538800,
+		"id_str": "964601858357538817",
+		"text": "RT @coryedwards: It's not a shoe, it's an experience! @CMO_com reveals how 3 top-performing customer-centric companies connect with custome…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coryedwards",
+					"name": "Cory Edwards",
+					"id": 14356360,
+					"id_str": "14356360",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "CMO_com",
+					"name": "CMO.com",
+					"id": 46768880,
+					"id_str": "46768880",
+					"indices": [
+						54,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37772,
+			"friends_count": 22442,
+			"listed_count": 1064,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11222,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11043,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 15 03:30:31 +0000 2018",
+			"id": 963978805508558800,
+			"id_str": "963978805508558849",
+			"text": "It's not a shoe, it's an experience! @CMO_com reveals how 3 top-performing customer-centric companies connect with… https://t.co/JswgoH9PD8",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CMO_com",
+						"name": "CMO.com",
+						"id": 46768880,
+						"id_str": "46768880",
+						"indices": [
+							37,
+							45
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/JswgoH9PD8",
+						"expanded_url": "https://twitter.com/i/web/status/963978805508558849",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.everyonesocial.com\" rel=\"nofollow\">EveryoneSocial</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14356360,
+				"id_str": "14356360",
+				"name": "Cory Edwards",
+				"screen_name": "coryedwards",
+				"location": "Silicon Slopes",
+				"description": "Lead @Adobe Social Media Center of Excellence. Family man & amateur photographer. #GlutenFree (Sharing my opinions)",
+				"url": "https://t.co/evGX41xxTX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/evGX41xxTX",
+								"expanded_url": "https://www.linkedin.com/in/cory1",
+								"display_url": "linkedin.com/in/cory1",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11395,
+				"friends_count": 6771,
+				"listed_count": 596,
+				"created_at": "Thu Apr 10 23:26:30 +0000 2008",
+				"favourites_count": 3415,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8547,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A9DBF2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/96282334/walk.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/96282334/walk.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/669322421858529280/n-aDqjlB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/669322421858529280/n-aDqjlB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14356360/1484261097",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "FF930F",
+				"profile_sidebar_fill_color": "9ECAF0",
+				"profile_text_color": "050001",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 16 20:45:56 +0000 2018",
+		"id": 964601763243241500,
+		"id_str": "964601763243241472",
+		"text": "RT @coryedwards: #AI is changing business as we know it, but what many people don’t realize is how AI is also impacting our lives outside o…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						17,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coryedwards",
+					"name": "Cory Edwards",
+					"id": 14356360,
+					"id_str": "14356360",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37772,
+			"friends_count": 22442,
+			"listed_count": 1064,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11222,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11043,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 16 16:16:02 +0000 2018",
+			"id": 964533841917595600,
+			"id_str": "964533841917595649",
+			"text": "#AI is changing business as we know it, but what many people don’t realize is how AI is also impacting our lives ou… https://t.co/NK7bZ0UqAG",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AI",
+						"indices": [
+							0,
+							3
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NK7bZ0UqAG",
+						"expanded_url": "https://twitter.com/i/web/status/964533841917595649",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.everyonesocial.com\" rel=\"nofollow\">EveryoneSocial</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14356360,
+				"id_str": "14356360",
+				"name": "Cory Edwards",
+				"screen_name": "coryedwards",
+				"location": "Silicon Slopes",
+				"description": "Lead @Adobe Social Media Center of Excellence. Family man & amateur photographer. #GlutenFree (Sharing my opinions)",
+				"url": "https://t.co/evGX41xxTX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/evGX41xxTX",
+								"expanded_url": "https://www.linkedin.com/in/cory1",
+								"display_url": "linkedin.com/in/cory1",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11395,
+				"friends_count": 6771,
+				"listed_count": 596,
+				"created_at": "Thu Apr 10 23:26:30 +0000 2008",
+				"favourites_count": 3415,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8547,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A9DBF2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/96282334/walk.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/96282334/walk.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/669322421858529280/n-aDqjlB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/669322421858529280/n-aDqjlB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14356360/1484261097",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "FF930F",
+				"profile_sidebar_fill_color": "9ECAF0",
+				"profile_text_color": "050001",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 16 20:37:24 +0000 2018",
+		"id": 964599617412153300,
+		"id_str": "964599617412153344",
+		"text": "@sethlouey @message_io 🙌🙌",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sethlouey",
+					"name": "Seth Louey 💯🤖",
+					"id": 159269260,
+					"id_str": "159269260",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "message_io",
+					"name": "Message.io",
+					"id": 748980408306454500,
+					"id_str": "748980408306454528",
+					"indices": [
+						11,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 963527896794128400,
+		"in_reply_to_status_id_str": "963527896794128384",
+		"in_reply_to_user_id": 159269260,
+		"in_reply_to_user_id_str": "159269260",
+		"in_reply_to_screen_name": "sethlouey",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37772,
+			"friends_count": 22442,
+			"listed_count": 1064,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11222,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11043,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Fri Feb 16 20:34:19 +0000 2018",
+		"id": 964598841814130700,
+		"id_str": "964598841814130688",
+		"text": "RT @sethlouey: \"How To Market Your Chatbot With Influencers\" — via @botlistco https://t.co/wewFEkhKX2 #chatbots https://t.co/SZ7STXNg0U",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "chatbots",
+					"indices": [
+						102,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sethlouey",
+					"name": "Seth Louey 💯🤖",
+					"id": 159269260,
+					"id_str": "159269260",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "botlistco",
+					"name": "BotList",
+					"id": 4876850351,
+					"id_str": "4876850351",
+					"indices": [
+						67,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wewFEkhKX2",
+					"expanded_url": "http://bit.ly/2F5gfpw",
+					"display_url": "bit.ly/2F5gfpw",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 964144840865849300,
+					"id_str": "964144840865849346",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DWFUn9_VoAI8RnS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWFUn9_VoAI8RnS.jpg",
+					"url": "https://t.co/SZ7STXNg0U",
+					"display_url": "pic.twitter.com/SZ7STXNg0U",
+					"expanded_url": "https://twitter.com/sethlouey/status/964144842925334529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 330,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 582,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1444,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 964144842925334500,
+					"source_status_id_str": "964144842925334529",
+					"source_user_id": 159269260,
+					"source_user_id_str": "159269260"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 964144840865849300,
+					"id_str": "964144840865849346",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DWFUn9_VoAI8RnS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWFUn9_VoAI8RnS.jpg",
+					"url": "https://t.co/SZ7STXNg0U",
+					"display_url": "pic.twitter.com/SZ7STXNg0U",
+					"expanded_url": "https://twitter.com/sethlouey/status/964144842925334529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 330,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 582,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1444,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 964144842925334500,
+					"source_status_id_str": "964144842925334529",
+					"source_user_id": 159269260,
+					"source_user_id_str": "159269260"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37772,
+			"friends_count": 22442,
+			"listed_count": 1064,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11222,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11043,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 15 14:30:18 +0000 2018",
+			"id": 964144842925334500,
+			"id_str": "964144842925334529",
+			"text": "\"How To Market Your Chatbot With Influencers\" — via @botlistco https://t.co/wewFEkhKX2 #chatbots https://t.co/SZ7STXNg0U",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "chatbots",
+						"indices": [
+							87,
+							96
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "botlistco",
+						"name": "BotList",
+						"id": 4876850351,
+						"id_str": "4876850351",
+						"indices": [
+							52,
+							62
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wewFEkhKX2",
+						"expanded_url": "http://bit.ly/2F5gfpw",
+						"display_url": "bit.ly/2F5gfpw",
+						"indices": [
+							63,
+							86
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 964144840865849300,
+						"id_str": "964144840865849346",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/DWFUn9_VoAI8RnS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWFUn9_VoAI8RnS.jpg",
+						"url": "https://t.co/SZ7STXNg0U",
+						"display_url": "pic.twitter.com/SZ7STXNg0U",
+						"expanded_url": "https://twitter.com/sethlouey/status/964144842925334529/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 330,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 582,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1444,
+								"h": 700,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 964144840865849300,
+						"id_str": "964144840865849346",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/DWFUn9_VoAI8RnS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWFUn9_VoAI8RnS.jpg",
+						"url": "https://t.co/SZ7STXNg0U",
+						"display_url": "pic.twitter.com/SZ7STXNg0U",
+						"expanded_url": "https://twitter.com/sethlouey/status/964144842925334529/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 330,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 582,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1444,
+								"h": 700,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 159269260,
+				"id_str": "159269260",
+				"name": "Seth Louey 💯🤖",
+				"screen_name": "sethlouey",
+				"location": "Austin, TX",
+				"description": "🤖 CEO / Co-founder @BotListco, Entrepreneur, 😸 @ProductHunt 2016 & 17 Maker of the Year Nominee. :: #chatbots ➡ https://t.co/3yo7rVg7BZ",
+				"url": "https://t.co/FqsAeuudVs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FqsAeuudVs",
+								"expanded_url": "https://botlist.co/pro",
+								"display_url": "botlist.co/pro",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3yo7rVg7BZ",
+								"expanded_url": "https://walletlist.me/@sethlouey",
+								"display_url": "walletlist.me/@sethlouey",
+								"indices": [
+									112,
+									135
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3892,
+				"friends_count": 366,
+				"listed_count": 677,
+				"created_at": "Thu Jun 24 22:57:24 +0000 2010",
+				"favourites_count": 16441,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21544,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/576653014/o6hnifixad7aefg8xtcv.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/576653014/o6hnifixad7aefg8xtcv.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/860854118515998720/5uhgTO4U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/860854118515998720/5uhgTO4U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/159269260/1492108190",
+				"profile_link_color": "485663",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "202020",
+				"profile_text_color": "8D9DAB",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 16 17:20:08 +0000 2018",
 		"id": 964549973642707000,
 		"id_str": "964549973642706950",
