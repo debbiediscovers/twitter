@@ -1,6 +1,491 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sat Feb 17 05:01:56 +0000 2018",
+		"id": 964726584300228600,
+		"id_str": "964726584300228609",
+		"text": "RT @debbiediscovers: What makes a good chatbot UX? https://t.co/d556IUahE4 #bots #AI #chatbots",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bots",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "chatbots",
+					"indices": [
+						85,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d556IUahE4",
+					"expanded_url": "https://buff.ly/2iCjTAH",
+					"display_url": "buff.ly/2iCjTAH",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://debbiediscovers.com\" rel=\"nofollow\">TWITTER LIST ADDER</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37796,
+			"friends_count": 22724,
+			"listed_count": 1062,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11239,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11059,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 16 17:20:08 +0000 2018",
+			"id": 964549973642707000,
+			"id_str": "964549973642706950",
+			"text": "What makes a good chatbot UX? https://t.co/d556IUahE4 #bots #AI #chatbots",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "bots",
+						"indices": [
+							54,
+							59
+						]
+					},
+					{
+						"text": "AI",
+						"indices": [
+							60,
+							63
+						]
+					},
+					{
+						"text": "chatbots",
+						"indices": [
+							64,
+							73
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/d556IUahE4",
+						"expanded_url": "https://buff.ly/2iCjTAH",
+						"display_url": "buff.ly/2iCjTAH",
+						"indices": [
+							30,
+							53
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+				"url": "https://t.co/1ZPsVnusbG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnusbG",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37796,
+				"friends_count": 22724,
+				"listed_count": 1062,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 11239,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11059,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Feb 17 04:28:04 +0000 2018",
+		"id": 964718061168214000,
+		"id_str": "964718061168214021",
+		"text": "Love this #Cat #CatFact in the Year of the Dog 🐱🐶 Check out this Cat Fact bot built by @aksh_cs #MEOW https://t.co/eqJgfJrqil",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Cat",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "CatFact",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "MEOW",
+					"indices": [
+						96,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aksh_cs",
+					"name": "Akshay",
+					"id": 2801972557,
+					"id_str": "2801972557",
+					"indices": [
+						87,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eqJgfJrqil",
+					"expanded_url": "https://twitter.com/CatFacts4You/status/964707989981720576",
+					"display_url": "twitter.com/CatFacts4You/s…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37796,
+			"friends_count": 22724,
+			"listed_count": 1062,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11239,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11059,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 964707989981720600,
+		"quoted_status_id_str": "964707989981720576",
+		"quoted_status": {
+			"created_at": "Sat Feb 17 03:48:02 +0000 2018",
+			"id": 964707989981720600,
+			"id_str": "964707989981720576",
+			"text": "A cat's brain is more similar to a man's brain than that of a dog. #Cat #CatFact",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Cat",
+						"indices": [
+							67,
+							71
+						]
+					},
+					{
+						"text": "CatFact",
+						"indices": [
+							72,
+							80
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://akshay.in.eu.org\" rel=\"nofollow\">Cat Facts 4 U Bot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 964560935401668600,
+				"id_str": "964560935401668608",
+				"name": "Cat Facts For You",
+				"screen_name": "CatFacts4You",
+				"location": "Everywhere",
+				"description": "A simple cat facts #bot that tweets out an interesting #cat #fact every minute.\n\nQuestions/Suggestions: DM @aksh_cs",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1,
+				"friends_count": 1,
+				"listed_count": 1,
+				"created_at": "Fri Feb 16 18:03:42 +0000 2018",
+				"favourites_count": 2,
+				"utc_offset": 19800,
+				"time_zone": "Chennai",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 269,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/964572710037630977/J9fiGZOQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/964572710037630977/J9fiGZOQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/964560935401668608/1518806935",
+				"profile_link_color": "777777",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 17 01:20:59 +0000 2018",
 		"id": 964670980348981200,
 		"id_str": "964670980348981248",
