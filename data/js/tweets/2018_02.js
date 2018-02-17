@@ -1,6 +1,416 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sat Feb 17 20:32:56 +0000 2018",
+		"id": 964960877689454600,
+		"id_str": "964960877689454592",
+		"text": "RT @MissMasturah: #UnsungHeroes https://t.co/jfE7JjzwcU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UnsungHeroes",
+					"indices": [
+						18,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MissMasturah",
+					"name": "Masturah Maidin",
+					"id": 38135380,
+					"id_str": "38135380",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jfE7JjzwcU",
+					"expanded_url": "https://twitter.com/womensart1/status/958619318857715712",
+					"display_url": "twitter.com/womensart1/sta…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37842,
+			"friends_count": 22991,
+			"listed_count": 1067,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11260,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11081,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 31 10:27:55 +0000 2018",
+			"id": 958648026926469100,
+			"id_str": "958648026926469120",
+			"text": "#UnsungHeroes https://t.co/jfE7JjzwcU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UnsungHeroes",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jfE7JjzwcU",
+						"expanded_url": "https://twitter.com/womensart1/status/958619318857715712",
+						"display_url": "twitter.com/womensart1/sta…",
+						"indices": [
+							14,
+							37
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38135380,
+				"id_str": "38135380",
+				"name": "Masturah Maidin",
+				"screen_name": "MissMasturah",
+				"location": "singapore",
+				"description": "10% truth, 90% comedic justification. No human beings were harmed in the production of these tweets, no matter how convincing.",
+				"url": "https://t.co/c8q41V3gmp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c8q41V3gmp",
+								"expanded_url": "http://missmasturah.com",
+								"display_url": "missmasturah.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 250,
+				"friends_count": 495,
+				"listed_count": 17,
+				"created_at": "Wed May 06 07:33:48 +0000 2009",
+				"favourites_count": 581,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24334,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/25896416/twitterbg4.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/25896416/twitterbg4.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/899892821875769344/0JzPE-5U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/899892821875769344/0JzPE-5U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38135380/1487393500",
+				"profile_link_color": "54A3F7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C5EAFC",
+				"profile_text_color": "565855",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 958619318857715700,
+			"quoted_status_id_str": "958619318857715712",
+			"quoted_status": {
+				"created_at": "Wed Jan 31 08:33:50 +0000 2018",
+				"id": 958619318857715700,
+				"id_str": "958619318857715712",
+				"text": "Iconic feminist graffitti (UK), 1979, photographed by Jill Posener, British photographer and activist #womensart https://t.co/7bgnTUtVmR",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "womensart",
+							"indices": [
+								102,
+								112
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 958619299480031200,
+							"id_str": "958619299480031232",
+							"indices": [
+								113,
+								136
+							],
+							"media_url": "http://pbs.twimg.com/media/DU2zLIRXUAAbOPG.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DU2zLIRXUAAbOPG.jpg",
+							"url": "https://t.co/7bgnTUtVmR",
+							"display_url": "pic.twitter.com/7bgnTUtVmR",
+							"expanded_url": "https://twitter.com/womensart1/status/958619318857715712/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 500,
+									"h": 346,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 500,
+									"h": 346,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 500,
+									"h": 346,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 958619299480031200,
+							"id_str": "958619299480031232",
+							"indices": [
+								113,
+								136
+							],
+							"media_url": "http://pbs.twimg.com/media/DU2zLIRXUAAbOPG.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DU2zLIRXUAAbOPG.jpg",
+							"url": "https://t.co/7bgnTUtVmR",
+							"display_url": "pic.twitter.com/7bgnTUtVmR",
+							"expanded_url": "https://twitter.com/womensart1/status/958619318857715712/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 500,
+									"h": 346,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 500,
+									"h": 346,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 500,
+									"h": 346,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 4823705386,
+					"id_str": "4823705386",
+					"name": "#WOMENSART",
+					"screen_name": "womensart1",
+					"location": "",
+					"description": "#womensart celebrating ♀'s art and creativity, created and curated by freelance writer/reviewer @PL_Henderson1 Images are © to their respective owners",
+					"url": "https://t.co/gDV7wWbjgm",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/gDV7wWbjgm",
+									"expanded_url": "https://womensartblog.wordpress.com/",
+									"display_url": "womensartblog.wordpress.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 129587,
+					"friends_count": 0,
+					"listed_count": 1967,
+					"created_at": "Mon Jan 18 10:32:28 +0000 2016",
+					"favourites_count": 15340,
+					"utc_offset": -28800,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 17444,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/871701499335847936/jyeHvT9e_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/871701499335847936/jyeHvT9e_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/4823705386/1496667909",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 6513,
+				"favorite_count": 16499,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 958619318857715700,
+		"quoted_status_id_str": "958619318857715712",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sat Feb 17 17:20:02 +0000 2018",
 		"id": 964912336250265600,
 		"id_str": "964912336250265600",
