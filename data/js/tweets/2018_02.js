@@ -1,6 +1,492 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sat Feb 17 16:18:09 +0000 2018",
+		"id": 964896761717276700,
+		"id_str": "964896761717276680",
+		"text": "@rajasdaithankar @vivek_gkrishnan @BMW @AccentureDigi @JimReesing @Info_Data_Mgmt @MikeQuindazzi @evankirstel… https://t.co/qiqpuV52lh",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rajasdaithankar",
+					"name": "Rajas Daithankar",
+					"id": 51938160,
+					"id_str": "51938160",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "vivek_gkrishnan",
+					"name": "Vivek Gopalakrishnan",
+					"id": 307922714,
+					"id_str": "307922714",
+					"indices": [
+						17,
+						33
+					]
+				},
+				{
+					"screen_name": "BMW",
+					"name": "BMW",
+					"id": 1545994664,
+					"id_str": "1545994664",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"screen_name": "AccentureDigi",
+					"name": "Accenture Digital",
+					"id": 2463681456,
+					"id_str": "2463681456",
+					"indices": [
+						39,
+						53
+					]
+				},
+				{
+					"screen_name": "JimReesing",
+					"name": "Jim Reesing",
+					"id": 2617524956,
+					"id_str": "2617524956",
+					"indices": [
+						54,
+						65
+					]
+				},
+				{
+					"screen_name": "Info_Data_Mgmt",
+					"name": "Caroline Higgins",
+					"id": 705421634790932500,
+					"id_str": "705421634790932480",
+					"indices": [
+						66,
+						81
+					]
+				},
+				{
+					"screen_name": "MikeQuindazzi",
+					"name": "Mike Quindazzi ✨",
+					"id": 2344530218,
+					"id_str": "2344530218",
+					"indices": [
+						82,
+						96
+					]
+				},
+				{
+					"screen_name": "evankirstel",
+					"name": "Evan Kirstel",
+					"id": 35203319,
+					"id_str": "35203319",
+					"indices": [
+						97,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qiqpuV52lh",
+					"expanded_url": "https://twitter.com/i/web/status/964896761717276680",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 964863567596957700,
+		"in_reply_to_status_id_str": "964863567596957696",
+		"in_reply_to_user_id": 51938160,
+		"in_reply_to_user_id_str": "51938160",
+		"in_reply_to_screen_name": "rajasdaithankar",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37833,
+			"friends_count": 22970,
+			"listed_count": 1067,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11258,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11079,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Feb 17 16:17:48 +0000 2018",
+		"id": 964896672521138200,
+		"id_str": "964896672521138177",
+		"text": "RT @vivek_gkrishnan: #BMW takes the leap in integrating #AR #AugmentedReality in to its #Sales &amp; #Marketing efforts\n\nV/ @BMW @AccentureDigi…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BMW",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "AR",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "AugmentedReality",
+					"indices": [
+						60,
+						77
+					]
+				},
+				{
+					"text": "Sales",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "Marketing",
+					"indices": [
+						101,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vivek_gkrishnan",
+					"name": "Vivek Gopalakrishnan",
+					"id": 307922714,
+					"id_str": "307922714",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "BMW",
+					"name": "BMW",
+					"id": 1545994664,
+					"id_str": "1545994664",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"screen_name": "AccentureDigi",
+					"name": "Accenture Digital",
+					"id": 2463681456,
+					"id_str": "2463681456",
+					"indices": [
+						129,
+						143
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37833,
+			"friends_count": 22970,
+			"listed_count": 1067,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11258,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11079,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 17 13:18:22 +0000 2018",
+			"id": 964851519349669900,
+			"id_str": "964851519349669895",
+			"text": "#BMW takes the leap in integrating #AR #AugmentedReality in to its #Sales &amp; #Marketing efforts\n\nV/ @BMW… https://t.co/mUbmBGFksr",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BMW",
+						"indices": [
+							0,
+							4
+						]
+					},
+					{
+						"text": "AR",
+						"indices": [
+							35,
+							38
+						]
+					},
+					{
+						"text": "AugmentedReality",
+						"indices": [
+							39,
+							56
+						]
+					},
+					{
+						"text": "Sales",
+						"indices": [
+							67,
+							73
+						]
+					},
+					{
+						"text": "Marketing",
+						"indices": [
+							80,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BMW",
+						"name": "BMW",
+						"id": 1545994664,
+						"id_str": "1545994664",
+						"indices": [
+							103,
+							107
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mUbmBGFksr",
+						"expanded_url": "https://twitter.com/i/web/status/964851519349669895",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 307922714,
+				"id_str": "307922714",
+				"name": "Vivek Gopalakrishnan",
+				"screen_name": "vivek_gkrishnan",
+				"location": "Singapore",
+				"description": "A keen follower of developments in #Tech #Digital #Renewables & #CleanTech. A full time #aviation ✈️ enthusiast and anything associated with flight 🚀",
+				"url": "https://t.co/mVSoeOoidX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mVSoeOoidX",
+								"expanded_url": "https://www.linkedin.com/in/vivekgkrishnan/",
+								"display_url": "linkedin.com/in/vivekgkrish…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 577,
+				"friends_count": 773,
+				"listed_count": 45,
+				"created_at": "Mon May 30 14:40:56 +0000 2011",
+				"favourites_count": 978,
+				"utc_offset": -32400,
+				"time_zone": "Alaska",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1347,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2388186795/yndR9IK9_normal",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2388186795/yndR9IK9_normal",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/307922714/1463467633",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 8,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 17 16:00:07 +0000 2018",
 		"id": 964892224851972100,
 		"id_str": "964892224851972096",
