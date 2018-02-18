@@ -1,6 +1,379 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sun Feb 18 16:00:15 +0000 2018",
+		"id": 965254643805818900,
+		"id_str": "965254643805818880",
+		"text": "Life Beyond Email: Chatbot Marketing https://t.co/TbzSypF7Rk #bots #AI #chatbots",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bots",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "chatbots",
+					"indices": [
+						71,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TbzSypF7Rk",
+					"expanded_url": "https://buff.ly/2iCbCgd",
+					"display_url": "buff.ly/2iCbCgd",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38000,
+			"friends_count": 24480,
+			"listed_count": 1066,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11274,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11105,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 18 15:30:10 +0000 2018",
+		"id": 965247074366382100,
+		"id_str": "965247074366382080",
+		"text": "RT @unique_li: Every Instagram Stories Performance Benchmark You Need to Know by @dashhudson https://t.co/QBozHbXbrr #SMM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMM",
+					"indices": [
+						117,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "unique_li",
+					"name": "Uniquely Chloe",
+					"id": 2429842333,
+					"id_str": "2429842333",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "DashHudson",
+					"name": "Dash Hudson",
+					"id": 1853934048,
+					"id_str": "1853934048",
+					"indices": [
+						81,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QBozHbXbrr",
+					"expanded_url": "https://buff.ly/2F4f3mz",
+					"display_url": "buff.ly/2F4f3mz",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38000,
+			"friends_count": 24480,
+			"listed_count": 1066,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11274,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11105,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 15 10:10:09 +0000 2018",
+			"id": 964079374554353700,
+			"id_str": "964079374554353665",
+			"text": "Every Instagram Stories Performance Benchmark You Need to Know by @dashhudson https://t.co/QBozHbXbrr #SMM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SMM",
+						"indices": [
+							102,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DashHudson",
+						"name": "Dash Hudson",
+						"id": 1853934048,
+						"id_str": "1853934048",
+						"indices": [
+							66,
+							77
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QBozHbXbrr",
+						"expanded_url": "https://buff.ly/2F4f3mz",
+						"display_url": "buff.ly/2F4f3mz",
+						"indices": [
+							78,
+							101
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2429842333,
+				"id_str": "2429842333",
+				"name": "Uniquely Chloe",
+				"screen_name": "unique_li",
+				"location": "London, England",
+				"description": "Female entrepreneur trying to crystalise the equity of being Unique! Grow your Instagram with 5 days free 600 likes (Link in bio)",
+				"url": "https://t.co/FUXaNqK8YF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FUXaNqK8YF",
+								"expanded_url": "https://getfuelgram.com/fuelgroups/U4BF1FIG",
+								"display_url": "getfuelgram.com/fuelgroups/U4B…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2225,
+				"friends_count": 3287,
+				"listed_count": 833,
+				"created_at": "Sun Apr 06 03:50:26 +0000 2014",
+				"favourites_count": 333,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1779,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAFFFD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/457018787548516353/LlMJs6ny.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/457018787548516353/LlMJs6ny.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/781204825744617472/1Yo1FS1m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/781204825744617472/1Yo1FS1m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2429842333/1475088697",
+				"profile_link_color": "485154",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 18 14:27:25 +0000 2018",
 		"id": 965231284082630700,
 		"id_str": "965231284082630656",
