@@ -1,6 +1,600 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sun Feb 18 08:02:35 +0000 2018",
+		"id": 965134436164620300,
+		"id_str": "965134436164620288",
+		"text": "The fall of a leaf is a whisper to the living 🍁 https://t.co/YL4caLkeUt https://t.co/PWOKaWXBf5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YL4caLkeUt",
+					"expanded_url": "https://www.instagram.com/p/BfVKLFXnf0X/",
+					"display_url": "instagram.com/p/BfVKLFXnf0X/",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 965134433794842600,
+					"id_str": "965134433794842624",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DWTYp27W4AAuR6o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWTYp27W4AAuR6o.jpg",
+					"url": "https://t.co/PWOKaWXBf5",
+					"display_url": "pic.twitter.com/PWOKaWXBf5",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/965134436164620288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 423,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 423,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 423,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 965134433794842600,
+					"id_str": "965134433794842624",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DWTYp27W4AAuR6o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWTYp27W4AAuR6o.jpg",
+					"url": "https://t.co/PWOKaWXBf5",
+					"display_url": "pic.twitter.com/PWOKaWXBf5",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/965134436164620288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 423,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 423,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 423,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37894,
+			"friends_count": 23832,
+			"listed_count": 1061,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11263,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11090,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 18 07:42:04 +0000 2018",
+		"id": 965129274050031600,
+		"id_str": "965129274050031616",
+		"text": "@melissaksanborn @LuchsingerChris @10DollarSTARTUP Woohoo! https://t.co/oQPJh5Xg60",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melissaksanborn",
+					"name": "Melissa Sanborn",
+					"id": 3188916619,
+					"id_str": "3188916619",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "LuchsingerChris",
+					"name": "Chris Luchsinger",
+					"id": 617456996,
+					"id_str": "617456996",
+					"indices": [
+						17,
+						33
+					]
+				},
+				{
+					"screen_name": "10DollarSTARTUP",
+					"name": "The $10 Startup",
+					"id": 522827630,
+					"id_str": "522827630",
+					"indices": [
+						34,
+						50
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 965129264113725400,
+					"id_str": "965129264113725440",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DWTT88XVMAANKr5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DWTT88XVMAANKr5.jpg",
+					"url": "https://t.co/oQPJh5Xg60",
+					"display_url": "pic.twitter.com/oQPJh5Xg60",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/965129274050031616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 965129264113725400,
+					"id_str": "965129264113725440",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DWTT88XVMAANKr5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DWTT88XVMAANKr5.jpg",
+					"url": "https://t.co/oQPJh5Xg60",
+					"display_url": "pic.twitter.com/oQPJh5Xg60",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/965129274050031616/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DWTT88XVMAANKr5.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 965094901326151700,
+		"in_reply_to_status_id_str": "965094901326151680",
+		"in_reply_to_user_id": 3188916619,
+		"in_reply_to_user_id_str": "3188916619",
+		"in_reply_to_screen_name": "melissaksanborn",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37894,
+			"friends_count": 23832,
+			"listed_count": 1061,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11263,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11090,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 18 07:41:28 +0000 2018",
+		"id": 965129123692658700,
+		"id_str": "965129123692658688",
+		"text": "RT @harmenvs: ‘What is AI? Everything you need to know about Artificial Intelligence - An executive guide to artificial intelligence, from…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "harmenvs",
+					"name": "Harmen van Sprang",
+					"id": 62606707,
+					"id_str": "62606707",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37894,
+			"friends_count": 23832,
+			"listed_count": 1061,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11263,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11090,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 18 07:33:37 +0000 2018",
+			"id": 965127147772940300,
+			"id_str": "965127147772940288",
+			"text": "‘What is AI? Everything you need to know about Artificial Intelligence - An executive guide to artificial intellige… https://t.co/ZQmtpNiG30",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZQmtpNiG30",
+						"expanded_url": "https://twitter.com/i/web/status/965127147772940288",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 62606707,
+				"id_str": "62606707",
+				"name": "Harmen van Sprang",
+				"screen_name": "harmenvs",
+				"location": "Amsterdam",
+				"description": "co-founder shareNL | co-founder Sharing Cities Alliance | global keynote speaker | co-author book ‘Share’ | ‘re:shaping the way we live, work & play’",
+				"url": "https://t.co/jPcHfHfAWX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jPcHfHfAWX",
+								"expanded_url": "http://shareNL.nl/harmen-van-sprang",
+								"display_url": "shareNL.nl/harmen-van-spr…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1985,
+				"friends_count": 363,
+				"listed_count": 154,
+				"created_at": "Mon Aug 03 19:58:34 +0000 2009",
+				"favourites_count": 25,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6509,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "7A6B7A",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/532196061/this_is_your_life.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/532196061/this_is_your_life.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880876567269957633/od4Ri9zt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880876567269957633/od4Ri9zt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/62606707/1486131279",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 18 05:55:02 +0000 2018",
 		"id": 965102338712260600,
 		"id_str": "965102338712260609",
