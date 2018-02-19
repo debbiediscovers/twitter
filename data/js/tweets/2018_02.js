@@ -1,10 +1,494 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 19 14:47:41 +0000 2018",
+		"id": 965598768925044700,
+		"id_str": "965598768925044736",
+		"text": "RT @longlivekcx: .@realDonaldTrump @marcorubio @FLGovScott \nWe don’t need your thoughts &amp;  prayers. We need action. We need reform. The sur…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "longlivekcx",
+					"name": "kyra",
+					"id": 906545648,
+					"id_str": "906545648",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						18,
+						34
+					]
+				},
+				{
+					"screen_name": "marcorubio",
+					"name": "Marco Rubio",
+					"id": 15745368,
+					"id_str": "15745368",
+					"indices": [
+						35,
+						46
+					]
+				},
+				{
+					"screen_name": "FLGovScott",
+					"name": "Rick Scott",
+					"id": 131546062,
+					"id_str": "131546062",
+					"indices": [
+						47,
+						58
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38112,
+			"friends_count": 24034,
+			"listed_count": 1073,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11292,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11122,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 18 19:31:46 +0000 2018",
+			"id": 965307873801760800,
+			"id_str": "965307873801760768",
+			"text": ".@realDonaldTrump @marcorubio @FLGovScott \nWe don’t need your thoughts &amp;  prayers. We need action. We need reform.… https://t.co/sEm2RReHsp",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							1,
+							17
+						]
+					},
+					{
+						"screen_name": "marcorubio",
+						"name": "Marco Rubio",
+						"id": 15745368,
+						"id_str": "15745368",
+						"indices": [
+							18,
+							29
+						]
+					},
+					{
+						"screen_name": "FLGovScott",
+						"name": "Rick Scott",
+						"id": 131546062,
+						"id_str": "131546062",
+						"indices": [
+							30,
+							41
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/sEm2RReHsp",
+						"expanded_url": "https://twitter.com/i/web/status/965307873801760768",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 906545648,
+				"id_str": "906545648",
+				"name": "kyra",
+				"screen_name": "longlivekcx",
+				"location": "",
+				"description": "viva la vida / from outaaa space",
+				"url": "https://t.co/EUU4FrQ4fI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EUU4FrQ4fI",
+								"expanded_url": "http://longlivekc.com",
+								"display_url": "longlivekc.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39697,
+				"friends_count": 348,
+				"listed_count": 179,
+				"created_at": "Fri Oct 26 18:41:15 +0000 2012",
+				"favourites_count": 10704,
+				"utc_offset": -14400,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8905,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCEBB6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/707077237/4528e8a4997760e502eb940660161d16.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/707077237/4528e8a4997760e502eb940660161d16.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/942199293489963008/GGOhqMPa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/942199293489963008/GGOhqMPa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/906545648/1518747745",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "F0A830",
+				"profile_sidebar_fill_color": "78C0A8",
+				"profile_text_color": "5E412F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3004,
+			"favorite_count": 11047,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3004,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 19 14:40:15 +0000 2018",
+		"id": 965596898621976600,
+		"id_str": "965596898621976576",
+		"text": "Shame on Trump and any politician that takes political donations from the National Rifle Assiciation! #saynotoguns… https://t.co/qdDy27d8cQ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "saynotoguns",
+					"indices": [
+						102,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qdDy27d8cQ",
+					"expanded_url": "https://twitter.com/i/web/status/965596898621976576",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38112,
+			"friends_count": 24034,
+			"listed_count": 1073,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11292,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11122,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 964949743683108900,
+		"quoted_status_id_str": "964949743683108865",
+		"quoted_status": {
+			"created_at": "Sat Feb 17 19:48:41 +0000 2018",
+			"id": 964949743683108900,
+			"id_str": "964949743683108865",
+			"text": "\"They say that tougher gun laws do not decrease gun violence. We call BS!\" Florida high school shooting survivor Em… https://t.co/5G0HGPxvdm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5G0HGPxvdm",
+						"expanded_url": "https://twitter.com/i/web/status/964949743683108865",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 759251,
+				"id_str": "759251",
+				"name": "CNN",
+				"screen_name": "CNN",
+				"location": "",
+				"description": "It’s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK  & Download our app 📲https://t.co/Xgo5kjIt8c",
+				"url": "http://t.co/IaghNW8Xm2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/IaghNW8Xm2",
+								"expanded_url": "http://www.cnn.com",
+								"display_url": "cnn.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Xgo5kjIt8c",
+								"expanded_url": "http://cnn.it/apps",
+								"display_url": "cnn.it/apps",
+								"indices": [
+									136,
+									159
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 39456547,
+				"friends_count": 1116,
+				"listed_count": 132211,
+				"created_at": "Fri Feb 09 00:35:02 +0000 2007",
+				"favourites_count": 1468,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 170513,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "323232",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/515228058286952449/zVfUxqPl.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/515228058286952449/zVfUxqPl.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1508752874",
+				"profile_link_color": "004287",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49045,
+			"favorite_count": 111773,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 19 14:04:35 +0000 2018",
 		"id": 965587923549614100,
 		"id_str": "965587923549614086",
-		"text": "RT @debbiediscovers: @a_aalim Why waste a sentence saying nothing? 🤷‍♀️🧐 https://t.co/8rgA5UEAL1",
+		"text": "RT @debbiediscovers: @a_aalim Why waste a sentence saying nothing? 🤷♀️🧐 https://t.co/8rgA5UEAL1",
 		"truncated": false,
 		"entities": {
 			"hashtags": [],
@@ -194,7 +678,7 @@ Grailbird.data.tweets_2018_02 =
 			"created_at": "Mon Feb 19 14:04:17 +0000 2018",
 			"id": 965587847381008400,
 			"id_str": "965587847381008384",
-			"text": "@a_aalim Why waste a sentence saying nothing? 🤷‍♀️🧐 https://t.co/8rgA5UEAL1",
+			"text": "@a_aalim Why waste a sentence saying nothing? 🤷♀️🧐 https://t.co/8rgA5UEAL1",
 			"truncated": false,
 			"entities": {
 				"hashtags": [],
@@ -382,7 +866,7 @@ Grailbird.data.tweets_2018_02 =
 		"created_at": "Mon Feb 19 14:04:17 +0000 2018",
 		"id": 965587847381008400,
 		"id_str": "965587847381008384",
-		"text": "@a_aalim Why waste a sentence saying nothing? 🤷‍♀️🧐 https://t.co/8rgA5UEAL1",
+		"text": "@a_aalim Why waste a sentence saying nothing? 🤷♀️🧐 https://t.co/8rgA5UEAL1",
 		"truncated": false,
 		"entities": {
 			"hashtags": [],
