@@ -1,6 +1,483 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 19 12:42:58 +0000 2018",
+		"id": 965567383132815400,
+		"id_str": "965567383132815361",
+		"text": "RT @reinferio: re:infer is excited to announce our latest $3.5m seed investment round led by @tsinnova &amp; @crane_vc @seedcamp #ai #automatio…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ai",
+					"indices": [
+						129,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "reinferio",
+					"name": "re:infer",
+					"id": 2177877492,
+					"id_str": "2177877492",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "tsinnova",
+					"name": "Touchstone Innova",
+					"id": 632111815,
+					"id_str": "632111815",
+					"indices": [
+						93,
+						102
+					]
+				},
+				{
+					"screen_name": "crane_vc",
+					"name": "Crane",
+					"id": 3402665602,
+					"id_str": "3402665602",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"screen_name": "seedcamp",
+					"name": "seedcamp",
+					"id": 15317462,
+					"id_str": "15317462",
+					"indices": [
+						119,
+						128
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38104,
+			"friends_count": 24027,
+			"listed_count": 1065,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11286,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11116,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 19 10:35:41 +0000 2018",
+			"id": 965535351895986200,
+			"id_str": "965535351895986176",
+			"text": "re:infer is excited to announce our latest $3.5m seed investment round led by @tsinnova &amp; @crane_vc @seedcamp #ai… https://t.co/i6oJtlk14B",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ai",
+						"indices": [
+							114,
+							117
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tsinnova",
+						"name": "Touchstone Innova",
+						"id": 632111815,
+						"id_str": "632111815",
+						"indices": [
+							78,
+							87
+						]
+					},
+					{
+						"screen_name": "crane_vc",
+						"name": "Crane",
+						"id": 3402665602,
+						"id_str": "3402665602",
+						"indices": [
+							94,
+							103
+						]
+					},
+					{
+						"screen_name": "seedcamp",
+						"name": "seedcamp",
+						"id": 15317462,
+						"id_str": "15317462",
+						"indices": [
+							104,
+							113
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/i6oJtlk14B",
+						"expanded_url": "https://twitter.com/i/web/status/965535351895986176",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							119,
+							142
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2177877492,
+				"id_str": "2177877492",
+				"name": "re:infer",
+				"screen_name": "reinferio",
+				"location": "London",
+				"description": "re:infer is the enterprise intelligence system that makes communications data understandable and actionable at scale",
+				"url": "https://t.co/2h6Je6y4vI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2h6Je6y4vI",
+								"expanded_url": "https://reinfer.io",
+								"display_url": "reinfer.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 317,
+				"friends_count": 567,
+				"listed_count": 22,
+				"created_at": "Wed Nov 06 11:21:00 +0000 2013",
+				"favourites_count": 107,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 267,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/965539719575752704/x_QeLWmY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/965539719575752704/x_QeLWmY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2177877492/1440001096",
+				"profile_link_color": "859900",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 12,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 19 12:15:24 +0000 2018",
+		"id": 965560447767384000,
+		"id_str": "965560447767384064",
+		"text": "12 #Awesome Seth Godin quotes that inspire! - by @debbiediscovers\n https://t.co/pYaDvPNnAe https://t.co/yAJJbJzcsj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Awesome",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						49,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pYaDvPNnAe",
+					"expanded_url": "https://digitaldiscovery.sg/blog/12-seth-godin-quotes/",
+					"display_url": "digitaldiscovery.sg/blog/12-seth-g…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 965560437268938800,
+					"id_str": "965560437268938752",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DWZcGhiWAAAMcLg.png",
+					"media_url_https": "https://pbs.twimg.com/media/DWZcGhiWAAAMcLg.png",
+					"url": "https://t.co/yAJJbJzcsj",
+					"display_url": "pic.twitter.com/yAJJbJzcsj",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/965560447767384064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 965560437268938800,
+					"id_str": "965560437268938752",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DWZcGhiWAAAMcLg.png",
+					"media_url_https": "https://pbs.twimg.com/media/DWZcGhiWAAAMcLg.png",
+					"url": "https://t.co/yAJJbJzcsj",
+					"display_url": "pic.twitter.com/yAJJbJzcsj",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/965560447767384064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://manager.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38104,
+			"friends_count": 24027,
+			"listed_count": 1065,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11286,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11116,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 19 11:47:00 +0000 2018",
 		"id": 965553299091943400,
 		"id_str": "965553299091943424",
