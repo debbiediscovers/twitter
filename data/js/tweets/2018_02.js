@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Wed Feb 21 12:16:47 +0000 2018",
+		"id": 966285571961233400,
+		"id_str": "966285571961233411",
+		"text": "RT @SofieHaag: I’m in bot-heaven. Here’s a music bot with a special love for classical music and orchestras. What’s not to love! Thanks for…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SofieHaag",
+					"name": "Sofie Haag",
+					"id": 37168999,
+					"id_str": "37168999",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38262,
+			"friends_count": 20193,
+			"listed_count": 1069,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11345,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11179,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 20 16:08:39 +0000 2018",
+			"id": 965981533461938200,
+			"id_str": "965981533461938176",
+			"text": "I’m in bot-heaven. Here’s a music bot with a special love for classical music and orchestras. What’s not to love! T… https://t.co/DzyEXoEJys",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DzyEXoEJys",
+						"expanded_url": "https://twitter.com/i/web/status/965981533461938176",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37168999,
+				"id_str": "37168999",
+				"name": "Sofie Haag",
+				"screen_name": "SofieHaag",
+				"location": "Stockholm | London",
+				"description": "Founder/CEO @fromswedenprods Passionate about Music, Arts, Entertainment, Tech & Innovation #FromSweden, supporting Artistic Entrepreneurs & Making a Difference",
+				"url": "https://t.co/XuEBUQgp1T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XuEBUQgp1T",
+								"expanded_url": "http://www.sofiehaag.com",
+								"display_url": "sofiehaag.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1402,
+				"friends_count": 1471,
+				"listed_count": 52,
+				"created_at": "Sat May 02 08:55:19 +0000 2009",
+				"favourites_count": 2432,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1949,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "571466",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/808206419/f28c7438a9980fd88abbb03da6f8f8b8.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/808206419/f28c7438a9980fd88abbb03da6f8f8b8.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/891373300064165888/4sqGFFgH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/891373300064165888/4sqGFFgH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37168999/1501355296",
+				"profile_link_color": "620575",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 965980056467120100,
+			"quoted_status_id_str": "965980056467120129",
+			"quoted_status": {
+				"created_at": "Tue Feb 20 16:02:47 +0000 2018",
+				"id": 965980056467120100,
+				"id_str": "965980056467120129",
+				"text": "@SofieHaag @chatbotmeup 😬 check out my music bot! @0rchestras",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "SofieHaag",
+							"name": "Sofie Haag",
+							"id": 37168999,
+							"id_str": "37168999",
+							"indices": [
+								0,
+								10
+							]
+						},
+						{
+							"screen_name": "chatbotmeup",
+							"name": "Chatbot Me Up 🤖🛸",
+							"id": 919457282470977500,
+							"id_str": "919457282470977536",
+							"indices": [
+								11,
+								23
+							]
+						},
+						{
+							"screen_name": "0rchestras",
+							"name": "World Orchestras",
+							"id": 766292732126036000,
+							"id_str": "766292732126035969",
+							"indices": [
+								50,
+								61
+							]
+						}
+					],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": 965952801179361300,
+				"in_reply_to_status_id_str": "965952801179361280",
+				"in_reply_to_user_id": 37168999,
+				"in_reply_to_user_id_str": "37168999",
+				"in_reply_to_screen_name": "SofieHaag",
+				"user": {
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"name": "Deborah Kay",
+					"screen_name": "debbiediscovers",
+					"location": "Singapore",
+					"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+					"url": "https://t.co/1ZPsVnusbG",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/1ZPsVnusbG",
+									"expanded_url": "https://linktr.ee/debbiediscovers",
+									"display_url": "linktr.ee/debbiediscovers",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 38262,
+					"friends_count": 20193,
+					"listed_count": 1069,
+					"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+					"favourites_count": 11345,
+					"utc_offset": 28800,
+					"time_zone": "Singapore",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 11179,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EBEBEB",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+					"profile_link_color": "D50252",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 965980056467120100,
+		"quoted_status_id_str": "965980056467120129",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Feb 21 10:48:34 +0000 2018",
 		"id": 966263371610902500,
 		"id_str": "966263371610902528",
