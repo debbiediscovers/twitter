@@ -1,6 +1,615 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Wed Feb 21 00:10:41 +0000 2018",
+		"id": 966102842997063700,
+		"id_str": "966102842997063680",
+		"text": "@theodoropoylos Nice share! Did you attend?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theodoropoylos",
+					"name": "Giannis",
+					"id": 31352658,
+					"id_str": "31352658",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 966052357300777000,
+		"in_reply_to_status_id_str": "966052357300776961",
+		"in_reply_to_user_id": 31352658,
+		"in_reply_to_user_id_str": "31352658",
+		"in_reply_to_screen_name": "theodoropoylos",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38369,
+			"friends_count": 22067,
+			"listed_count": 1066,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11324,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11161,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Feb 21 00:10:34 +0000 2018",
+		"id": 966102810793197600,
+		"id_str": "966102810793197568",
+		"text": "RT @theodoropoylos: Takeaways from Chatbot summit 2018 – Chatbots Magazine https://t.co/zi542X8PHl https://t.co/grt6e8CI7K",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theodoropoylos",
+					"name": "Giannis",
+					"id": 31352658,
+					"id_str": "31352658",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zi542X8PHl",
+					"expanded_url": "http://bit.ly/2ECVG31",
+					"display_url": "bit.ly/2ECVG31",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 966052354314260500,
+					"id_str": "966052354314260480",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/DWgbf3VU0AAQLki.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWgbf3VU0AAQLki.jpg",
+					"url": "https://t.co/grt6e8CI7K",
+					"display_url": "pic.twitter.com/grt6e8CI7K",
+					"expanded_url": "https://twitter.com/theodoropoylos/status/966052357300776961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966052357300777000,
+					"source_status_id_str": "966052357300776961",
+					"source_user_id": 31352658,
+					"source_user_id_str": "31352658"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 966052354314260500,
+					"id_str": "966052354314260480",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/DWgbf3VU0AAQLki.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWgbf3VU0AAQLki.jpg",
+					"url": "https://t.co/grt6e8CI7K",
+					"display_url": "pic.twitter.com/grt6e8CI7K",
+					"expanded_url": "https://twitter.com/theodoropoylos/status/966052357300776961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966052357300777000,
+					"source_status_id_str": "966052357300776961",
+					"source_user_id": 31352658,
+					"source_user_id_str": "31352658"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38369,
+			"friends_count": 22067,
+			"listed_count": 1066,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11324,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11161,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 20 20:50:05 +0000 2018",
+			"id": 966052357300777000,
+			"id_str": "966052357300776961",
+			"text": "Takeaways from Chatbot summit 2018 – Chatbots Magazine https://t.co/zi542X8PHl https://t.co/grt6e8CI7K",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zi542X8PHl",
+						"expanded_url": "http://bit.ly/2ECVG31",
+						"display_url": "bit.ly/2ECVG31",
+						"indices": [
+							55,
+							78
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 966052354314260500,
+						"id_str": "966052354314260480",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DWgbf3VU0AAQLki.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWgbf3VU0AAQLki.jpg",
+						"url": "https://t.co/grt6e8CI7K",
+						"display_url": "pic.twitter.com/grt6e8CI7K",
+						"expanded_url": "https://twitter.com/theodoropoylos/status/966052357300776961/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 966052354314260500,
+						"id_str": "966052354314260480",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DWgbf3VU0AAQLki.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWgbf3VU0AAQLki.jpg",
+						"url": "https://t.co/grt6e8CI7K",
+						"display_url": "pic.twitter.com/grt6e8CI7K",
+						"expanded_url": "https://twitter.com/theodoropoylos/status/966052357300776961/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31352658,
+				"id_str": "31352658",
+				"name": "Giannis",
+				"screen_name": "theodoropoylos",
+				"location": "Greece - Cyprus and beyond",
+				"description": "#Digital #Marketer Consultant #SEO #SocialMedia #growthacker #ContentMarketing #DigitalAnalytics #CRO #webdevelopment #webdesign",
+				"url": "https://t.co/cWr2X59xdh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cWr2X59xdh",
+								"expanded_url": "https://www.linkedin.com/in/giannistheodoropoulos/",
+								"display_url": "linkedin.com/in/giannistheo…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4073,
+				"friends_count": 3947,
+				"listed_count": 156,
+				"created_at": "Wed Apr 15 05:54:11 +0000 2009",
+				"favourites_count": 42,
+				"utc_offset": 7200,
+				"time_zone": "Athens",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4151,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "59472F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/875371852/d5b892af209e212de112792342b7137c.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/875371852/d5b892af209e212de112792342b7137c.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836989585150332928/d0yjCqYY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836989585150332928/d0yjCqYY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31352658/1488220493",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "061127",
+				"profile_text_color": "827972",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 20 23:54:04 +0000 2018",
+		"id": 966098660302798800,
+		"id_str": "966098660302798849",
+		"text": "@kanesimms @steveworz @MitsukuChatbot Steve tweets from @mitsukuchatbot so you got that right. Not sure who the other steveworz is! 😍🤖",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kanesimms",
+					"name": "Kane Simms",
+					"id": 76003996,
+					"id_str": "76003996",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "steveworz",
+					"name": "Steve Worswick",
+					"id": 110229071,
+					"id_str": "110229071",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "MitsukuChatbot",
+					"name": "Mitsuku 🏅🏅🏅",
+					"id": 578224522,
+					"id_str": "578224522",
+					"indices": [
+						22,
+						37
+					]
+				},
+				{
+					"screen_name": "MitsukuChatbot",
+					"name": "Mitsuku 🏅🏅🏅",
+					"id": 578224522,
+					"id_str": "578224522",
+					"indices": [
+						56,
+						71
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 966053703643000800,
+		"in_reply_to_status_id_str": "966053703643000833",
+		"in_reply_to_user_id": 76003996,
+		"in_reply_to_user_id_str": "76003996",
+		"in_reply_to_screen_name": "kanesimms",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38369,
+			"friends_count": 22067,
+			"listed_count": 1066,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11324,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11161,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Feb 20 23:01:03 +0000 2018",
 		"id": 966085319664775200,
 		"id_str": "966085319664775169",
