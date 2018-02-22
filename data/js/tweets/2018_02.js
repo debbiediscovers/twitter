@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 22 05:07:03 +0000 2018",
+		"id": 966539814077108200,
+		"id_str": "966539814077108225",
+		"text": "RT @unique_li: Private Equity v Venture Capital— which makes more sense for YOU? https://t.co/gRMaUaQ0MD by @startupsco #startups https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startups",
+					"indices": [
+						120,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "unique_li",
+					"name": "Uniquely Chloe",
+					"id": 2429842333,
+					"id_str": "2429842333",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "startupsco",
+					"name": "Startups Co",
+					"id": 991722878,
+					"id_str": "991722878",
+					"indices": [
+						108,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gRMaUaQ0MD",
+					"expanded_url": "https://buff.ly/2ENGmUl",
+					"display_url": "buff.ly/2ENGmUl",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38388,
+			"friends_count": 19782,
+			"listed_count": 1070,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11370,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11200,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 19 03:49:01 +0000 2018",
+			"id": 965433013088784400,
+			"id_str": "965433013088784384",
+			"text": "Private Equity v Venture Capital— which makes more sense for YOU? https://t.co/gRMaUaQ0MD by @startupsco #startups https://t.co/Ts6vIfJzmE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "startups",
+						"indices": [
+							105,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "startupsco",
+						"name": "Startups Co",
+						"id": 991722878,
+						"id_str": "991722878",
+						"indices": [
+							93,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gRMaUaQ0MD",
+						"expanded_url": "https://buff.ly/2ENGmUl",
+						"display_url": "buff.ly/2ENGmUl",
+						"indices": [
+							66,
+							89
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 965433010295369700,
+						"id_str": "965433010295369728",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DWXoNTEXcAAXiHE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWXoNTEXcAAXiHE.jpg",
+						"url": "https://t.co/Ts6vIfJzmE",
+						"display_url": "pic.twitter.com/Ts6vIfJzmE",
+						"expanded_url": "https://twitter.com/unique_li/status/965433013088784384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 965433010295369700,
+						"id_str": "965433010295369728",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DWXoNTEXcAAXiHE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWXoNTEXcAAXiHE.jpg",
+						"url": "https://t.co/Ts6vIfJzmE",
+						"display_url": "pic.twitter.com/Ts6vIfJzmE",
+						"expanded_url": "https://twitter.com/unique_li/status/965433013088784384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2429842333,
+				"id_str": "2429842333",
+				"name": "Uniquely Chloe",
+				"screen_name": "unique_li",
+				"location": "London, England",
+				"description": "Female entrepreneur trying to crystalise the equity of being Unique! Grow your Instagram with 5 days free 600 likes (Link in bio)",
+				"url": "https://t.co/FUXaNqK8YF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FUXaNqK8YF",
+								"expanded_url": "https://getfuelgram.com/fuelgroups/U4BF1FIG",
+								"display_url": "getfuelgram.com/fuelgroups/U4B…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2110,
+				"friends_count": 0,
+				"listed_count": 834,
+				"created_at": "Sun Apr 06 03:50:26 +0000 2014",
+				"favourites_count": 333,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1781,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAFFFD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/457018787548516353/LlMJs6ny.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/457018787548516353/LlMJs6ny.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/781204825744617472/1Yo1FS1m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/781204825744617472/1Yo1FS1m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2429842333/1475088697",
+				"profile_link_color": "485154",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 22 03:48:38 +0000 2018",
 		"id": 966520078970839000,
 		"id_str": "966520078970839042",
