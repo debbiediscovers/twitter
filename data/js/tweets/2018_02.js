@@ -1,6 +1,450 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Fri Feb 23 20:16:49 +0000 2018",
+		"id": 967131151331606500,
+		"id_str": "967131151331606529",
+		"text": "@sethlouey @NikkiElizDemere @danielkempe @crystalrose @iam_preethi Thanks @sethlouey 😍\n Hi @NikkiElizDemere 👋 https://t.co/NH6By3PcaP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sethlouey",
+					"name": "Seth Louey 💯🤖",
+					"id": 159269260,
+					"id_str": "159269260",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "NikkiElizDemere",
+					"name": "Nichole Elizabeth 🌻",
+					"id": 39099783,
+					"id_str": "39099783",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "danielkempe",
+					"name": "Daniel Kempe 🐺",
+					"id": 394646446,
+					"id_str": "394646446",
+					"indices": [
+						28,
+						40
+					]
+				},
+				{
+					"screen_name": "crystalrose",
+					"name": "Crystal Rose",
+					"id": 194443371,
+					"id_str": "194443371",
+					"indices": [
+						41,
+						53
+					]
+				},
+				{
+					"screen_name": "iam_preethi",
+					"name": "Preethi Kasireddy",
+					"id": 1478433775,
+					"id_str": "1478433775",
+					"indices": [
+						54,
+						66
+					]
+				},
+				{
+					"screen_name": "sethlouey",
+					"name": "Seth Louey 💯🤖",
+					"id": 159269260,
+					"id_str": "159269260",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"screen_name": "NikkiElizDemere",
+					"name": "Nichole Elizabeth 🌻",
+					"id": 39099783,
+					"id_str": "39099783",
+					"indices": [
+						91,
+						107
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 967131142406074400,
+					"id_str": "967131142406074368",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DWvwpmJU8AAaf99.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DWvwpmJU8AAaf99.jpg",
+					"url": "https://t.co/NH6By3PcaP",
+					"display_url": "pic.twitter.com/NH6By3PcaP",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/967131151331606529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 272,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 272,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 967131142406074400,
+					"id_str": "967131142406074368",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DWvwpmJU8AAaf99.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DWvwpmJU8AAaf99.jpg",
+					"url": "https://t.co/NH6By3PcaP",
+					"display_url": "pic.twitter.com/NH6By3PcaP",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/967131151331606529/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 272,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							68
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DWvwpmJU8AAaf99.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 967059902232514600,
+		"in_reply_to_status_id_str": "967059902232514560",
+		"in_reply_to_user_id": 159269260,
+		"in_reply_to_user_id_str": "159269260",
+		"in_reply_to_screen_name": "sethlouey",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38438,
+			"friends_count": 19820,
+			"listed_count": 1074,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11425,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11243,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 23 20:14:07 +0000 2018",
+		"id": 967130471065796600,
+		"id_str": "967130471065796608",
+		"text": "@ClincAI @helene_wpli @BrianRoemmele @MikeQuindazzi @PwC @digitalcloudgal @Shirastweet @SpirosMargaris @leimer… https://t.co/0EvfDxwqBD",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ClincAI",
+					"name": "Clinc",
+					"id": 767170154597875700,
+					"id_str": "767170154597875712",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "helene_wpli",
+					"name": "Helene Li ✨🍀",
+					"id": 736185001457287200,
+					"id_str": "736185001457287169",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"screen_name": "BrianRoemmele",
+					"name": "Brian Roemmele",
+					"id": 101584084,
+					"id_str": "101584084",
+					"indices": [
+						22,
+						36
+					]
+				},
+				{
+					"screen_name": "MikeQuindazzi",
+					"name": "Mike Quindazzi ✨",
+					"id": 2344530218,
+					"id_str": "2344530218",
+					"indices": [
+						37,
+						51
+					]
+				},
+				{
+					"screen_name": "PwC",
+					"name": "PwC",
+					"id": 40937524,
+					"id_str": "40937524",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"screen_name": "digitalcloudgal",
+					"name": "Jo Peterson",
+					"id": 3497268500,
+					"id_str": "3497268500",
+					"indices": [
+						57,
+						73
+					]
+				},
+				{
+					"screen_name": "Shirastweet",
+					"name": "Shira Rubinoff",
+					"id": 384916348,
+					"id_str": "384916348",
+					"indices": [
+						74,
+						86
+					]
+				},
+				{
+					"screen_name": "SpirosMargaris",
+					"name": "Spiros Margaris",
+					"id": 2711212681,
+					"id_str": "2711212681",
+					"indices": [
+						87,
+						102
+					]
+				},
+				{
+					"screen_name": "leimer",
+					"name": "Bradley Leimer",
+					"id": 24738621,
+					"id_str": "24738621",
+					"indices": [
+						103,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0EvfDxwqBD",
+					"expanded_url": "https://twitter.com/i/web/status/967130471065796608",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 967044539415453700,
+		"in_reply_to_status_id_str": "967044539415453696",
+		"in_reply_to_user_id": 767170154597875700,
+		"in_reply_to_user_id_str": "767170154597875712",
+		"in_reply_to_screen_name": "ClincAI",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38438,
+			"friends_count": 19820,
+			"listed_count": 1074,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11425,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11243,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 23 20:06:57 +0000 2018",
 		"id": 967128668257493000,
 		"id_str": "967128668257492992",
