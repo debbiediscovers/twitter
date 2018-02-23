@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Fri Feb 23 20:06:57 +0000 2018",
+		"id": 967128668257493000,
+		"id_str": "967128668257492992",
+		"text": "FCK! 🐔Gotta love the Brits for their humour.  https://t.co/J77y5kCRUe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J77y5kCRUe",
+					"expanded_url": "https://twitter.com/i/moments/967051320896249856",
+					"display_url": "twitter.com/i/moments/9670…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38437,
+			"friends_count": 19814,
+			"listed_count": 1067,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11424,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11242,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 23 19:48:34 +0000 2018",
+		"id": 967124041373925400,
+		"id_str": "967124041373925376",
+		"text": "Now that’s what I call an influencer!! 👸 wonder if hedge funds can start using “influencers” in their trading strat… https://t.co/oW7Hfm9Olx",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oW7Hfm9Olx",
+					"expanded_url": "https://twitter.com/i/web/status/967124041373925376",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38437,
+			"friends_count": 19814,
+			"listed_count": 1067,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11424,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11242,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 966764580398649300,
+		"quoted_status_id_str": "966764580398649345",
+		"quoted_status": {
+			"created_at": "Thu Feb 22 20:00:12 +0000 2018",
+			"id": 966764580398649300,
+			"id_str": "966764580398649345",
+			"text": "Did one tweet from Kylie Jenner wipe out $1.6bn of Snap's market valuation? https://t.co/UuWtGpgnss https://t.co/Jv5b5ss9cF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UuWtGpgnss",
+						"expanded_url": "http://on.ft.com/2Gy49VB",
+						"display_url": "on.ft.com/2Gy49VB",
+						"indices": [
+							76,
+							99
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 966764574363045900,
+						"id_str": "966764574363045896",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DWqjQhxXUAgKzs1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWqjQhxXUAgKzs1.jpg",
+						"url": "https://t.co/Jv5b5ss9cF",
+						"display_url": "pic.twitter.com/Jv5b5ss9cF",
+						"expanded_url": "https://twitter.com/FinancialTimes/status/966764580398649345/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 609,
+								"h": 403,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 609,
+								"h": 403,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 609,
+								"h": 403,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 966764574363045900,
+						"id_str": "966764574363045896",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DWqjQhxXUAgKzs1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWqjQhxXUAgKzs1.jpg",
+						"url": "https://t.co/Jv5b5ss9cF",
+						"display_url": "pic.twitter.com/Jv5b5ss9cF",
+						"expanded_url": "https://twitter.com/FinancialTimes/status/966764580398649345/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 609,
+								"h": 403,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 609,
+								"h": 403,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 609,
+								"h": 403,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 966764577923977200,
+						"id_str": "966764577923977216",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DWqjQvCW0AAUhN_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWqjQvCW0AAUhN_.jpg",
+						"url": "https://t.co/Jv5b5ss9cF",
+						"display_url": "pic.twitter.com/Jv5b5ss9cF",
+						"expanded_url": "https://twitter.com/FinancialTimes/status/966764580398649345/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 491,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 710,
+								"h": 513,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 710,
+								"h": 513,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4898091,
+				"id_str": "4898091",
+				"name": "Financial Times",
+				"screen_name": "FinancialTimes",
+				"location": "London, UK",
+				"description": "The best of FT journalism, including breaking news and insight",
+				"url": "http://t.co/177fJYDjdc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/177fJYDjdc",
+								"expanded_url": "http://www.ft.com",
+								"display_url": "ft.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6005520,
+				"friends_count": 818,
+				"listed_count": 38384,
+				"created_at": "Mon Apr 16 16:54:19 +0000 2007",
+				"favourites_count": 11,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 221190,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF1E0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/234729379/ft-twitter-back.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/234729379/ft-twitter-back.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/931161479398686721/FI3te2Sw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/931161479398686721/FI3te2Sw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4898091/1516992678",
+				"profile_link_color": "9E2F50",
+				"profile_sidebar_border_color": "A7A59B",
+				"profile_sidebar_fill_color": "E9DECF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 192,
+			"favorite_count": 209,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 23 18:57:36 +0000 2018",
 		"id": 967111216349892600,
 		"id_str": "967111216349892608",
