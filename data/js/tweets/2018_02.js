@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sat Feb 24 10:36:56 +0000 2018",
+		"id": 967347606589354000,
+		"id_str": "967347606589353984",
+		"text": "The #crypto and the #bot community will love this... a @telegram group bot to monitor your #cryotocurrency communit… https://t.co/A9JspeRE2u",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "crypto",
+					"indices": [
+						4,
+						11
+					]
+				},
+				{
+					"text": "bot",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "cryotocurrency",
+					"indices": [
+						91,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "telegram",
+					"name": "Telegram Messenger",
+					"id": 1689053928,
+					"id_str": "1689053928",
+					"indices": [
+						55,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/A9JspeRE2u",
+					"expanded_url": "https://twitter.com/i/web/status/967347606589353984",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38465,
+			"friends_count": 20138,
+			"listed_count": 1077,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11448,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11264,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 967066218233520100,
+		"quoted_status_id_str": "967066218233520128",
+		"quoted_status": {
+			"created_at": "Fri Feb 23 15:58:48 +0000 2018",
+			"id": 967066218233520100,
+			"id_str": "967066218233520128",
+			"text": "Announcing a new service for Telegram communities... https://t.co/wyShmPBwjY\n\nAutomate your Telegram Communities wi… https://t.co/jnYnJLLRjT",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wyShmPBwjY",
+						"expanded_url": "https://cryptomod.io/",
+						"display_url": "cryptomod.io",
+						"indices": [
+							53,
+							76
+						]
+					},
+					{
+						"url": "https://t.co/jnYnJLLRjT",
+						"expanded_url": "https://twitter.com/i/web/status/967066218233520128",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 967039498117898200,
+			"in_reply_to_status_id_str": "967039498117898241",
+			"in_reply_to_user_id": 159269260,
+			"in_reply_to_user_id_str": "159269260",
+			"in_reply_to_screen_name": "sethlouey",
+			"user": {
+				"id": 159269260,
+				"id_str": "159269260",
+				"name": "Seth Louey 💯🤖",
+				"screen_name": "sethlouey",
+				"location": "Austin, TX",
+				"description": "🤖 CEO / Co-founder @BotListco, Entrepreneur, 😸 @ProductHunt 2016 & 17 Maker of the Year Nominee. :: #chatbots ➡ https://t.co/3yo7rVg7BZ",
+				"url": "https://t.co/FqsAeuudVs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FqsAeuudVs",
+								"expanded_url": "https://botlist.co/pro",
+								"display_url": "botlist.co/pro",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3yo7rVg7BZ",
+								"expanded_url": "https://walletlist.me/@sethlouey",
+								"display_url": "walletlist.me/@sethlouey",
+								"indices": [
+									112,
+									135
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3907,
+				"friends_count": 365,
+				"listed_count": 677,
+				"created_at": "Thu Jun 24 22:57:24 +0000 2010",
+				"favourites_count": 16481,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21590,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/576653014/o6hnifixad7aefg8xtcv.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/576653014/o6hnifixad7aefg8xtcv.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/860854118515998720/5uhgTO4U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/860854118515998720/5uhgTO4U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/159269260/1492108190",
+				"profile_link_color": "485663",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "202020",
+				"profile_text_color": "8D9DAB",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 24 09:17:13 +0000 2018",
 		"id": 967327544943919100,
 		"id_str": "967327544943919104",
