@@ -1,6 +1,484 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sat Feb 24 13:30:13 +0000 2018",
+		"id": 967391213539209200,
+		"id_str": "967391213539209216",
+		"text": "RT @RavBumbra: Making tech #rolemodels more visible through awards, great list @womeninitawards! I would urge #womenintech to follow this l…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rolemodels",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"text": "womenintech",
+					"indices": [
+						110,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RavBumbra",
+					"name": "Rav Bumbra",
+					"id": 707581369145303000,
+					"id_str": "707581369145303041",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "womeninitawards",
+					"name": "Women in IT Awards",
+					"id": 4170439413,
+					"id_str": "4170439413",
+					"indices": [
+						79,
+						95
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38467,
+			"friends_count": 20211,
+			"listed_count": 1070,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11449,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11266,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 23 17:25:48 +0000 2018",
+			"id": 967088112122912800,
+			"id_str": "967088112122912769",
+			"text": "Making tech #rolemodels more visible through awards, great list @womeninitawards! I would urge #womenintech to foll… https://t.co/55Ex5B50bG",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "rolemodels",
+						"indices": [
+							12,
+							23
+						]
+					},
+					{
+						"text": "womenintech",
+						"indices": [
+							95,
+							107
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "womeninitawards",
+						"name": "Women in IT Awards",
+						"id": 4170439413,
+						"id_str": "4170439413",
+						"indices": [
+							64,
+							80
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/55Ex5B50bG",
+						"expanded_url": "https://twitter.com/i/web/status/967088112122912769",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 707581369145303000,
+				"id_str": "707581369145303041",
+				"name": "Rav Bumbra",
+				"screen_name": "RavBumbra",
+				"location": "",
+				"description": "Founder Structur3dpeople | Sikh | driving change in #tech #recruitment | breaking down barriers 2 #diversity #GettingMoreWomenIntoTech #GettingMoreKidsIntoTech",
+				"url": "https://t.co/5ARExEMga4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5ARExEMga4",
+								"expanded_url": "http://www.structur3dpeople.co.uk",
+								"display_url": "structur3dpeople.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1333,
+				"friends_count": 1672,
+				"listed_count": 319,
+				"created_at": "Wed Mar 09 14:58:39 +0000 2016",
+				"favourites_count": 2535,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2910,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/923683917982584834/cFGrRa_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/923683917982584834/cFGrRa_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/707581369145303041/1457540524",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 967086354151755800,
+			"quoted_status_id_str": "967086354151755777",
+			"quoted_status": {
+				"created_at": "Fri Feb 23 17:18:49 +0000 2018",
+				"id": 967086354151755800,
+				"id_str": "967086354151755777",
+				"text": "Congratulations to the following who have made it to the final for CIO of the Year at the #WomenInITAwards USA!\n\nMa… https://t.co/SS26MzJ9Oj",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "WomenInITAwards",
+							"indices": [
+								90,
+								106
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/SS26MzJ9Oj",
+							"expanded_url": "https://twitter.com/i/web/status/967086354151755777",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 4170439413,
+					"id_str": "4170439413",
+					"name": "Women in IT Awards",
+					"screen_name": "womeninitawards",
+					"location": "London & New York",
+					"description": "The world's largest tech gender diversity event. #WomenInITAwards   🇬🇧 Women in IT UK - 31 Jan, London   🇺🇸 Women in IT USA - 22 March, NYC",
+					"url": "https://t.co/QxgVw9LNTX",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/QxgVw9LNTX",
+									"expanded_url": "http://womeninitawards.com",
+									"display_url": "womeninitawards.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1675,
+					"friends_count": 1007,
+					"listed_count": 37,
+					"created_at": "Thu Nov 12 10:14:01 +0000 2015",
+					"favourites_count": 360,
+					"utc_offset": 0,
+					"time_zone": "London",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 536,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/961193508307599362/0b2X6yr6_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/961193508307599362/0b2X6yr6_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/4170439413/1518001076",
+					"profile_link_color": "A55E92",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 6,
+				"favorite_count": 15,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 967086354151755800,
+		"quoted_status_id_str": "967086354151755777",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Feb 24 13:27:12 +0000 2018",
+		"id": 967390453980164100,
+		"id_str": "967390453980164097",
+		"text": "One for all social media managers! I love @Agorapulse for managing my 17 Twitter, 8 Facebook and 5 Instagram accoun… https://t.co/8nihsU4DWr",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AgoraPulse",
+					"name": "AgoraPulse",
+					"id": 281546383,
+					"id_str": "281546383",
+					"indices": [
+						42,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8nihsU4DWr",
+					"expanded_url": "https://twitter.com/i/web/status/967390453980164097",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://manager.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are some of my bots",
+			"url": "https://t.co/1ZPsVnusbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnusbG",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38467,
+			"friends_count": 20211,
+			"listed_count": 1070,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11449,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11266,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 24 10:36:56 +0000 2018",
 		"id": 967347606589354000,
 		"id_str": "967347606589353984",
