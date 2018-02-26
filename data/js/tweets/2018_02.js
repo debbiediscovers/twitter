@@ -1,6 +1,1863 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 26 13:30:06 +0000 2018",
+		"id": 968115959637700600,
+		"id_str": "968115959637700608",
+		"text": "How to use #Instagram Stories to compliment your other content https://t.co/I9Hc4qr0RF via @planoly #SMM https://t.co/s90mIoxxa9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Instagram",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"text": "SMM",
+					"indices": [
+						100,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "planoly",
+					"name": "planoly",
+					"id": 3321730254,
+					"id_str": "3321730254",
+					"indices": [
+						91,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/I9Hc4qr0RF",
+					"expanded_url": "https://buff.ly/2oA243U",
+					"display_url": "buff.ly/2oA243U",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 968115956567420900,
+					"id_str": "968115956567420930",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DW9wVUyWsAIXs8z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DW9wVUyWsAIXs8z.jpg",
+					"url": "https://t.co/s90mIoxxa9",
+					"display_url": "pic.twitter.com/s90mIoxxa9",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/968115959637700608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 538,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 538,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 968115956567420900,
+					"id_str": "968115956567420930",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DW9wVUyWsAIXs8z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DW9wVUyWsAIXs8z.jpg",
+					"url": "https://t.co/s90mIoxxa9",
+					"display_url": "pic.twitter.com/s90mIoxxa9",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/968115959637700608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 538,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 538,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38525,
+			"friends_count": 20765,
+			"listed_count": 1072,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11498,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11309,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 26 13:19:48 +0000 2018",
+		"id": 968113368631398400,
+		"id_str": "968113368631398405",
+		"text": "RT @hgse: \"When students engage in protests, civil disobedience, or any other form of activism, it’s important for school leaders to listen…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hgse",
+					"name": "Harvard Education",
+					"id": 21786831,
+					"id_str": "21786831",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38525,
+			"friends_count": 20765,
+			"listed_count": 1072,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11498,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11309,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 22 03:00:07 +0000 2018",
+			"id": 966507869561610200,
+			"id_str": "966507869561610241",
+			"text": "\"When students engage in protests, civil disobedience, or any other form of activism, it’s important for school lea… https://t.co/AeywgyJEcL",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AeywgyJEcL",
+						"expanded_url": "https://twitter.com/i/web/status/966507869561610241",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.radian6.com\" rel=\"nofollow\">Radian6 -Social Media Management</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21786831,
+				"id_str": "21786831",
+				"name": "Harvard Education",
+				"screen_name": "hgse",
+				"location": "Appian Way, Cambridge, Mass",
+				"description": "The official Twitter feed of the Harvard Graduate School of Education",
+				"url": "http://t.co/If8IYkFIOH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/If8IYkFIOH",
+								"expanded_url": "http://www.gse.harvard.edu",
+								"display_url": "gse.harvard.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 131012,
+				"friends_count": 153,
+				"listed_count": 2559,
+				"created_at": "Tue Feb 24 19:31:38 +0000 2009",
+				"favourites_count": 3939,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8296,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/789276448/d0b84d890aa9d4d198bb888f237b6112.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/789276448/d0b84d890aa9d4d198bb888f237b6112.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3222291276/7e5b2cc0751e99c15ff5d364140bdd8e_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3222291276/7e5b2cc0751e99c15ff5d364140bdd8e_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21786831/1360686379",
+				"profile_link_color": "900029",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FEF7ED",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 624,
+			"favorite_count": 1228,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 624,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 26 13:19:41 +0000 2018",
+		"id": 968113337937510400,
+		"id_str": "968113337937510401",
+		"text": "RT @MCCHarvardEd: Read a thoughtful perspective on \"Policies, Principles, and Protests\" from Stu Schmill, Dean of Admissions and Student Fi…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MCCHarvardEd",
+					"name": "Making Caring Common",
+					"id": 2589393414,
+					"id_str": "2589393414",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38525,
+			"friends_count": 20765,
+			"listed_count": 1072,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11498,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11309,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 23 18:36:47 +0000 2018",
+			"id": 967105975328092200,
+			"id_str": "967105975328092160",
+			"text": "Read a thoughtful perspective on \"Policies, Principles, and Protests\" from Stu Schmill, Dean of Admissions and Stud… https://t.co/uD0TKdKp83",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uD0TKdKp83",
+						"expanded_url": "https://twitter.com/i/web/status/967105975328092160",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2589393414,
+				"id_str": "2589393414",
+				"name": "Making Caring Common",
+				"screen_name": "MCCHarvardEd",
+				"location": "Cambridge, MA",
+				"description": "Making Caring Common (MCC) helps educators, parents, and communities raise children who are caring, responsible to their communities, and committed to justice.",
+				"url": "http://t.co/xg3pVVFEU9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xg3pVVFEU9",
+								"expanded_url": "http://www.makingcaringcommon.org",
+								"display_url": "makingcaringcommon.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4068,
+				"friends_count": 1335,
+				"listed_count": 99,
+				"created_at": "Thu Jun 26 11:25:17 +0000 2014",
+				"favourites_count": 3168,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2353,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/484047337996574720/2N8r1U9W_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/484047337996574720/2N8r1U9W_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2589393414/1451847873",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 26 13:19:32 +0000 2018",
+		"id": 968113301614772200,
+		"id_str": "968113301614772225",
+		"text": "RT @MCCHarvardEd: Turning the Tide endorsers @BowdoinCollege, @UW, @Yale, @BrownUniversity, @oberlincollege, @clarkuniversity + @williamsco…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MCCHarvardEd",
+					"name": "Making Caring Common",
+					"id": 2589393414,
+					"id_str": "2589393414",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "BowdoinCollege",
+					"name": "Bowdoin College",
+					"id": 14385531,
+					"id_str": "14385531",
+					"indices": [
+						45,
+						60
+					]
+				},
+				{
+					"screen_name": "UW",
+					"name": "U. of Washington",
+					"id": 27103822,
+					"id_str": "27103822",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"screen_name": "Yale",
+					"name": "Yale University",
+					"id": 5695032,
+					"id_str": "5695032",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"screen_name": "BrownUniversity",
+					"name": "Brown University",
+					"id": 14884486,
+					"id_str": "14884486",
+					"indices": [
+						74,
+						90
+					]
+				},
+				{
+					"screen_name": "oberlincollege",
+					"name": "Oberlin College",
+					"id": 225052010,
+					"id_str": "225052010",
+					"indices": [
+						92,
+						107
+					]
+				},
+				{
+					"screen_name": "ClarkUniversity",
+					"name": "Clark University",
+					"id": 28538089,
+					"id_str": "28538089",
+					"indices": [
+						109,
+						125
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38525,
+			"friends_count": 20765,
+			"listed_count": 1072,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11498,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11309,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 24 00:05:33 +0000 2018",
+			"id": 967188712009461800,
+			"id_str": "967188712009461760",
+			"text": "Turning the Tide endorsers @BowdoinCollege, @UW, @Yale, @BrownUniversity, @oberlincollege, @clarkuniversity +… https://t.co/fBbFTHpEz1",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BowdoinCollege",
+						"name": "Bowdoin College",
+						"id": 14385531,
+						"id_str": "14385531",
+						"indices": [
+							27,
+							42
+						]
+					},
+					{
+						"screen_name": "UW",
+						"name": "U. of Washington",
+						"id": 27103822,
+						"id_str": "27103822",
+						"indices": [
+							44,
+							47
+						]
+					},
+					{
+						"screen_name": "Yale",
+						"name": "Yale University",
+						"id": 5695032,
+						"id_str": "5695032",
+						"indices": [
+							49,
+							54
+						]
+					},
+					{
+						"screen_name": "BrownUniversity",
+						"name": "Brown University",
+						"id": 14884486,
+						"id_str": "14884486",
+						"indices": [
+							56,
+							72
+						]
+					},
+					{
+						"screen_name": "oberlincollege",
+						"name": "Oberlin College",
+						"id": 225052010,
+						"id_str": "225052010",
+						"indices": [
+							74,
+							89
+						]
+					},
+					{
+						"screen_name": "ClarkUniversity",
+						"name": "Clark University",
+						"id": 28538089,
+						"id_str": "28538089",
+						"indices": [
+							91,
+							107
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/fBbFTHpEz1",
+						"expanded_url": "https://twitter.com/i/web/status/967188712009461760",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2589393414,
+				"id_str": "2589393414",
+				"name": "Making Caring Common",
+				"screen_name": "MCCHarvardEd",
+				"location": "Cambridge, MA",
+				"description": "Making Caring Common (MCC) helps educators, parents, and communities raise children who are caring, responsible to their communities, and committed to justice.",
+				"url": "http://t.co/xg3pVVFEU9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xg3pVVFEU9",
+								"expanded_url": "http://www.makingcaringcommon.org",
+								"display_url": "makingcaringcommon.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4068,
+				"friends_count": 1335,
+				"listed_count": 99,
+				"created_at": "Thu Jun 26 11:25:17 +0000 2014",
+				"favourites_count": 3168,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2353,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/484047337996574720/2N8r1U9W_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/484047337996574720/2N8r1U9W_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2589393414/1451847873",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 26 13:19:16 +0000 2018",
+		"id": 968113234254299100,
+		"id_str": "968113234254299138",
+		"text": "RT @MCCHarvardEd: Turning the Tide endorsers @MIT, @smithcollege, @BU_Tweets, @WPI, @Trinitycollege, @DePaulU, @haverfordedu, @uneadmission…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MCCHarvardEd",
+					"name": "Making Caring Common",
+					"id": 2589393414,
+					"id_str": "2589393414",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "MIT",
+					"name": "Massachusetts Institute of Technology (MIT)",
+					"id": 15460048,
+					"id_str": "15460048",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"screen_name": "smithcollege",
+					"name": "Smith College Tweets",
+					"id": 17025399,
+					"id_str": "17025399",
+					"indices": [
+						51,
+						64
+					]
+				},
+				{
+					"screen_name": "BU_Tweets",
+					"name": "Boston University",
+					"id": 104561488,
+					"id_str": "104561488",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"screen_name": "WPI",
+					"name": "WPI",
+					"id": 16687357,
+					"id_str": "16687357",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"screen_name": "trinitycollege",
+					"name": "Trinity College",
+					"id": 33571177,
+					"id_str": "33571177",
+					"indices": [
+						84,
+						99
+					]
+				},
+				{
+					"screen_name": "DePaulU",
+					"name": "DePaul University",
+					"id": 35751496,
+					"id_str": "35751496",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"screen_name": "haverfordedu",
+					"name": "Haverford College",
+					"id": 115127371,
+					"id_str": "115127371",
+					"indices": [
+						111,
+						124
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38525,
+			"friends_count": 20765,
+			"listed_count": 1072,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11498,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11309,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 23 19:14:15 +0000 2018",
+			"id": 967115405964861400,
+			"id_str": "967115405964861441",
+			"text": "Turning the Tide endorsers @MIT, @smithcollege, @BU_Tweets, @WPI, @Trinitycollege, @DePaulU, @haverfordedu,… https://t.co/38V006luz4",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MIT",
+						"name": "Massachusetts Institute of Technology (MIT)",
+						"id": 15460048,
+						"id_str": "15460048",
+						"indices": [
+							27,
+							31
+						]
+					},
+					{
+						"screen_name": "smithcollege",
+						"name": "Smith College Tweets",
+						"id": 17025399,
+						"id_str": "17025399",
+						"indices": [
+							33,
+							46
+						]
+					},
+					{
+						"screen_name": "BU_Tweets",
+						"name": "Boston University",
+						"id": 104561488,
+						"id_str": "104561488",
+						"indices": [
+							48,
+							58
+						]
+					},
+					{
+						"screen_name": "WPI",
+						"name": "WPI",
+						"id": 16687357,
+						"id_str": "16687357",
+						"indices": [
+							60,
+							64
+						]
+					},
+					{
+						"screen_name": "trinitycollege",
+						"name": "Trinity College",
+						"id": 33571177,
+						"id_str": "33571177",
+						"indices": [
+							66,
+							81
+						]
+					},
+					{
+						"screen_name": "DePaulU",
+						"name": "DePaul University",
+						"id": 35751496,
+						"id_str": "35751496",
+						"indices": [
+							83,
+							91
+						]
+					},
+					{
+						"screen_name": "haverfordedu",
+						"name": "Haverford College",
+						"id": 115127371,
+						"id_str": "115127371",
+						"indices": [
+							93,
+							106
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/38V006luz4",
+						"expanded_url": "https://twitter.com/i/web/status/967115405964861441",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2589393414,
+				"id_str": "2589393414",
+				"name": "Making Caring Common",
+				"screen_name": "MCCHarvardEd",
+				"location": "Cambridge, MA",
+				"description": "Making Caring Common (MCC) helps educators, parents, and communities raise children who are caring, responsible to their communities, and committed to justice.",
+				"url": "http://t.co/xg3pVVFEU9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xg3pVVFEU9",
+								"expanded_url": "http://www.makingcaringcommon.org",
+								"display_url": "makingcaringcommon.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4068,
+				"friends_count": 1335,
+				"listed_count": 99,
+				"created_at": "Thu Jun 26 11:25:17 +0000 2014",
+				"favourites_count": 3168,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2353,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/484047337996574720/2N8r1U9W_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/484047337996574720/2N8r1U9W_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2589393414/1451847873",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 50,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 26 13:18:09 +0000 2018",
+		"id": 968112955383472100,
+		"id_str": "968112955383472131",
+		"text": "RT @SKYRIDER4538: You get the idea 😆\n\nMansion —&gt; Personsion\nManipulation —&gt; Personipulation\nSuperman—&gt; Superperson\nMandalay Bay —&gt; Personda…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SKYRIDER4538",
+					"name": "🇺🇸 SKY45 🇺🇸",
+					"id": 2985335882,
+					"id_str": "2985335882",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38525,
+			"friends_count": 20765,
+			"listed_count": 1072,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11498,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11309,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 25 23:49:03 +0000 2018",
+			"id": 967909335434186800,
+			"id_str": "967909335434186753",
+			"text": "You get the idea 😆\n\nMansion —&gt; Personsion\nManipulation —&gt; Personipulation\nSuperman—&gt; Superperson\nMandalay Bay —&gt; Pe… https://t.co/izckmv5yEl",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/izckmv5yEl",
+						"expanded_url": "https://twitter.com/i/web/status/967909335434186753",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							129,
+							152
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 967276982600912900,
+			"in_reply_to_status_id_str": "967276982600912896",
+			"in_reply_to_user_id": 2985335882,
+			"in_reply_to_user_id_str": "2985335882",
+			"in_reply_to_screen_name": "SKYRIDER4538",
+			"user": {
+				"id": 2985335882,
+				"id_str": "2985335882",
+				"name": "🇺🇸 SKY45 🇺🇸",
+				"screen_name": "SKYRIDER4538",
+				"location": "United States",
+				"description": "Christian, Wife, #SavedByGrace #ExMuslim #1A #VeteransFirst #Mission22 ΜΟΛΩΝ ΛΑΒΕ ︻╦̵̵͇̿̿̿̿══╤─ “trusting you is my decision, proving me wrong is your choice\"",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51356,
+				"friends_count": 9680,
+				"listed_count": 60,
+				"created_at": "Fri Jan 16 08:09:27 +0000 2015",
+				"favourites_count": 92784,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 92565,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963509775060226048/3r60Vz_V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963509775060226048/3r60Vz_V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2985335882/1510575237",
+				"profile_link_color": "70747C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 186,
+			"favorite_count": 282,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 186,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 26 13:17:50 +0000 2018",
+		"id": 968112873569267700,
+		"id_str": "968112873569267713",
+		"text": "RT @PrisonPlanet: Purdue University language guide says words like “mankind” and “mailman” should be eliminated because they are sexist. ht…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PrisonPlanet",
+					"name": "Paul Joseph Watson",
+					"id": 18643437,
+					"id_str": "18643437",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38525,
+			"friends_count": 20765,
+			"listed_count": 1072,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11498,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11309,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 21 11:39:19 +0000 2018",
+			"id": 966276142503284700,
+			"id_str": "966276142503284736",
+			"text": "Purdue University language guide says words like “mankind” and “mailman” should be eliminated because they are sexi… https://t.co/usJoXljA6C",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/usJoXljA6C",
+						"expanded_url": "https://twitter.com/i/web/status/966276142503284736",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18643437,
+				"id_str": "18643437",
+				"name": "Paul Joseph Watson",
+				"screen_name": "PrisonPlanet",
+				"location": "London",
+				"description": "Infowars editor-at-large. Classical liberal. Anti Alt-Right, anti Alt-Left. 250 million+ total YouTube views.",
+				"url": "https://t.co/BipouLYWgE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BipouLYWgE",
+								"expanded_url": "https://www.youtube.com/user/PrisonPlanetLive",
+								"display_url": "youtube.com/user/PrisonPla…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 819151,
+				"friends_count": 451,
+				"listed_count": 7294,
+				"created_at": "Mon Jan 05 20:04:23 +0000 2009",
+				"favourites_count": 5662,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 51042,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000049129232/f1cb5b3448d8a6d24e287249b765ae2a.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000049129232/f1cb5b3448d8a6d24e287249b765ae2a.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/862654391739961345/0qvW1agL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/862654391739961345/0qvW1agL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18643437/1478133184",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 474,
+			"favorite_count": 801,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 474,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 26 13:17:34 +0000 2018",
+		"id": 968112805940363300,
+		"id_str": "968112805940363265",
+		"text": "Just don’t shop at GoldMAN Sachs according to Purdue U cuz it’s sexist!! 🤣🤣🤣 Can America get any more ridiculous?? https://t.co/1lxqrY7cbf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1lxqrY7cbf",
+					"expanded_url": "https://twitter.com/skyrider4538/status/967276982600912896",
+					"display_url": "twitter.com/skyrider4538/s…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38525,
+			"friends_count": 20765,
+			"listed_count": 1072,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11498,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11309,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 967276982600912900,
+		"quoted_status_id_str": "967276982600912896",
+		"quoted_status": {
+			"created_at": "Sat Feb 24 05:56:18 +0000 2018",
+			"id": 967276982600912900,
+			"id_str": "967276982600912896",
+			"text": "There you have it guys, you are offending a bunch of idiots w/ self esteem issues who feel inferior to you.\nThe wor… https://t.co/I9THscDxdg",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/I9THscDxdg",
+						"expanded_url": "https://twitter.com/i/web/status/967276982600912896",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2985335882,
+				"id_str": "2985335882",
+				"name": "🇺🇸 SKY45 🇺🇸",
+				"screen_name": "SKYRIDER4538",
+				"location": "United States",
+				"description": "Christian, Wife, #SavedByGrace #ExMuslim #1A #VeteransFirst #Mission22 ΜΟΛΩΝ ΛΑΒΕ ︻╦̵̵͇̿̿̿̿══╤─ “trusting you is my decision, proving me wrong is your choice\"",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51356,
+				"friends_count": 9680,
+				"listed_count": 60,
+				"created_at": "Fri Jan 16 08:09:27 +0000 2015",
+				"favourites_count": 92784,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 92565,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963509775060226048/3r60Vz_V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963509775060226048/3r60Vz_V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2985335882/1510575237",
+				"profile_link_color": "70747C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2316,
+			"favorite_count": 3425,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 26 12:15:21 +0000 2018",
 		"id": 968097150751133700,
 		"id_str": "968097150751133697",
