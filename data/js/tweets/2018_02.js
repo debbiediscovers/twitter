@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 26 00:48:11 +0000 2018",
+		"id": 967924219815198700,
+		"id_str": "967924219815198721",
+		"text": "RT @gotangentsg: \"If we only look for talent in the same places we always do-gifted programs, Ivy Leagues, prestigious organizations, we're…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gotangentsg",
+					"name": "Tangent",
+					"id": 951014170182369300,
+					"id_str": "951014170182369280",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38516,
+			"friends_count": 20719,
+			"listed_count": 1071,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11483,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11298,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 24 04:33:58 +0000 2018",
+			"id": 967256263049429000,
+			"id_str": "967256263049428994",
+			"text": "\"If we only look for talent in the same places we always do-gifted programs, Ivy Leagues, prestigious organizations… https://t.co/AfIgeYW6e2",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AfIgeYW6e2",
+						"expanded_url": "https://twitter.com/i/web/status/967256263049428994",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 951014170182369300,
+				"id_str": "951014170182369280",
+				"name": "Tangent",
+				"screen_name": "gotangentsg",
+				"location": "Singapore",
+				"description": "A social initiative that champions a new way of hiring to democratise employment opportunities.",
+				"url": "https://t.co/o0C4xE0zVl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/o0C4xE0zVl",
+								"expanded_url": "http://www.gotangent.sg",
+								"display_url": "gotangent.sg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16,
+				"friends_count": 36,
+				"listed_count": 1,
+				"created_at": "Wed Jan 10 08:53:41 +0000 2018",
+				"favourites_count": 1,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/956000756624113664/6Lxdq8qu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/956000756624113664/6Lxdq8qu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/951014170182369280/1516764506",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 967044337367441400,
+			"quoted_status_id_str": "967044337367441408",
+			"quoted_status": {
+				"created_at": "Fri Feb 23 14:31:51 +0000 2018",
+				"id": 967044337367441400,
+				"id_str": "967044337367441408",
+				"text": "3 ways to stop overlooking the best person for the job: https://t.co/DmW601W0VW @JasonShen",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "JasonShen",
+							"name": "Jason Shen",
+							"id": 10242,
+							"id_str": "10242",
+							"indices": [
+								80,
+								90
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/DmW601W0VW",
+							"expanded_url": "http://t.ted.com/qN6j3mD",
+							"display_url": "t.ted.com/qN6j3mD",
+							"indices": [
+								56,
+								79
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 15492359,
+					"id_str": "15492359",
+					"name": "TED Talks",
+					"screen_name": "TEDTalks",
+					"location": "New York, NY",
+					"description": "Official tweets by https://t.co/XyGsGk67aO. Ideas worth spreading.",
+					"url": "http://t.co/7qVI5vqFrr",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/7qVI5vqFrr",
+									"expanded_url": "http://www.ted.com",
+									"display_url": "ted.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/XyGsGk67aO",
+									"expanded_url": "http://TED.com",
+									"display_url": "TED.com",
+									"indices": [
+										19,
+										42
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 10983403,
+					"friends_count": 554,
+					"listed_count": 55503,
+					"created_at": "Sat Jul 19 13:22:50 +0000 2008",
+					"favourites_count": 4220,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 26283,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/795046705/a71fe1893e3a1561abba1bff053e9328.gif",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/795046705/a71fe1893e3a1561abba1bff053e9328.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/877631054525472768/Xp5FAPD5_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/877631054525472768/Xp5FAPD5_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/15492359/1517264164",
+					"profile_link_color": "FF2B06",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "E0E3DE",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 106,
+				"favorite_count": 279,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 967044337367441400,
+		"quoted_status_id_str": "967044337367441408",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 25 23:01:13 +0000 2018",
 		"id": 967897300558319600,
 		"id_str": "967897300558319617",
