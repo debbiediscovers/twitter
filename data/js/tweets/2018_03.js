@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Thu Mar 01 08:23:47 +0000 2018",
+		"id": 969126036788006900,
+		"id_str": "969126036788006912",
+		"text": "RT @drumupio: 21 #SocialMedia &amp; #Content #Marketing Trends for 2018 [2/21] Brands will invest more in #reputation #management to combat fak…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SocialMedia",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"text": "Content",
+					"indices": [
+						36,
+						44
+					]
+				},
+				{
+					"text": "Marketing",
+					"indices": [
+						45,
+						55
+					]
+				},
+				{
+					"text": "reputation",
+					"indices": [
+						106,
+						117
+					]
+				},
+				{
+					"text": "management",
+					"indices": [
+						118,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drumupio",
+					"name": "DrumUp",
+					"id": 2445069702,
+					"id_str": "2445069702",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38678,
+			"friends_count": 22609,
+			"listed_count": 1073,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11698,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11354,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 28 11:34:01 +0000 2018",
+			"id": 968811522947346400,
+			"id_str": "968811522947346433",
+			"text": "21 #SocialMedia &amp; #Content #Marketing Trends for 2018 [2/21] Brands will invest more in #reputation #management to… https://t.co/wo8j0iBDEP",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SocialMedia",
+						"indices": [
+							3,
+							15
+						]
+					},
+					{
+						"text": "Content",
+						"indices": [
+							22,
+							30
+						]
+					},
+					{
+						"text": "Marketing",
+						"indices": [
+							31,
+							41
+						]
+					},
+					{
+						"text": "reputation",
+						"indices": [
+							92,
+							103
+						]
+					},
+					{
+						"text": "management",
+						"indices": [
+							104,
+							115
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wo8j0iBDEP",
+						"expanded_url": "https://twitter.com/i/web/status/968811522947346433",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://drumup.io\" rel=\"nofollow\">drumup.io</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2445069702,
+				"id_str": "2445069702",
+				"name": "DrumUp",
+				"screen_name": "drumupio",
+				"location": "",
+				"description": "Your Personal, Intelligent Social Media Management App & Leading Employee Advocacy Platform. Access content & social media ideas on https://t.co/yJB0Z72Afk.",
+				"url": "http://t.co/Ndcil4k1l1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Ndcil4k1l1",
+								"expanded_url": "http://drumup.io/",
+								"display_url": "drumup.io",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/yJB0Z72Afk",
+								"expanded_url": "https://blog.drumup.io/",
+								"display_url": "blog.drumup.io",
+								"indices": [
+									132,
+									155
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7325,
+				"friends_count": 2557,
+				"listed_count": 1069,
+				"created_at": "Tue Apr 15 07:43:14 +0000 2014",
+				"favourites_count": 8219,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13783,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/548846627167805440/KT5U6HGx_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/548846627167805440/KT5U6HGx_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2445069702/1443156385",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 01 03:47:33 +0000 2018",
 		"id": 969056521823793200,
 		"id_str": "969056521823793152",
