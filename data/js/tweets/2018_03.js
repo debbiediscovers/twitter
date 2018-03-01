@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Thu Mar 01 13:30:52 +0000 2018",
+		"id": 969203315614584800,
+		"id_str": "969203315614584833",
+		"text": "RT @digitalfuturist: Artificial intelligence is going to completely change your life https://t.co/ZYsqXhYwh1 #ai",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ai",
+					"indices": [
+						109,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "digitalfuturist",
+					"name": "Digital Futurist",
+					"id": 746360730920718300,
+					"id_str": "746360730920718336",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZYsqXhYwh1",
+					"expanded_url": "http://knowledge.wharton.upenn.edu/article/ai-new-electricity/",
+					"display_url": "knowledge.wharton.upenn.edu/article/ai-new…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38707,
+			"friends_count": 22642,
+			"listed_count": 1072,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11698,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11360,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 28 01:46:53 +0000 2018",
+			"id": 968663768275275800,
+			"id_str": "968663768275275776",
+			"text": "Artificial intelligence is going to completely change your life https://t.co/ZYsqXhYwh1 #ai",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ai",
+						"indices": [
+							88,
+							91
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZYsqXhYwh1",
+						"expanded_url": "http://knowledge.wharton.upenn.edu/article/ai-new-electricity/",
+						"display_url": "knowledge.wharton.upenn.edu/article/ai-new…",
+						"indices": [
+							64,
+							87
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://paper.li\" rel=\"nofollow\">Paper.li</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 746360730920718300,
+				"id_str": "746360730920718336",
+				"name": "Digital Futurist",
+				"screen_name": "digitalfuturist",
+				"location": "In the Digital Future",
+				"description": "#AI news bot by @debbiediscovers. #DigitalDisruption, #DigitalTransformation and Strategy. In the digital future, we are all dead. The future of digital is now.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1987,
+				"friends_count": 4318,
+				"listed_count": 36,
+				"created_at": "Fri Jun 24 15:14:00 +0000 2016",
+				"favourites_count": 359,
+				"utc_offset": -39600,
+				"time_zone": "International Date Line West",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 744,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/751328844389376000/nRhNMn0W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/751328844389376000/nRhNMn0W_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/746360730920718336/1467951506",
+				"profile_link_color": "36E2BE",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 01 13:05:13 +0000 2018",
 		"id": 969196860685635600,
 		"id_str": "969196860685635586",
