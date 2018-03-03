@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sat Mar 03 06:53:51 +0000 2018",
+		"id": 969828181711585300,
+		"id_str": "969828181711585280",
+		"text": "RT @randfish: Today's my last day at Moz. Blog post: https://t.co/HWCe8lLSea https://t.co/Kaockw2Oku",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "randfish",
+					"name": "Rand Fishkin",
+					"id": 6527972,
+					"id_str": "6527972",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HWCe8lLSea",
+					"expanded_url": "https://sparktoro.com/blog/last-day-moz-first-day-sparktoro/",
+					"display_url": "sparktoro.com/blog/last-day-…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 968759524688621600,
+					"id_str": "968759524688621573",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/DXG5p63XcAUTvYL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXG5p63XcAUTvYL.jpg",
+					"url": "https://t.co/Kaockw2Oku",
+					"display_url": "pic.twitter.com/Kaockw2Oku",
+					"expanded_url": "https://twitter.com/randfish/status/968759712098476032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1050,
+							"h": 591,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1050,
+							"h": 591,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 968759712098476000,
+					"source_status_id_str": "968759712098476032",
+					"source_user_id": 6527972,
+					"source_user_id_str": "6527972"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 968759524688621600,
+					"id_str": "968759524688621573",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/DXG5p63XcAUTvYL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXG5p63XcAUTvYL.jpg",
+					"url": "https://t.co/Kaockw2Oku",
+					"display_url": "pic.twitter.com/Kaockw2Oku",
+					"expanded_url": "https://twitter.com/randfish/status/968759712098476032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1050,
+							"h": 591,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1050,
+							"h": 591,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 968759712098476000,
+					"source_status_id_str": "968759712098476032",
+					"source_user_id": 6527972,
+					"source_user_id_str": "6527972"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38971,
+			"friends_count": 24608,
+			"listed_count": 1072,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11492,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11407,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 28 08:08:08 +0000 2018",
+			"id": 968759712098476000,
+			"id_str": "968759712098476032",
+			"text": "Today's my last day at Moz. Blog post: https://t.co/HWCe8lLSea https://t.co/Kaockw2Oku",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HWCe8lLSea",
+						"expanded_url": "https://sparktoro.com/blog/last-day-moz-first-day-sparktoro/",
+						"display_url": "sparktoro.com/blog/last-day-…",
+						"indices": [
+							39,
+							62
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 968759524688621600,
+						"id_str": "968759524688621573",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/DXG5p63XcAUTvYL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXG5p63XcAUTvYL.jpg",
+						"url": "https://t.co/Kaockw2Oku",
+						"display_url": "pic.twitter.com/Kaockw2Oku",
+						"expanded_url": "https://twitter.com/randfish/status/968759712098476032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1050,
+								"h": 591,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1050,
+								"h": 591,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 968759524688621600,
+						"id_str": "968759524688621573",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/DXG5p63XcAUTvYL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXG5p63XcAUTvYL.jpg",
+						"url": "https://t.co/Kaockw2Oku",
+						"display_url": "pic.twitter.com/Kaockw2Oku",
+						"expanded_url": "https://twitter.com/randfish/status/968759712098476032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1050,
+								"h": 591,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1050,
+								"h": 591,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6527972,
+				"id_str": "6527972",
+				"name": "Rand Fishkin",
+				"screen_name": "randfish",
+				"location": "Seattle, WA",
+				"description": "Founder of @SparkToro, husband to @everywhereist, feminist, author of \"Lost & Founder\". Formerly @Moz. I tweet ~40X/wk on marketing, tech, & startups.",
+				"url": "https://t.co/tOKbw6ghwe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tOKbw6ghwe",
+								"expanded_url": "http://sparktoro.com",
+								"display_url": "sparktoro.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 406340,
+				"friends_count": 173,
+				"listed_count": 16884,
+				"created_at": "Sat Jun 02 19:28:10 +0000 2007",
+				"favourites_count": 51450,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 43367,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/881269994/fad0bf52a96375d0503349c44d86fc9b.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/881269994/fad0bf52a96375d0503349c44d86fc9b.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/858074513438683136/9Ad9myFy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/858074513438683136/9Ad9myFy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6527972/1398234270",
+				"profile_link_color": "1495FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CBDE50",
+				"profile_text_color": "2F6AD8",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 533,
+			"favorite_count": 2205,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 533,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 03 02:53:36 +0000 2018",
 		"id": 969767721280749600,
 		"id_str": "969767721280749569",
