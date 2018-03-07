@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Wed Mar 07 10:12:54 +0000 2018",
+		"id": 971327824798793700,
+		"id_str": "971327824798793728",
+		"text": "RT @ProductHunt: Run a crypto community?\n\nAutomate your moderation with this bot: https://t.co/rFbq6io9No https://t.co/l91fT9TL4b",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProductHunt",
+					"name": "Product Hunt",
+					"id": 2208027565,
+					"id_str": "2208027565",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rFbq6io9No",
+					"expanded_url": "https://www.producthunt.com/posts/cryptomod",
+					"display_url": "producthunt.com/posts/cryptomod",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 971121248389312500,
+					"id_str": "971121248389312512",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DXodoVQUMAAxVuW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXodoVQUMAAxVuW.jpg",
+					"url": "https://t.co/l91fT9TL4b",
+					"display_url": "pic.twitter.com/l91fT9TL4b",
+					"expanded_url": "https://twitter.com/ProductHunt/status/971121250067206144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 971121250067206100,
+					"source_status_id_str": "971121250067206144",
+					"source_user_id": 2208027565,
+					"source_user_id_str": "2208027565"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 971121248389312500,
+					"id_str": "971121248389312512",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DXodoVQUMAAxVuW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXodoVQUMAAxVuW.jpg",
+					"url": "https://t.co/l91fT9TL4b",
+					"display_url": "pic.twitter.com/l91fT9TL4b",
+					"expanded_url": "https://twitter.com/ProductHunt/status/971121250067206144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 971121250067206100,
+					"source_status_id_str": "971121250067206144",
+					"source_user_id": 2208027565,
+					"source_user_id_str": "2208027565"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39326,
+			"friends_count": 25285,
+			"listed_count": 1084,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11551,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11479,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 06 20:32:03 +0000 2018",
+			"id": 971121250067206100,
+			"id_str": "971121250067206144",
+			"text": "Run a crypto community?\n\nAutomate your moderation with this bot: https://t.co/rFbq6io9No https://t.co/l91fT9TL4b",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rFbq6io9No",
+						"expanded_url": "https://www.producthunt.com/posts/cryptomod",
+						"display_url": "producthunt.com/posts/cryptomod",
+						"indices": [
+							65,
+							88
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 971121248389312500,
+						"id_str": "971121248389312512",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DXodoVQUMAAxVuW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXodoVQUMAAxVuW.jpg",
+						"url": "https://t.co/l91fT9TL4b",
+						"display_url": "pic.twitter.com/l91fT9TL4b",
+						"expanded_url": "https://twitter.com/ProductHunt/status/971121250067206144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 971121248389312500,
+						"id_str": "971121248389312512",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DXodoVQUMAAxVuW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXodoVQUMAAxVuW.jpg",
+						"url": "https://t.co/l91fT9TL4b",
+						"display_url": "pic.twitter.com/l91fT9TL4b",
+						"expanded_url": "https://twitter.com/ProductHunt/status/971121250067206144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2208027565,
+				"id_str": "2208027565",
+				"name": "Product Hunt",
+				"screen_name": "ProductHunt",
+				"location": "producthunt.com",
+				"description": "The place to discover your next favorite thing. @ProductHuntLIVE 💬 @AskProductHunt 🤔 Emoji spirit of @AngelList ✌️",
+				"url": "https://t.co/n3AyRJAeYv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/n3AyRJAeYv",
+								"expanded_url": "http://producthunt.com/newsletter",
+								"display_url": "producthunt.com/newsletter",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 325514,
+				"friends_count": 28,
+				"listed_count": 5114,
+				"created_at": "Fri Nov 22 00:06:06 +0000 2013",
+				"favourites_count": 73456,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 101401,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAFAFA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/939537169647132672/8cevfMA8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/939537169647132672/8cevfMA8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2208027565/1512835973",
+				"profile_link_color": "DA552F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 13,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 07 08:00:53 +0000 2018",
 		"id": 971294601653956600,
 		"id_str": "971294601653956608",
