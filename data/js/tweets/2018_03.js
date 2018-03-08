@@ -1,10 +1,591 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Thu Mar 08 09:08:23 +0000 2018",
+		"id": 971673975062327300,
+		"id_str": "971673975062327298",
+		"text": "RT @caityydid: wow I love the internet https://t.co/NMwvYmAm2h",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "caityydid",
+					"name": "Caitlin Bergstrom",
+					"id": 954062498,
+					"id_str": "954062498",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NMwvYmAm2h",
+					"expanded_url": "https://twitter.com/alplicable/status/824742568852353026",
+					"display_url": "twitter.com/alplicable/sta…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39446,
+			"friends_count": 26249,
+			"listed_count": 1082,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11564,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11492,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 07 23:19:11 +0000 2018",
+			"id": 971525698396487700,
+			"id_str": "971525698396487681",
+			"text": "wow I love the internet https://t.co/NMwvYmAm2h",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NMwvYmAm2h",
+						"expanded_url": "https://twitter.com/alplicable/status/824742568852353026",
+						"display_url": "twitter.com/alplicable/sta…",
+						"indices": [
+							24,
+							47
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 954062498,
+				"id_str": "954062498",
+				"name": "Caitlin Bergstrom",
+				"screen_name": "caityydid",
+				"location": "Washington, D.C.",
+				"description": "jokes about pop culture / serious about science & politics. very Midwestern.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 168,
+				"friends_count": 309,
+				"listed_count": 1,
+				"created_at": "Sat Nov 17 18:11:57 +0000 2012",
+				"favourites_count": 3541,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2687,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000153375904/r2AMOcuX.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000153375904/r2AMOcuX.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/748659247873933312/a5hFXxxH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/748659247873933312/a5hFXxxH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/954062498/1487368686",
+				"profile_link_color": "3BA5B3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 824742568852353000,
+			"quoted_status_id_str": "824742568852353026",
+			"quoted_status": {
+				"created_at": "Thu Jan 26 22:15:26 +0000 2017",
+				"id": 824742568852353000,
+				"id_str": "824742568852353026",
+				"text": "It's gone now but someone had edited the Wikipedia page for invertebrates to include Paul Ryan 😂😂😂 https://t.co/Oe7qOSp027",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 824742549143351300,
+							"id_str": "824742549143351297",
+							"indices": [
+								99,
+								122
+							],
+							"media_url": "http://pbs.twimg.com/media/C3IS-pDW8AE5hr3.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C3IS-pDW8AE5hr3.jpg",
+							"url": "https://t.co/Oe7qOSp027",
+							"display_url": "pic.twitter.com/Oe7qOSp027",
+							"expanded_url": "https://twitter.com/alplicable/status/824742568852353026/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 479,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 499,
+									"h": 709,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 499,
+									"h": 709,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 824742549143351300,
+							"id_str": "824742549143351297",
+							"indices": [
+								99,
+								122
+							],
+							"media_url": "http://pbs.twimg.com/media/C3IS-pDW8AE5hr3.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C3IS-pDW8AE5hr3.jpg",
+							"url": "https://t.co/Oe7qOSp027",
+							"display_url": "pic.twitter.com/Oe7qOSp027",
+							"expanded_url": "https://twitter.com/alplicable/status/824742568852353026/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 479,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 499,
+									"h": 709,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 499,
+									"h": 709,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 22981298,
+					"id_str": "22981298",
+					"name": "Alp Ozcelik",
+					"screen_name": "alplicable",
+					"location": "New York, NY",
+					"description": "Product Support // Problem Solver @BuzzFeed - News and thoughts on pop culture, tech, politics and LGBTQ issues - There's an Alp for that!™",
+					"url": "https://t.co/PTflQHCYL6",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/PTflQHCYL6",
+									"expanded_url": "http://buzzfeed.com/alpozcelik",
+									"display_url": "buzzfeed.com/alpozcelik",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 7467,
+					"friends_count": 1288,
+					"listed_count": 144,
+					"created_at": "Thu Mar 05 21:22:56 +0000 2009",
+					"favourites_count": 83989,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 37631,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "9AE4E8",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/254961830/200743_10150123481523911_529878910_6365247_1263985_n.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/254961830/200743_10150123481523911_529878910_6365247_1263985_n.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/960293488830173184/BcMfWiq6_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/960293488830173184/BcMfWiq6_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/22981298/1476731937",
+					"profile_link_color": "CC99AB",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDFFCC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 14089,
+				"favorite_count": 32091,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 7,
+			"favorite_count": 19,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 824742568852353000,
+		"quoted_status_id_str": "824742568852353026",
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Mar 08 08:30:24 +0000 2018",
+		"id": 971664416092708900,
+		"id_str": "971664416092708866",
+		"text": "Thorn among the roses 🌹🥀🌹\n#friends #baebies #littlestoriesofmylife #ipreview https://t.co/l7DQPc5KVp https://t.co/kirx4CKVTb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "friends",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"text": "baebies",
+					"indices": [
+						35,
+						43
+					]
+				},
+				{
+					"text": "littlestoriesofmylife",
+					"indices": [
+						44,
+						66
+					]
+				},
+				{
+					"text": "ipreview",
+					"indices": [
+						67,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l7DQPc5KVp",
+					"expanded_url": "https://www.instagram.com/p/BgDjqnIleCS/",
+					"display_url": "instagram.com/p/BgDjqnIleCS/",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 971664413542551600,
+					"id_str": "971664413542551553",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DXwLotIXkAEROMx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXwLotIXkAEROMx.jpg",
+					"url": "https://t.co/kirx4CKVTb",
+					"display_url": "pic.twitter.com/kirx4CKVTb",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/971664416092708866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 464,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 464,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 464,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 971664413542551600,
+					"id_str": "971664413542551553",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DXwLotIXkAEROMx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXwLotIXkAEROMx.jpg",
+					"url": "https://t.co/kirx4CKVTb",
+					"display_url": "pic.twitter.com/kirx4CKVTb",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/971664416092708866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 464,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 464,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 464,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39446,
+			"friends_count": 26249,
+			"listed_count": 1082,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11564,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11492,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 08 07:10:13 +0000 2018",
 		"id": 971644240697503700,
 		"id_str": "971644240697503746",
-		"text": "#PressforProgress! A shoutout to all the ladies on Twitter on #IWD2018 #WomansDay 🙋‍♀️ https://t.co/krNLsiTMbq",
+		"text": "#PressforProgress! A shoutout to all the ladies on Twitter on #IWD2018 #WomansDay 🙋♀️ https://t.co/krNLsiTMbq",
 		"truncated": false,
 		"entities": {
 			"hashtags": [
