@@ -1,6 +1,442 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Thu Mar 08 11:48:37 +0000 2018",
+		"id": 971714299709210600,
+		"id_str": "971714299709210625",
+		"text": "RT @HYPEBEAST: .@McDonalds celebrates International Women’s Day by flipping its Arches.\nhttps://t.co/tIEVM0kf2S",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HYPEBEAST",
+					"name": "HYPEBEAST",
+					"id": 18286505,
+					"id_str": "18286505",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "McDonalds",
+					"name": "McDonald's",
+					"id": 71026122,
+					"id_str": "71026122",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tIEVM0kf2S",
+					"expanded_url": "https://hypebeast.com/2018/3/mcdonalds-upside-down-arches-womens-day?utm_source=twitter&utm_medium=social&utm_campaign=twitter_post",
+					"display_url": "hypebeast.com/2018/3/mcdonal…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39456,
+			"friends_count": 26268,
+			"listed_count": 1076,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11574,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11494,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 08 06:18:37 +0000 2018",
+			"id": 971631255065264100,
+			"id_str": "971631255065264128",
+			"text": ".@McDonalds celebrates International Women’s Day by flipping its Arches.\nhttps://t.co/tIEVM0kf2S",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "McDonalds",
+						"name": "McDonald's",
+						"id": 71026122,
+						"id_str": "71026122",
+						"indices": [
+							1,
+							11
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/tIEVM0kf2S",
+						"expanded_url": "https://hypebeast.com/2018/3/mcdonalds-upside-down-arches-womens-day?utm_source=twitter&utm_medium=social&utm_campaign=twitter_post",
+						"display_url": "hypebeast.com/2018/3/mcdonal…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18286505,
+				"id_str": "18286505",
+				"name": "HYPEBEAST",
+				"screen_name": "HYPEBEAST",
+				"location": "",
+				"description": "Download the HYPEBEAST App now at the Apple App Store! Follow us on Instagram: @hypebeast",
+				"url": "https://t.co/G8lintMb0B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G8lintMb0B",
+								"expanded_url": "http://hypebeast.com",
+								"display_url": "hypebeast.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 560337,
+				"friends_count": 96,
+				"listed_count": 5281,
+				"created_at": "Sun Dec 21 15:54:27 +0000 2008",
+				"favourites_count": 1026,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 101113,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/961947408862253056/I92WC-7U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/961947408862253056/I92WC-7U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18286505/1520368214",
+				"profile_link_color": "A8A8A8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDDDDD",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 74,
+			"favorite_count": 233,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Mar 08 11:48:25 +0000 2018",
+		"id": 971714251982225400,
+		"id_str": "971714251982225409",
+		"text": "RT @cabel: McDonalds is flipping one of their signs to celebrate International Women's Day, which is cool! but as a bonus now they can sue…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cabel",
+					"name": "Cabel Sasser",
+					"id": 1919231,
+					"id_str": "1919231",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39456,
+			"friends_count": 26268,
+			"listed_count": 1076,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11574,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11494,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 07 19:43:41 +0000 2018",
+			"id": 971471468289712100,
+			"id_str": "971471468289712128",
+			"text": "McDonalds is flipping one of their signs to celebrate International Women's Day, which is cool! but as a bonus now… https://t.co/k7fhDhAzXX",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/k7fhDhAzXX",
+						"expanded_url": "https://twitter.com/i/web/status/971471468289712128",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1919231,
+				"id_str": "1919231",
+				"name": "Cabel Sasser",
+				"screen_name": "cabel",
+				"location": "Portland, OR",
+				"description": "Co-founder of Panic Inc (Mac/iOS apps like Coda, Transmit, etc) ⋆ Publisher of the Video Game Firewatch ⋆ Sometime Composer",
+				"url": "https://t.co/qcZPAuutM5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qcZPAuutM5",
+								"expanded_url": "http://cabel.me",
+								"display_url": "cabel.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 71220,
+				"friends_count": 515,
+				"listed_count": 1887,
+				"created_at": "Thu Mar 22 18:25:28 +0000 2007",
+				"favourites_count": 20024,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 28241,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF8269",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/634340846/x581956eda62360f7bbdddf51c9d9495.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/634340846/x581956eda62360f7bbdddf51c9d9495.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/763137848916660224/Llcjv9V5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/763137848916660224/Llcjv9V5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1919231/1463615639",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C1EC97",
+				"profile_text_color": "75D1A3",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2931,
+			"favorite_count": 5115,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2931,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 08 09:08:23 +0000 2018",
 		"id": 971673975062327300,
 		"id_str": "971673975062327298",
