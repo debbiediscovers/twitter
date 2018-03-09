@@ -1,10 +1,140 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Fri Mar 09 10:10:41 +0000 2018",
+		"id": 972052043866222600,
+		"id_str": "972052043866222592",
+		"text": "#Bae miss you babe! #happymemories at your gorgeous wedding in Marseilles #sunshine #sunshinetherapy… https://t.co/ynrz5AgaNu",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bae",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "happymemories",
+					"indices": [
+						20,
+						34
+					]
+				},
+				{
+					"text": "sunshine",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"text": "sunshinetherapy",
+					"indices": [
+						84,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ynrz5AgaNu",
+					"expanded_url": "https://twitter.com/i/web/status/972052043866222592",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39439,
+			"friends_count": 25949,
+			"listed_count": 1081,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11585,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11508,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Mar 09 05:01:56 +0000 2018",
 		"id": 971974343319216100,
 		"id_str": "971974343319216129",
-		"text": "RT @debbiediscovers: #PressforProgress! A shoutout to all the ladies on Twitter on #IWD2018 #WomansDay 🙋‍♀️ https://t.co/krNLsiTMbq",
+		"text": "RT @debbiediscovers: #PressforProgress! A shoutout to all the ladies on Twitter on #IWD2018 #WomansDay 🙋♀️ https://t.co/krNLsiTMbq",
 		"truncated": false,
 		"entities": {
 			"hashtags": [
@@ -206,7 +336,7 @@ Grailbird.data.tweets_2018_03 =
 			"created_at": "Thu Mar 08 07:10:13 +0000 2018",
 			"id": 971644240697503700,
 			"id_str": "971644240697503746",
-			"text": "#PressforProgress! A shoutout to all the ladies on Twitter on #IWD2018 #WomansDay 🙋‍♀️ https://t.co/krNLsiTMbq",
+			"text": "#PressforProgress! A shoutout to all the ladies on Twitter on #IWD2018 #WomansDay 🙋♀️ https://t.co/krNLsiTMbq",
 			"truncated": false,
 			"entities": {
 				"hashtags": [
