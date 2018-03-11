@@ -1,6 +1,1238 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sun Mar 11 12:53:56 +0000 2018",
+		"id": 972817900804493300,
+		"id_str": "972817900804493312",
+		"text": "I love love love ex @kpcb John Maeda’s annual #DesigninTech report. This year, just released at #SXSW2018 - he focu… https://t.co/wkdpzYHIEW",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DesigninTech",
+					"indices": [
+						46,
+						59
+					]
+				},
+				{
+					"text": "SXSW2018",
+					"indices": [
+						96,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kpcb",
+					"name": "Kleiner Perkins",
+					"id": 185808487,
+					"id_str": "185808487",
+					"indices": [
+						20,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wkdpzYHIEW",
+					"expanded_url": "https://twitter.com/i/web/status/972817900804493312",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39519,
+			"friends_count": 27779,
+			"listed_count": 6,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11743,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11663,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 11 12:48:26 +0000 2018",
+		"id": 972816516545572900,
+		"id_str": "972816516545572864",
+		"text": "RT @johnmaeda: Quick HD video walkthrough of the #DesignInTech Report is now up as well a summary over on LI. https://t.co/Mwi68rplmN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DesignInTech",
+					"indices": [
+						49,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johnmaeda",
+					"name": "John Maeda",
+					"id": 15414807,
+					"id_str": "15414807",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Mwi68rplmN",
+					"expanded_url": "https://www.linkedin.com/pulse/2018-designintech-report-overview-from-sxsw-john-maeda/",
+					"display_url": "linkedin.com/pulse/2018-des…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39519,
+			"friends_count": 27779,
+			"listed_count": 6,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11743,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11663,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 10 23:08:23 +0000 2018",
+			"id": 972610145871126500,
+			"id_str": "972610145871126528",
+			"text": "Quick HD video walkthrough of the #DesignInTech Report is now up as well a summary over on LI. https://t.co/Mwi68rplmN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DesignInTech",
+						"indices": [
+							34,
+							47
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Mwi68rplmN",
+						"expanded_url": "https://www.linkedin.com/pulse/2018-designintech-report-overview-from-sxsw-john-maeda/",
+						"display_url": "linkedin.com/pulse/2018-des…",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15414807,
+				"id_str": "15414807",
+				"name": "John Maeda",
+				"screen_name": "johnmaeda",
+				"location": "maeda.pm",
+				"description": "🌎Head of Computational Design & Inclusion @Automattic | WordPress | #DesignInTech Report | KPCB | Sonos | W+K | STEM to STEAM | AGI | https://t.co/qczUZqcq8h",
+				"url": "https://t.co/ybaZAgMJXc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ybaZAgMJXc",
+								"expanded_url": "https://maedastudio.com",
+								"display_url": "maedastudio.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/qczUZqcq8h",
+								"expanded_url": "http://youtu.be/EGbNIN8BTDY",
+								"display_url": "youtu.be/EGbNIN8BTDY",
+								"indices": [
+									134,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 443329,
+				"friends_count": 23542,
+				"listed_count": 9788,
+				"created_at": "Sun Jul 13 13:51:22 +0000 2008",
+				"favourites_count": 15986,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15204,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "AEA79F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493462294504812544/X0naMjbb.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493462294504812544/X0naMjbb.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839937736018501632/0aXmic50_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839937736018501632/0aXmic50_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15414807/1471544230",
+				"profile_link_color": "332E2C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 55,
+			"favorite_count": 130,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 11 12:48:21 +0000 2018",
+		"id": 972816496295424000,
+		"id_str": "972816496295424000",
+		"text": "RT @johnmaeda: “The Most Important Design Skill For An AI-Dominated World” by Katharine Schwab https://t.co/Zmii5szYe9 #DesignInTech https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DesignInTech",
+					"indices": [
+						119,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johnmaeda",
+					"name": "John Maeda",
+					"id": 15414807,
+					"id_str": "15414807",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Zmii5szYe9",
+					"expanded_url": "https://www.fastcodesign.com/90163779/the-most-important-design-skill-for-an-ai-dominated-world",
+					"display_url": "fastcodesign.com/90163779/the-m…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39519,
+			"friends_count": 27779,
+			"listed_count": 6,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11743,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11663,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 10 19:44:39 +0000 2018",
+			"id": 972558873373618200,
+			"id_str": "972558873373618176",
+			"text": "“The Most Important Design Skill For An AI-Dominated World” by Katharine Schwab https://t.co/Zmii5szYe9… https://t.co/7hn4sfX1BW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Zmii5szYe9",
+						"expanded_url": "https://www.fastcodesign.com/90163779/the-most-important-design-skill-for-an-ai-dominated-world",
+						"display_url": "fastcodesign.com/90163779/the-m…",
+						"indices": [
+							80,
+							103
+						]
+					},
+					{
+						"url": "https://t.co/7hn4sfX1BW",
+						"expanded_url": "https://twitter.com/i/web/status/972558873373618176",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15414807,
+				"id_str": "15414807",
+				"name": "John Maeda",
+				"screen_name": "johnmaeda",
+				"location": "maeda.pm",
+				"description": "🌎Head of Computational Design & Inclusion @Automattic | WordPress | #DesignInTech Report | KPCB | Sonos | W+K | STEM to STEAM | AGI | https://t.co/qczUZqcq8h",
+				"url": "https://t.co/ybaZAgMJXc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ybaZAgMJXc",
+								"expanded_url": "https://maedastudio.com",
+								"display_url": "maedastudio.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/qczUZqcq8h",
+								"expanded_url": "http://youtu.be/EGbNIN8BTDY",
+								"display_url": "youtu.be/EGbNIN8BTDY",
+								"indices": [
+									134,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 443329,
+				"friends_count": 23542,
+				"listed_count": 9788,
+				"created_at": "Sun Jul 13 13:51:22 +0000 2008",
+				"favourites_count": 15986,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15204,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "AEA79F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493462294504812544/X0naMjbb.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493462294504812544/X0naMjbb.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839937736018501632/0aXmic50_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839937736018501632/0aXmic50_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15414807/1471544230",
+				"profile_link_color": "332E2C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 58,
+			"favorite_count": 137,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 11 12:48:17 +0000 2018",
+		"id": 972816480965337100,
+		"id_str": "972816480965337088",
+		"text": "RT @johnmaeda: 2018 #DesignInTech Report presents today at @SXSW -- thanks for all your help. https://t.co/MEvXuY6anN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DesignInTech",
+					"indices": [
+						20,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johnmaeda",
+					"name": "John Maeda",
+					"id": 15414807,
+					"id_str": "15414807",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "sxsw",
+					"name": "SXSW",
+					"id": 784304,
+					"id_str": "784304",
+					"indices": [
+						59,
+						64
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 972489660705382400,
+					"id_str": "972489660705382400",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DX76MaYVoAAm88A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX76MaYVoAAm88A.jpg",
+					"url": "https://t.co/MEvXuY6anN",
+					"display_url": "pic.twitter.com/MEvXuY6anN",
+					"expanded_url": "https://twitter.com/johnmaeda/status/972489678753619968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 972489678753620000,
+					"source_status_id_str": "972489678753619968",
+					"source_user_id": 15414807,
+					"source_user_id_str": "15414807"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 972489660705382400,
+					"id_str": "972489660705382400",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DX76MaYVoAAm88A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX76MaYVoAAm88A.jpg",
+					"url": "https://t.co/MEvXuY6anN",
+					"display_url": "pic.twitter.com/MEvXuY6anN",
+					"expanded_url": "https://twitter.com/johnmaeda/status/972489678753619968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 972489678753620000,
+					"source_status_id_str": "972489678753619968",
+					"source_user_id": 15414807,
+					"source_user_id_str": "15414807"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39519,
+			"friends_count": 27779,
+			"listed_count": 6,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11743,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11663,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 10 15:09:42 +0000 2018",
+			"id": 972489678753620000,
+			"id_str": "972489678753619968",
+			"text": "2018 #DesignInTech Report presents today at @SXSW -- thanks for all your help. https://t.co/MEvXuY6anN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DesignInTech",
+						"indices": [
+							5,
+							18
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sxsw",
+						"name": "SXSW",
+						"id": 784304,
+						"id_str": "784304",
+						"indices": [
+							44,
+							49
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 972489660705382400,
+						"id_str": "972489660705382400",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DX76MaYVoAAm88A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX76MaYVoAAm88A.jpg",
+						"url": "https://t.co/MEvXuY6anN",
+						"display_url": "pic.twitter.com/MEvXuY6anN",
+						"expanded_url": "https://twitter.com/johnmaeda/status/972489678753619968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 972489660705382400,
+						"id_str": "972489660705382400",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DX76MaYVoAAm88A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX76MaYVoAAm88A.jpg",
+						"url": "https://t.co/MEvXuY6anN",
+						"display_url": "pic.twitter.com/MEvXuY6anN",
+						"expanded_url": "https://twitter.com/johnmaeda/status/972489678753619968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15414807,
+				"id_str": "15414807",
+				"name": "John Maeda",
+				"screen_name": "johnmaeda",
+				"location": "maeda.pm",
+				"description": "🌎Head of Computational Design & Inclusion @Automattic | WordPress | #DesignInTech Report | KPCB | Sonos | W+K | STEM to STEAM | AGI | https://t.co/qczUZqcq8h",
+				"url": "https://t.co/ybaZAgMJXc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ybaZAgMJXc",
+								"expanded_url": "https://maedastudio.com",
+								"display_url": "maedastudio.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/qczUZqcq8h",
+								"expanded_url": "http://youtu.be/EGbNIN8BTDY",
+								"display_url": "youtu.be/EGbNIN8BTDY",
+								"indices": [
+									134,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 443329,
+				"friends_count": 23542,
+				"listed_count": 9788,
+				"created_at": "Sun Jul 13 13:51:22 +0000 2008",
+				"favourites_count": 15986,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15204,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "AEA79F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493462294504812544/X0naMjbb.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493462294504812544/X0naMjbb.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839937736018501632/0aXmic50_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839937736018501632/0aXmic50_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15414807/1471544230",
+				"profile_link_color": "332E2C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 77,
+			"favorite_count": 406,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 11 12:32:46 +0000 2018",
+		"id": 972812574130491400,
+		"id_str": "972812574130491393",
+		"text": "@zaklina15 🍟🍟❤️😍👍",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zaklina15",
+					"name": "Zaklina ...",
+					"id": 22248534,
+					"id_str": "22248534",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 972810110136299500,
+		"in_reply_to_status_id_str": "972810110136299521",
+		"in_reply_to_user_id": 22248534,
+		"in_reply_to_user_id_str": "22248534",
+		"in_reply_to_screen_name": "zaklina15",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39519,
+			"friends_count": 27779,
+			"listed_count": 6,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11743,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11663,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sun Mar 11 12:13:57 +0000 2018",
+		"id": 972807839507923000,
+		"id_str": "972807839507922944",
+		"text": "“Porn Is Not the Worst Thing on https://t.co/2REdd0RAOD” by @IWorryAboutYou https://t.co/wvFv9Xyzrm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IWorryAboutYou",
+					"name": "Anastasia Basil",
+					"id": 362487618,
+					"id_str": "362487618",
+					"indices": [
+						60,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2REdd0RAOD",
+					"expanded_url": "http://Musical.ly",
+					"display_url": "Musical.ly",
+					"indices": [
+						32,
+						55
+					]
+				},
+				{
+					"url": "https://t.co/wvFv9Xyzrm",
+					"expanded_url": "https://medium.com/@anastasiabasilcunningham/porn-is-not-the-worst-thing-on-musical-ly-5df07ab842af",
+					"display_url": "medium.com/@anastasiabasi…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39519,
+			"friends_count": 27779,
+			"listed_count": 6,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11743,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11663,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Mar 11 12:05:17 +0000 2018",
 		"id": 972805659098980400,
 		"id_str": "972805659098980352",
