@@ -1,6 +1,3370 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Fri Mar 16 11:29:37 +0000 2018",
+		"id": 974608621295296500,
+		"id_str": "974608621295296512",
+		"text": "In 2050, there will be more plastic in the sea than fishes if we continue ... 😔 🐋🐳🐬🐟🐠🌎\n⠀⠀\nSo how? ⠀⠀\n#cleanregattas… https://t.co/ogqRcO6E2o",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cleanregattas",
+					"indices": [
+						101,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ogqRcO6E2o",
+					"expanded_url": "https://twitter.com/i/web/status/974608621295296512",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39907,
+			"friends_count": 27559,
+			"listed_count": 1078,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11433,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 16 11:20:17 +0000 2018",
+		"id": 974606271927132200,
+		"id_str": "974606271927132160",
+		"text": "RT @JBZOOGR: ⭐️⭐️⭐️⭐️A LITTLE LUMPY\nA little bumpy at first, but can go a long time without food or water. Great for long trips through the…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JBZOOGR",
+					"name": "JOHN BALL ZOO",
+					"id": 88988050,
+					"id_str": "88988050",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39907,
+			"friends_count": 27559,
+			"listed_count": 1078,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11433,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 18:46:58 +0000 2018",
+			"id": 972181969609154600,
+			"id_str": "972181969609154561",
+			"text": "⭐️⭐️⭐️⭐️A LITTLE LUMPY\nA little bumpy at first, but can go a long time without food or water. Great for long trips… https://t.co/co79DbUW5M",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/co79DbUW5M",
+						"expanded_url": "https://twitter.com/i/web/status/972181969609154561",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 88988050,
+				"id_str": "88988050",
+				"name": "JOHN BALL ZOO",
+				"screen_name": "JBZOOGR",
+				"location": "Grand Rapids, Michigan",
+				"description": "Over 1,300 animals! 7 interactive experiences incl. zipline and high ropes course.  616-336-4300.",
+				"url": "http://t.co/NGEAMCPjOm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/NGEAMCPjOm",
+								"expanded_url": "http://www.jbzoo.org",
+								"display_url": "jbzoo.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3380,
+				"friends_count": 570,
+				"listed_count": 102,
+				"created_at": "Tue Nov 10 18:25:04 +0000 2009",
+				"favourites_count": 3178,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 582,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877916678797111296/y6p3aH1Q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877916678797111296/y6p3aH1Q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/88988050/1498150969",
+				"profile_link_color": "228E23",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 116,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 16 11:20:04 +0000 2018",
+		"id": 974606219703853000,
+		"id_str": "974606219703853056",
+		"text": "RT @LASM: ⭐️⭐️⭐️⭐️⭐️OMG AMAZING!\nI don't get these one star reviews. It keeps my little seal problem in check very well and it looks majest…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LASM",
+					"name": "LASM",
+					"id": 20467035,
+					"id_str": "20467035",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39907,
+			"friends_count": 27559,
+			"listed_count": 1078,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11433,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 20:45:27 +0000 2018",
+			"id": 972211784974204900,
+			"id_str": "972211784974204931",
+			"text": "⭐️⭐️⭐️⭐️⭐️OMG AMAZING!\nI don't get these one star reviews. It keeps my little seal problem in check very well and i… https://t.co/EXkLL47ffZ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EXkLL47ffZ",
+						"expanded_url": "https://twitter.com/i/web/status/972211784974204931",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20467035,
+				"id_str": "20467035",
+				"name": "LASM",
+				"screen_name": "LASM",
+				"location": "Baton Rouge, Louisiana",
+				"description": "Located on the banks of the Mississippi River, the Louisiana Art & Science Museum offers educational entertainment for visitors of all ages.\nFacebook: @theLASM",
+				"url": "http://t.co/98BAyt0ycT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/98BAyt0ycT",
+								"expanded_url": "http://www.lasm.org",
+								"display_url": "lasm.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7641,
+				"friends_count": 1353,
+				"listed_count": 383,
+				"created_at": "Mon Feb 09 21:03:56 +0000 2009",
+				"favourites_count": 456,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3378,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "272120",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4411995/lasm_twbkg.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4411995/lasm_twbkg.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/962082301600350208/mBKfi5gB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/962082301600350208/mBKfi5gB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20467035/1518213365",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "AFBC24",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 214,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 16 11:19:56 +0000 2018",
+		"id": 974606184811393000,
+		"id_str": "974606184811393024",
+		"text": "RT @MontereyAq: ⭐️⭐️⭐️⭐️NO ORGANS NO PROBLEM\nGreat organic alternative to your parent’s lava lamp. Heartless, brainless and spineless yet m…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MontereyAq",
+					"name": "Monterey Bay Aquarium",
+					"id": 14750983,
+					"id_str": "14750983",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39907,
+			"friends_count": 27559,
+			"listed_count": 1078,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11433,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 18:05:28 +0000 2018",
+			"id": 972171527750803500,
+			"id_str": "972171527750803456",
+			"text": "⭐️⭐️⭐️⭐️NO ORGANS NO PROBLEM\nGreat organic alternative to your parent’s lava lamp. Heartless, brainless and spinele… https://t.co/FC5TgRMDHo",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FC5TgRMDHo",
+						"expanded_url": "https://twitter.com/i/web/status/972171527750803456",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 972170160923529200,
+			"in_reply_to_status_id_str": "972170160923529216",
+			"in_reply_to_user_id": 14750983,
+			"in_reply_to_user_id_str": "14750983",
+			"in_reply_to_screen_name": "MontereyAq",
+			"user": {
+				"id": 14750983,
+				"id_str": "14750983",
+				"name": "Monterey Bay Aquarium",
+				"screen_name": "MontereyAq",
+				"location": "Monterey, CA",
+				"description": "Overlooking the wild #MontereyBay, we’re a pioneering aquarium with a mission to inspire conservation of the ocean. | @SeafoodWatch | Snapchat: montereyaq",
+				"url": "https://t.co/LCQXTggshF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LCQXTggshF",
+								"expanded_url": "http://montereybayaquarium.org",
+								"display_url": "montereybayaquarium.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 121516,
+				"friends_count": 2959,
+				"listed_count": 2402,
+				"created_at": "Mon May 12 22:35:13 +0000 2008",
+				"favourites_count": 31506,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29277,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "001D2F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/691877589/a2337352fd8166f23d37c0360f698588.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/691877589/a2337352fd8166f23d37c0360f698588.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875402344778702848/T5UKOyPO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875402344778702848/T5UKOyPO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14750983/1520191617",
+				"profile_link_color": "489FF5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "B4F3FF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 135,
+			"favorite_count": 611,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 16 11:19:47 +0000 2018",
+		"id": 974606145816952800,
+		"id_str": "974606145816952832",
+		"text": "RT @MontereyAq: ⭐️⭐️⭐️⭐️ PRAYING THEY KEEP MAKING THESE\nAs seen on @Oatmeal. Full set is the ultimate seafood multi-tool: tenderizes, slice…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MontereyAq",
+					"name": "Monterey Bay Aquarium",
+					"id": 14750983,
+					"id_str": "14750983",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "Oatmeal",
+					"name": "Matthew Inman",
+					"id": 4519121,
+					"id_str": "4519121",
+					"indices": [
+						67,
+						75
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39907,
+			"friends_count": 27559,
+			"listed_count": 1078,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11433,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 17:48:35 +0000 2018",
+			"id": 972167275510812700,
+			"id_str": "972167275510812674",
+			"text": "⭐️⭐️⭐️⭐️ PRAYING THEY KEEP MAKING THESE\nAs seen on @Oatmeal. Full set is the ultimate seafood multi-tool: tenderize… https://t.co/svlqYGIBNu",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Oatmeal",
+						"name": "Matthew Inman",
+						"id": 4519121,
+						"id_str": "4519121",
+						"indices": [
+							51,
+							59
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/svlqYGIBNu",
+						"expanded_url": "https://twitter.com/i/web/status/972167275510812674",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14750983,
+				"id_str": "14750983",
+				"name": "Monterey Bay Aquarium",
+				"screen_name": "MontereyAq",
+				"location": "Monterey, CA",
+				"description": "Overlooking the wild #MontereyBay, we’re a pioneering aquarium with a mission to inspire conservation of the ocean. | @SeafoodWatch | Snapchat: montereyaq",
+				"url": "https://t.co/LCQXTggshF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LCQXTggshF",
+								"expanded_url": "http://montereybayaquarium.org",
+								"display_url": "montereybayaquarium.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 121516,
+				"friends_count": 2959,
+				"listed_count": 2402,
+				"created_at": "Mon May 12 22:35:13 +0000 2008",
+				"favourites_count": 31506,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29277,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "001D2F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/691877589/a2337352fd8166f23d37c0360f698588.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/691877589/a2337352fd8166f23d37c0360f698588.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875402344778702848/T5UKOyPO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875402344778702848/T5UKOyPO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14750983/1520191617",
+				"profile_link_color": "489FF5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "B4F3FF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 288,
+			"favorite_count": 1279,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 288,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 16 11:18:11 +0000 2018",
+		"id": 974605743268626400,
+		"id_str": "974605743268626432",
+		"text": "RT @NEAQ: ⭐️⭐️⭐️⭐️ BEST DRESSED\nDapper styling, sick dance moves, occasional fish breath. Definitely performs better in groups.  \n#rateaspe…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NEAQ",
+					"name": "New England Aquarium",
+					"id": 16031679,
+					"id_str": "16031679",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39907,
+			"friends_count": 27559,
+			"listed_count": 1078,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11433,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 19:26:02 +0000 2018",
+			"id": 972191799824605200,
+			"id_str": "972191799824605184",
+			"text": "⭐️⭐️⭐️⭐️ BEST DRESSED\nDapper styling, sick dance moves, occasional fish breath. Definitely performs better in group… https://t.co/A1jLiqERBY",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/A1jLiqERBY",
+						"expanded_url": "https://twitter.com/i/web/status/972191799824605184",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16031679,
+				"id_str": "16031679",
+				"name": "New England Aquarium",
+				"screen_name": "NEAQ",
+				"location": "Central Wharf, Boston, MA",
+				"description": "The New England Aquarium is one of the premier visitor attractions in Boston. Our marine conservation, research and education programs span the globe.",
+				"url": "http://t.co/AoPEmou7Dh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/AoPEmou7Dh",
+								"expanded_url": "http://www.neaq.org",
+								"display_url": "neaq.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20528,
+				"friends_count": 654,
+				"listed_count": 843,
+				"created_at": "Thu Aug 28 19:44:54 +0000 2008",
+				"favourites_count": 4850,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 25391,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "001532",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/482562151643492352/qWoyiurn.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/482562151643492352/qWoyiurn.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852168222493114369/oxVJ08-w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852168222493114369/oxVJ08-w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16031679/1492008205",
+				"profile_link_color": "71DCFF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "7D8277",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 96,
+			"favorite_count": 646,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 16 11:18:01 +0000 2018",
+		"id": 974605703649280000,
+		"id_str": "974605703649280000",
+		"text": "RT @MontereyAq: ⭐️⭐️⭐️⭐️ 👍👍👍👍👍👍👍👍\nlove that it fits any space. adjustable color to match your mood/location. extremely grippy base. ink inc…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MontereyAq",
+					"name": "Monterey Bay Aquarium",
+					"id": 14750983,
+					"id_str": "14750983",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39907,
+			"friends_count": 27559,
+			"listed_count": 1078,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11433,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 19:04:36 +0000 2018",
+			"id": 972186407300055000,
+			"id_str": "972186407300055041",
+			"text": "⭐️⭐️⭐️⭐️ 👍👍👍👍👍👍👍👍\nlove that it fits any space. adjustable color to match your mood/location. extremely grippy base.… https://t.co/rZsUrfEdwD",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rZsUrfEdwD",
+						"expanded_url": "https://twitter.com/i/web/status/972186407300055041",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14750983,
+				"id_str": "14750983",
+				"name": "Monterey Bay Aquarium",
+				"screen_name": "MontereyAq",
+				"location": "Monterey, CA",
+				"description": "Overlooking the wild #MontereyBay, we’re a pioneering aquarium with a mission to inspire conservation of the ocean. | @SeafoodWatch | Snapchat: montereyaq",
+				"url": "https://t.co/LCQXTggshF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LCQXTggshF",
+								"expanded_url": "http://montereybayaquarium.org",
+								"display_url": "montereybayaquarium.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 121516,
+				"friends_count": 2959,
+				"listed_count": 2402,
+				"created_at": "Mon May 12 22:35:13 +0000 2008",
+				"favourites_count": 31506,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29277,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "001D2F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/691877589/a2337352fd8166f23d37c0360f698588.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/691877589/a2337352fd8166f23d37c0360f698588.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875402344778702848/T5UKOyPO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875402344778702848/T5UKOyPO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14750983/1520191617",
+				"profile_link_color": "489FF5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "B4F3FF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 402,
+			"favorite_count": 1495,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 402,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 16 11:17:52 +0000 2018",
+		"id": 974605662951948300,
+		"id_str": "974605662951948288",
+		"text": "RT @C_Quinn_Books: 0/5 🌟 DOES NOT TASTE LIKE BANANA. #rateaspecies https://t.co/OF0cHEn7L6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rateaspecies",
+					"indices": [
+						53,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "C_Quinn_Books",
+					"name": "Camellia Quinn",
+					"id": 946640817615024100,
+					"id_str": "946640817615024128",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 973370569369337900,
+					"id_str": "973370569369337856",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DYIbYC4UQAA3ll0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYIbYC4UQAA3ll0.jpg",
+					"url": "https://t.co/OF0cHEn7L6",
+					"display_url": "pic.twitter.com/OF0cHEn7L6",
+					"expanded_url": "https://twitter.com/C_Quinn_Books/status/973370726198558720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 241,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 726,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 973370726198558700,
+					"source_status_id_str": "973370726198558720",
+					"source_user_id": 946640817615024100,
+					"source_user_id_str": "946640817615024128"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 973370569369337900,
+					"id_str": "973370569369337856",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DYIbYC4UQAA3ll0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYIbYC4UQAA3ll0.jpg",
+					"url": "https://t.co/OF0cHEn7L6",
+					"display_url": "pic.twitter.com/OF0cHEn7L6",
+					"expanded_url": "https://twitter.com/C_Quinn_Books/status/973370726198558720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 241,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 726,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 973370726198558700,
+					"source_status_id_str": "973370726198558720",
+					"source_user_id": 946640817615024100,
+					"source_user_id_str": "946640817615024128"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39907,
+			"friends_count": 27559,
+			"listed_count": 1078,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11433,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 13 01:30:40 +0000 2018",
+			"id": 973370726198558700,
+			"id_str": "973370726198558720",
+			"text": "0/5 🌟 DOES NOT TASTE LIKE BANANA. #rateaspecies https://t.co/OF0cHEn7L6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "rateaspecies",
+						"indices": [
+							34,
+							47
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 973370569369337900,
+						"id_str": "973370569369337856",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/DYIbYC4UQAA3ll0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYIbYC4UQAA3ll0.jpg",
+						"url": "https://t.co/OF0cHEn7L6",
+						"display_url": "pic.twitter.com/OF0cHEn7L6",
+						"expanded_url": "https://twitter.com/C_Quinn_Books/status/973370726198558720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 425,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 241,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 726,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 973370569369337900,
+						"id_str": "973370569369337856",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/DYIbYC4UQAA3ll0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYIbYC4UQAA3ll0.jpg",
+						"url": "https://t.co/OF0cHEn7L6",
+						"display_url": "pic.twitter.com/OF0cHEn7L6",
+						"expanded_url": "https://twitter.com/C_Quinn_Books/status/973370726198558720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 425,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 241,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 726,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 946640817615024100,
+				"id_str": "946640817615024128",
+				"name": "Camellia Quinn",
+				"screen_name": "C_Quinn_Books",
+				"location": "Washington, USA",
+				"description": "Creator of Garfunk the Steampunk Skunk & other \"verdant Victorian\" adventures.",
+				"url": "https://t.co/1xJh2gFVfu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1xJh2gFVfu",
+								"expanded_url": "http://CamelliaQuinn.com",
+								"display_url": "CamelliaQuinn.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5,
+				"friends_count": 15,
+				"listed_count": 0,
+				"created_at": "Fri Dec 29 07:15:33 +0000 2017",
+				"favourites_count": 41,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/972687966299504640/cv8zT7AM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/972687966299504640/cv8zT7AM_normal.jpg",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 64,
+			"favorite_count": 275,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 16 11:17:32 +0000 2018",
+		"id": 974605579699175400,
+		"id_str": "974605579699175424",
+		"text": "RT @mnzoo: ⭐️⭐️⭐️⭐️We're a FANDA of the red panda. Low maintenance. Self cleaning. Extra fluff included.  #rateaspecies https://t.co/zB23VV…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rateaspecies",
+					"indices": [
+						106,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mnzoo",
+					"name": "Minnesota Zoo",
+					"id": 22842421,
+					"id_str": "22842421",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39907,
+			"friends_count": 27559,
+			"listed_count": 1078,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11433,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 18:10:30 +0000 2018",
+			"id": 972172792287367200,
+			"id_str": "972172792287367168",
+			"text": "⭐️⭐️⭐️⭐️We're a FANDA of the red panda. Low maintenance. Self cleaning. Extra fluff included.  #rateaspecies https://t.co/zB23VVWQiy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "rateaspecies",
+						"indices": [
+							95,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 972170516256575500,
+						"id_str": "972170516256575488",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/DX3X7wqU0AAeimo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX3X7wqU0AAeimo.jpg",
+						"url": "https://t.co/zB23VVWQiy",
+						"display_url": "pic.twitter.com/zB23VVWQiy",
+						"expanded_url": "https://twitter.com/mnzoo/status/972172792287367168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1239,
+								"h": 929,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 972170516256575500,
+						"id_str": "972170516256575488",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/DX3X7wqU0AAeimo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX3X7wqU0AAeimo.jpg",
+						"url": "https://t.co/zB23VVWQiy",
+						"display_url": "pic.twitter.com/zB23VVWQiy",
+						"expanded_url": "https://twitter.com/mnzoo/status/972172792287367168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1239,
+								"h": 929,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22842421,
+				"id_str": "22842421",
+				"name": "Minnesota Zoo",
+				"screen_name": "mnzoo",
+				"location": "Apple Valley, MN",
+				"description": "The official Twitter account for the Minnesota Zoo. Connecting people, animals & the natural world to save wildlife. Share your adventures using #dayattheMNZoo.",
+				"url": "https://t.co/ShYoCpFXk7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ShYoCpFXk7",
+								"expanded_url": "http://www.mnzoo.org",
+								"display_url": "mnzoo.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38939,
+				"friends_count": 6192,
+				"listed_count": 802,
+				"created_at": "Wed Mar 04 22:02:54 +0000 2009",
+				"favourites_count": 16879,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12570,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D6D6D6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169238410/s9xWLqka.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169238410/s9xWLqka.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/959506895466782720/24NLzOYD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/959506895466782720/24NLzOYD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22842421/1511389400",
+				"profile_link_color": "576423",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D4D4D4",
+				"profile_text_color": "232B0A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 166,
+			"favorite_count": 918,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 166,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 16 11:17:18 +0000 2018",
+		"id": 974605522362974200,
+		"id_str": "974605522362974208",
+		"text": "RT @jenn_beens: ⭐️⭐️⭐️⭐️ AWKWARD DESIGN BUT STILL ADMIRABLE \nThis doesn’t fit anywhere! But unique variety of patterns make them one-of-a-k…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jenn_beens",
+					"name": "Jenn Beening",
+					"id": 110581633,
+					"id_str": "110581633",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39907,
+			"friends_count": 27559,
+			"listed_count": 1078,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11433,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 18:51:44 +0000 2018",
+			"id": 972183169804857300,
+			"id_str": "972183169804857344",
+			"text": "⭐️⭐️⭐️⭐️ AWKWARD DESIGN BUT STILL ADMIRABLE \nThis doesn’t fit anywhere! But unique variety of patterns make them on… https://t.co/Sz9tDRxhQS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Sz9tDRxhQS",
+						"expanded_url": "https://twitter.com/i/web/status/972183169804857344",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 110581633,
+				"id_str": "110581633",
+				"name": "Jenn Beening",
+				"screen_name": "jenn_beens",
+				"location": "west coast",
+				"description": "I work for a bunch of animals.",
+				"url": "https://t.co/oSrKbtKrAd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oSrKbtKrAd",
+								"expanded_url": "http://jennbeening.vsco.co",
+								"display_url": "jennbeening.vsco.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 693,
+				"friends_count": 478,
+				"listed_count": 76,
+				"created_at": "Tue Feb 02 01:57:08 +0000 2010",
+				"favourites_count": 1219,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9356,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/771788904/06b5f421d64773f3d99620856585732b.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/771788904/06b5f421d64773f3d99620856585732b.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/804213704367620096/HnHS6Niz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/804213704367620096/HnHS6Niz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/110581633/1481335146",
+				"profile_link_color": "50243D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F4FCF2",
+				"profile_text_color": "0C5203",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 203,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 16 11:17:11 +0000 2018",
+		"id": 974605494504443900,
+		"id_str": "974605494504443904",
+		"text": "RT @OregonZoo: ⭐️⭐️⭐️⭐️ YOU WONT BE DISAPPOINTED\nThis stylish little unit is amazing. Sound quality A+. No distortion at full volume but ba…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OregonZoo",
+					"name": "Oregon Zoo",
+					"id": 14336662,
+					"id_str": "14336662",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39907,
+			"friends_count": 27559,
+			"listed_count": 1078,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11433,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 17:03:14 +0000 2018",
+			"id": 972155863895912400,
+			"id_str": "972155863895912448",
+			"text": "⭐️⭐️⭐️⭐️ YOU WONT BE DISAPPOINTED\nThis stylish little unit is amazing. Sound quality A+. No distortion at full volu… https://t.co/fyNIJVf9iz",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fyNIJVf9iz",
+						"expanded_url": "https://twitter.com/i/web/status/972155863895912448",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14336662,
+				"id_str": "14336662",
+				"name": "Oregon Zoo",
+				"screen_name": "OregonZoo",
+				"location": "Portland, OR",
+				"description": "Creating a better future for #wildlife. Community supported since 1888.",
+				"url": "http://t.co/fJPLuhjPsH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/fJPLuhjPsH",
+								"expanded_url": "http://www.oregonzoo.org",
+								"display_url": "oregonzoo.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 88696,
+				"friends_count": 6369,
+				"listed_count": 1148,
+				"created_at": "Tue Apr 08 22:07:20 +0000 2008",
+				"favourites_count": 4133,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7556,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120115285/d13c5a7c0444b2dd5ddfbd9a71f53fa4.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120115285/d13c5a7c0444b2dd5ddfbd9a71f53fa4.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/903309508335722496/PLOKuWi3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/903309508335722496/PLOKuWi3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14336662/1429314172",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 652,
+			"favorite_count": 2178,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 652,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 16 11:17:02 +0000 2018",
+		"id": 974605455451242500,
+		"id_str": "974605455451242496",
+		"text": "RT @TNAquarium: ⭐️⭐️⭐️⭐️⭐️ Exceeds expectations! \nVery cute marsupial IMHO – and the only one found in the US! Curious if negative reviewer…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TNAquarium",
+					"name": "Tennessee Aquarium",
+					"id": 16906715,
+					"id_str": "16906715",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39907,
+			"friends_count": 27559,
+			"listed_count": 1078,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11433,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 19:35:51 +0000 2018",
+			"id": 972194272345837600,
+			"id_str": "972194272345837568",
+			"text": "⭐️⭐️⭐️⭐️⭐️ Exceeds expectations! \nVery cute marsupial IMHO – and the only one found in the US! Curious if negative… https://t.co/ymkrEqGOWF",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ymkrEqGOWF",
+						"expanded_url": "https://twitter.com/i/web/status/972194272345837568",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16906715,
+				"id_str": "16906715",
+				"name": "Tennessee Aquarium",
+				"screen_name": "TNAquarium",
+				"location": "Chattanooga, TN",
+				"description": "The Tennessee Aquarium takes visitors on a remarkable journey from the mountains to the sea - with amazing animals that swim, fly and crawl in natural habitats.",
+				"url": "https://t.co/aMm6O6Sait",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aMm6O6Sait",
+								"expanded_url": "http://www.tnaqua.org",
+								"display_url": "tnaqua.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32140,
+				"friends_count": 4545,
+				"listed_count": 598,
+				"created_at": "Wed Oct 22 15:07:04 +0000 2008",
+				"favourites_count": 2143,
+				"utc_offset": -14400,
+				"time_zone": "America/New_York",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12369,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00051B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3235937/Twitter-bkgd5.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3235937/Twitter-bkgd5.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875377597370298368/JMtHDHvp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875377597370298368/JMtHDHvp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16906715/1441033716",
+				"profile_link_color": "006BB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F6F99A",
+				"profile_text_color": "141118",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 145,
+			"favorite_count": 798,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 145,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 16 11:16:42 +0000 2018",
+		"id": 974605371800105000,
+		"id_str": "974605371800104961",
+		"text": "RT @calacademy: ⭐⭐⭐ NOT AS EXPECTED\nColor not as shown (not even CLOSE!!!), supposed to be predator but just sits on heated rock all day an…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "calacademy",
+					"name": "CA AcademyOfSciences",
+					"id": 16017753,
+					"id_str": "16017753",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39907,
+			"friends_count": 27559,
+			"listed_count": 1078,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11433,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 20:42:38 +0000 2018",
+			"id": 972211077663641600,
+			"id_str": "972211077663641600",
+			"text": "⭐⭐⭐ NOT AS EXPECTED\nColor not as shown (not even CLOSE!!!), supposed to be predator but just sits on heated rock al… https://t.co/qoBfhhhFfe",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qoBfhhhFfe",
+						"expanded_url": "https://twitter.com/i/web/status/972211077663641600",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16017753,
+				"id_str": "16017753",
+				"name": "CA AcademyOfSciences",
+				"screen_name": "calacademy",
+				"location": "San Francisco, CA",
+				"description": "Aquarium, planetarium, rainforest & natural history museum—all under 1 living roof. Our scientists: https://t.co/RnkB8WdRf2; our science party: @CASNightLife.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RnkB8WdRf2",
+								"expanded_url": "http://bit.ly/1pMN9dV",
+								"display_url": "bit.ly/1pMN9dV",
+								"indices": [
+									100,
+									123
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 268138,
+				"friends_count": 2316,
+				"listed_count": 2354,
+				"created_at": "Wed Aug 27 21:14:41 +0000 2008",
+				"favourites_count": 10556,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 16792,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446427865676922880/TXY1WMrP.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446427865676922880/TXY1WMrP.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/883370025892986881/x2Zqgf_b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/883370025892986881/x2Zqgf_b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16017753/1394059893",
+				"profile_link_color": "E66B1F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 443,
+			"favorite_count": 1779,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 443,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 16 11:16:34 +0000 2018",
+		"id": 974605337134157800,
+		"id_str": "974605337134157825",
+		"text": "RT @jaytay777: RARE, hard to find Unicorn, slightly chubby but still very sexy - for those feeling horny.  🌟🌟🌟🌟🌟  #rateaspecies https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rateaspecies",
+					"indices": [
+						114,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaytay777",
+					"name": "🐋",
+					"id": 17915108,
+					"id_str": "17915108",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39907,
+			"friends_count": 27559,
+			"listed_count": 1078,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11433,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 23:01:20 +0000 2018",
+			"id": 972245982602674200,
+			"id_str": "972245982602674176",
+			"text": "RARE, hard to find Unicorn, slightly chubby but still very sexy - for those feeling horny.  🌟🌟🌟🌟🌟  #rateaspecies https://t.co/zmhTIgv1mu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "rateaspecies",
+						"indices": [
+							99,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 972245710841176000,
+						"id_str": "972245710841176064",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/DX4cUqUV4AAunJG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX4cUqUV4AAunJG.jpg",
+						"url": "https://t.co/zmhTIgv1mu",
+						"display_url": "pic.twitter.com/zmhTIgv1mu",
+						"expanded_url": "https://twitter.com/jaytay777/status/972245982602674176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1100,
+								"h": 964,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 964,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 596,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 972245710841176000,
+						"id_str": "972245710841176064",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/DX4cUqUV4AAunJG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX4cUqUV4AAunJG.jpg",
+						"url": "https://t.co/zmhTIgv1mu",
+						"display_url": "pic.twitter.com/zmhTIgv1mu",
+						"expanded_url": "https://twitter.com/jaytay777/status/972245982602674176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1100,
+								"h": 964,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 964,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 596,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17915108,
+				"id_str": "17915108",
+				"name": "🐋",
+				"screen_name": "jaytay777",
+				"location": "Mill Valley, CA",
+				"description": "Human Overlord to Crafty Husky Dog",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5341,
+				"friends_count": 4989,
+				"listed_count": 72,
+				"created_at": "Sat Dec 06 03:02:41 +0000 2008",
+				"favourites_count": 18716,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 94565,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/871401346989084676/Jf5QHTVn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/871401346989084676/Jf5QHTVn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17915108/1504977574",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 94,
+			"favorite_count": 662,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 16 11:16:08 +0000 2018",
+		"id": 974605228761784300,
+		"id_str": "974605228761784321",
+		"text": "RT @shtoopy: ⭐ very unsatisfied with the shipping. I ordered a frog and what I got was this big melted pile. #rateaspecies https://t.co/6pj…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rateaspecies",
+					"indices": [
+						109,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shtoopy",
+					"name": "Slartibartfast",
+					"id": 345110650,
+					"id_str": "345110650",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39907,
+			"friends_count": 27559,
+			"listed_count": 1078,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11433,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 21:48:58 +0000 2018",
+			"id": 972227771031216100,
+			"id_str": "972227771031216128",
+			"text": "⭐ very unsatisfied with the shipping. I ordered a frog and what I got was this big melted pile. #rateaspecies https://t.co/6pj9D2HcED",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "rateaspecies",
+						"indices": [
+							96,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 972227768732676100,
+						"id_str": "972227768732676096",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/DX4MASwU8AA1WDh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX4MASwU8AA1WDh.jpg",
+						"url": "https://t.co/6pj9D2HcED",
+						"display_url": "pic.twitter.com/6pj9D2HcED",
+						"expanded_url": "https://twitter.com/shtoopy/status/972227771031216128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 736,
+								"h": 435,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 402,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 736,
+								"h": 435,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 972227768732676100,
+						"id_str": "972227768732676096",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/DX4MASwU8AA1WDh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX4MASwU8AA1WDh.jpg",
+						"url": "https://t.co/6pj9D2HcED",
+						"display_url": "pic.twitter.com/6pj9D2HcED",
+						"expanded_url": "https://twitter.com/shtoopy/status/972227771031216128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 736,
+								"h": 435,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 402,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 736,
+								"h": 435,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 345110650,
+				"id_str": "345110650",
+				"name": "Slartibartfast",
+				"screen_name": "shtoopy",
+				"location": "Los Angeles",
+				"description": "Roll for initiative!",
+				"url": "https://t.co/7V3bmq3CQF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7V3bmq3CQF",
+								"expanded_url": "http://shtoopy.tumblr.com/",
+								"display_url": "shtoopy.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 150,
+				"friends_count": 223,
+				"listed_count": 1,
+				"created_at": "Sat Jul 30 02:32:45 +0000 2011",
+				"favourites_count": 7460,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2738,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/973456075964891137/2SXfSh8D_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/973456075964891137/2SXfSh8D_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/345110650/1518297361",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 422,
+			"favorite_count": 1867,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 422,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Mar 16 08:45:38 +0000 2018",
 		"id": 974567355845034000,
 		"id_str": "974567355845033984",
