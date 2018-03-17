@@ -1,6 +1,562 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sat Mar 17 01:12:12 +0000 2018",
+		"id": 974815633744412700,
+		"id_str": "974815633744412673",
+		"text": "RT @topbots: Adopting an #ML solution without understanding what it truly does can do more harm (usually expressed in wasted hours and doll…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ML",
+					"indices": [
+						25,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "topbots",
+					"name": "TOPBOTS",
+					"id": 750502859368599600,
+					"id_str": "750502859368599552",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39905,
+			"friends_count": 26625,
+			"listed_count": 1079,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11437,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11757,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 16 13:45:10 +0000 2018",
+			"id": 974642732772798500,
+			"id_str": "974642732772798464",
+			"text": "Adopting an #ML solution without understanding what it truly does can do more harm (usually expressed in wasted hou… https://t.co/xyU4WLRfo5",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ML",
+						"indices": [
+							12,
+							15
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xyU4WLRfo5",
+						"expanded_url": "https://twitter.com/i/web/status/974642732772798464",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 750502859368599600,
+				"id_str": "750502859368599552",
+				"name": "TOPBOTS",
+				"screen_name": "topbots",
+				"location": "New York, NY",
+				"description": "TOPBOTS is a strategy & research firm in applied artificial intelligence & machine learning. We help enterprises implement their #AI #ML #automation strategy.",
+				"url": "https://t.co/fFlsMeTxBd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fFlsMeTxBd",
+								"expanded_url": "http://www.topbots.com",
+								"display_url": "topbots.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11938,
+				"friends_count": 1684,
+				"listed_count": 548,
+				"created_at": "Wed Jul 06 01:33:20 +0000 2016",
+				"favourites_count": 1098,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2397,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/871984440724959232/5s8mpeLo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/871984440724959232/5s8mpeLo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/750502859368599552/1474420259",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 17 01:12:05 +0000 2018",
+		"id": 974815601095929900,
+		"id_str": "974815601095929856",
+		"text": "RT @LaurenSophia: Awesome #growthhack on #life by @hnshah. #KISS: #MakeShortPlans, #FuckThatNoise &amp; #TrustMyGut. Measure, Repeat. Else #Reb…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "growthhack",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"text": "life",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "KISS",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "MakeShortPlans",
+					"indices": [
+						66,
+						81
+					]
+				},
+				{
+					"text": "FuckThatNoise",
+					"indices": [
+						83,
+						97
+					]
+				},
+				{
+					"text": "TrustMyGut",
+					"indices": [
+						104,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LaurenSophia",
+					"name": "Lauren Nham",
+					"id": 22517804,
+					"id_str": "22517804",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "hnshah",
+					"name": "Hiten Shah",
+					"id": 3382,
+					"id_str": "3382",
+					"indices": [
+						50,
+						57
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39905,
+			"friends_count": 26625,
+			"listed_count": 1079,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11437,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11757,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 24 06:38:14 +0000 2014",
+			"id": 525536728782630900,
+			"id_str": "525536728782630912",
+			"text": "Awesome #growthhack on #life by @hnshah. #KISS: #MakeShortPlans, #FuckThatNoise &amp; #TrustMyGut. Measure, Repeat. Else #Reboot.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "growthhack",
+						"indices": [
+							8,
+							19
+						]
+					},
+					{
+						"text": "life",
+						"indices": [
+							23,
+							28
+						]
+					},
+					{
+						"text": "KISS",
+						"indices": [
+							41,
+							46
+						]
+					},
+					{
+						"text": "MakeShortPlans",
+						"indices": [
+							48,
+							63
+						]
+					},
+					{
+						"text": "FuckThatNoise",
+						"indices": [
+							65,
+							79
+						]
+					},
+					{
+						"text": "TrustMyGut",
+						"indices": [
+							86,
+							97
+						]
+					},
+					{
+						"text": "Reboot",
+						"indices": [
+							121,
+							128
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hnshah",
+						"name": "Hiten Shah",
+						"id": 3382,
+						"id_str": "3382",
+						"indices": [
+							32,
+							39
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22517804,
+				"id_str": "22517804",
+				"name": "Lauren Nham",
+				"screen_name": "LaurenSophia",
+				"location": "San Francisco, CA",
+				"description": "Product @SutherlandLabs //  Biz + Design + Growth //    Think like a designer, build like a startup.",
+				"url": "https://t.co/hsp2AHGgG6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hsp2AHGgG6",
+								"expanded_url": "http://laurennham.com",
+								"display_url": "laurennham.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1231,
+				"friends_count": 1794,
+				"listed_count": 251,
+				"created_at": "Mon Mar 02 18:44:07 +0000 2009",
+				"favourites_count": 4204,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5813,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/178331672/Hit_the_ground_running.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/178331672/Hit_the_ground_running.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/453811614848802816/71UpT5II_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/453811614848802816/71UpT5II_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22517804/1398320833",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "5a110d312052166f",
+				"url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+				"place_type": "city",
+				"name": "San Francisco",
+				"full_name": "San Francisco, CA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-122.514926,
+								37.708075
+							],
+							[
+								-122.357031,
+								37.708075
+							],
+							[
+								-122.357031,
+								37.833238
+							],
+							[
+								-122.514926,
+								37.833238
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 23,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 17 01:11:43 +0000 2018",
 		"id": 974815510788325400,
 		"id_str": "974815510788325376",
