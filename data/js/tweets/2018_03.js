@@ -1,6 +1,503 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Mon Mar 19 23:01:08 +0000 2018",
+		"id": 975869812260900900,
+		"id_str": "975869812260900864",
+		"text": "The Non-Coder's Guide to using @giphy's API with @chatfuel! by @rahuldecoded and @debbiediscovers #chatbots #AI… https://t.co/7NObx664aL",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "chatbots",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						108,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GIPHY",
+					"name": "GIPHY",
+					"id": 1020383864,
+					"id_str": "1020383864",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"screen_name": "chatfuel",
+					"name": "Chatfuel",
+					"id": 3355773219,
+					"id_str": "3355773219",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"screen_name": "rahuldecoded",
+					"name": "Rahul Bhattacharjee",
+					"id": 3145199379,
+					"id_str": "3145199379",
+					"indices": [
+						63,
+						76
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						81,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7NObx664aL",
+					"expanded_url": "https://twitter.com/i/web/status/975869812260900864",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://manager.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40020,
+			"friends_count": 24515,
+			"listed_count": 1084,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11456,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11795,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Mar 19 22:33:41 +0000 2018",
+		"id": 975862904753832000,
+		"id_str": "975862904753831936",
+		"text": "Facebook Security Chief Said to Leave After Clashes Over Disinformation https://t.co/GKusVo1ubL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GKusVo1ubL",
+					"expanded_url": "https://www.nytimes.com/2018/03/19/technology/facebook-alex-stamos.html",
+					"display_url": "nytimes.com/2018/03/19/tec…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40020,
+			"friends_count": 24515,
+			"listed_count": 1084,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11456,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11795,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Mar 19 22:24:41 +0000 2018",
+		"id": 975860639053660200,
+		"id_str": "975860639053660160",
+		"text": "RT @Mindtree_Ltd: @debbiediscovers This was a great read, Deborah. Could virtual assistant #chatbots become human's best friend? https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "chatbots",
+					"indices": [
+						91,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mindtree_Ltd",
+					"name": "Mindtree",
+					"id": 54458572,
+					"id_str": "54458572",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						18,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40020,
+			"friends_count": 24515,
+			"listed_count": 1084,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11456,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11795,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 19 17:37:12 +0000 2018",
+			"id": 975788291034439700,
+			"id_str": "975788291034439680",
+			"text": "@debbiediscovers This was a great read, Deborah. Could virtual assistant #chatbots become human's best friend? https://t.co/kMuh1O1Ll3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "chatbots",
+						"indices": [
+							73,
+							82
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/kMuh1O1Ll3",
+						"expanded_url": "http://bit.ly/2C1qfBL",
+						"display_url": "bit.ly/2C1qfBL",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 975783962407768000,
+			"in_reply_to_status_id_str": "975783962407768064",
+			"in_reply_to_user_id": 3060836348,
+			"in_reply_to_user_id_str": "3060836348",
+			"in_reply_to_screen_name": "debbiediscovers",
+			"user": {
+				"id": 54458572,
+				"id_str": "54458572",
+				"name": "Mindtree",
+				"screen_name": "Mindtree_Ltd",
+				"location": "Global",
+				"description": "Born digital, we help Forbes Global 2000 clients outperform the competition with customized digital solutions and infrastructure and applications management.",
+				"url": "http://t.co/QB06Gt8mrU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QB06Gt8mrU",
+								"expanded_url": "http://www.mindtree.com",
+								"display_url": "mindtree.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 85295,
+				"friends_count": 5076,
+				"listed_count": 394,
+				"created_at": "Tue Jul 07 05:13:24 +0000 2009",
+				"favourites_count": 1600,
+				"utc_offset": 19800,
+				"time_zone": "Kolkata",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5235,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "717171",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451691260684685312/y9h-gYa-.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451691260684685312/y9h-gYa-.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/910450656409903104/IRAYNrcZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/910450656409903104/IRAYNrcZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54458572/1510560593",
+				"profile_link_color": "82238B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FF1414",
+				"profile_text_color": "00A6FF",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Mar 19 17:54:05 +0000 2018",
 		"id": 975792537746182100,
 		"id_str": "975792537746182144",
