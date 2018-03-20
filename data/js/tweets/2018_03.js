@@ -1,6 +1,1075 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Tue Mar 20 20:55:37 +0000 2018",
+		"id": 976200614026752000,
+		"id_str": "976200614026752000",
+		"text": "RT @Channel4News: .@HillaryClinton: \"How did the Russians know how to target their messages so precisely?\"\n\nLast year the former presidenti…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Channel4News",
+					"name": "Channel 4 News",
+					"id": 14569869,
+					"id_str": "14569869",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "HillaryClinton",
+					"name": "Hillary Clinton",
+					"id": 1339835893,
+					"id_str": "1339835893",
+					"indices": [
+						19,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40247,
+			"friends_count": 24048,
+			"listed_count": 1088,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11475,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11815,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 20 19:20:00 +0000 2018",
+			"id": 976176549278855200,
+			"id_str": "976176549278855168",
+			"text": ".@HillaryClinton: \"How did the Russians know how to target their messages so precisely?\"\n\nLast year the former pres… https://t.co/ETlBTnuxL7",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HillaryClinton",
+						"name": "Hillary Clinton",
+						"id": 1339835893,
+						"id_str": "1339835893",
+						"indices": [
+							1,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ETlBTnuxL7",
+						"expanded_url": "https://twitter.com/i/web/status/976176549278855168",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14569869,
+				"id_str": "14569869",
+				"name": "Channel 4 News",
+				"screen_name": "Channel4News",
+				"location": "",
+				"description": "Stories that reveal and inspire, challenging expectations.",
+				"url": "http://t.co/YO0ZZvoyrC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YO0ZZvoyrC",
+								"expanded_url": "http://www.channel4.com/news",
+								"display_url": "channel4.com/news",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1998143,
+				"friends_count": 4580,
+				"listed_count": 9225,
+				"created_at": "Mon Apr 28 14:29:37 +0000 2008",
+				"favourites_count": 450,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 87899,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2C1C36",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/648955077240164352/qBTtGdoJ.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/648955077240164352/qBTtGdoJ.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875404558528393216/cTknVhwm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875404558528393216/cTknVhwm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14569869/1464103587",
+				"profile_link_color": "421174",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FAF0F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 972,
+			"favorite_count": 1249,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 972,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 20 20:34:06 +0000 2018",
+		"id": 976195196500066300,
+		"id_str": "976195196500066304",
+		"text": "RT @JamieJBartlett: Tonight - 8pm on BBC2. I get inside Trump digital HQ to understand how he won. #SecretsOfSiliconValley https://t.co/xnI…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SecretsOfSiliconValley",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamieJBartlett",
+					"name": "Jamie Bartlett",
+					"id": 142998242,
+					"id_str": "142998242",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40247,
+			"friends_count": 24048,
+			"listed_count": 1088,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11475,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11815,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 13 18:05:59 +0000 2017",
+			"id": 896794978072092700,
+			"id_str": "896794978072092672",
+			"text": "Tonight - 8pm on BBC2. I get inside Trump digital HQ to understand how he won. #SecretsOfSiliconValley https://t.co/xnIdT7kod6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SecretsOfSiliconValley",
+						"indices": [
+							79,
+							102
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 896715108289847300,
+						"id_str": "896715108289847296",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/DHHIOyHXUAIfTMF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHHIOyHXUAIfTMF.jpg",
+						"url": "https://t.co/xnIdT7kod6",
+						"display_url": "pic.twitter.com/xnIdT7kod6",
+						"expanded_url": "https://twitter.com/CatrinNye/status/896793741293309952/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 896793741293310000,
+						"source_status_id_str": "896793741293309952",
+						"source_user_id": 347899850,
+						"source_user_id_str": "347899850"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 896715108289847300,
+						"id_str": "896715108289847296",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/DHHIOyHXUAIfTMF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHHIOyHXUAIfTMF.jpg",
+						"url": "https://t.co/xnIdT7kod6",
+						"display_url": "pic.twitter.com/xnIdT7kod6",
+						"expanded_url": "https://twitter.com/CatrinNye/status/896793741293309952/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 896793741293310000,
+						"source_status_id_str": "896793741293309952",
+						"source_user_id": 347899850,
+						"source_user_id_str": "347899850",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 281040,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/896715108289847296/pl/oj8WcYiNnhT5-BKn.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/896715108289847296/vid/240x240/aSzEwPGarHiWNQSZ.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/896715108289847296/vid/480x480/VFzr61-3uXi6vv25.mp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/896715108289847296/vid/720x720/miL60ZWGWyVecBxV.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "The Secrets of Silicon Valley with Jamie Bartlett. ",
+							"description": "",
+							"call_to_actions": {
+								"watch_now": {
+									"url": "http://www.bbc.co.uk/programmes/b0916ghq"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 347899850,
+								"id_str": "347899850",
+								"name": "Catrin Nye",
+								"screen_name": "CatrinNye",
+								"location": "London / Cardiff",
+								"description": "BBC Journalist & Documentary Maker. Presenter @BBCTheHour. Reporter @BBCPanorama @VictoriaLIVE @BBCOurWorld. Welsh 🏴󠁧󠁢󠁷󠁬󠁳󠁿(views mine, RTing not agreeing).",
+								"url": "https://t.co/2RkR5KJ9Zy",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/2RkR5KJ9Zy",
+												"expanded_url": "http://www.catrinnye.co.uk/",
+												"display_url": "catrinnye.co.uk",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 27931,
+								"friends_count": 2699,
+								"listed_count": 564,
+								"created_at": "Wed Aug 03 15:06:25 +0000 2011",
+								"favourites_count": 29141,
+								"utc_offset": 0,
+								"time_zone": "London",
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 36644,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/855578696/920e56a6a7466f2a616e5fc086fb6720.jpeg",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/855578696/920e56a6a7466f2a616e5fc086fb6720.jpeg",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/931766200970960896/CUJUd_Ln_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/931766200970960896/CUJUd_Ln_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/347899850/1483296056",
+								"profile_link_color": "1B95E0",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 142998242,
+				"id_str": "142998242",
+				"name": "Jamie Bartlett",
+				"screen_name": "JamieJBartlett",
+				"location": "London",
+				"description": "Writer. 'Radicals' https://t.co/XR4Mjc4wlb (UK) & https://t.co/jwsb7pCAsK (US) Also author of Dark Net & CASM director, Demos. Medway to Secrets of Silicon V.",
+				"url": "https://t.co/gwpDqwGEYd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gwpDqwGEYd",
+								"expanded_url": "http://www.demos.co.uk",
+								"display_url": "demos.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XR4Mjc4wlb",
+								"expanded_url": "http://amzn.to/2neLpC5",
+								"display_url": "amzn.to/2neLpC5",
+								"indices": [
+									19,
+									42
+								]
+							},
+							{
+								"url": "https://t.co/jwsb7pCAsK",
+								"expanded_url": "http://amzn.to/2rS3kCO",
+								"display_url": "amzn.to/2rS3kCO",
+								"indices": [
+									50,
+									73
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18828,
+				"friends_count": 830,
+				"listed_count": 642,
+				"created_at": "Wed May 12 09:05:38 +0000 2010",
+				"favourites_count": 19033,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25255,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/962123088501592065/uqOdRfrZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/962123088501592065/uqOdRfrZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/142998242/1512680994",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 611,
+			"favorite_count": 669,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 611,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 20 20:28:00 +0000 2018",
+		"id": 976193660353093600,
+		"id_str": "976193660353093632",
+		"text": "RT @AltCyberCommand: @CamAnalytica You admit to using the data – the exact same number of illicitly-obtained profiles – to shill for a pro-…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AltCyberCommand",
+					"name": "Alt US Cyber Command",
+					"id": 856551428512333800,
+					"id_str": "856551428512333824",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "CamAnalytica",
+					"name": "Cambridge Analytica",
+					"id": 3415205164,
+					"id_str": "3415205164",
+					"indices": [
+						21,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40247,
+			"friends_count": 24048,
+			"listed_count": 1088,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11475,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11815,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 20 14:38:47 +0000 2018",
+			"id": 976105778942586900,
+			"id_str": "976105778942586880",
+			"text": "@CamAnalytica You admit to using the data – the exact same number of illicitly-obtained profiles – to shill for a p… https://t.co/yBFM9oOvVX",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CamAnalytica",
+						"name": "Cambridge Analytica",
+						"id": 3415205164,
+						"id_str": "3415205164",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/yBFM9oOvVX",
+						"expanded_url": "https://twitter.com/i/web/status/976105778942586880",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 976098811495018500,
+			"in_reply_to_status_id_str": "976098811495018497",
+			"in_reply_to_user_id": 3415205164,
+			"in_reply_to_user_id_str": "3415205164",
+			"in_reply_to_screen_name": "CamAnalytica",
+			"user": {
+				"id": 856551428512333800,
+				"id_str": "856551428512333824",
+				"name": "Alt US Cyber Command",
+				"screen_name": "AltCyberCommand",
+				"location": "🇺🇸🇫🇷🇬🇧🇰🇪",
+				"description": "On guard against election manipulation and information warfare, foreign or domestic. Unwitting Trumpism ethnographer. Run by civilians. Parody. 17 USC § 107.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12377,
+				"friends_count": 420,
+				"listed_count": 160,
+				"created_at": "Mon Apr 24 16:52:29 +0000 2017",
+				"favourites_count": 17300,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23068,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/917440917744754688/j1CPjEZO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/917440917744754688/j1CPjEZO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/856551428512333824/1493053928",
+				"profile_link_color": "23305A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 54,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 20 20:17:04 +0000 2018",
+		"id": 976190908944142300,
+		"id_str": "976190908944142336",
+		"text": "RT @Psythor: Here are four micro-takes on the Cambridge Analytica story from me: https://t.co/GgF9feD3Y1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Psythor",
+					"name": "James O'Malley",
+					"id": 629133,
+					"id_str": "629133",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GgF9feD3Y1",
+					"expanded_url": "http://www.gizmodo.co.uk/2018/03/4-micro-takes-on-the-cambridge-analytica-story/",
+					"display_url": "gizmodo.co.uk/2018/03/4-micr…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40247,
+			"friends_count": 24048,
+			"listed_count": 1088,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11475,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11815,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 19 11:41:24 +0000 2018",
+			"id": 975698751380770800,
+			"id_str": "975698751380770816",
+			"text": "Here are four micro-takes on the Cambridge Analytica story from me: https://t.co/GgF9feD3Y1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GgF9feD3Y1",
+						"expanded_url": "http://www.gizmodo.co.uk/2018/03/4-micro-takes-on-the-cambridge-analytica-story/",
+						"display_url": "gizmodo.co.uk/2018/03/4-micr…",
+						"indices": [
+							68,
+							91
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 629133,
+				"id_str": "629133",
+				"name": "James O'Malley",
+				"screen_name": "Psythor",
+				"location": "London",
+				"description": "Interim Editor @GizmodoUK. Also freelance politics writing elsewhere. Trustee @ConwayHall.\n\nSupport my book! https://t.co/ywCBCwkGp7",
+				"url": "http://t.co/Lfh4kIey3u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Lfh4kIey3u",
+								"expanded_url": "http://jamesomalley.co.uk",
+								"display_url": "jamesomalley.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ywCBCwkGp7",
+								"expanded_url": "https://unbound.com/books/big-stupid-data/",
+								"display_url": "unbound.com/books/big-stup…",
+								"indices": [
+									109,
+									132
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 9518,
+				"friends_count": 1167,
+				"listed_count": 361,
+				"created_at": "Fri Jan 12 16:05:55 +0000 2007",
+				"favourites_count": 4229,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 76330,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000033",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/568745955562778624/xawiEt8-_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/568745955562778624/xawiEt8-_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/629133/1400431434",
+				"profile_link_color": "003399",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFCC00",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 44,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Mar 20 20:04:18 +0000 2018",
 		"id": 976187696124063700,
 		"id_str": "976187696124063745",
