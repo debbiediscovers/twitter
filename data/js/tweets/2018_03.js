@@ -1,6 +1,380 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Wed Mar 21 22:07:20 +0000 2018",
+		"id": 976581046157287400,
+		"id_str": "976581046157287424",
+		"text": "RT @steveparks: Speaking now, @chrisinsilico, the Cambridge Analytica whistleblower - how @carolecadwalla (who is held back at the @guardia…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "steveparks",
+					"name": "Steve Parks",
+					"id": 1119741,
+					"id_str": "1119741",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "chrisinsilico",
+					"name": "Christopher Wylie",
+					"id": 787149253302812700,
+					"id_str": "787149253302812672",
+					"indices": [
+						30,
+						44
+					]
+				},
+				{
+					"screen_name": "carolecadwalla",
+					"name": "Carole Cadwalladr",
+					"id": 722242009,
+					"id_str": "722242009",
+					"indices": [
+						90,
+						105
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40492,
+			"friends_count": 24809,
+			"listed_count": 1086,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11514,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11848,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 20 20:12:07 +0000 2018",
+			"id": 976189665719054300,
+			"id_str": "976189665719054337",
+			"text": "Speaking now, @chrisinsilico, the Cambridge Analytica whistleblower - how @carolecadwalla (who is held back at the… https://t.co/y0HEv6N3QZ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "chrisinsilico",
+						"name": "Christopher Wylie",
+						"id": 787149253302812700,
+						"id_str": "787149253302812672",
+						"indices": [
+							14,
+							28
+						]
+					},
+					{
+						"screen_name": "carolecadwalla",
+						"name": "Carole Cadwalladr",
+						"id": 722242009,
+						"id_str": "722242009",
+						"indices": [
+							74,
+							89
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/y0HEv6N3QZ",
+						"expanded_url": "https://twitter.com/i/web/status/976189665719054337",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1119741,
+				"id_str": "1119741",
+				"name": "Steve Parks",
+				"screen_name": "steveparks",
+				"location": "London, UK",
+				"description": "Writing, Tech, Startups, Media, Food. I lead @weareconvivio, helping gov work better for people online. 4 biz books published by Pearson, now working on novel.",
+				"url": "https://t.co/4v1MrL3CJJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4v1MrL3CJJ",
+								"expanded_url": "http://www.steveparks.co.uk",
+								"display_url": "steveparks.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2265,
+				"friends_count": 1809,
+				"listed_count": 160,
+				"created_at": "Tue Mar 13 22:10:10 +0000 2007",
+				"favourites_count": 2955,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17572,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5393881/background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5393881/background.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/539062632574357504/twRurm_r_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/539062632574357504/twRurm_r_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1119741/1521589613",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E2EEF2",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 30,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Mar 21 22:07:17 +0000 2018",
+		"id": 976581036246118400,
+		"id_str": "976581036246118400",
+		"text": "@steveparks @chrisinsilico @carolecadwalla @guardian Great tweet notes!! Thanks for sharing!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "steveparks",
+					"name": "Steve Parks",
+					"id": 1119741,
+					"id_str": "1119741",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "chrisinsilico",
+					"name": "Christopher Wylie",
+					"id": 787149253302812700,
+					"id_str": "787149253302812672",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "carolecadwalla",
+					"name": "Carole Cadwalladr",
+					"id": 722242009,
+					"id_str": "722242009",
+					"indices": [
+						27,
+						42
+					]
+				},
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						43,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 976189665719054300,
+		"in_reply_to_status_id_str": "976189665719054337",
+		"in_reply_to_user_id": 1119741,
+		"in_reply_to_user_id_str": "1119741",
+		"in_reply_to_screen_name": "steveparks",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40492,
+			"friends_count": 24809,
+			"listed_count": 1086,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11514,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11848,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 21 19:43:36 +0000 2018",
 		"id": 976544875314257900,
 		"id_str": "976544875314257920",
