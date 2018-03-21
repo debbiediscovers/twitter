@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Tue Mar 20 23:15:28 +0000 2018",
+		"id": 976235805759782900,
+		"id_str": "976235805759782912",
+		"text": "RT @Reuters: Expedia's Orbitz says 880,000 payment cards hit in breach https://t.co/C2C7U1NbxT https://t.co/whnEZS55WB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Reuters",
+					"name": "Reuters Top News",
+					"id": 1652541,
+					"id_str": "1652541",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/C2C7U1NbxT",
+					"expanded_url": "http://reut.rs/2HS22g7",
+					"display_url": "reut.rs/2HS22g7",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 976200860018421800,
+					"id_str": "976200860018421761",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DYwpgpLUMAECsj2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYwpgpLUMAECsj2.jpg",
+					"url": "https://t.co/whnEZS55WB",
+					"display_url": "pic.twitter.com/whnEZS55WB",
+					"expanded_url": "https://twitter.com/Reuters/status/976200861801177089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 536,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 976200861801177100,
+					"source_status_id_str": "976200861801177089",
+					"source_user_id": 1652541,
+					"source_user_id_str": "1652541"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 976200860018421800,
+					"id_str": "976200860018421761",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DYwpgpLUMAECsj2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYwpgpLUMAECsj2.jpg",
+					"url": "https://t.co/whnEZS55WB",
+					"display_url": "pic.twitter.com/whnEZS55WB",
+					"expanded_url": "https://twitter.com/Reuters/status/976200861801177089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 536,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 976200861801177100,
+					"source_status_id_str": "976200861801177089",
+					"source_user_id": 1652541,
+					"source_user_id_str": "1652541"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40269,
+			"friends_count": 24159,
+			"listed_count": 1086,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11488,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11830,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 20 20:56:37 +0000 2018",
+			"id": 976200861801177100,
+			"id_str": "976200861801177089",
+			"text": "Expedia's Orbitz says 880,000 payment cards hit in breach https://t.co/C2C7U1NbxT https://t.co/whnEZS55WB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/C2C7U1NbxT",
+						"expanded_url": "http://reut.rs/2HS22g7",
+						"display_url": "reut.rs/2HS22g7",
+						"indices": [
+							58,
+							81
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 976200860018421800,
+						"id_str": "976200860018421761",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/DYwpgpLUMAECsj2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYwpgpLUMAECsj2.jpg",
+						"url": "https://t.co/whnEZS55WB",
+						"display_url": "pic.twitter.com/whnEZS55WB",
+						"expanded_url": "https://twitter.com/Reuters/status/976200861801177089/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 456,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 536,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 976200860018421800,
+						"id_str": "976200860018421761",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/DYwpgpLUMAECsj2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYwpgpLUMAECsj2.jpg",
+						"url": "https://t.co/whnEZS55WB",
+						"display_url": "pic.twitter.com/whnEZS55WB",
+						"expanded_url": "https://twitter.com/Reuters/status/976200861801177089/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 456,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 536,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://trueanthem.com/\" rel=\"nofollow\">trueAnthem</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1652541,
+				"id_str": "1652541",
+				"name": "Reuters Top News",
+				"screen_name": "Reuters",
+				"location": "Around the world",
+				"description": "Top and breaking news, pictures, and videos from Reuters.",
+				"url": "http://t.co/BmHxhkm3Mh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/BmHxhkm3Mh",
+								"expanded_url": "http://www.reuters.com",
+								"display_url": "reuters.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19512143,
+				"friends_count": 1068,
+				"listed_count": 114018,
+				"created_at": "Tue Mar 20 17:46:05 +0000 2007",
+				"favourites_count": 812,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 259787,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "444444",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735542174/340f8869cdcabbcc436096587143cc38.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735542174/340f8869cdcabbcc436096587143cc38.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1652541/1473859324",
+				"profile_link_color": "006F97",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F5F5F5",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 60,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Mar 20 23:05:49 +0000 2018",
 		"id": 976233379308933100,
 		"id_str": "976233379308933120",
