@@ -1,6 +1,399 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Wed Mar 21 19:43:36 +0000 2018",
+		"id": 976544875314257900,
+		"id_str": "976544875314257920",
+		"text": "RT @Selina_y_wang: Mark Zuckerberg breaks his silence!! #CambridgeAnalytica \nhttps://t.co/qAJahBIqpW https://t.co/7IziotcjfP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CambridgeAnalytica",
+					"indices": [
+						56,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Selina_y_wang",
+					"name": "Selina Wang",
+					"id": 853669477,
+					"id_str": "853669477",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qAJahBIqpW",
+					"expanded_url": "https://www.facebook.com/zuck/posts/10104712037900071",
+					"display_url": "facebook.com/zuck/posts/101…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 976544162857308200,
+					"id_str": "976544162857308162",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DY1hvf6XUAIfGSj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DY1hvf6XUAIfGSj.jpg",
+					"url": "https://t.co/7IziotcjfP",
+					"display_url": "pic.twitter.com/7IziotcjfP",
+					"expanded_url": "https://twitter.com/Selina_y_wang/status/976544201516216320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 478,
+							"h": 403,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 478,
+							"h": 403,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 403,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 976544201516216300,
+					"source_status_id_str": "976544201516216320",
+					"source_user_id": 853669477,
+					"source_user_id_str": "853669477"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 976544162857308200,
+					"id_str": "976544162857308162",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DY1hvf6XUAIfGSj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DY1hvf6XUAIfGSj.jpg",
+					"url": "https://t.co/7IziotcjfP",
+					"display_url": "pic.twitter.com/7IziotcjfP",
+					"expanded_url": "https://twitter.com/Selina_y_wang/status/976544201516216320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 478,
+							"h": 403,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 478,
+							"h": 403,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 403,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 976544201516216300,
+					"source_status_id_str": "976544201516216320",
+					"source_user_id": 853669477,
+					"source_user_id_str": "853669477"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40483,
+			"friends_count": 24743,
+			"listed_count": 1086,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11511,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11846,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 21 19:40:55 +0000 2018",
+			"id": 976544201516216300,
+			"id_str": "976544201516216320",
+			"text": "Mark Zuckerberg breaks his silence!! #CambridgeAnalytica \nhttps://t.co/qAJahBIqpW https://t.co/7IziotcjfP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CambridgeAnalytica",
+						"indices": [
+							37,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qAJahBIqpW",
+						"expanded_url": "https://www.facebook.com/zuck/posts/10104712037900071",
+						"display_url": "facebook.com/zuck/posts/101…",
+						"indices": [
+							58,
+							81
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 976544162857308200,
+						"id_str": "976544162857308162",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/DY1hvf6XUAIfGSj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DY1hvf6XUAIfGSj.jpg",
+						"url": "https://t.co/7IziotcjfP",
+						"display_url": "pic.twitter.com/7IziotcjfP",
+						"expanded_url": "https://twitter.com/Selina_y_wang/status/976544201516216320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 478,
+								"h": 403,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 478,
+								"h": 403,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 478,
+								"h": 403,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 976544162857308200,
+						"id_str": "976544162857308162",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/DY1hvf6XUAIfGSj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DY1hvf6XUAIfGSj.jpg",
+						"url": "https://t.co/7IziotcjfP",
+						"display_url": "pic.twitter.com/7IziotcjfP",
+						"expanded_url": "https://twitter.com/Selina_y_wang/status/976544201516216320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 478,
+								"h": 403,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 478,
+								"h": 403,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 478,
+								"h": 403,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 853669477,
+				"id_str": "853669477",
+				"name": "Selina Wang",
+				"screen_name": "Selina_y_wang",
+				"location": "San Francisco, CA",
+				"description": "Bloomberg News reporter for global @technology @business @bloombergtv Covering Asia, crossborder investments, emerging tech & Twitter swang533@bloomberg.net",
+				"url": "https://t.co/YSr4WbNBsL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YSr4WbNBsL",
+								"expanded_url": "http://wangselina.wordpress.com",
+								"display_url": "wangselina.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4856,
+				"friends_count": 1142,
+				"listed_count": 191,
+				"created_at": "Sat Sep 29 21:58:43 +0000 2012",
+				"favourites_count": 2904,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1891,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/610633619460067328/NWcYa8kU.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/610633619460067328/NWcYa8kU.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/966501450540077057/9M9zjj2R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/966501450540077057/9M9zjj2R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/853669477/1519266708",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 7,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 21 17:54:04 +0000 2018",
 		"id": 976517311283818500,
 		"id_str": "976517311283818496",
