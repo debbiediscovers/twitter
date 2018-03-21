@@ -1,6 +1,574 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Wed Mar 21 11:10:35 +0000 2018",
+		"id": 976415773265719300,
+		"id_str": "976415773265719297",
+		"text": "RT @haveigotnews: Facebook releases statement on Cambridge Analytica controversy: https://t.co/yq7kCgv0p3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "haveigotnews",
+					"name": "Have I Got News For You",
+					"id": 125370749,
+					"id_str": "125370749",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 976400026846056400,
+					"id_str": "976400026846056448",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DYzeprbXUAAPto-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYzeprbXUAAPto-.jpg",
+					"url": "https://t.co/yq7kCgv0p3",
+					"display_url": "pic.twitter.com/yq7kCgv0p3",
+					"expanded_url": "https://twitter.com/haveigotnews/status/976400160979869696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 684,
+							"h": 484,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 684,
+							"h": 484,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 976400160979869700,
+					"source_status_id_str": "976400160979869696",
+					"source_user_id": 125370749,
+					"source_user_id_str": "125370749"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 976400026846056400,
+					"id_str": "976400026846056448",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DYzeprbXUAAPto-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYzeprbXUAAPto-.jpg",
+					"url": "https://t.co/yq7kCgv0p3",
+					"display_url": "pic.twitter.com/yq7kCgv0p3",
+					"expanded_url": "https://twitter.com/haveigotnews/status/976400160979869696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 684,
+							"h": 484,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 684,
+							"h": 484,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 976400160979869700,
+					"source_status_id_str": "976400160979869696",
+					"source_user_id": 125370749,
+					"source_user_id_str": "125370749"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40360,
+			"friends_count": 24602,
+			"listed_count": 1093,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11507,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11840,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 21 10:08:33 +0000 2018",
+			"id": 976400160979869700,
+			"id_str": "976400160979869696",
+			"text": "Facebook releases statement on Cambridge Analytica controversy: https://t.co/yq7kCgv0p3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 976400026846056400,
+						"id_str": "976400026846056448",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/DYzeprbXUAAPto-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYzeprbXUAAPto-.jpg",
+						"url": "https://t.co/yq7kCgv0p3",
+						"display_url": "pic.twitter.com/yq7kCgv0p3",
+						"expanded_url": "https://twitter.com/haveigotnews/status/976400160979869696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 481,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 684,
+								"h": 484,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 684,
+								"h": 484,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 976400026846056400,
+						"id_str": "976400026846056448",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/DYzeprbXUAAPto-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYzeprbXUAAPto-.jpg",
+						"url": "https://t.co/yq7kCgv0p3",
+						"display_url": "pic.twitter.com/yq7kCgv0p3",
+						"expanded_url": "https://twitter.com/haveigotnews/status/976400160979869696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 481,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 684,
+								"h": 484,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 684,
+								"h": 484,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 125370749,
+				"id_str": "125370749",
+				"name": "Have I Got News For You",
+				"screen_name": "haveigotnews",
+				"location": "",
+				"description": "This account is run by Hat Trick, who make HIGNFY. The BBC have asked us to point out it's nothing to do with them; the twitter feed that is, not the TV show.",
+				"url": "http://t.co/r8nHpMQE7u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/r8nHpMQE7u",
+								"expanded_url": "http://www.bbc.co.uk/programmes/b006mkw3",
+								"display_url": "bbc.co.uk/programmes/b00…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 473611,
+				"friends_count": 119,
+				"listed_count": 2157,
+				"created_at": "Mon Mar 22 15:56:12 +0000 2010",
+				"favourites_count": 61,
+				"utc_offset": 0,
+				"time_zone": "Casablanca",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5239,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/85227013/HIGNFY_background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/85227013/HIGNFY_background.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/768391859/HIGNFY-square_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/768391859/HIGNFY-square_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/125370749/1447242035",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 168,
+			"favorite_count": 330,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 168,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Mar 21 11:03:45 +0000 2018",
+		"id": 976414053345132500,
+		"id_str": "976414053345132544",
+		"text": "RT @Amy_Siskind: Watching how swiftly the UK Parliament is moving on Cambridge Analytica while our Republican-led Congress refuses to even…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Amy_Siskind",
+					"name": "Amy Siskind",
+					"id": 15976705,
+					"id_str": "15976705",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40360,
+			"friends_count": 24602,
+			"listed_count": 1093,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11507,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11840,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 19 23:33:31 +0000 2018",
+			"id": 975877960757596200,
+			"id_str": "975877960757596161",
+			"text": "Watching how swiftly the UK Parliament is moving on Cambridge Analytica while our Republican-led Congress refuses t… https://t.co/li3ZwITejn",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/li3ZwITejn",
+						"expanded_url": "https://twitter.com/i/web/status/975877960757596161",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15976705,
+				"id_str": "15976705",
+				"name": "Amy Siskind",
+				"screen_name": "Amy_Siskind",
+				"location": "New York",
+				"description": "President of The New Agenda. Advocate for women's, LGBTQ rights and equality. Fmr Wall Street exec. POLITICO 50. Author of THE LIST https://t.co/tMr9QbCrKm",
+				"url": "https://t.co/SC4oCHc104",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SC4oCHc104",
+								"expanded_url": "http://www.thenewagenda.net/",
+								"display_url": "thenewagenda.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/tMr9QbCrKm",
+								"expanded_url": "https://theweeklylist.org/",
+								"display_url": "theweeklylist.org",
+								"indices": [
+									132,
+									155
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 249017,
+				"friends_count": 294,
+				"listed_count": 2653,
+				"created_at": "Mon Aug 25 02:52:25 +0000 2008",
+				"favourites_count": 26774,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 37282,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/964147245682774016/eiFYWVo-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/964147245682774016/eiFYWVo-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15976705/1518705593",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18684,
+			"favorite_count": 44613,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18684,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 21 04:28:57 +0000 2018",
 		"id": 976314697459884000,
 		"id_str": "976314697459884032",
