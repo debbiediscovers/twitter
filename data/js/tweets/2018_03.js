@@ -1,6 +1,453 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Thu Mar 22 02:55:29 +0000 2018",
+		"id": 976653561328103400,
+		"id_str": "976653561328103424",
+		"text": "RT @realjoet: I just published “Design Good, Week 3: Chatbots and Conversation Psychology” https://t.co/dYu1jAo8Z6 #design #ux #chatbots #b…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "design",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "ux",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "chatbots",
+					"indices": [
+						127,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realjoet",
+					"name": "Joe Toscano ⚡️",
+					"id": 65144656,
+					"id_str": "65144656",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dYu1jAo8Z6",
+					"expanded_url": "https://medium.com/re-write/design-good-week-3-chatbots-and-conversation-psychology-3c7472ed6cd7",
+					"display_url": "medium.com/re-write/desig…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40509,
+			"friends_count": 25002,
+			"listed_count": 1090,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11527,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 21 14:17:00 +0000 2018",
+			"id": 976462684744044500,
+			"id_str": "976462684744044544",
+			"text": "I just published “Design Good, Week 3: Chatbots and Conversation Psychology” https://t.co/dYu1jAo8Z6 #design #ux… https://t.co/1diGmAZEht",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "design",
+						"indices": [
+							101,
+							108
+						]
+					},
+					{
+						"text": "ux",
+						"indices": [
+							109,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dYu1jAo8Z6",
+						"expanded_url": "https://medium.com/re-write/design-good-week-3-chatbots-and-conversation-psychology-3c7472ed6cd7",
+						"display_url": "medium.com/re-write/desig…",
+						"indices": [
+							77,
+							100
+						]
+					},
+					{
+						"url": "https://t.co/1diGmAZEht",
+						"expanded_url": "https://twitter.com/i/web/status/976462684744044544",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 65144656,
+				"id_str": "65144656",
+				"name": "Joe Toscano ⚡️",
+				"screen_name": "realjoet",
+				"location": "The Clouds",
+				"description": "Author/Speaker/Founder, Design Good // Prev XD, @rga @google // Contributor,  @invisionapp @adweek. Changing the world w/ a smile, design & some code. #TheHunt",
+				"url": "https://t.co/keiAk8USWA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/keiAk8USWA",
+								"expanded_url": "http://www.designingintelligence.com/",
+								"display_url": "designingintelligence.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2109,
+				"friends_count": 492,
+				"listed_count": 450,
+				"created_at": "Wed Aug 12 20:07:58 +0000 2009",
+				"favourites_count": 5366,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14275,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/512080009893126145/YN-L9iMt.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/512080009893126145/YN-L9iMt.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/862299969675329536/t6rLmGZh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/862299969675329536/t6rLmGZh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65144656/1509936392",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "121212",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Mar 22 02:53:45 +0000 2018",
+		"id": 976653126735286300,
+		"id_str": "976653126735286272",
+		"text": "RT @joshsternberg: Asked Facebook PR why Zuckerberg didn't apologize in his post, and got an honest answer: \"I don’t have an answer for you…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joshsternberg",
+					"name": "Josh Sternberg",
+					"id": 14787085,
+					"id_str": "14787085",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40509,
+			"friends_count": 25002,
+			"listed_count": 1090,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11527,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 21 20:14:25 +0000 2018",
+			"id": 976552632285265900,
+			"id_str": "976552632285265921",
+			"text": "Asked Facebook PR why Zuckerberg didn't apologize in his post, and got an honest answer: \"I don’t have an answer fo… https://t.co/hacSGksPa7",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hacSGksPa7",
+						"expanded_url": "https://twitter.com/i/web/status/976552632285265921",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14787085,
+				"id_str": "14787085",
+				"name": "Josh Sternberg",
+				"screen_name": "joshsternberg",
+				"location": "Park Slope, Brooklyn",
+				"description": "Tech Editor @adweek. Priors: NBC News; WaPo; Digiday. Bylines: The Atlantic, The Awl, Entrepreneur, Pacific Standard, etc. \nemail: josh.sternberg@adweek.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11174,
+				"friends_count": 1011,
+				"listed_count": 1150,
+				"created_at": "Thu May 15 15:03:26 +0000 2008",
+				"favourites_count": 19092,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 92403,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/543592567141433344/uCj3wUDv.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/543592567141433344/uCj3wUDv.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/886707391282151424/aFUC0hT8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/886707391282151424/aFUC0hT8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14787085/1492048729",
+				"profile_link_color": "F0430E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 22 01:46:27 +0000 2018",
 		"id": 976636189296873500,
 		"id_str": "976636189296873472",
