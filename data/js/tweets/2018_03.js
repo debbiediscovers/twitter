@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Wed Mar 21 23:53:30 +0000 2018",
+		"id": 976607767061413900,
+		"id_str": "976607767061413889",
+		"text": "RT @sarahfrier: Co-founder of WhatsApp. Owned by Facebook. Wow. https://t.co/e4Yjcy9oWl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sarahfrier",
+					"name": "Sarah Frier",
+					"id": 15823646,
+					"id_str": "15823646",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/e4Yjcy9oWl",
+					"expanded_url": "https://twitter.com/brianacton/status/976231995846963201",
+					"display_url": "twitter.com/brianacton/sta…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40500,
+			"friends_count": 24910,
+			"listed_count": 1087,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11523,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11852,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 20 23:37:24 +0000 2018",
+			"id": 976241324587233300,
+			"id_str": "976241324587233280",
+			"text": "Co-founder of WhatsApp. Owned by Facebook. Wow. https://t.co/e4Yjcy9oWl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/e4Yjcy9oWl",
+						"expanded_url": "https://twitter.com/brianacton/status/976231995846963201",
+						"display_url": "twitter.com/brianacton/sta…",
+						"indices": [
+							48,
+							71
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15823646,
+				"id_str": "15823646",
+				"name": "Sarah Frier",
+				"screen_name": "sarahfrier",
+				"location": "San Francisco, CA",
+				"description": "Tech reporter for Bloomberg in SF (@Business). Tell me what you think about Facebook, Instagram, Snapchat, etc. UNC grad. Email sfrier1 at bloomberg dot net.",
+				"url": "https://t.co/g5FcHF8HAL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/g5FcHF8HAL",
+								"expanded_url": "http://www.bloomberg.com/technology",
+								"display_url": "bloomberg.com/technology",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30443,
+				"friends_count": 1243,
+				"listed_count": 1379,
+				"created_at": "Tue Aug 12 15:31:47 +0000 2008",
+				"favourites_count": 5053,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 7074,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/966066623638466560/I8rrSv9e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/966066623638466560/I8rrSv9e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15823646/1427920454",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 976231995846963200,
+			"quoted_status_id_str": "976231995846963201",
+			"quoted_status": {
+				"created_at": "Tue Mar 20 23:00:19 +0000 2018",
+				"id": 976231995846963200,
+				"id_str": "976231995846963201",
+				"text": "It is time. #deletefacebook",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "deletefacebook",
+							"indices": [
+								12,
+								27
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 21038221,
+					"id_str": "21038221",
+					"name": "Brian Acton",
+					"screen_name": "brianacton",
+					"location": "Palo Alto, CA",
+					"description": "Apple, Yahoo, WhatsApp, Signal",
+					"url": "https://t.co/DU1OtVa9fu",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/DU1OtVa9fu",
+									"expanded_url": "https://signal.org",
+									"display_url": "signal.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 31939,
+					"friends_count": 42,
+					"listed_count": 293,
+					"created_at": "Mon Feb 16 22:43:02 +0000 2009",
+					"favourites_count": 0,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 74,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/85157243/acton_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/85157243/acton_normal.jpg",
+					"profile_link_color": "19CF86",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 9826,
+				"favorite_count": 19119,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 305,
+			"favorite_count": 442,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 976231995846963200,
+		"quoted_status_id_str": "976231995846963201",
+		"retweet_count": 305,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 21 23:01:04 +0000 2018",
 		"id": 976594571781079000,
 		"id_str": "976594571781079041",
