@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Fri Mar 23 20:31:02 +0000 2018",
+		"id": 977281589888495600,
+		"id_str": "977281589888495616",
+		"text": "RT @Ali_ceDcq: @SpaceX and @Tesla CEO deleted #Facebook pages for both companies, joining a \"growing chorus\" of tech leaders calling on peo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Facebook",
+					"indices": [
+						46,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ali_ceDcq",
+					"name": "Ali_ceDcq",
+					"id": 16529011,
+					"id_str": "16529011",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "SpaceX",
+					"name": "SpaceX",
+					"id": 34743251,
+					"id_str": "34743251",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"screen_name": "Tesla",
+					"name": "Tesla",
+					"id": 13298072,
+					"id_str": "13298072",
+					"indices": [
+						27,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40636,
+			"friends_count": 25829,
+			"listed_count": 1093,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11546,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11892,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 23 20:26:21 +0000 2018",
+			"id": 977280409917632500,
+			"id_str": "977280409917632512",
+			"text": "@SpaceX and @Tesla CEO deleted #Facebook pages for both companies, joining a \"growing chorus\" of tech leaders calli… https://t.co/mx72GeyXXP",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Facebook",
+						"indices": [
+							31,
+							40
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SpaceX",
+						"name": "SpaceX",
+						"id": 34743251,
+						"id_str": "34743251",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"screen_name": "Tesla",
+						"name": "Tesla",
+						"id": 13298072,
+						"id_str": "13298072",
+						"indices": [
+							12,
+							18
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mx72GeyXXP",
+						"expanded_url": "https://twitter.com/i/web/status/977280409917632512",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 34743251,
+			"in_reply_to_user_id_str": "34743251",
+			"in_reply_to_screen_name": "SpaceX",
+			"user": {
+				"id": 16529011,
+				"id_str": "16529011",
+				"name": "Ali_ceDcq",
+				"screen_name": "Ali_ceDcq",
+				"location": "in Maryland, near Wash. DC",
+				"description": "#DigitalMarketing, #contentmarketing & production, #editorial & creative for #SMB, #startups, #nonprofit. All tweets mine.",
+				"url": "http://t.co/kl8dl4wxt2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/kl8dl4wxt2",
+								"expanded_url": "http://www.strategiccc.com",
+								"display_url": "strategiccc.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 364,
+				"friends_count": 325,
+				"listed_count": 48,
+				"created_at": "Tue Sep 30 15:24:49 +0000 2008",
+				"favourites_count": 352,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1059,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/535827085768396802/dP9VL8BL_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/535827085768396802/dP9VL8BL_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16529011/1416588321",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 9,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Mar 23 17:54:06 +0000 2018",
 		"id": 977242094120075300,
 		"id_str": "977242094120075265",
