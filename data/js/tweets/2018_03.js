@@ -1,6 +1,692 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sat Mar 24 09:10:41 +0000 2018",
+		"id": 977472760862486500,
+		"id_str": "977472760862486528",
+		"text": "@wanfaheem_ Want!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wanfaheem_",
+					"name": "Faheem",
+					"id": 199225954,
+					"id_str": "199225954",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 976013763022225400,
+		"in_reply_to_status_id_str": "976013763022225408",
+		"in_reply_to_user_id": 199225954,
+		"in_reply_to_user_id_str": "199225954",
+		"in_reply_to_screen_name": "wanfaheem_",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40662,
+			"friends_count": 25924,
+			"listed_count": 1097,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11550,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11896,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 24 09:10:37 +0000 2018",
+		"id": 977472743124774900,
+		"id_str": "977472743124774912",
+		"text": "RT @wanfaheem_: Rt this and ill make a pic of yours :) https://t.co/o2NOkRWAhF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wanfaheem_",
+					"name": "Faheem",
+					"id": 199225954,
+					"id_str": "199225954",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 976013711465791500,
+					"id_str": "976013711465791489",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DYt_TKfUQAEesPI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYt_TKfUQAEesPI.jpg",
+					"url": "https://t.co/o2NOkRWAhF",
+					"display_url": "pic.twitter.com/o2NOkRWAhF",
+					"expanded_url": "https://twitter.com/wanfaheem_/status/976013763022225408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 646,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1137,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1137,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 976013763022225400,
+					"source_status_id_str": "976013763022225408",
+					"source_user_id": 199225954,
+					"source_user_id_str": "199225954"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 976013711465791500,
+					"id_str": "976013711465791489",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DYt_TKfUQAEesPI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYt_TKfUQAEesPI.jpg",
+					"url": "https://t.co/o2NOkRWAhF",
+					"display_url": "pic.twitter.com/o2NOkRWAhF",
+					"expanded_url": "https://twitter.com/wanfaheem_/status/976013763022225408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 646,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1137,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1137,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 976013763022225400,
+					"source_status_id_str": "976013763022225408",
+					"source_user_id": 199225954,
+					"source_user_id_str": "199225954"
+				},
+				{
+					"id": 976013726808621000,
+					"id_str": "976013726808621057",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DYt_UDpVQAEJNGW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYt_UDpVQAEJNGW.jpg",
+					"url": "https://t.co/o2NOkRWAhF",
+					"display_url": "pic.twitter.com/o2NOkRWAhF",
+					"expanded_url": "https://twitter.com/wanfaheem_/status/976013763022225408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1406,
+							"h": 1514,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 631,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1114,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 976013763022225400,
+					"source_status_id_str": "976013763022225408",
+					"source_user_id": 199225954,
+					"source_user_id_str": "199225954"
+				},
+				{
+					"id": 976013751991246800,
+					"id_str": "976013751991246848",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DYt_VhdVoAABcYm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYt_VhdVoAABcYm.jpg",
+					"url": "https://t.co/o2NOkRWAhF",
+					"display_url": "pic.twitter.com/o2NOkRWAhF",
+					"expanded_url": "https://twitter.com/wanfaheem_/status/976013763022225408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 976013763022225400,
+					"source_status_id_str": "976013763022225408",
+					"source_user_id": 199225954,
+					"source_user_id_str": "199225954"
+				},
+				{
+					"id": 976013759507398700,
+					"id_str": "976013759507398656",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DYt_V9dVAAABSsK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYt_V9dVAAABSsK.jpg",
+					"url": "https://t.co/o2NOkRWAhF",
+					"display_url": "pic.twitter.com/o2NOkRWAhF",
+					"expanded_url": "https://twitter.com/wanfaheem_/status/976013763022225408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1137,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 646,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1137,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 976013763022225400,
+					"source_status_id_str": "976013763022225408",
+					"source_user_id": 199225954,
+					"source_user_id_str": "199225954"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40662,
+			"friends_count": 25924,
+			"listed_count": 1097,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11550,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11896,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 20 08:33:09 +0000 2018",
+			"id": 976013763022225400,
+			"id_str": "976013763022225408",
+			"text": "Rt this and ill make a pic of yours :) https://t.co/o2NOkRWAhF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 976013711465791500,
+						"id_str": "976013711465791489",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DYt_TKfUQAEesPI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYt_TKfUQAEesPI.jpg",
+						"url": "https://t.co/o2NOkRWAhF",
+						"display_url": "pic.twitter.com/o2NOkRWAhF",
+						"expanded_url": "https://twitter.com/wanfaheem_/status/976013763022225408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 646,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1137,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1137,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 976013711465791500,
+						"id_str": "976013711465791489",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DYt_TKfUQAEesPI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYt_TKfUQAEesPI.jpg",
+						"url": "https://t.co/o2NOkRWAhF",
+						"display_url": "pic.twitter.com/o2NOkRWAhF",
+						"expanded_url": "https://twitter.com/wanfaheem_/status/976013763022225408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 646,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1137,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1137,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 976013726808621000,
+						"id_str": "976013726808621057",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DYt_UDpVQAEJNGW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYt_UDpVQAEJNGW.jpg",
+						"url": "https://t.co/o2NOkRWAhF",
+						"display_url": "pic.twitter.com/o2NOkRWAhF",
+						"expanded_url": "https://twitter.com/wanfaheem_/status/976013763022225408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1406,
+								"h": 1514,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 631,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1114,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 976013751991246800,
+						"id_str": "976013751991246848",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DYt_VhdVoAABcYm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYt_VhdVoAABcYm.jpg",
+						"url": "https://t.co/o2NOkRWAhF",
+						"display_url": "pic.twitter.com/o2NOkRWAhF",
+						"expanded_url": "https://twitter.com/wanfaheem_/status/976013763022225408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 976013759507398700,
+						"id_str": "976013759507398656",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DYt_V9dVAAABSsK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYt_V9dVAAABSsK.jpg",
+						"url": "https://t.co/o2NOkRWAhF",
+						"display_url": "pic.twitter.com/o2NOkRWAhF",
+						"expanded_url": "https://twitter.com/wanfaheem_/status/976013763022225408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1137,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 646,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1137,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 199225954,
+				"id_str": "199225954",
+				"name": "Faheem",
+				"screen_name": "wanfaheem_",
+				"location": "UTM",
+				"description": "You and only you",
+				"url": "https://t.co/EXhIorGyiV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EXhIorGyiV",
+								"expanded_url": "http://www.instagram.com/wanfaheem_",
+								"display_url": "instagram.com/wanfaheem_",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 915,
+				"friends_count": 738,
+				"listed_count": 4,
+				"created_at": "Wed Oct 06 10:18:19 +0000 2010",
+				"favourites_count": 5508,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5951,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000157289491/B4m309Qo.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000157289491/B4m309Qo.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/976063144727519232/ACryumta_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/976063144727519232/ACryumta_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/199225954/1521505228",
+				"profile_link_color": "141414",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12315,
+			"favorite_count": 4836,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12315,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Mar 23 23:02:12 +0000 2018",
 		"id": 977319632762822700,
 		"id_str": "977319632762822657",
