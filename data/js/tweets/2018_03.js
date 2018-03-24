@@ -1,6 +1,438 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sat Mar 24 10:02:55 +0000 2018",
+		"id": 977485907400933400,
+		"id_str": "977485907400933378",
+		"text": "RT @huzzahdigital: We're big @tomfishburne fans in this office, this one really got us good! 😂\n#marketoonist #marketing https://t.co/7CphFH…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "marketoonist",
+					"indices": [
+						95,
+						108
+					]
+				},
+				{
+					"text": "marketing",
+					"indices": [
+						109,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "huzzahdigital",
+					"name": "huzzah! digital",
+					"id": 1704588318,
+					"id_str": "1704588318",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "tomfishburne",
+					"name": "Tom Fishburne",
+					"id": 43407384,
+					"id_str": "43407384",
+					"indices": [
+						29,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40668,
+			"friends_count": 25942,
+			"listed_count": 1089,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11551,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11898,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 24 10:00:33 +0000 2018",
+			"id": 977485312057364500,
+			"id_str": "977485312057364481",
+			"text": "We're big @tomfishburne fans in this office, this one really got us good! 😂\n#marketoonist #marketing https://t.co/7CphFHJmMD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "marketoonist",
+						"indices": [
+							76,
+							89
+						]
+					},
+					{
+						"text": "marketing",
+						"indices": [
+							90,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tomfishburne",
+						"name": "Tom Fishburne",
+						"id": 43407384,
+						"id_str": "43407384",
+						"indices": [
+							10,
+							23
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 977485310123749400,
+						"id_str": "977485310123749376",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DZC5tesWsAADhjx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZC5tesWsAADhjx.jpg",
+						"url": "https://t.co/7CphFHJmMD",
+						"display_url": "pic.twitter.com/7CphFHJmMD",
+						"expanded_url": "https://twitter.com/huzzahdigital/status/977485312057364481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 746,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 456,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 746,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 977485310123749400,
+						"id_str": "977485310123749376",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DZC5tesWsAADhjx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZC5tesWsAADhjx.jpg",
+						"url": "https://t.co/7CphFHJmMD",
+						"display_url": "pic.twitter.com/7CphFHJmMD",
+						"expanded_url": "https://twitter.com/huzzahdigital/status/977485312057364481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 746,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 456,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 746,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1704588318,
+				"id_str": "1704588318",
+				"name": "huzzah! digital",
+				"screen_name": "huzzahdigital",
+				"location": "JQ, Birmingham, England",
+				"description": "Award-winning digital marketing agency with big ideas. Follow us for marketing news & cool campaigns. Get in touch. hello@huzzahdigital.co.uk | 01212969934",
+				"url": "https://t.co/Tn7rOp5vWP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Tn7rOp5vWP",
+								"expanded_url": "https://huzzahdigital.co.uk/",
+								"display_url": "huzzahdigital.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 310,
+				"friends_count": 294,
+				"listed_count": 90,
+				"created_at": "Tue Aug 27 12:52:18 +0000 2013",
+				"favourites_count": 130,
+				"utc_offset": 0,
+				"time_zone": "Casablanca",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1100,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/615554307673468928/_xIlgRDv_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/615554307673468928/_xIlgRDv_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1704588318/1435594548",
+				"profile_link_color": "FB5000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 24 10:02:44 +0000 2018",
+		"id": 977485860399534100,
+		"id_str": "977485860399534080",
+		"text": "@huzzahdigital @tomfishburne Love it!! 🤣",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "huzzahdigital",
+					"name": "huzzah! digital",
+					"id": 1704588318,
+					"id_str": "1704588318",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "tomfishburne",
+					"name": "Tom Fishburne",
+					"id": 43407384,
+					"id_str": "43407384",
+					"indices": [
+						15,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 977485312057364500,
+		"in_reply_to_status_id_str": "977485312057364481",
+		"in_reply_to_user_id": 1704588318,
+		"in_reply_to_user_id_str": "1704588318",
+		"in_reply_to_screen_name": "huzzahdigital",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40668,
+			"friends_count": 25942,
+			"listed_count": 1089,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11551,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11898,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 24 09:10:41 +0000 2018",
 		"id": 977472760862486500,
 		"id_str": "977472760862486528",
