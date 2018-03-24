@@ -1,6 +1,2120 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sat Mar 24 12:20:28 +0000 2018",
+		"id": 977520520760471600,
+		"id_str": "977520520760471552",
+		"text": "Turn off your lights SINGAPORE!  #EarthHour2018 #climatechange #climateactionsg https://t.co/DDVlMHL5n5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EarthHour2018",
+					"indices": [
+						33,
+						47
+					]
+				},
+				{
+					"text": "climatechange",
+					"indices": [
+						48,
+						62
+					]
+				},
+				{
+					"text": "climateactionsg",
+					"indices": [
+						63,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 977520389399109600,
+					"id_str": "977520389399109638",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/977520389399109638/pu/img/jnpyO4BWEeQQNLz9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/977520389399109638/pu/img/jnpyO4BWEeQQNLz9.jpg",
+					"url": "https://t.co/DDVlMHL5n5",
+					"display_url": "pic.twitter.com/DDVlMHL5n5",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/977520520760471552/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 977520389399109600,
+					"id_str": "977520389399109638",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/977520389399109638/pu/img/jnpyO4BWEeQQNLz9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/977520389399109638/pu/img/jnpyO4BWEeQQNLz9.jpg",
+					"url": "https://t.co/DDVlMHL5n5",
+					"display_url": "pic.twitter.com/DDVlMHL5n5",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/977520520760471552/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 11162,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/977520389399109638/pu/vid/720x720/TbAjCHjQGCa1uXCn.mp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/977520389399109638/pu/vid/240x240/4LCWPGdP1-xF0dM4.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/977520389399109638/pu/vid/480x480/Fe2y-gk_hoIHcC-1.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/977520389399109638/pu/pl/b08rhdzJWY_6p0UM.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40676,
+			"friends_count": 26022,
+			"listed_count": 1090,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11560,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11907,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 24 12:18:29 +0000 2018",
+		"id": 977520023743975400,
+		"id_str": "977520023743975424",
+		"text": "RT @1974symbiosis: An hour makes a difference. #Connect2Earth #EarthHour https://t.co/S2KFW42Ks0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Connect2Earth",
+					"indices": [
+						47,
+						61
+					]
+				},
+				{
+					"text": "EarthHour",
+					"indices": [
+						62,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "1974symbiosis",
+					"name": "SYMBIOSIS UPLB",
+					"id": 870127854192689200,
+					"id_str": "870127854192689152",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 977504324245860400,
+					"id_str": "977504324245860352",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DZDLAP0VMAAmwKR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DZDLAP0VMAAmwKR.jpg",
+					"url": "https://t.co/S2KFW42Ks0",
+					"display_url": "pic.twitter.com/S2KFW42Ks0",
+					"expanded_url": "https://twitter.com/1974symbiosis/status/977504351303290881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977504351303290900,
+					"source_status_id_str": "977504351303290881",
+					"source_user_id": 870127854192689200,
+					"source_user_id_str": "870127854192689152"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 977504324245860400,
+					"id_str": "977504324245860352",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DZDLAP0VMAAmwKR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DZDLAP0VMAAmwKR.jpg",
+					"url": "https://t.co/S2KFW42Ks0",
+					"display_url": "pic.twitter.com/S2KFW42Ks0",
+					"expanded_url": "https://twitter.com/1974symbiosis/status/977504351303290881/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977504351303290900,
+					"source_status_id_str": "977504351303290881",
+					"source_user_id": 870127854192689200,
+					"source_user_id_str": "870127854192689152",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DZDLAP0VMAAmwKR.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40676,
+			"friends_count": 26022,
+			"listed_count": 1090,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11560,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11907,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 24 11:16:13 +0000 2018",
+			"id": 977504351303290900,
+			"id_str": "977504351303290881",
+			"text": "An hour makes a difference. #Connect2Earth #EarthHour https://t.co/S2KFW42Ks0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Connect2Earth",
+						"indices": [
+							28,
+							42
+						]
+					},
+					{
+						"text": "EarthHour",
+						"indices": [
+							43,
+							53
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 977504324245860400,
+						"id_str": "977504324245860352",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DZDLAP0VMAAmwKR.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DZDLAP0VMAAmwKR.jpg",
+						"url": "https://t.co/S2KFW42Ks0",
+						"display_url": "pic.twitter.com/S2KFW42Ks0",
+						"expanded_url": "https://twitter.com/1974symbiosis/status/977504351303290881/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 977504324245860400,
+						"id_str": "977504324245860352",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DZDLAP0VMAAmwKR.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DZDLAP0VMAAmwKR.jpg",
+						"url": "https://t.co/S2KFW42Ks0",
+						"display_url": "pic.twitter.com/S2KFW42Ks0",
+						"expanded_url": "https://twitter.com/1974symbiosis/status/977504351303290881/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DZDLAP0VMAAmwKR.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 870127854192689200,
+				"id_str": "870127854192689152",
+				"name": "SYMBIOSIS UPLB",
+				"screen_name": "1974symbiosis",
+				"location": "University of the Philippines",
+				"description": "THE UPLB BIOLOGICAL SOCIETY • Pioneer organization at the UPLB Institute of Biological Sciences • Est. 1974 • (New official account)",
+				"url": "https://t.co/Oyx234GbOJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Oyx234GbOJ",
+								"expanded_url": "http://1974symbiosis.wordpress.com",
+								"display_url": "1974symbiosis.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 54,
+				"friends_count": 46,
+				"listed_count": 0,
+				"created_at": "Thu Jun 01 04:00:21 +0000 2017",
+				"favourites_count": 162,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 139,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/871351798509969409/XxXx5hMu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/871351798509969409/XxXx5hMu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/870127854192689152/1514093206",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 12,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 24 12:18:24 +0000 2018",
+		"id": 977519999584682000,
+		"id_str": "977519999584681984",
+		"text": "RT @wellandwonder: Earth Hour - Climate Change is for Real! Share to show your support! #ChangeClimateChange #EarthHour https://t.co/0EasOO…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ChangeClimateChange",
+					"indices": [
+						88,
+						108
+					]
+				},
+				{
+					"text": "EarthHour",
+					"indices": [
+						109,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wellandwonder",
+					"name": "Well & Wonder",
+					"id": 3380095895,
+					"id_str": "3380095895",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40676,
+			"friends_count": 26022,
+			"listed_count": 1090,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11560,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11907,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 24 09:00:02 +0000 2018",
+			"id": 977470082371739600,
+			"id_str": "977470082371739648",
+			"text": "Earth Hour - Climate Change is for Real! Share to show your support! #ChangeClimateChange #EarthHour https://t.co/0EasOOY0py",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ChangeClimateChange",
+						"indices": [
+							69,
+							89
+						]
+					},
+					{
+						"text": "EarthHour",
+						"indices": [
+							90,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 977470080589140000,
+						"id_str": "977470080589139968",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DZCr3AQWkAApjR1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZCr3AQWkAApjR1.jpg",
+						"url": "https://t.co/0EasOOY0py",
+						"display_url": "pic.twitter.com/0EasOOY0py",
+						"expanded_url": "https://twitter.com/wellandwonder/status/977470082371739648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 604,
+								"h": 506,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 604,
+								"h": 506,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 604,
+								"h": 506,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 977470080589140000,
+						"id_str": "977470080589139968",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DZCr3AQWkAApjR1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZCr3AQWkAApjR1.jpg",
+						"url": "https://t.co/0EasOOY0py",
+						"display_url": "pic.twitter.com/0EasOOY0py",
+						"expanded_url": "https://twitter.com/wellandwonder/status/977470082371739648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 604,
+								"h": 506,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 604,
+								"h": 506,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 604,
+								"h": 506,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3380095895,
+				"id_str": "3380095895",
+				"name": "Well & Wonder",
+				"screen_name": "wellandwonder",
+				"location": "London, England",
+				"description": "I'm Isabel Andraca, Business Strategist for female soulful entrepreneurs ✨ I help you launch your online business from💡to 💰and hit your goals with ease 🚀",
+				"url": "https://t.co/2OBebEphtt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2OBebEphtt",
+								"expanded_url": "http://www.wellandwonder.com",
+								"display_url": "wellandwonder.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 164,
+				"friends_count": 75,
+				"listed_count": 219,
+				"created_at": "Fri Jul 17 09:26:49 +0000 2015",
+				"favourites_count": 102,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3959,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/714187039827222528/fi53B7Mh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/714187039827222528/fi53B7Mh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3380095895/1472551947",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 24 12:18:20 +0000 2018",
+		"id": 977519985344958500,
+		"id_str": "977519985344958464",
+		"text": "RT @WWF: Stay tuned &amp; find out how everyone in the world is celebrating #EarthHour! Join in &amp; turn off your lights at 8:30pm your time http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EarthHour",
+					"indices": [
+						76,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WWF",
+					"name": "WWF",
+					"id": 13201312,
+					"id_str": "13201312",
+					"indices": [
+						3,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40676,
+			"friends_count": 26022,
+			"listed_count": 1090,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11560,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11907,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 24 08:45:08 +0000 2018",
+			"id": 977466330130640900,
+			"id_str": "977466330130640896",
+			"text": "Stay tuned &amp; find out how everyone in the world is celebrating #EarthHour! Join in &amp; turn off your lights at 8:30pm… https://t.co/67yTbCcZKi",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EarthHour",
+						"indices": [
+							67,
+							77
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/67yTbCcZKi",
+						"expanded_url": "https://twitter.com/i/web/status/977466330130640896",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							125,
+							148
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13201312,
+				"id_str": "13201312",
+				"name": "WWF",
+				"screen_name": "WWF",
+				"location": "Global",
+				"description": "Building a future in which people live in harmony with nature. #togetherpossible #connect2earth #biodiversity #sustainability #conservation🐼",
+				"url": "https://t.co/7OOrWA83xg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7OOrWA83xg",
+								"expanded_url": "http://wwf.panda.org/",
+								"display_url": "wwf.panda.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3969325,
+				"friends_count": 3001,
+				"listed_count": 16509,
+				"created_at": "Thu Feb 07 12:05:20 +0000 2008",
+				"favourites_count": 2286,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 552511,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFCC4D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/509015096169734144/mz_kdDi_.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/509015096169734144/mz_kdDi_.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885773428006936576/ruNjra11_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885773428006936576/ruNjra11_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13201312/1521856195",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 216,
+			"favorite_count": 286,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 216,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 24 12:18:14 +0000 2018",
+		"id": 977519961747816400,
+		"id_str": "977519961747816449",
+		"text": "RT @IgorRyvkin: Let's celebrate humanity, civilisation, science and capitalism!\nLights on at #earthhour https://t.co/Mz5C265Qw7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "earthhour",
+					"indices": [
+						93,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IgorRyvkin",
+					"name": "Igor Ryvkin",
+					"id": 1311311976,
+					"id_str": "1311311976",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 977472096732360700,
+					"id_str": "977472096732360704",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DZCtsW-WsAAhKu7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZCtsW-WsAAhKu7.jpg",
+					"url": "https://t.co/Mz5C265Qw7",
+					"display_url": "pic.twitter.com/Mz5C265Qw7",
+					"expanded_url": "https://twitter.com/IgorRyvkin/status/977472314223808512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 333,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 333,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977472314223808500,
+					"source_status_id_str": "977472314223808512",
+					"source_user_id": 1311311976,
+					"source_user_id_str": "1311311976"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 977472096732360700,
+					"id_str": "977472096732360704",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DZCtsW-WsAAhKu7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZCtsW-WsAAhKu7.jpg",
+					"url": "https://t.co/Mz5C265Qw7",
+					"display_url": "pic.twitter.com/Mz5C265Qw7",
+					"expanded_url": "https://twitter.com/IgorRyvkin/status/977472314223808512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 333,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 333,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977472314223808500,
+					"source_status_id_str": "977472314223808512",
+					"source_user_id": 1311311976,
+					"source_user_id_str": "1311311976"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40676,
+			"friends_count": 26022,
+			"listed_count": 1090,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11560,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11907,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 24 09:08:54 +0000 2018",
+			"id": 977472314223808500,
+			"id_str": "977472314223808512",
+			"text": "Let's celebrate humanity, civilisation, science and capitalism!\nLights on at #earthhour https://t.co/Mz5C265Qw7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "earthhour",
+						"indices": [
+							77,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 977472096732360700,
+						"id_str": "977472096732360704",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/DZCtsW-WsAAhKu7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZCtsW-WsAAhKu7.jpg",
+						"url": "https://t.co/Mz5C265Qw7",
+						"display_url": "pic.twitter.com/Mz5C265Qw7",
+						"expanded_url": "https://twitter.com/IgorRyvkin/status/977472314223808512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 977472096732360700,
+						"id_str": "977472096732360704",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/DZCtsW-WsAAhKu7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZCtsW-WsAAhKu7.jpg",
+						"url": "https://t.co/Mz5C265Qw7",
+						"display_url": "pic.twitter.com/Mz5C265Qw7",
+						"expanded_url": "https://twitter.com/IgorRyvkin/status/977472314223808512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1311311976,
+				"id_str": "1311311976",
+				"name": "Igor Ryvkin",
+				"screen_name": "IgorRyvkin",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 78,
+				"friends_count": 119,
+				"listed_count": 0,
+				"created_at": "Thu Mar 28 17:59:16 +0000 2013",
+				"favourites_count": 20,
+				"utc_offset": 3600,
+				"time_zone": "Belgrade",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 802,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/557907520803467264/Yf966bcN_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/557907520803467264/Yf966bcN_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1311311976/1422576269",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 57,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 24 12:18:10 +0000 2018",
+		"id": 977519944991522800,
+		"id_str": "977519944991522816",
+		"text": "RT @UNICEF: Water is a right, not a privilege.\n\nWe're joining the 🌎 for #EarthHour to show our commitment to build a sustainable future #Fo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EarthHour",
+					"indices": [
+						72,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UNICEF",
+					"name": "UNICEF",
+					"id": 33933259,
+					"id_str": "33933259",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40676,
+			"friends_count": 26022,
+			"listed_count": 1090,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11560,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11907,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 24 07:00:00 +0000 2018",
+			"id": 977439875426234400,
+			"id_str": "977439875426234369",
+			"text": "Water is a right, not a privilege.\n\nWe're joining the 🌎 for #EarthHour to show our commitment to build a sustainabl… https://t.co/vzNF8qb9Nf",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EarthHour",
+						"indices": [
+							60,
+							70
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vzNF8qb9Nf",
+						"expanded_url": "https://twitter.com/i/web/status/977439875426234369",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33933259,
+				"id_str": "33933259",
+				"name": "UNICEF",
+				"screen_name": "UNICEF",
+				"location": "",
+				"description": "7 years of hell.\n7 years of hate.\n7 years of fear.\n7 years of danger.\n7 years of heartbreak.\n7 years of devastation.\n7 years of #ChildrenUnderAttack in Syria.",
+				"url": "https://t.co/StLz35GBpl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/StLz35GBpl",
+								"expanded_url": "http://uni.cf/syria",
+								"display_url": "uni.cf/syria",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7191876,
+				"friends_count": 24754,
+				"listed_count": 26970,
+				"created_at": "Tue Apr 21 15:16:12 +0000 2009",
+				"favourites_count": 5175,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 37052,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "141414",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/587405405912825856/DFz5LDAP.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/587405405912825856/DFz5LDAP.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/808330362417979392/AdiQ86lk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/808330362417979392/AdiQ86lk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33933259/1520871164",
+				"profile_link_color": "1CABE2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0E0E0",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 340,
+			"favorite_count": 703,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 340,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 24 12:17:22 +0000 2018",
+		"id": 977519741374947300,
+		"id_str": "977519741374947329",
+		"text": "We’re not going to share information except for the people they asked for it to be shared. There in lies the proble… https://t.co/Sc91TUSRHl",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sc91TUSRHl",
+					"expanded_url": "https://twitter.com/i/web/status/977519741374947329",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40676,
+			"friends_count": 26022,
+			"listed_count": 1090,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11560,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11907,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 977417849441521700,
+		"quoted_status_id_str": "977417849441521664",
+		"quoted_status": {
+			"created_at": "Sat Mar 24 05:32:29 +0000 2018",
+			"id": 977417849441521700,
+			"id_str": "977417849441521664",
+			"text": "Liar! Liar! Pants On Fire! Time to eat humble pie liar.\n\n#DeleteFacebook \n\n https://t.co/16iLUjz3B8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DeleteFacebook",
+						"indices": [
+							57,
+							72
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 976240120780197900,
+						"id_str": "976240120780197888",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DYz03xIX4AAu2sJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYz03xIX4AAu2sJ.jpg",
+						"url": "https://t.co/16iLUjz3B8",
+						"display_url": "pic.twitter.com/16iLUjz3B8",
+						"expanded_url": "https://twitter.com/BBCBusiness/status/976245751259971584/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 976245751259971600,
+						"source_status_id_str": "976245751259971584",
+						"source_user_id": 621523,
+						"source_user_id_str": "621523"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 976240120780197900,
+						"id_str": "976240120780197888",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DYz03xIX4AAu2sJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYz03xIX4AAu2sJ.jpg",
+						"url": "https://t.co/16iLUjz3B8",
+						"display_url": "pic.twitter.com/16iLUjz3B8",
+						"expanded_url": "https://twitter.com/BBCBusiness/status/976245751259971584/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 976245751259971600,
+						"source_status_id_str": "976245751259971584",
+						"source_user_id": 621523,
+						"source_user_id_str": "621523",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 56089,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/976240120780197888/vid/720x720/GF4tUUZU_Smbr5JD.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/976240120780197888/vid/240x240/a2vkfDafC1THxpQp.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/976240120780197888/vid/480x480/wNVMRSc7Vfq-pEjl.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/976240120780197888/pl/XAWGqt_-zLjpHjl1.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 621523,
+								"id_str": "621523",
+								"name": "BBC Business",
+								"screen_name": "BBCBusiness",
+								"location": "London, UK",
+								"description": "Business news from the BBC.  This is our official account aimed at a UK audience.  For more global BBC business news please follow @BBCWorldBiz.",
+								"url": "http://t.co/JfjhmycNXm",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "http://t.co/JfjhmycNXm",
+												"expanded_url": "http://www.bbc.co.uk/business",
+												"display_url": "bbc.co.uk/business",
+												"indices": [
+													0,
+													22
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1930668,
+								"friends_count": 205,
+								"listed_count": 16603,
+								"created_at": "Wed Jan 10 12:32:45 +0000 2007",
+								"favourites_count": 6,
+								"utc_offset": 0,
+								"time_zone": "London",
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 102122,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "FFFFFF",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/155888920/bbc_twitter_template1280.jpg",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/155888920/bbc_twitter_template1280.jpg",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/877142283614920704/3edZswyN_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/877142283614920704/3edZswyN_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/621523/1500566426",
+								"profile_link_color": "1F527B",
+								"profile_sidebar_border_color": "CCCCCC",
+								"profile_sidebar_fill_color": "FFFFFF",
+								"profile_text_color": "5A5A5A",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 799299339831177200,
+				"id_str": "799299339831177216",
+				"name": "😼",
+				"screen_name": "kremlinkat",
+				"location": "💤",
+				"description": "Seeking truth in a sea of lies. Politics: Small Is Beautiful. Abhor all violence and racism. Love literature and Beethoven. Scampish. 😸 Have you read Bulgakov?",
+				"url": "https://t.co/RN4HIO6dj4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RN4HIO6dj4",
+								"expanded_url": "http://m.masterandmargarita.eu/en/",
+								"display_url": "m.masterandmargarita.eu/en/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 208,
+				"friends_count": 8,
+				"listed_count": 1,
+				"created_at": "Thu Nov 17 17:13:07 +0000 2016",
+				"favourites_count": 14901,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 301,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/829399172872884226/iLlJqTGf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/829399172872884226/iLlJqTGf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/799299339831177216/1481738274",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 24 12:06:30 +0000 2018",
 		"id": 977517005321351200,
 		"id_str": "977517005321351168",
