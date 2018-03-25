@@ -1,6 +1,3799 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sun Mar 25 10:37:34 +0000 2018",
+		"id": 977857013307723800,
+		"id_str": "977857013307723776",
+		"text": "RT @eiretvie: @debbiediscovers Is the whole Facebook story really something that surprises us??\n\nBig company GIVES us this great platform f…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eiretvie",
+					"name": "Aidan Wynne",
+					"id": 339575014,
+					"id_str": "339575014",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						14,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40736,
+			"friends_count": 26426,
+			"listed_count": 1095,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11567,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11929,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 25 10:37:10 +0000 2018",
+			"id": 977856914578116600,
+			"id_str": "977856914578116608",
+			"text": "@debbiediscovers Is the whole Facebook story really something that surprises us??\n\nBig company GIVES us this great… https://t.co/B8cFeSlFQw",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/B8cFeSlFQw",
+						"expanded_url": "https://twitter.com/i/web/status/977856914578116608",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 977855756388261900,
+			"in_reply_to_status_id_str": "977855756388261888",
+			"in_reply_to_user_id": 3060836348,
+			"in_reply_to_user_id_str": "3060836348",
+			"in_reply_to_screen_name": "debbiediscovers",
+			"user": {
+				"id": 339575014,
+				"id_str": "339575014",
+				"name": "Aidan Wynne",
+				"screen_name": "eiretvie",
+				"location": "Offaly, Ireland",
+				"description": "Cameras, Camcorders, Computers & TOTTENHAM HOTSPUR\nCo. Offaly",
+				"url": "http://t.co/W0M78cyqJm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/W0M78cyqJm",
+								"expanded_url": "http://www.eire.tv",
+								"display_url": "eire.tv",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 323,
+				"friends_count": 161,
+				"listed_count": 13,
+				"created_at": "Thu Jul 21 09:45:24 +0000 2011",
+				"favourites_count": 11414,
+				"utc_offset": 0,
+				"time_zone": "UTC",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5655,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000164085620/uAY0NXuj.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000164085620/uAY0NXuj.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/972608343708708866/5-4Jv1Ii_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/972608343708708866/5-4Jv1Ii_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/339575014/1498485036",
+				"profile_link_color": "000033",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 25 10:32:34 +0000 2018",
+		"id": 977855756388261900,
+		"id_str": "977855756388261888",
+		"text": "Doorway to...? Who’s afraid of #AI and #Bigdata? More importantly have you joined the #deletefacebook movement?… https://t.co/CWKJloB7EK",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "Bigdata",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"text": "deletefacebook",
+					"indices": [
+						86,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CWKJloB7EK",
+					"expanded_url": "https://twitter.com/i/web/status/977855756388261888",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40736,
+			"friends_count": 26426,
+			"listed_count": 1095,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11567,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11929,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 25 10:20:31 +0000 2018",
+		"id": 977852722962579500,
+		"id_str": "977852722962579457",
+		"text": "RT @choo_ek: My God. Has this one gone viral yet? #MarchForOurLives https://t.co/hI9e0SpHTD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MarchForOurLives",
+					"indices": [
+						50,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "choo_ek",
+					"name": "Esther Choo",
+					"id": 467924781,
+					"id_str": "467924781",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 977785639566364700,
+					"id_str": "977785639566364672",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/DZHK29DU0AAB0gK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZHK29DU0AAB0gK.jpg",
+					"url": "https://t.co/hI9e0SpHTD",
+					"display_url": "pic.twitter.com/hI9e0SpHTD",
+					"expanded_url": "https://twitter.com/choo_ek/status/977785682276990976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 968,
+							"h": 1520,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 764,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977785682276991000,
+					"source_status_id_str": "977785682276990976",
+					"source_user_id": 467924781,
+					"source_user_id_str": "467924781"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 977785639566364700,
+					"id_str": "977785639566364672",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/DZHK29DU0AAB0gK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZHK29DU0AAB0gK.jpg",
+					"url": "https://t.co/hI9e0SpHTD",
+					"display_url": "pic.twitter.com/hI9e0SpHTD",
+					"expanded_url": "https://twitter.com/choo_ek/status/977785682276990976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 968,
+							"h": 1520,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 764,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977785682276991000,
+					"source_status_id_str": "977785682276990976",
+					"source_user_id": 467924781,
+					"source_user_id_str": "467924781"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40736,
+			"friends_count": 26426,
+			"listed_count": 1095,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11567,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11929,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 25 05:54:07 +0000 2018",
+			"id": 977785682276991000,
+			"id_str": "977785682276990976",
+			"text": "My God. Has this one gone viral yet? #MarchForOurLives https://t.co/hI9e0SpHTD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MarchForOurLives",
+						"indices": [
+							37,
+							54
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 977785639566364700,
+						"id_str": "977785639566364672",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/DZHK29DU0AAB0gK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZHK29DU0AAB0gK.jpg",
+						"url": "https://t.co/hI9e0SpHTD",
+						"display_url": "pic.twitter.com/hI9e0SpHTD",
+						"expanded_url": "https://twitter.com/choo_ek/status/977785682276990976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 968,
+								"h": 1520,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 764,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 433,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 977785639566364700,
+						"id_str": "977785639566364672",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/DZHK29DU0AAB0gK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZHK29DU0AAB0gK.jpg",
+						"url": "https://t.co/hI9e0SpHTD",
+						"display_url": "pic.twitter.com/hI9e0SpHTD",
+						"expanded_url": "https://twitter.com/choo_ek/status/977785682276990976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 968,
+								"h": 1520,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 764,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 433,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 467924781,
+				"id_str": "467924781",
+				"name": "Esther Choo",
+				"screen_name": "choo_ek",
+				"location": "",
+				"description": "em doc • @OHSU_CPREM @publichealthpdx @Equity_Quotient • #DoctorsSpeakOut #thatsbias • @feminemtweets • contributor @NBCNewsThink @SELFmagazine",
+				"url": "https://t.co/V2jkcrrnWI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/V2jkcrrnWI",
+								"expanded_url": "http://www.ohsu.edu/emergency/faculty/?profile=chooe&section=research",
+								"display_url": "ohsu.edu/emergency/facu…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25170,
+				"friends_count": 1606,
+				"listed_count": 409,
+				"created_at": "Thu Jan 19 00:20:21 +0000 2012",
+				"favourites_count": 56158,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 24065,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950439361228582912/KgMCRf1a_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950439361228582912/KgMCRf1a_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/467924781/1515555719",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 155,
+			"favorite_count": 439,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 155,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 25 10:20:24 +0000 2018",
+		"id": 977852693937967100,
+		"id_str": "977852693937967105",
+		"text": "RT @ViperMinion: Arms are for Hugging 💙 #MarchForOurLives https://t.co/PI4KNPLx9F",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MarchForOurLives",
+					"indices": [
+						40,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ViperMinion",
+					"name": "Pupa 🎭",
+					"id": 164458590,
+					"id_str": "164458590",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 977840479407607800,
+					"id_str": "977840479407607809",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/DZH8vDYWkAEHO9s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZH8vDYWkAEHO9s.jpg",
+					"url": "https://t.co/PI4KNPLx9F",
+					"display_url": "pic.twitter.com/PI4KNPLx9F",
+					"expanded_url": "https://twitter.com/ViperMinion/status/977840495819882496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 735,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 735,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 444,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977840495819882500,
+					"source_status_id_str": "977840495819882496",
+					"source_user_id": 164458590,
+					"source_user_id_str": "164458590"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 977840479407607800,
+					"id_str": "977840479407607809",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/DZH8vDYWkAEHO9s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZH8vDYWkAEHO9s.jpg",
+					"url": "https://t.co/PI4KNPLx9F",
+					"display_url": "pic.twitter.com/PI4KNPLx9F",
+					"expanded_url": "https://twitter.com/ViperMinion/status/977840495819882496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 735,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 735,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 444,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977840495819882500,
+					"source_status_id_str": "977840495819882496",
+					"source_user_id": 164458590,
+					"source_user_id_str": "164458590"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40736,
+			"friends_count": 26426,
+			"listed_count": 1095,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11567,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11929,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 25 09:31:56 +0000 2018",
+			"id": 977840495819882500,
+			"id_str": "977840495819882496",
+			"text": "Arms are for Hugging 💙 #MarchForOurLives https://t.co/PI4KNPLx9F",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MarchForOurLives",
+						"indices": [
+							23,
+							40
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 977840479407607800,
+						"id_str": "977840479407607809",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/DZH8vDYWkAEHO9s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZH8vDYWkAEHO9s.jpg",
+						"url": "https://t.co/PI4KNPLx9F",
+						"display_url": "pic.twitter.com/PI4KNPLx9F",
+						"expanded_url": "https://twitter.com/ViperMinion/status/977840495819882496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 735,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 735,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 444,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 977840479407607800,
+						"id_str": "977840479407607809",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/DZH8vDYWkAEHO9s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZH8vDYWkAEHO9s.jpg",
+						"url": "https://t.co/PI4KNPLx9F",
+						"display_url": "pic.twitter.com/PI4KNPLx9F",
+						"expanded_url": "https://twitter.com/ViperMinion/status/977840495819882496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 735,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 735,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 444,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 164458590,
+				"id_str": "164458590",
+				"name": "Pupa 🎭",
+				"screen_name": "ViperMinion",
+				"location": "The Dark Side Of MinionsLand",
+				"description": "Viaggiatrice Nomade - Camminatrice Scalza - Personal Reader - West African Drummer - Minion and Professional Thief",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 168,
+				"friends_count": 708,
+				"listed_count": 1,
+				"created_at": "Thu Jul 08 23:03:09 +0000 2010",
+				"favourites_count": 6127,
+				"utc_offset": 7200,
+				"time_zone": "Rome",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6604,
+				"lang": "it",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/121520165/snake1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/121520165/snake1.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/831411525311148032/33HPdlJs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/831411525311148032/33HPdlJs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/164458590/1487059321",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "DB0DDB",
+				"profile_sidebar_fill_color": "0A010A",
+				"profile_text_color": "0B22B8",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 55,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 25 10:20:19 +0000 2018",
+		"id": 977852671964020700,
+		"id_str": "977852671964020736",
+		"text": "RT @ArianaTodayNet: ICYMI: Ariana performs Be Alright at #MarchForOurLives - https://t.co/vpgJHL4Jcq https://t.co/H3Wkh9gvJf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MarchForOurLives",
+					"indices": [
+						57,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ArianaTodayNet",
+					"name": "Ariana Grande Today",
+					"id": 1703320855,
+					"id_str": "1703320855",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vpgJHL4Jcq",
+					"expanded_url": "http://arianatoday.net/archives/8767",
+					"display_url": "arianatoday.net/archives/8767",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 977792686429061100,
+					"id_str": "977792686429061120",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DZHRRIqUQAAVGO1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZHRRIqUQAAVGO1.jpg",
+					"url": "https://t.co/H3Wkh9gvJf",
+					"display_url": "pic.twitter.com/H3Wkh9gvJf",
+					"expanded_url": "https://twitter.com/ArianaTodayNet/status/977792758680137728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977792758680137700,
+					"source_status_id_str": "977792758680137728",
+					"source_user_id": 1703320855,
+					"source_user_id_str": "1703320855"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 977792686429061100,
+					"id_str": "977792686429061120",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DZHRRIqUQAAVGO1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZHRRIqUQAAVGO1.jpg",
+					"url": "https://t.co/H3Wkh9gvJf",
+					"display_url": "pic.twitter.com/H3Wkh9gvJf",
+					"expanded_url": "https://twitter.com/ArianaTodayNet/status/977792758680137728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977792758680137700,
+					"source_status_id_str": "977792758680137728",
+					"source_user_id": 1703320855,
+					"source_user_id_str": "1703320855"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40736,
+			"friends_count": 26426,
+			"listed_count": 1095,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11567,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11929,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 25 06:22:14 +0000 2018",
+			"id": 977792758680137700,
+			"id_str": "977792758680137728",
+			"text": "ICYMI: Ariana performs Be Alright at #MarchForOurLives - https://t.co/vpgJHL4Jcq https://t.co/H3Wkh9gvJf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MarchForOurLives",
+						"indices": [
+							37,
+							54
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vpgJHL4Jcq",
+						"expanded_url": "http://arianatoday.net/archives/8767",
+						"display_url": "arianatoday.net/archives/8767",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 977792686429061100,
+						"id_str": "977792686429061120",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/DZHRRIqUQAAVGO1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZHRRIqUQAAVGO1.jpg",
+						"url": "https://t.co/H3Wkh9gvJf",
+						"display_url": "pic.twitter.com/H3Wkh9gvJf",
+						"expanded_url": "https://twitter.com/ArianaTodayNet/status/977792758680137728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 977792686429061100,
+						"id_str": "977792686429061120",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/DZHRRIqUQAAVGO1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZHRRIqUQAAVGO1.jpg",
+						"url": "https://t.co/H3Wkh9gvJf",
+						"display_url": "pic.twitter.com/H3Wkh9gvJf",
+						"expanded_url": "https://twitter.com/ArianaTodayNet/status/977792758680137728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1703320855,
+				"id_str": "1703320855",
+				"name": "Ariana Grande Today",
+				"screen_name": "ArianaTodayNet",
+				"location": "arianatodaynet@gmail.com",
+				"description": "Your ultimate source for the latest @ArianaGrande news. | Back-up: @ArianaTodayNet2",
+				"url": "https://t.co/NVBzTJebzW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NVBzTJebzW",
+								"expanded_url": "http://arianatoday.net",
+								"display_url": "arianatoday.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 191664,
+				"friends_count": 196,
+				"listed_count": 955,
+				"created_at": "Tue Aug 27 00:22:51 +0000 2013",
+				"favourites_count": 29185,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26319,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "515151",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485543828145704960/f7CYHOfN.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485543828145704960/f7CYHOfN.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/918210503666696192/8Kk0g8-7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/918210503666696192/8Kk0g8-7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1703320855/1507753406",
+				"profile_link_color": "DAA4AE",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 66,
+			"favorite_count": 275,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 25 10:20:10 +0000 2018",
+		"id": 977852633703579600,
+		"id_str": "977852633703579649",
+		"text": "RT @BBCWorld: What is your message to the world? Here's what #MarchForOurLives protestors had to say https://t.co/CAYAz3W469",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MarchForOurLives",
+					"indices": [
+						61,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBCWorld",
+					"name": "BBC News (World)",
+					"id": 742143,
+					"id_str": "742143",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 977818891194916900,
+					"id_str": "977818891194916864",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/977818891194916864/img/5Z3Vaoi09hh4NYrQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/977818891194916864/img/5Z3Vaoi09hh4NYrQ.jpg",
+					"url": "https://t.co/CAYAz3W469",
+					"display_url": "pic.twitter.com/CAYAz3W469",
+					"expanded_url": "https://twitter.com/BBCWorld/status/977820830217404417/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977820830217404400,
+					"source_status_id_str": "977820830217404417",
+					"source_user_id": 742143,
+					"source_user_id_str": "742143"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 977818891194916900,
+					"id_str": "977818891194916864",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/977818891194916864/img/5Z3Vaoi09hh4NYrQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/977818891194916864/img/5Z3Vaoi09hh4NYrQ.jpg",
+					"url": "https://t.co/CAYAz3W469",
+					"display_url": "pic.twitter.com/CAYAz3W469",
+					"expanded_url": "https://twitter.com/BBCWorld/status/977820830217404417/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977820830217404400,
+					"source_status_id_str": "977820830217404417",
+					"source_user_id": 742143,
+					"source_user_id_str": "742143",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 136670,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/977818891194916864/vid/720x720/vMK2WR07vF92Hd3r.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/977818891194916864/vid/240x240/enrKKjxgVL3oUofE.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/977818891194916864/pl/yY99H4eNFcrX5Kra.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/977818891194916864/vid/480x480/eRm2ZP5EO46SSs42.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 742143,
+							"id_str": "742143",
+							"name": "BBC News (World)",
+							"screen_name": "BBCWorld",
+							"location": "London, UK",
+							"description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
+							"url": "https://t.co/7NEgoMwJy3",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/7NEgoMwJy3",
+											"expanded_url": "http://www.bbc.com/news",
+											"display_url": "bbc.com/news",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 22966318,
+							"friends_count": 85,
+							"listed_count": 108211,
+							"created_at": "Thu Feb 01 07:44:29 +0000 2007",
+							"favourites_count": 9,
+							"utc_offset": 3600,
+							"time_zone": "London",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 275635,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459295591915204608/P0byaGJj.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459295591915204608/P0byaGJj.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/875702138680246273/BfQLzf7G_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/875702138680246273/BfQLzf7G_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/742143/1485172490",
+							"profile_link_color": "1F527B",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "FFFFFF",
+							"profile_text_color": "5A5A5A",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40736,
+			"friends_count": 26426,
+			"listed_count": 1095,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11567,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11929,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 25 08:13:47 +0000 2018",
+			"id": 977820830217404400,
+			"id_str": "977820830217404417",
+			"text": "What is your message to the world? Here's what #MarchForOurLives protestors had to say https://t.co/CAYAz3W469",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MarchForOurLives",
+						"indices": [
+							47,
+							64
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 977818891194916900,
+						"id_str": "977818891194916864",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/977818891194916864/img/5Z3Vaoi09hh4NYrQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/977818891194916864/img/5Z3Vaoi09hh4NYrQ.jpg",
+						"url": "https://t.co/CAYAz3W469",
+						"display_url": "pic.twitter.com/CAYAz3W469",
+						"expanded_url": "https://twitter.com/BBCWorld/status/977820830217404417/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 977818891194916900,
+						"id_str": "977818891194916864",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/977818891194916864/img/5Z3Vaoi09hh4NYrQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/977818891194916864/img/5Z3Vaoi09hh4NYrQ.jpg",
+						"url": "https://t.co/CAYAz3W469",
+						"display_url": "pic.twitter.com/CAYAz3W469",
+						"expanded_url": "https://twitter.com/BBCWorld/status/977820830217404417/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 136670,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/977818891194916864/vid/720x720/vMK2WR07vF92Hd3r.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/977818891194916864/vid/240x240/enrKKjxgVL3oUofE.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/977818891194916864/pl/yY99H4eNFcrX5Kra.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/977818891194916864/vid/480x480/eRm2ZP5EO46SSs42.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 742143,
+				"id_str": "742143",
+				"name": "BBC News (World)",
+				"screen_name": "BBCWorld",
+				"location": "London, UK",
+				"description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
+				"url": "https://t.co/7NEgoMwJy3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7NEgoMwJy3",
+								"expanded_url": "http://www.bbc.com/news",
+								"display_url": "bbc.com/news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22966318,
+				"friends_count": 85,
+				"listed_count": 108211,
+				"created_at": "Thu Feb 01 07:44:29 +0000 2007",
+				"favourites_count": 9,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 275635,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459295591915204608/P0byaGJj.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459295591915204608/P0byaGJj.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875702138680246273/BfQLzf7G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875702138680246273/BfQLzf7G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/742143/1485172490",
+				"profile_link_color": "1F527B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "5A5A5A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 411,
+			"favorite_count": 835,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 411,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 25 10:19:18 +0000 2018",
+		"id": 977852417646608400,
+		"id_str": "977852417646608384",
+		"text": "RT @owillis: How I feel about conservatives lecturing #MarchForOurLives on tone and rhetoric and cursing https://t.co/YdxYULfAnu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MarchForOurLives",
+					"indices": [
+						54,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "owillis",
+					"name": "Oliver Willis",
+					"id": 3497941,
+					"id_str": "3497941",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 977781100864004100,
+					"id_str": "977781100864004096",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DZHGuxEW4AABGSF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZHGuxEW4AABGSF.jpg",
+					"url": "https://t.co/YdxYULfAnu",
+					"display_url": "pic.twitter.com/YdxYULfAnu",
+					"expanded_url": "https://twitter.com/owillis/status/977781105918128130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977781105918128100,
+					"source_status_id_str": "977781105918128130",
+					"source_user_id": 3497941,
+					"source_user_id_str": "3497941"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 977781100864004100,
+					"id_str": "977781100864004096",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DZHGuxEW4AABGSF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZHGuxEW4AABGSF.jpg",
+					"url": "https://t.co/YdxYULfAnu",
+					"display_url": "pic.twitter.com/YdxYULfAnu",
+					"expanded_url": "https://twitter.com/owillis/status/977781105918128130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977781105918128100,
+					"source_status_id_str": "977781105918128130",
+					"source_user_id": 3497941,
+					"source_user_id_str": "3497941"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40736,
+			"friends_count": 26426,
+			"listed_count": 1095,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11567,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11929,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 25 05:35:56 +0000 2018",
+			"id": 977781105918128100,
+			"id_str": "977781105918128130",
+			"text": "How I feel about conservatives lecturing #MarchForOurLives on tone and rhetoric and cursing https://t.co/YdxYULfAnu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MarchForOurLives",
+						"indices": [
+							41,
+							58
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 977781100864004100,
+						"id_str": "977781100864004096",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/DZHGuxEW4AABGSF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZHGuxEW4AABGSF.jpg",
+						"url": "https://t.co/YdxYULfAnu",
+						"display_url": "pic.twitter.com/YdxYULfAnu",
+						"expanded_url": "https://twitter.com/owillis/status/977781105918128130/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 977781100864004100,
+						"id_str": "977781100864004096",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/DZHGuxEW4AABGSF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZHGuxEW4AABGSF.jpg",
+						"url": "https://t.co/YdxYULfAnu",
+						"display_url": "pic.twitter.com/YdxYULfAnu",
+						"expanded_url": "https://twitter.com/owillis/status/977781105918128130/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 977780693714587600,
+			"in_reply_to_status_id_str": "977780693714587648",
+			"in_reply_to_user_id": 3497941,
+			"in_reply_to_user_id_str": "3497941",
+			"in_reply_to_screen_name": "owillis",
+			"user": {
+				"id": 3497941,
+				"id_str": "3497941",
+				"name": "Oliver Willis",
+				"screen_name": "owillis",
+				"location": "Takoma Park, MD",
+				"description": "Senior Writer @Shareblue. Prev @mmfa. My book, please buy it https://t.co/7DZ7jNPTjZ I dispense pep talks + tongue lashings. https://t.co/q7JMFdCl9l",
+				"url": "https://t.co/q7JMFdTW0T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/q7JMFdTW0T",
+								"expanded_url": "http://oliverwillis.com",
+								"display_url": "oliverwillis.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7DZ7jNPTjZ",
+								"expanded_url": "http://amzn.to/2E91y4z",
+								"display_url": "amzn.to/2E91y4z",
+								"indices": [
+									61,
+									84
+								]
+							},
+							{
+								"url": "https://t.co/q7JMFdCl9l",
+								"expanded_url": "http://oliverwillis.com",
+								"display_url": "oliverwillis.com",
+								"indices": [
+									125,
+									148
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 106249,
+				"friends_count": 5181,
+				"listed_count": 3223,
+				"created_at": "Thu Apr 05 07:03:07 +0000 2007",
+				"favourites_count": 24634,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 424010,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "050505",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3068682/superman209.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3068682/superman209.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/977133993626873858/GkeE74Ae_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/977133993626873858/GkeE74Ae_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3497941/1415887849",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 257,
+			"favorite_count": 867,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 257,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 25 10:18:55 +0000 2018",
+		"id": 977852321039204400,
+		"id_str": "977852321039204352",
+		"text": "RT @BBCWorld: Watch the moment the grandaughter of Martin Luther King addressed the #MarchForOurLives gun control rally with her own \"I hav…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MarchForOurLives",
+					"indices": [
+						84,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBCWorld",
+					"name": "BBC News (World)",
+					"id": 742143,
+					"id_str": "742143",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40736,
+			"friends_count": 26426,
+			"listed_count": 1095,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11567,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11929,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 25 09:38:40 +0000 2018",
+			"id": 977842192499839000,
+			"id_str": "977842192499838977",
+			"text": "Watch the moment the grandaughter of Martin Luther King addressed the #MarchForOurLives gun control rally with her… https://t.co/3ATwRpICpl",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MarchForOurLives",
+						"indices": [
+							70,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3ATwRpICpl",
+						"expanded_url": "https://twitter.com/i/web/status/977842192499838977",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 742143,
+				"id_str": "742143",
+				"name": "BBC News (World)",
+				"screen_name": "BBCWorld",
+				"location": "London, UK",
+				"description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
+				"url": "https://t.co/7NEgoMwJy3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7NEgoMwJy3",
+								"expanded_url": "http://www.bbc.com/news",
+								"display_url": "bbc.com/news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22966318,
+				"friends_count": 85,
+				"listed_count": 108211,
+				"created_at": "Thu Feb 01 07:44:29 +0000 2007",
+				"favourites_count": 9,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 275635,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459295591915204608/P0byaGJj.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459295591915204608/P0byaGJj.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875702138680246273/BfQLzf7G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875702138680246273/BfQLzf7G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/742143/1485172490",
+				"profile_link_color": "1F527B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "5A5A5A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 589,
+			"favorite_count": 1274,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 589,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 25 10:18:11 +0000 2018",
+		"id": 977852135416057900,
+		"id_str": "977852135416057856",
+		"text": "RT @ericataho: today I participated in the #MarchForOurLives : a thread https://t.co/Dww1uvdU4d",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MarchForOurLives",
+					"indices": [
+						43,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ericataho",
+					"name": "eric(a)",
+					"id": 861127480744202200,
+					"id_str": "861127480744202240",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 977794518266273800,
+					"id_str": "977794518266273792",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DZHS7wyV4AASx2a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZHS7wyV4AASx2a.jpg",
+					"url": "https://t.co/Dww1uvdU4d",
+					"display_url": "pic.twitter.com/Dww1uvdU4d",
+					"expanded_url": "https://twitter.com/ericataho/status/977794529188233216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977794529188233200,
+					"source_status_id_str": "977794529188233216",
+					"source_user_id": 861127480744202200,
+					"source_user_id_str": "861127480744202240"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 977794518266273800,
+					"id_str": "977794518266273792",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DZHS7wyV4AASx2a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZHS7wyV4AASx2a.jpg",
+					"url": "https://t.co/Dww1uvdU4d",
+					"display_url": "pic.twitter.com/Dww1uvdU4d",
+					"expanded_url": "https://twitter.com/ericataho/status/977794529188233216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977794529188233200,
+					"source_status_id_str": "977794529188233216",
+					"source_user_id": 861127480744202200,
+					"source_user_id_str": "861127480744202240"
+				},
+				{
+					"id": 977794518266257400,
+					"id_str": "977794518266257408",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DZHS7wyVoAAGvt4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZHS7wyVoAAGvt4.jpg",
+					"url": "https://t.co/Dww1uvdU4d",
+					"display_url": "pic.twitter.com/Dww1uvdU4d",
+					"expanded_url": "https://twitter.com/ericataho/status/977794529188233216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977794529188233200,
+					"source_status_id_str": "977794529188233216",
+					"source_user_id": 861127480744202200,
+					"source_user_id_str": "861127480744202240"
+				},
+				{
+					"id": 977794518266257400,
+					"id_str": "977794518266257409",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DZHS7wyVoAETCrn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZHS7wyVoAETCrn.jpg",
+					"url": "https://t.co/Dww1uvdU4d",
+					"display_url": "pic.twitter.com/Dww1uvdU4d",
+					"expanded_url": "https://twitter.com/ericataho/status/977794529188233216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977794529188233200,
+					"source_status_id_str": "977794529188233216",
+					"source_user_id": 861127480744202200,
+					"source_user_id_str": "861127480744202240"
+				},
+				{
+					"id": 977794518270406700,
+					"id_str": "977794518270406656",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DZHS7wzU8AAQblE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZHS7wzU8AAQblE.jpg",
+					"url": "https://t.co/Dww1uvdU4d",
+					"display_url": "pic.twitter.com/Dww1uvdU4d",
+					"expanded_url": "https://twitter.com/ericataho/status/977794529188233216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977794529188233200,
+					"source_status_id_str": "977794529188233216",
+					"source_user_id": 861127480744202200,
+					"source_user_id_str": "861127480744202240"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40736,
+			"friends_count": 26426,
+			"listed_count": 1095,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11567,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11929,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 25 06:29:16 +0000 2018",
+			"id": 977794529188233200,
+			"id_str": "977794529188233216",
+			"text": "today I participated in the #MarchForOurLives : a thread https://t.co/Dww1uvdU4d",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MarchForOurLives",
+						"indices": [
+							28,
+							45
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 977794518266273800,
+						"id_str": "977794518266273792",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DZHS7wyV4AASx2a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZHS7wyV4AASx2a.jpg",
+						"url": "https://t.co/Dww1uvdU4d",
+						"display_url": "pic.twitter.com/Dww1uvdU4d",
+						"expanded_url": "https://twitter.com/ericataho/status/977794529188233216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 977794518266273800,
+						"id_str": "977794518266273792",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DZHS7wyV4AASx2a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZHS7wyV4AASx2a.jpg",
+						"url": "https://t.co/Dww1uvdU4d",
+						"display_url": "pic.twitter.com/Dww1uvdU4d",
+						"expanded_url": "https://twitter.com/ericataho/status/977794529188233216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 977794518266257400,
+						"id_str": "977794518266257408",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DZHS7wyVoAAGvt4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZHS7wyVoAAGvt4.jpg",
+						"url": "https://t.co/Dww1uvdU4d",
+						"display_url": "pic.twitter.com/Dww1uvdU4d",
+						"expanded_url": "https://twitter.com/ericataho/status/977794529188233216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 977794518266257400,
+						"id_str": "977794518266257409",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DZHS7wyVoAETCrn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZHS7wyVoAETCrn.jpg",
+						"url": "https://t.co/Dww1uvdU4d",
+						"display_url": "pic.twitter.com/Dww1uvdU4d",
+						"expanded_url": "https://twitter.com/ericataho/status/977794529188233216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 977794518270406700,
+						"id_str": "977794518270406656",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DZHS7wzU8AAQblE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZHS7wzU8AAQblE.jpg",
+						"url": "https://t.co/Dww1uvdU4d",
+						"display_url": "pic.twitter.com/Dww1uvdU4d",
+						"expanded_url": "https://twitter.com/ericataho/status/977794529188233216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 861127480744202200,
+				"id_str": "861127480744202240",
+				"name": "eric(a)",
+				"screen_name": "ericataho",
+				"location": "California, USA",
+				"description": "respect existence or expect resistance",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 104,
+				"friends_count": 136,
+				"listed_count": 1,
+				"created_at": "Sun May 07 07:56:05 +0000 2017",
+				"favourites_count": 12746,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7835,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/973841475745341440/bCbnL143_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/973841475745341440/bCbnL143_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/861127480744202240/1521868182",
+				"profile_link_color": "A9CCE3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 55,
+			"favorite_count": 138,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 25 10:18:07 +0000 2018",
+		"id": 977852118978592800,
+		"id_str": "977852118978592774",
+		"text": "RT @ABC: Wearing a black T-shirt that read \"We can end gun violence,\" Paul McCartney joined the #MarchforOurLives in New York City Saturday…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MarchforOurLives",
+					"indices": [
+						96,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ABC",
+					"name": "ABC News",
+					"id": 28785486,
+					"id_str": "28785486",
+					"indices": [
+						3,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40736,
+			"friends_count": 26426,
+			"listed_count": 1095,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11567,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11929,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 25 07:00:21 +0000 2018",
+			"id": 977802348839030800,
+			"id_str": "977802348839030786",
+			"text": "Wearing a black T-shirt that read \"We can end gun violence,\" Paul McCartney joined the #MarchforOurLives in New Yor… https://t.co/wc1KCrXw6G",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MarchforOurLives",
+						"indices": [
+							87,
+							104
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wc1KCrXw6G",
+						"expanded_url": "https://twitter.com/i/web/status/977802348839030786",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28785486,
+				"id_str": "28785486",
+				"name": "ABC News",
+				"screen_name": "ABC",
+				"location": "New York City / Worldwide",
+				"description": "All the news and information you need to see, curated by the @ABC News team. Instagram: https://t.co/pPlGmNHztz",
+				"url": "https://t.co/v7GWW7ho1l",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/v7GWW7ho1l",
+								"expanded_url": "http://ABCNews.com",
+								"display_url": "ABCNews.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/pPlGmNHztz",
+								"expanded_url": "https://www.instagram.com/abcnews",
+								"display_url": "instagram.com/abcnews",
+								"indices": [
+									88,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 13764034,
+				"friends_count": 672,
+				"listed_count": 52356,
+				"created_at": "Sat Apr 04 12:40:32 +0000 2009",
+				"favourites_count": 469,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 201238,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "6E8EB5",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/441965491024719872/pAv-lzCZ.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/441965491024719872/pAv-lzCZ.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877547979363758080/ny06RNTT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877547979363758080/ny06RNTT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+				"profile_link_color": "336699",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 115,
+			"favorite_count": 546,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 25 10:17:36 +0000 2018",
+		"id": 977851987478724600,
+		"id_str": "977851987478724609",
+		"text": "RT @feministabulous: This sign deserves a pulitzer  #marchforourlives (📸 @claremarienyc) https://t.co/9qHcEjbhq6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "marchforourlives",
+					"indices": [
+						52,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "feministabulous",
+					"name": "Liz Plank",
+					"id": 267915933,
+					"id_str": "267915933",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "ClareMarieNYC",
+					"name": "Clare Cusack",
+					"id": 449093208,
+					"id_str": "449093208",
+					"indices": [
+						73,
+						87
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 977591419874537500,
+					"id_str": "977591419874537472",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/DZEaN4UXcAACqvh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZEaN4UXcAACqvh.jpg",
+					"url": "https://t.co/9qHcEjbhq6",
+					"display_url": "pic.twitter.com/9qHcEjbhq6",
+					"expanded_url": "https://twitter.com/feministabulous/status/977591435397664768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 673,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 742,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 742,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977591435397664800,
+					"source_status_id_str": "977591435397664768",
+					"source_user_id": 267915933,
+					"source_user_id_str": "267915933"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 977591419874537500,
+					"id_str": "977591419874537472",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/DZEaN4UXcAACqvh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZEaN4UXcAACqvh.jpg",
+					"url": "https://t.co/9qHcEjbhq6",
+					"display_url": "pic.twitter.com/9qHcEjbhq6",
+					"expanded_url": "https://twitter.com/feministabulous/status/977591435397664768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 673,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 742,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 742,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977591435397664800,
+					"source_status_id_str": "977591435397664768",
+					"source_user_id": 267915933,
+					"source_user_id_str": "267915933"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40736,
+			"friends_count": 26426,
+			"listed_count": 1095,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11567,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11929,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 24 17:02:15 +0000 2018",
+			"id": 977591435397664800,
+			"id_str": "977591435397664768",
+			"text": "This sign deserves a pulitzer  #marchforourlives (📸 @claremarienyc) https://t.co/9qHcEjbhq6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "marchforourlives",
+						"indices": [
+							31,
+							48
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ClareMarieNYC",
+						"name": "Clare Cusack",
+						"id": 449093208,
+						"id_str": "449093208",
+						"indices": [
+							52,
+							66
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 977591419874537500,
+						"id_str": "977591419874537472",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DZEaN4UXcAACqvh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZEaN4UXcAACqvh.jpg",
+						"url": "https://t.co/9qHcEjbhq6",
+						"display_url": "pic.twitter.com/9qHcEjbhq6",
+						"expanded_url": "https://twitter.com/feministabulous/status/977591435397664768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 673,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 742,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 742,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 977591419874537500,
+						"id_str": "977591419874537472",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DZEaN4UXcAACqvh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZEaN4UXcAACqvh.jpg",
+						"url": "https://t.co/9qHcEjbhq6",
+						"display_url": "pic.twitter.com/9qHcEjbhq6",
+						"expanded_url": "https://twitter.com/feministabulous/status/977591435397664768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 673,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 742,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 742,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 267915933,
+				"id_str": "267915933",
+				"name": "Liz Plank",
+				"screen_name": "feministabulous",
+				"location": "New York City",
+				"description": "vox media @dsowomen | ask me about our all-female production team |",
+				"url": "https://t.co/LpQzahRDE9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LpQzahRDE9",
+								"expanded_url": "https://www.gofundme.com/helpthegirls",
+								"display_url": "gofundme.com/helpthegirls",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 109919,
+				"friends_count": 3074,
+				"listed_count": 2348,
+				"created_at": "Thu Mar 17 20:07:38 +0000 2011",
+				"favourites_count": 64556,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1527,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8D1DDE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/772338533/800c51e2c45e1b1723b423eb8ff9b71c.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/772338533/800c51e2c45e1b1723b423eb8ff9b71c.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/976516561463754752/YHt6Rq_J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/976516561463754752/YHt6Rq_J_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/267915933/1495480607",
+				"profile_link_color": "8400FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33312,
+			"favorite_count": 86085,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 33312,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Mar 25 08:44:14 +0000 2018",
 		"id": 977828494758457300,
 		"id_str": "977828494758457344",
