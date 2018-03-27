@@ -1,6 +1,657 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Tue Mar 27 20:14:33 +0000 2018",
+		"id": 978726993012248600,
+		"id_str": "978726993012248576",
+		"text": "@avinash @baekdal https://t.co/FXstTotUGu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "avinash",
+					"name": "Avinash Kaushik",
+					"id": 15662446,
+					"id_str": "15662446",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "baekdal",
+					"name": "Thomas Baekdal",
+					"id": 14473569,
+					"id_str": "14473569",
+					"indices": [
+						9,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FXstTotUGu",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/729620568681517056?s=21",
+					"display_url": "twitter.com/debbiediscover…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 977317782936207400,
+		"in_reply_to_status_id_str": "977317782936207360",
+		"in_reply_to_user_id": 15662446,
+		"in_reply_to_user_id_str": "15662446",
+		"in_reply_to_screen_name": "avinash",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40969,
+			"friends_count": 28036,
+			"listed_count": 1100,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11600,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11977,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 729620568681517000,
+		"quoted_status_id_str": "729620568681517056",
+		"quoted_status": {
+			"created_at": "Mon May 09 10:34:33 +0000 2016",
+			"id": 729620568681517000,
+			"id_str": "729620568681517056",
+			"text": "I'd be ok with some ads but have you seen the no of advertising trackers Forbes has?? @JackMarshall @TimSchu https://t.co/mexfYs6W2a",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JackMarshall",
+						"name": "Jack Marshall",
+						"id": 12793062,
+						"id_str": "12793062",
+						"indices": [
+							86,
+							99
+						]
+					},
+					{
+						"screen_name": "TimSchu",
+						"name": "Tim Schumacher",
+						"id": 26211488,
+						"id_str": "26211488",
+						"indices": [
+							100,
+							108
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 729620539929583600,
+						"id_str": "729620539929583616",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CiAiA-9U4AA8G07.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CiAiA-9U4AA8G07.jpg",
+						"url": "https://t.co/mexfYs6W2a",
+						"display_url": "pic.twitter.com/mexfYs6W2a",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/729620568681517056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 476,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 476,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 337,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 729620539929583600,
+						"id_str": "729620539929583616",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CiAiA-9U4AA8G07.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CiAiA-9U4AA8G07.jpg",
+						"url": "https://t.co/mexfYs6W2a",
+						"display_url": "pic.twitter.com/mexfYs6W2a",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/729620568681517056/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 476,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 476,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 337,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								240,
+								119
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/CiAiA-9U4AA8G07.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 728242218952216600,
+			"in_reply_to_status_id_str": "728242218952216576",
+			"in_reply_to_user_id": 12793062,
+			"in_reply_to_user_id_str": "12793062",
+			"in_reply_to_screen_name": "JackMarshall",
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 40969,
+				"friends_count": 28036,
+				"listed_count": 1100,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 11600,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11977,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Tue Mar 27 20:13:41 +0000 2018",
+		"id": 978726773654405100,
+		"id_str": "978726773654405121",
+		"text": "RT @debbiediscovers: I'd be ok with some ads but have you seen the no of advertising trackers Forbes has?? @JackMarshall @TimSchu https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "JackMarshall",
+					"name": "Jack Marshall",
+					"id": 12793062,
+					"id_str": "12793062",
+					"indices": [
+						107,
+						120
+					]
+				},
+				{
+					"screen_name": "TimSchu",
+					"name": "Tim Schumacher",
+					"id": 26211488,
+					"id_str": "26211488",
+					"indices": [
+						121,
+						129
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40969,
+			"friends_count": 28036,
+			"listed_count": 1100,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11600,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11977,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 09 10:34:33 +0000 2016",
+			"id": 729620568681517000,
+			"id_str": "729620568681517056",
+			"text": "I'd be ok with some ads but have you seen the no of advertising trackers Forbes has?? @JackMarshall @TimSchu https://t.co/mexfYs6W2a",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JackMarshall",
+						"name": "Jack Marshall",
+						"id": 12793062,
+						"id_str": "12793062",
+						"indices": [
+							86,
+							99
+						]
+					},
+					{
+						"screen_name": "TimSchu",
+						"name": "Tim Schumacher",
+						"id": 26211488,
+						"id_str": "26211488",
+						"indices": [
+							100,
+							108
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 729620539929583600,
+						"id_str": "729620539929583616",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CiAiA-9U4AA8G07.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CiAiA-9U4AA8G07.jpg",
+						"url": "https://t.co/mexfYs6W2a",
+						"display_url": "pic.twitter.com/mexfYs6W2a",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/729620568681517056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 476,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 476,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 337,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 729620539929583600,
+						"id_str": "729620539929583616",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CiAiA-9U4AA8G07.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CiAiA-9U4AA8G07.jpg",
+						"url": "https://t.co/mexfYs6W2a",
+						"display_url": "pic.twitter.com/mexfYs6W2a",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/729620568681517056/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 476,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 476,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 337,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								240,
+								119
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/CiAiA-9U4AA8G07.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 728242218952216600,
+			"in_reply_to_status_id_str": "728242218952216576",
+			"in_reply_to_user_id": 12793062,
+			"in_reply_to_user_id_str": "12793062",
+			"in_reply_to_screen_name": "JackMarshall",
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 40969,
+				"friends_count": 28036,
+				"listed_count": 1100,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 11600,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11977,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Mar 27 19:59:36 +0000 2018",
 		"id": 978723229366825000,
 		"id_str": "978723229366824960",
