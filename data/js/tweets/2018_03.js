@@ -1,6 +1,1122 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Tue Mar 27 19:59:36 +0000 2018",
+		"id": 978723229366825000,
+		"id_str": "978723229366824960",
+		"text": "Cambridge Analytics doth protest too much methinks.. https://t.co/xveW4FxU2b",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xveW4FxU2b",
+					"expanded_url": "https://twitter.com/camanalytica/status/978682485558177792",
+					"display_url": "twitter.com/camanalytica/s…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40969,
+			"friends_count": 28043,
+			"listed_count": 1097,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11599,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 978682485558177800,
+		"quoted_status_id_str": "978682485558177792",
+		"quoted_status": {
+			"created_at": "Tue Mar 27 17:17:42 +0000 2018",
+			"id": 978682485558177800,
+			"id_str": "978682485558177792",
+			"text": "Following today's Digital, Culture, Media and Sport Committee hearing, we feel it's important to set out the facts. https://t.co/C6zqYMDnTL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/C6zqYMDnTL",
+						"expanded_url": "https://ca-political.com/news/cambridge-analytica-responds-committee-hearing",
+						"display_url": "ca-political.com/news/cambridge…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3415205164,
+				"id_str": "3415205164",
+				"name": "Cambridge Analytica",
+				"screen_name": "CamAnalytica",
+				"location": "",
+				"description": "Big Data. Behavioral Microtargeting. Political Campaign Support. Digital Support.",
+				"url": "https://t.co/OdFge2cEfs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OdFge2cEfs",
+								"expanded_url": "https://cambridgeanalytica.org",
+								"display_url": "cambridgeanalytica.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27086,
+				"friends_count": 1006,
+				"listed_count": 459,
+				"created_at": "Tue Aug 11 12:40:54 +0000 2015",
+				"favourites_count": 128,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 752,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/735828771538927616/_hA1wvJh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/735828771538927616/_hA1wvJh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3415205164/1521562833",
+				"profile_link_color": "CA1244",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 27 19:43:57 +0000 2018",
+		"id": 978719291552903200,
+		"id_str": "978719291552903168",
+		"text": "RT @avinash: Anyone buying a share of Amazon stock today is agreeing to pay upfront for the next 180 years of profit.\n\n#omg\n\nStill. Why you…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "omg",
+					"indices": [
+						119,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "avinash",
+					"name": "Avinash Kaushik",
+					"id": 15662446,
+					"id_str": "15662446",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40969,
+			"friends_count": 28043,
+			"listed_count": 1097,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11599,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 17 00:24:20 +0000 2018",
+			"id": 974803587707514900,
+			"id_str": "974803587707514880",
+			"text": "Anyone buying a share of Amazon stock today is agreeing to pay upfront for the next 180 years of profit.\n\n#omg\n\nSti… https://t.co/gMNuoHlTL0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "omg",
+						"indices": [
+							106,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gMNuoHlTL0",
+						"expanded_url": "https://twitter.com/i/web/status/974803587707514880",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15662446,
+				"id_str": "15662446",
+				"name": "Avinash Kaushik",
+				"screen_name": "avinash",
+				"location": "Lat: 37.4 Long: -122.1",
+				"description": "Author, Web Analytics 2.0 & Web Analytics: An Hour A Day | Digital Marketing Evangelist, Google | Co-Founder, Market Motive",
+				"url": "http://t.co/yNWcDJ7In3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/yNWcDJ7In3",
+								"expanded_url": "http://kaushik.net/avinash",
+								"display_url": "kaushik.net/avinash",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 190605,
+				"friends_count": 88,
+				"listed_count": 11598,
+				"created_at": "Wed Jul 30 16:40:56 +0000 2008",
+				"favourites_count": 16,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 18584,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/21072083/1920x1200_HD_Wallpaper_197_Zixpk-12.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/21072083/1920x1200_HD_Wallpaper_197_Zixpk-12.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410216110/avinash_kaushik_by_simon_birkenhead_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410216110/avinash_kaushik_by_simon_birkenhead_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15662446/1398225377",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "C6531B",
+				"profile_sidebar_fill_color": "F3B45A",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 39,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 27 19:37:40 +0000 2018",
+		"id": 978717709427908600,
+		"id_str": "978717709427908609",
+		"text": "RT @avinash: Man cheated on first wife with woman 2.\nMarried, cheated on woman 2 with woman 3.\nMarried, cheated on woman 3 with porn star.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "avinash",
+					"name": "Avinash Kaushik",
+					"id": 15662446,
+					"id_str": "15662446",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40969,
+			"friends_count": 28043,
+			"listed_count": 1097,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11599,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 23 04:58:20 +0000 2018",
+			"id": 977046865433657300,
+			"id_str": "977046865433657345",
+			"text": "Man cheated on first wife with woman 2.\nMarried, cheated on woman 2 with woman 3.\nMarried, cheated on woman 3 with… https://t.co/9laAqvdMna",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9laAqvdMna",
+						"expanded_url": "https://twitter.com/i/web/status/977046865433657345",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15662446,
+				"id_str": "15662446",
+				"name": "Avinash Kaushik",
+				"screen_name": "avinash",
+				"location": "Lat: 37.4 Long: -122.1",
+				"description": "Author, Web Analytics 2.0 & Web Analytics: An Hour A Day | Digital Marketing Evangelist, Google | Co-Founder, Market Motive",
+				"url": "http://t.co/yNWcDJ7In3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/yNWcDJ7In3",
+								"expanded_url": "http://kaushik.net/avinash",
+								"display_url": "kaushik.net/avinash",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 190605,
+				"friends_count": 88,
+				"listed_count": 11598,
+				"created_at": "Wed Jul 30 16:40:56 +0000 2008",
+				"favourites_count": 16,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 18584,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/21072083/1920x1200_HD_Wallpaper_197_Zixpk-12.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/21072083/1920x1200_HD_Wallpaper_197_Zixpk-12.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410216110/avinash_kaushik_by_simon_birkenhead_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410216110/avinash_kaushik_by_simon_birkenhead_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15662446/1398225377",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "C6531B",
+				"profile_sidebar_fill_color": "F3B45A",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 56,
+			"favorite_count": 193,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 27 19:37:18 +0000 2018",
+		"id": 978717618923192300,
+		"id_str": "978717618923192320",
+		"text": "@avinash @baekdal Trackers can be detected and blocked. I worry about Chrome Extensions &amp; privacy. So many ask for… https://t.co/gpsZFeDkA0",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "avinash",
+					"name": "Avinash Kaushik",
+					"id": 15662446,
+					"id_str": "15662446",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "baekdal",
+					"name": "Thomas Baekdal",
+					"id": 14473569,
+					"id_str": "14473569",
+					"indices": [
+						9,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gpsZFeDkA0",
+					"expanded_url": "https://twitter.com/i/web/status/978717618923192320",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 977317782936207400,
+		"in_reply_to_status_id_str": "977317782936207360",
+		"in_reply_to_user_id": 15662446,
+		"in_reply_to_user_id_str": "15662446",
+		"in_reply_to_screen_name": "avinash",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40969,
+			"friends_count": 28043,
+			"listed_count": 1097,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11599,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 27 19:36:58 +0000 2018",
+		"id": 978717534110203900,
+		"id_str": "978717534110203905",
+		"text": "@avinash @baekdal Great read! Instead on no 3rd party data, what about defaulting to 100% honesty and transparency… https://t.co/XEpPrRCcme",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "avinash",
+					"name": "Avinash Kaushik",
+					"id": 15662446,
+					"id_str": "15662446",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "baekdal",
+					"name": "Thomas Baekdal",
+					"id": 14473569,
+					"id_str": "14473569",
+					"indices": [
+						9,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XEpPrRCcme",
+					"expanded_url": "https://twitter.com/i/web/status/978717534110203905",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 977317782936207400,
+		"in_reply_to_status_id_str": "977317782936207360",
+		"in_reply_to_user_id": 15662446,
+		"in_reply_to_user_id_str": "15662446",
+		"in_reply_to_screen_name": "avinash",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40969,
+			"friends_count": 28043,
+			"listed_count": 1097,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11599,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 27 19:30:12 +0000 2018",
+		"id": 978715832715960300,
+		"id_str": "978715832715960320",
+		"text": "RT @avinash: \"We are Missing the Point about Facebook, Cambridge Analytica, etc.\"\n\nhttps://t.co/X1LTwsvUPZ\n\nby @baekdal  #serenitynow :) ht…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "serenitynow",
+					"indices": [
+						121,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "avinash",
+					"name": "Avinash Kaushik",
+					"id": 15662446,
+					"id_str": "15662446",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "baekdal",
+					"name": "Thomas Baekdal",
+					"id": 14473569,
+					"id_str": "14473569",
+					"indices": [
+						111,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X1LTwsvUPZ",
+					"expanded_url": "https://goo.gl/aTLkYS",
+					"display_url": "goo.gl/aTLkYS",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40969,
+			"friends_count": 28043,
+			"listed_count": 1097,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11599,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 23 22:54:51 +0000 2018",
+			"id": 977317782936207400,
+			"id_str": "977317782936207360",
+			"text": "\"We are Missing the Point about Facebook, Cambridge Analytica, etc.\"\n\nhttps://t.co/X1LTwsvUPZ\n\nby @baekdal… https://t.co/JvfTfPQcdU",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "baekdal",
+						"name": "Thomas Baekdal",
+						"id": 14473569,
+						"id_str": "14473569",
+						"indices": [
+							98,
+							106
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/X1LTwsvUPZ",
+						"expanded_url": "https://goo.gl/aTLkYS",
+						"display_url": "goo.gl/aTLkYS",
+						"indices": [
+							70,
+							93
+						]
+					},
+					{
+						"url": "https://t.co/JvfTfPQcdU",
+						"expanded_url": "https://twitter.com/i/web/status/977317782936207360",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15662446,
+				"id_str": "15662446",
+				"name": "Avinash Kaushik",
+				"screen_name": "avinash",
+				"location": "Lat: 37.4 Long: -122.1",
+				"description": "Author, Web Analytics 2.0 & Web Analytics: An Hour A Day | Digital Marketing Evangelist, Google | Co-Founder, Market Motive",
+				"url": "http://t.co/yNWcDJ7In3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/yNWcDJ7In3",
+								"expanded_url": "http://kaushik.net/avinash",
+								"display_url": "kaushik.net/avinash",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 190605,
+				"friends_count": 88,
+				"listed_count": 11598,
+				"created_at": "Wed Jul 30 16:40:56 +0000 2008",
+				"favourites_count": 16,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 18584,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/21072083/1920x1200_HD_Wallpaper_197_Zixpk-12.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/21072083/1920x1200_HD_Wallpaper_197_Zixpk-12.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410216110/avinash_kaushik_by_simon_birkenhead_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410216110/avinash_kaushik_by_simon_birkenhead_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15662446/1398225377",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "C6531B",
+				"profile_sidebar_fill_color": "F3B45A",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 35,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Mar 27 19:07:07 +0000 2018",
 		"id": 978710023193833500,
 		"id_str": "978710023193833472",
