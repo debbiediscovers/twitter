@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Wed Mar 28 20:54:00 +0000 2018",
+		"id": 979099307109331000,
+		"id_str": "979099307109330944",
+		"text": "RT @CalgarySEOSol: How to access Twitter's API - A Guide for Non Developers https://t.co/skUoquubid @debbiediscovers https://t.co/wFAOmZXjTh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CalgarySEOSol",
+					"name": "CalgarySEOSolutions",
+					"id": 735604813585489900,
+					"id_str": "735604813585489920",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						100,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/skUoquubid",
+					"expanded_url": "https://buff.ly/2AoZlD0",
+					"display_url": "buff.ly/2AoZlD0",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 979087236846190600,
+					"id_str": "979087236846190594",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DZZqp4xWAAIrTGE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZZqp4xWAAIrTGE.jpg",
+					"url": "https://t.co/wFAOmZXjTh",
+					"display_url": "pic.twitter.com/wFAOmZXjTh",
+					"expanded_url": "https://twitter.com/CalgarySEOSol/status/979087240717619202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 979087240717619200,
+					"source_status_id_str": "979087240717619202",
+					"source_user_id": 735604813585489900,
+					"source_user_id_str": "735604813585489920"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 979087236846190600,
+					"id_str": "979087236846190594",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DZZqp4xWAAIrTGE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZZqp4xWAAIrTGE.jpg",
+					"url": "https://t.co/wFAOmZXjTh",
+					"display_url": "pic.twitter.com/wFAOmZXjTh",
+					"expanded_url": "https://twitter.com/CalgarySEOSol/status/979087240717619202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 979087240717619200,
+					"source_status_id_str": "979087240717619202",
+					"source_user_id": 735604813585489900,
+					"source_user_id_str": "735604813585489920"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41045,
+			"friends_count": 27897,
+			"listed_count": 1095,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11613,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11993,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 28 20:06:03 +0000 2018",
+			"id": 979087240717619200,
+			"id_str": "979087240717619202",
+			"text": "How to access Twitter's API - A Guide for Non Developers https://t.co/skUoquubid @debbiediscovers https://t.co/wFAOmZXjTh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							81,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/skUoquubid",
+						"expanded_url": "https://buff.ly/2AoZlD0",
+						"display_url": "buff.ly/2AoZlD0",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 979087236846190600,
+						"id_str": "979087236846190594",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DZZqp4xWAAIrTGE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZZqp4xWAAIrTGE.jpg",
+						"url": "https://t.co/wFAOmZXjTh",
+						"display_url": "pic.twitter.com/wFAOmZXjTh",
+						"expanded_url": "https://twitter.com/CalgarySEOSol/status/979087240717619202/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 979087236846190600,
+						"id_str": "979087236846190594",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DZZqp4xWAAIrTGE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZZqp4xWAAIrTGE.jpg",
+						"url": "https://t.co/wFAOmZXjTh",
+						"display_url": "pic.twitter.com/wFAOmZXjTh",
+						"expanded_url": "https://twitter.com/CalgarySEOSol/status/979087240717619202/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 735604813585489900,
+				"id_str": "735604813585489920",
+				"name": "CalgarySEOSolutions",
+				"screen_name": "CalgarySEOSol",
+				"location": "Calgary, Alberta",
+				"description": "Here at Calgary SEO Solutions we offer Internet Marketing Services, Social Media Management, Membership Websites Services, Website Analysis.",
+				"url": "https://t.co/fj4l8dxtcx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fj4l8dxtcx",
+								"expanded_url": "http://www.calgaryseosolutions.com/",
+								"display_url": "calgaryseosolutions.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41,
+				"friends_count": 5,
+				"listed_count": 94,
+				"created_at": "Wed May 25 22:53:49 +0000 2016",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1053,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/735609311485792257/Dklm2c0H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/735609311485792257/Dklm2c0H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/735604813585489920/1464217277",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 28 19:25:05 +0000 2018",
 		"id": 979076930308751400,
 		"id_str": "979076930308751360",
