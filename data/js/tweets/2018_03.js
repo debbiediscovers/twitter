@@ -1,6 +1,950 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Thu Mar 29 01:38:21 +0000 2018",
+		"id": 979170868373811200,
+		"id_str": "979170868373811200",
+		"text": "RT @realjoet: \"Data Weaponization and the Future of Privacy\" https://t.co/fusYeD8F7g #data #bigdata #privacy #surveillance #ethics #politic…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "data",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "bigdata",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "privacy",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "surveillance",
+					"indices": [
+						109,
+						122
+					]
+				},
+				{
+					"text": "ethics",
+					"indices": [
+						123,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realjoet",
+					"name": "Joe Toscano ⚡️",
+					"id": 65144656,
+					"id_str": "65144656",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fusYeD8F7g",
+					"expanded_url": "https://medium.com/re-write/data-weaponization-and-the-future-of-privacy-d45a402048c6",
+					"display_url": "medium.com/re-write/data-…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41067,
+			"friends_count": 27777,
+			"listed_count": 1098,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11620,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12000,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 29 01:25:00 +0000 2018",
+			"id": 979167506886570000,
+			"id_str": "979167506886569984",
+			"text": "\"Data Weaponization and the Future of Privacy\" https://t.co/fusYeD8F7g #data #bigdata #privacy #surveillance… https://t.co/wWaZvPjT2S",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "data",
+						"indices": [
+							71,
+							76
+						]
+					},
+					{
+						"text": "bigdata",
+						"indices": [
+							77,
+							85
+						]
+					},
+					{
+						"text": "privacy",
+						"indices": [
+							86,
+							94
+						]
+					},
+					{
+						"text": "surveillance",
+						"indices": [
+							95,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fusYeD8F7g",
+						"expanded_url": "https://medium.com/re-write/data-weaponization-and-the-future-of-privacy-d45a402048c6",
+						"display_url": "medium.com/re-write/data-…",
+						"indices": [
+							47,
+							70
+						]
+					},
+					{
+						"url": "https://t.co/wWaZvPjT2S",
+						"expanded_url": "https://twitter.com/i/web/status/979167506886569984",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 65144656,
+				"id_str": "65144656",
+				"name": "Joe Toscano ⚡️",
+				"screen_name": "realjoet",
+				"location": "The Clouds",
+				"description": "Author/Speaker/Founder, Design Good //Contributor, @invisionapp @adweek // prev XD, @rga @google. Changing the world w/ a smile, design & some code. #TheHunt",
+				"url": "https://t.co/Js3YlTRqKq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Js3YlTRqKq",
+								"expanded_url": "http://designgood.tech",
+								"display_url": "designgood.tech",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2111,
+				"friends_count": 494,
+				"listed_count": 449,
+				"created_at": "Wed Aug 12 20:07:58 +0000 2009",
+				"favourites_count": 5398,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14359,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/512080009893126145/YN-L9iMt.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/512080009893126145/YN-L9iMt.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/862299969675329536/t6rLmGZh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/862299969675329536/t6rLmGZh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65144656/1509936392",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "121212",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Mar 28 23:17:13 +0000 2018",
+		"id": 979135348566499300,
+		"id_str": "979135348566499328",
+		"text": "RT @debbiediscovers: @brazilianexpat @akoncloud @Twitter I think someone's buying fake Twitter ads to be honest.... I'd tell @twittersuppor…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "brazilianexpat",
+					"name": "Luana Cavalcanti 🌜",
+					"id": 6624542,
+					"id_str": "6624542",
+					"indices": [
+						21,
+						36
+					]
+				},
+				{
+					"screen_name": "akoncloud",
+					"name": "Andrey Korenkov",
+					"id": 732526070805594100,
+					"id_str": "732526070805594113",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						48,
+						56
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41067,
+			"friends_count": 27777,
+			"listed_count": 1098,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11620,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12000,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 28 22:36:26 +0000 2018",
+			"id": 979125088040624100,
+			"id_str": "979125088040624128",
+			"text": "@brazilianexpat @akoncloud @Twitter I think someone's buying fake Twitter ads to be honest.... I'd tell… https://t.co/sa1nWffncH",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "brazilianexpat",
+						"name": "Luana Cavalcanti 🌜",
+						"id": 6624542,
+						"id_str": "6624542",
+						"indices": [
+							0,
+							15
+						]
+					},
+					{
+						"screen_name": "akoncloud",
+						"name": "Andrey Korenkov",
+						"id": 732526070805594100,
+						"id_str": "732526070805594113",
+						"indices": [
+							16,
+							26
+						]
+					},
+					{
+						"screen_name": "Twitter",
+						"name": "Twitter",
+						"id": 783214,
+						"id_str": "783214",
+						"indices": [
+							27,
+							35
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/sa1nWffncH",
+						"expanded_url": "https://twitter.com/i/web/status/979125088040624128",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 979046662231527400,
+			"in_reply_to_status_id_str": "979046662231527427",
+			"in_reply_to_user_id": 6624542,
+			"in_reply_to_user_id_str": "6624542",
+			"in_reply_to_screen_name": "brazilianexpat",
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41067,
+				"friends_count": 27777,
+				"listed_count": 1098,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 11620,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12000,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Mar 28 23:16:47 +0000 2018",
+		"id": 979135241766891500,
+		"id_str": "979135241766891521",
+		"text": "RT @debbiediscovers: WTF??!! #Weird..... @Twitter https://t.co/687MnpFE15",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Weird",
+					"indices": [
+						29,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						41,
+						49
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 978969860490149900,
+					"id_str": "978969860490149888",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DZX_5rxUQAA3dD4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZX_5rxUQAA3dD4.jpg",
+					"url": "https://t.co/687MnpFE15",
+					"display_url": "pic.twitter.com/687MnpFE15",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/978969928953864193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 668,
+							"h": 97,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 668,
+							"h": 97,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 668,
+							"h": 97,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 97,
+							"h": 97,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 978969928953864200,
+					"source_status_id_str": "978969928953864193",
+					"source_user_id": 3060836348,
+					"source_user_id_str": "3060836348"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 978969860490149900,
+					"id_str": "978969860490149888",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DZX_5rxUQAA3dD4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZX_5rxUQAA3dD4.jpg",
+					"url": "https://t.co/687MnpFE15",
+					"display_url": "pic.twitter.com/687MnpFE15",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/978969928953864193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 668,
+							"h": 97,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 668,
+							"h": 97,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 668,
+							"h": 97,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 97,
+							"h": 97,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 978969928953864200,
+					"source_status_id_str": "978969928953864193",
+					"source_user_id": 3060836348,
+					"source_user_id_str": "3060836348"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41067,
+			"friends_count": 27777,
+			"listed_count": 1098,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11620,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12000,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 28 12:19:54 +0000 2018",
+			"id": 978969928953864200,
+			"id_str": "978969928953864193",
+			"text": "WTF??!! #Weird..... @Twitter https://t.co/687MnpFE15",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Weird",
+						"indices": [
+							8,
+							14
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Twitter",
+						"name": "Twitter",
+						"id": 783214,
+						"id_str": "783214",
+						"indices": [
+							20,
+							28
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 978969860490149900,
+						"id_str": "978969860490149888",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/DZX_5rxUQAA3dD4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZX_5rxUQAA3dD4.jpg",
+						"url": "https://t.co/687MnpFE15",
+						"display_url": "pic.twitter.com/687MnpFE15",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/978969928953864193/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 668,
+								"h": 97,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 668,
+								"h": 97,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 668,
+								"h": 97,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 97,
+								"h": 97,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 978969860490149900,
+						"id_str": "978969860490149888",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/DZX_5rxUQAA3dD4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZX_5rxUQAA3dD4.jpg",
+						"url": "https://t.co/687MnpFE15",
+						"display_url": "pic.twitter.com/687MnpFE15",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/978969928953864193/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 668,
+								"h": 97,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 668,
+								"h": 97,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 668,
+								"h": 97,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 97,
+								"h": 97,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41067,
+				"friends_count": 27777,
+				"listed_count": 1098,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 11620,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12000,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed Mar 28 23:11:34 +0000 2018",
 		"id": 979133928471777300,
 		"id_str": "979133928471777280",
