@@ -1,6 +1,533 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 14 08:06:22 +0000 2018",
+		"id": 985066719793180700,
+		"id_str": "985066719793180672",
+		"text": "Apple details its crackdown on leakers&amp;#8230;in a leaked memo https://t.co/fDXzcRa5kD via @techcrunch",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TechCrunch",
+					"name": "TechCrunch",
+					"id": 816653,
+					"id_str": "816653",
+					"indices": [
+						94,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fDXzcRa5kD",
+					"expanded_url": "https://tcrn.ch/2quDL8C",
+					"display_url": "tcrn.ch/2quDL8C",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42873,
+			"friends_count": 25916,
+			"listed_count": 1114,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11763,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12234,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 14 07:51:59 +0000 2018",
+		"id": 985063102436720600,
+		"id_str": "985063102436720640",
+		"text": "RT @typesofkind: Say a kind word each day\n#30shadesofkind\n#typesofkind \n#9FA8DA\nRGBA (159,168,218,1) #fridayfeeling https://t.co/hh0GrDxkJw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "30shadesofkind",
+					"indices": [
+						42,
+						57
+					]
+				},
+				{
+					"text": "typesofkind",
+					"indices": [
+						58,
+						70
+					]
+				},
+				{
+					"text": "9FA8DA",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "fridayfeeling",
+					"indices": [
+						101,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "typesofkind",
+					"name": "Types of Kind",
+					"id": 4915049292,
+					"id_str": "4915049292",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 786851222112403500,
+					"id_str": "786851222112403456",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Cut1BIEXgAAeQy1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cut1BIEXgAAeQy1.jpg",
+					"url": "https://t.co/hh0GrDxkJw",
+					"display_url": "pic.twitter.com/hh0GrDxkJw",
+					"expanded_url": "https://twitter.com/typesofkind/status/786851224163344384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 786851224163344400,
+					"source_status_id_str": "786851224163344384",
+					"source_user_id": 4915049292,
+					"source_user_id_str": "4915049292"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 786851222112403500,
+					"id_str": "786851222112403456",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Cut1BIEXgAAeQy1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cut1BIEXgAAeQy1.jpg",
+					"url": "https://t.co/hh0GrDxkJw",
+					"display_url": "pic.twitter.com/hh0GrDxkJw",
+					"expanded_url": "https://twitter.com/typesofkind/status/786851224163344384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 786851224163344400,
+					"source_status_id_str": "786851224163344384",
+					"source_user_id": 4915049292,
+					"source_user_id_str": "4915049292"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42873,
+			"friends_count": 25916,
+			"listed_count": 1114,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11763,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12234,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 14 08:48:45 +0000 2016",
+			"id": 786851224163344400,
+			"id_str": "786851224163344384",
+			"text": "Say a kind word each day\n#30shadesofkind\n#typesofkind \n#9FA8DA\nRGBA (159,168,218,1) #fridayfeeling https://t.co/hh0GrDxkJw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "30shadesofkind",
+						"indices": [
+							25,
+							40
+						]
+					},
+					{
+						"text": "typesofkind",
+						"indices": [
+							41,
+							53
+						]
+					},
+					{
+						"text": "9FA8DA",
+						"indices": [
+							55,
+							62
+						]
+					},
+					{
+						"text": "fridayfeeling",
+						"indices": [
+							84,
+							98
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 786851222112403500,
+						"id_str": "786851222112403456",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/Cut1BIEXgAAeQy1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cut1BIEXgAAeQy1.jpg",
+						"url": "https://t.co/hh0GrDxkJw",
+						"display_url": "pic.twitter.com/hh0GrDxkJw",
+						"expanded_url": "https://twitter.com/typesofkind/status/786851224163344384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 786851222112403500,
+						"id_str": "786851222112403456",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/Cut1BIEXgAAeQy1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cut1BIEXgAAeQy1.jpg",
+						"url": "https://t.co/hh0GrDxkJw",
+						"display_url": "pic.twitter.com/hh0GrDxkJw",
+						"expanded_url": "https://twitter.com/typesofkind/status/786851224163344384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4915049292,
+				"id_str": "4915049292",
+				"name": "Types of Kind",
+				"screen_name": "typesofkind",
+				"location": "A Kind and Happy Place ❤️",
+				"description": "#typesofkind is a social experiment by @debbiediscovers. A learning space where design, technology and random acts of kindness come together via social media!",
+				"url": "https://t.co/KqboutJyD3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KqboutJyD3",
+								"expanded_url": "http://Instagram.com/typesofkind",
+								"display_url": "Instagram.com/typesofkind",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20,
+				"friends_count": 25,
+				"listed_count": 2,
+				"created_at": "Tue Feb 16 09:16:35 +0000 2016",
+				"favourites_count": 20,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 63,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/699557545732501504/lkwOBQLk_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/699557545732501504/lkwOBQLk_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4915049292/1455619018",
+				"profile_link_color": "900002",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 14 05:02:11 +0000 2018",
 		"id": 985020370506932200,
 		"id_str": "985020370506932224",
