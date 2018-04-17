@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Tue Apr 17 18:52:46 +0000 2018",
+		"id": 986316554840100900,
+		"id_str": "986316554840100864",
+		"text": "RT @becket: Photo of Zuck's notes, by AP's @andyharnik https://t.co/wF0WAkDdI4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "becket",
+					"name": "Stefan Becket",
+					"id": 20002475,
+					"id_str": "20002475",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "andyharnik",
+					"name": "Andrew Harnik",
+					"id": 32678822,
+					"id_str": "32678822",
+					"indices": [
+						43,
+						54
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 983846522537304000,
+					"id_str": "983846522537304064",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DadTMxlW4AAUz_h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DadTMxlW4AAUz_h.jpg",
+					"url": "https://t.co/wF0WAkDdI4",
+					"display_url": "pic.twitter.com/wF0WAkDdI4",
+					"expanded_url": "https://twitter.com/becket/status/983846618263891968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 983846618263892000,
+					"source_status_id_str": "983846618263891968",
+					"source_user_id": 20002475,
+					"source_user_id_str": "20002475"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 983846522537304000,
+					"id_str": "983846522537304064",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DadTMxlW4AAUz_h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DadTMxlW4AAUz_h.jpg",
+					"url": "https://t.co/wF0WAkDdI4",
+					"display_url": "pic.twitter.com/wF0WAkDdI4",
+					"expanded_url": "https://twitter.com/becket/status/983846618263891968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 983846618263892000,
+					"source_status_id_str": "983846618263891968",
+					"source_user_id": 20002475,
+					"source_user_id_str": "20002475"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43251,
+			"friends_count": 25027,
+			"listed_count": 1122,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11805,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12295,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 10 23:18:07 +0000 2018",
+			"id": 983846618263892000,
+			"id_str": "983846618263891968",
+			"text": "Photo of Zuck's notes, by AP's @andyharnik https://t.co/wF0WAkDdI4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "andyharnik",
+						"name": "Andrew Harnik",
+						"id": 32678822,
+						"id_str": "32678822",
+						"indices": [
+							31,
+							42
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 983846522537304000,
+						"id_str": "983846522537304064",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/DadTMxlW4AAUz_h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DadTMxlW4AAUz_h.jpg",
+						"url": "https://t.co/wF0WAkDdI4",
+						"display_url": "pic.twitter.com/wF0WAkDdI4",
+						"expanded_url": "https://twitter.com/becket/status/983846618263891968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 983846522537304000,
+						"id_str": "983846522537304064",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/DadTMxlW4AAUz_h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DadTMxlW4AAUz_h.jpg",
+						"url": "https://t.co/wF0WAkDdI4",
+						"display_url": "pic.twitter.com/wF0WAkDdI4",
+						"expanded_url": "https://twitter.com/becket/status/983846618263891968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20002475,
+				"id_str": "20002475",
+				"name": "Stefan Becket",
+				"screen_name": "becket",
+				"location": "New York",
+				"description": "Senior news editor at @CBSNews.com. DM for Signal. stefan.becket@cbsnews.com",
+				"url": "https://t.co/zKNRFMPmkV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zKNRFMPmkV",
+								"expanded_url": "http://cbsnews.com",
+								"display_url": "cbsnews.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21976,
+				"friends_count": 2845,
+				"listed_count": 775,
+				"created_at": "Tue Feb 03 20:46:40 +0000 2009",
+				"favourites_count": 13426,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 99912,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "6B636B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/566288456/320f4jv4rg0h3n5cq8hw.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/566288456/320f4jv4rg0h3n5cq8hw.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/931013752996139008/wfYxZ3E__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/931013752996139008/wfYxZ3E__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20002475/1409370918",
+				"profile_link_color": "161EB8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C1CADE",
+				"profile_text_color": "030230",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3749,
+			"favorite_count": 7251,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3749,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 17 17:54:00 +0000 2018",
 		"id": 986301765896327200,
 		"id_str": "986301765896327170",
