@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 22 22:41:55 +0000 2018",
+		"id": 988186163918749700,
+		"id_str": "988186163918749696",
+		"text": "RT @Snoopy: Take care of our planet. #EarthDay https://t.co/PYoDVu7cOh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EarthDay",
+					"indices": [
+						37,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Snoopy",
+					"name": "PEANUTS",
+					"id": 245548093,
+					"id_str": "245548093",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 988051049423372300,
+					"id_str": "988051049423372288",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DbZDMczVAAA-6xX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbZDMczVAAA-6xX.jpg",
+					"url": "https://t.co/PYoDVu7cOh",
+					"display_url": "pic.twitter.com/PYoDVu7cOh",
+					"expanded_url": "https://twitter.com/Snoopy/status/988051051558375426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 988051051558375400,
+					"source_status_id_str": "988051051558375426",
+					"source_user_id": 245548093,
+					"source_user_id_str": "245548093"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 988051049423372300,
+					"id_str": "988051049423372288",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DbZDMczVAAA-6xX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbZDMczVAAA-6xX.jpg",
+					"url": "https://t.co/PYoDVu7cOh",
+					"display_url": "pic.twitter.com/PYoDVu7cOh",
+					"expanded_url": "https://twitter.com/Snoopy/status/988051051558375426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 988051051558375400,
+					"source_status_id_str": "988051051558375426",
+					"source_user_id": 245548093,
+					"source_user_id_str": "245548093"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44004,
+			"friends_count": 21651,
+			"listed_count": 1124,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11865,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12409,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 22 13:45:02 +0000 2018",
+			"id": 988051051558375400,
+			"id_str": "988051051558375426",
+			"text": "Take care of our planet. #EarthDay https://t.co/PYoDVu7cOh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EarthDay",
+						"indices": [
+							25,
+							34
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 988051049423372300,
+						"id_str": "988051049423372288",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/DbZDMczVAAA-6xX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbZDMczVAAA-6xX.jpg",
+						"url": "https://t.co/PYoDVu7cOh",
+						"display_url": "pic.twitter.com/PYoDVu7cOh",
+						"expanded_url": "https://twitter.com/Snoopy/status/988051051558375426/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 612,
+								"h": 612,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 612,
+								"h": 612,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 612,
+								"h": 612,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 988051049423372300,
+						"id_str": "988051049423372288",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/DbZDMczVAAA-6xX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbZDMczVAAA-6xX.jpg",
+						"url": "https://t.co/PYoDVu7cOh",
+						"display_url": "pic.twitter.com/PYoDVu7cOh",
+						"expanded_url": "https://twitter.com/Snoopy/status/988051051558375426/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 612,
+								"h": 612,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 612,
+								"h": 612,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 612,
+								"h": 612,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 245548093,
+				"id_str": "245548093",
+				"name": "PEANUTS",
+				"screen_name": "Snoopy",
+				"location": "",
+				"description": "Follow Peanuts everywhere! \nInstagram: Snoopygrams / Snapchat: SnoopysSnaps / Facebook: Snoopy",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 835989,
+				"friends_count": 47,
+				"listed_count": 4752,
+				"created_at": "Mon Jan 31 23:14:17 +0000 2011",
+				"favourites_count": 576,
+				"utc_offset": -28800,
+				"time_zone": "Alaska",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11784,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446723711014424576/0V7PSzdx.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446723711014424576/0V7PSzdx.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/976083886886215680/dkPEMb8q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/976083886886215680/dkPEMb8q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/245548093/1521551534",
+				"profile_link_color": "005596",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFE600",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12098,
+			"favorite_count": 24061,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12098,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 22 18:01:44 +0000 2018",
 		"id": 988115652484493300,
 		"id_str": "988115652484493313",
