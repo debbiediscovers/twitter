@@ -1,6 +1,2505 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Wed Apr 25 01:16:26 +0000 2018",
+		"id": 988949821980426200,
+		"id_str": "988949821980426241",
+		"text": "RT @FilmFatale_NYC: This looks really good! And Michelle Yeoh 🐐🐐🐐 #CrazyRichAsians https://t.co/41g5VoyjNt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CrazyRichAsians",
+					"indices": [
+						66,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FilmFatale_NYC",
+					"name": "ReBecca Theodore-Vachon",
+					"id": 37340424,
+					"id_str": "37340424",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/41g5VoyjNt",
+					"expanded_url": "https://twitter.com/nerdypoc/status/988407080070602753",
+					"display_url": "twitter.com/nerdypoc/statu…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44102,
+			"friends_count": 18842,
+			"listed_count": 1121,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11883,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12451,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 23 14:08:59 +0000 2018",
+			"id": 988419465103773700,
+			"id_str": "988419465103773696",
+			"text": "This looks really good! And Michelle Yeoh 🐐🐐🐐 #CrazyRichAsians https://t.co/41g5VoyjNt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CrazyRichAsians",
+						"indices": [
+							46,
+							62
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/41g5VoyjNt",
+						"expanded_url": "https://twitter.com/nerdypoc/status/988407080070602753",
+						"display_url": "twitter.com/nerdypoc/statu…",
+						"indices": [
+							63,
+							86
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37340424,
+				"id_str": "37340424",
+				"name": "ReBecca Theodore-Vachon",
+				"screen_name": "FilmFatale_NYC",
+				"location": "NYC",
+				"description": "Film/TV contributor Entertainment Weekly, Forbes, NYTimes, Roger Ebert The Urban Daily. Womanist. Nerd. filmfatalenyc@gmail.com #WakandaForever",
+				"url": "https://t.co/67rFSRH1L3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/67rFSRH1L3",
+								"expanded_url": "https://www.patreon.com/FilmFatale_NYC",
+								"display_url": "patreon.com/FilmFatale_NYC",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37095,
+				"friends_count": 4425,
+				"listed_count": 1233,
+				"created_at": "Sun May 03 02:15:34 +0000 2009",
+				"favourites_count": 66783,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 385471,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/436871515/matrixcode.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/436871515/matrixcode.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980652633097670657/VAPwm8nk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980652633097670657/VAPwm8nk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37340424/1523418999",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "FF0F0F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 988407080070602800,
+			"quoted_status_id_str": "988407080070602753",
+			"quoted_status": {
+				"created_at": "Mon Apr 23 13:19:46 +0000 2018",
+				"id": 988407080070602800,
+				"id_str": "988407080070602753",
+				"text": "The #CrazyRichAsians trailer has arrived! Starring @ConstanceWu, in theatres this August! https://t.co/VlVjVEL6Pv",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "CrazyRichAsians",
+							"indices": [
+								4,
+								20
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "ConstanceWu",
+							"name": "Constance Wu",
+							"id": 163297163,
+							"id_str": "163297163",
+							"indices": [
+								51,
+								63
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 988397195568304100,
+							"id_str": "988397195568304128",
+							"indices": [
+								90,
+								113
+							],
+							"media_url": "http://pbs.twimg.com/media/DbeAconXkAEeFtN.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DbeAconXkAEeFtN.jpg",
+							"url": "https://t.co/VlVjVEL6Pv",
+							"display_url": "pic.twitter.com/VlVjVEL6Pv",
+							"expanded_url": "https://twitter.com/WarnerBrosUK/status/988403429197443072/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1080,
+									"h": 1080,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1080,
+									"h": 1080,
+									"resize": "fit"
+								}
+							},
+							"source_status_id": 988403429197443100,
+							"source_status_id_str": "988403429197443072",
+							"source_user_id": 1709547272,
+							"source_user_id_str": "1709547272"
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 988397195568304100,
+							"id_str": "988397195568304128",
+							"indices": [
+								90,
+								113
+							],
+							"media_url": "http://pbs.twimg.com/media/DbeAconXkAEeFtN.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DbeAconXkAEeFtN.jpg",
+							"url": "https://t.co/VlVjVEL6Pv",
+							"display_url": "pic.twitter.com/VlVjVEL6Pv",
+							"expanded_url": "https://twitter.com/WarnerBrosUK/status/988403429197443072/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1080,
+									"h": 1080,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1080,
+									"h": 1080,
+									"resize": "fit"
+								}
+							},
+							"source_status_id": 988403429197443100,
+							"source_status_id_str": "988403429197443072",
+							"source_user_id": 1709547272,
+							"source_user_id_str": "1709547272",
+							"video_info": {
+								"aspect_ratio": [
+									1,
+									1
+								],
+								"duration_millis": 144186,
+								"variants": [
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/988397195568304128/vid/480x480/5VxM8YsBi9MFhSXK.mp4?tag=2"
+									},
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/988397195568304128/vid/240x240/L-pPGP0rxgKPxFQU.mp4?tag=2"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/amplify_video/988397195568304128/pl/3UqKYFHXU2RGZiW3.m3u8?tag=2"
+									},
+									{
+										"bitrate": 1280000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/988397195568304128/vid/720x720/AEq4vSw4yjsiH4bx.mp4?tag=2"
+									}
+								]
+							},
+							"additional_media_info": {
+								"title": "CRAZY RICH ASIANS - Official Trailer 1",
+								"description": "",
+								"call_to_actions": {
+									"visit_site": {
+										"url": "https://protect-eu.mimecast.com/s/7DP2CYq2CDgnB1tjcMVG"
+									}
+								},
+								"embeddable": true,
+								"monetizable": false,
+								"source_user": {
+									"id": 1709547272,
+									"id_str": "1709547272",
+									"name": "Warner Bros. UK",
+									"screen_name": "WarnerBrosUK",
+									"location": "London, England",
+									"description": "Welcome to the world of Warner Bros. UK. In cinemas now: #Rampage, #ReadyPlayerOne, #TombRaider Coming soon: #LifeOfTheParty, #Oceans8",
+									"url": "https://t.co/PQydaYhqTh",
+									"entities": {
+										"url": {
+											"urls": [
+												{
+													"url": "https://t.co/PQydaYhqTh",
+													"expanded_url": "http://www.warnerbros.co.uk",
+													"display_url": "warnerbros.co.uk",
+													"indices": [
+														0,
+														23
+													]
+												}
+											]
+										},
+										"description": {
+											"urls": []
+										}
+									},
+									"protected": false,
+									"followers_count": 143415,
+									"friends_count": 397,
+									"listed_count": 333,
+									"created_at": "Thu Aug 29 08:52:32 +0000 2013",
+									"favourites_count": 2407,
+									"utc_offset": 3600,
+									"time_zone": "London",
+									"geo_enabled": true,
+									"verified": true,
+									"statuses_count": 8643,
+									"lang": "en",
+									"contributors_enabled": false,
+									"is_translator": false,
+									"is_translation_enabled": false,
+									"profile_background_color": "89C9FA",
+									"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/540834074269458435/jXacp0fc.jpeg",
+									"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/540834074269458435/jXacp0fc.jpeg",
+									"profile_background_tile": true,
+									"profile_image_url": "http://pbs.twimg.com/profile_images/876754318053060608/WWyt9Nxj_normal.jpg",
+									"profile_image_url_https": "https://pbs.twimg.com/profile_images/876754318053060608/WWyt9Nxj_normal.jpg",
+									"profile_banner_url": "https://pbs.twimg.com/profile_banners/1709547272/1523529469",
+									"profile_link_color": "0084B4",
+									"profile_sidebar_border_color": "FFFFFF",
+									"profile_sidebar_fill_color": "DDEEF6",
+									"profile_text_color": "333333",
+									"profile_use_background_image": true,
+									"has_extended_profile": false,
+									"default_profile": false,
+									"default_profile_image": false,
+									"following": false,
+									"follow_request_sent": false,
+									"notifications": false,
+									"translator_type": "none"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 711802172770558000,
+					"id_str": "711802172770557952",
+					"name": "Nerdy PoC",
+					"screen_name": "nerdypoc",
+					"location": "UK",
+					"description": "Dedicated to POC who love anything nerdy! | DM for inquiries | submissions: nerdypoc@gmail.com",
+					"url": "https://t.co/fSYj56ciCS",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/fSYj56ciCS",
+									"expanded_url": "https://medium.com/@nerdypoc",
+									"display_url": "medium.com/@nerdypoc",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 15137,
+					"friends_count": 742,
+					"listed_count": 218,
+					"created_at": "Mon Mar 21 06:30:37 +0000 2016",
+					"favourites_count": 4258,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 24133,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/897797841598398464/ocSbMyT9_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/897797841598398464/ocSbMyT9_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/711802172770557952/1502886662",
+					"profile_link_color": "000000",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 742,
+				"favorite_count": 1401,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 51,
+			"favorite_count": 399,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 988407080070602800,
+		"quoted_status_id_str": "988407080070602753",
+		"retweet_count": 51,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 25 01:16:22 +0000 2018",
+		"id": 988949806423814100,
+		"id_str": "988949806423814144",
+		"text": "RT @HaydenSzeto: Pulled over in a shady part of burbank in 80 degree heat to watch #CrazyRichAsians trailer. This is a historic moment for…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CrazyRichAsians",
+					"indices": [
+						83,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HaydenSzeto",
+					"name": "hayden szeto",
+					"id": 901757713,
+					"id_str": "901757713",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44102,
+			"friends_count": 18842,
+			"listed_count": 1121,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11883,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12451,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 23 16:46:50 +0000 2018",
+			"id": 988459192359927800,
+			"id_str": "988459192359927808",
+			"text": "Pulled over in a shady part of burbank in 80 degree heat to watch #CrazyRichAsians trailer. This is a historic mome… https://t.co/cN4sNBgOpY",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CrazyRichAsians",
+						"indices": [
+							66,
+							82
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cN4sNBgOpY",
+						"expanded_url": "https://twitter.com/i/web/status/988459192359927808",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 901757713,
+				"id_str": "901757713",
+				"name": "hayden szeto",
+				"screen_name": "HaydenSzeto",
+				"location": "Los Angeles, California",
+				"description": "\"it's see-toe.\" IG @haydenszeto",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5958,
+				"friends_count": 230,
+				"listed_count": 36,
+				"created_at": "Wed Oct 24 12:41:30 +0000 2012",
+				"favourites_count": 2802,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1696,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/960347674561060864/nDLFLMe1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/960347674561060864/nDLFLMe1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/901757713/1492329978",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3b77caf94bfc81fe",
+				"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+				"place_type": "city",
+				"name": "Los Angeles",
+				"full_name": "Los Angeles, CA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-118.668404,
+								33.704538
+							],
+							[
+								-118.155409,
+								33.704538
+							],
+							[
+								-118.155409,
+								34.337041
+							],
+							[
+								-118.668404,
+								34.337041
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 117,
+			"favorite_count": 897,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 25 01:15:43 +0000 2018",
+		"id": 988949644561473500,
+		"id_str": "988949644561473537",
+		"text": "RT @originalspin: Fortunately in #CrazyRichAsians, some characters are rich, some crazy, some crazy rich, some none of the above—and all ar…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CrazyRichAsians",
+					"indices": [
+						33,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "originalspin",
+					"name": "Jeff Yang",
+					"id": 14278608,
+					"id_str": "14278608",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44102,
+			"friends_count": 18842,
+			"listed_count": 1121,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11883,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12451,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 23 13:55:24 +0000 2018",
+			"id": 988416048700387300,
+			"id_str": "988416048700387328",
+			"text": "Fortunately in #CrazyRichAsians, some characters are rich, some crazy, some crazy rich, some none of the above—and… https://t.co/tzeLQVqkT3",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CrazyRichAsians",
+						"indices": [
+							15,
+							31
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tzeLQVqkT3",
+						"expanded_url": "https://twitter.com/i/web/status/988416048700387328",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14278608,
+				"id_str": "14278608",
+				"name": "Jeff Yang",
+				"screen_name": "originalspin",
+				"location": "Los Angeles, CA",
+				"description": "@CNNOpinion Skyler & @HudsonDYang's dad #TheyCallUsBruce w/@angryasianman https://t.co/wTvrdMVBcA #BLACKWOMENLEAD👇 https://t.co/0yIQsmhdrW",
+				"url": "https://t.co/CbcVk8JVUm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CbcVk8JVUm",
+								"expanded_url": "http://www.cnn.com/profiles/jeff-yang",
+								"display_url": "cnn.com/profiles/jeff-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wTvrdMVBcA",
+								"expanded_url": "http://bit.ly/listen2TCUB",
+								"display_url": "bit.ly/listen2TCUB",
+								"indices": [
+									74,
+									97
+								]
+							},
+							{
+								"url": "https://t.co/0yIQsmhdrW",
+								"expanded_url": "http://www.higherheightsforamerica.org",
+								"display_url": "higherheightsforamerica.org",
+								"indices": [
+									115,
+									138
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 22155,
+				"friends_count": 4867,
+				"listed_count": 661,
+				"created_at": "Tue Apr 01 22:28:01 +0000 2008",
+				"favourites_count": 26908,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 44719,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/273968824/Typographic-Twitter-Background-Template-1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/273968824/Typographic-Twitter-Background-Template-1.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/971946429206863872/BqQ4nRcZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971946429206863872/BqQ4nRcZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14278608/1490259241",
+				"profile_link_color": "6CB8B2",
+				"profile_sidebar_border_color": "02050A",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "B3B3B3",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 988413983928434700,
+			"quoted_status_id_str": "988413983928434688",
+			"quoted_status": {
+				"created_at": "Mon Apr 23 13:47:12 +0000 2018",
+				"id": 988413983928434700,
+				"id_str": "988413983928434688",
+				"text": "I don't think I'll enjoy being stereotyped as crazy or rich, but worth it to see @ConstanceWu in this movie https://t.co/ITb5I6mW9u",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "ConstanceWu",
+							"name": "Constance Wu",
+							"id": 163297163,
+							"id_str": "163297163",
+							"indices": [
+								81,
+								93
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/ITb5I6mW9u",
+							"expanded_url": "https://youtu.be/WDhwEqxKCss",
+							"display_url": "youtu.be/WDhwEqxKCss",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 15041363,
+					"id_str": "15041363",
+					"name": "Kathy Tu",
+					"screen_name": "_kathytu",
+					"location": "Los Angeles, CA",
+					"description": "Co-host of @NancyPodcast 🏳️‍🌈. Aspiring futurist (wtf does that even mean?). She/her. IG: _kathytu",
+					"url": "https://t.co/XxOvSmTvP4",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/XxOvSmTvP4",
+									"expanded_url": "http://kathytu.com",
+									"display_url": "kathytu.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 5511,
+					"friends_count": 787,
+					"listed_count": 54,
+					"created_at": "Sat Jun 07 20:38:18 +0000 2008",
+					"favourites_count": 6119,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 3123,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/988602709304487936/mWRejd1a_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/988602709304487936/mWRejd1a_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/15041363/1521622417",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 19,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 286,
+			"favorite_count": 1298,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 988413983928434700,
+		"quoted_status_id_str": "988413983928434688",
+		"retweet_count": 286,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 25 01:15:39 +0000 2018",
+		"id": 988949628077797400,
+		"id_str": "988949628077797376",
+		"text": "RT @cashleelee: a studio movie with an all-Asian cast, none of whom are doing any martial arts moves or leaning into subservient stereotype…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cashleelee",
+					"name": "Ashley Lee",
+					"id": 63656697,
+					"id_str": "63656697",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44102,
+			"friends_count": 18842,
+			"listed_count": 1121,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11883,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12451,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 19 18:29:54 +0000 2018",
+			"id": 987035577261289500,
+			"id_str": "987035577261289473",
+			"text": "a studio movie with an all-Asian cast, none of whom are doing any martial arts moves or leaning into subservient st… https://t.co/V9kB1PW3ED",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/V9kB1PW3ED",
+						"expanded_url": "https://twitter.com/i/web/status/987035577261289473",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63656697,
+				"id_str": "63656697",
+				"name": "Ashley Lee",
+				"screen_name": "cashleelee",
+				"location": "LA",
+				"description": "entertainment reporter covering film, Broadway and TK. @THR alum. cashleelee@gmail.com\n🤷🏻‍♀️🤷🏻‍♀️🤷🏻‍♀️🤷🏻‍♀️🤷🏻‍♀️",
+				"url": "https://t.co/OlDWrfYYmM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OlDWrfYYmM",
+								"expanded_url": "http://cashleelee.com",
+								"display_url": "cashleelee.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5566,
+				"friends_count": 1490,
+				"listed_count": 172,
+				"created_at": "Fri Aug 07 06:16:59 +0000 2009",
+				"favourites_count": 9646,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7206,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/864766390653333504/2pSfLjou_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/864766390653333504/2pSfLjou_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63656697/1519718439",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 986997136658018300,
+			"quoted_status_id_str": "986997136658018304",
+			"quoted_status": {
+				"created_at": "Thu Apr 19 15:57:09 +0000 2018",
+				"id": 986997136658018300,
+				"id_str": "986997136658018304",
+				"text": "It’s been a CRAaazy long wait, but it’s almost here! @wbpictures and director @jonmchu are proud to present the off… https://t.co/cC22nsow4R",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "wbpictures",
+							"name": "Warner Bros Pictures",
+							"id": 20255162,
+							"id_str": "20255162",
+							"indices": [
+								53,
+								64
+							]
+						},
+						{
+							"screen_name": "jonmchu",
+							"name": "Jon M. Chu",
+							"id": 15419652,
+							"id_str": "15419652",
+							"indices": [
+								78,
+								86
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/cC22nsow4R",
+							"expanded_url": "https://twitter.com/i/web/status/986997136658018304",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 874401319171178500,
+					"id_str": "874401319171178496",
+					"name": "Crazy Rich Asians",
+					"screen_name": "CrazyRichMovie",
+					"location": "",
+					"description": "Only In Theaters This August",
+					"url": "https://t.co/gFgMK0ytKk",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/gFgMK0ytKk",
+									"expanded_url": "http://facebook.com/crazyrichasiansmovie",
+									"display_url": "facebook.com/crazyrichasian…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4174,
+					"friends_count": 21,
+					"listed_count": 14,
+					"created_at": "Mon Jun 12 23:01:34 +0000 2017",
+					"favourites_count": 0,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 8,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/988401205700317186/NtCGQmuy_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/988401205700317186/NtCGQmuy_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/874401319171178496/1524493856",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2798,
+				"favorite_count": 5649,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2328,
+			"favorite_count": 6225,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 986997136658018300,
+		"quoted_status_id_str": "986997136658018304",
+		"retweet_count": 2328,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 25 01:15:28 +0000 2018",
+		"id": 988949578962501600,
+		"id_str": "988949578962501638",
+		"text": "RT @insidethetube: Give me Michelle Yeoh, Gemma Chan, Constance Wu, Awkwafina every day of the week. Goodness. #CrazyRichAsians",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CrazyRichAsians",
+					"indices": [
+						111,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "insidethetube",
+					"name": "Philiana",
+					"id": 16038575,
+					"id_str": "16038575",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44102,
+			"friends_count": 18842,
+			"listed_count": 1121,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11883,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12451,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 23 15:18:15 +0000 2018",
+			"id": 988436900456251400,
+			"id_str": "988436900456251392",
+			"text": "Give me Michelle Yeoh, Gemma Chan, Constance Wu, Awkwafina every day of the week. Goodness. #CrazyRichAsians",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CrazyRichAsians",
+						"indices": [
+							92,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 988435383556886500,
+			"in_reply_to_status_id_str": "988435383556886528",
+			"in_reply_to_user_id": 16038575,
+			"in_reply_to_user_id_str": "16038575",
+			"in_reply_to_screen_name": "insidethetube",
+			"user": {
+				"id": 16038575,
+				"id_str": "16038575",
+				"name": "Philiana",
+				"screen_name": "insidethetube",
+				"location": "Santa Monica / San Francisco",
+				"description": "TV Features Editor, Entertainment Tonight. Ex-THR. My friends call me Phil(z). I cover TV. I love Hallmark. Award-winning writer. I'm young, scrappy & hungry.",
+				"url": "https://t.co/2JFsMLH9Pm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2JFsMLH9Pm",
+								"expanded_url": "http://Instagram.com/philiana1",
+								"display_url": "Instagram.com/philiana1",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8842,
+				"friends_count": 904,
+				"listed_count": 373,
+				"created_at": "Fri Aug 29 06:09:46 +0000 2008",
+				"favourites_count": 6909,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 53614,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000161634631/ZDC2GD7k.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000161634631/ZDC2GD7k.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895115669322121216/Sh373WDn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895115669322121216/Sh373WDn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16038575/1497849690",
+				"profile_link_color": "6B6B6B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EBEBEB",
+				"profile_text_color": "757575",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 94,
+			"favorite_count": 702,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 25 01:15:24 +0000 2018",
+		"id": 988949565884715000,
+		"id_str": "988949565884715013",
+		"text": "RT @insidethetube: Oh my goodness. This movie is going to be amazing. No pressure.  #CrazyRichAsians https://t.co/dLRWi9UnFL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CrazyRichAsians",
+					"indices": [
+						84,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "insidethetube",
+					"name": "Philiana",
+					"id": 16038575,
+					"id_str": "16038575",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 987124448053542900,
+					"id_str": "987124448053542912",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DbL4dJtVwAAsTyH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbL4dJtVwAAsTyH.jpg",
+					"url": "https://t.co/dLRWi9UnFL",
+					"display_url": "pic.twitter.com/dLRWi9UnFL",
+					"expanded_url": "https://twitter.com/insidethetube/status/987124893174063104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 987124893174063100,
+					"source_status_id_str": "987124893174063104",
+					"source_user_id": 16038575,
+					"source_user_id_str": "16038575"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 987124448053542900,
+					"id_str": "987124448053542912",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DbL4dJtVwAAsTyH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbL4dJtVwAAsTyH.jpg",
+					"url": "https://t.co/dLRWi9UnFL",
+					"display_url": "pic.twitter.com/dLRWi9UnFL",
+					"expanded_url": "https://twitter.com/insidethetube/status/987124893174063104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 987124893174063100,
+					"source_status_id_str": "987124893174063104",
+					"source_user_id": 16038575,
+					"source_user_id_str": "16038575"
+				},
+				{
+					"id": 987124447512379400,
+					"id_str": "987124447512379392",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DbL4dHsUQAA-uds.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbL4dHsUQAA-uds.jpg",
+					"url": "https://t.co/dLRWi9UnFL",
+					"display_url": "pic.twitter.com/dLRWi9UnFL",
+					"expanded_url": "https://twitter.com/insidethetube/status/987124893174063104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 987124893174063100,
+					"source_status_id_str": "987124893174063104",
+					"source_user_id": 16038575,
+					"source_user_id_str": "16038575"
+				},
+				{
+					"id": 987124417988780000,
+					"id_str": "987124417988780032",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DbL4bZtV4AASRc8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbL4bZtV4AASRc8.jpg",
+					"url": "https://t.co/dLRWi9UnFL",
+					"display_url": "pic.twitter.com/dLRWi9UnFL",
+					"expanded_url": "https://twitter.com/insidethetube/status/987124893174063104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 987124893174063100,
+					"source_status_id_str": "987124893174063104",
+					"source_user_id": 16038575,
+					"source_user_id_str": "16038575"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44102,
+			"friends_count": 18842,
+			"listed_count": 1121,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11883,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12451,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 20 00:24:49 +0000 2018",
+			"id": 987124893174063100,
+			"id_str": "987124893174063104",
+			"text": "Oh my goodness. This movie is going to be amazing. No pressure.  #CrazyRichAsians https://t.co/dLRWi9UnFL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CrazyRichAsians",
+						"indices": [
+							65,
+							81
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 987124448053542900,
+						"id_str": "987124448053542912",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/DbL4dJtVwAAsTyH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbL4dJtVwAAsTyH.jpg",
+						"url": "https://t.co/dLRWi9UnFL",
+						"display_url": "pic.twitter.com/dLRWi9UnFL",
+						"expanded_url": "https://twitter.com/insidethetube/status/987124893174063104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 987124448053542900,
+						"id_str": "987124448053542912",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/DbL4dJtVwAAsTyH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbL4dJtVwAAsTyH.jpg",
+						"url": "https://t.co/dLRWi9UnFL",
+						"display_url": "pic.twitter.com/dLRWi9UnFL",
+						"expanded_url": "https://twitter.com/insidethetube/status/987124893174063104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 987124447512379400,
+						"id_str": "987124447512379392",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/DbL4dHsUQAA-uds.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbL4dHsUQAA-uds.jpg",
+						"url": "https://t.co/dLRWi9UnFL",
+						"display_url": "pic.twitter.com/dLRWi9UnFL",
+						"expanded_url": "https://twitter.com/insidethetube/status/987124893174063104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 987124417988780000,
+						"id_str": "987124417988780032",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/DbL4bZtV4AASRc8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbL4bZtV4AASRc8.jpg",
+						"url": "https://t.co/dLRWi9UnFL",
+						"display_url": "pic.twitter.com/dLRWi9UnFL",
+						"expanded_url": "https://twitter.com/insidethetube/status/987124893174063104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16038575,
+				"id_str": "16038575",
+				"name": "Philiana",
+				"screen_name": "insidethetube",
+				"location": "Santa Monica / San Francisco",
+				"description": "TV Features Editor, Entertainment Tonight. Ex-THR. My friends call me Phil(z). I cover TV. I love Hallmark. Award-winning writer. I'm young, scrappy & hungry.",
+				"url": "https://t.co/2JFsMLH9Pm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2JFsMLH9Pm",
+								"expanded_url": "http://Instagram.com/philiana1",
+								"display_url": "Instagram.com/philiana1",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8842,
+				"friends_count": 904,
+				"listed_count": 373,
+				"created_at": "Fri Aug 29 06:09:46 +0000 2008",
+				"favourites_count": 6909,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 53614,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000161634631/ZDC2GD7k.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000161634631/ZDC2GD7k.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895115669322121216/Sh373WDn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895115669322121216/Sh373WDn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16038575/1497849690",
+				"profile_link_color": "6B6B6B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EBEBEB",
+				"profile_text_color": "757575",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 469,
+			"favorite_count": 2365,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 469,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 25 01:14:57 +0000 2018",
+		"id": 988949450327441400,
+		"id_str": "988949450327441408",
+		"text": "RT @CrazyRichMovie: Every family has its crazy. Watch the new trailer for #CrazyRichAsians, only in theaters this August. https://t.co/KkCg…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CrazyRichAsians",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CrazyRichMovie",
+					"name": "Crazy Rich Asians",
+					"id": 874401319171178500,
+					"id_str": "874401319171178496",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44102,
+			"friends_count": 18842,
+			"listed_count": 1121,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11883,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12451,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 23 19:00:00 +0000 2018",
+			"id": 988492703225626600,
+			"id_str": "988492703225626624",
+			"text": "Every family has its crazy. Watch the new trailer for #CrazyRichAsians, only in theaters this August. https://t.co/KkCgT3TqLU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CrazyRichAsians",
+						"indices": [
+							54,
+							70
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 988462404324356100,
+						"id_str": "988462404324356096",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DbfEBUsVQAAPynL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbfEBUsVQAAPynL.jpg",
+						"url": "https://t.co/KkCgT3TqLU",
+						"display_url": "pic.twitter.com/KkCgT3TqLU",
+						"expanded_url": "https://twitter.com/CrazyRichMovie/status/988492703225626624/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 988462404324356100,
+						"id_str": "988462404324356096",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DbfEBUsVQAAPynL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbfEBUsVQAAPynL.jpg",
+						"url": "https://t.co/KkCgT3TqLU",
+						"display_url": "pic.twitter.com/KkCgT3TqLU",
+						"expanded_url": "https://twitter.com/CrazyRichMovie/status/988492703225626624/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 144144,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/988462404324356096/pl/ts3B6y_1SnTqU7I2.m3u8?tag=6"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/988462404324356096/vid/320x180/q_6HJeETbKEKicDW.mp4?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/988462404324356096/vid/640x360/Fi1p80KSs3OHbfnI.mp4?tag=6"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/988462404324356096/vid/1280x720/fdQFhOJoPGXf-9ny.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "CRAZY RICH ASIANS - Official Trailer 1",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 874401319171178500,
+				"id_str": "874401319171178496",
+				"name": "Crazy Rich Asians",
+				"screen_name": "CrazyRichMovie",
+				"location": "",
+				"description": "Only In Theaters This August",
+				"url": "https://t.co/gFgMK0ytKk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gFgMK0ytKk",
+								"expanded_url": "http://facebook.com/crazyrichasiansmovie",
+								"display_url": "facebook.com/crazyrichasian…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4174,
+				"friends_count": 21,
+				"listed_count": 14,
+				"created_at": "Mon Jun 12 23:01:34 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/988401205700317186/NtCGQmuy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/988401205700317186/NtCGQmuy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/874401319171178496/1524493856",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4791,
+			"favorite_count": 12919,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4791,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 25 01:05:59 +0000 2018",
 		"id": 988947195586986000,
 		"id_str": "988947195586985984",
