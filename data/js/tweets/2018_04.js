@@ -1,6 +1,773 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 29 22:28:15 +0000 2018",
+		"id": 990719440701419500,
+		"id_str": "990719440701419521",
+		"text": "Do you think $FB=Internet?? 🤔 https://t.co/ws9TcnboHk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [
+				{
+					"text": "FB",
+					"indices": [
+						13,
+						16
+					]
+				}
+			],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ws9TcnboHk",
+					"expanded_url": "https://twitter.com/max_fisher/status/988456093956403200",
+					"display_url": "twitter.com/max_fisher/sta…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44354,
+			"friends_count": 18509,
+			"listed_count": 1125,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11933,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12573,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 988456093956403200,
+		"quoted_status_id_str": "988456093956403200",
+		"quoted_status": {
+			"created_at": "Mon Apr 23 16:34:32 +0000 2018",
+			"id": 988456093956403200,
+			"id_str": "988456093956403200",
+			"text": "Facebook IS the internet for people in a lot of these countries. It comes pre-loaded on phones, sometimes a special… https://t.co/bjFX4R5cAD",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bjFX4R5cAD",
+						"expanded_url": "https://twitter.com/i/web/status/988456093956403200",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 988455571664842800,
+			"in_reply_to_status_id_str": "988455571664842752",
+			"in_reply_to_user_id": 17060020,
+			"in_reply_to_user_id_str": "17060020",
+			"in_reply_to_screen_name": "Max_Fisher",
+			"user": {
+				"id": 17060020,
+				"id_str": "17060020",
+				"name": "Max Fisher",
+				"screen_name": "Max_Fisher",
+				"location": "London, England",
+				"description": "Writer @nytimes for The Interpreter, a column exploring the ideas and context behind major world events.",
+				"url": "https://t.co/ryyN6lsGO1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ryyN6lsGO1",
+								"expanded_url": "http://www.nytimes.com/column/the-interpreter",
+								"display_url": "nytimes.com/column/the-int…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 125509,
+				"friends_count": 732,
+				"listed_count": 4274,
+				"created_at": "Thu Oct 30 04:30:12 +0000 2008",
+				"favourites_count": 8672,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 268,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/457075869/ai-urn02.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/457075869/ai-urn02.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/892505471550205952/jl27NSNE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/892505471550205952/jl27NSNE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17060020/1480992137",
+				"profile_link_color": "E0000D",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C6CAEB",
+				"profile_text_color": "565856",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 283,
+			"favorite_count": 392,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 29 22:22:07 +0000 2018",
+		"id": 990717893477204000,
+		"id_str": "990717893477203968",
+		"text": "@ChrisMakara You should check out @blockspring - access Twitter’s API from google sheets. Can do most of what the article does. Tres cool. 😎",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisMakara",
+					"name": "Chris Makara 👽",
+					"id": 23653818,
+					"id_str": "23653818",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Blockspring",
+					"name": "Blockspring",
+					"id": 2553394406,
+					"id_str": "2553394406",
+					"indices": [
+						34,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 990631814896259100,
+		"in_reply_to_status_id_str": "990631814896259074",
+		"in_reply_to_user_id": 23653818,
+		"in_reply_to_user_id_str": "23653818",
+		"in_reply_to_screen_name": "ChrisMakara",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44354,
+			"friends_count": 18509,
+			"listed_count": 1125,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11933,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12573,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 29 22:19:29 +0000 2018",
+		"id": 990717232853401600,
+		"id_str": "990717232853401600",
+		"text": "@ChrisMakara @S_Zakuu @cmwdesignagency @nirav_dave @ShailendraDave Useful!! Thanks!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisMakara",
+					"name": "Chris Makara 👽",
+					"id": 23653818,
+					"id_str": "23653818",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "S_Zakuu",
+					"name": "Simon Zaku",
+					"id": 3487831697,
+					"id_str": "3487831697",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "cmwdesignagency",
+					"name": "Capsicum Mediaworks",
+					"id": 2676323336,
+					"id_str": "2676323336",
+					"indices": [
+						22,
+						38
+					]
+				},
+				{
+					"screen_name": "nirav_dave",
+					"name": "Nirav Dave",
+					"id": 87951087,
+					"id_str": "87951087",
+					"indices": [
+						39,
+						50
+					]
+				},
+				{
+					"screen_name": "ShailendraDave",
+					"name": "Shailendra Dave",
+					"id": 141288035,
+					"id_str": "141288035",
+					"indices": [
+						51,
+						66
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 990370846907789300,
+		"in_reply_to_status_id_str": "990370846907789312",
+		"in_reply_to_user_id": 23653818,
+		"in_reply_to_user_id_str": "23653818",
+		"in_reply_to_screen_name": "ChrisMakara",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44354,
+			"friends_count": 18509,
+			"listed_count": 1125,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11933,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12573,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 29 22:19:18 +0000 2018",
+		"id": 990717186334277600,
+		"id_str": "990717186334277633",
+		"text": "RT @ChrisMakara: 301+ Best Expert Roundups on the Internet #experts #roundups @cmwdesignagency @nirav_dave @shailendradave https://t.co/PAM…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "experts",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"text": "roundups",
+					"indices": [
+						68,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisMakara",
+					"name": "Chris Makara 👽",
+					"id": 23653818,
+					"id_str": "23653818",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "cmwdesignagency",
+					"name": "Capsicum Mediaworks",
+					"id": 2676323336,
+					"id_str": "2676323336",
+					"indices": [
+						78,
+						94
+					]
+				},
+				{
+					"screen_name": "nirav_dave",
+					"name": "Nirav Dave",
+					"id": 87951087,
+					"id_str": "87951087",
+					"indices": [
+						95,
+						106
+					]
+				},
+				{
+					"screen_name": "ShailendraDave",
+					"name": "Shailendra Dave",
+					"id": 141288035,
+					"id_str": "141288035",
+					"indices": [
+						107,
+						122
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44354,
+			"friends_count": 18509,
+			"listed_count": 1125,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 11933,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12573,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 28 23:23:04 +0000 2018",
+			"id": 990370846907789300,
+			"id_str": "990370846907789312",
+			"text": "301+ Best Expert Roundups on the Internet #experts #roundups @cmwdesignagency @nirav_dave @shailendradave… https://t.co/SDojNiadMa",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "experts",
+						"indices": [
+							42,
+							50
+						]
+					},
+					{
+						"text": "roundups",
+						"indices": [
+							51,
+							60
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cmwdesignagency",
+						"name": "Capsicum Mediaworks",
+						"id": 2676323336,
+						"id_str": "2676323336",
+						"indices": [
+							61,
+							77
+						]
+					},
+					{
+						"screen_name": "nirav_dave",
+						"name": "Nirav Dave",
+						"id": 87951087,
+						"id_str": "87951087",
+						"indices": [
+							78,
+							89
+						]
+					},
+					{
+						"screen_name": "ShailendraDave",
+						"name": "Shailendra Dave",
+						"id": 141288035,
+						"id_str": "141288035",
+						"indices": [
+							90,
+							105
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SDojNiadMa",
+						"expanded_url": "https://twitter.com/i/web/status/990370846907789312",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23653818,
+				"id_str": "23653818",
+				"name": "Chris Makara 👽",
+				"screen_name": "ChrisMakara",
+				"location": "Houston, TX",
+				"description": "Digital Marketing Strategist & @Bulkly Founder [https://t.co/kcevSH1o8c] - Ambidextrous bowler skilled in #SEO, #SocialMedia, #Automation & #Analytics. 🍧🎳🏈",
+				"url": "https://t.co/on6D5RWnYn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/on6D5RWnYn",
+								"expanded_url": "http://chrismakara.com/about",
+								"display_url": "chrismakara.com/about",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/kcevSH1o8c",
+								"expanded_url": "https://bulk.ly",
+								"display_url": "bulk.ly",
+								"indices": [
+									48,
+									71
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 83520,
+				"friends_count": 37364,
+				"listed_count": 2435,
+				"created_at": "Tue Mar 10 20:48:30 +0000 2009",
+				"favourites_count": 4827,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 57314,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/174517209/Untitled-3.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/174517209/Untitled-3.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/561619871985721346/PZEf-ITH_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/561619871985721346/PZEf-ITH_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23653818/1504878809",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 29 18:01:44 +0000 2018",
 		"id": 990652365907923000,
 		"id_str": "990652365907922944",
