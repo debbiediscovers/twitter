@@ -1,6 +1,731 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Tue May 01 19:11:59 +0000 2018",
+		"id": 991394823046287400,
+		"id_str": "991394823046287360",
+		"text": "RT @messenger: Today we launched the ability for brands to integrate AR Camera Effects into their Messenger experience. More info here: htt…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "messenger",
+					"name": "Messenger",
+					"id": 2885229365,
+					"id_str": "2885229365",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44598,
+			"friends_count": 19852,
+			"listed_count": 1130,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12000,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12655,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 01 18:52:26 +0000 2018",
+			"id": 991389902829834200,
+			"id_str": "991389902829834240",
+			"text": "Today we launched the ability for brands to integrate AR Camera Effects into their Messenger experience. More info… https://t.co/TOKovRWRlR",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TOKovRWRlR",
+						"expanded_url": "https://twitter.com/i/web/status/991389902829834240",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2885229365,
+				"id_str": "2885229365",
+				"name": "Messenger",
+				"screen_name": "messenger",
+				"location": "",
+				"description": "Messenger is the best way to communicate with all the people and businesses in the world.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16816,
+				"friends_count": 122,
+				"listed_count": 194,
+				"created_at": "Thu Nov 20 03:04:53 +0000 2014",
+				"favourites_count": 335,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 693,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678748795023155200/MD7Qvece.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678748795023155200/MD7Qvece.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/542760901812580354/1EyAE_qN_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/542760901812580354/1EyAE_qN_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2885229365/1453759077",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 01 19:11:47 +0000 2018",
+		"id": 991394771854704600,
+		"id_str": "991394771854704640",
+		"text": "RT @messenger: AR Camera Effects are available today in the Messenger experiences from @ASUS, @KIA, @Nike, and @Sephora. While messaging, t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "messenger",
+					"name": "Messenger",
+					"id": 2885229365,
+					"id_str": "2885229365",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "ASUS",
+					"name": "ASUS",
+					"id": 591646425,
+					"id_str": "591646425",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"screen_name": "Kia",
+					"name": "Kia Motors America",
+					"id": 23689478,
+					"id_str": "23689478",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"screen_name": "Nike",
+					"name": "Nike",
+					"id": 415859364,
+					"id_str": "415859364",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"screen_name": "Sephora",
+					"name": "Sephora",
+					"id": 46186400,
+					"id_str": "46186400",
+					"indices": [
+						111,
+						119
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44598,
+			"friends_count": 19852,
+			"listed_count": 1130,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12000,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12655,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 01 18:52:27 +0000 2018",
+			"id": 991389904868278300,
+			"id_str": "991389904868278272",
+			"text": "AR Camera Effects are available today in the Messenger experiences from @ASUS, @KIA, @Nike, and @Sephora. While mes… https://t.co/OwcqP8wjCf",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ASUS",
+						"name": "ASUS",
+						"id": 591646425,
+						"id_str": "591646425",
+						"indices": [
+							72,
+							77
+						]
+					},
+					{
+						"screen_name": "Kia",
+						"name": "Kia Motors America",
+						"id": 23689478,
+						"id_str": "23689478",
+						"indices": [
+							79,
+							83
+						]
+					},
+					{
+						"screen_name": "Nike",
+						"name": "Nike",
+						"id": 415859364,
+						"id_str": "415859364",
+						"indices": [
+							85,
+							90
+						]
+					},
+					{
+						"screen_name": "Sephora",
+						"name": "Sephora",
+						"id": 46186400,
+						"id_str": "46186400",
+						"indices": [
+							96,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/OwcqP8wjCf",
+						"expanded_url": "https://twitter.com/i/web/status/991389904868278272",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 991389902829834200,
+			"in_reply_to_status_id_str": "991389902829834240",
+			"in_reply_to_user_id": 2885229365,
+			"in_reply_to_user_id_str": "2885229365",
+			"in_reply_to_screen_name": "messenger",
+			"user": {
+				"id": 2885229365,
+				"id_str": "2885229365",
+				"name": "Messenger",
+				"screen_name": "messenger",
+				"location": "",
+				"description": "Messenger is the best way to communicate with all the people and businesses in the world.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16816,
+				"friends_count": 122,
+				"listed_count": 194,
+				"created_at": "Thu Nov 20 03:04:53 +0000 2014",
+				"favourites_count": 335,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 693,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678748795023155200/MD7Qvece.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678748795023155200/MD7Qvece.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/542760901812580354/1EyAE_qN_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/542760901812580354/1EyAE_qN_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2885229365/1453759077",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 01 18:31:23 +0000 2018",
+		"id": 991384605650538500,
+		"id_str": "991384605650538497",
+		"text": "RT @debbiediscovers: #Chatbots + #AI = #Awesome - Debbie Kay and Artificial Intelligence for your Chatbot - thanks @YakkerBotTalk for this…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Chatbots",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "Awesome",
+					"indices": [
+						39,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "YakkerBotTalk",
+					"name": "YakkerBotTalkPodcast",
+					"id": 919045859911786500,
+					"id_str": "919045859911786496",
+					"indices": [
+						115,
+						129
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://debbiediscovers.com\" rel=\"nofollow\">TWITTER LIST ADDER</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44598,
+			"friends_count": 19852,
+			"listed_count": 1130,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12000,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12655,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 01 17:54:00 +0000 2018",
+			"id": 991375195700068400,
+			"id_str": "991375195700068358",
+			"text": "#Chatbots + #AI = #Awesome - Debbie Kay and Artificial Intelligence for your Chatbot - thanks @YakkerBotTalk for th… https://t.co/JZp9MKxSSc",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Chatbots",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "AI",
+						"indices": [
+							12,
+							15
+						]
+					},
+					{
+						"text": "Awesome",
+						"indices": [
+							18,
+							26
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "YakkerBotTalk",
+						"name": "YakkerBotTalkPodcast",
+						"id": 919045859911786500,
+						"id_str": "919045859911786496",
+						"indices": [
+							94,
+							108
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/JZp9MKxSSc",
+						"expanded_url": "https://twitter.com/i/web/status/991375195700068358",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://manager.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44598,
+				"friends_count": 19852,
+				"listed_count": 1130,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 12000,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12655,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue May 01 18:01:47 +0000 2018",
 		"id": 991377154171719700,
 		"id_str": "991377154171719680",
