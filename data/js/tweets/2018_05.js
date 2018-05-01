@@ -1,6 +1,522 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Tue May 01 19:44:46 +0000 2018",
+		"id": 991403074269823000,
+		"id_str": "991403074269822976",
+		"text": "RT @DigitalMktAsia: How @Nike got #footwear fanatics waiting in-line on @Instagram - https://t.co/7wGP5xTOGC\n\n@PoVipovi #AirMaxLine #Campai…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "footwear",
+					"indices": [
+						34,
+						43
+					]
+				},
+				{
+					"text": "AirMaxLine",
+					"indices": [
+						120,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DigitalMktAsia",
+					"name": "Digital Market Asia",
+					"id": 361672383,
+					"id_str": "361672383",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "Nike",
+					"name": "Nike",
+					"id": 415859364,
+					"id_str": "415859364",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"screen_name": "instagram",
+					"name": "Instagram",
+					"id": 180505807,
+					"id_str": "180505807",
+					"indices": [
+						72,
+						82
+					]
+				},
+				{
+					"screen_name": "povipovi",
+					"name": "이정원 (Lee, Jungwon)",
+					"id": 106320367,
+					"id_str": "106320367",
+					"indices": [
+						110,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7wGP5xTOGC",
+					"expanded_url": "http://bit.ly/2Hvyo0h",
+					"display_url": "bit.ly/2Hvyo0h",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44603,
+			"friends_count": 19916,
+			"listed_count": 1123,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12002,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 27 05:32:51 +0000 2018",
+			"id": 989739130899722200,
+			"id_str": "989739130899722240",
+			"text": "How @Nike got #footwear fanatics waiting in-line on @Instagram - https://t.co/7wGP5xTOGC\n\n@PoVipovi #AirMaxLine… https://t.co/spp9dWQFbw",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "footwear",
+						"indices": [
+							14,
+							23
+						]
+					},
+					{
+						"text": "AirMaxLine",
+						"indices": [
+							100,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Nike",
+						"name": "Nike",
+						"id": 415859364,
+						"id_str": "415859364",
+						"indices": [
+							4,
+							9
+						]
+					},
+					{
+						"screen_name": "instagram",
+						"name": "Instagram",
+						"id": 180505807,
+						"id_str": "180505807",
+						"indices": [
+							52,
+							62
+						]
+					},
+					{
+						"screen_name": "povipovi",
+						"name": "이정원 (Lee, Jungwon)",
+						"id": 106320367,
+						"id_str": "106320367",
+						"indices": [
+							90,
+							99
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7wGP5xTOGC",
+						"expanded_url": "http://bit.ly/2Hvyo0h",
+						"display_url": "bit.ly/2Hvyo0h",
+						"indices": [
+							65,
+							88
+						]
+					},
+					{
+						"url": "https://t.co/spp9dWQFbw",
+						"expanded_url": "https://twitter.com/i/web/status/989739130899722240",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 361672383,
+				"id_str": "361672383",
+				"name": "Digital Market Asia",
+				"screen_name": "DigitalMktAsia",
+				"location": "APAC, based in Singapore",
+				"description": "Conversations & developments that matter to Marketing, Media & Advtg professionals... who share the belief that digital is not a domain but the era we live in",
+				"url": "http://t.co/IEt06MXr8n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/IEt06MXr8n",
+								"expanded_url": "http://www.digitalmarket.asia",
+								"display_url": "digitalmarket.asia",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5107,
+				"friends_count": 1023,
+				"listed_count": 578,
+				"created_at": "Thu Aug 25 04:26:11 +0000 2011",
+				"favourites_count": 2104,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11726,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/445375860862746624/iTlvIhDR.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/445375860862746624/iTlvIhDR.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/489697880634957824/gWTXmbsG_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/489697880634957824/gWTXmbsG_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/361672383/1439315763",
+				"profile_link_color": "D01313",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FAF7FA",
+				"profile_text_color": "E30707",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 01 19:13:00 +0000 2018",
+		"id": 991395076436705300,
+		"id_str": "991395076436705280",
+		"text": "@MarcLittlemore @messenger  https://t.co/EDQoKreUv5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarcLittlemore",
+					"name": "Marc Littlemore",
+					"id": 14449910,
+					"id_str": "14449910",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "messenger",
+					"name": "Messenger",
+					"id": 2885229365,
+					"id_str": "2885229365",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 991395062033465300,
+					"id_str": "991395062033465344",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DcIkjmiUwAAWbub.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DcIkjmiUwAAWbub.jpg",
+					"url": "https://t.co/EDQoKreUv5",
+					"display_url": "pic.twitter.com/EDQoKreUv5",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/991395076436705280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 356,
+							"h": 252,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 356,
+							"h": 252,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 356,
+							"h": 252,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 991395062033465300,
+					"id_str": "991395062033465344",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DcIkjmiUwAAWbub.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DcIkjmiUwAAWbub.jpg",
+					"url": "https://t.co/EDQoKreUv5",
+					"display_url": "pic.twitter.com/EDQoKreUv5",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/991395076436705280/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 356,
+							"h": 252,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 356,
+							"h": 252,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 356,
+							"h": 252,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							89,
+							63
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DcIkjmiUwAAWbub.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 991394322825252900,
+		"in_reply_to_status_id_str": "991394322825252869",
+		"in_reply_to_user_id": 14449910,
+		"in_reply_to_user_id_str": "14449910",
+		"in_reply_to_screen_name": "MarcLittlemore",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44603,
+			"friends_count": 19916,
+			"listed_count": 1123,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12002,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue May 01 19:11:59 +0000 2018",
 		"id": 991394823046287400,
 		"id_str": "991394823046287360",
