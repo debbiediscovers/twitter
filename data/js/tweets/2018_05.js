@@ -1,6 +1,1080 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sun May 06 18:01:45 +0000 2018",
+		"id": 993189086327341000,
+		"id_str": "993189086327341056",
+		"text": "RT @debbiediscovers: Gimme See's Candies any day!!! #diehardfan https://t.co/vziYWEfv0P",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "diehardfan",
+					"indices": [
+						52,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vziYWEfv0P",
+					"expanded_url": "https://buff.ly/2wboj7s",
+					"display_url": "buff.ly/2wboj7s",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://debbiediscovers.com\" rel=\"nofollow\">TWITTER LIST ADDER</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44828,
+			"friends_count": 18807,
+			"listed_count": 1132,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12066,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12805,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 06 10:20:03 +0000 2018",
+			"id": 993072894262612000,
+			"id_str": "993072894262611968",
+			"text": "Gimme See's Candies any day!!! #diehardfan https://t.co/vziYWEfv0P",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "diehardfan",
+						"indices": [
+							31,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vziYWEfv0P",
+						"expanded_url": "https://buff.ly/2wboj7s",
+						"display_url": "buff.ly/2wboj7s",
+						"indices": [
+							43,
+							66
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44828,
+				"friends_count": 18807,
+				"listed_count": 1132,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 12066,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12805,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun May 06 18:01:41 +0000 2018",
+		"id": 993189068312850400,
+		"id_str": "993189068312850438",
+		"text": "RT @debbiediscovers: The Artificial Intelligence Opportunity: A Camel to Cars Moment #AI #Marketing https://t.co/cnMX7h6iRN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "Marketing",
+					"indices": [
+						89,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cnMX7h6iRN",
+					"expanded_url": "https://buff.ly/2EHva8o",
+					"display_url": "buff.ly/2EHva8o",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://debbiediscovers.com\" rel=\"nofollow\">TWITTER LIST ADDER</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44828,
+			"friends_count": 18807,
+			"listed_count": 1132,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12066,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12805,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 06 13:30:15 +0000 2018",
+			"id": 993120761987690500,
+			"id_str": "993120761987690499",
+			"text": "The Artificial Intelligence Opportunity: A Camel to Cars Moment #AI #Marketing https://t.co/cnMX7h6iRN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AI",
+						"indices": [
+							64,
+							67
+						]
+					},
+					{
+						"text": "Marketing",
+						"indices": [
+							68,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cnMX7h6iRN",
+						"expanded_url": "https://buff.ly/2EHva8o",
+						"display_url": "buff.ly/2EHva8o",
+						"indices": [
+							79,
+							102
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44828,
+				"friends_count": 18807,
+				"listed_count": 1132,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 12066,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12805,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun May 06 18:01:32 +0000 2018",
+		"id": 993189033315577900,
+		"id_str": "993189033315577859",
+		"text": "RT @debbiediscovers: Artificial Intelligence: Terms Marketers Need to Know #AI #Marketing https://t.co/cVMqn9qsJ7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "Marketing",
+					"indices": [
+						79,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cVMqn9qsJ7",
+					"expanded_url": "https://buff.ly/2CbXu5h",
+					"display_url": "buff.ly/2CbXu5h",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://debbiediscovers.com\" rel=\"nofollow\">TWITTER LIST ADDER</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44828,
+			"friends_count": 18807,
+			"listed_count": 1132,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12066,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12805,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 06 16:00:03 +0000 2018",
+			"id": 993158459062448100,
+			"id_str": "993158459062448128",
+			"text": "Artificial Intelligence: Terms Marketers Need to Know #AI #Marketing https://t.co/cVMqn9qsJ7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AI",
+						"indices": [
+							54,
+							57
+						]
+					},
+					{
+						"text": "Marketing",
+						"indices": [
+							58,
+							68
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cVMqn9qsJ7",
+						"expanded_url": "https://buff.ly/2CbXu5h",
+						"display_url": "buff.ly/2CbXu5h",
+						"indices": [
+							69,
+							92
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44828,
+				"friends_count": 18807,
+				"listed_count": 1132,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 12066,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12805,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun May 06 18:01:23 +0000 2018",
+		"id": 993188993578754000,
+		"id_str": "993188993578754049",
+		"text": "RT @debbiediscovers: \"Top Tips on Voice Search: Artificial Intelligence, Location and SEO #AI #Marketing https://t.co/hvQRsMCR5A\"",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "Marketing",
+					"indices": [
+						94,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hvQRsMCR5A",
+					"expanded_url": "https://buff.ly/2EHeEFv",
+					"display_url": "buff.ly/2EHeEFv",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://debbiediscovers.com\" rel=\"nofollow\">TWITTER LIST ADDER</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44828,
+			"friends_count": 18807,
+			"listed_count": 1132,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12066,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12805,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 06 17:20:02 +0000 2018",
+			"id": 993178590295593000,
+			"id_str": "993178590295592960",
+			"text": "\"Top Tips on Voice Search: Artificial Intelligence, Location and SEO #AI #Marketing https://t.co/hvQRsMCR5A\"",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AI",
+						"indices": [
+							69,
+							72
+						]
+					},
+					{
+						"text": "Marketing",
+						"indices": [
+							73,
+							83
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hvQRsMCR5A",
+						"expanded_url": "https://buff.ly/2EHeEFv",
+						"display_url": "buff.ly/2EHeEFv",
+						"indices": [
+							84,
+							107
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44828,
+				"friends_count": 18807,
+				"listed_count": 1132,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 12066,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12805,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun May 06 17:20:02 +0000 2018",
+		"id": 993178590295593000,
+		"id_str": "993178590295592960",
+		"text": "\"Top Tips on Voice Search: Artificial Intelligence, Location and SEO #AI #Marketing https://t.co/hvQRsMCR5A\"",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "Marketing",
+					"indices": [
+						73,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hvQRsMCR5A",
+					"expanded_url": "https://buff.ly/2EHeEFv",
+					"display_url": "buff.ly/2EHeEFv",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44828,
+			"friends_count": 18807,
+			"listed_count": 1132,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12066,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12805,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun May 06 16:00:03 +0000 2018",
 		"id": 993158459062448100,
 		"id_str": "993158459062448128",
