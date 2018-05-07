@@ -1,6 +1,634 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Mon May 07 03:43:09 +0000 2018",
+		"id": 993335400901951500,
+		"id_str": "993335400901951488",
+		"text": "@yorudan @aaronlintz @benlcollins @tipprbot LOL how vain. 😋 He's not active on the platform. Last post was Dec 2017… https://t.co/zOohEgLXY8",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yorudan",
+					"name": "Jordan Davis 『夜弾』",
+					"id": 53448035,
+					"id_str": "53448035",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "aaronlintz",
+					"name": "Aaron Lintz",
+					"id": 229213968,
+					"id_str": "229213968",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						21,
+						33
+					]
+				},
+				{
+					"screen_name": "tipprbot",
+					"name": "tippr",
+					"id": 904924787625136100,
+					"id_str": "904924787625136129",
+					"indices": [
+						34,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zOohEgLXY8",
+					"expanded_url": "https://twitter.com/i/web/status/993335400901951488",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 993333528409473000,
+		"in_reply_to_status_id_str": "993333528409473024",
+		"in_reply_to_user_id": 53448035,
+		"in_reply_to_user_id_str": "53448035",
+		"in_reply_to_screen_name": "yorudan",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44830,
+			"friends_count": 18780,
+			"listed_count": 1129,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12084,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12824,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon May 07 03:34:10 +0000 2018",
+		"id": 993333138246922200,
+		"id_str": "993333138246922242",
+		"text": "@yorudan @aaronlintz @benlcollins I'll tell you my secrets if you'll tell me yours.. https://t.co/awscQJjk7H",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yorudan",
+					"name": "Jordan Davis 『夜弾』",
+					"id": 53448035,
+					"id_str": "53448035",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "aaronlintz",
+					"name": "Aaron Lintz",
+					"id": 229213968,
+					"id_str": "229213968",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						21,
+						33
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 993333125026480100,
+					"id_str": "993333125026480128",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DckHNtzVAAAqb7B.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DckHNtzVAAAqb7B.jpg",
+					"url": "https://t.co/awscQJjk7H",
+					"display_url": "pic.twitter.com/awscQJjk7H",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/993333138246922242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 498,
+							"h": 196,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 196,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 196,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 993333125026480100,
+					"id_str": "993333125026480128",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DckHNtzVAAAqb7B.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DckHNtzVAAAqb7B.jpg",
+					"url": "https://t.co/awscQJjk7H",
+					"display_url": "pic.twitter.com/awscQJjk7H",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/993333138246922242/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 498,
+							"h": 196,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 196,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 196,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							98
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DckHNtzVAAAqb7B.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 993332724541800400,
+		"in_reply_to_status_id_str": "993332724541800448",
+		"in_reply_to_user_id": 53448035,
+		"in_reply_to_user_id_str": "53448035",
+		"in_reply_to_screen_name": "yorudan",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44830,
+			"friends_count": 18780,
+			"listed_count": 1129,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12084,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12824,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon May 07 03:32:26 +0000 2018",
+		"id": 993332704564293600,
+		"id_str": "993332704564293632",
+		"text": "@yorudan @aaronlintz @benlcollins @tipprbot Am sure we can make it work out for you. I'm in an Instagram group on F… https://t.co/7aK33KJmTC",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yorudan",
+					"name": "Jordan Davis 『夜弾』",
+					"id": 53448035,
+					"id_str": "53448035",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "aaronlintz",
+					"name": "Aaron Lintz",
+					"id": 229213968,
+					"id_str": "229213968",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						21,
+						33
+					]
+				},
+				{
+					"screen_name": "tipprbot",
+					"name": "tippr",
+					"id": 904924787625136100,
+					"id_str": "904924787625136129",
+					"indices": [
+						34,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7aK33KJmTC",
+					"expanded_url": "https://twitter.com/i/web/status/993332704564293632",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 993332217865629700,
+		"in_reply_to_status_id_str": "993332217865629696",
+		"in_reply_to_user_id": 53448035,
+		"in_reply_to_user_id_str": "53448035",
+		"in_reply_to_screen_name": "yorudan",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44830,
+			"friends_count": 18780,
+			"listed_count": 1129,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12084,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12824,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon May 07 03:25:35 +0000 2018",
+		"id": 993330978645934100,
+		"id_str": "993330978645934080",
+		"text": "@yorudan @aaronlintz @benlcollins Instagram has the same problem for K and M followers. I can guarantee you interes… https://t.co/6yhg5ZP1bh",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yorudan",
+					"name": "Jordan Davis 『夜弾』",
+					"id": 53448035,
+					"id_str": "53448035",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "aaronlintz",
+					"name": "Aaron Lintz",
+					"id": 229213968,
+					"id_str": "229213968",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						21,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6yhg5ZP1bh",
+					"expanded_url": "https://twitter.com/i/web/status/993330978645934080",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 993330375295320000,
+		"in_reply_to_status_id_str": "993330375295320064",
+		"in_reply_to_user_id": 53448035,
+		"in_reply_to_user_id_str": "53448035",
+		"in_reply_to_screen_name": "yorudan",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44830,
+			"friends_count": 18780,
+			"listed_count": 1129,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12084,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12824,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon May 07 02:00:01 +0000 2018",
 		"id": 993309446070616000,
 		"id_str": "993309446070616064",
