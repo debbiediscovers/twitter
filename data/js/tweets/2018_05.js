@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Wed May 09 10:48:04 +0000 2018",
+		"id": 994167112179499000,
+		"id_str": "994167112179499008",
+		"text": "@StornOli @GA_London @0rchestras @0rchestra This one! Followers of @0rchestras bio cloud https://t.co/vY4qJwungi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StornOli",
+					"name": "𝓞𝓵𝓲  𝓢𝓽𝓮𝓪𝓭𝓶𝓪𝓷  🧗‍♀️",
+					"id": 300126716,
+					"id_str": "300126716",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "GA_London",
+					"name": "General Assembly LON",
+					"id": 444874885,
+					"id_str": "444874885",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "0rchestras",
+					"name": "World Orchestras",
+					"id": 766292732126036000,
+					"id_str": "766292732126035969",
+					"indices": [
+						21,
+						32
+					]
+				},
+				{
+					"screen_name": "0rchestra",
+					"name": "Derick Wells",
+					"id": 1323435492,
+					"id_str": "1323435492",
+					"indices": [
+						33,
+						43
+					]
+				},
+				{
+					"screen_name": "0rchestras",
+					"name": "World Orchestras",
+					"id": 766292732126036000,
+					"id_str": "766292732126035969",
+					"indices": [
+						67,
+						78
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 994167103363022800,
+					"id_str": "994167103363022848",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Dcv9tpNVAAALGlY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dcv9tpNVAAALGlY.jpg",
+					"url": "https://t.co/vY4qJwungi",
+					"display_url": "pic.twitter.com/vY4qJwungi",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/994167112179499008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 539,
+							"h": 59,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 539,
+							"h": 59,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 539,
+							"h": 59,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 59,
+							"h": 59,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 994167103363022800,
+					"id_str": "994167103363022848",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Dcv9tpNVAAALGlY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dcv9tpNVAAALGlY.jpg",
+					"url": "https://t.co/vY4qJwungi",
+					"display_url": "pic.twitter.com/vY4qJwungi",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/994167112179499008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 539,
+							"h": 59,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 539,
+							"h": 59,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 539,
+							"h": 59,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 59,
+							"h": 59,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 994166917131747300,
+		"in_reply_to_status_id_str": "994166917131747328",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44856,
+			"friends_count": 19574,
+			"listed_count": 1135,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12136,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12888,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed May 09 10:47:18 +0000 2018",
+		"id": 994166917131747300,
+		"id_str": "994166917131747328",
+		"text": "@StornOli @GA_London @0rchestras Oh nice. I’m a GA fan too. Did dash. 😍❤️ hah Glad you like my @0rchestra account!… https://t.co/0ysk42wDAh",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StornOli",
+					"name": "𝓞𝓵𝓲  𝓢𝓽𝓮𝓪𝓭𝓶𝓪𝓷  🧗‍♀️",
+					"id": 300126716,
+					"id_str": "300126716",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "GA_London",
+					"name": "General Assembly LON",
+					"id": 444874885,
+					"id_str": "444874885",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "0rchestras",
+					"name": "World Orchestras",
+					"id": 766292732126036000,
+					"id_str": "766292732126035969",
+					"indices": [
+						21,
+						32
+					]
+				},
+				{
+					"screen_name": "0rchestra",
+					"name": "Derick Wells",
+					"id": 1323435492,
+					"id_str": "1323435492",
+					"indices": [
+						95,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0ysk42wDAh",
+					"expanded_url": "https://twitter.com/i/web/status/994166917131747328",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 994158063610486800,
+		"in_reply_to_status_id_str": "994158063610486785",
+		"in_reply_to_user_id": 300126716,
+		"in_reply_to_user_id_str": "300126716",
+		"in_reply_to_screen_name": "StornOli",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44856,
+			"friends_count": 19574,
+			"listed_count": 1135,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12136,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12888,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed May 09 10:31:15 +0000 2018",
+		"id": 994162880152047600,
+		"id_str": "994162880152047616",
+		"text": "And why not?! 🧡✴️ #E53935 #materialdesign #wednesdaywidsom #typesofkind #30shadesofkind #kindcomments… https://t.co/yVwgqPkGdG",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "E53935",
+					"indices": [
+						18,
+						25
+					]
+				},
+				{
+					"text": "materialdesign",
+					"indices": [
+						26,
+						41
+					]
+				},
+				{
+					"text": "wednesdaywidsom",
+					"indices": [
+						42,
+						58
+					]
+				},
+				{
+					"text": "typesofkind",
+					"indices": [
+						59,
+						71
+					]
+				},
+				{
+					"text": "30shadesofkind",
+					"indices": [
+						72,
+						87
+					]
+				},
+				{
+					"text": "kindcomments",
+					"indices": [
+						88,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yVwgqPkGdG",
+					"expanded_url": "https://twitter.com/i/web/status/994162880152047616",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44856,
+			"friends_count": 19574,
+			"listed_count": 1135,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12136,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12888,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 09 10:05:23 +0000 2018",
 		"id": 994156369140891600,
 		"id_str": "994156369140891648",
@@ -12,7 +518,7 @@ Grailbird.data.tweets_2018_05 =
 			"user_mentions": [
 				{
 					"screen_name": "StornOli",
-					"name": "𝓞𝓵𝓲  𝓢𝓽𝓮𝓪𝓭𝓶𝓪𝓷  🧗‍♀️",
+					"name": "𝓞𝓵𝓲  𝓢𝓽𝓮𝓪𝓭𝓶𝓪𝓷  🧗♀️",
 					"id": 300126716,
 					"id_str": "300126716",
 					"indices": [
@@ -113,7 +619,7 @@ Grailbird.data.tweets_2018_05 =
 			"user_mentions": [
 				{
 					"screen_name": "StornOli",
-					"name": "𝓞𝓵𝓲  𝓢𝓽𝓮𝓪𝓭𝓶𝓪𝓷  🧗‍♀️",
+					"name": "𝓞𝓵𝓲  𝓢𝓽𝓮𝓪𝓭𝓶𝓪𝓷  🧗♀️",
 					"id": 300126716,
 					"id_str": "300126716",
 					"indices": [
@@ -415,7 +921,7 @@ Grailbird.data.tweets_2018_05 =
 			"user_mentions": [
 				{
 					"screen_name": "StornOli",
-					"name": "𝓞𝓵𝓲  𝓢𝓽𝓮𝓪𝓭𝓶𝓪𝓷  🧗‍♀️",
+					"name": "𝓞𝓵𝓲  𝓢𝓽𝓮𝓪𝓭𝓶𝓪𝓷  🧗♀️",
 					"id": 300126716,
 					"id_str": "300126716",
 					"indices": [
