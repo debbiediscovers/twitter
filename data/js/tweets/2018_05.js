@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Thu May 10 04:53:45 +0000 2018",
+		"id": 994440330429612000,
+		"id_str": "994440330429612032",
+		"text": "RT @BangtanSeaDayak: #GE14\n\n1st ever Deputy Prime Minister of Malaysia a female. A history. https://t.co/UD1wbs7n5F",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GE14",
+					"indices": [
+						21,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BangtanSeaDayak",
+					"name": "SINGULARITY IS THAT SONG",
+					"id": 900589541819416600,
+					"id_str": "900589541819416577",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 994330861406310400,
+					"id_str": "994330861406310402",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/DcySpndU0AI0nmA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcySpndU0AI0nmA.jpg",
+					"url": "https://t.co/UD1wbs7n5F",
+					"display_url": "pic.twitter.com/UD1wbs7n5F",
+					"expanded_url": "https://twitter.com/BangtanSeaDayak/status/994330873704075264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 890,
+							"h": 890,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 890,
+							"h": 890,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 994330873704075300,
+					"source_status_id_str": "994330873704075264",
+					"source_user_id": 900589541819416600,
+					"source_user_id_str": "900589541819416577"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 994330861406310400,
+					"id_str": "994330861406310402",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/DcySpndU0AI0nmA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcySpndU0AI0nmA.jpg",
+					"url": "https://t.co/UD1wbs7n5F",
+					"display_url": "pic.twitter.com/UD1wbs7n5F",
+					"expanded_url": "https://twitter.com/BangtanSeaDayak/status/994330873704075264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 890,
+							"h": 890,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 890,
+							"h": 890,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 994330873704075300,
+					"source_status_id_str": "994330873704075264",
+					"source_user_id": 900589541819416600,
+					"source_user_id_str": "900589541819416577"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44987,
+			"friends_count": 20141,
+			"listed_count": 1138,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12157,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12909,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 09 21:38:48 +0000 2018",
+			"id": 994330873704075300,
+			"id_str": "994330873704075264",
+			"text": "#GE14\n\n1st ever Deputy Prime Minister of Malaysia a female. A history. https://t.co/UD1wbs7n5F",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GE14",
+						"indices": [
+							0,
+							5
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 994330861406310400,
+						"id_str": "994330861406310402",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DcySpndU0AI0nmA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcySpndU0AI0nmA.jpg",
+						"url": "https://t.co/UD1wbs7n5F",
+						"display_url": "pic.twitter.com/UD1wbs7n5F",
+						"expanded_url": "https://twitter.com/BangtanSeaDayak/status/994330873704075264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 890,
+								"h": 890,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 890,
+								"h": 890,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 994330861406310400,
+						"id_str": "994330861406310402",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DcySpndU0AI0nmA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcySpndU0AI0nmA.jpg",
+						"url": "https://t.co/UD1wbs7n5F",
+						"display_url": "pic.twitter.com/UD1wbs7n5F",
+						"expanded_url": "https://twitter.com/BangtanSeaDayak/status/994330873704075264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 890,
+								"h": 890,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 890,
+								"h": 890,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 900589541819416600,
+				"id_str": "900589541819416577",
+				"name": "SINGULARITY IS THAT SONG",
+				"screen_name": "BangtanSeaDayak",
+				"location": "",
+				"description": "BTS IS KING OF PROVING HATERS WRONG.\nCritically acclaimed,academically recognized,politically discussed,historically acknowledge,worldclass artist.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5617,
+				"friends_count": 772,
+				"listed_count": 38,
+				"created_at": "Thu Aug 24 05:24:13 +0000 2017",
+				"favourites_count": 45915,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 69047,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/992371598140162049/QSq-CiB7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/992371598140162049/QSq-CiB7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/900589541819416577/1525802063",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 390,
+			"favorite_count": 954,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 390,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu May 10 04:02:32 +0000 2018",
 		"id": 994427442449154000,
 		"id_str": "994427442449154049",
