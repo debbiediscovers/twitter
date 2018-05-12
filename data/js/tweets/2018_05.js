@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sat May 12 07:42:33 +0000 2018",
+		"id": 995207585836875800,
+		"id_str": "995207585836875776",
+		"text": "RT @6aiaman: How to use Google Sheets to build Chatbots https://t.co/FDt5ejWh7E https://t.co/88icgMfBfJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "6aiaman",
+					"name": "Baiaman U. 🤖 📊",
+					"id": 247837876,
+					"id_str": "247837876",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FDt5ejWh7E",
+					"expanded_url": "http://buff.ly/2q0SFmB",
+					"display_url": "buff.ly/2q0SFmB",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 861805436634189800,
+					"id_str": "861805436634189824",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C_W_eoQU0AAJK5T.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C_W_eoQU0AAJK5T.jpg",
+					"url": "https://t.co/88icgMfBfJ",
+					"display_url": "pic.twitter.com/88icgMfBfJ",
+					"expanded_url": "https://twitter.com/BaiamanUrmatbek/status/861805447044628480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 329,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 580,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 660,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 861805447044628500,
+					"source_status_id_str": "861805447044628480",
+					"source_user_id": 247837876,
+					"source_user_id_str": "247837876"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 861805436634189800,
+					"id_str": "861805436634189824",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C_W_eoQU0AAJK5T.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C_W_eoQU0AAJK5T.jpg",
+					"url": "https://t.co/88icgMfBfJ",
+					"display_url": "pic.twitter.com/88icgMfBfJ",
+					"expanded_url": "https://twitter.com/BaiamanUrmatbek/status/861805447044628480/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 329,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 580,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 660,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 861805447044628500,
+					"source_status_id_str": "861805447044628480",
+					"source_user_id": 247837876,
+					"source_user_id_str": "247837876",
+					"video_info": {
+						"aspect_ratio": [
+							683,
+							330
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C_W_eoQU0AAJK5T.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45165,
+			"friends_count": 20785,
+			"listed_count": 1134,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12183,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12952,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 09 04:50:04 +0000 2017",
+			"id": 861805447044628500,
+			"id_str": "861805447044628480",
+			"text": "How to use Google Sheets to build Chatbots https://t.co/FDt5ejWh7E https://t.co/88icgMfBfJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FDt5ejWh7E",
+						"expanded_url": "http://buff.ly/2q0SFmB",
+						"display_url": "buff.ly/2q0SFmB",
+						"indices": [
+							43,
+							66
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 861805436634189800,
+						"id_str": "861805436634189824",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C_W_eoQU0AAJK5T.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C_W_eoQU0AAJK5T.jpg",
+						"url": "https://t.co/88icgMfBfJ",
+						"display_url": "pic.twitter.com/88icgMfBfJ",
+						"expanded_url": "https://twitter.com/BaiamanUrmatbek/status/861805447044628480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 329,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 580,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1366,
+								"h": 660,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 861805436634189800,
+						"id_str": "861805436634189824",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C_W_eoQU0AAJK5T.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C_W_eoQU0AAJK5T.jpg",
+						"url": "https://t.co/88icgMfBfJ",
+						"display_url": "pic.twitter.com/88icgMfBfJ",
+						"expanded_url": "https://twitter.com/BaiamanUrmatbek/status/861805447044628480/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 329,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 580,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1366,
+								"h": 660,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								683,
+								330
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C_W_eoQU0AAJK5T.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 247837876,
+				"id_str": "247837876",
+				"name": "Baiaman U. 🤖 📊",
+				"screen_name": "6aiaman",
+				"location": "Toronto, Ontario",
+				"description": "Growth Marketer @2ndskiin & @myantandco #wearabletech #smartclothing",
+				"url": "https://t.co/Oe4Jxe26h0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Oe4Jxe26h0",
+								"expanded_url": "http://baiaman.com",
+								"display_url": "baiaman.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 536,
+				"friends_count": 644,
+				"listed_count": 39,
+				"created_at": "Sat Feb 05 17:39:28 +0000 2011",
+				"favourites_count": 33,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8069,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/962431601723486209/AqeGJuog_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/962431601723486209/AqeGJuog_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/247837876/1494528730",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 44,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 12 07:42:28 +0000 2018",
+		"id": 995207566337572900,
+		"id_str": "995207566337572864",
+		"text": "@6aiaman This is pretty cool. :)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "6aiaman",
+					"name": "Baiaman U. 🤖 📊",
+					"id": 247837876,
+					"id_str": "247837876",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 861805447044628500,
+		"in_reply_to_status_id_str": "861805447044628480",
+		"in_reply_to_user_id": 247837876,
+		"in_reply_to_user_id_str": "247837876",
+		"in_reply_to_screen_name": "6aiaman",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45165,
+			"friends_count": 20785,
+			"listed_count": 1134,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12183,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12952,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 12 06:36:33 +0000 2018",
 		"id": 995190976481284100,
 		"id_str": "995190976481284096",
