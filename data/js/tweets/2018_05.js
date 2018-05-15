@@ -1,6 +1,1494 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Tue May 15 21:08:57 +0000 2018",
+		"id": 996497686705594400,
+		"id_str": "996497686705594368",
+		"text": "@CanBlogThis Thanks Elizebeth!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CanBlogThis",
+					"name": "Elizebeth D",
+					"id": 517656451,
+					"id_str": "517656451",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 996422967339995100,
+		"in_reply_to_status_id_str": "996422967339995136",
+		"in_reply_to_user_id": 517656451,
+		"in_reply_to_user_id_str": "517656451",
+		"in_reply_to_screen_name": "CanBlogThis",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45680,
+			"friends_count": 21653,
+			"listed_count": 1141,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12299,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 15 21:08:12 +0000 2018",
+		"id": 996497497672462300,
+		"id_str": "996497497672462336",
+		"text": "RT @DIYwithWP: 3 Ways to Add Twitter Share Counts to your Social Share Buttons for More Social Proof #TwitterTips #Blogging via @debbiedisc…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TwitterTips",
+					"indices": [
+						101,
+						113
+					]
+				},
+				{
+					"text": "Blogging",
+					"indices": [
+						114,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DIYwithWP",
+					"name": "DIY with WP",
+					"id": 742053879030808600,
+					"id_str": "742053879030808576",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45680,
+			"friends_count": 21653,
+			"listed_count": 1141,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12299,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 15 17:00:03 +0000 2018",
+			"id": 996435049376636900,
+			"id_str": "996435049376636929",
+			"text": "3 Ways to Add Twitter Share Counts to your Social Share Buttons for More Social Proof #TwitterTips #Blogging via… https://t.co/gf1O3sFcsg",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TwitterTips",
+						"indices": [
+							86,
+							98
+						]
+					},
+					{
+						"text": "Blogging",
+						"indices": [
+							99,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gf1O3sFcsg",
+						"expanded_url": "https://twitter.com/i/web/status/996435049376636929",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 742053879030808600,
+				"id_str": "742053879030808576",
+				"name": "DIY with WP",
+				"screen_name": "DIYwithWP",
+				"location": "",
+				"description": "Get Hands on WordPress training from our Test Drive Facility",
+				"url": "https://t.co/pi1lNdPsnO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pi1lNdPsnO",
+								"expanded_url": "http://demo.diywithwp.com/",
+								"display_url": "demo.diywithwp.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3525,
+				"friends_count": 4408,
+				"listed_count": 200,
+				"created_at": "Sun Jun 12 18:00:06 +0000 2016",
+				"favourites_count": 22278,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6001,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/857978437683818500/ES4p-akI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/857978437683818500/ES4p-akI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/742053879030808576/1493393125",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 15 21:07:35 +0000 2018",
+		"id": 996497343766659100,
+		"id_str": "996497343766659077",
+		"text": "RT @bulletgifts: If you don't follow @OffTheMarkComic  you should.  #sofunny https://t.co/Siyvl6r0rY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sofunny",
+					"indices": [
+						68,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bulletgifts",
+					"name": "Rick",
+					"id": 932289159665942500,
+					"id_str": "932289159665942528",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "OffTheMarkComic",
+					"name": "Mark Parisi",
+					"id": 369756751,
+					"id_str": "369756751",
+					"indices": [
+						37,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Siyvl6r0rY",
+					"expanded_url": "https://twitter.com/OffTheMarkComic/status/996037791007039490",
+					"display_url": "twitter.com/OffTheMarkComi…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45680,
+			"friends_count": 21653,
+			"listed_count": 1141,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12299,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 14 14:50:40 +0000 2018",
+			"id": 996040101447729200,
+			"id_str": "996040101447729154",
+			"text": "If you don't follow @OffTheMarkComic  you should.  #sofunny https://t.co/Siyvl6r0rY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sofunny",
+						"indices": [
+							51,
+							59
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OffTheMarkComic",
+						"name": "Mark Parisi",
+						"id": 369756751,
+						"id_str": "369756751",
+						"indices": [
+							20,
+							36
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Siyvl6r0rY",
+						"expanded_url": "https://twitter.com/OffTheMarkComic/status/996037791007039490",
+						"display_url": "twitter.com/OffTheMarkComi…",
+						"indices": [
+							60,
+							83
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 932289159665942500,
+				"id_str": "932289159665942528",
+				"name": "Rick",
+				"screen_name": "bulletgifts",
+				"location": "Ontario, Canada",
+				"description": "I create bullet items made from authentic reloading supplies. Tweets are by me or Mrs. Rick. We are big fans of #LivePD adore #k9",
+				"url": "https://t.co/My0a9sfQHO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/My0a9sfQHO",
+								"expanded_url": "https://www.etsy.com/shop/EverythingBullets",
+								"display_url": "etsy.com/shop/Everythin…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 227,
+				"friends_count": 340,
+				"listed_count": 1,
+				"created_at": "Sun Nov 19 16:47:11 +0000 2017",
+				"favourites_count": 4490,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1211,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/932290688200380416/Vgy88CfF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/932290688200380416/Vgy88CfF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/932289159665942528/1511111098",
+				"profile_link_color": "004D00",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 996037791007039500,
+			"quoted_status_id_str": "996037791007039490",
+			"quoted_status": {
+				"created_at": "Mon May 14 14:41:29 +0000 2018",
+				"id": 996037791007039500,
+				"id_str": "996037791007039490",
+				"text": "Wishes do come true. #MondayMotivation https://t.co/zabCQKpUmC",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "MondayMotivation",
+							"indices": [
+								21,
+								38
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 996037778096902100,
+							"id_str": "996037778096902144",
+							"indices": [
+								39,
+								62
+							],
+							"media_url": "http://pbs.twimg.com/media/DdKjFPpV0AAl4JZ.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DdKjFPpV0AAl4JZ.jpg",
+							"url": "https://t.co/zabCQKpUmC",
+							"display_url": "pic.twitter.com/zabCQKpUmC",
+							"expanded_url": "https://twitter.com/OffTheMarkComic/status/996037791007039490/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 450,
+									"h": 569,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 450,
+									"h": 569,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 450,
+									"h": 569,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 996037778096902100,
+							"id_str": "996037778096902144",
+							"indices": [
+								39,
+								62
+							],
+							"media_url": "http://pbs.twimg.com/media/DdKjFPpV0AAl4JZ.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DdKjFPpV0AAl4JZ.jpg",
+							"url": "https://t.co/zabCQKpUmC",
+							"display_url": "pic.twitter.com/zabCQKpUmC",
+							"expanded_url": "https://twitter.com/OffTheMarkComic/status/996037791007039490/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 450,
+									"h": 569,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 450,
+									"h": 569,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 450,
+									"h": 569,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 369756751,
+					"id_str": "369756751",
+					"name": "Mark Parisi",
+					"screen_name": "OffTheMarkComic",
+					"location": "",
+					"description": "Cartoonist for Off the Mark, author of Marty Pants book series, swimsuit model.",
+					"url": "http://t.co/7HPzUr85AS",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/7HPzUr85AS",
+									"expanded_url": "http://www.offthemark.com",
+									"display_url": "offthemark.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1932,
+					"friends_count": 538,
+					"listed_count": 79,
+					"created_at": "Wed Sep 07 22:06:01 +0000 2011",
+					"favourites_count": 3671,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 3319,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/378800000376414640/2f8e6caa76e078d321152eafe83359a2_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000376414640/2f8e6caa76e078d321152eafe83359a2_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/369756751/1494037705",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 5,
+				"favorite_count": 21,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 9,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 996037791007039500,
+		"quoted_status_id_str": "996037791007039490",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 15 21:07:31 +0000 2018",
+		"id": 996497326163181600,
+		"id_str": "996497326163181568",
+		"text": "@bulletgifts @OffTheMarkComic Me three!!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bulletgifts",
+					"name": "Rick",
+					"id": 932289159665942500,
+					"id_str": "932289159665942528",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "OffTheMarkComic",
+					"name": "Mark Parisi",
+					"id": 369756751,
+					"id_str": "369756751",
+					"indices": [
+						13,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 996040101447729200,
+		"in_reply_to_status_id_str": "996040101447729154",
+		"in_reply_to_user_id": 932289159665942500,
+		"in_reply_to_user_id_str": "932289159665942528",
+		"in_reply_to_screen_name": "bulletgifts",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45680,
+			"friends_count": 21653,
+			"listed_count": 1141,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12299,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 15 21:01:11 +0000 2018",
+		"id": 996495734009561100,
+		"id_str": "996495734009561088",
+		"text": "RT @toonsmag: Comic by Mark Parisi @OffTheMarkComic \n#happymothersday #mothersday #butterfly #butterflies #embarrassing #embarrassed #bug #…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "happymothersday",
+					"indices": [
+						53,
+						69
+					]
+				},
+				{
+					"text": "mothersday",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"text": "butterfly",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "butterflies",
+					"indices": [
+						93,
+						105
+					]
+				},
+				{
+					"text": "embarrassing",
+					"indices": [
+						106,
+						119
+					]
+				},
+				{
+					"text": "embarrassed",
+					"indices": [
+						120,
+						132
+					]
+				},
+				{
+					"text": "bug",
+					"indices": [
+						133,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "toonsmag",
+					"name": "TOONS MAG",
+					"id": 142334501,
+					"id_str": "142334501",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "OffTheMarkComic",
+					"name": "Mark Parisi",
+					"id": 369756751,
+					"id_str": "369756751",
+					"indices": [
+						35,
+						51
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45680,
+			"friends_count": 21653,
+			"listed_count": 1141,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12299,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 15 08:43:26 +0000 2018",
+			"id": 996310070882394100,
+			"id_str": "996310070882394112",
+			"text": "Comic by Mark Parisi @OffTheMarkComic \n#happymothersday #mothersday #butterfly #butterflies #embarrassing… https://t.co/frmkuoXyGU",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "happymothersday",
+						"indices": [
+							39,
+							55
+						]
+					},
+					{
+						"text": "mothersday",
+						"indices": [
+							56,
+							67
+						]
+					},
+					{
+						"text": "butterfly",
+						"indices": [
+							68,
+							78
+						]
+					},
+					{
+						"text": "butterflies",
+						"indices": [
+							79,
+							91
+						]
+					},
+					{
+						"text": "embarrassing",
+						"indices": [
+							92,
+							105
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OffTheMarkComic",
+						"name": "Mark Parisi",
+						"id": 369756751,
+						"id_str": "369756751",
+						"indices": [
+							21,
+							37
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/frmkuoXyGU",
+						"expanded_url": "https://twitter.com/i/web/status/996310070882394112",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 142334501,
+				"id_str": "142334501",
+				"name": "TOONS MAG",
+				"screen_name": "toonsmag",
+				"location": "Drøbak, Norway",
+				"description": "We believe everyone deserves freedom of speech. Promoting Freedom of Speech through Editorial Cartoon, Comic & Caricature. Tag @toonsmag/#toonsmag for retweet.",
+				"url": "https://t.co/l6kEB6jJvG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/l6kEB6jJvG",
+								"expanded_url": "http://www.toonsmag.com/",
+								"display_url": "toonsmag.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32823,
+				"friends_count": 9626,
+				"listed_count": 160,
+				"created_at": "Mon May 10 16:13:32 +0000 2010",
+				"favourites_count": 1112,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 224213,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/725543458/9c9293b51f6acd7e88bb7099c81b3ad6.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/725543458/9c9293b51f6acd7e88bb7099c81b3ad6.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/978055427685539840/89-el6Ru_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/978055427685539840/89-el6Ru_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/142334501/1494099686",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 13,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 15 21:00:55 +0000 2018",
+		"id": 996495666342850600,
+		"id_str": "996495666342850561",
+		"text": "@OffTheMarkComic @toonsmag Awesome! Just did!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OffTheMarkComic",
+					"name": "Mark Parisi",
+					"id": 369756751,
+					"id_str": "369756751",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "toonsmag",
+					"name": "TOONS MAG",
+					"id": 142334501,
+					"id_str": "142334501",
+					"indices": [
+						17,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 996476072484134900,
+		"in_reply_to_status_id_str": "996476072484134912",
+		"in_reply_to_user_id": 369756751,
+		"in_reply_to_user_id_str": "369756751",
+		"in_reply_to_screen_name": "OffTheMarkComic",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45680,
+			"friends_count": 21653,
+			"listed_count": 1141,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12299,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 15 20:59:14 +0000 2018",
+		"id": 996495244202934300,
+		"id_str": "996495244202934273",
+		"text": "@rubenkar67 😊👍 https://t.co/UgMbexNnH7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rubenkar67",
+					"name": "Ruben",
+					"id": 888036349495963600,
+					"id_str": "888036349495963648",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 996495232534392800,
+					"id_str": "996495232534392832",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DdRDImOVMAAGdE2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdRDImOVMAAGdE2.jpg",
+					"url": "https://t.co/UgMbexNnH7",
+					"display_url": "pic.twitter.com/UgMbexNnH7",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/996495244202934273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 342,
+							"h": 284,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 342,
+							"h": 284,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 342,
+							"h": 284,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 996495232534392800,
+					"id_str": "996495232534392832",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DdRDImOVMAAGdE2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdRDImOVMAAGdE2.jpg",
+					"url": "https://t.co/UgMbexNnH7",
+					"display_url": "pic.twitter.com/UgMbexNnH7",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/996495244202934273/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 342,
+							"h": 284,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 342,
+							"h": 284,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 342,
+							"h": 284,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							171,
+							142
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DdRDImOVMAAGdE2.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 996391500857606100,
+		"in_reply_to_status_id_str": "996391500857606145",
+		"in_reply_to_user_id": 888036349495963600,
+		"in_reply_to_user_id_str": "888036349495963648",
+		"in_reply_to_screen_name": "rubenkar67",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45680,
+			"friends_count": 21653,
+			"listed_count": 1141,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12299,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue May 15 20:02:41 +0000 2018",
 		"id": 996481011096662000,
 		"id_str": "996481011096662019",
