@@ -1,6 +1,1016 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Wed May 16 11:44:39 +0000 2018",
+		"id": 996718065017499600,
+		"id_str": "996718065017499649",
+		"text": "RT @debbiediscovers: A machine learning algorithm walked into a bar. \n\nThe bartender asked, “What would you like to drink?” \n\nThe algorithm…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45754,
+			"friends_count": 21766,
+			"listed_count": 1136,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12308,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13072,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 17 23:33:48 +0000 2017",
+			"id": 942538346651201500,
+			"id_str": "942538346651201536",
+			"text": "A machine learning algorithm walked into a bar. \n\nThe bartender asked, “What would you like to drink?” \n\nThe algori… https://t.co/htqBDdxdQ9",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/htqBDdxdQ9",
+						"expanded_url": "https://twitter.com/i/web/status/942538346651201536",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45754,
+				"friends_count": 21766,
+				"listed_count": 1136,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 12308,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13072,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4520,
+			"favorite_count": 9679,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4520,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed May 16 11:29:14 +0000 2018",
+		"id": 996714184497774600,
+		"id_str": "996714184497774592",
+		"text": "RT @peterkay47: This picture is worth a thousand words. https://t.co/Hx3aYkBk69",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peterkay47",
+					"name": "Peter Kay",
+					"id": 609940096,
+					"id_str": "609940096",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Hx3aYkBk69",
+					"expanded_url": "https://twitter.com/RealTouchingPic/status/971796383018700802",
+					"display_url": "twitter.com/RealTouchingPi…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45754,
+			"friends_count": 21766,
+			"listed_count": 1136,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12308,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13072,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 14 03:30:08 +0000 2018",
+			"id": 995868840629231600,
+			"id_str": "995868840629231617",
+			"text": "This picture is worth a thousand words. https://t.co/Hx3aYkBk69",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Hx3aYkBk69",
+						"expanded_url": "https://twitter.com/RealTouchingPic/status/971796383018700802",
+						"display_url": "twitter.com/RealTouchingPi…",
+						"indices": [
+							40,
+							63
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 609940096,
+				"id_str": "609940096",
+				"name": "Peter Kay",
+				"screen_name": "peterkay47",
+				"location": "Singapore",
+				"description": "Mindfulness allows you not to miss out on your life. By focusing our minds in the present moment, we open ourselves to awareness, adaptation and transformation.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16,
+				"friends_count": 75,
+				"listed_count": 0,
+				"created_at": "Sat Jun 16 12:05:23 +0000 2012",
+				"favourites_count": 19,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/993033070386204673/BJDpO0FG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/993033070386204673/BJDpO0FG_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 971796383018700800,
+			"quoted_status_id_str": "971796383018700802",
+			"quoted_status": {
+				"created_at": "Thu Mar 08 17:14:47 +0000 2018",
+				"id": 971796383018700800,
+				"id_str": "971796383018700802",
+				"text": "Life is beautiful. https://t.co/E0thAEaCCH",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 971796317797277700,
+							"id_str": "971796317797277697",
+							"indices": [
+								19,
+								42
+							],
+							"media_url": "http://pbs.twimg.com/media/DXyDmixW4AE4bf-.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DXyDmixW4AE4bf-.jpg",
+							"url": "https://t.co/E0thAEaCCH",
+							"display_url": "pic.twitter.com/E0thAEaCCH",
+							"expanded_url": "https://twitter.com/RealTouchingPic/status/971796383018700802/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 570,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 804,
+									"h": 960,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 804,
+									"h": 960,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 971796317797277700,
+							"id_str": "971796317797277697",
+							"indices": [
+								19,
+								42
+							],
+							"media_url": "http://pbs.twimg.com/media/DXyDmixW4AE4bf-.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DXyDmixW4AE4bf-.jpg",
+							"url": "https://t.co/E0thAEaCCH",
+							"display_url": "pic.twitter.com/E0thAEaCCH",
+							"expanded_url": "https://twitter.com/RealTouchingPic/status/971796383018700802/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 570,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 804,
+									"h": 960,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 804,
+									"h": 960,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1463880866,
+					"id_str": "1463880866",
+					"name": "Pics 'You' Must See",
+					"screen_name": "RealTouchingPic",
+					"location": "Worldwide",
+					"description": "A picture is worth a thousand words! We don't own any of the picture, for DMCA removal #contact ✉ illcareforyou4ever@gmail.com",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2448114,
+					"friends_count": 3472,
+					"listed_count": 2686,
+					"created_at": "Tue May 28 05:17:01 +0000 2013",
+					"favourites_count": 2,
+					"utc_offset": 19800,
+					"time_zone": "New Delhi",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 4495,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/594373599693119488/SB0ha9Kl.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/594373599693119488/SB0ha9Kl.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/944578456783937536/aVr1mNg__normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/944578456783937536/aVr1mNg__normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1463880866/1517675247",
+					"profile_link_color": "ABB8C2",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 659,
+				"favorite_count": 1691,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 971796383018700800,
+		"quoted_status_id_str": "971796383018700802",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed May 16 11:28:33 +0000 2018",
+		"id": 996714011629469700,
+		"id_str": "996714011629469696",
+		"text": "RT @Fisher85M: Classic. {Comic}\n\n#Cybersecurity #IoT @fisher85m #IoTSecurity #infosec #security https://t.co/j6zJYBv5AH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Cybersecurity",
+					"indices": [
+						33,
+						47
+					]
+				},
+				{
+					"text": "IoT",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "IoTSecurity",
+					"indices": [
+						64,
+						76
+					]
+				},
+				{
+					"text": "infosec",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "security",
+					"indices": [
+						86,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Fisher85M",
+					"name": "Michael Fisher",
+					"id": 846014785246367700,
+					"id_str": "846014785246367745",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "Fisher85M",
+					"name": "Michael Fisher",
+					"id": 846014785246367700,
+					"id_str": "846014785246367745",
+					"indices": [
+						53,
+						63
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 996325570169290800,
+					"id_str": "996325570169290752",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DdOo08qUQAAUL8I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdOo08qUQAAUL8I.jpg",
+					"url": "https://t.co/j6zJYBv5AH",
+					"display_url": "pic.twitter.com/j6zJYBv5AH",
+					"expanded_url": "https://twitter.com/Fisher85M/status/996325572249833473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1043,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 591,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1043,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 996325572249833500,
+					"source_status_id_str": "996325572249833473",
+					"source_user_id": 846014785246367700,
+					"source_user_id_str": "846014785246367745"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 996325570169290800,
+					"id_str": "996325570169290752",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DdOo08qUQAAUL8I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdOo08qUQAAUL8I.jpg",
+					"url": "https://t.co/j6zJYBv5AH",
+					"display_url": "pic.twitter.com/j6zJYBv5AH",
+					"expanded_url": "https://twitter.com/Fisher85M/status/996325572249833473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1043,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 591,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1043,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 996325572249833500,
+					"source_status_id_str": "996325572249833473",
+					"source_user_id": 846014785246367700,
+					"source_user_id_str": "846014785246367745"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45754,
+			"friends_count": 21766,
+			"listed_count": 1136,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12308,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13072,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 15 09:45:01 +0000 2018",
+			"id": 996325572249833500,
+			"id_str": "996325572249833473",
+			"text": "Classic. {Comic}\n\n#Cybersecurity #IoT @fisher85m #IoTSecurity #infosec #security https://t.co/j6zJYBv5AH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Cybersecurity",
+						"indices": [
+							18,
+							32
+						]
+					},
+					{
+						"text": "IoT",
+						"indices": [
+							33,
+							37
+						]
+					},
+					{
+						"text": "IoTSecurity",
+						"indices": [
+							49,
+							61
+						]
+					},
+					{
+						"text": "infosec",
+						"indices": [
+							62,
+							70
+						]
+					},
+					{
+						"text": "security",
+						"indices": [
+							71,
+							80
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Fisher85M",
+						"name": "Michael Fisher",
+						"id": 846014785246367700,
+						"id_str": "846014785246367745",
+						"indices": [
+							38,
+							48
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 996325570169290800,
+						"id_str": "996325570169290752",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/DdOo08qUQAAUL8I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdOo08qUQAAUL8I.jpg",
+						"url": "https://t.co/j6zJYBv5AH",
+						"display_url": "pic.twitter.com/j6zJYBv5AH",
+						"expanded_url": "https://twitter.com/Fisher85M/status/996325572249833473/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1043,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 591,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1043,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 996325570169290800,
+						"id_str": "996325570169290752",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/DdOo08qUQAAUL8I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdOo08qUQAAUL8I.jpg",
+						"url": "https://t.co/j6zJYBv5AH",
+						"display_url": "pic.twitter.com/j6zJYBv5AH",
+						"expanded_url": "https://twitter.com/Fisher85M/status/996325572249833473/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1043,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 591,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1043,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 846014785246367700,
+				"id_str": "846014785246367745",
+				"name": "Michael Fisher",
+				"screen_name": "Fisher85M",
+				"location": "Vernon, CT",
+				"description": "Full-Time Analyst, Technology Evangelist, #CyberSecurity, #DigitalTransformation, #IoT, #DataScience & #VR Influencer: @DZone & @Onalytica. Made from 100% Geek.",
+				"url": "https://t.co/5k8ZYYgKNb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5k8ZYYgKNb",
+								"expanded_url": "https://www.techcpu.net/",
+								"display_url": "techcpu.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 48649,
+				"friends_count": 12791,
+				"listed_count": 872,
+				"created_at": "Sun Mar 26 15:03:37 +0000 2017",
+				"favourites_count": 47068,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22670,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/846016552713555968/xPRZfD2q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/846016552713555968/xPRZfD2q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/846014785246367745/1497302270",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 101,
+			"favorite_count": 106,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 101,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 16 10:25:14 +0000 2018",
 		"id": 996698078169055200,
 		"id_str": "996698078169055232",
