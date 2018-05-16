@@ -1,6 +1,527 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Wed May 16 09:52:03 +0000 2018",
+		"id": 996689729407017000,
+		"id_str": "996689729407016960",
+		"text": "Exception #MALAYSIA! 🇲🇾🇲🇾🇲🇾 https://t.co/dRAcEndAu1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MALAYSIA",
+					"indices": [
+						10,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dRAcEndAu1",
+					"expanded_url": "https://twitter.com/c0nvey/status/980544504217423872",
+					"display_url": "twitter.com/c0nvey/status/…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45751,
+			"friends_count": 21699,
+			"listed_count": 1136,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12304,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13069,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 980544504217423900,
+		"quoted_status_id_str": "980544504217423872",
+		"quoted_status": {
+			"created_at": "Sun Apr 01 20:36:42 +0000 2018",
+			"id": 980544504217423900,
+			"id_str": "980544504217423872",
+			"text": "Democracy continues its disturbing retreat https://t.co/UrFV9ovz8d by #gabymenta via @c0nvey",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "gabymenta",
+						"indices": [
+							70,
+							80
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "c0nvey",
+						"name": "Convey",
+						"id": 750282011160481800,
+						"id_str": "750282011160481792",
+						"indices": [
+							85,
+							92
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/UrFV9ovz8d",
+						"expanded_url": "http://www.economist.com.convey.pro/l/1PLbGqx",
+						"display_url": "economist.com.convey.pro/l/1PLbGqx",
+						"indices": [
+							43,
+							66
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://convey.pro\" rel=\"nofollow\">Convey: Make it post for you</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 750282011160481800,
+				"id_str": "750282011160481792",
+				"name": "Convey",
+				"screen_name": "c0nvey",
+				"location": "United States",
+				"description": "Power up your posting with engaging content, automagically! #socialmedia. Visit ur Facebook page -https://t.co/LzVWuWdQOL E-mail: support@convey.pro",
+				"url": "https://t.co/JleGUJ2PA9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JleGUJ2PA9",
+								"expanded_url": "http://convey.pro/",
+								"display_url": "convey.pro",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LzVWuWdQOL",
+								"expanded_url": "https://www.facebook.com/runConvey/",
+								"display_url": "facebook.com/runConvey/",
+								"indices": [
+									98,
+									121
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 22934,
+				"friends_count": 251,
+				"listed_count": 556,
+				"created_at": "Tue Jul 05 10:55:45 +0000 2016",
+				"favourites_count": 709,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3920,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/762998843482988544/KojI-trm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/762998843482988544/KojI-trm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/750282011160481792/1491906066",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed May 16 09:51:28 +0000 2018",
+		"id": 996689580433621000,
+		"id_str": "996689580433620992",
+		"text": "RT @c0nvey: Why You Need to Always Be Questioning Yourself | by @heyfeifer https://t.co/33DElvTWpv by #Entrepreneur via @c0nvey",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Entrepreneur",
+					"indices": [
+						102,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "c0nvey",
+					"name": "Convey",
+					"id": 750282011160481800,
+					"id_str": "750282011160481792",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "heyfeifer",
+					"name": "Jason Feifer",
+					"id": 268944886,
+					"id_str": "268944886",
+					"indices": [
+						64,
+						74
+					]
+				},
+				{
+					"screen_name": "c0nvey",
+					"name": "Convey",
+					"id": 750282011160481800,
+					"id_str": "750282011160481792",
+					"indices": [
+						120,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/33DElvTWpv",
+					"expanded_url": "http://www.entrepreneur.com.convey.pro/l/qqGogzX",
+					"display_url": "entrepreneur.com.convey.pro/l/qqGogzX",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45751,
+			"friends_count": 21699,
+			"listed_count": 1136,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12304,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13069,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 02 18:12:45 +0000 2018",
+			"id": 980870666080718800,
+			"id_str": "980870666080718849",
+			"text": "Why You Need to Always Be Questioning Yourself | by @heyfeifer https://t.co/33DElvTWpv by #Entrepreneur via @c0nvey",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Entrepreneur",
+						"indices": [
+							90,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "heyfeifer",
+						"name": "Jason Feifer",
+						"id": 268944886,
+						"id_str": "268944886",
+						"indices": [
+							52,
+							62
+						]
+					},
+					{
+						"screen_name": "c0nvey",
+						"name": "Convey",
+						"id": 750282011160481800,
+						"id_str": "750282011160481792",
+						"indices": [
+							108,
+							115
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/33DElvTWpv",
+						"expanded_url": "http://www.entrepreneur.com.convey.pro/l/qqGogzX",
+						"display_url": "entrepreneur.com.convey.pro/l/qqGogzX",
+						"indices": [
+							63,
+							86
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://convey.pro\" rel=\"nofollow\">Convey: Make it post for you</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 750282011160481800,
+				"id_str": "750282011160481792",
+				"name": "Convey",
+				"screen_name": "c0nvey",
+				"location": "United States",
+				"description": "Power up your posting with engaging content, automagically! #socialmedia. Visit ur Facebook page -https://t.co/LzVWuWdQOL E-mail: support@convey.pro",
+				"url": "https://t.co/JleGUJ2PA9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JleGUJ2PA9",
+								"expanded_url": "http://convey.pro/",
+								"display_url": "convey.pro",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LzVWuWdQOL",
+								"expanded_url": "https://www.facebook.com/runConvey/",
+								"display_url": "facebook.com/runConvey/",
+								"indices": [
+									98,
+									121
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 22934,
+				"friends_count": 251,
+				"listed_count": 556,
+				"created_at": "Tue Jul 05 10:55:45 +0000 2016",
+				"favourites_count": 709,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3920,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/762998843482988544/KojI-trm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/762998843482988544/KojI-trm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/750282011160481792/1491906066",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 16 08:46:30 +0000 2018",
 		"id": 996673233549054000,
 		"id_str": "996673233549053952",
