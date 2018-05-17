@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Thu May 17 22:49:27 +0000 2018",
+		"id": 997247754677055500,
+		"id_str": "997247754677055489",
+		"text": "@able1954  https://t.co/ObPfMBxQfj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "able1954",
+					"name": "Allen Anderson",
+					"id": 235429893,
+					"id_str": "235429893",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 997247743419543600,
+					"id_str": "997247743419543552",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DdbvifuU8AACByx.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdbvifuU8AACByx.jpg",
+					"url": "https://t.co/ObPfMBxQfj",
+					"display_url": "pic.twitter.com/ObPfMBxQfj",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/997247754677055489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 282,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 282,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 282,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 997247743419543600,
+					"id_str": "997247743419543552",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DdbvifuU8AACByx.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdbvifuU8AACByx.jpg",
+					"url": "https://t.co/ObPfMBxQfj",
+					"display_url": "pic.twitter.com/ObPfMBxQfj",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/997247754677055489/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 282,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 282,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 282,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							47
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DdbvifuU8AACByx.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 997242040655073300,
+		"in_reply_to_status_id_str": "997242040655073280",
+		"in_reply_to_user_id": 235429893,
+		"in_reply_to_user_id_str": "235429893",
+		"in_reply_to_screen_name": "able1954",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45920,
+			"friends_count": 21677,
+			"listed_count": 1141,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12352,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Thu May 17 21:25:58 +0000 2018",
 		"id": 997226747753041900,
 		"id_str": "997226747753041920",
