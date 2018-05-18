@@ -1,6 +1,421 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Fri May 18 18:59:52 +0000 2018",
+		"id": 997552367527608300,
+		"id_str": "997552367527608320",
+		"text": "RT @spencerchen: Nothing is original, esp. in #design. (btw, these are NOT the logos of Medium AirBNB, Flipboard, and Beats)\n\nhttps://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "design",
+					"indices": [
+						46,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "spencerchen",
+					"name": "Spencer Chen",
+					"id": 14213734,
+					"id_str": "14213734",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46006,
+			"friends_count": 21811,
+			"listed_count": 1146,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12393,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13161,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 27 00:07:27 +0000 2016",
+			"id": 725114098107609100,
+			"id_str": "725114098107609089",
+			"text": "Nothing is original, esp. in #design. (btw, these are NOT the logos of Medium AirBNB, Flipboard, and Beats)\n\nhttps://t.co/JNDsM0rhod",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "design",
+						"indices": [
+							29,
+							36
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 724371136851517400,
+						"id_str": "724371136851517441",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/Cg17tgmUoAEtzD6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cg17tgmUoAEtzD6.jpg",
+						"url": "https://t.co/JNDsM0rhod",
+						"display_url": "pic.twitter.com/JNDsM0rhod",
+						"expanded_url": "https://twitter.com/stefanotirloni/status/725065684862922753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 343,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 586,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 195,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 725065684862922800,
+						"source_status_id_str": "725065684862922753",
+						"source_user_id": 364230348,
+						"source_user_id_str": "364230348"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 724371136851517400,
+						"id_str": "724371136851517441",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/Cg17tgmUoAEtzD6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cg17tgmUoAEtzD6.jpg",
+						"url": "https://t.co/JNDsM0rhod",
+						"display_url": "pic.twitter.com/JNDsM0rhod",
+						"expanded_url": "https://twitter.com/stefanotirloni/status/725065684862922753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 343,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 586,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 195,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 725065684862922800,
+						"source_status_id_str": "725065684862922753",
+						"source_user_id": 364230348,
+						"source_user_id_str": "364230348"
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14213734,
+				"id_str": "14213734",
+				"name": "Spencer Chen",
+				"screen_name": "spencerchen",
+				"location": "San Francisco and Vancouver",
+				"description": "VP of Global Marketing at @breadapp (today: best crypto wallet, tmr: best decentralized bank) // Alum: Alibaba Group, Frontback, Mixpanel, Appcelerator, Intel",
+				"url": "https://t.co/10AyAYLidz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/10AyAYLidz",
+								"expanded_url": "http://www.spencerchen.co",
+								"display_url": "spencerchen.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7295,
+				"friends_count": 501,
+				"listed_count": 285,
+				"created_at": "Tue Mar 25 06:48:38 +0000 2008",
+				"favourites_count": 1731,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22930,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/685173254/4a3c8f03aa7495d84d936e90c98e29b3.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/685173254/4a3c8f03aa7495d84d936e90c98e29b3.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/978047297362698241/NMXpErpR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/978047297362698241/NMXpErpR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14213734/1405369621",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16559,
+			"favorite_count": 16593,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16559,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 18 18:27:08 +0000 2018",
+		"id": 997544130866696200,
+		"id_str": "997544130866696192",
+		"text": "@crypto_mikhail @instagram @googlesheets Yah trying to find a workaround! Stay tuned!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "crypto_mikhail",
+					"name": "Crypto Mikhail",
+					"id": 965794150733025300,
+					"id_str": "965794150733025282",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "instagram",
+					"name": "Instagram",
+					"id": 180505807,
+					"id_str": "180505807",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "googlesheets",
+					"name": "Google Spreadsheets",
+					"id": 327231608,
+					"id_str": "327231608",
+					"indices": [
+						27,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 997543912909824000,
+		"in_reply_to_status_id_str": "997543912909824001",
+		"in_reply_to_user_id": 965794150733025300,
+		"in_reply_to_user_id_str": "965794150733025282",
+		"in_reply_to_screen_name": "crypto_mikhail",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46006,
+			"friends_count": 21811,
+			"listed_count": 1146,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12393,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13161,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 18 17:54:38 +0000 2018",
 		"id": 997535948333203500,
 		"id_str": "997535948333203457",
