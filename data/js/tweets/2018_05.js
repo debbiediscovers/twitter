@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Fri May 18 11:05:55 +0000 2018",
+		"id": 997433093987422200,
+		"id_str": "997433093987422208",
+		"text": "RT @denottione: 25 Memes That Graphic Designers Will Love https://t.co/aAr5eIZaBX https://t.co/stDOVfmpu5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "denottione",
+					"name": "Andrew Tan",
+					"id": 1715876323,
+					"id_str": "1715876323",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aAr5eIZaBX",
+					"expanded_url": "http://dlvr.it/QT9z2f",
+					"display_url": "dlvr.it/QT9z2f",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 997125329339625500,
+					"id_str": "997125329339625472",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DdaANDvVMAADoza.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdaANDvVMAADoza.jpg",
+					"url": "https://t.co/stDOVfmpu5",
+					"display_url": "pic.twitter.com/stDOVfmpu5",
+					"expanded_url": "https://twitter.com/denottione/status/997125331336089600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 363,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 448,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 448,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 997125331336089600,
+					"source_status_id_str": "997125331336089600",
+					"source_user_id": 1715876323,
+					"source_user_id_str": "1715876323"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 997125329339625500,
+					"id_str": "997125329339625472",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DdaANDvVMAADoza.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdaANDvVMAADoza.jpg",
+					"url": "https://t.co/stDOVfmpu5",
+					"display_url": "pic.twitter.com/stDOVfmpu5",
+					"expanded_url": "https://twitter.com/denottione/status/997125331336089600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 363,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 448,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 448,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 997125331336089600,
+					"source_status_id_str": "997125331336089600",
+					"source_user_id": 1715876323,
+					"source_user_id_str": "1715876323"
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45973,
+			"friends_count": 21753,
+			"listed_count": 1140,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12374,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13143,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 17 14:42:59 +0000 2018",
+			"id": 997125331336089600,
+			"id_str": "997125331336089600",
+			"text": "25 Memes That Graphic Designers Will Love https://t.co/aAr5eIZaBX https://t.co/stDOVfmpu5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aAr5eIZaBX",
+						"expanded_url": "http://dlvr.it/QT9z2f",
+						"display_url": "dlvr.it/QT9z2f",
+						"indices": [
+							42,
+							65
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 997125329339625500,
+						"id_str": "997125329339625472",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/DdaANDvVMAADoza.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdaANDvVMAADoza.jpg",
+						"url": "https://t.co/stDOVfmpu5",
+						"display_url": "pic.twitter.com/stDOVfmpu5",
+						"expanded_url": "https://twitter.com/denottione/status/997125331336089600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 363,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 840,
+								"h": 448,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 840,
+								"h": 448,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 997125329339625500,
+						"id_str": "997125329339625472",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/DdaANDvVMAADoza.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdaANDvVMAADoza.jpg",
+						"url": "https://t.co/stDOVfmpu5",
+						"display_url": "pic.twitter.com/stDOVfmpu5",
+						"expanded_url": "https://twitter.com/denottione/status/997125331336089600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 363,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 840,
+								"h": 448,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 840,
+								"h": 448,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1715876323,
+				"id_str": "1715876323",
+				"name": "Andrew Tan",
+				"screen_name": "denottione",
+				"location": "space",
+				"description": "#Digital #Designer, #Web #Developer, #SEO, 5D free trial for 600 powerlikes from Fuelgram link in bio",
+				"url": "https://t.co/nLS6AJWQRZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nLS6AJWQRZ",
+								"expanded_url": "http://bit.ly/GrowYourInstagram-5DFreeEngagementLikes",
+								"display_url": "bit.ly/GrowYourInstag…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3012,
+				"friends_count": 4009,
+				"listed_count": 80,
+				"created_at": "Sat Aug 31 14:33:57 +0000 2013",
+				"favourites_count": 406,
+				"utc_offset": -39600,
+				"time_zone": "International Date Line West",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5953,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/635140767296548864/4RrozagU.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/635140767296548864/4RrozagU.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/635139540693356544/8FTAGffk_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/635139540693356544/8FTAGffk_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1715876323/1475087477",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 18 09:30:33 +0000 2018",
 		"id": 997409091629629400,
 		"id_str": "997409091629629440",
