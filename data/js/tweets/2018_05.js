@@ -1,6 +1,724 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sat May 19 20:37:40 +0000 2018",
+		"id": 997939367468466200,
+		"id_str": "997939367468466176",
+		"text": "Another though one - can you do it?\n\n#FFB300 #typesofkind #30shadesofkind #kindcomments #kindnesscounts #bekind… https://t.co/Dnpzt8PBpx",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FFB300",
+					"indices": [
+						37,
+						44
+					]
+				},
+				{
+					"text": "typesofkind",
+					"indices": [
+						45,
+						57
+					]
+				},
+				{
+					"text": "30shadesofkind",
+					"indices": [
+						58,
+						73
+					]
+				},
+				{
+					"text": "kindcomments",
+					"indices": [
+						74,
+						87
+					]
+				},
+				{
+					"text": "kindnesscounts",
+					"indices": [
+						88,
+						103
+					]
+				},
+				{
+					"text": "bekind",
+					"indices": [
+						104,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dnpzt8PBpx",
+					"expanded_url": "https://twitter.com/i/web/status/997939367468466176",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46120,
+			"friends_count": 21778,
+			"listed_count": 1142,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12406,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13173,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 19 20:13:16 +0000 2018",
+		"id": 997933225115824100,
+		"id_str": "997933225115824134",
+		"text": "RT @markuskoebel: The Non-Coder’s Guide to using Giphy’s API in Chatfuel  by @debbiediscovers https://t.co/yL6ArsaIXM  #chatbots #API https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "chatbots",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"text": "API",
+					"indices": [
+						129,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "markuskoebel",
+					"name": "Markus Köbel",
+					"id": 34620486,
+					"id_str": "34620486",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						77,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yL6ArsaIXM",
+					"expanded_url": "https://buff.ly/2Ivxg0j",
+					"display_url": "buff.ly/2Ivxg0j",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46120,
+			"friends_count": 21778,
+			"listed_count": 1142,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12406,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13173,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 19 17:38:05 +0000 2018",
+			"id": 997894171699662800,
+			"id_str": "997894171699662848",
+			"text": "The Non-Coder’s Guide to using Giphy’s API in Chatfuel  by @debbiediscovers https://t.co/yL6ArsaIXM  #chatbots #API https://t.co/lp62y8mswa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "chatbots",
+						"indices": [
+							101,
+							110
+						]
+					},
+					{
+						"text": "API",
+						"indices": [
+							111,
+							115
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							59,
+							75
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/yL6ArsaIXM",
+						"expanded_url": "https://buff.ly/2Ivxg0j",
+						"display_url": "buff.ly/2Ivxg0j",
+						"indices": [
+							76,
+							99
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 997894169099026400,
+						"id_str": "997894169099026432",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/Ddk7dbCUwAA0yPI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ddk7dbCUwAA0yPI.jpg",
+						"url": "https://t.co/lp62y8mswa",
+						"display_url": "pic.twitter.com/lp62y8mswa",
+						"expanded_url": "https://twitter.com/markuskoebel/status/997894171699662848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 997894169099026400,
+						"id_str": "997894169099026432",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/Ddk7dbCUwAA0yPI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ddk7dbCUwAA0yPI.jpg",
+						"url": "https://t.co/lp62y8mswa",
+						"display_url": "pic.twitter.com/lp62y8mswa",
+						"expanded_url": "https://twitter.com/markuskoebel/status/997894171699662848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34620486,
+				"id_str": "34620486",
+				"name": "Markus Köbel",
+				"screen_name": "markuskoebel",
+				"location": "Ingelheim am Rhein",
+				"description": "Online Marketing incl. SEO, Social Media Marketing, Content Marketing;  Digital product management, Art and music enthusiast.",
+				"url": "https://t.co/Q4EfWhNPHr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Q4EfWhNPHr",
+								"expanded_url": "http://linkedin.com/in/markus-köbel-34a2b089",
+								"display_url": "linkedin.com/in/markus-köbe…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 950,
+				"friends_count": 945,
+				"listed_count": 105,
+				"created_at": "Thu Apr 23 14:08:14 +0000 2009",
+				"favourites_count": 3517,
+				"utc_offset": 7200,
+				"time_zone": "Bern",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2942,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/663681955419004929/4EeDdFQ5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/663681955419004929/4EeDdFQ5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34620486/1506628569",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 19 20:13:10 +0000 2018",
+		"id": 997933200792997900,
+		"id_str": "997933200792997888",
+		"text": "RT @BlueBirdBC: 3 Ways to Add Twitter Share Counts to your Social Share Buttons for More Social Proof #TwitterTips #Blogging via @debbiedis…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TwitterTips",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"text": "Blogging",
+					"indices": [
+						115,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BlueBirdBC",
+					"name": "BlueBird Consulting",
+					"id": 116325175,
+					"id_str": "116325175",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46120,
+			"friends_count": 21778,
+			"listed_count": 1142,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12406,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13173,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 19 19:10:02 +0000 2018",
+			"id": 997917312706637800,
+			"id_str": "997917312706637824",
+			"text": "3 Ways to Add Twitter Share Counts to your Social Share Buttons for More Social Proof #TwitterTips #Blogging via… https://t.co/Vlh1Uisdd0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TwitterTips",
+						"indices": [
+							86,
+							98
+						]
+					},
+					{
+						"text": "Blogging",
+						"indices": [
+							99,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Vlh1Uisdd0",
+						"expanded_url": "https://twitter.com/i/web/status/997917312706637824",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 116325175,
+				"id_str": "116325175",
+				"name": "BlueBird Consulting",
+				"screen_name": "BlueBirdBC",
+				"location": "Kelowna, British Columbia CA",
+				"description": "Digital strategist, #SocialMedia coach, community manager, blogger, podcaster, and speaker. 🐦",
+				"url": "https://t.co/V8xjVRt733",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/V8xjVRt733",
+								"expanded_url": "http://businessbluebird.com",
+								"display_url": "businessbluebird.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9244,
+				"friends_count": 9463,
+				"listed_count": 392,
+				"created_at": "Mon Feb 22 02:01:06 +0000 2010",
+				"favourites_count": 8966,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33440,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1371CF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/329062893/twitterbackfrith3.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/329062893/twitterbackfrith3.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/498572908763951104/JaN9fY-A_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/498572908763951104/JaN9fY-A_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/116325175/1503532456",
+				"profile_link_color": "0269B2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "1161BD",
+				"profile_text_color": "050505",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 19 17:20:00 +0000 2018",
 		"id": 997889622821818400,
 		"id_str": "997889622821818370",
