@@ -1,6 +1,464 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sun May 20 00:39:04 +0000 2018",
+		"id": 998000116437999600,
+		"id_str": "998000116437999616",
+		"text": "@MitsukuChatbot w00t!!!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MitsukuChatbot",
+					"name": "Mitsuku 🏅🏅🏅",
+					"id": 578224522,
+					"id_str": "578224522",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 997969349578313700,
+		"in_reply_to_status_id_str": "997969349578313733",
+		"in_reply_to_user_id": 578224522,
+		"in_reply_to_user_id_str": "578224522",
+		"in_reply_to_screen_name": "MitsukuChatbot",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46130,
+			"friends_count": 21596,
+			"listed_count": 1140,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12412,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13177,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sun May 20 00:27:07 +0000 2018",
+		"id": 997997109671379000,
+		"id_str": "997997109671378944",
+		"text": "RT @MitsukuChatbot: M1t5uKu iZ 1337 f0r 5uRE!!!!11111 https://t.co/ksaqVN9Dhd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MitsukuChatbot",
+					"name": "Mitsuku 🏅🏅🏅",
+					"id": 578224522,
+					"id_str": "578224522",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 997968948304859100,
+					"id_str": "997968948304859137",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/Ddl_eJSU0AEoXgi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ddl_eJSU0AEoXgi.jpg",
+					"url": "https://t.co/ksaqVN9Dhd",
+					"display_url": "pic.twitter.com/ksaqVN9Dhd",
+					"expanded_url": "https://twitter.com/MitsukuChatbot/status/997969349578313733/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 313,
+							"h": 38,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 313,
+							"h": 38,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 313,
+							"h": 38,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 38,
+							"h": 38,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 997969349578313700,
+					"source_status_id_str": "997969349578313733",
+					"source_user_id": 578224522,
+					"source_user_id_str": "578224522"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 997968948304859100,
+					"id_str": "997968948304859137",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/Ddl_eJSU0AEoXgi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ddl_eJSU0AEoXgi.jpg",
+					"url": "https://t.co/ksaqVN9Dhd",
+					"display_url": "pic.twitter.com/ksaqVN9Dhd",
+					"expanded_url": "https://twitter.com/MitsukuChatbot/status/997969349578313733/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 313,
+							"h": 38,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 313,
+							"h": 38,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 313,
+							"h": 38,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 38,
+							"h": 38,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 997969349578313700,
+					"source_status_id_str": "997969349578313733",
+					"source_user_id": 578224522,
+					"source_user_id_str": "578224522"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46130,
+			"friends_count": 21596,
+			"listed_count": 1140,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12412,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13177,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643531621665230852/wKPpg2Ub.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 19 22:36:48 +0000 2018",
+			"id": 997969349578313700,
+			"id_str": "997969349578313733",
+			"text": "M1t5uKu iZ 1337 f0r 5uRE!!!!11111 https://t.co/ksaqVN9Dhd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 997968948304859100,
+						"id_str": "997968948304859137",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/Ddl_eJSU0AEoXgi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ddl_eJSU0AEoXgi.jpg",
+						"url": "https://t.co/ksaqVN9Dhd",
+						"display_url": "pic.twitter.com/ksaqVN9Dhd",
+						"expanded_url": "https://twitter.com/MitsukuChatbot/status/997969349578313733/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 313,
+								"h": 38,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 313,
+								"h": 38,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 313,
+								"h": 38,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 38,
+								"h": 38,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 997968948304859100,
+						"id_str": "997968948304859137",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/Ddl_eJSU0AEoXgi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ddl_eJSU0AEoXgi.jpg",
+						"url": "https://t.co/ksaqVN9Dhd",
+						"display_url": "pic.twitter.com/ksaqVN9Dhd",
+						"expanded_url": "https://twitter.com/MitsukuChatbot/status/997969349578313733/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 313,
+								"h": 38,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 313,
+								"h": 38,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 313,
+								"h": 38,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 38,
+								"h": 38,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 578224522,
+				"id_str": "578224522",
+				"name": "Mitsuku 🏅🏅🏅",
+				"screen_name": "MitsukuChatbot",
+				"location": "Goole, England",
+				"description": "AIML developer and Loebner Prize winner 2013/2016/2017. Tweets are by Mitsuku's programmer, Steve Worswick rather than the bot itself.",
+				"url": "https://t.co/tb0oFgymDI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tb0oFgymDI",
+								"expanded_url": "http://www.mitsuku.com",
+								"display_url": "mitsuku.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2324,
+				"friends_count": 476,
+				"listed_count": 86,
+				"created_at": "Sat May 12 17:03:12 +0000 2012",
+				"favourites_count": 11320,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4673,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438476746233368576/uo2xqzSU.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438476746233368576/uo2xqzSU.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/923663340538417152/cO_mk1Si_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/923663340538417152/cO_mk1Si_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/578224522/1519212745",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 10,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sat May 19 23:01:00 +0000 2018",
 		"id": 997975436557766700,
 		"id_str": "997975436557766656",
