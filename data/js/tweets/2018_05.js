@@ -1,6 +1,2098 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sat May 26 03:49:30 +0000 2018",
+		"id": 1000222366377496600,
+		"id_str": "1000222366377496576",
+		"text": "@lifeunlocked Thanks...!!! \n\n...Oh you were referring to my meme 😂😂😂",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lifeunlocked",
+					"name": "Praveen Swaraj",
+					"id": 112414092,
+					"id_str": "112414092",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1000216587918610400,
+		"in_reply_to_status_id_str": "1000216587918610432",
+		"in_reply_to_user_id": 112414092,
+		"in_reply_to_user_id_str": "112414092",
+		"in_reply_to_screen_name": "lifeunlocked",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46692,
+			"friends_count": 23511,
+			"listed_count": 1138,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12574,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 26 03:48:57 +0000 2018",
+		"id": 1000222228410056700,
+		"id_str": "1000222228410056704",
+		"text": "RT @mrsthorne79: Excellent work @virginmedia who have sent me someone else's #GDPR information!!!  #owngoal #dataprotection #breach https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GDPR",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "owngoal",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "dataprotection",
+					"indices": [
+						108,
+						123
+					]
+				},
+				{
+					"text": "breach",
+					"indices": [
+						124,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrsthorne79",
+					"name": "Victoria Thorne",
+					"id": 2238858305,
+					"id_str": "2238858305",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "virginmedia",
+					"name": "Virgin Media",
+					"id": 17872077,
+					"id_str": "17872077",
+					"indices": [
+						32,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46692,
+			"friends_count": 23511,
+			"listed_count": 1138,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12574,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 25 15:23:45 +0000 2018",
+			"id": 1000034696053645300,
+			"id_str": "1000034696053645313",
+			"text": "Excellent work @virginmedia who have sent me someone else's #GDPR information!!!  #owngoal #dataprotection #breach https://t.co/KZI1cl7JhV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GDPR",
+						"indices": [
+							60,
+							65
+						]
+					},
+					{
+						"text": "owngoal",
+						"indices": [
+							82,
+							90
+						]
+					},
+					{
+						"text": "dataprotection",
+						"indices": [
+							91,
+							106
+						]
+					},
+					{
+						"text": "breach",
+						"indices": [
+							107,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "virginmedia",
+						"name": "Virgin Media",
+						"id": 17872077,
+						"id_str": "17872077",
+						"indices": [
+							15,
+							27
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1000033404975550500,
+						"id_str": "1000033404975550464",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DeDVFVsXkAATS46.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeDVFVsXkAATS46.jpg",
+						"url": "https://t.co/KZI1cl7JhV",
+						"display_url": "pic.twitter.com/KZI1cl7JhV",
+						"expanded_url": "https://twitter.com/mrsthorne79/status/1000034696053645313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 655,
+								"h": 645,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 655,
+								"h": 645,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 655,
+								"h": 645,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1000033404975550500,
+						"id_str": "1000033404975550464",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DeDVFVsXkAATS46.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeDVFVsXkAATS46.jpg",
+						"url": "https://t.co/KZI1cl7JhV",
+						"display_url": "pic.twitter.com/KZI1cl7JhV",
+						"expanded_url": "https://twitter.com/mrsthorne79/status/1000034696053645313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 655,
+								"h": 645,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 655,
+								"h": 645,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 655,
+								"h": 645,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2238858305,
+				"id_str": "2238858305",
+				"name": "Victoria Thorne",
+				"screen_name": "mrsthorne79",
+				"location": "Bristol",
+				"description": "Ginger, body positive, alpha female.  Lover of cats, lifting heavy things and red wine.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 83,
+				"friends_count": 170,
+				"listed_count": 13,
+				"created_at": "Sun Dec 22 22:37:49 +0000 2013",
+				"favourites_count": 366,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1748,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/998240286835789824/GtRVJT2n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/998240286835789824/GtRVJT2n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2238858305/1494188347",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 26 03:48:53 +0000 2018",
+		"id": 1000222211515433000,
+		"id_str": "1000222211515432960",
+		"text": "RT @bertrum: Hello @virginmedia Just had a #GDPR email from you and I’m now called Patricia according to your email 😳. I can confirm I am s…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GDPR",
+					"indices": [
+						43,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bertrum",
+					"name": "Neil B",
+					"id": 15799091,
+					"id_str": "15799091",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "virginmedia",
+					"name": "Virgin Media",
+					"id": 17872077,
+					"id_str": "17872077",
+					"indices": [
+						19,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46692,
+			"friends_count": 23511,
+			"listed_count": 1138,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12574,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 25 14:44:16 +0000 2018",
+			"id": 1000024757318901800,
+			"id_str": "1000024757318901761",
+			"text": "Hello @virginmedia Just had a #GDPR email from you and I’m now called Patricia according to your email 😳. I can con… https://t.co/uzaJqzVyCA",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GDPR",
+						"indices": [
+							30,
+							35
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "virginmedia",
+						"name": "Virgin Media",
+						"id": 17872077,
+						"id_str": "17872077",
+						"indices": [
+							6,
+							18
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/uzaJqzVyCA",
+						"expanded_url": "https://twitter.com/i/web/status/1000024757318901761",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15799091,
+				"id_str": "15799091",
+				"name": "Neil B",
+				"screen_name": "bertrum",
+				"location": "Totton, The New Forest. UK.",
+				"description": "If A equals success, then the formula is A equals X plus Y plus Z. X is work. Y is play. Z is keep your mouth shut",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 270,
+				"friends_count": 307,
+				"listed_count": 12,
+				"created_at": "Sun Aug 10 16:27:57 +0000 2008",
+				"favourites_count": 515,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12014,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/915194985506643969/cfzYfXU6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/915194985506643969/cfzYfXU6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15799091/1351367281",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "2ec1038a2f849d45",
+				"url": "https://api.twitter.com/1.1/geo/id/2ec1038a2f849d45.json",
+				"place_type": "city",
+				"name": "Totton",
+				"full_name": "Totton, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-1.5253284,
+								50.9015904
+							],
+							[
+								-1.477062,
+								50.9015904
+							],
+							[
+								-1.477062,
+								50.935343
+							],
+							[
+								-1.5253284,
+								50.935343
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 26 03:43:24 +0000 2018",
+		"id": 1000220835053948900,
+		"id_str": "1000220835053948928",
+		"text": "@mrsthorne79 @virginmedia Oh my...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrsthorne79",
+					"name": "Victoria Thorne",
+					"id": 2238858305,
+					"id_str": "2238858305",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "virginmedia",
+					"name": "Virgin Media",
+					"id": 17872077,
+					"id_str": "17872077",
+					"indices": [
+						13,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1000034696053645300,
+		"in_reply_to_status_id_str": "1000034696053645313",
+		"in_reply_to_user_id": 2238858305,
+		"in_reply_to_user_id_str": "2238858305",
+		"in_reply_to_screen_name": "mrsthorne79",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46692,
+			"friends_count": 23511,
+			"listed_count": 1138,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12574,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 26 03:43:02 +0000 2018",
+		"id": 1000220742624018400,
+		"id_str": "1000220742624018433",
+		"text": "@bertrum @virginmedia Yikes!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bertrum",
+					"name": "Neil B",
+					"id": 15799091,
+					"id_str": "15799091",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "virginmedia",
+					"name": "Virgin Media",
+					"id": 17872077,
+					"id_str": "17872077",
+					"indices": [
+						9,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1000024757318901800,
+		"in_reply_to_status_id_str": "1000024757318901761",
+		"in_reply_to_user_id": 15799091,
+		"in_reply_to_user_id_str": "15799091",
+		"in_reply_to_screen_name": "bertrum",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46692,
+			"friends_count": 23511,
+			"listed_count": 1138,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12574,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 26 03:37:22 +0000 2018",
+		"id": 1000219313251401700,
+		"id_str": "1000219313251401729",
+		"text": "RT @mapr: It’s #GDPR day! Thanks @andertoons for keeping us all entertained. #FridayFun https://t.co/p8o1MtfFfu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GDPR",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "FridayFun",
+					"indices": [
+						77,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mapr",
+					"name": "MapR Technologies",
+					"id": 14335957,
+					"id_str": "14335957",
+					"indices": [
+						3,
+						8
+					]
+				},
+				{
+					"screen_name": "andertoons",
+					"name": "Andertoons",
+					"id": 2890351,
+					"id_str": "2890351",
+					"indices": [
+						33,
+						44
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1000105479165505500,
+					"id_str": "1000105479165505538",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/DeEWom-U8AIY054.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DeEWom-U8AIY054.jpg",
+					"url": "https://t.co/p8o1MtfFfu",
+					"display_url": "pic.twitter.com/p8o1MtfFfu",
+					"expanded_url": "https://twitter.com/mapr/status/1000105481233424384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 726,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 726,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 514,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1000105481233424400,
+					"source_status_id_str": "1000105481233424384",
+					"source_user_id": 14335957,
+					"source_user_id_str": "14335957"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1000105479165505500,
+					"id_str": "1000105479165505538",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/DeEWom-U8AIY054.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DeEWom-U8AIY054.jpg",
+					"url": "https://t.co/p8o1MtfFfu",
+					"display_url": "pic.twitter.com/p8o1MtfFfu",
+					"expanded_url": "https://twitter.com/mapr/status/1000105481233424384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 726,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 726,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 514,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1000105481233424400,
+					"source_status_id_str": "1000105481233424384",
+					"source_user_id": 14335957,
+					"source_user_id_str": "14335957"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46692,
+			"friends_count": 23511,
+			"listed_count": 1138,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12574,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 25 20:05:02 +0000 2018",
+			"id": 1000105481233424400,
+			"id_str": "1000105481233424384",
+			"text": "It’s #GDPR day! Thanks @andertoons for keeping us all entertained. #FridayFun https://t.co/p8o1MtfFfu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GDPR",
+						"indices": [
+							5,
+							10
+						]
+					},
+					{
+						"text": "FridayFun",
+						"indices": [
+							67,
+							77
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "andertoons",
+						"name": "Andertoons",
+						"id": 2890351,
+						"id_str": "2890351",
+						"indices": [
+							23,
+							34
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1000105479165505500,
+						"id_str": "1000105479165505538",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DeEWom-U8AIY054.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeEWom-U8AIY054.jpg",
+						"url": "https://t.co/p8o1MtfFfu",
+						"display_url": "pic.twitter.com/p8o1MtfFfu",
+						"expanded_url": "https://twitter.com/mapr/status/1000105481233424384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 726,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 726,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 514,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1000105479165505500,
+						"id_str": "1000105479165505538",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DeEWom-U8AIY054.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeEWom-U8AIY054.jpg",
+						"url": "https://t.co/p8o1MtfFfu",
+						"display_url": "pic.twitter.com/p8o1MtfFfu",
+						"expanded_url": "https://twitter.com/mapr/status/1000105481233424384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 726,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 726,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 514,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.oktopost.com\" rel=\"nofollow\">Oktopost</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14335957,
+				"id_str": "14335957",
+				"name": "MapR Technologies",
+				"screen_name": "mapr",
+				"location": "Santa Clara, CA",
+				"description": "MapR is the industry’s leading data platform for AI and Analytics.",
+				"url": "https://t.co/mCXXkNljxr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mCXXkNljxr",
+								"expanded_url": "http://www.mapr.com",
+								"display_url": "mapr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 49519,
+				"friends_count": 4425,
+				"listed_count": 1420,
+				"created_at": "Tue Apr 08 20:45:45 +0000 2008",
+				"favourites_count": 6557,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 14938,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C60C30",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/912676674830876672/-if8m178_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/912676674830876672/-if8m178_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14335957/1506434070",
+				"profile_link_color": "C60C30",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 9,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 26 03:20:51 +0000 2018",
+		"id": 1000215158709403600,
+		"id_str": "1000215158709403649",
+		"text": "RT @Ed_Wing: The best part of #GDPR - less spam. Also jokes. Jokes are even better. https://t.co/ASENlFfRmd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GDPR",
+					"indices": [
+						30,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ed_Wing",
+					"name": "Slava Lukyanenka",
+					"id": 16422171,
+					"id_str": "16422171",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1000078864939397100,
+					"id_str": "1000078864939397122",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/DeD-bdQWsAIvOlm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DeD-bdQWsAIvOlm.jpg",
+					"url": "https://t.co/ASENlFfRmd",
+					"display_url": "pic.twitter.com/ASENlFfRmd",
+					"expanded_url": "https://twitter.com/Ed_Wing/status/1000078880877764608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 656,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 777,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 777,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1000078880877764600,
+					"source_status_id_str": "1000078880877764608",
+					"source_user_id": 16422171,
+					"source_user_id_str": "16422171"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1000078864939397100,
+					"id_str": "1000078864939397122",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/DeD-bdQWsAIvOlm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DeD-bdQWsAIvOlm.jpg",
+					"url": "https://t.co/ASENlFfRmd",
+					"display_url": "pic.twitter.com/ASENlFfRmd",
+					"expanded_url": "https://twitter.com/Ed_Wing/status/1000078880877764608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 656,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 777,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 777,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1000078880877764600,
+					"source_status_id_str": "1000078880877764608",
+					"source_user_id": 16422171,
+					"source_user_id_str": "16422171"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46692,
+			"friends_count": 23511,
+			"listed_count": 1138,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12574,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 25 18:19:20 +0000 2018",
+			"id": 1000078880877764600,
+			"id_str": "1000078880877764608",
+			"text": "The best part of #GDPR - less spam. Also jokes. Jokes are even better. https://t.co/ASENlFfRmd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GDPR",
+						"indices": [
+							17,
+							22
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1000078864939397100,
+						"id_str": "1000078864939397122",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DeD-bdQWsAIvOlm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeD-bdQWsAIvOlm.jpg",
+						"url": "https://t.co/ASENlFfRmd",
+						"display_url": "pic.twitter.com/ASENlFfRmd",
+						"expanded_url": "https://twitter.com/Ed_Wing/status/1000078880877764608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 656,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 777,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 777,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1000078864939397100,
+						"id_str": "1000078864939397122",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DeD-bdQWsAIvOlm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeD-bdQWsAIvOlm.jpg",
+						"url": "https://t.co/ASENlFfRmd",
+						"display_url": "pic.twitter.com/ASENlFfRmd",
+						"expanded_url": "https://twitter.com/Ed_Wing/status/1000078880877764608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 656,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 777,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 777,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16422171,
+				"id_str": "16422171",
+				"name": "Slava Lukyanenka",
+				"screen_name": "Ed_Wing",
+				"location": "Krakow, Poland",
+				"description": "Holistic Producer at @CDPROJEKTRED. Indie-helper. All tweets represent my personal opinion only.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1141,
+				"friends_count": 218,
+				"listed_count": 45,
+				"created_at": "Tue Sep 23 17:33:27 +0000 2008",
+				"favourites_count": 5554,
+				"utc_offset": 10800,
+				"time_zone": "Minsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30962,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848242948902932481/cETzkHf5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848242948902932481/cETzkHf5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16422171/1354812949",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "c458763765cea500",
+				"url": "https://api.twitter.com/1.1/geo/id/c458763765cea500.json",
+				"place_type": "city",
+				"name": "Krakow",
+				"full_name": "Krakow, Poland",
+				"country_code": "PL",
+				"country": "Poland",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								19.79343,
+								49.967561
+							],
+							[
+								20.2179622,
+								49.967561
+							],
+							[
+								20.2179622,
+								50.124963
+							],
+							[
+								19.79343,
+								50.124963
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 26 03:17:38 +0000 2018",
+		"id": 1000214347900072000,
+		"id_str": "1000214347900071936",
+		"text": "RT @catholicEW: of all the #GDPR content, this one amused us the most https://t.co/tCLCA58fa6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GDPR",
+					"indices": [
+						27,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "catholicEW",
+					"name": "Catholic Church",
+					"id": 63668427,
+					"id_str": "63668427",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1000031890622042100,
+					"id_str": "1000031890622042112",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DeDTtMSW0AAH1xp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DeDTtMSW0AAH1xp.jpg",
+					"url": "https://t.co/tCLCA58fa6",
+					"display_url": "pic.twitter.com/tCLCA58fa6",
+					"expanded_url": "https://twitter.com/catholicEW/status/1000032743076646912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 716,
+							"h": 852,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 571,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 716,
+							"h": 852,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1000032743076646900,
+					"source_status_id_str": "1000032743076646912",
+					"source_user_id": 63668427,
+					"source_user_id_str": "63668427"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1000031890622042100,
+					"id_str": "1000031890622042112",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DeDTtMSW0AAH1xp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DeDTtMSW0AAH1xp.jpg",
+					"url": "https://t.co/tCLCA58fa6",
+					"display_url": "pic.twitter.com/tCLCA58fa6",
+					"expanded_url": "https://twitter.com/catholicEW/status/1000032743076646912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 716,
+							"h": 852,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 571,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 716,
+							"h": 852,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1000032743076646900,
+					"source_status_id_str": "1000032743076646912",
+					"source_user_id": 63668427,
+					"source_user_id_str": "63668427"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46692,
+			"friends_count": 23511,
+			"listed_count": 1138,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12574,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 25 15:16:00 +0000 2018",
+			"id": 1000032743076646900,
+			"id_str": "1000032743076646912",
+			"text": "of all the #GDPR content, this one amused us the most https://t.co/tCLCA58fa6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GDPR",
+						"indices": [
+							11,
+							16
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1000031890622042100,
+						"id_str": "1000031890622042112",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DeDTtMSW0AAH1xp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeDTtMSW0AAH1xp.jpg",
+						"url": "https://t.co/tCLCA58fa6",
+						"display_url": "pic.twitter.com/tCLCA58fa6",
+						"expanded_url": "https://twitter.com/catholicEW/status/1000032743076646912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 716,
+								"h": 852,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 571,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 716,
+								"h": 852,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1000031890622042100,
+						"id_str": "1000031890622042112",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DeDTtMSW0AAH1xp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeDTtMSW0AAH1xp.jpg",
+						"url": "https://t.co/tCLCA58fa6",
+						"display_url": "pic.twitter.com/tCLCA58fa6",
+						"expanded_url": "https://twitter.com/catholicEW/status/1000032743076646912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 716,
+								"h": 852,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 571,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 716,
+								"h": 852,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63668427,
+				"id_str": "63668427",
+				"name": "Catholic Church",
+				"screen_name": "catholicEW",
+				"location": "London, England",
+				"description": "Serving the Catholic Bishops of England and Wales.\r\nFollowing/RTs ≠ endorsement.",
+				"url": "http://t.co/wrpeBOuNKY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/wrpeBOuNKY",
+								"expanded_url": "http://www.catholicnews.org.uk",
+								"display_url": "catholicnews.org.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33477,
+				"friends_count": 756,
+				"listed_count": 378,
+				"created_at": "Fri Aug 07 08:09:57 +0000 2009",
+				"favourites_count": 1954,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14266,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1368227498/cbcew-logo-300px_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368227498/cbcew-logo-300px_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63668427/1523545011",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 184,
+			"favorite_count": 335,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 184,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 26 03:03:08 +0000 2018",
 		"id": 1000210698822148100,
 		"id_str": "1000210698822148096",
