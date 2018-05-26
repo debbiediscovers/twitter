@@ -1,6 +1,420 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sat May 26 11:20:43 +0000 2018",
+		"id": 1000335921839915000,
+		"id_str": "1000335921839915009",
+		"text": "RT @sethlouey: \"5 Tips to Keep in Mind While Building a Chatbot\"  via @botlistco https://t.co/wkcVJtWRew #chatbots https://t.co/mSa4zDQS7r",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "chatbots",
+					"indices": [
+						105,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sethlouey",
+					"name": "Seth Louey 🐲⚡️",
+					"id": 159269260,
+					"id_str": "159269260",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "botlistco",
+					"name": "BotList",
+					"id": 4876850351,
+					"id_str": "4876850351",
+					"indices": [
+						70,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wkcVJtWRew",
+					"expanded_url": "http://bit.ly/2pfHI16",
+					"display_url": "bit.ly/2pfHI16",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1000006240209195000,
+					"id_str": "1000006240209195013",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DeC8YJDX0AUFkP-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DeC8YJDX0AUFkP-.jpg",
+					"url": "https://t.co/mSa4zDQS7r",
+					"display_url": "pic.twitter.com/mSa4zDQS7r",
+					"expanded_url": "https://twitter.com/sethlouey/status/1000006243069628418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 330,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1444,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 582,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1000006243069628400,
+					"source_status_id_str": "1000006243069628418",
+					"source_user_id": 159269260,
+					"source_user_id_str": "159269260"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1000006240209195000,
+					"id_str": "1000006240209195013",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DeC8YJDX0AUFkP-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DeC8YJDX0AUFkP-.jpg",
+					"url": "https://t.co/mSa4zDQS7r",
+					"display_url": "pic.twitter.com/mSa4zDQS7r",
+					"expanded_url": "https://twitter.com/sethlouey/status/1000006243069628418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 330,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1444,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 582,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1000006243069628400,
+					"source_status_id_str": "1000006243069628418",
+					"source_user_id": 159269260,
+					"source_user_id_str": "159269260"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46734,
+			"friends_count": 23794,
+			"listed_count": 1134,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12579,
+			"utc_offset": 28800,
+			"time_zone": "Singapore",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13343,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 25 13:30:42 +0000 2018",
+			"id": 1000006243069628400,
+			"id_str": "1000006243069628418",
+			"text": "\"5 Tips to Keep in Mind While Building a Chatbot\"  via @botlistco https://t.co/wkcVJtWRew #chatbots https://t.co/mSa4zDQS7r",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "chatbots",
+						"indices": [
+							90,
+							99
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "botlistco",
+						"name": "BotList",
+						"id": 4876850351,
+						"id_str": "4876850351",
+						"indices": [
+							55,
+							65
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wkcVJtWRew",
+						"expanded_url": "http://bit.ly/2pfHI16",
+						"display_url": "bit.ly/2pfHI16",
+						"indices": [
+							66,
+							89
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1000006240209195000,
+						"id_str": "1000006240209195013",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DeC8YJDX0AUFkP-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeC8YJDX0AUFkP-.jpg",
+						"url": "https://t.co/mSa4zDQS7r",
+						"display_url": "pic.twitter.com/mSa4zDQS7r",
+						"expanded_url": "https://twitter.com/sethlouey/status/1000006243069628418/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 330,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1444,
+								"h": 700,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 582,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1000006240209195000,
+						"id_str": "1000006240209195013",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DeC8YJDX0AUFkP-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeC8YJDX0AUFkP-.jpg",
+						"url": "https://t.co/mSa4zDQS7r",
+						"display_url": "pic.twitter.com/mSa4zDQS7r",
+						"expanded_url": "https://twitter.com/sethlouey/status/1000006243069628418/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 330,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1444,
+								"h": 700,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 582,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 159269260,
+				"id_str": "159269260",
+				"name": "Seth Louey 🐲⚡️",
+				"screen_name": "sethlouey",
+				"location": "Austin, TX",
+				"description": "🤖 Founded @BotListco, @CryptoMod_io, serial entrepreneur, 😸 @ProductHunt 2016 & 17 Maker of the Year Nominee :: #chatbots #blockchain #crypto",
+				"url": "https://t.co/FqsAeuudVs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FqsAeuudVs",
+								"expanded_url": "https://botlist.co/pro",
+								"display_url": "botlist.co/pro",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4079,
+				"friends_count": 328,
+				"listed_count": 676,
+				"created_at": "Thu Jun 24 22:57:24 +0000 2010",
+				"favourites_count": 17098,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22090,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/860854118515998720/5uhgTO4U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/860854118515998720/5uhgTO4U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/159269260/1492108190",
+				"profile_link_color": "485663",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "202020",
+				"profile_text_color": "8D9DAB",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 26 10:37:27 +0000 2018",
 		"id": 1000325033405894700,
 		"id_str": "1000325033405894657",
