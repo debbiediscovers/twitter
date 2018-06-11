@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sun Jun 10 22:24:33 +0000 2018",
+		"id": 1005938799275208700,
+		"id_str": "1005938799275208705",
+		"text": "RT @JamesBlunt: Mate, I’ve covered this already. https://t.co/cBj602iUpf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamesBlunt",
+					"name": "James Blunt",
+					"id": 82097756,
+					"id_str": "82097756",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cBj602iUpf",
+					"expanded_url": "https://twitter.com/johnmayer/status/921085014607056896",
+					"display_url": "twitter.com/johnmayer/stat…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48698,
+			"friends_count": 28377,
+			"listed_count": 1145,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13566,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 12 13:02:22 +0000 2018",
+			"id": 973182409897226200,
+			"id_str": "973182409897226240",
+			"text": "Mate, I’ve covered this already. https://t.co/cBj602iUpf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cBj602iUpf",
+						"expanded_url": "https://twitter.com/johnmayer/status/921085014607056896",
+						"display_url": "twitter.com/johnmayer/stat…",
+						"indices": [
+							33,
+							56
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 82097756,
+				"id_str": "82097756",
+				"name": "James Blunt",
+				"screen_name": "JamesBlunt",
+				"location": "London",
+				"description": "Cockney rhyming slang for the good stuff; Proof that one song is all you need.",
+				"url": "http://t.co/w7DjySW83s",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/w7DjySW83s",
+								"expanded_url": "http://www.jamesblunt.com",
+								"display_url": "jamesblunt.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1758798,
+				"friends_count": 97,
+				"listed_count": 4367,
+				"created_at": "Tue Oct 13 13:46:00 +0000 2009",
+				"favourites_count": 9061,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1100,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "003366",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823481178787299328/wLtHwjUF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823481178787299328/wLtHwjUF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/82097756/1524840581",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DCE9FA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 921085014607056900,
+			"quoted_status_id_str": "921085014607056896",
+			"quoted_status": {
+				"created_at": "Thu Oct 19 18:45:55 +0000 2017",
+				"id": 921085014607056900,
+				"id_str": "921085014607056896",
+				"text": "If you’re pretty, you’re pretty; but the only way to be beautiful is to be loving. Otherwise, it’s just “congratulations about your face.”",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 335534204,
+					"id_str": "335534204",
+					"name": "John Mayer",
+					"screen_name": "JohnMayer",
+					"location": "",
+					"description": "I’m John Mayer",
+					"url": "https://t.co/HyKkpw4Qky",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/HyKkpw4Qky",
+									"expanded_url": "http://www.johnmayer.com",
+									"display_url": "johnmayer.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1476865,
+					"friends_count": 594,
+					"listed_count": 3940,
+					"created_at": "Thu Jul 14 20:48:57 +0000 2011",
+					"favourites_count": 5120,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 2684,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EBE1C8",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/994625106457411584/ZDYxBTel_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/994625106457411584/ZDYxBTel_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/335534204/1525972271",
+					"profile_link_color": "9041ED",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "C9C9C9",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 251546,
+				"favorite_count": 596753,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 26981,
+			"favorite_count": 140938,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 921085014607056900,
+		"quoted_status_id_str": "921085014607056896",
+		"retweet_count": 26981,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 10 21:30:33 +0000 2018",
 		"id": 1005925209092677600,
 		"id_str": "1005925209092677632",
