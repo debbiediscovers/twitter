@@ -1,6 +1,666 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Wed Jun 20 10:03:55 +0000 2018",
+		"id": 1009376291756228600,
+		"id_str": "1009376291756228609",
+		"text": "RT @xavierlur: When you photoshopped yourself into a stock image just for a sponsored post and for the gram 🤦‍♂️. (And this isn’t just it.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xavierlur",
+					"name": "Xavier Lur",
+					"id": 12589972,
+					"id_str": "12589972",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50075,
+			"friends_count": 30212,
+			"listed_count": 1149,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12994,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13723,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 20 01:56:24 +0000 2018",
+			"id": 1009253601833672700,
+			"id_str": "1009253601833672704",
+			"text": "When you photoshopped yourself into a stock image just for a sponsored post and for the gram 🤦‍♂️. (And this isn’t… https://t.co/5GkMw8tSDR",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5GkMw8tSDR",
+						"expanded_url": "https://twitter.com/i/web/status/1009253601833672704",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12589972,
+				"id_str": "12589972",
+				"name": "Xavier Lur",
+				"screen_name": "xavierlur",
+				"location": "Singapore",
+				"description": "SMU student. I update my Insta Stories faster than my Twitter. Instagram: @xavierlur",
+				"url": "https://t.co/tawvxVe23I",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tawvxVe23I",
+								"expanded_url": "http://Instagram.com/xavierlur",
+								"display_url": "Instagram.com/xavierlur",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 173746,
+				"friends_count": 1367,
+				"listed_count": 1791,
+				"created_at": "Wed Jan 23 11:39:03 +0000 2008",
+				"favourites_count": 3870,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19765,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0F081C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/964482702639427584/1UvA07e4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/964482702639427584/1UvA07e4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12589972/1501511102",
+				"profile_link_color": "BF1249",
+				"profile_sidebar_border_color": "F0E7E7",
+				"profile_sidebar_fill_color": "F5F5F5",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1212,
+			"favorite_count": 698,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1212,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 20 10:03:39 +0000 2018",
+		"id": 1009376222948700200,
+		"id_str": "1009376222948700160",
+		"text": "RT @xavierlur: Shots fired! Brilliant marketing by Scoot!! https://t.co/9JNL7iLNeI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xavierlur",
+					"name": "Xavier Lur",
+					"id": 12589972,
+					"id_str": "12589972",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1009298408325050400,
+					"id_str": "1009298408325050369",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DgG_jgyU8AEg-7i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgG_jgyU8AEg-7i.jpg",
+					"url": "https://t.co/9JNL7iLNeI",
+					"display_url": "pic.twitter.com/9JNL7iLNeI",
+					"expanded_url": "https://twitter.com/xavierlur/status/1009298465392750592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 727,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 412,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 804,
+							"h": 1328,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1009298465392750600,
+					"source_status_id_str": "1009298465392750592",
+					"source_user_id": 12589972,
+					"source_user_id_str": "12589972"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1009298408325050400,
+					"id_str": "1009298408325050369",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DgG_jgyU8AEg-7i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgG_jgyU8AEg-7i.jpg",
+					"url": "https://t.co/9JNL7iLNeI",
+					"display_url": "pic.twitter.com/9JNL7iLNeI",
+					"expanded_url": "https://twitter.com/xavierlur/status/1009298465392750592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 727,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 412,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 804,
+							"h": 1328,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1009298465392750600,
+					"source_status_id_str": "1009298465392750592",
+					"source_user_id": 12589972,
+					"source_user_id_str": "12589972"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50075,
+			"friends_count": 30212,
+			"listed_count": 1149,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12994,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13723,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 20 04:54:40 +0000 2018",
+			"id": 1009298465392750600,
+			"id_str": "1009298465392750592",
+			"text": "Shots fired! Brilliant marketing by Scoot!! https://t.co/9JNL7iLNeI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1009298408325050400,
+						"id_str": "1009298408325050369",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/DgG_jgyU8AEg-7i.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgG_jgyU8AEg-7i.jpg",
+						"url": "https://t.co/9JNL7iLNeI",
+						"display_url": "pic.twitter.com/9JNL7iLNeI",
+						"expanded_url": "https://twitter.com/xavierlur/status/1009298465392750592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 727,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 412,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 804,
+								"h": 1328,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1009298408325050400,
+						"id_str": "1009298408325050369",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/DgG_jgyU8AEg-7i.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgG_jgyU8AEg-7i.jpg",
+						"url": "https://t.co/9JNL7iLNeI",
+						"display_url": "pic.twitter.com/9JNL7iLNeI",
+						"expanded_url": "https://twitter.com/xavierlur/status/1009298465392750592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 727,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 412,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 804,
+								"h": 1328,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1009253601833672700,
+			"in_reply_to_status_id_str": "1009253601833672704",
+			"in_reply_to_user_id": 12589972,
+			"in_reply_to_user_id_str": "12589972",
+			"in_reply_to_screen_name": "xavierlur",
+			"user": {
+				"id": 12589972,
+				"id_str": "12589972",
+				"name": "Xavier Lur",
+				"screen_name": "xavierlur",
+				"location": "Singapore",
+				"description": "SMU student. I update my Insta Stories faster than my Twitter. Instagram: @xavierlur",
+				"url": "https://t.co/tawvxVe23I",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tawvxVe23I",
+								"expanded_url": "http://Instagram.com/xavierlur",
+								"display_url": "Instagram.com/xavierlur",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 173746,
+				"friends_count": 1367,
+				"listed_count": 1791,
+				"created_at": "Wed Jan 23 11:39:03 +0000 2008",
+				"favourites_count": 3870,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19765,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0F081C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/964482702639427584/1UvA07e4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/964482702639427584/1UvA07e4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12589972/1501511102",
+				"profile_link_color": "BF1249",
+				"profile_sidebar_border_color": "F0E7E7",
+				"profile_sidebar_fill_color": "F5F5F5",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 541,
+			"favorite_count": 477,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 541,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 20 09:50:04 +0000 2018",
+		"id": 1009372806499336200,
+		"id_str": "1009372806499336193",
+		"text": "@lifeunlocked Yeah agree!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lifeunlocked",
+					"name": "Praveen Swaraj",
+					"id": 112414092,
+					"id_str": "112414092",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1009284375522005000,
+		"in_reply_to_status_id_str": "1009284375522004992",
+		"in_reply_to_user_id": 112414092,
+		"in_reply_to_user_id_str": "112414092",
+		"in_reply_to_screen_name": "lifeunlocked",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50075,
+			"friends_count": 30212,
+			"listed_count": 1149,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 12994,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13723,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 20 01:10:22 +0000 2018",
 		"id": 1009242018953007100,
 		"id_str": "1009242018953007112",
