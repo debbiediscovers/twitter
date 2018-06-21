@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Thu Jun 21 11:13:18 +0000 2018",
+		"id": 1009756140064800800,
+		"id_str": "1009756140064800769",
+		"text": "@thomaSchulz @gobottish @eyeson_team @SEED_Token @OVioHQ @RomeoKienzler @aronvanammers @kojouharov @jamie247… https://t.co/Ef8YyB2R4P",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thomaSchulz",
+					"name": "Thomas Schulz",
+					"id": 226482490,
+					"id_str": "226482490",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "gobottish",
+					"name": "bottish #8: June 21, 2018",
+					"id": 760815330923077600,
+					"id_str": "760815330923077633",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "eyeson_team",
+					"name": "eyeson",
+					"id": 848926663,
+					"id_str": "848926663",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"screen_name": "SEED_Token",
+					"name": "SEED Token",
+					"id": 912768639169830900,
+					"id_str": "912768639169830912",
+					"indices": [
+						37,
+						48
+					]
+				},
+				{
+					"screen_name": "OVioHQ",
+					"name": "Outlier Ventures",
+					"id": 2676374953,
+					"id_str": "2676374953",
+					"indices": [
+						49,
+						56
+					]
+				},
+				{
+					"screen_name": "RomeoKienzler",
+					"name": "Romeo Kienzler",
+					"id": 1009308300,
+					"id_str": "1009308300",
+					"indices": [
+						57,
+						71
+					]
+				},
+				{
+					"screen_name": "aronvanammers",
+					"name": "Aron van Ammers",
+					"id": 19060839,
+					"id_str": "19060839",
+					"indices": [
+						72,
+						86
+					]
+				},
+				{
+					"screen_name": "kojouharov",
+					"name": "stefan kojouharov",
+					"id": 401874492,
+					"id_str": "401874492",
+					"indices": [
+						87,
+						98
+					]
+				},
+				{
+					"screen_name": "jamie247",
+					"name": "Jamie Burke",
+					"id": 7032982,
+					"id_str": "7032982",
+					"indices": [
+						99,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ef8YyB2R4P",
+					"expanded_url": "https://twitter.com/i/web/status/1009756140064800769",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1009753290484133900,
+		"in_reply_to_status_id_str": "1009753290484133888",
+		"in_reply_to_user_id": 226482490,
+		"in_reply_to_user_id_str": "226482490",
+		"in_reply_to_screen_name": "thomaSchulz",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50275,
+			"friends_count": 30436,
+			"listed_count": 1151,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13737,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Thu Jun 21 11:12:43 +0000 2018",
+		"id": 1009755994010730500,
+		"id_str": "1009755994010730496",
+		"text": "RT @gobottish: 👋🏻 We have now a new confirmed #bottish community report 🤟🏻\n\n🌏🌍🌎 95 countries\n👤 8437 members: 70% 👨‍💻 30% 👩🏻‍💻\n🎙75 speakers…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bottish",
+					"indices": [
+						46,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gobottish",
+					"name": "bottish #8: June 21, 2018",
+					"id": 760815330923077600,
+					"id_str": "760815330923077633",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50275,
+			"friends_count": 30436,
+			"listed_count": 1151,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13737,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 21 10:53:42 +0000 2018",
+			"id": 1009751207567556600,
+			"id_str": "1009751207567556608",
+			"text": "👋🏻 We have now a new confirmed #bottish community report 🤟🏻\n\n🌏🌍🌎 95 countries\n👤 8437 members: 70% 👨‍💻 30% 👩🏻‍💻\n🎙75… https://t.co/RZDoeCAvJF",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "bottish",
+						"indices": [
+							31,
+							39
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RZDoeCAvJF",
+						"expanded_url": "https://twitter.com/i/web/status/1009751207567556608",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 760815330923077600,
+				"id_str": "760815330923077633",
+				"name": "bottish #8: June 21, 2018",
+				"screen_name": "gobottish",
+				"location": "🇨🇭🇦🇹🇫🇷🇩🇪🇮🇹🇳🇴🇵🇪",
+				"description": "🎙International experts 🤖 All about ro/bots and AI 📆 Six times a year 🚀 Run by @thomaschulz @ainabivi",
+				"url": "https://t.co/g68Tpz3dy2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/g68Tpz3dy2",
+								"expanded_url": "http://go.bottish.co",
+								"display_url": "go.bottish.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4849,
+				"friends_count": 3937,
+				"listed_count": 463,
+				"created_at": "Wed Aug 03 12:31:24 +0000 2016",
+				"favourites_count": 15413,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4547,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/913690620908187648/vDvyzTJh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/913690620908187648/vDvyzTJh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/760815330923077633/1524736051",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 21 11:11:51 +0000 2018",
 		"id": 1009755772463427600,
 		"id_str": "1009755772463427585",
@@ -319,7 +728,7 @@ Grailbird.data.tweets_2018_06 =
 				"name": "Thomas Schulz",
 				"screen_name": "thomaSchulz",
 				"location": "Barcelona, Spanien",
-				"description": "Connecting contacts, communities and content: @gobottish @seed_token @healthetia @beeqco @xing_Z AMA @thomaSchulzBot 🤖⛓👩‍⚕️🐝💼",
+				"description": "Connecting contacts, communities and content: @gobottish @seed_token @healthetia @beeqco @xing_Z AMA @thomaSchulzBot 🤖⛓👩⚕️🐝💼",
 				"url": "https://t.co/4GRtGVG9hw",
 				"entities": {
 					"url": {
