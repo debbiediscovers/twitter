@@ -1,6 +1,431 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Thu Jun 21 11:11:51 +0000 2018",
+		"id": 1009755772463427600,
+		"id_str": "1009755772463427585",
+		"text": "RT @thomaSchulz: @gobottish @eyeson_team @SEED_Token @OVioHQ @RomeoKienzler @aronvanammers @kojouharov @jamie247 @meadovian @aakuvaish 💪🏻💪🏻…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thomaSchulz",
+					"name": "Thomas Schulz",
+					"id": 226482490,
+					"id_str": "226482490",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "gobottish",
+					"name": "bottish #8: June 21, 2018",
+					"id": 760815330923077600,
+					"id_str": "760815330923077633",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "eyeson_team",
+					"name": "eyeson",
+					"id": 848926663,
+					"id_str": "848926663",
+					"indices": [
+						28,
+						40
+					]
+				},
+				{
+					"screen_name": "SEED_Token",
+					"name": "SEED Token",
+					"id": 912768639169830900,
+					"id_str": "912768639169830912",
+					"indices": [
+						41,
+						52
+					]
+				},
+				{
+					"screen_name": "OVioHQ",
+					"name": "Outlier Ventures",
+					"id": 2676374953,
+					"id_str": "2676374953",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"screen_name": "RomeoKienzler",
+					"name": "Romeo Kienzler",
+					"id": 1009308300,
+					"id_str": "1009308300",
+					"indices": [
+						61,
+						75
+					]
+				},
+				{
+					"screen_name": "aronvanammers",
+					"name": "Aron van Ammers",
+					"id": 19060839,
+					"id_str": "19060839",
+					"indices": [
+						76,
+						90
+					]
+				},
+				{
+					"screen_name": "kojouharov",
+					"name": "stefan kojouharov",
+					"id": 401874492,
+					"id_str": "401874492",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"screen_name": "jamie247",
+					"name": "Jamie Burke",
+					"id": 7032982,
+					"id_str": "7032982",
+					"indices": [
+						103,
+						112
+					]
+				},
+				{
+					"screen_name": "meadovian",
+					"name": "Mark Stephen Meadows",
+					"id": 271060805,
+					"id_str": "271060805",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"screen_name": "aakuvaish",
+					"name": "Aakrit Vaish",
+					"id": 20655319,
+					"id_str": "20655319",
+					"indices": [
+						124,
+						134
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50257,
+			"friends_count": 30407,
+			"listed_count": 1152,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13735,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 21 11:01:59 +0000 2018",
+			"id": 1009753290484133900,
+			"id_str": "1009753290484133888",
+			"text": "@gobottish @eyeson_team @SEED_Token @OVioHQ @RomeoKienzler @aronvanammers @kojouharov @jamie247 @meadovian… https://t.co/BZgKsIivyR",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "gobottish",
+						"name": "bottish #8: June 21, 2018",
+						"id": 760815330923077600,
+						"id_str": "760815330923077633",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "eyeson_team",
+						"name": "eyeson",
+						"id": 848926663,
+						"id_str": "848926663",
+						"indices": [
+							11,
+							23
+						]
+					},
+					{
+						"screen_name": "SEED_Token",
+						"name": "SEED Token",
+						"id": 912768639169830900,
+						"id_str": "912768639169830912",
+						"indices": [
+							24,
+							35
+						]
+					},
+					{
+						"screen_name": "OVioHQ",
+						"name": "Outlier Ventures",
+						"id": 2676374953,
+						"id_str": "2676374953",
+						"indices": [
+							36,
+							43
+						]
+					},
+					{
+						"screen_name": "RomeoKienzler",
+						"name": "Romeo Kienzler",
+						"id": 1009308300,
+						"id_str": "1009308300",
+						"indices": [
+							44,
+							58
+						]
+					},
+					{
+						"screen_name": "aronvanammers",
+						"name": "Aron van Ammers",
+						"id": 19060839,
+						"id_str": "19060839",
+						"indices": [
+							59,
+							73
+						]
+					},
+					{
+						"screen_name": "kojouharov",
+						"name": "stefan kojouharov",
+						"id": 401874492,
+						"id_str": "401874492",
+						"indices": [
+							74,
+							85
+						]
+					},
+					{
+						"screen_name": "jamie247",
+						"name": "Jamie Burke",
+						"id": 7032982,
+						"id_str": "7032982",
+						"indices": [
+							86,
+							95
+						]
+					},
+					{
+						"screen_name": "meadovian",
+						"name": "Mark Stephen Meadows",
+						"id": 271060805,
+						"id_str": "271060805",
+						"indices": [
+							96,
+							106
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BZgKsIivyR",
+						"expanded_url": "https://twitter.com/i/web/status/1009753290484133888",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1009751207567556600,
+			"in_reply_to_status_id_str": "1009751207567556608",
+			"in_reply_to_user_id": 760815330923077600,
+			"in_reply_to_user_id_str": "760815330923077633",
+			"in_reply_to_screen_name": "gobottish",
+			"user": {
+				"id": 226482490,
+				"id_str": "226482490",
+				"name": "Thomas Schulz",
+				"screen_name": "thomaSchulz",
+				"location": "Barcelona, Spanien",
+				"description": "Connecting contacts, communities and content: @gobottish @seed_token @healthetia @beeqco @xing_Z AMA @thomaSchulzBot 🤖⛓👩‍⚕️🐝💼",
+				"url": "https://t.co/4GRtGVG9hw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4GRtGVG9hw",
+								"expanded_url": "https://t.me/seedtoken",
+								"display_url": "t.me/seedtoken",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5372,
+				"friends_count": 2201,
+				"listed_count": 654,
+				"created_at": "Tue Dec 14 07:51:08 +0000 2010",
+				"favourites_count": 20626,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21962,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/755350716752007168/pjXK1ydi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/755350716752007168/pjXK1ydi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/226482490/1464524114",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1a27537478dd8e38",
+				"url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json",
+				"place_type": "city",
+				"name": "Barcelona",
+				"full_name": "Barcelona, Spain",
+				"country_code": "ES",
+				"country": "Spain",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								2.0524766,
+								41.3170475
+							],
+							[
+								2.2299781,
+								41.3170475
+							],
+							[
+								2.2299781,
+								41.4682658
+							],
+							[
+								2.0524766,
+								41.4682658
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 21 00:30:20 +0000 2018",
 		"id": 1009594331802546200,
 		"id_str": "1009594331802546177",
