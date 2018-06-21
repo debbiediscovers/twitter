@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Thu Jun 21 13:30:26 +0000 2018",
+		"id": 1009790650127192000,
+		"id_str": "1009790650127192064",
+		"text": "RT @unique_li: To successfully integrate AI, break through the fear barrier https://t.co/wOTU3GPMtv via @venturebeat https://t.co/15cq1judOt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "unique_li",
+					"name": "Uniquely Chloe",
+					"id": 2429842333,
+					"id_str": "2429842333",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "VentureBeat",
+					"name": "VentureBeat",
+					"id": 60642052,
+					"id_str": "60642052",
+					"indices": [
+						104,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wOTU3GPMtv",
+					"expanded_url": "http://dlvr.it/QY0KVX",
+					"display_url": "dlvr.it/QY0KVX",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1009632524425818100,
+					"id_str": "1009632524425818112",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DgLvboQU8AAIFsx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgLvboQU8AAIFsx.jpg",
+					"url": "https://t.co/15cq1judOt",
+					"display_url": "pic.twitter.com/15cq1judOt",
+					"expanded_url": "https://twitter.com/unique_li/status/1009632527311560704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1009632527311560700,
+					"source_status_id_str": "1009632527311560704",
+					"source_user_id": 2429842333,
+					"source_user_id_str": "2429842333"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1009632524425818100,
+					"id_str": "1009632524425818112",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DgLvboQU8AAIFsx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgLvboQU8AAIFsx.jpg",
+					"url": "https://t.co/15cq1judOt",
+					"display_url": "pic.twitter.com/15cq1judOt",
+					"expanded_url": "https://twitter.com/unique_li/status/1009632527311560704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1009632527311560700,
+					"source_status_id_str": "1009632527311560704",
+					"source_user_id": 2429842333,
+					"source_user_id_str": "2429842333"
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50299,
+			"friends_count": 30454,
+			"listed_count": 1152,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13738,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 21 03:02:07 +0000 2018",
+			"id": 1009632527311560700,
+			"id_str": "1009632527311560704",
+			"text": "To successfully integrate AI, break through the fear barrier https://t.co/wOTU3GPMtv via @venturebeat https://t.co/15cq1judOt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "VentureBeat",
+						"name": "VentureBeat",
+						"id": 60642052,
+						"id_str": "60642052",
+						"indices": [
+							89,
+							101
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wOTU3GPMtv",
+						"expanded_url": "http://dlvr.it/QY0KVX",
+						"display_url": "dlvr.it/QY0KVX",
+						"indices": [
+							61,
+							84
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1009632524425818100,
+						"id_str": "1009632524425818112",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DgLvboQU8AAIFsx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgLvboQU8AAIFsx.jpg",
+						"url": "https://t.co/15cq1judOt",
+						"display_url": "pic.twitter.com/15cq1judOt",
+						"expanded_url": "https://twitter.com/unique_li/status/1009632527311560704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1009632524425818100,
+						"id_str": "1009632524425818112",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DgLvboQU8AAIFsx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgLvboQU8AAIFsx.jpg",
+						"url": "https://t.co/15cq1judOt",
+						"display_url": "pic.twitter.com/15cq1judOt",
+						"expanded_url": "https://twitter.com/unique_li/status/1009632527311560704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2429842333,
+				"id_str": "2429842333",
+				"name": "Uniquely Chloe",
+				"screen_name": "unique_li",
+				"location": "London, England",
+				"description": "#WomeninTech #GirlsinTech Female entrepreneur trying to crystalise the equity of being Unique! Private Invite to Closed Engagement Pod (Link in bio)",
+				"url": "https://t.co/FUXaNqK8YF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FUXaNqK8YF",
+								"expanded_url": "https://getfuelgram.com/fuelgroups/U4BF1FIG",
+								"display_url": "getfuelgram.com/fuelgroups/U4B…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6532,
+				"friends_count": 3837,
+				"listed_count": 854,
+				"created_at": "Sun Apr 06 03:50:26 +0000 2014",
+				"favourites_count": 346,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2532,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAFFFD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/781204825744617472/1Yo1FS1m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/781204825744617472/1Yo1FS1m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2429842333/1475088697",
+				"profile_link_color": "485154",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 21 11:13:18 +0000 2018",
 		"id": 1009756140064800800,
 		"id_str": "1009756140064800769",
@@ -195,7 +593,7 @@ Grailbird.data.tweets_2018_06 =
 		"created_at": "Thu Jun 21 11:12:43 +0000 2018",
 		"id": 1009755994010730500,
 		"id_str": "1009755994010730496",
-		"text": "RT @gobottish: 👋🏻 We have now a new confirmed #bottish community report 🤟🏻\n\n🌏🌍🌎 95 countries\n👤 8437 members: 70% 👨‍💻 30% 👩🏻‍💻\n🎙75 speakers…",
+		"text": "RT @gobottish: 👋🏻 We have now a new confirmed #bottish community report 🤟🏻\n\n🌏🌍🌎 95 countries\n👤 8437 members: 70% 👨💻 30% 👩🏻💻\n🎙75 speakers…",
 		"truncated": false,
 		"entities": {
 			"hashtags": [
@@ -297,7 +695,7 @@ Grailbird.data.tweets_2018_06 =
 			"created_at": "Thu Jun 21 10:53:42 +0000 2018",
 			"id": 1009751207567556600,
 			"id_str": "1009751207567556608",
-			"text": "👋🏻 We have now a new confirmed #bottish community report 🤟🏻\n\n🌏🌍🌎 95 countries\n👤 8437 members: 70% 👨‍💻 30% 👩🏻‍💻\n🎙75… https://t.co/RZDoeCAvJF",
+			"text": "👋🏻 We have now a new confirmed #bottish community report 🤟🏻\n\n🌏🌍🌎 95 countries\n👤 8437 members: 70% 👨💻 30% 👩🏻💻\n🎙75… https://t.co/RZDoeCAvJF",
 			"truncated": true,
 			"entities": {
 				"hashtags": [
