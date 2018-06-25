@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 25 11:11:43 +0000 2018",
+		"id": 1011205292309114900,
+		"id_str": "1011205292309114880",
+		"text": "@CeeckhoutKiki @peterkay47 Thank you. My dad is awesome https://t.co/FAVCJOcSPn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CeeckhoutKiki",
+					"name": "Kiki❄ 🇲🇽 🇪🇺🇫🇷",
+					"id": 2722199248,
+					"id_str": "2722199248",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "peterkay47",
+					"name": "Peter Kay",
+					"id": 609940096,
+					"id_str": "609940096",
+					"indices": [
+						15,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1011205280418287600,
+					"id_str": "1011205280418287617",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DgiF2E5U0AEeb1a.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DgiF2E5U0AEeb1a.jpg",
+					"url": "https://t.co/FAVCJOcSPn",
+					"display_url": "pic.twitter.com/FAVCJOcSPn",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1011205292309114880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 374,
+							"h": 474,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 374,
+							"h": 474,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 374,
+							"h": 474,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1011205280418287600,
+					"id_str": "1011205280418287617",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DgiF2E5U0AEeb1a.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DgiF2E5U0AEeb1a.jpg",
+					"url": "https://t.co/FAVCJOcSPn",
+					"display_url": "pic.twitter.com/FAVCJOcSPn",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1011205292309114880/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 374,
+							"h": 474,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 374,
+							"h": 474,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 374,
+							"h": 474,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							187,
+							237
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DgiF2E5U0AEeb1a.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1011184431091068900,
+		"in_reply_to_status_id_str": "1011184431091068928",
+		"in_reply_to_user_id": 2722199248,
+		"in_reply_to_user_id_str": "2722199248",
+		"in_reply_to_screen_name": "CeeckhoutKiki",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50939,
+			"friends_count": 27120,
+			"listed_count": 1165,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13077,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13802,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 25 11:11:22 +0000 2018",
+		"id": 1011205204488777700,
+		"id_str": "1011205204488777728",
+		"text": "@Holycowboy79 @peterkay47  https://t.co/CIiijBWav4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Holycowboy79",
+					"name": "Richard Jalufka",
+					"id": 817670724932411400,
+					"id_str": "817670724932411394",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "peterkay47",
+					"name": "Peter Kay",
+					"id": 609940096,
+					"id_str": "609940096",
+					"indices": [
+						14,
+						25
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1011205192128258000,
+					"id_str": "1011205192128258049",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DgiFw7_V4AEPQG-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DgiFw7_V4AEPQG-.jpg",
+					"url": "https://t.co/CIiijBWav4",
+					"display_url": "pic.twitter.com/CIiijBWav4",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1011205204488777728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 266,
+							"h": 188,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 266,
+							"h": 188,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 266,
+							"h": 188,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1011205192128258000,
+					"id_str": "1011205192128258049",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DgiFw7_V4AEPQG-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DgiFw7_V4AEPQG-.jpg",
+					"url": "https://t.co/CIiijBWav4",
+					"display_url": "pic.twitter.com/CIiijBWav4",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1011205204488777728/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 266,
+							"h": 188,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 266,
+							"h": 188,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 266,
+							"h": 188,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							133,
+							94
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DgiFw7_V4AEPQG-.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1011184485533134800,
+		"in_reply_to_status_id_str": "1011184485533134848",
+		"in_reply_to_user_id": 817670724932411400,
+		"in_reply_to_user_id_str": "817670724932411394",
+		"in_reply_to_screen_name": "Holycowboy79",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50939,
+			"friends_count": 27120,
+			"listed_count": 1165,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13077,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13802,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Mon Jun 25 09:47:58 +0000 2018",
 		"id": 1011184214534787100,
 		"id_str": "1011184214534787072",
