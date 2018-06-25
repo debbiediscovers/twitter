@@ -1,6 +1,778 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 25 09:47:58 +0000 2018",
+		"id": 1011184214534787100,
+		"id_str": "1011184214534787072",
+		"text": "RT @peterkay47: Lost time is never found again \n- Benjamin Franklin \n\nEvery time we put something off, we use excuses like: \"I will do it l…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peterkay47",
+					"name": "Peter Kay",
+					"id": 609940096,
+					"id_str": "609940096",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50931,
+			"friends_count": 27089,
+			"listed_count": 1163,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13800,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 21 03:17:45 +0000 2018",
+			"id": 1009636460654354400,
+			"id_str": "1009636460654354433",
+			"text": "Lost time is never found again \n- Benjamin Franklin \n\nEvery time we put something off, we use excuses like: \"I will… https://t.co/fcq1ZOSPRG",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fcq1ZOSPRG",
+						"expanded_url": "https://twitter.com/i/web/status/1009636460654354433",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 609940096,
+				"id_str": "609940096",
+				"name": "Peter Kay",
+				"screen_name": "peterkay47",
+				"location": "Singapore",
+				"description": "Mindfulness allows you not to miss out on your life. By focusing our minds in the present moment, we open ourselves to awareness, adaptation and transformation.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37,
+				"friends_count": 122,
+				"listed_count": 1,
+				"created_at": "Sat Jun 16 12:05:23 +0000 2012",
+				"favourites_count": 89,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 76,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/993033070386204673/BJDpO0FG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/993033070386204673/BJDpO0FG_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 9,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 25 09:47:34 +0000 2018",
+		"id": 1011184115314356200,
+		"id_str": "1011184115314356225",
+		"text": "RT @peterkay47: Unconditional love does not expect anything in return and therefore does not lead to anxiety and sorrow. The essence of lov…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peterkay47",
+					"name": "Peter Kay",
+					"id": 609940096,
+					"id_str": "609940096",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50931,
+			"friends_count": 27089,
+			"listed_count": 1163,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13800,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 25 06:24:14 +0000 2018",
+			"id": 1011132945308868600,
+			"id_str": "1011132945308868609",
+			"text": "Unconditional love does not expect anything in return and therefore does not lead to anxiety and sorrow. The essenc… https://t.co/OZ16SDr8f4",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OZ16SDr8f4",
+						"expanded_url": "https://twitter.com/i/web/status/1011132945308868609",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 609940096,
+				"id_str": "609940096",
+				"name": "Peter Kay",
+				"screen_name": "peterkay47",
+				"location": "Singapore",
+				"description": "Mindfulness allows you not to miss out on your life. By focusing our minds in the present moment, we open ourselves to awareness, adaptation and transformation.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37,
+				"friends_count": 122,
+				"listed_count": 1,
+				"created_at": "Sat Jun 16 12:05:23 +0000 2012",
+				"favourites_count": 89,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 76,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/993033070386204673/BJDpO0FG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/993033070386204673/BJDpO0FG_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 25 09:18:59 +0000 2018",
+		"id": 1011176923119136800,
+		"id_str": "1011176923119136768",
+		"text": "RT @denottione: The Science of Color Contrast — An Expert Designer’s Guide https://t.co/rsGHC0z4zZ via @muzli https://t.co/jr76NtZZp8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "denottione",
+					"name": "Andrew Tan",
+					"id": 1715876323,
+					"id_str": "1715876323",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "muzli",
+					"name": "muzi",
+					"id": 67620575,
+					"id_str": "67620575",
+					"indices": [
+						103,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rsGHC0z4zZ",
+					"expanded_url": "http://dlvr.it/QYPrBf",
+					"display_url": "dlvr.it/QYPrBf",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1011128623095410700,
+					"id_str": "1011128623095410689",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/DghAICHU8AEAqVG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DghAICHU8AEAqVG.jpg",
+					"url": "https://t.co/jr76NtZZp8",
+					"display_url": "pic.twitter.com/jr76NtZZp8",
+					"expanded_url": "https://twitter.com/denottione/status/1011128625767186432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 309,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 363,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 363,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1011128625767186400,
+					"source_status_id_str": "1011128625767186432",
+					"source_user_id": 1715876323,
+					"source_user_id_str": "1715876323"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1011128623095410700,
+					"id_str": "1011128623095410689",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/DghAICHU8AEAqVG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DghAICHU8AEAqVG.jpg",
+					"url": "https://t.co/jr76NtZZp8",
+					"display_url": "pic.twitter.com/jr76NtZZp8",
+					"expanded_url": "https://twitter.com/denottione/status/1011128625767186432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 309,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 363,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 363,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1011128625767186400,
+					"source_status_id_str": "1011128625767186432",
+					"source_user_id": 1715876323,
+					"source_user_id_str": "1715876323"
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50931,
+			"friends_count": 27089,
+			"listed_count": 1163,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13800,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 25 06:07:04 +0000 2018",
+			"id": 1011128625767186400,
+			"id_str": "1011128625767186432",
+			"text": "The Science of Color Contrast — An Expert Designer’s Guide https://t.co/rsGHC0z4zZ via @muzli https://t.co/jr76NtZZp8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "muzli",
+						"name": "muzi",
+						"id": 67620575,
+						"id_str": "67620575",
+						"indices": [
+							87,
+							93
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/rsGHC0z4zZ",
+						"expanded_url": "http://dlvr.it/QYPrBf",
+						"display_url": "dlvr.it/QYPrBf",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1011128623095410700,
+						"id_str": "1011128623095410689",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DghAICHU8AEAqVG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DghAICHU8AEAqVG.jpg",
+						"url": "https://t.co/jr76NtZZp8",
+						"display_url": "pic.twitter.com/jr76NtZZp8",
+						"expanded_url": "https://twitter.com/denottione/status/1011128625767186432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 309,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 363,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 363,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1011128623095410700,
+						"id_str": "1011128623095410689",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DghAICHU8AEAqVG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DghAICHU8AEAqVG.jpg",
+						"url": "https://t.co/jr76NtZZp8",
+						"display_url": "pic.twitter.com/jr76NtZZp8",
+						"expanded_url": "https://twitter.com/denottione/status/1011128625767186432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 309,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 363,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 363,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1715876323,
+				"id_str": "1715876323",
+				"name": "Andrew Tan",
+				"screen_name": "denottione",
+				"location": "space",
+				"description": "#Digital #Designer, #Web #Developer, #SEO, 5D free trial for 600 powerlikes from Fuelgram link in bio",
+				"url": "https://t.co/nLS6AJWQRZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nLS6AJWQRZ",
+								"expanded_url": "http://bit.ly/GrowYourInstagram-5DFreeEngagementLikes",
+								"display_url": "bit.ly/GrowYourInstag…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3579,
+				"friends_count": 4892,
+				"listed_count": 82,
+				"created_at": "Sat Aug 31 14:33:57 +0000 2013",
+				"favourites_count": 407,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6212,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/635139540693356544/8FTAGffk_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/635139540693356544/8FTAGffk_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1715876323/1475087477",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jun 25 08:09:38 +0000 2018",
 		"id": 1011159467029741600,
 		"id_str": "1011159467029741569",
@@ -12,7 +784,7 @@ Grailbird.data.tweets_2018_06 =
 			"user_mentions": [
 				{
 					"screen_name": "Irish_IreneB",
-					"name": "MissFitBit  🏋️‍♀️ 💪🏻💃🏻👊🏻",
+					"name": "MissFitBit  🏋️♀️ 💪🏻💃🏻👊🏻",
 					"id": 2673301947,
 					"id_str": "2673301947",
 					"indices": [
