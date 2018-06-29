@@ -1,6 +1,2017 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Fri Jun 29 21:06:51 +0000 2018",
+		"id": 1012804611873308700,
+		"id_str": "1012804611873308672",
+		"text": "RT @debbiediscovers: Will Facebook Use Artificial Intelligence to Help Monitor Facebook Live? #AI #Marketing https://t.co/387fzE3mSy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "Marketing",
+					"indices": [
+						98,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/387fzE3mSy",
+					"expanded_url": "https://buff.ly/2EJ3ZdG",
+					"display_url": "buff.ly/2EJ3ZdG",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://debbiediscovers.com\" rel=\"nofollow\">TWITTER LIST ADDER</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51673,
+			"friends_count": 27667,
+			"listed_count": 1165,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 29 16:00:15 +0000 2018",
+			"id": 1012727455877132300,
+			"id_str": "1012727455877132288",
+			"text": "Will Facebook Use Artificial Intelligence to Help Monitor Facebook Live? #AI #Marketing https://t.co/387fzE3mSy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AI",
+						"indices": [
+							73,
+							76
+						]
+					},
+					{
+						"text": "Marketing",
+						"indices": [
+							77,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/387fzE3mSy",
+						"expanded_url": "https://buff.ly/2EJ3ZdG",
+						"display_url": "buff.ly/2EJ3ZdG",
+						"indices": [
+							88,
+							111
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore",
+				"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51673,
+				"friends_count": 27667,
+				"listed_count": 1165,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 13140,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13876,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 29 20:49:34 +0000 2018",
+		"id": 1012800264951091200,
+		"id_str": "1012800264951091200",
+		"text": "@RikkuCruel69 @BurgerKing @budweiserusa 🍻🍺yeah!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RikkuCruel69",
+					"name": "Rick Wright",
+					"id": 2669687491,
+					"id_str": "2669687491",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "BurgerKing",
+					"name": "Burger King",
+					"id": 167421802,
+					"id_str": "167421802",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "budweiserusa",
+					"name": "BudweiserUSA",
+					"id": 870680989,
+					"id_str": "870680989",
+					"indices": [
+						26,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1012799971278639100,
+		"in_reply_to_status_id_str": "1012799971278639105",
+		"in_reply_to_user_id": 2669687491,
+		"in_reply_to_user_id_str": "2669687491",
+		"in_reply_to_screen_name": "RikkuCruel69",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51673,
+			"friends_count": 27667,
+			"listed_count": 1165,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 29 20:35:28 +0000 2018",
+		"id": 1012796716037259300,
+		"id_str": "1012796716037259264",
+		"text": "RT @BurgerKing: 😝 #whassup @budweiserusa https://t.co/uEGLmiqq7D",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "whassup",
+					"indices": [
+						18,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BurgerKing",
+					"name": "Burger King",
+					"id": 167421802,
+					"id_str": "167421802",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "budweiserusa",
+					"name": "BudweiserUSA",
+					"id": 870680989,
+					"id_str": "870680989",
+					"indices": [
+						27,
+						40
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1011957561359204400,
+					"id_str": "1011957561359204353",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1011957561359204353/pu/img/I7U2_ko2aE5E7E5l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1011957561359204353/pu/img/I7U2_ko2aE5E7E5l.jpg",
+					"url": "https://t.co/uEGLmiqq7D",
+					"display_url": "pic.twitter.com/uEGLmiqq7D",
+					"expanded_url": "https://twitter.com/BurgerKing/status/1011957650966351875/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1011957650966351900,
+					"source_status_id_str": "1011957650966351875",
+					"source_user_id": 167421802,
+					"source_user_id_str": "167421802"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1011957561359204400,
+					"id_str": "1011957561359204353",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1011957561359204353/pu/img/I7U2_ko2aE5E7E5l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1011957561359204353/pu/img/I7U2_ko2aE5E7E5l.jpg",
+					"url": "https://t.co/uEGLmiqq7D",
+					"display_url": "pic.twitter.com/uEGLmiqq7D",
+					"expanded_url": "https://twitter.com/BurgerKing/status/1011957650966351875/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1011957650966351900,
+					"source_status_id_str": "1011957650966351875",
+					"source_user_id": 167421802,
+					"source_user_id_str": "167421802",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15015,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1011957561359204353/pu/vid/1280x720/1_TTbLeMWojFrcMn.mp4?tag=3"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1011957561359204353/pu/vid/320x180/Xs_HllmidYiTpBKE.mp4?tag=3"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1011957561359204353/pu/vid/640x360/QuMzRBg1miOTMIjd.mp4?tag=3"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1011957561359204353/pu/pl/VMr-QcF7xvKgDdZV.m3u8?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 167421802,
+							"id_str": "167421802",
+							"name": "Burger King",
+							"screen_name": "BurgerKing",
+							"location": "",
+							"description": "The official Tweets of Burger King USA.",
+							"url": "https://t.co/dfb1AcLrFh",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/dfb1AcLrFh",
+											"expanded_url": "http://bk.com",
+											"display_url": "bk.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1676332,
+							"friends_count": 3922,
+							"listed_count": 3144,
+							"created_at": "Fri Jul 16 15:08:05 +0000 2010",
+							"favourites_count": 7482,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 20753,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "1786E8",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1008818679474212866/o97KcqbE_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1008818679474212866/o97KcqbE_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/167421802/1530194443",
+							"profile_link_color": "DA0000",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51673,
+			"friends_count": 27667,
+			"listed_count": 1165,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 27 13:01:19 +0000 2018",
+			"id": 1011957650966351900,
+			"id_str": "1011957650966351875",
+			"text": "😝 #whassup @budweiserusa https://t.co/uEGLmiqq7D",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "whassup",
+						"indices": [
+							2,
+							10
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "budweiserusa",
+						"name": "BudweiserUSA",
+						"id": 870680989,
+						"id_str": "870680989",
+						"indices": [
+							11,
+							24
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1011957561359204400,
+						"id_str": "1011957561359204353",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1011957561359204353/pu/img/I7U2_ko2aE5E7E5l.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1011957561359204353/pu/img/I7U2_ko2aE5E7E5l.jpg",
+						"url": "https://t.co/uEGLmiqq7D",
+						"display_url": "pic.twitter.com/uEGLmiqq7D",
+						"expanded_url": "https://twitter.com/BurgerKing/status/1011957650966351875/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1011957561359204400,
+						"id_str": "1011957561359204353",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1011957561359204353/pu/img/I7U2_ko2aE5E7E5l.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1011957561359204353/pu/img/I7U2_ko2aE5E7E5l.jpg",
+						"url": "https://t.co/uEGLmiqq7D",
+						"display_url": "pic.twitter.com/uEGLmiqq7D",
+						"expanded_url": "https://twitter.com/BurgerKing/status/1011957650966351875/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 15015,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1011957561359204353/pu/vid/1280x720/1_TTbLeMWojFrcMn.mp4?tag=3"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1011957561359204353/pu/vid/320x180/Xs_HllmidYiTpBKE.mp4?tag=3"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1011957561359204353/pu/vid/640x360/QuMzRBg1miOTMIjd.mp4?tag=3"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1011957561359204353/pu/pl/VMr-QcF7xvKgDdZV.m3u8?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 167421802,
+				"id_str": "167421802",
+				"name": "Burger King",
+				"screen_name": "BurgerKing",
+				"location": "",
+				"description": "The official Tweets of Burger King USA.",
+				"url": "https://t.co/dfb1AcLrFh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dfb1AcLrFh",
+								"expanded_url": "http://bk.com",
+								"display_url": "bk.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1676332,
+				"friends_count": 3922,
+				"listed_count": 3144,
+				"created_at": "Fri Jul 16 15:08:05 +0000 2010",
+				"favourites_count": 7482,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20753,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1786E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1008818679474212866/o97KcqbE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1008818679474212866/o97KcqbE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/167421802/1530194443",
+				"profile_link_color": "DA0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2906,
+			"favorite_count": 8797,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2906,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Fri Jun 29 20:35:18 +0000 2018",
+		"id": 1012796671627911200,
+		"id_str": "1012796671627911169",
+		"text": "RT @BurgerKing: @Havanna_arg @budweiserusa pPpPpPpPpPPPPPPPP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BurgerKing",
+					"name": "Burger King",
+					"id": 167421802,
+					"id_str": "167421802",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "Havanna_arg",
+					"name": "Havanna Argentina",
+					"id": 127518805,
+					"id_str": "127518805",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "budweiserusa",
+					"name": "BudweiserUSA",
+					"id": 870680989,
+					"id_str": "870680989",
+					"indices": [
+						29,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51673,
+			"friends_count": 27667,
+			"listed_count": 1165,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 28 21:43:12 +0000 2018",
+			"id": 1012451372460068900,
+			"id_str": "1012451372460068864",
+			"text": "@Havanna_arg @budweiserusa pPpPpPpPpPPPPPPPP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Havanna_arg",
+						"name": "Havanna Argentina",
+						"id": 127518805,
+						"id_str": "127518805",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "budweiserusa",
+						"name": "BudweiserUSA",
+						"id": 870680989,
+						"id_str": "870680989",
+						"indices": [
+							13,
+							26
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1012419726532890600,
+			"in_reply_to_status_id_str": "1012419726532890627",
+			"in_reply_to_user_id": 127518805,
+			"in_reply_to_user_id_str": "127518805",
+			"in_reply_to_screen_name": "Havanna_arg",
+			"user": {
+				"id": 167421802,
+				"id_str": "167421802",
+				"name": "Burger King",
+				"screen_name": "BurgerKing",
+				"location": "",
+				"description": "The official Tweets of Burger King USA.",
+				"url": "https://t.co/dfb1AcLrFh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dfb1AcLrFh",
+								"expanded_url": "http://bk.com",
+								"display_url": "bk.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1676332,
+				"friends_count": 3922,
+				"listed_count": 3144,
+				"created_at": "Fri Jul 16 15:08:05 +0000 2010",
+				"favourites_count": 7482,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20753,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1786E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1008818679474212866/o97KcqbE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1008818679474212866/o97KcqbE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/167421802/1530194443",
+				"profile_link_color": "DA0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 44,
+			"favorite_count": 133,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und"
+	},
+	{
+		"created_at": "Fri Jun 29 20:35:10 +0000 2018",
+		"id": 1012796637972840400,
+		"id_str": "1012796637972840448",
+		"text": "RT @budweiserusa: @CubsFans2001 @BurgerKing @TheBriAlt WhassaaaaAAAAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "budweiserusa",
+					"name": "BudweiserUSA",
+					"id": 870680989,
+					"id_str": "870680989",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "CubsFans2001",
+					"name": "K-M-C",
+					"id": 922481770372706300,
+					"id_str": "922481770372706310",
+					"indices": [
+						18,
+						31
+					]
+				},
+				{
+					"screen_name": "BurgerKing",
+					"name": "Burger King",
+					"id": 167421802,
+					"id_str": "167421802",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"screen_name": "TheBriAlt",
+					"name": "Brian Altenburg 🎶",
+					"id": 2891564296,
+					"id_str": "2891564296",
+					"indices": [
+						44,
+						54
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51673,
+			"friends_count": 27667,
+			"listed_count": 1165,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 26 23:30:39 +0000 2018",
+			"id": 1011753640346996700,
+			"id_str": "1011753640346996738",
+			"text": "@CubsFans2001 @BurgerKing @TheBriAlt WhassaaaaAAAAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa… https://t.co/BENazS1Q5w",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CubsFans2001",
+						"name": "K-M-C",
+						"id": 922481770372706300,
+						"id_str": "922481770372706310",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "BurgerKing",
+						"name": "Burger King",
+						"id": 167421802,
+						"id_str": "167421802",
+						"indices": [
+							14,
+							25
+						]
+					},
+					{
+						"screen_name": "TheBriAlt",
+						"name": "Brian Altenburg 🎶",
+						"id": 2891564296,
+						"id_str": "2891564296",
+						"indices": [
+							26,
+							36
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BENazS1Q5w",
+						"expanded_url": "https://twitter.com/i/web/status/1011753640346996738",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1011752368776638500,
+			"in_reply_to_status_id_str": "1011752368776638466",
+			"in_reply_to_user_id": 922481770372706300,
+			"in_reply_to_user_id_str": "922481770372706310",
+			"in_reply_to_screen_name": "CubsFans2001",
+			"user": {
+				"id": 870680989,
+				"id_str": "870680989",
+				"name": "BudweiserUSA",
+				"screen_name": "budweiserusa",
+				"location": "St Louis, MO",
+				"description": "Official Bud tweets are for people 21+ only. We can't talk to you until you follow us and verify that you are over 21. Budweiser, Anheuser-Busch, St. Louis, MO",
+				"url": "http://t.co/DTFX3KLvQQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/DTFX3KLvQQ",
+								"expanded_url": "http://www.budweiser.com",
+								"display_url": "budweiser.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 163324,
+				"friends_count": 186,
+				"listed_count": 801,
+				"created_at": "Tue Oct 09 22:05:04 +0000 2012",
+				"favourites_count": 2592,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 25985,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/930813531502587905/k2Tj2fy-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/930813531502587905/k2Tj2fy-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/870680989/1525179609",
+				"profile_link_color": "BD0F0F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61,
+			"favorite_count": 305,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 29 20:34:50 +0000 2018",
+		"id": 1012796556678852600,
+		"id_str": "1012796556678852609",
+		"text": "RT @BurgerKing: @budweiserusa whaassssaaaaaaaaaaaaaaaaa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BurgerKing",
+					"name": "Burger King",
+					"id": 167421802,
+					"id_str": "167421802",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "budweiserusa",
+					"name": "BudweiserUSA",
+					"id": 870680989,
+					"id_str": "870680989",
+					"indices": [
+						16,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51673,
+			"friends_count": 27667,
+			"listed_count": 1165,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 26 22:12:03 +0000 2018",
+			"id": 1011733856318353400,
+			"id_str": "1011733856318353408",
+			"text": "@budweiserusa whaassssaaaaaaaaaaaaaaaaa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "budweiserusa",
+						"name": "BudweiserUSA",
+						"id": 870680989,
+						"id_str": "870680989",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1011733470027178000,
+			"in_reply_to_status_id_str": "1011733470027177984",
+			"in_reply_to_user_id": 870680989,
+			"in_reply_to_user_id_str": "870680989",
+			"in_reply_to_screen_name": "budweiserusa",
+			"user": {
+				"id": 167421802,
+				"id_str": "167421802",
+				"name": "Burger King",
+				"screen_name": "BurgerKing",
+				"location": "",
+				"description": "The official Tweets of Burger King USA.",
+				"url": "https://t.co/dfb1AcLrFh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dfb1AcLrFh",
+								"expanded_url": "http://bk.com",
+								"display_url": "bk.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1676332,
+				"friends_count": 3922,
+				"listed_count": 3144,
+				"created_at": "Fri Jul 16 15:08:05 +0000 2010",
+				"favourites_count": 7482,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20753,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1786E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1008818679474212866/o97KcqbE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1008818679474212866/o97KcqbE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/167421802/1530194443",
+				"profile_link_color": "DA0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7183,
+			"favorite_count": 15849,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "tl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7183,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tl"
+	},
+	{
+		"created_at": "Fri Jun 29 20:34:48 +0000 2018",
+		"id": 1012796548730667000,
+		"id_str": "1012796548730667010",
+		"text": "RT @budweiserusa: @BurgerKing whasssaaaaaap",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "budweiserusa",
+					"name": "BudweiserUSA",
+					"id": 870680989,
+					"id_str": "870680989",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "BurgerKing",
+					"name": "Burger King",
+					"id": 167421802,
+					"id_str": "167421802",
+					"indices": [
+						18,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51673,
+			"friends_count": 27667,
+			"listed_count": 1165,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 26 22:10:31 +0000 2018",
+			"id": 1011733470027178000,
+			"id_str": "1011733470027177984",
+			"text": "@BurgerKing whasssaaaaaap",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BurgerKing",
+						"name": "Burger King",
+						"id": 167421802,
+						"id_str": "167421802",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1011732933990862800,
+			"in_reply_to_status_id_str": "1011732933990862849",
+			"in_reply_to_user_id": 167421802,
+			"in_reply_to_user_id_str": "167421802",
+			"in_reply_to_screen_name": "BurgerKing",
+			"user": {
+				"id": 870680989,
+				"id_str": "870680989",
+				"name": "BudweiserUSA",
+				"screen_name": "budweiserusa",
+				"location": "St Louis, MO",
+				"description": "Official Bud tweets are for people 21+ only. We can't talk to you until you follow us and verify that you are over 21. Budweiser, Anheuser-Busch, St. Louis, MO",
+				"url": "http://t.co/DTFX3KLvQQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/DTFX3KLvQQ",
+								"expanded_url": "http://www.budweiser.com",
+								"display_url": "budweiser.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 163324,
+				"friends_count": 186,
+				"listed_count": 801,
+				"created_at": "Tue Oct 09 22:05:04 +0000 2012",
+				"favourites_count": 2592,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 25985,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/930813531502587905/k2Tj2fy-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/930813531502587905/k2Tj2fy-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/870680989/1525179609",
+				"profile_link_color": "BD0F0F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6993,
+			"favorite_count": 16286,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6993,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 29 20:34:46 +0000 2018",
+		"id": 1012796540174233600,
+		"id_str": "1012796540174233601",
+		"text": "RT @BurgerKing: @budweiserusa whassup?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BurgerKing",
+					"name": "Burger King",
+					"id": 167421802,
+					"id_str": "167421802",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "budweiserusa",
+					"name": "BudweiserUSA",
+					"id": 870680989,
+					"id_str": "870680989",
+					"indices": [
+						16,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore",
+			"description": "💄Entrepreneur, Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI news bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51673,
+			"friends_count": 27667,
+			"listed_count": 1165,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 26 22:08:23 +0000 2018",
+			"id": 1011732933990862800,
+			"id_str": "1011732933990862849",
+			"text": "@budweiserusa whassup?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "budweiserusa",
+						"name": "BudweiserUSA",
+						"id": 870680989,
+						"id_str": "870680989",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1011732704608555000,
+			"in_reply_to_status_id_str": "1011732704608555008",
+			"in_reply_to_user_id": 870680989,
+			"in_reply_to_user_id_str": "870680989",
+			"in_reply_to_screen_name": "budweiserusa",
+			"user": {
+				"id": 167421802,
+				"id_str": "167421802",
+				"name": "Burger King",
+				"screen_name": "BurgerKing",
+				"location": "",
+				"description": "The official Tweets of Burger King USA.",
+				"url": "https://t.co/dfb1AcLrFh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dfb1AcLrFh",
+								"expanded_url": "http://bk.com",
+								"display_url": "bk.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1676332,
+				"friends_count": 3922,
+				"listed_count": 3144,
+				"created_at": "Fri Jul 16 15:08:05 +0000 2010",
+				"favourites_count": 7482,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20753,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1786E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1008818679474212866/o97KcqbE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1008818679474212866/o97KcqbE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/167421802/1530194443",
+				"profile_link_color": "DA0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6504,
+			"favorite_count": 15696,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6504,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 29 17:54:00 +0000 2018",
 		"id": 1012756081867739100,
 		"id_str": "1012756081867739138",
