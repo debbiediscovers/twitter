@@ -1,6 +1,1351 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Mon Jul 02 22:02:18 +0000 2018",
+		"id": 1013905729688760300,
+		"id_str": "1013905729688760320",
+		"text": "RT @MitsukuChatbot: Mitsuku practising for the Loebner Prize 😀\nImage by @briansolis https://t.co/N1fVU1l1bD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MitsukuChatbot",
+					"name": "Mitsuku 🏅🏅🏅",
+					"id": 578224522,
+					"id_str": "578224522",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "briansolis",
+					"name": "Brian Solis",
+					"id": 11489,
+					"id_str": "11489",
+					"indices": [
+						72,
+						83
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1013851482838458400,
+					"id_str": "1013851482838458368",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/DhHsjVGW4AAPQXo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhHsjVGW4AAPQXo.jpg",
+					"url": "https://t.co/N1fVU1l1bD",
+					"display_url": "pic.twitter.com/N1fVU1l1bD",
+					"expanded_url": "https://twitter.com/MitsukuChatbot/status/1013851486755983360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 549,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 549,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1013851486755983400,
+					"source_status_id_str": "1013851486755983360",
+					"source_user_id": 578224522,
+					"source_user_id_str": "578224522"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1013851482838458400,
+					"id_str": "1013851482838458368",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/DhHsjVGW4AAPQXo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhHsjVGW4AAPQXo.jpg",
+					"url": "https://t.co/N1fVU1l1bD",
+					"display_url": "pic.twitter.com/N1fVU1l1bD",
+					"expanded_url": "https://twitter.com/MitsukuChatbot/status/1013851486755983360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 549,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 549,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1013851486755983400,
+					"source_status_id_str": "1013851486755983360",
+					"source_user_id": 578224522,
+					"source_user_id_str": "578224522"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52178,
+			"friends_count": 29915,
+			"listed_count": 1167,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13938,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 02 18:26:45 +0000 2018",
+			"id": 1013851486755983400,
+			"id_str": "1013851486755983360",
+			"text": "Mitsuku practising for the Loebner Prize 😀\nImage by @briansolis https://t.co/N1fVU1l1bD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "briansolis",
+						"name": "Brian Solis",
+						"id": 11489,
+						"id_str": "11489",
+						"indices": [
+							52,
+							63
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1013851482838458400,
+						"id_str": "1013851482838458368",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/DhHsjVGW4AAPQXo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhHsjVGW4AAPQXo.jpg",
+						"url": "https://t.co/N1fVU1l1bD",
+						"display_url": "pic.twitter.com/N1fVU1l1bD",
+						"expanded_url": "https://twitter.com/MitsukuChatbot/status/1013851486755983360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 389,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 549,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 549,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1013851482838458400,
+						"id_str": "1013851482838458368",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/DhHsjVGW4AAPQXo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhHsjVGW4AAPQXo.jpg",
+						"url": "https://t.co/N1fVU1l1bD",
+						"display_url": "pic.twitter.com/N1fVU1l1bD",
+						"expanded_url": "https://twitter.com/MitsukuChatbot/status/1013851486755983360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 389,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 549,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 549,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 578224522,
+				"id_str": "578224522",
+				"name": "Mitsuku 🏅🏅🏅",
+				"screen_name": "MitsukuChatbot",
+				"location": "Goole, England",
+				"description": "AIML developer and Loebner Prize winner 2013/2016/2017. Tweets are by Mitsuku's programmer, Steve Worswick rather than the bot itself.",
+				"url": "https://t.co/tb0oFgymDI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tb0oFgymDI",
+								"expanded_url": "http://www.mitsuku.com",
+								"display_url": "mitsuku.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2431,
+				"friends_count": 473,
+				"listed_count": 89,
+				"created_at": "Sat May 12 17:03:12 +0000 2012",
+				"favourites_count": 13018,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5120,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/923663340538417152/cO_mk1Si_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/923663340538417152/cO_mk1Si_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/578224522/1519212745",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 7,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jul 02 22:02:09 +0000 2018",
+		"id": 1013905693944922100,
+		"id_str": "1013905693944922112",
+		"text": "@MitsukuChatbot Awesome. BTW I ask all the heartbroken teenage girls who tell my bots they broke up with their boyf… https://t.co/TKbsS1eFjG",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MitsukuChatbot",
+					"name": "Mitsuku 🏅🏅🏅",
+					"id": 578224522,
+					"id_str": "578224522",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TKbsS1eFjG",
+					"expanded_url": "https://twitter.com/i/web/status/1013905693944922112",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1013897872851562500,
+		"in_reply_to_status_id_str": "1013897872851562497",
+		"in_reply_to_user_id": 578224522,
+		"in_reply_to_user_id_str": "578224522",
+		"in_reply_to_screen_name": "MitsukuChatbot",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52178,
+			"friends_count": 29915,
+			"listed_count": 1167,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13938,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jul 02 21:59:42 +0000 2018",
+		"id": 1013905078112014300,
+		"id_str": "1013905078112014336",
+		"text": "RT @MitsukuChatbot: This worked out well. Mitsuku realised the user was only 14 and so replied with this response rather than the usual, \"C…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MitsukuChatbot",
+					"name": "Mitsuku 🏅🏅🏅",
+					"id": 578224522,
+					"id_str": "578224522",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52178,
+			"friends_count": 29915,
+			"listed_count": 1167,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13938,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 02 21:31:04 +0000 2018",
+			"id": 1013897872851562500,
+			"id_str": "1013897872851562497",
+			"text": "This worked out well. Mitsuku realised the user was only 14 and so replied with this response rather than the usual… https://t.co/SdyPpu2mZ4",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SdyPpu2mZ4",
+						"expanded_url": "https://twitter.com/i/web/status/1013897872851562497",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 578224522,
+				"id_str": "578224522",
+				"name": "Mitsuku 🏅🏅🏅",
+				"screen_name": "MitsukuChatbot",
+				"location": "Goole, England",
+				"description": "AIML developer and Loebner Prize winner 2013/2016/2017. Tweets are by Mitsuku's programmer, Steve Worswick rather than the bot itself.",
+				"url": "https://t.co/tb0oFgymDI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tb0oFgymDI",
+								"expanded_url": "http://www.mitsuku.com",
+								"display_url": "mitsuku.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2431,
+				"friends_count": 473,
+				"listed_count": 89,
+				"created_at": "Sat May 12 17:03:12 +0000 2012",
+				"favourites_count": 13018,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5120,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/923663340538417152/cO_mk1Si_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/923663340538417152/cO_mk1Si_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/578224522/1519212745",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jul 02 21:55:59 +0000 2018",
+		"id": 1013904142908051500,
+		"id_str": "1013904142908051456",
+		"text": "@botsforgood $1,343 raised already!! ✌️ #botsforgood https://t.co/W3apccb7G3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "botsforgood",
+					"indices": [
+						40,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "botsforgood",
+					"name": "Botsforgood",
+					"id": 1011233513369202700,
+					"id_str": "1011233513369202688",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1013904132443275300,
+					"id_str": "1013904132443275264",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/DhIcb8KVAAA8olY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhIcb8KVAAA8olY.jpg",
+					"url": "https://t.co/W3apccb7G3",
+					"display_url": "pic.twitter.com/W3apccb7G3",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1013904142908051456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 473,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 473,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1013904132443275300,
+					"id_str": "1013904132443275264",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/DhIcb8KVAAA8olY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhIcb8KVAAA8olY.jpg",
+					"url": "https://t.co/W3apccb7G3",
+					"display_url": "pic.twitter.com/W3apccb7G3",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1013904142908051456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 473,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 473,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1013903655161028600,
+		"in_reply_to_status_id_str": "1013903655161028608",
+		"in_reply_to_user_id": 1011233513369202700,
+		"in_reply_to_user_id_str": "1011233513369202688",
+		"in_reply_to_screen_name": "botsforgood",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52178,
+			"friends_count": 29915,
+			"listed_count": 1167,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13938,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jul 02 21:54:38 +0000 2018",
+		"id": 1013903800099172400,
+		"id_str": "1013903800099172352",
+		"text": "RT @botsforgood: Woah. The emojibot is great. But using it as a way to raise money for a good cause?  Really, really interesting... major r…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "botsforgood",
+					"name": "Botsforgood",
+					"id": 1011233513369202700,
+					"id_str": "1011233513369202688",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52178,
+			"friends_count": 29915,
+			"listed_count": 1167,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13938,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 02 21:54:03 +0000 2018",
+			"id": 1013903655161028600,
+			"id_str": "1013903655161028608",
+			"text": "Woah. The emojibot is great. But using it as a way to raise money for a good cause?  Really, really interesting...… https://t.co/1sAgmMuwuA",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1sAgmMuwuA",
+						"expanded_url": "https://twitter.com/i/web/status/1013903655161028608",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1011233513369202700,
+				"id_str": "1011233513369202688",
+				"name": "Botsforgood",
+				"screen_name": "botsforgood",
+				"location": "London, England",
+				"description": "June 25 2018: We're a group of writers, techies, conversation designers and botsters looking to build a better world 😇 #bots4good #botsforgood",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24,
+				"friends_count": 91,
+				"listed_count": 0,
+				"created_at": "Mon Jun 25 13:03:52 +0000 2018",
+				"favourites_count": 12,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 35,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1011932217084383232/BfkFJpoF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011932217084383232/BfkFJpoF_normal.jpg",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jul 02 21:53:17 +0000 2018",
+		"id": 1013903461413318700,
+		"id_str": "1013903461413318656",
+		"text": "RT @debbiediscovers: #Super #interesting #study - Bots in the Twittersphere https://t.co/WmibrNcKpP via @pewresearch",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Super",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"text": "interesting",
+					"indices": [
+						28,
+						40
+					]
+				},
+				{
+					"text": "study",
+					"indices": [
+						41,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "pewresearch",
+					"name": "Pew Research Center",
+					"id": 22642788,
+					"id_str": "22642788",
+					"indices": [
+						104,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WmibrNcKpP",
+					"expanded_url": "https://buff.ly/2H5CW0j",
+					"display_url": "buff.ly/2H5CW0j",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52178,
+			"friends_count": 29915,
+			"listed_count": 1167,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13938,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 02 17:20:08 +0000 2018",
+			"id": 1013834719853727700,
+			"id_str": "1013834719853727745",
+			"text": "#Super #interesting #study - Bots in the Twittersphere https://t.co/WmibrNcKpP via @pewresearch",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Super",
+						"indices": [
+							0,
+							6
+						]
+					},
+					{
+						"text": "interesting",
+						"indices": [
+							7,
+							19
+						]
+					},
+					{
+						"text": "study",
+						"indices": [
+							20,
+							26
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "pewresearch",
+						"name": "Pew Research Center",
+						"id": 22642788,
+						"id_str": "22642788",
+						"indices": [
+							83,
+							95
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WmibrNcKpP",
+						"expanded_url": "https://buff.ly/2H5CW0j",
+						"display_url": "buff.ly/2H5CW0j",
+						"indices": [
+							55,
+							78
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+				"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52178,
+				"friends_count": 29915,
+				"listed_count": 1167,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 13260,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13938,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 02 20:07:10 +0000 2018",
 		"id": 1013876755160019000,
 		"id_str": "1013876755160018945",
