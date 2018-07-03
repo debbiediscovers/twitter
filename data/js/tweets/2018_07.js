@@ -1,6 +1,551 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 03 11:46:02 +0000 2018",
+		"id": 1014113032245428200,
+		"id_str": "1014113032245428224",
+		"text": "@aiaddysonzhang @Bridgetti @mjjohnson1216 @warwickabrown @ummoreno @darrenhorne @sittingpretty61 @SabrinaCadini Tha… https://t.co/Gv6RTq9lu5",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aiaddysonzhang",
+					"name": "Ai Addyson-Zhang, Ph.D Digital Learning Evangelist",
+					"id": 2154802629,
+					"id_str": "2154802629",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Bridgetti",
+					"name": "Bridgetti.Live",
+					"id": 26773065,
+					"id_str": "26773065",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "mjjohnson1216",
+					"name": "Meredith Johnson - #BookCampPD",
+					"id": 527026882,
+					"id_str": "527026882",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "warwickabrown",
+					"name": "Warwick Brown",
+					"id": 2600072004,
+					"id_str": "2600072004",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"screen_name": "ummoreno",
+					"name": "Ursula Wefers",
+					"id": 95097764,
+					"id_str": "95097764",
+					"indices": [
+						57,
+						66
+					]
+				},
+				{
+					"screen_name": "darrenhorne",
+					"name": "Darren Horne",
+					"id": 18832757,
+					"id_str": "18832757",
+					"indices": [
+						67,
+						79
+					]
+				},
+				{
+					"screen_name": "sittingpretty61",
+					"name": "Dr. Dorrie Cooper",
+					"id": 3419273681,
+					"id_str": "3419273681",
+					"indices": [
+						80,
+						96
+					]
+				},
+				{
+					"screen_name": "SabrinaCadini",
+					"name": "Sabrina Cadini #SMDaySD",
+					"id": 17475560,
+					"id_str": "17475560",
+					"indices": [
+						97,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Gv6RTq9lu5",
+					"expanded_url": "https://twitter.com/i/web/status/1014113032245428224",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1014104387424096300,
+		"in_reply_to_status_id_str": "1014104387424096256",
+		"in_reply_to_user_id": 2154802629,
+		"in_reply_to_user_id_str": "2154802629",
+		"in_reply_to_screen_name": "aiaddysonzhang",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52278,
+			"friends_count": 30355,
+			"listed_count": 1168,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13947,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 03 11:45:44 +0000 2018",
+		"id": 1014112953912528900,
+		"id_str": "1014112953912528896",
+		"text": "@aiaddysonzhang @Bridgetti @mjjohnson1216 @warwickabrown @ummoreno @darrenhorne @sittingpretty61 @SabrinaCadini Great!! Looking forward!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aiaddysonzhang",
+					"name": "Ai Addyson-Zhang, Ph.D Digital Learning Evangelist",
+					"id": 2154802629,
+					"id_str": "2154802629",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Bridgetti",
+					"name": "Bridgetti.Live",
+					"id": 26773065,
+					"id_str": "26773065",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "mjjohnson1216",
+					"name": "Meredith Johnson - #BookCampPD",
+					"id": 527026882,
+					"id_str": "527026882",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "warwickabrown",
+					"name": "Warwick Brown",
+					"id": 2600072004,
+					"id_str": "2600072004",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"screen_name": "ummoreno",
+					"name": "Ursula Wefers",
+					"id": 95097764,
+					"id_str": "95097764",
+					"indices": [
+						57,
+						66
+					]
+				},
+				{
+					"screen_name": "darrenhorne",
+					"name": "Darren Horne",
+					"id": 18832757,
+					"id_str": "18832757",
+					"indices": [
+						67,
+						79
+					]
+				},
+				{
+					"screen_name": "sittingpretty61",
+					"name": "Dr. Dorrie Cooper",
+					"id": 3419273681,
+					"id_str": "3419273681",
+					"indices": [
+						80,
+						96
+					]
+				},
+				{
+					"screen_name": "SabrinaCadini",
+					"name": "Sabrina Cadini #SMDaySD",
+					"id": 17475560,
+					"id_str": "17475560",
+					"indices": [
+						97,
+						111
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1014104387424096300,
+		"in_reply_to_status_id_str": "1014104387424096256",
+		"in_reply_to_user_id": 2154802629,
+		"in_reply_to_user_id_str": "2154802629",
+		"in_reply_to_screen_name": "aiaddysonzhang",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52278,
+			"friends_count": 30355,
+			"listed_count": 1168,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13947,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 03 11:45:22 +0000 2018",
+		"id": 1014112862430683100,
+		"id_str": "1014112862430683138",
+		"text": "@fredhermelin  https://t.co/YKXpgMwuCV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fredhermelin",
+					"name": "Frédéric Hermelin ✨✒️📽️",
+					"id": 268962504,
+					"id_str": "268962504",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1014112850812391400,
+					"id_str": "1014112850812391424",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DhLaQ8rU0AA2QTv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DhLaQ8rU0AA2QTv.jpg",
+					"url": "https://t.co/YKXpgMwuCV",
+					"display_url": "pic.twitter.com/YKXpgMwuCV",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1014112862430683138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 238,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 238,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 238,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1014112850812391400,
+					"id_str": "1014112850812391424",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DhLaQ8rU0AA2QTv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DhLaQ8rU0AA2QTv.jpg",
+					"url": "https://t.co/YKXpgMwuCV",
+					"display_url": "pic.twitter.com/YKXpgMwuCV",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1014112862430683138/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 238,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 238,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 238,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							119
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DhLaQ8rU0AA2QTv.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1014108003082088400,
+		"in_reply_to_status_id_str": "1014108003082088448",
+		"in_reply_to_user_id": 268962504,
+		"in_reply_to_user_id_str": "268962504",
+		"in_reply_to_screen_name": "fredhermelin",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52278,
+			"friends_count": 30355,
+			"listed_count": 1168,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13947,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue Jul 03 01:29:40 +0000 2018",
 		"id": 1013957915227533300,
 		"id_str": "1013957915227533312",
