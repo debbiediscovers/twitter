@@ -1,6 +1,590 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Wed Jul 04 01:10:26 +0000 2018",
+		"id": 1014315466062553100,
+		"id_str": "1014315466062553088",
+		"text": "RT @AskAaronLee: closed mindset   open mindset\n——————      ——————\n\ntalking                  listening\nargumentative    empathetic\ntaking…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AskAaronLee",
+					"name": "Aaron Lee",
+					"id": 25458378,
+					"id_str": "25458378",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://debbiediscovers.com\" rel=\"nofollow\">TWITTER LIST ADDER</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52391,
+			"friends_count": 30648,
+			"listed_count": 1169,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13291,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13959,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 03 15:23:09 +0000 2018",
+			"id": 1014167670273368000,
+			"id_str": "1014167670273368064",
+			"text": "closed mindset   open mindset\n——————      ——————\n\ntalking                  listening\nargumentative    empathetic\nta… https://t.co/PLvtqXzsLJ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PLvtqXzsLJ",
+						"expanded_url": "https://twitter.com/i/web/status/1014167670273368064",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25458378,
+				"id_str": "25458378",
+				"name": "Aaron Lee",
+				"screen_name": "AskAaronLee",
+				"location": "Malaysia",
+				"description": "Regional Manager APAC @agorapulse. Trying to perfect the art of cappuccino. Introvert with awesome hair. https://t.co/PZNF06OlCy ✉️hi@askaaronlee.com",
+				"url": "https://t.co/dDATbxsRmm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dDATbxsRmm",
+								"expanded_url": "http://AskAaronLee.com",
+								"display_url": "AskAaronLee.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/PZNF06OlCy",
+								"expanded_url": "http://Instagram.com/shortofheight",
+								"display_url": "Instagram.com/shortofheight",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1205719,
+				"friends_count": 1302743,
+				"listed_count": 10327,
+				"created_at": "Fri Mar 20 04:15:51 +0000 2009",
+				"favourites_count": 1445,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 109058,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/891913174324203520/7CdivJnf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/891913174324203520/7CdivJnf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25458378/1482065374",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 412,
+			"favorite_count": 857,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 412,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 04 00:46:43 +0000 2018",
+		"id": 1014309498201272300,
+		"id_str": "1014309498201272321",
+		"text": "RT @SingaporeSail: \"Setbacks have an upside; they fuel new dreams ✨\" - Dara Torres⠀\n⠀\n#MotivationMonday #setbacksaretemporary #SailforSG ht…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MotivationMonday",
+					"indices": [
+						86,
+						103
+					]
+				},
+				{
+					"text": "setbacksaretemporary",
+					"indices": [
+						104,
+						125
+					]
+				},
+				{
+					"text": "SailforSG",
+					"indices": [
+						126,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SingaporeSail",
+					"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+					"id": 906430548641439700,
+					"id_str": "906430548641439744",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52391,
+			"friends_count": 30648,
+			"listed_count": 1169,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13291,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13959,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 02 13:23:50 +0000 2018",
+			"id": 1013775256253845500,
+			"id_str": "1013775256253845505",
+			"text": "\"Setbacks have an upside; they fuel new dreams ✨\" - Dara Torres⠀\n⠀\n#MotivationMonday #setbacksaretemporary… https://t.co/dd7x4HvANA",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MotivationMonday",
+						"indices": [
+							67,
+							84
+						]
+					},
+					{
+						"text": "setbacksaretemporary",
+						"indices": [
+							85,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dd7x4HvANA",
+						"expanded_url": "https://twitter.com/i/web/status/1013775256253845505",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 906430548641439700,
+				"id_str": "906430548641439744",
+				"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+				"screen_name": "SingaporeSail",
+				"location": "Singapore",
+				"description": "Official Twitter account of Singapore Sailing Federation & National Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+				"url": "https://t.co/F6bL3exzFR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F6bL3exzFR",
+								"expanded_url": "https://m.me/sammysailbot",
+								"display_url": "m.me/sammysailbot",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6296,
+				"friends_count": 4151,
+				"listed_count": 37,
+				"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+				"favourites_count": 6079,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1167,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+				"profile_link_color": "D10000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 04 00:30:08 +0000 2018",
+		"id": 1014305322423464000,
+		"id_str": "1014305322423463936",
+		"text": "The Value of a Tweet $174 per donor - by @debbiediscovers Using #Twitter for #Fundraising #Philanthrophy https://t.co/WDMptxqtLL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						64,
+						72
+					]
+				},
+				{
+					"text": "Fundraising",
+					"indices": [
+						77,
+						89
+					]
+				},
+				{
+					"text": "Philanthrophy",
+					"indices": [
+						90,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						41,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WDMptxqtLL",
+					"expanded_url": "https://digitaldiscovery.sg/blog/value-of-tweet/",
+					"display_url": "digitaldiscovery.sg/blog/value-of-…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://manager.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52391,
+			"friends_count": 30648,
+			"listed_count": 1169,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13291,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13959,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 03 23:21:51 +0000 2018",
 		"id": 1014288140218007600,
 		"id_str": "1014288140218007552",
