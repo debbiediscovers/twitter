@@ -1,6 +1,543 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Fri Jul 06 11:48:58 +0000 2018",
+		"id": 1015200934266196000,
+		"id_str": "1015200934266195969",
+		"text": "RT @vivek_gkrishnan: .@CompetitionSG Watchdog finds @GrabSG @Uber deal in #Singapore 🇸🇬 anti-competitive, proposes fines, measures to resto…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Singapore",
+					"indices": [
+						74,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vivek_gkrishnan",
+					"name": "Vivek Gopalakrishnan",
+					"id": 307922714,
+					"id_str": "307922714",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "CompetitionSG",
+					"name": "CCCS",
+					"id": 608965178,
+					"id_str": "608965178",
+					"indices": [
+						22,
+						36
+					]
+				},
+				{
+					"screen_name": "GrabSG",
+					"name": "Grab Singapore",
+					"id": 1724451330,
+					"id_str": "1724451330",
+					"indices": [
+						52,
+						59
+					]
+				},
+				{
+					"screen_name": "Uber",
+					"name": "Uber",
+					"id": 19103481,
+					"id_str": "19103481",
+					"indices": [
+						60,
+						65
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52788,
+			"friends_count": 30913,
+			"listed_count": 1169,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14005,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 06 10:27:57 +0000 2018",
+			"id": 1015180543724433400,
+			"id_str": "1015180543724433408",
+			"text": ".@CompetitionSG Watchdog finds @GrabSG @Uber deal in #Singapore 🇸🇬 anti-competitive, proposes fines, measures to re… https://t.co/61NZ3a0ij1",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Singapore",
+						"indices": [
+							53,
+							63
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CompetitionSG",
+						"name": "CCCS",
+						"id": 608965178,
+						"id_str": "608965178",
+						"indices": [
+							1,
+							15
+						]
+					},
+					{
+						"screen_name": "GrabSG",
+						"name": "Grab Singapore",
+						"id": 1724451330,
+						"id_str": "1724451330",
+						"indices": [
+							31,
+							38
+						]
+					},
+					{
+						"screen_name": "Uber",
+						"name": "Uber",
+						"id": 19103481,
+						"id_str": "19103481",
+						"indices": [
+							39,
+							44
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/61NZ3a0ij1",
+						"expanded_url": "https://twitter.com/i/web/status/1015180543724433408",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 307922714,
+				"id_str": "307922714",
+				"name": "Vivek Gopalakrishnan",
+				"screen_name": "vivek_gkrishnan",
+				"location": "Singapore",
+				"description": "A keen follower of developments in #Tech #Digital #AI #Renewables & #CleanTech. #Aviation ✈️ enthusiast & anything linked to #flight 🚀 #Tweets are personal",
+				"url": "https://t.co/mVSoeOoidX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mVSoeOoidX",
+								"expanded_url": "https://www.linkedin.com/in/vivekgkrishnan/",
+								"display_url": "linkedin.com/in/vivekgkrish…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1121,
+				"friends_count": 933,
+				"listed_count": 60,
+				"created_at": "Mon May 30 14:40:56 +0000 2011",
+				"favourites_count": 2086,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2815,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/966925066536538112/O_PtyeCB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/966925066536538112/O_PtyeCB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/307922714/1463467633",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "58a4c3a0d54e1400",
+				"url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json",
+				"place_type": "admin",
+				"name": "Central Region",
+				"full_name": "Central Region, Singapore",
+				"country_code": "SG",
+				"country": "Singapore",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								103.749959507073,
+								1.2123138339349
+							],
+							[
+								103.918426999964,
+								1.2123138339349
+							],
+							[
+								103.918426999964,
+								1.36874499902569
+							],
+							[
+								103.749959507073,
+								1.36874499902569
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jul 06 11:48:49 +0000 2018",
+		"id": 1015200894776795100,
+		"id_str": "1015200894776795136",
+		"text": "RT @botsforgood: Hey there @betterbankside. Any betterbanksiders want to find out what #chatbots can do for your business? Free introductio…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "chatbots",
+					"indices": [
+						87,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "botsforgood",
+					"name": "Botsforgood",
+					"id": 1011233513369202700,
+					"id_str": "1011233513369202688",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "BetterBankside",
+					"name": "Better Bankside",
+					"id": 54883806,
+					"id_str": "54883806",
+					"indices": [
+						27,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52788,
+			"friends_count": 30913,
+			"listed_count": 1169,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14005,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 06 10:19:14 +0000 2018",
+			"id": 1015178351563198500,
+			"id_str": "1015178351563198466",
+			"text": "Hey there @betterbankside. Any betterbanksiders want to find out what #chatbots can do for your business? Free intr… https://t.co/jfTVtYysqY",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "chatbots",
+						"indices": [
+							70,
+							79
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BetterBankside",
+						"name": "Better Bankside",
+						"id": 54883806,
+						"id_str": "54883806",
+						"indices": [
+							10,
+							25
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/jfTVtYysqY",
+						"expanded_url": "https://twitter.com/i/web/status/1015178351563198466",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1011233513369202700,
+				"id_str": "1011233513369202688",
+				"name": "Botsforgood",
+				"screen_name": "botsforgood",
+				"location": "London, England",
+				"description": "June 25 2018: We're a group of writers, techies, conversation designers and botsters looking to build a better world 😇 #bots4good #botsforgood #bots #chatbots",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36,
+				"friends_count": 139,
+				"listed_count": 0,
+				"created_at": "Mon Jun 25 13:03:52 +0000 2018",
+				"favourites_count": 20,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 53,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1011932217084383232/BfkFJpoF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011932217084383232/BfkFJpoF_normal.jpg",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 06 07:19:38 +0000 2018",
 		"id": 1015133153726423000,
 		"id_str": "1015133153726423040",
