@@ -1,6 +1,677 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Fri Jul 06 18:39:59 +0000 2018",
+		"id": 1015304369976168400,
+		"id_str": "1015304369976168448",
+		"text": "RT @yorudan: I already challenged @KroazDu @dittmer79 &amp; @debbiediscovers on Instagram, but please share Twitter too. #1GREENwhirled #LeaveN…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1GREENwhirled",
+					"indices": [
+						121,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yorudan",
+					"name": "Jordan Davis 『夜弾』",
+					"id": 53448035,
+					"id_str": "53448035",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "KroazDu",
+					"name": "Francois Coquemont",
+					"id": 38486351,
+					"id_str": "38486351",
+					"indices": [
+						34,
+						42
+					]
+				},
+				{
+					"screen_name": "dittmer79",
+					"name": "Tony Dittmer",
+					"id": 245243295,
+					"id_str": "245243295",
+					"indices": [
+						43,
+						53
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						60,
+						76
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52848,
+			"friends_count": 30931,
+			"listed_count": 1171,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14019,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 06 18:12:27 +0000 2018",
+			"id": 1015297438293229600,
+			"id_str": "1015297438293229568",
+			"text": "I already challenged @KroazDu @dittmer79 &amp; @debbiediscovers on Instagram, but please share Twitter too.… https://t.co/o9CHrXvZoW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KroazDu",
+						"name": "Francois Coquemont",
+						"id": 38486351,
+						"id_str": "38486351",
+						"indices": [
+							21,
+							29
+						]
+					},
+					{
+						"screen_name": "dittmer79",
+						"name": "Tony Dittmer",
+						"id": 245243295,
+						"id_str": "245243295",
+						"indices": [
+							30,
+							40
+						]
+					},
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							47,
+							63
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/o9CHrXvZoW",
+						"expanded_url": "https://twitter.com/i/web/status/1015297438293229568",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 53448035,
+				"id_str": "53448035",
+				"name": "Jordan Davis 『夜弾』",
+				"screen_name": "yorudan",
+				"location": "SLC, 日本",
+				"description": "Half New Mexican writing songs on that there guitar.",
+				"url": "https://t.co/YwRIPFL8gJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YwRIPFL8gJ",
+								"expanded_url": "https://youtu.be/OxWE0BfswQU",
+								"display_url": "youtu.be/OxWE0BfswQU",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11276,
+				"friends_count": 404,
+				"listed_count": 103,
+				"created_at": "Fri Jul 03 17:44:17 +0000 2009",
+				"favourites_count": 2579,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4434,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CCCCCC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/981584149441003520/GgpsCjKl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/981584149441003520/GgpsCjKl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/53448035/1404183814",
+				"profile_link_color": "E66157",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1015296660035924000,
+			"quoted_status_id_str": "1015296660035923968",
+			"quoted_status": {
+				"created_at": "Fri Jul 06 18:09:21 +0000 2018",
+				"id": 1015296660035924000,
+				"id_str": "1015296660035923968",
+				"text": "One Green Whirled CHALLENGE\n🍃🌿💚🌍🌎🌏💚🌿🍃\n\nI #challenge you to pick up 1 piece of garbage on your next venture out-of-d… https://t.co/YuFqMsMP0K",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "challenge",
+							"indices": [
+								41,
+								51
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/YuFqMsMP0K",
+							"expanded_url": "https://twitter.com/i/web/status/1015296660035923968",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 84233787,
+					"id_str": "84233787",
+					"name": "Whirled Juice",
+					"screen_name": "WhirledJuice",
+					"location": "福岡〜日本",
+					"description": "わ〜るど＊じゅ〜す　\nSmoothies & fresh food creations, with an occasional song. By @yorudan",
+					"url": "https://t.co/BHS26mZJcs",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/BHS26mZJcs",
+									"expanded_url": "http://instagram.com/whirledjuice",
+									"display_url": "instagram.com/whirledjuice",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1094,
+					"friends_count": 527,
+					"listed_count": 8,
+					"created_at": "Thu Oct 22 03:48:55 +0000 2009",
+					"favourites_count": 317,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 318,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "1A9937",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/512297556/Screen_shot_2009-11-05_at_10.49.17_PM_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/512297556/Screen_shot_2009-11-05_at_10.49.17_PM_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/84233787/1466802681",
+					"profile_link_color": "9A09BA",
+					"profile_sidebar_border_color": "F068E7",
+					"profile_sidebar_fill_color": "F5DE6A",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "07d9d9a4e4082000",
+					"url": "https://api.twitter.com/1.1/geo/id/07d9d9a4e4082000.json",
+					"place_type": "poi",
+					"name": "Ghost Falls",
+					"full_name": "Ghost Falls",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-111.822033,
+									40.495842
+								],
+								[
+									-111.822033,
+									40.495842
+								],
+								[
+									-111.822033,
+									40.495842
+								],
+								[
+									-111.822033,
+									40.495842
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1015296660035924000,
+		"quoted_status_id_str": "1015296660035923968",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jul 06 18:39:47 +0000 2018",
+		"id": 1015304317610233900,
+		"id_str": "1015304317610233856",
+		"text": "RT @botsforgood: Please RT...\n@net2van is looking for inspiring e.g.'s of Canadian #botsforgood sharpish.\n\n@debbiediscovers @botsociety @as…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "botsforgood",
+					"indices": [
+						83,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "botsforgood",
+					"name": "Botsforgood",
+					"id": 1011233513369202700,
+					"id_str": "1011233513369202688",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "net2van",
+					"name": "NetSquared Vancouver",
+					"id": 165606379,
+					"id_str": "165606379",
+					"indices": [
+						30,
+						38
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						107,
+						123
+					]
+				},
+				{
+					"screen_name": "botsociety",
+					"name": "Botsociety",
+					"id": 753016614983962600,
+					"id_str": "753016614983962624",
+					"indices": [
+						124,
+						135
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52848,
+			"friends_count": 30931,
+			"listed_count": 1171,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14019,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 06 18:30:12 +0000 2018",
+			"id": 1015301907550736400,
+			"id_str": "1015301907550736385",
+			"text": "Please RT...\n@net2van is looking for inspiring e.g.'s of Canadian #botsforgood sharpish.\n\n@debbiediscovers… https://t.co/sr6riUVaQn",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "botsforgood",
+						"indices": [
+							66,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "net2van",
+						"name": "NetSquared Vancouver",
+						"id": 165606379,
+						"id_str": "165606379",
+						"indices": [
+							13,
+							21
+						]
+					},
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							90,
+							106
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/sr6riUVaQn",
+						"expanded_url": "https://twitter.com/i/web/status/1015301907550736385",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1011233513369202700,
+				"id_str": "1011233513369202688",
+				"name": "Botsforgood",
+				"screen_name": "botsforgood",
+				"location": "London, England",
+				"description": "June 25 2018: We're a group of writers, techies, conversation designers and botsters looking to build a better world 😇 #bots4good #botsforgood #bots #chatbots",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39,
+				"friends_count": 153,
+				"listed_count": 1,
+				"created_at": "Mon Jun 25 13:03:52 +0000 2018",
+				"favourites_count": 20,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 62,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1011932217084383232/BfkFJpoF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011932217084383232/BfkFJpoF_normal.jpg",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 06 17:54:00 +0000 2018",
 		"id": 1015292796851445800,
 		"id_str": "1015292796851445760",
