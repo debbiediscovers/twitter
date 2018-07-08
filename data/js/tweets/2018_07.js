@@ -1,6 +1,589 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sun Jul 08 15:16:33 +0000 2018",
+		"id": 1015977946773770200,
+		"id_str": "1015977946773770241",
+		"text": "RT @joyzzy_jz: @yayqe  https://t.co/mbEUnkRv1f",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joyzzy_jz",
+					"name": "f e r m é e",
+					"id": 696274964433862700,
+					"id_str": "696274964433862656",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "yayqe",
+					"name": "Jacob Goldberg",
+					"id": 581387531,
+					"id_str": "581387531",
+					"indices": [
+						15,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1015977348401786900,
+					"id_str": "1015977348401786880",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhl6A_dU8AA2eGW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhl6A_dU8AA2eGW.jpg",
+					"url": "https://t.co/mbEUnkRv1f",
+					"display_url": "pic.twitter.com/mbEUnkRv1f",
+					"expanded_url": "https://twitter.com/joyzzy_jz/status/1015977366823157760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1141,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 644,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1141,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015977366823157800,
+					"source_status_id_str": "1015977366823157760",
+					"source_user_id": 696274964433862700,
+					"source_user_id_str": "696274964433862656"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1015977348401786900,
+					"id_str": "1015977348401786880",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhl6A_dU8AA2eGW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhl6A_dU8AA2eGW.jpg",
+					"url": "https://t.co/mbEUnkRv1f",
+					"display_url": "pic.twitter.com/mbEUnkRv1f",
+					"expanded_url": "https://twitter.com/joyzzy_jz/status/1015977366823157760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1141,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 644,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1141,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015977366823157800,
+					"source_status_id_str": "1015977366823157760",
+					"source_user_id": 696274964433862700,
+					"source_user_id_str": "696274964433862656"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53095,
+			"friends_count": 30899,
+			"listed_count": 1172,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14145,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 08 15:14:14 +0000 2018",
+			"id": 1015977366823157800,
+			"id_str": "1015977366823157760",
+			"text": "@yayqe  https://t.co/mbEUnkRv1f",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "yayqe",
+						"name": "Jacob Goldberg",
+						"id": 581387531,
+						"id_str": "581387531",
+						"indices": [
+							0,
+							6
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1015977348401786900,
+						"id_str": "1015977348401786880",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhl6A_dU8AA2eGW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhl6A_dU8AA2eGW.jpg",
+						"url": "https://t.co/mbEUnkRv1f",
+						"display_url": "pic.twitter.com/mbEUnkRv1f",
+						"expanded_url": "https://twitter.com/joyzzy_jz/status/1015977366823157760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1141,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 644,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1141,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1015977348401786900,
+						"id_str": "1015977348401786880",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhl6A_dU8AA2eGW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhl6A_dU8AA2eGW.jpg",
+						"url": "https://t.co/mbEUnkRv1f",
+						"display_url": "pic.twitter.com/mbEUnkRv1f",
+						"expanded_url": "https://twitter.com/joyzzy_jz/status/1015977366823157760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1141,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 644,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1141,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1015973639479386100,
+			"in_reply_to_status_id_str": "1015973639479386113",
+			"in_reply_to_user_id": 581387531,
+			"in_reply_to_user_id_str": "581387531",
+			"in_reply_to_screen_name": "yayqe",
+			"user": {
+				"id": 696274964433862700,
+				"id_str": "696274964433862656",
+				"name": "f e r m é e",
+				"screen_name": "joyzzy_jz",
+				"location": "",
+				"description": "🍂 .. il n’y a rien de plus beau qu’une personne ayant eu le cœur brisé mais croyant toujours en la beauté de l’amour.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 440,
+				"friends_count": 1262,
+				"listed_count": 5,
+				"created_at": "Sun Feb 07 10:11:02 +0000 2016",
+				"favourites_count": 24714,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12010,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1015808490873339904/CuBoBRzq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015808490873339904/CuBoBRzq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/696274964433862656/1519095179",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 39,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sun Jul 08 15:16:05 +0000 2018",
+		"id": 1015977830327279600,
+		"id_str": "1015977830327279616",
+		"text": "RT @ChannelNewsAsia: “Today is the day we’ve been waiting for. We are seeing the Wild Boars in the flesh now”: #ThamLuang rescue chief (📹:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ThamLuang",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChannelNewsAsia",
+					"name": "Channel NewsAsia",
+					"id": 38400130,
+					"id_str": "38400130",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53095,
+			"friends_count": 30899,
+			"listed_count": 1172,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14145,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 08 15:06:52 +0000 2018",
+			"id": 1015975510394822700,
+			"id_str": "1015975510394822657",
+			"text": "“Today is the day we’ve been waiting for. We are seeing the Wild Boars in the flesh now”: #ThamLuang rescue chief (… https://t.co/ZcUoQGuhHG",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ThamLuang",
+						"indices": [
+							90,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZcUoQGuhHG",
+						"expanded_url": "https://twitter.com/i/web/status/1015975510394822657",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38400130,
+				"id_str": "38400130",
+				"name": "Channel NewsAsia",
+				"screen_name": "ChannelNewsAsia",
+				"location": "Singapore",
+				"description": "The official space of Channel NewsAsia - the source of breaking news from Asia and the world. We want to hear from you. Comments and news tips are welcome.",
+				"url": "https://t.co/nWgZDi0jxw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nWgZDi0jxw",
+								"expanded_url": "http://channelnewsasia.com",
+								"display_url": "channelnewsasia.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 905855,
+				"friends_count": 210,
+				"listed_count": 4672,
+				"created_at": "Thu May 07 09:14:43 +0000 2009",
+				"favourites_count": 226,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 345473,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876772485215141889/k58i8c8N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876772485215141889/k58i8c8N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38400130/1490553319",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F1EFEE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 47,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jul 08 15:07:24 +0000 2018",
 		"id": 1015975646969802800,
 		"id_str": "1015975646969802752",
