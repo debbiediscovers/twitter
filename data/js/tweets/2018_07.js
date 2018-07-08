@@ -1,6 +1,1344 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sun Jul 08 06:57:49 +0000 2018",
+		"id": 1015852438266363900,
+		"id_str": "1015852438266363907",
+		"text": "RT @elonmusk: Extremely talented dive team. Makes sense given monsoon. Godspeed. https://t.co/t5XRo3gTxK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elonmusk",
+					"name": "Elon Musk",
+					"id": 44196397,
+					"id_str": "44196397",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/t5XRo3gTxK",
+					"expanded_url": "https://twitter.com/bbcbreaking/status/1015811558851661825",
+					"display_url": "twitter.com/bbcbreaking/st…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53051,
+			"friends_count": 30924,
+			"listed_count": 1174,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14047,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 08 05:48:44 +0000 2018",
+			"id": 1015835053807394800,
+			"id_str": "1015835053807394816",
+			"text": "Extremely talented dive team. Makes sense given monsoon. Godspeed. https://t.co/t5XRo3gTxK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/t5XRo3gTxK",
+						"expanded_url": "https://twitter.com/bbcbreaking/status/1015811558851661825",
+						"display_url": "twitter.com/bbcbreaking/st…",
+						"indices": [
+							67,
+							90
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44196397,
+				"id_str": "44196397",
+				"name": "Elon Musk",
+				"screen_name": "elonmusk",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22116612,
+				"friends_count": 56,
+				"listed_count": 44925,
+				"created_at": "Tue Jun 02 20:12:29 +0000 2009",
+				"favourites_count": 1245,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5035,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/972170159614906369/0o9cdCOp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/972170159614906369/0o9cdCOp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1354486475",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1015811558851661800,
+			"quoted_status_id_str": "1015811558851661825",
+			"quoted_status": {
+				"created_at": "Sun Jul 08 04:15:23 +0000 2018",
+				"id": 1015811558851661800,
+				"id_str": "1015811558851661825",
+				"text": "The complex mission to rescue the 12 trapped boys and their football coach from a cave in Thailand has begun… https://t.co/uQcl3ejyhG",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/uQcl3ejyhG",
+							"expanded_url": "https://twitter.com/i/web/status/1015811558851661825",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": 1015803129819025400,
+				"in_reply_to_status_id_str": "1015803129819025408",
+				"in_reply_to_user_id": 5402612,
+				"in_reply_to_user_id_str": "5402612",
+				"in_reply_to_screen_name": "BBCBreaking",
+				"user": {
+					"id": 5402612,
+					"id_str": "5402612",
+					"name": "BBC Breaking News",
+					"screen_name": "BBCBreaking",
+					"location": "London, UK",
+					"description": "Breaking news alerts and updates from the BBC. For news, features, analysis follow @BBCWorld (international) or @BBCNews (UK). Latest sport news @BBCSport.",
+					"url": "http://t.co/vBzl7LOaso",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/vBzl7LOaso",
+									"expanded_url": "http://www.bbc.co.uk/news",
+									"display_url": "bbc.co.uk/news",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 38412620,
+					"friends_count": 3,
+					"listed_count": 132275,
+					"created_at": "Sun Apr 22 14:42:37 +0000 2007",
+					"favourites_count": 0,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 34614,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/875701863957630977/KTviCCaU_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/875701863957630977/KTviCCaU_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/5402612/1398336837",
+					"profile_link_color": "1F527B",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "5A5A5A",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1118,
+				"favorite_count": 2009,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2102,
+			"favorite_count": 12534,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1015811558851661800,
+		"quoted_status_id_str": "1015811558851661825",
+		"retweet_count": 2102,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 08 06:50:13 +0000 2018",
+		"id": 1015850526791983100,
+		"id_str": "1015850526791983104",
+		"text": "RT @unique_li: 🙏 Praying for safety! Please bring boys home 😥 https://t.co/VBnwSDkZ4V",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "unique_li",
+					"name": "Uniquely Chloe",
+					"id": 2429842333,
+					"id_str": "2429842333",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VBnwSDkZ4V",
+					"expanded_url": "https://twitter.com/BBCWorld/status/1015830844785807362",
+					"display_url": "twitter.com/BBCWorld/statu…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53051,
+			"friends_count": 30924,
+			"listed_count": 1174,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14047,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 08 06:48:33 +0000 2018",
+			"id": 1015850104853442600,
+			"id_str": "1015850104853442561",
+			"text": "🙏 Praying for safety! Please bring boys home 😥 https://t.co/VBnwSDkZ4V",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VBnwSDkZ4V",
+						"expanded_url": "https://twitter.com/BBCWorld/status/1015830844785807362",
+						"display_url": "twitter.com/BBCWorld/statu…",
+						"indices": [
+							47,
+							70
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2429842333,
+				"id_str": "2429842333",
+				"name": "Uniquely Chloe",
+				"screen_name": "unique_li",
+				"location": "London, England",
+				"description": "#WomeninTech #GirlsinTech Female entrepreneur trying to crystalise the equity of being Unique! Private Invite to Closed Engagement Pod (Link in bio)",
+				"url": "https://t.co/FUXaNqK8YF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FUXaNqK8YF",
+								"expanded_url": "https://getfuelgram.com/fuelgroups/U4BF1FIG",
+								"display_url": "getfuelgram.com/fuelgroups/U4B…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7354,
+				"friends_count": 4643,
+				"listed_count": 854,
+				"created_at": "Sun Apr 06 03:50:26 +0000 2014",
+				"favourites_count": 347,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2729,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAFFFD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/781204825744617472/1Yo1FS1m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/781204825744617472/1Yo1FS1m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2429842333/1475088697",
+				"profile_link_color": "485154",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1015830844785807400,
+			"quoted_status_id_str": "1015830844785807362",
+			"quoted_status": {
+				"created_at": "Sun Jul 08 05:32:01 +0000 2018",
+				"id": 1015830844785807400,
+				"id_str": "1015830844785807362",
+				"text": "Hang on boys, rescue is coming. 🐗🇹🇭\n\nThe mission to rescue 12 boys and football coach from a cave in Thailand has b… https://t.co/rMOrJpM1Ez",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/rMOrJpM1Ez",
+							"expanded_url": "https://twitter.com/i/web/status/1015830844785807362",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 742143,
+					"id_str": "742143",
+					"name": "BBC News (World)",
+					"screen_name": "BBCWorld",
+					"location": "London, UK",
+					"description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
+					"url": "https://t.co/7NEgoMwJy3",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/7NEgoMwJy3",
+									"expanded_url": "http://www.bbc.com/news",
+									"display_url": "bbc.com/news",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 23639853,
+					"friends_count": 85,
+					"listed_count": 109302,
+					"created_at": "Thu Feb 01 07:44:29 +0000 2007",
+					"favourites_count": 9,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 280731,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/875702138680246273/BfQLzf7G_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/875702138680246273/BfQLzf7G_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/742143/1485172490",
+					"profile_link_color": "1F527B",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "5A5A5A",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 884,
+				"favorite_count": 1474,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1015830844785807400,
+		"quoted_status_id_str": "1015830844785807362",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 08 06:50:09 +0000 2018",
+		"id": 1015850509389873200,
+		"id_str": "1015850509389873152",
+		"text": "RT @areta: very dangerous Thai cave rescue begins, this is the narrowest part of the cave. https://t.co/Bzwk1dzi6U",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "areta",
+					"name": "#Thinker 🌀",
+					"id": 64165042,
+					"id_str": "64165042",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1014858934941900800,
+					"id_str": "1014858934941900801",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1014858934941900801/pu/img/YenJJAoHXudv-qK1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1014858934941900801/pu/img/YenJJAoHXudv-qK1.jpg",
+					"url": "https://t.co/Bzwk1dzi6U",
+					"display_url": "pic.twitter.com/Bzwk1dzi6U",
+					"expanded_url": "https://twitter.com/5cribblesvurt/status/1014859741464539136/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1014859741464539100,
+					"source_status_id_str": "1014859741464539136",
+					"source_user_id": 710891927,
+					"source_user_id_str": "710891927"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1014858934941900800,
+					"id_str": "1014858934941900801",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1014858934941900801/pu/img/YenJJAoHXudv-qK1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1014858934941900801/pu/img/YenJJAoHXudv-qK1.jpg",
+					"url": "https://t.co/Bzwk1dzi6U",
+					"display_url": "pic.twitter.com/Bzwk1dzi6U",
+					"expanded_url": "https://twitter.com/5cribblesvurt/status/1014859741464539136/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1014859741464539100,
+					"source_status_id_str": "1014859741464539136",
+					"source_user_id": 710891927,
+					"source_user_id_str": "710891927",
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1014858934941900801/pu/pl/1f2AEsHhs4ZUvGoD.m3u8?tag=3"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1014858934941900801/pu/vid/320x180/m4NmZ6rh8CLf3cMO.mp4?tag=3"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1014858934941900801/pu/vid/640x360/qn6-B9TlV2saJlNu.mp4?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 710891927,
+							"id_str": "710891927",
+							"name": "Mr Scribble (Elite)",
+							"screen_name": "5cribblesvurt",
+							"location": "Coccium",
+							"description": "I solve and create problems. @th3j35t3r Army. 3733t.\nAssistant Fire Warden @ Twitter plc\nTraining for Ironman UK",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 40180,
+							"friends_count": 866,
+							"listed_count": 17,
+							"created_at": "Sat Oct 12 12:16:13 +0000 2013",
+							"favourites_count": 102346,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 30877,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/989854535899369477/ADTBFcqo_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/989854535899369477/ADTBFcqo_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/710891927/1519071436",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53051,
+			"friends_count": 30924,
+			"listed_count": 1174,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14047,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 08 00:44:50 +0000 2018",
+			"id": 1015758573324779500,
+			"id_str": "1015758573324779520",
+			"text": "very dangerous Thai cave rescue begins, this is the narrowest part of the cave. https://t.co/Bzwk1dzi6U",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1014858934941900800,
+						"id_str": "1014858934941900801",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1014858934941900801/pu/img/YenJJAoHXudv-qK1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1014858934941900801/pu/img/YenJJAoHXudv-qK1.jpg",
+						"url": "https://t.co/Bzwk1dzi6U",
+						"display_url": "pic.twitter.com/Bzwk1dzi6U",
+						"expanded_url": "https://twitter.com/5cribblesvurt/status/1014859741464539136/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1014859741464539100,
+						"source_status_id_str": "1014859741464539136",
+						"source_user_id": 710891927,
+						"source_user_id_str": "710891927"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1014858934941900800,
+						"id_str": "1014858934941900801",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1014858934941900801/pu/img/YenJJAoHXudv-qK1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1014858934941900801/pu/img/YenJJAoHXudv-qK1.jpg",
+						"url": "https://t.co/Bzwk1dzi6U",
+						"display_url": "pic.twitter.com/Bzwk1dzi6U",
+						"expanded_url": "https://twitter.com/5cribblesvurt/status/1014859741464539136/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1014859741464539100,
+						"source_status_id_str": "1014859741464539136",
+						"source_user_id": 710891927,
+						"source_user_id_str": "710891927",
+						"video_info": {
+							"aspect_ratio": [
+								427,
+								240
+							],
+							"duration_millis": 45000,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1014858934941900801/pu/pl/1f2AEsHhs4ZUvGoD.m3u8?tag=3"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1014858934941900801/pu/vid/320x180/m4NmZ6rh8CLf3cMO.mp4?tag=3"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1014858934941900801/pu/vid/640x360/qn6-B9TlV2saJlNu.mp4?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 710891927,
+								"id_str": "710891927",
+								"name": "Mr Scribble (Elite)",
+								"screen_name": "5cribblesvurt",
+								"location": "Coccium",
+								"description": "I solve and create problems. @th3j35t3r Army. 3733t.\nAssistant Fire Warden @ Twitter plc\nTraining for Ironman UK",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 40180,
+								"friends_count": 866,
+								"listed_count": 17,
+								"created_at": "Sat Oct 12 12:16:13 +0000 2013",
+								"favourites_count": 102346,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 30877,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/989854535899369477/ADTBFcqo_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/989854535899369477/ADTBFcqo_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/710891927/1519071436",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 64165042,
+				"id_str": "64165042",
+				"name": "#Thinker 🌀",
+				"screen_name": "areta",
+				"location": "S 45° 1.8697' E 168° 39.7586'",
+				"description": "Living one day at a time, with a fresh baked cookie. Okay. And with a coffee. And maybe some chocolate. But I promise to take my vitamins.",
+				"url": "https://t.co/TR7ZbdCC8L",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TR7ZbdCC8L",
+								"expanded_url": "http://corrupt.af",
+								"display_url": "corrupt.af",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5041,
+				"friends_count": 3540,
+				"listed_count": 147,
+				"created_at": "Sun Aug 09 12:30:43 +0000 2009",
+				"favourites_count": 3310,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 45143,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1851114409/agstickfigures11_reasonably_small_normal.gif",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1851114409/agstickfigures11_reasonably_small_normal.gif",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/64165042/1461729164",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 107,
+			"favorite_count": 118,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 08 06:50:06 +0000 2018",
+		"id": 1015850494495821800,
+		"id_str": "1015850494495821826",
+		"text": "RT @danielsutton10: Thai Navy Seals took this photo with international divers just before going into the cave. They’ve posted a message on…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danielsutton10",
+					"name": "Daniel Sutton",
+					"id": 57718781,
+					"id_str": "57718781",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53051,
+			"friends_count": 30924,
+			"listed_count": 1174,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14047,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 08 06:15:54 +0000 2018",
+			"id": 1015841887679213600,
+			"id_str": "1015841887679213568",
+			"text": "Thai Navy Seals took this photo with international divers just before going into the cave. They’ve posted a message… https://t.co/AsOK9RmK3t",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AsOK9RmK3t",
+						"expanded_url": "https://twitter.com/i/web/status/1015841887679213568",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 57718781,
+				"id_str": "57718781",
+				"name": "Daniel Sutton",
+				"screen_name": "danielsutton10",
+				"location": "Sydney, Australia",
+				"description": "Senior Journalist with Network Ten Australia. Have a tip or a story to share? dsutton@networkten.com.au",
+				"url": "http://t.co/CKRPj6bVPp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/CKRPj6bVPp",
+								"expanded_url": "http://www.tenplay.com.au",
+								"display_url": "tenplay.com.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4692,
+				"friends_count": 2930,
+				"listed_count": 135,
+				"created_at": "Fri Jul 17 18:35:38 +0000 2009",
+				"favourites_count": 37,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4181,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/436661710498185216/5nSOlSE1_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/436661710498185216/5nSOlSE1_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/57718781/1392943239",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 57,
+			"favorite_count": 97,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jul 08 03:07:00 +0000 2018",
 		"id": 1015794351967031300,
 		"id_str": "1015794351967031296",
