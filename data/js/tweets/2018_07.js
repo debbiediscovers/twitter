@@ -1,6 +1,459 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sun Jul 08 00:30:03 +0000 2018",
+		"id": 1015754851270025200,
+		"id_str": "1015754851270025216",
+		"text": "RT @SilvestriP: The 'choke point': Terrifyingly narrow 15-inch passage trapped Thai football players must squeeze through to safety as two…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SilvestriP",
+					"name": "Pino Silvestri",
+					"id": 492958448,
+					"id_str": "492958448",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53029,
+			"friends_count": 30908,
+			"listed_count": 1168,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14041,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 07 21:38:45 +0000 2018",
+			"id": 1015711744457609200,
+			"id_str": "1015711744457609218",
+			"text": "The 'choke point': Terrifyingly narrow 15-inch passage trapped Thai football players must squeeze through to safety… https://t.co/Vu4xiabCeS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Vu4xiabCeS",
+						"expanded_url": "https://twitter.com/i/web/status/1015711744457609218",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 492958448,
+				"id_str": "492958448",
+				"name": "Pino Silvestri",
+				"screen_name": "SilvestriP",
+				"location": "",
+				"description": "Le notizie che fanno notizia",
+				"url": "http://t.co/zPUIUmAjQW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/zPUIUmAjQW",
+								"expanded_url": "http://Virtualblognews.altervista.org",
+								"display_url": "Virtualblognews.altervista.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 725,
+				"friends_count": 942,
+				"listed_count": 39,
+				"created_at": "Wed Feb 15 09:17:56 +0000 2012",
+				"favourites_count": 2867,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31524,
+				"lang": "it",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1968745353/FACEBOOKAVATAR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1968745353/FACEBOOKAVATAR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/492958448/1398262124",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 11,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 08 00:26:47 +0000 2018",
+		"id": 1015754029471658000,
+		"id_str": "1015754029471657985",
+		"text": "RT @kngdmlive: @Ramillah_Sierra Elon's team just picked up the bags from the airport here in town. https://t.co/aTUrnc6DSo #ThaiCaveRescue…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ThaiCaveRescue",
+					"indices": [
+						123,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kngdmlive",
+					"name": "KNGDM",
+					"id": 32730627,
+					"id_str": "32730627",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "Ramillah_Sierra",
+					"name": "Ramillah",
+					"id": 733318070479900700,
+					"id_str": "733318070479900672",
+					"indices": [
+						15,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aTUrnc6DSo",
+					"expanded_url": "https://lostcoastoutpost.com/2018/jul/7/elon-musks-plane-was-arcata-airport/",
+					"display_url": "lostcoastoutpost.com/2018/jul/7/elo…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53029,
+			"friends_count": 30908,
+			"listed_count": 1168,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14041,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 07 20:38:22 +0000 2018",
+			"id": 1015696547164483600,
+			"id_str": "1015696547164483584",
+			"text": "@Ramillah_Sierra Elon's team just picked up the bags from the airport here in town. https://t.co/aTUrnc6DSo… https://t.co/0hMvPVgLy1",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Ramillah_Sierra",
+						"name": "Ramillah",
+						"id": 733318070479900700,
+						"id_str": "733318070479900672",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/aTUrnc6DSo",
+						"expanded_url": "https://lostcoastoutpost.com/2018/jul/7/elon-musks-plane-was-arcata-airport/",
+						"display_url": "lostcoastoutpost.com/2018/jul/7/elo…",
+						"indices": [
+							84,
+							107
+						]
+					},
+					{
+						"url": "https://t.co/0hMvPVgLy1",
+						"expanded_url": "https://twitter.com/i/web/status/1015696547164483584",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1015561182202101800,
+			"in_reply_to_status_id_str": "1015561182202101762",
+			"in_reply_to_user_id": 733318070479900700,
+			"in_reply_to_user_id_str": "733318070479900672",
+			"in_reply_to_screen_name": "Ramillah_Sierra",
+			"user": {
+				"id": 32730627,
+				"id_str": "32730627",
+				"name": "KNGDM",
+				"screen_name": "kngdmlive",
+				"location": "Thailand and California",
+				"description": "Rockstar and Codemonkey",
+				"url": "https://t.co/AGsJVAih2P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AGsJVAih2P",
+								"expanded_url": "http://americanhousemusic.com",
+								"display_url": "americanhousemusic.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 189,
+				"friends_count": 180,
+				"listed_count": 0,
+				"created_at": "Sat Apr 18 02:08:21 +0000 2009",
+				"favourites_count": 358,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1993,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1009910232972062720/QArKhJ-g_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009910232972062720/QArKhJ-g_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/32730627/1530207661",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 07 23:56:30 +0000 2018",
 		"id": 1015746409058861000,
 		"id_str": "1015746409058861056",
