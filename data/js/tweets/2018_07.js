@@ -1,6 +1,1553 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Mon Jul 09 20:41:52 +0000 2018",
+		"id": 1016422204689375200,
+		"id_str": "1016422204689375232",
+		"text": "RT @danielsutton10: “We think that we will do even better for the next mission and we will succeed 100 percent\" - Mission Commander Narongs…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danielsutton10",
+					"name": "Daniel Sutton",
+					"id": 57718781,
+					"id_str": "57718781",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53289,
+			"friends_count": 30965,
+			"listed_count": 1172,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14282,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 09 20:33:34 +0000 2018",
+			"id": 1016420114269270000,
+			"id_str": "1016420114269270016",
+			"text": "“We think that we will do even better for the next mission and we will succeed 100 percent\" - Mission Commander Nar… https://t.co/RDH84qB5sD",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RDH84qB5sD",
+						"expanded_url": "https://twitter.com/i/web/status/1016420114269270016",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 57718781,
+				"id_str": "57718781",
+				"name": "Daniel Sutton",
+				"screen_name": "danielsutton10",
+				"location": "Chiang Rai, Thailand",
+				"description": "Currently in Thailand to cover #ThamLuangCave rescue. Senior Journalist with Network Ten Australia. Have a tip or a story to share? dsutton@networkten.com.au",
+				"url": "https://t.co/2Qz1Ck4Lvt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2Qz1Ck4Lvt",
+								"expanded_url": "http://www.tendaily.com.au",
+								"display_url": "tendaily.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5959,
+				"friends_count": 2945,
+				"listed_count": 176,
+				"created_at": "Fri Jul 17 18:35:38 +0000 2009",
+				"favourites_count": 44,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4230,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/436661710498185216/5nSOlSE1_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/436661710498185216/5nSOlSE1_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/57718781/1392943239",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 28,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jul 09 20:41:47 +0000 2018",
+		"id": 1016422183369769000,
+		"id_str": "1016422183369768961",
+		"text": "RT @danielsutton10: “Welcome home boys” reads this billboard in Chiang Rai, Thailand. Photo taken by Reuters @tendailyau #tennews #ThaiCave…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tennews",
+					"indices": [
+						121,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danielsutton10",
+					"name": "Daniel Sutton",
+					"id": 57718781,
+					"id_str": "57718781",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "tendailyau",
+					"name": "ten daily",
+					"id": 794424389454340100,
+					"id_str": "794424389454340096",
+					"indices": [
+						109,
+						120
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53289,
+			"friends_count": 30965,
+			"listed_count": 1172,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14282,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 09 20:35:26 +0000 2018",
+			"id": 1016420585675427800,
+			"id_str": "1016420585675427840",
+			"text": "“Welcome home boys” reads this billboard in Chiang Rai, Thailand. Photo taken by Reuters @tendailyau #tennews… https://t.co/dC7hjbE20a",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tennews",
+						"indices": [
+							101,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tendailyau",
+						"name": "ten daily",
+						"id": 794424389454340100,
+						"id_str": "794424389454340096",
+						"indices": [
+							89,
+							100
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dC7hjbE20a",
+						"expanded_url": "https://twitter.com/i/web/status/1016420585675427840",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 57718781,
+				"id_str": "57718781",
+				"name": "Daniel Sutton",
+				"screen_name": "danielsutton10",
+				"location": "Chiang Rai, Thailand",
+				"description": "Currently in Thailand to cover #ThamLuangCave rescue. Senior Journalist with Network Ten Australia. Have a tip or a story to share? dsutton@networkten.com.au",
+				"url": "https://t.co/2Qz1Ck4Lvt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2Qz1Ck4Lvt",
+								"expanded_url": "http://www.tendaily.com.au",
+								"display_url": "tendaily.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5959,
+				"friends_count": 2945,
+				"listed_count": 176,
+				"created_at": "Fri Jul 17 18:35:38 +0000 2009",
+				"favourites_count": 44,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4230,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/436661710498185216/5nSOlSE1_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/436661710498185216/5nSOlSE1_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/57718781/1392943239",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 31,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jul 09 20:18:11 +0000 2018",
+		"id": 1016416243744510000,
+		"id_str": "1016416243744509952",
+		"text": "@aiaddysonzhang @warwickabrown @mz_rocko @sageandsavvy @SFaulknerPandO @sittingpretty61 @chevd80 @IamNickithomas… https://t.co/Ozjszc5EWY",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aiaddysonzhang",
+					"name": "Ai Addyson-Zhang, Ph.D Digital Learning Evangelist",
+					"id": 2154802629,
+					"id_str": "2154802629",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "warwickabrown",
+					"name": "Warwick Brown",
+					"id": 2600072004,
+					"id_str": "2600072004",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "mz_rocko",
+					"name": "Melissa A.🦉",
+					"id": 24957625,
+					"id_str": "24957625",
+					"indices": [
+						31,
+						40
+					]
+				},
+				{
+					"screen_name": "sageandsavvy",
+					"name": "Lucille Fisher 🦉Kindness, Compassion, & Marketing",
+					"id": 22969424,
+					"id_str": "22969424",
+					"indices": [
+						41,
+						54
+					]
+				},
+				{
+					"screen_name": "SFaulknerPandO",
+					"name": "Suzanne Faulkner",
+					"id": 859771153321259000,
+					"id_str": "859771153321259009",
+					"indices": [
+						55,
+						70
+					]
+				},
+				{
+					"screen_name": "sittingpretty61",
+					"name": "Dr. Dorrie Cooper",
+					"id": 3419273681,
+					"id_str": "3419273681",
+					"indices": [
+						71,
+						87
+					]
+				},
+				{
+					"screen_name": "chevd80",
+					"name": "Cheval John, Social Media Professional",
+					"id": 272794452,
+					"id_str": "272794452",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"screen_name": "IamNickithomas",
+					"name": "Nick I. Thomas",
+					"id": 984948454777610200,
+					"id_str": "984948454777610241",
+					"indices": [
+						97,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ozjszc5EWY",
+					"expanded_url": "https://twitter.com/i/web/status/1016416243744509952",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1016318386018574300,
+		"in_reply_to_status_id_str": "1016318386018574336",
+		"in_reply_to_user_id": 2154802629,
+		"in_reply_to_user_id_str": "2154802629",
+		"in_reply_to_screen_name": "aiaddysonzhang",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53289,
+			"friends_count": 30965,
+			"listed_count": 1172,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14282,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jul 09 20:17:59 +0000 2018",
+		"id": 1016416194348310500,
+		"id_str": "1016416194348310529",
+		"text": "RT @aiaddysonzhang: Good morning and a friendly reminder. Join the last show of Season one if you can. Will discuss #Instagram. @warwickabr…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Instagram",
+					"indices": [
+						116,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aiaddysonzhang",
+					"name": "Ai Addyson-Zhang, Ph.D Digital Learning Evangelist",
+					"id": 2154802629,
+					"id_str": "2154802629",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53289,
+			"friends_count": 30965,
+			"listed_count": 1172,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14282,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 09 13:49:20 +0000 2018",
+			"id": 1016318386018574300,
+			"id_str": "1016318386018574336",
+			"text": "Good morning and a friendly reminder. Join the last show of Season one if you can. Will discuss #Instagram.… https://t.co/3jmdiUa7TH",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Instagram",
+						"indices": [
+							96,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3jmdiUa7TH",
+						"expanded_url": "https://twitter.com/i/web/status/1016318386018574336",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2154802629,
+				"id_str": "2154802629",
+				"name": "Ai Addyson-Zhang, Ph.D Digital Learning Evangelist",
+				"screen_name": "aiaddysonzhang",
+				"location": "South Korea & US",
+				"description": "🔸Educator🔸Speaker🔸Top Writer in #SocialMedia on @Medium🔸Digital Learning #Consultant🔸#Edupreneur🔸Team #TwitterSmarter #SocialROI 🔸@UofMaryland @SyracuseU Alum",
+				"url": "https://t.co/vWBno8mc4F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vWBno8mc4F",
+								"expanded_url": "https://linktr.ee/aiaddysonzhang",
+								"display_url": "linktr.ee/aiaddysonzhang",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8436,
+				"friends_count": 6765,
+				"listed_count": 1337,
+				"created_at": "Sat Oct 26 20:35:52 +0000 2013",
+				"favourites_count": 30242,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 67886,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004621838868074496/tsCvEJgh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004621838868074496/tsCvEJgh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2154802629/1522832456",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1016316075540017200,
+			"quoted_status_id_str": "1016316075540017152",
+			"quoted_status": {
+				"created_at": "Mon Jul 09 13:40:09 +0000 2018",
+				"id": 1016316075540017200,
+				"id_str": "1016316075540017152",
+				"text": "📢 Last Facebook live interview of Season ONE📢\n\nMark 📅: Wed July 11, 5PM ET\n\nWill discuss ➡️ How to build #community… https://t.co/wBFXBGNxri",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "community",
+							"indices": [
+								105,
+								115
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/wBFXBGNxri",
+							"expanded_url": "https://twitter.com/i/web/status/1016316075540017152",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2154802629,
+					"id_str": "2154802629",
+					"name": "Ai Addyson-Zhang, Ph.D Digital Learning Evangelist",
+					"screen_name": "aiaddysonzhang",
+					"location": "South Korea & US",
+					"description": "🔸Educator🔸Speaker🔸Top Writer in #SocialMedia on @Medium🔸Digital Learning #Consultant🔸#Edupreneur🔸Team #TwitterSmarter #SocialROI 🔸@UofMaryland @SyracuseU Alum",
+					"url": "https://t.co/vWBno8mc4F",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/vWBno8mc4F",
+									"expanded_url": "https://linktr.ee/aiaddysonzhang",
+									"display_url": "linktr.ee/aiaddysonzhang",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 8436,
+					"friends_count": 6765,
+					"listed_count": 1337,
+					"created_at": "Sat Oct 26 20:35:52 +0000 2013",
+					"favourites_count": 30242,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 67886,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1004621838868074496/tsCvEJgh_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004621838868074496/tsCvEJgh_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2154802629/1522832456",
+					"profile_link_color": "4A913C",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1016316075540017200,
+		"quoted_status_id_str": "1016316075540017152",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jul 09 20:16:46 +0000 2018",
+		"id": 1016415889644650500,
+		"id_str": "1016415889644650496",
+		"text": "@TerminusTees  https://t.co/fZe3b4ovlx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TerminusTees",
+					"name": "TerminusTees",
+					"id": 16648459,
+					"id_str": "16648459",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1016415878055727100,
+					"id_str": "1016415878055727104",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DhsI2xuUEAAo4Fp.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DhsI2xuUEAAo4Fp.jpg",
+					"url": "https://t.co/fZe3b4ovlx",
+					"display_url": "pic.twitter.com/fZe3b4ovlx",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1016415889644650496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 286,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 286,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 286,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1016415878055727100,
+					"id_str": "1016415878055727104",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DhsI2xuUEAAo4Fp.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DhsI2xuUEAAo4Fp.jpg",
+					"url": "https://t.co/fZe3b4ovlx",
+					"display_url": "pic.twitter.com/fZe3b4ovlx",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1016415889644650496/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 286,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 286,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 286,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							143,
+							200
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DhsI2xuUEAAo4Fp.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1016383972656468000,
+		"in_reply_to_status_id_str": "1016383972656467968",
+		"in_reply_to_user_id": 16648459,
+		"in_reply_to_user_id_str": "16648459",
+		"in_reply_to_screen_name": "TerminusTees",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53289,
+			"friends_count": 30965,
+			"listed_count": 1172,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14282,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Mon Jul 09 20:12:08 +0000 2018",
+		"id": 1016414721749028900,
+		"id_str": "1016414721749028864",
+		"text": "RT @Liam_Cochrane: One interesting thing, Narongsak Osotthanakorn said all boys we’re conscious today, implying at least one of the boys re…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Liam_Cochrane",
+					"name": "Liam Cochrane",
+					"id": 233377292,
+					"id_str": "233377292",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53289,
+			"friends_count": 30965,
+			"listed_count": 1172,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14282,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 09 15:01:49 +0000 2018",
+			"id": 1016336628325871600,
+			"id_str": "1016336628325871616",
+			"text": "One interesting thing, Narongsak Osotthanakorn said all boys we’re conscious today, implying at least one of the bo… https://t.co/ZAVFE1w0xJ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZAVFE1w0xJ",
+						"expanded_url": "https://twitter.com/i/web/status/1016336628325871616",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 233377292,
+				"id_str": "233377292",
+				"name": "Liam Cochrane",
+				"screen_name": "Liam_Cochrane",
+				"location": "Bangkok, Thailand",
+				"description": "Southeast Asia correspondent for the Australian Broadcasting Corporation, based in Bangkok. (Thailand, Cambodia, Myanmar, Laos, Vietnam)",
+				"url": "https://t.co/cq8kvMJDfK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cq8kvMJDfK",
+								"expanded_url": "http://www.abc.net.au/news/liam-cochrane/5248676",
+								"display_url": "abc.net.au/news/liam-coch…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8755,
+				"friends_count": 1078,
+				"listed_count": 308,
+				"created_at": "Mon Jan 03 02:27:51 +0000 2011",
+				"favourites_count": 178,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3266,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836805721480179714/rR4CFLyk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836805721480179714/rR4CFLyk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/233377292/1460773406",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 64,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jul 09 20:12:06 +0000 2018",
+		"id": 1016414715663212500,
+		"id_str": "1016414715663212544",
+		"text": "RT @Liam_Cochrane: Press conference just finished. No major news ... operation went better today because the team learned from yesterday’s…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Liam_Cochrane",
+					"name": "Liam Cochrane",
+					"id": 233377292,
+					"id_str": "233377292",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53289,
+			"friends_count": 30965,
+			"listed_count": 1172,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 13958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14282,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 09 15:00:07 +0000 2018",
+			"id": 1016336198552305700,
+			"id_str": "1016336198552305666",
+			"text": "Press conference just finished. No major news ... operation went better today because the team learned from yesterd… https://t.co/anWo3fa2To",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/anWo3fa2To",
+						"expanded_url": "https://twitter.com/i/web/status/1016336198552305666",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 233377292,
+				"id_str": "233377292",
+				"name": "Liam Cochrane",
+				"screen_name": "Liam_Cochrane",
+				"location": "Bangkok, Thailand",
+				"description": "Southeast Asia correspondent for the Australian Broadcasting Corporation, based in Bangkok. (Thailand, Cambodia, Myanmar, Laos, Vietnam)",
+				"url": "https://t.co/cq8kvMJDfK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cq8kvMJDfK",
+								"expanded_url": "http://www.abc.net.au/news/liam-cochrane/5248676",
+								"display_url": "abc.net.au/news/liam-coch…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8755,
+				"friends_count": 1078,
+				"listed_count": 308,
+				"created_at": "Mon Jan 03 02:27:51 +0000 2011",
+				"favourites_count": 178,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3266,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836805721480179714/rR4CFLyk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836805721480179714/rR4CFLyk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/233377292/1460773406",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 54,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 09 20:10:34 +0000 2018",
 		"id": 1016414328235233300,
 		"id_str": "1016414328235233280",
