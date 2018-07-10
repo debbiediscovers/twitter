@@ -1,6 +1,1328 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 10 17:55:23 +0000 2018",
+		"id": 1016742696466014200,
+		"id_str": "1016742696466014208",
+		"text": "RT @yayqe: Rescue chief Narongsak: \"An important lesson here is we succeeded in this mission because we love and support each other. Today…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yayqe",
+					"name": "Jacob Goldberg",
+					"id": 581387531,
+					"id_str": "581387531",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53400,
+			"friends_count": 27786,
+			"listed_count": 1174,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 14321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 10 15:12:41 +0000 2018",
+			"id": 1016701749061513200,
+			"id_str": "1016701749061513217",
+			"text": "Rescue chief Narongsak: \"An important lesson here is we succeeded in this mission because we love and support each… https://t.co/hO6ZCTK9UK",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hO6ZCTK9UK",
+						"expanded_url": "https://twitter.com/i/web/status/1016701749061513217",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1016672865133838300,
+			"in_reply_to_status_id_str": "1016672865133838338",
+			"in_reply_to_user_id": 581387531,
+			"in_reply_to_user_id_str": "581387531",
+			"in_reply_to_screen_name": "yayqe",
+			"user": {
+				"id": 581387531,
+				"id_str": "581387531",
+				"name": "Jacob Goldberg",
+				"screen_name": "yayqe",
+				"location": "Mae Sai, Thailand",
+				"description": "covering the Tham Luang cave rescue 🐗✊🏾",
+				"url": "https://t.co/IbXwNVa6cc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IbXwNVa6cc",
+								"expanded_url": "https://Instagram.com/yayqe/",
+								"display_url": "Instagram.com/yayqe/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5768,
+				"friends_count": 1371,
+				"listed_count": 103,
+				"created_at": "Wed May 16 00:50:25 +0000 2012",
+				"favourites_count": 826,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2121,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/994119797980872704/6LdQXEiN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/994119797980872704/6LdQXEiN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/581387531/1465721193",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "204207",
+				"profile_sidebar_fill_color": "060A00",
+				"profile_text_color": "618238",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "00edd77d0093c62d",
+				"url": "https://api.twitter.com/1.1/geo/id/00edd77d0093c62d.json",
+				"place_type": "city",
+				"name": "Pong Pha",
+				"full_name": "Pong Pha, Thailand",
+				"country_code": "TH",
+				"country": "Thailand",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								99.870875,
+								20.3546124
+							],
+							[
+								99.903528,
+								20.3546124
+							],
+							[
+								99.903528,
+								20.3825861
+							],
+							[
+								99.870875,
+								20.3825861
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 98,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 10 17:55:00 +0000 2018",
+		"id": 1016742600777261000,
+		"id_str": "1016742600777261056",
+		"text": "RT @Liam_Cochrane: For just a moment even the press pack couldn’t muster up any cynicism - raw happiness, applause and a touch of bewilderm…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Liam_Cochrane",
+					"name": "Liam Cochrane",
+					"id": 233377292,
+					"id_str": "233377292",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53400,
+			"friends_count": 27786,
+			"listed_count": 1174,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 14321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 10 15:16:15 +0000 2018",
+			"id": 1016702649041743900,
+			"id_str": "1016702649041743874",
+			"text": "For just a moment even the press pack couldn’t muster up any cynicism - raw happiness, applause and a touch of bewi… https://t.co/c66XWXNUDW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/c66XWXNUDW",
+						"expanded_url": "https://twitter.com/i/web/status/1016702649041743874",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 233377292,
+				"id_str": "233377292",
+				"name": "Liam Cochrane",
+				"screen_name": "Liam_Cochrane",
+				"location": "Bangkok, Thailand",
+				"description": "Southeast Asia correspondent for the Australian Broadcasting Corporation, based in Bangkok. (Thailand, Cambodia, Myanmar, Laos, Vietnam)",
+				"url": "https://t.co/cq8kvMJDfK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cq8kvMJDfK",
+								"expanded_url": "http://www.abc.net.au/news/liam-cochrane/5248676",
+								"display_url": "abc.net.au/news/liam-coch…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9354,
+				"friends_count": 1078,
+				"listed_count": 315,
+				"created_at": "Mon Jan 03 02:27:51 +0000 2011",
+				"favourites_count": 193,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3285,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836805721480179714/rR4CFLyk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836805721480179714/rR4CFLyk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/233377292/1460773406",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 95,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 10 17:53:15 +0000 2018",
+		"id": 1016742160056475600,
+		"id_str": "1016742160056475650",
+		"text": "RT @elonmusk: @BBCWorld The former Thai provincial governor (described inaccurately as “rescue chief”) is not the subject matter expert. Th…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elonmusk",
+					"name": "Elon Musk",
+					"id": 44196397,
+					"id_str": "44196397",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "BBCWorld",
+					"name": "BBC News (World)",
+					"id": 742143,
+					"id_str": "742143",
+					"indices": [
+						14,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53400,
+			"friends_count": 27786,
+			"listed_count": 1174,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 14321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 10 14:03:36 +0000 2018",
+			"id": 1016684366083190800,
+			"id_str": "1016684366083190785",
+			"text": "@BBCWorld The former Thai provincial governor (described inaccurately as “rescue chief”) is not the subject matter… https://t.co/XCnsVqZXTI",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BBCWorld",
+						"name": "BBC News (World)",
+						"id": 742143,
+						"id_str": "742143",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XCnsVqZXTI",
+						"expanded_url": "https://twitter.com/i/web/status/1016684366083190785",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1016557719539605500,
+			"in_reply_to_status_id_str": "1016557719539605504",
+			"in_reply_to_user_id": 742143,
+			"in_reply_to_user_id_str": "742143",
+			"in_reply_to_screen_name": "BBCWorld",
+			"user": {
+				"id": 44196397,
+				"id_str": "44196397",
+				"name": "Elon Musk",
+				"screen_name": "elonmusk",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22308487,
+				"friends_count": 55,
+				"listed_count": 45271,
+				"created_at": "Tue Jun 02 20:12:29 +0000 2009",
+				"favourites_count": 1254,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5080,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/972170159614906369/0o9cdCOp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/972170159614906369/0o9cdCOp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1354486475",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3008,
+			"favorite_count": 21032,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3008,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 10 17:51:56 +0000 2018",
+		"id": 1016741825871216600,
+		"id_str": "1016741825871216642",
+		"text": "RT @Howardrjohnson: All four Thai Navy SEALs also out of cave safely #thamluangcave #thamluang #ถ้ำหลวง #13ชีวิตติดถ้ำ #13ชีวิตรอดแล้ว #พาห…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "thamluangcave",
+					"indices": [
+						69,
+						83
+					]
+				},
+				{
+					"text": "thamluang",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"text": "ถ้ำหลวง",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "13ชีวิตติดถ้ำ",
+					"indices": [
+						104,
+						118
+					]
+				},
+				{
+					"text": "13ชีวิตรอดแล้ว",
+					"indices": [
+						119,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Howardrjohnson",
+					"name": "Howard Johnson",
+					"id": 24198431,
+					"id_str": "24198431",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53400,
+			"friends_count": 27786,
+			"listed_count": 1174,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 14321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 10 15:50:36 +0000 2018",
+			"id": 1016711294555074600,
+			"id_str": "1016711294555074560",
+			"text": "All four Thai Navy SEALs also out of cave safely #thamluangcave #thamluang #ถ้ำหลวง #13ชีวิตติดถ้ำ #13ชีวิตรอดแล้ว… https://t.co/jTQevkP9AU",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "thamluangcave",
+						"indices": [
+							49,
+							63
+						]
+					},
+					{
+						"text": "thamluang",
+						"indices": [
+							64,
+							74
+						]
+					},
+					{
+						"text": "ถ้ำหลวง",
+						"indices": [
+							75,
+							83
+						]
+					},
+					{
+						"text": "13ชีวิตติดถ้ำ",
+						"indices": [
+							84,
+							98
+						]
+					},
+					{
+						"text": "13ชีวิตรอดแล้ว",
+						"indices": [
+							99,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jTQevkP9AU",
+						"expanded_url": "https://twitter.com/i/web/status/1016711294555074560",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24198431,
+				"id_str": "24198431",
+				"name": "Howard Johnson",
+				"screen_name": "Howardrjohnson",
+				"location": "London, UK",
+				"description": "Philippines Correspondent, BBC News. Currently 🐗🇹🇭 coverage. Previously in US, Mid East & S Asia https://t.co/clAS2zblNc My work 👇🏽",
+				"url": "https://t.co/99sV0TJaG3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/99sV0TJaG3",
+								"expanded_url": "https://bit.ly/2DUITYQ",
+								"display_url": "bit.ly/2DUITYQ",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/clAS2zblNc",
+								"expanded_url": "http://www.instagram.com/howardrjohnson",
+								"display_url": "instagram.com/howardrjohnson",
+								"indices": [
+									97,
+									120
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3554,
+				"friends_count": 850,
+				"listed_count": 91,
+				"created_at": "Fri Mar 13 16:22:01 +0000 2009",
+				"favourites_count": 415,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 734,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "020812",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1016123247912411136/bA98Es1f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016123247912411136/bA98Es1f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24198431/1518618415",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "020812",
+				"profile_text_color": "17406C",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 54,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 10 17:50:29 +0000 2018",
+		"id": 1016741462292041700,
+		"id_str": "1016741462292041729",
+		"text": "RT @TNAMCOTEnglish: A doctor and three Seals who took care of the trapped boys and coach in the cave have now exited.@TNAMCOT https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TNAMCOTEnglish",
+					"name": "TNAMCOT English",
+					"id": 89655358,
+					"id_str": "89655358",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "TNAMCOT",
+					"name": "สำนักข่าวไทย อสมท",
+					"id": 264608882,
+					"id_str": "264608882",
+					"indices": [
+						117,
+						125
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53400,
+			"friends_count": 27786,
+			"listed_count": 1174,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 14321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 10 14:59:05 +0000 2018",
+			"id": 1016698327708995600,
+			"id_str": "1016698327708995584",
+			"text": "A doctor and three Seals who took care of the trapped boys and coach in the cave have now exited.@TNAMCOT https://t.co/UvLUt5LKUE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TNAMCOT",
+						"name": "สำนักข่าวไทย อสมท",
+						"id": 264608882,
+						"id_str": "264608882",
+						"indices": [
+							97,
+							105
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1016698150575267800,
+						"id_str": "1016698150575267842",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/DhwJlMzV4AIemQV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhwJlMzV4AIemQV.jpg",
+						"url": "https://t.co/UvLUt5LKUE",
+						"display_url": "pic.twitter.com/UvLUt5LKUE",
+						"expanded_url": "https://twitter.com/TNAMCOTEnglish/status/1016698327708995584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1016698150575267800,
+						"id_str": "1016698150575267842",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/DhwJlMzV4AIemQV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhwJlMzV4AIemQV.jpg",
+						"url": "https://t.co/UvLUt5LKUE",
+						"display_url": "pic.twitter.com/UvLUt5LKUE",
+						"expanded_url": "https://twitter.com/TNAMCOTEnglish/status/1016698327708995584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89655358,
+				"id_str": "89655358",
+				"name": "TNAMCOT English",
+				"screen_name": "TNAMCOTEnglish",
+				"location": "Bangkok, Thailand",
+				"description": "Get latest English news headlines from Thai News Agency of MCOT",
+				"url": "https://t.co/IGcQsRK89i",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IGcQsRK89i",
+								"expanded_url": "http://www.tnamcot.com",
+								"display_url": "tnamcot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32836,
+				"friends_count": 46,
+				"listed_count": 766,
+				"created_at": "Fri Nov 13 08:18:53 +0000 2009",
+				"favourites_count": 10,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 26838,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1008627510458793984/lKjuzFfY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1008627510458793984/lKjuzFfY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/89655358/1529310879",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37,
+			"favorite_count": 61,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 10 17:49:27 +0000 2018",
+		"id": 1016741201234440200,
+		"id_str": "1016741201234440192",
+		"text": "@NorbertPiske Yes!!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NorbertPiske",
+					"name": "Norbert Piske",
+					"id": 954065730852544500,
+					"id_str": "954065730852544512",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1016673385290588200,
+		"in_reply_to_status_id_str": "1016673385290588160",
+		"in_reply_to_user_id": 954065730852544500,
+		"in_reply_to_user_id_str": "954065730852544512",
+		"in_reply_to_screen_name": "NorbertPiske",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53400,
+			"friends_count": 27786,
+			"listed_count": 1174,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 14321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue Jul 10 13:13:30 +0000 2018",
 		"id": 1016671757569126400,
 		"id_str": "1016671757569126400",
