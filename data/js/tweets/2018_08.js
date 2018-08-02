@@ -1,6 +1,641 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Thu Aug 02 11:04:32 +0000 2018",
+		"id": 1024974224899723300,
+		"id_str": "1024974224899723264",
+		"text": "RT @TalineFelix3: Good read on the real potential of AI, what it can and cannot do for your business and challenges may run into.\n\nhttps://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TalineFelix3",
+					"name": "Taline Felix",
+					"id": 63987777,
+					"id_str": "63987777",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55971,
+			"friends_count": 25681,
+			"listed_count": 1204,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15123,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 06 14:51:01 +0000 2018",
+			"id": 982269451826380800,
+			"id_str": "982269451826380800",
+			"text": "Good read on the real potential of AI, what it can and cannot do for your business and challenges may run into.… https://t.co/NmCoqhSKAo",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NmCoqhSKAo",
+						"expanded_url": "https://twitter.com/i/web/status/982269451826380800",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63987777,
+				"id_str": "63987777",
+				"name": "Taline Felix",
+				"screen_name": "TalineFelix3",
+				"location": "Los Angeles CA",
+				"description": "B2B Digital Growth Marketer - Committed to guiding organizations accelerate growth  -  Special Interests #AI , Tech & Clean Tech 🌎 Tweets my own",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 779,
+				"friends_count": 138,
+				"listed_count": 15,
+				"created_at": "Sat Aug 08 15:48:45 +0000 2009",
+				"favourites_count": 77,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 390,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/949713696065961984/YHYzYOAb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/949713696065961984/YHYzYOAb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63987777/1451419400",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 02 10:05:48 +0000 2018",
+		"id": 1024959440162717700,
+		"id_str": "1024959440162717697",
+		"text": "@sinned wow cool Twitter handle 😈😇",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sinned",
+					"name": "Dennis Yang",
+					"id": 11688,
+					"id_str": "11688",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 11688,
+		"in_reply_to_user_id_str": "11688",
+		"in_reply_to_screen_name": "sinned",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55971,
+			"friends_count": 25681,
+			"listed_count": 1204,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15123,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 02 10:02:45 +0000 2018",
+		"id": 1024958673020313600,
+		"id_str": "1024958673020313600",
+		"text": "Yay! @dashbotio is definitely one of my favourite chatbot vendors for #AI conversational platforms! https://t.co/aJZe0VU0zm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						70,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dashbotio",
+					"name": "Dashbot",
+					"id": 733797576500088800,
+					"id_str": "733797576500088832",
+					"indices": [
+						5,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aJZe0VU0zm",
+					"expanded_url": "https://twitter.com/dashbotio/status/1024275715120881666",
+					"display_url": "twitter.com/dashbotio/stat…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55971,
+			"friends_count": 25681,
+			"listed_count": 1204,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15123,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1024275715120881700,
+		"quoted_status_id_str": "1024275715120881666",
+		"quoted_status": {
+			"created_at": "Tue Jul 31 12:48:55 +0000 2018",
+			"id": 1024275715120881700,
+			"id_str": "1024275715120881666",
+			"text": "We think this is pretty cool too: @Gartner_inc named Dashbot a Cool Vendor in AI for Conversational Platforms: https://t.co/gUgWAsyGX5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Gartner_inc",
+						"name": "Gartner",
+						"id": 15231287,
+						"id_str": "15231287",
+						"indices": [
+							34,
+							46
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gUgWAsyGX5",
+						"expanded_url": "https://www.gartner.com/doc/3883864",
+						"display_url": "gartner.com/doc/3883864",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 733797576500088800,
+				"id_str": "733797576500088832",
+				"name": "Dashbot",
+				"screen_name": "dashbotio",
+				"location": "San Francisco, CA",
+				"description": "Actionable, conversational bot analytics for Alexa, Facebook, Google Home, Slack, Twitter, SMS.",
+				"url": "https://t.co/WzycgINjax",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WzycgINjax",
+								"expanded_url": "http://www.dashbot.io/",
+								"display_url": "dashbot.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1136,
+				"friends_count": 355,
+				"listed_count": 77,
+				"created_at": "Fri May 20 23:12:30 +0000 2016",
+				"favourites_count": 957,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 827,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/786643342394167296/ibKj6yPu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/786643342394167296/ibKj6yPu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/733797576500088832/1525458315",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 02 10:02:10 +0000 2018",
+		"id": 1024958528807624700,
+		"id_str": "1024958528807624710",
+		"text": "@dashbotio @Gartner_inc Congrats!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dashbotio",
+					"name": "Dashbot",
+					"id": 733797576500088800,
+					"id_str": "733797576500088832",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Gartner_inc",
+					"name": "Gartner",
+					"id": 15231287,
+					"id_str": "15231287",
+					"indices": [
+						11,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1024275715120881700,
+		"in_reply_to_status_id_str": "1024275715120881666",
+		"in_reply_to_user_id": 733797576500088800,
+		"in_reply_to_user_id_str": "733797576500088832",
+		"in_reply_to_screen_name": "dashbotio",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, love Twitter. @DigitalFuturist @LittleCodersSG @GiftedSGP @0rchestras are my #AI bots",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55971,
+			"friends_count": 25681,
+			"listed_count": 1204,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15123,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 02 09:09:12 +0000 2018",
 		"id": 1024945198428651500,
 		"id_str": "1024945198428651520",
