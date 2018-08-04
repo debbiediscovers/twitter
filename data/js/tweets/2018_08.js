@@ -1,6 +1,456 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sat Aug 04 23:01:00 +0000 2018",
+		"id": 1025879302418645000,
+		"id_str": "1025879302418644994",
+		"text": "8 unexpected lessons I learnt about fundraising (while building 3 schools with Pencils of Promise) - by… https://t.co/aoLmrujrFS",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aoLmrujrFS",
+					"expanded_url": "https://twitter.com/i/web/status/1025879302418644994",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://manager.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, love Twitter.",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56141,
+			"friends_count": 26131,
+			"listed_count": 1208,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15157,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 04 22:25:51 +0000 2018",
+		"id": 1025870456836907000,
+		"id_str": "1025870456836907008",
+		"text": "RT @bigdimsumdolly: “Romantic comedy Crazy Rich Asians marks the first Hollywood movie in 25 years to feature Asian Americans in the lead r…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bigdimsumdolly",
+					"name": "Selena Tan",
+					"id": 1015821398365765600,
+					"id_str": "1015821398365765632",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, love Twitter.",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56141,
+			"friends_count": 26131,
+			"listed_count": 1208,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15157,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 04 22:24:25 +0000 2018",
+			"id": 1025870097636716500,
+			"id_str": "1025870097636716544",
+			"text": "“Romantic comedy Crazy Rich Asians marks the first Hollywood movie in 25 years to feature Asian Americans in the le… https://t.co/PJeShHbi0t",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PJeShHbi0t",
+						"expanded_url": "https://twitter.com/i/web/status/1025870097636716544",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1015821398365765600,
+				"id_str": "1015821398365765632",
+				"name": "Selena Tan",
+				"screen_name": "bigdimsumdolly",
+				"location": "Singapore",
+				"description": "Singapore's Funniest Actress, Dim Sum Dolly, Founder @DreamAcademy, - I play Alix Young @CrazyRichMovie #CrazyRichAsians in theatres 15 Aug!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1449,
+				"friends_count": 1778,
+				"listed_count": 5,
+				"created_at": "Sun Jul 08 04:54:29 +0000 2018",
+				"favourites_count": 525,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 168,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1022365517753933824/sUzYmOwL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022365517753933824/sUzYmOwL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1015821398365765632/1531044534",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1025048581210890200,
+			"quoted_status_id_str": "1025048581210890240",
+			"quoted_status": {
+				"created_at": "Thu Aug 02 16:00:00 +0000 2018",
+				"id": 1025048581210890200,
+				"id_str": "1025048581210890240",
+				"text": "The #CrazyRichAsians' cast's guide to #Singapore: https://t.co/AnfGmoMIa6 @CrazyRichMovie @VisitSingapore… https://t.co/6STbE8IdHX",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "CrazyRichAsians",
+							"indices": [
+								4,
+								20
+							]
+						},
+						{
+							"text": "Singapore",
+							"indices": [
+								38,
+								48
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "CrazyRichMovie",
+							"name": "Crazy Rich Asians",
+							"id": 874401319171178500,
+							"id_str": "874401319171178496",
+							"indices": [
+								74,
+								89
+							]
+						},
+						{
+							"screen_name": "VisitSingapore",
+							"name": "VisitSingapore",
+							"id": 23299429,
+							"id_str": "23299429",
+							"indices": [
+								90,
+								105
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/AnfGmoMIa6",
+							"expanded_url": "http://bit.ly/2n4MMEg",
+							"display_url": "bit.ly/2n4MMEg",
+							"indices": [
+								50,
+								73
+							]
+						},
+						{
+							"url": "https://t.co/6STbE8IdHX",
+							"expanded_url": "https://twitter.com/i/web/status/1025048581210890240",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 87279954,
+					"id_str": "87279954",
+					"name": "Forbes Travel Guide",
+					"screen_name": "ForbesInspector",
+					"location": "Everywhere",
+					"description": "Ever wonder what it's like to be an inspector for Forbes Travel Guide? Visit http://t.co/LdXSej9RWg and follow our travels around the globe.",
+					"url": "http://t.co/c8jbbRlGvH",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/c8jbbRlGvH",
+									"expanded_url": "http://www.ForbesTravelGuide.com",
+									"display_url": "ForbesTravelGuide.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "http://t.co/LdXSej9RWg",
+									"expanded_url": "http://ForbesTravelGuide.com",
+									"display_url": "ForbesTravelGuide.com",
+									"indices": [
+										77,
+										99
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 46877,
+					"friends_count": 2051,
+					"listed_count": 1052,
+					"created_at": "Tue Nov 03 20:54:21 +0000 2009",
+					"favourites_count": 3082,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 13313,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "413833",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/910180192248885253/c8UaICUT_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/910180192248885253/c8UaICUT_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/87279954/1426523271",
+					"profile_link_color": "3553E6",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4,
+				"favorite_count": 3,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 14,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1025048581210890200,
+		"quoted_status_id_str": "1025048581210890240",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 04 17:52:03 +0000 2018",
 		"id": 1025801551766585300,
 		"id_str": "1025801551766585350",
