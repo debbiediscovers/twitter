@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Tue Aug 07 04:13:58 +0000 2018",
+		"id": 1026682838148468700,
+		"id_str": "1026682838148468736",
+		"text": "Congrats @aiaddysonzhang what a wonderful story by @Forbes! You’re such an inspiration! https://t.co/9hJNfTMahr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aiaddysonzhang",
+					"name": "Ai Addyson-Zhang, Ph.D Digital Learning Evangelist",
+					"id": 2154802629,
+					"id_str": "2154802629",
+					"indices": [
+						9,
+						24
+					]
+				},
+				{
+					"screen_name": "Forbes",
+					"name": "Forbes",
+					"id": 91478624,
+					"id_str": "91478624",
+					"indices": [
+						51,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9hJNfTMahr",
+					"expanded_url": "https://twitter.com/aiaddysonzhang/status/1026474726107963392",
+					"display_url": "twitter.com/aiaddysonzhang…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, love Twitter.",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56421,
+			"friends_count": 26308,
+			"listed_count": 1209,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16620,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15199,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902110924470796289/JYTMIC83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1026474726107963400,
+		"quoted_status_id_str": "1026474726107963392",
+		"quoted_status": {
+			"created_at": "Mon Aug 06 14:27:00 +0000 2018",
+			"id": 1026474726107963400,
+			"id_str": "1026474726107963392",
+			"text": "12 Lessons In 12 Months: What This Teacher Learned During Her Entrepreneurial Journey via @forbes https://t.co/oqEcPGHH67",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Forbes",
+						"name": "Forbes",
+						"id": 91478624,
+						"id_str": "91478624",
+						"indices": [
+							90,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/oqEcPGHH67",
+						"expanded_url": "https://www.forbes.com/sites/robynshulman/2018/08/06/12-lessons-in-12-months-what-this-teacher-learned-during-her-entrepreneurial-journey/#39c1e76d55e4",
+						"display_url": "forbes.com/sites/robynshu…",
+						"indices": [
+							98,
+							121
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2154802629,
+				"id_str": "2154802629",
+				"name": "Ai Addyson-Zhang, Ph.D Digital Learning Evangelist",
+				"screen_name": "aiaddysonzhang",
+				"location": "South Korea & US",
+				"description": "🔸Educator🔸Speaker🔸Top Writer in #SocialMedia on @Medium🔸Digital Learning #Consultant🔸#Edupreneur🔸Team #TwitterSmarter #SocialROI 🔸@UofMaryland @SyracuseU Alum",
+				"url": "https://t.co/vWBno8mc4F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vWBno8mc4F",
+								"expanded_url": "https://linktr.ee/aiaddysonzhang",
+								"display_url": "linktr.ee/aiaddysonzhang",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8627,
+				"friends_count": 6872,
+				"listed_count": 1354,
+				"created_at": "Sat Oct 26 20:35:52 +0000 2013",
+				"favourites_count": 31097,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 69988,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004621838868074496/tsCvEJgh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004621838868074496/tsCvEJgh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2154802629/1522832456",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 07 04:12:00 +0000 2018",
 		"id": 1026682345598869500,
 		"id_str": "1026682345598869504",
