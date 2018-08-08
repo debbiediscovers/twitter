@@ -1,6 +1,741 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Wed Aug 08 11:00:05 +0000 2018",
+		"id": 1027147430377050100,
+		"id_str": "1027147430377050113",
+		"text": "Tech Companies Are Tracking Students' Feelings https://t.co/FCuLPtmtkN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FCuLPtmtkN",
+					"expanded_url": "https://www.edweek.org/ew/articles/2018/06/12/how-and-why-ed-tech-companies-are-tracking.html",
+					"display_url": "edweek.org/ew/articles/20…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://drumup.io\" rel=\"nofollow\">drumup.io</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, love Twitter.",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56575,
+			"friends_count": 26772,
+			"listed_count": 1211,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15215,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 08 10:53:43 +0000 2018",
+		"id": 1027145827762860000,
+		"id_str": "1027145827762860032",
+		"text": "RT @ThatGirlCarly: #CrazyRichAsians premiere fashion: Stunning ensembles from Singapore 🇸🇬 🙌 https://t.co/cP0EMjjN7m",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CrazyRichAsians",
+					"indices": [
+						19,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ThatGirlCarly",
+					"name": "Carly Mallenbaum",
+					"id": 218345866,
+					"id_str": "218345866",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1027009731766804500,
+					"id_str": "1027009731766804480",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DkCr6OLUYAAylGw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkCr6OLUYAAylGw.jpg",
+					"url": "https://t.co/cP0EMjjN7m",
+					"display_url": "pic.twitter.com/cP0EMjjN7m",
+					"expanded_url": "https://twitter.com/ThatGirlCarly/status/1027009763488325632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027009763488325600,
+					"source_status_id_str": "1027009763488325632",
+					"source_user_id": 218345866,
+					"source_user_id_str": "218345866"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1027009731766804500,
+					"id_str": "1027009731766804480",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DkCr6OLUYAAylGw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkCr6OLUYAAylGw.jpg",
+					"url": "https://t.co/cP0EMjjN7m",
+					"display_url": "pic.twitter.com/cP0EMjjN7m",
+					"expanded_url": "https://twitter.com/ThatGirlCarly/status/1027009763488325632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027009763488325600,
+					"source_status_id_str": "1027009763488325632",
+					"source_user_id": 218345866,
+					"source_user_id_str": "218345866"
+				},
+				{
+					"id": 1027009731771002900,
+					"id_str": "1027009731771002881",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DkCr6OMUcAEoA11.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkCr6OMUcAEoA11.jpg",
+					"url": "https://t.co/cP0EMjjN7m",
+					"display_url": "pic.twitter.com/cP0EMjjN7m",
+					"expanded_url": "https://twitter.com/ThatGirlCarly/status/1027009763488325632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027009763488325600,
+					"source_status_id_str": "1027009763488325632",
+					"source_user_id": 218345866,
+					"source_user_id_str": "218345866"
+				},
+				{
+					"id": 1027009730865115100,
+					"id_str": "1027009730865115136",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DkCr6K0VsAAac4L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkCr6K0VsAAac4L.jpg",
+					"url": "https://t.co/cP0EMjjN7m",
+					"display_url": "pic.twitter.com/cP0EMjjN7m",
+					"expanded_url": "https://twitter.com/ThatGirlCarly/status/1027009763488325632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027009763488325600,
+					"source_status_id_str": "1027009763488325632",
+					"source_user_id": 218345866,
+					"source_user_id_str": "218345866"
+				},
+				{
+					"id": 1027009731779424300,
+					"id_str": "1027009731779424256",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DkCr6OOU8AAr26L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkCr6OOU8AAr26L.jpg",
+					"url": "https://t.co/cP0EMjjN7m",
+					"display_url": "pic.twitter.com/cP0EMjjN7m",
+					"expanded_url": "https://twitter.com/ThatGirlCarly/status/1027009763488325632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027009763488325600,
+					"source_status_id_str": "1027009763488325632",
+					"source_user_id": 218345866,
+					"source_user_id_str": "218345866"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, love Twitter.",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56575,
+			"friends_count": 26772,
+			"listed_count": 1211,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15215,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 08 01:53:03 +0000 2018",
+			"id": 1027009763488325600,
+			"id_str": "1027009763488325632",
+			"text": "#CrazyRichAsians premiere fashion: Stunning ensembles from Singapore 🇸🇬 🙌 https://t.co/cP0EMjjN7m",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CrazyRichAsians",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1027009731766804500,
+						"id_str": "1027009731766804480",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DkCr6OLUYAAylGw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkCr6OLUYAAylGw.jpg",
+						"url": "https://t.co/cP0EMjjN7m",
+						"display_url": "pic.twitter.com/cP0EMjjN7m",
+						"expanded_url": "https://twitter.com/ThatGirlCarly/status/1027009763488325632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1027009731766804500,
+						"id_str": "1027009731766804480",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DkCr6OLUYAAylGw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkCr6OLUYAAylGw.jpg",
+						"url": "https://t.co/cP0EMjjN7m",
+						"display_url": "pic.twitter.com/cP0EMjjN7m",
+						"expanded_url": "https://twitter.com/ThatGirlCarly/status/1027009763488325632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1027009731771002900,
+						"id_str": "1027009731771002881",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DkCr6OMUcAEoA11.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkCr6OMUcAEoA11.jpg",
+						"url": "https://t.co/cP0EMjjN7m",
+						"display_url": "pic.twitter.com/cP0EMjjN7m",
+						"expanded_url": "https://twitter.com/ThatGirlCarly/status/1027009763488325632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1027009730865115100,
+						"id_str": "1027009730865115136",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DkCr6K0VsAAac4L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkCr6K0VsAAac4L.jpg",
+						"url": "https://t.co/cP0EMjjN7m",
+						"display_url": "pic.twitter.com/cP0EMjjN7m",
+						"expanded_url": "https://twitter.com/ThatGirlCarly/status/1027009763488325632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1027009731779424300,
+						"id_str": "1027009731779424256",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DkCr6OOU8AAr26L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkCr6OOU8AAr26L.jpg",
+						"url": "https://t.co/cP0EMjjN7m",
+						"display_url": "pic.twitter.com/cP0EMjjN7m",
+						"expanded_url": "https://twitter.com/ThatGirlCarly/status/1027009763488325632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 218345866,
+				"id_str": "218345866",
+				"name": "Carly Mallenbaum",
+				"screen_name": "ThatGirlCarly",
+				"location": "Los Angeles, CA",
+				"description": "Entertainment writer over at @usatoday. Not quite tall enough to be an Amazon, but hoping Themyscira still welcomes me. PSU alum.",
+				"url": "https://t.co/pexXo0ukpU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pexXo0ukpU",
+								"expanded_url": "https://www.usatoday.com/staff/2121/carly-mallenbaum/",
+								"display_url": "usatoday.com/staff/2121/car…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5031,
+				"friends_count": 2434,
+				"listed_count": 173,
+				"created_at": "Mon Nov 22 02:53:30 +0000 2010",
+				"favourites_count": 3318,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7084,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/831034637233238016/rKLpPJZr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/831034637233238016/rKLpPJZr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/218345866/1467136594",
+				"profile_link_color": "94D487",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9e38329c80004",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9e38329c80004.json",
+				"place_type": "poi",
+				"name": "TCL Chinese Theatre",
+				"full_name": "TCL Chinese Theatre",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-118.34099292755127,
+								34.10189511797652
+							],
+							[
+								-118.34099292755127,
+								34.10189511797652
+							],
+							[
+								-118.34099292755127,
+								34.10189511797652
+							],
+							[
+								-118.34099292755127,
+								34.10189511797652
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 35,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 08 03:26:02 +0000 2018",
 		"id": 1027033164902891500,
 		"id_str": "1027033164902891521",
