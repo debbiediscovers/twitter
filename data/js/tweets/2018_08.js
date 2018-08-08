@@ -1,6 +1,841 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Wed Aug 08 20:06:51 +0000 2018",
+		"id": 1027285028248711200,
+		"id_str": "1027285028248711168",
+		"text": "RT @debbiediscovers: Dialogflow now offers automatic spell correction! This is HUGE! #chatbots #NLP https://t.co/WWD8arNDKF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "chatbots",
+					"indices": [
+						85,
+						94
+					]
+				},
+				{
+					"text": "NLP",
+					"indices": [
+						95,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1027033082803576800,
+					"id_str": "1027033082803576832",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DkDBJbkU4AAFeLj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkDBJbkU4AAFeLj.jpg",
+					"url": "https://t.co/WWD8arNDKF",
+					"display_url": "pic.twitter.com/WWD8arNDKF",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1027033164902891521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 632,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 632,
+							"h": 191,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 632,
+							"h": 191,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027033164902891500,
+					"source_status_id_str": "1027033164902891521",
+					"source_user_id": 3060836348,
+					"source_user_id_str": "3060836348"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1027033082803576800,
+					"id_str": "1027033082803576832",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DkDBJbkU4AAFeLj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkDBJbkU4AAFeLj.jpg",
+					"url": "https://t.co/WWD8arNDKF",
+					"display_url": "pic.twitter.com/WWD8arNDKF",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1027033164902891521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 632,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 632,
+							"h": 191,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 632,
+							"h": 191,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027033164902891500,
+					"source_status_id_str": "1027033164902891521",
+					"source_user_id": 3060836348,
+					"source_user_id_str": "3060836348"
+				}
+			]
+		},
+		"source": "<a href=\"http://debbiediscovers.com\" rel=\"nofollow\">TWITTER LIST ADDER</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, love Twitter.",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56596,
+			"friends_count": 26769,
+			"listed_count": 1208,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15222,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 08 03:26:02 +0000 2018",
+			"id": 1027033164902891500,
+			"id_str": "1027033164902891521",
+			"text": "Dialogflow now offers automatic spell correction! This is HUGE! #chatbots #NLP https://t.co/WWD8arNDKF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "chatbots",
+						"indices": [
+							64,
+							73
+						]
+					},
+					{
+						"text": "NLP",
+						"indices": [
+							74,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1027033082803576800,
+						"id_str": "1027033082803576832",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DkDBJbkU4AAFeLj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkDBJbkU4AAFeLj.jpg",
+						"url": "https://t.co/WWD8arNDKF",
+						"display_url": "pic.twitter.com/WWD8arNDKF",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/1027033164902891521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 632,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 632,
+								"h": 191,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 632,
+								"h": 191,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1027033082803576800,
+						"id_str": "1027033082803576832",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DkDBJbkU4AAFeLj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkDBJbkU4AAFeLj.jpg",
+						"url": "https://t.co/WWD8arNDKF",
+						"display_url": "pic.twitter.com/WWD8arNDKF",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/1027033164902891521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 632,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 632,
+								"h": 191,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 632,
+								"h": 191,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+				"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, love Twitter.",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 56596,
+				"friends_count": 26769,
+				"listed_count": 1208,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 16636,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15222,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 08 19:43:01 +0000 2018",
+		"id": 1027279029789810700,
+		"id_str": "1027279029789810693",
+		"text": "RT @thomaSchulz: Great achievement @SEED_Token 👏🏻\n\n👋🏻 @laurenkunze @debbiediscovers @ainabivi @RoboTerra @johnkoetsier @jonathanmaskew @aak…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thomaSchulz",
+					"name": "Thomas Schulz back in 😎 Barcelona working",
+					"id": 226482490,
+					"id_str": "226482490",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "SEED_Token",
+					"name": "SEED Token",
+					"id": 912768639169830900,
+					"id_str": "912768639169830912",
+					"indices": [
+						35,
+						46
+					]
+				},
+				{
+					"screen_name": "laurenkunze",
+					"name": "Lauren Kunze",
+					"id": 23804082,
+					"id_str": "23804082",
+					"indices": [
+						54,
+						66
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						67,
+						83
+					]
+				},
+				{
+					"screen_name": "ainabivi",
+					"name": "Ainara Bilbao 💃",
+					"id": 2168049924,
+					"id_str": "2168049924",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "RoboTerra",
+					"name": "ROBOTERRA",
+					"id": 2361762145,
+					"id_str": "2361762145",
+					"indices": [
+						94,
+						104
+					]
+				},
+				{
+					"screen_name": "johnkoetsier",
+					"name": "John Koetsier",
+					"id": 1253661,
+					"id_str": "1253661",
+					"indices": [
+						105,
+						118
+					]
+				},
+				{
+					"screen_name": "jonathanmaskew",
+					"name": "Jonathan Maskew",
+					"id": 65426868,
+					"id_str": "65426868",
+					"indices": [
+						119,
+						134
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, love Twitter.",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56596,
+			"friends_count": 26769,
+			"listed_count": 1208,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15222,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 08 17:59:38 +0000 2018",
+			"id": 1027253011616333800,
+			"id_str": "1027253011616333828",
+			"text": "Great achievement @SEED_Token 👏🏻\n\n👋🏻 @laurenkunze @debbiediscovers @ainabivi @RoboTerra @johnkoetsier… https://t.co/l20k814LOZ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SEED_Token",
+						"name": "SEED Token",
+						"id": 912768639169830900,
+						"id_str": "912768639169830912",
+						"indices": [
+							18,
+							29
+						]
+					},
+					{
+						"screen_name": "laurenkunze",
+						"name": "Lauren Kunze",
+						"id": 23804082,
+						"id_str": "23804082",
+						"indices": [
+							37,
+							49
+						]
+					},
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							50,
+							66
+						]
+					},
+					{
+						"screen_name": "ainabivi",
+						"name": "Ainara Bilbao 💃",
+						"id": 2168049924,
+						"id_str": "2168049924",
+						"indices": [
+							67,
+							76
+						]
+					},
+					{
+						"screen_name": "RoboTerra",
+						"name": "ROBOTERRA",
+						"id": 2361762145,
+						"id_str": "2361762145",
+						"indices": [
+							77,
+							87
+						]
+					},
+					{
+						"screen_name": "johnkoetsier",
+						"name": "John Koetsier",
+						"id": 1253661,
+						"id_str": "1253661",
+						"indices": [
+							88,
+							101
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/l20k814LOZ",
+						"expanded_url": "https://twitter.com/i/web/status/1027253011616333828",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 226482490,
+				"id_str": "226482490",
+				"name": "Thomas Schulz back in 😎 Barcelona working",
+				"screen_name": "thomaSchulz",
+				"location": "Barcelona, Spanien",
+				"description": "Connecting contacts, communities and content: @gobottish @seed_token @healthetia @beeqco @xing_Z AMA @thomaSchulzBot 🤖⛓👩‍⚕️🐝💼",
+				"url": "https://t.co/7MRU8aaLyK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7MRU8aaLyK",
+								"expanded_url": "http://linkedin.com/in/thomaschulz",
+								"display_url": "linkedin.com/in/thomaschulz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5424,
+				"friends_count": 2277,
+				"listed_count": 652,
+				"created_at": "Tue Dec 14 07:51:08 +0000 2010",
+				"favourites_count": 20866,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22097,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/755350716752007168/pjXK1ydi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/755350716752007168/pjXK1ydi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/226482490/1464524114",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1027238233686663200,
+			"quoted_status_id_str": "1027238233686663168",
+			"quoted_status": {
+				"created_at": "Wed Aug 08 17:00:54 +0000 2018",
+				"id": 1027238233686663200,
+				"id_str": "1027238233686663168",
+				"text": "Introducing SEED Bot: a chatbot adding transactions to blockchain shows the functionality of the Seed Platform and… https://t.co/E9R9K6Ds7B",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/E9R9K6Ds7B",
+							"expanded_url": "https://twitter.com/i/web/status/1027238233686663168",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 912768639169830900,
+					"id_str": "912768639169830912",
+					"name": "SEED Token",
+					"screen_name": "SEED_Token",
+					"location": "Earth",
+					"description": "Monetized #opensource marketplace for #bot #developers and deployers of next-gen #chatbots #AI #ethereum #blockchain #crypto https://t.co/4GRtGVG9hw",
+					"url": "https://t.co/K4UM7X2Byp",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/K4UM7X2Byp",
+									"expanded_url": "http://seedtoken.io",
+									"display_url": "seedtoken.io",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/4GRtGVG9hw",
+									"expanded_url": "https://t.me/seedtoken",
+									"display_url": "t.me/seedtoken",
+									"indices": [
+										125,
+										148
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 904,
+					"friends_count": 1641,
+					"listed_count": 23,
+					"created_at": "Tue Sep 26 19:59:36 +0000 2017",
+					"favourites_count": 282,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 369,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/975245276779704321/1x0E8Nne_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/975245276779704321/1x0E8Nne_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/912768639169830912/1527733039",
+					"profile_link_color": "981CEB",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 6,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1027238233686663200,
+		"quoted_status_id_str": "1027238233686663168",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 08 17:54:00 +0000 2018",
 		"id": 1027251594235134000,
 		"id_str": "1027251594235133952",
