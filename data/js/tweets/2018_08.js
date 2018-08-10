@@ -1,6 +1,595 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Fri Aug 10 00:25:59 +0000 2018",
+		"id": 1027712631434444800,
+		"id_str": "1027712631434444802",
+		"text": "RT @DEADLINE: ‘Crazy Rich Asians’ Sells Out Paid Sneak Previews Wednesday Night https://t.co/S0fz4YLghm https://t.co/KfkbiSyJkQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DEADLINE",
+					"name": "Deadline Hollywood",
+					"id": 586032653,
+					"id_str": "586032653",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/S0fz4YLghm",
+					"expanded_url": "https://deadline.com/2018/08/crazy-rich-asians-box-office-sneak-previews-1202443100/?utm_source=dlvr.it&utm_medium=twitter",
+					"display_url": "deadline.com/2018/08/crazy-…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1027592345934417900,
+					"id_str": "1027592345934417920",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DkK9y1FU0AAs7bH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkK9y1FU0AAs7bH.jpg",
+					"url": "https://t.co/KfkbiSyJkQ",
+					"display_url": "pic.twitter.com/KfkbiSyJkQ",
+					"expanded_url": "https://twitter.com/DEADLINE/status/1027592348526493701/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 605,
+							"h": 403,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 605,
+							"h": 403,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 605,
+							"h": 403,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027592348526493700,
+					"source_status_id_str": "1027592348526493701",
+					"source_user_id": 586032653,
+					"source_user_id_str": "586032653"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1027592345934417900,
+					"id_str": "1027592345934417920",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DkK9y1FU0AAs7bH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkK9y1FU0AAs7bH.jpg",
+					"url": "https://t.co/KfkbiSyJkQ",
+					"display_url": "pic.twitter.com/KfkbiSyJkQ",
+					"expanded_url": "https://twitter.com/DEADLINE/status/1027592348526493701/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 605,
+							"h": 403,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 605,
+							"h": 403,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 605,
+							"h": 403,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027592348526493700,
+					"source_status_id_str": "1027592348526493701",
+					"source_user_id": 586032653,
+					"source_user_id_str": "586032653"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, love Twitter.",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56731,
+			"friends_count": 26010,
+			"listed_count": 1211,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15248,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 09 16:28:02 +0000 2018",
+			"id": 1027592348526493700,
+			"id_str": "1027592348526493701",
+			"text": "‘Crazy Rich Asians’ Sells Out Paid Sneak Previews Wednesday Night https://t.co/S0fz4YLghm https://t.co/KfkbiSyJkQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/S0fz4YLghm",
+						"expanded_url": "https://deadline.com/2018/08/crazy-rich-asians-box-office-sneak-previews-1202443100/?utm_source=dlvr.it&utm_medium=twitter",
+						"display_url": "deadline.com/2018/08/crazy-…",
+						"indices": [
+							66,
+							89
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1027592345934417900,
+						"id_str": "1027592345934417920",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DkK9y1FU0AAs7bH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkK9y1FU0AAs7bH.jpg",
+						"url": "https://t.co/KfkbiSyJkQ",
+						"display_url": "pic.twitter.com/KfkbiSyJkQ",
+						"expanded_url": "https://twitter.com/DEADLINE/status/1027592348526493701/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 605,
+								"h": 403,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 605,
+								"h": 403,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 605,
+								"h": 403,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1027592345934417900,
+						"id_str": "1027592345934417920",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DkK9y1FU0AAs7bH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkK9y1FU0AAs7bH.jpg",
+						"url": "https://t.co/KfkbiSyJkQ",
+						"display_url": "pic.twitter.com/KfkbiSyJkQ",
+						"expanded_url": "https://twitter.com/DEADLINE/status/1027592348526493701/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 605,
+								"h": 403,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 605,
+								"h": 403,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 605,
+								"h": 403,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 586032653,
+				"id_str": "586032653",
+				"name": "Deadline Hollywood",
+				"screen_name": "DEADLINE",
+				"location": "Hollywood, USA",
+				"description": "Hollywood's source for breaking news.",
+				"url": "https://t.co/aA9FtYp0Y8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aA9FtYp0Y8",
+								"expanded_url": "http://www.deadline.com",
+								"display_url": "deadline.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 738363,
+				"friends_count": 131582,
+				"listed_count": 5197,
+				"created_at": "Sun May 20 22:10:12 +0000 2012",
+				"favourites_count": 930,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 109711,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/636314911606333444/Qep8uBuO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/636314911606333444/Qep8uBuO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/586032653/1533326370",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 164,
+			"favorite_count": 534,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 164,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 10 00:24:56 +0000 2018",
+		"id": 1027712364420816900,
+		"id_str": "1027712364420816896",
+		"text": "@MGMurray1 Thanks!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MGMurray1",
+					"name": "Michael Murray",
+					"id": 21051958,
+					"id_str": "21051958",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1027682433825693700,
+		"in_reply_to_status_id_str": "1027682433825693696",
+		"in_reply_to_user_id": 21051958,
+		"in_reply_to_user_id_str": "21051958",
+		"in_reply_to_screen_name": "MGMurray1",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, love Twitter.",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56731,
+			"friends_count": 26010,
+			"listed_count": 1211,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15248,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 10 00:23:59 +0000 2018",
+		"id": 1027712125869817900,
+		"id_str": "1027712125869817856",
+		"text": "@POPSUGAR Nice! You're missing @bigdimsumdolly who plays Alix Young!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "POPSUGAR",
+					"name": "POPSUGAR",
+					"id": 14833304,
+					"id_str": "14833304",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "bigdimsumdolly",
+					"name": "Selena Tan",
+					"id": 1015821398365765600,
+					"id_str": "1015821398365765632",
+					"indices": [
+						31,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1027695037298225200,
+		"in_reply_to_status_id_str": "1027695037298225152",
+		"in_reply_to_user_id": 14833304,
+		"in_reply_to_user_id_str": "14833304",
+		"in_reply_to_screen_name": "POPSUGAR",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, love Twitter.",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56731,
+			"friends_count": 26010,
+			"listed_count": 1211,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15248,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 09 21:47:00 +0000 2018",
 		"id": 1027672619875627000,
 		"id_str": "1027672619875627008",
