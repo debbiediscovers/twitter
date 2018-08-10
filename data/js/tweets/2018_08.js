@@ -1,6 +1,1731 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Fri Aug 10 09:11:31 +0000 2018",
+		"id": 1027844883120185300,
+		"id_str": "1027844883120185344",
+		"text": "RT @debbiediscovers: @sadek @brand24 @mateuszczech_ @basiaderkowska @CrazyRichMovie @bigdimsumdolly I don’t like it. I LOVE it!! ❤️❤️❤️ @Br…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "sadek",
+					"name": "Michal Sadowski",
+					"id": 24687291,
+					"id_str": "24687291",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"screen_name": "brand24",
+					"name": "Brand24",
+					"id": 168651283,
+					"id_str": "168651283",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"screen_name": "mateuszczech_",
+					"name": "Mateusz Czech. Boty robię 🤖",
+					"id": 928192189,
+					"id_str": "928192189",
+					"indices": [
+						37,
+						51
+					]
+				},
+				{
+					"screen_name": "basiaderkowska",
+					"name": "Barbara Derkowska",
+					"id": 950296877542625300,
+					"id_str": "950296877542625280",
+					"indices": [
+						52,
+						67
+					]
+				},
+				{
+					"screen_name": "CrazyRichMovie",
+					"name": "Crazy Rich Asians",
+					"id": 874401319171178500,
+					"id_str": "874401319171178496",
+					"indices": [
+						68,
+						83
+					]
+				},
+				{
+					"screen_name": "bigdimsumdolly",
+					"name": "Selena Tan",
+					"id": 1015821398365765600,
+					"id_str": "1015821398365765632",
+					"indices": [
+						84,
+						99
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, Twitter is my first love!",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56767,
+			"friends_count": 26243,
+			"listed_count": 1212,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 10 08:50:39 +0000 2018",
+			"id": 1027839632975622100,
+			"id_str": "1027839632975622144",
+			"text": "@sadek @brand24 @mateuszczech_ @basiaderkowska @CrazyRichMovie @bigdimsumdolly I don’t like it. I LOVE it!! ❤️❤️❤️ @Brand24 FTW!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sadek",
+						"name": "Michal Sadowski",
+						"id": 24687291,
+						"id_str": "24687291",
+						"indices": [
+							0,
+							6
+						]
+					},
+					{
+						"screen_name": "brand24",
+						"name": "Brand24",
+						"id": 168651283,
+						"id_str": "168651283",
+						"indices": [
+							7,
+							15
+						]
+					},
+					{
+						"screen_name": "mateuszczech_",
+						"name": "Mateusz Czech. Boty robię 🤖",
+						"id": 928192189,
+						"id_str": "928192189",
+						"indices": [
+							16,
+							30
+						]
+					},
+					{
+						"screen_name": "basiaderkowska",
+						"name": "Barbara Derkowska",
+						"id": 950296877542625300,
+						"id_str": "950296877542625280",
+						"indices": [
+							31,
+							46
+						]
+					},
+					{
+						"screen_name": "CrazyRichMovie",
+						"name": "Crazy Rich Asians",
+						"id": 874401319171178500,
+						"id_str": "874401319171178496",
+						"indices": [
+							47,
+							62
+						]
+					},
+					{
+						"screen_name": "bigdimsumdolly",
+						"name": "Selena Tan",
+						"id": 1015821398365765600,
+						"id_str": "1015821398365765632",
+						"indices": [
+							63,
+							78
+						]
+					},
+					{
+						"screen_name": "brand24",
+						"name": "Brand24",
+						"id": 168651283,
+						"id_str": "168651283",
+						"indices": [
+							115,
+							123
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1027839424816730100,
+			"in_reply_to_status_id_str": "1027839424816730112",
+			"in_reply_to_user_id": 24687291,
+			"in_reply_to_user_id_str": "24687291",
+			"in_reply_to_screen_name": "sadek",
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+				"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, Twitter is my first love!",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 56767,
+				"friends_count": 26243,
+				"listed_count": 1212,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 16719,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15269,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 10 09:08:11 +0000 2018",
+		"id": 1027844044179693600,
+		"id_str": "1027844044179693568",
+		"text": "This trick will 3-4X your engagement on Twitter in 5 minutes https://t.co/rkqHfw3PRo via @debbiediscovers",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						89,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rkqHfw3PRo",
+					"expanded_url": "https://digitaldiscovery.sg/blog/how-to-automatically-retweet-your-own-tweets/",
+					"display_url": "digitaldiscovery.sg/blog/how-to-au…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, Twitter is my first love!",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56767,
+			"friends_count": 26243,
+			"listed_count": 1212,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 10 08:50:39 +0000 2018",
+		"id": 1027839632975622100,
+		"id_str": "1027839632975622144",
+		"text": "@sadek @brand24 @mateuszczech_ @basiaderkowska @CrazyRichMovie @bigdimsumdolly I don’t like it. I LOVE it!! ❤️❤️❤️ @Brand24 FTW!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sadek",
+					"name": "Michal Sadowski",
+					"id": 24687291,
+					"id_str": "24687291",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "brand24",
+					"name": "Brand24",
+					"id": 168651283,
+					"id_str": "168651283",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"screen_name": "mateuszczech_",
+					"name": "Mateusz Czech. Boty robię 🤖",
+					"id": 928192189,
+					"id_str": "928192189",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "basiaderkowska",
+					"name": "Barbara Derkowska",
+					"id": 950296877542625300,
+					"id_str": "950296877542625280",
+					"indices": [
+						31,
+						46
+					]
+				},
+				{
+					"screen_name": "CrazyRichMovie",
+					"name": "Crazy Rich Asians",
+					"id": 874401319171178500,
+					"id_str": "874401319171178496",
+					"indices": [
+						47,
+						62
+					]
+				},
+				{
+					"screen_name": "bigdimsumdolly",
+					"name": "Selena Tan",
+					"id": 1015821398365765600,
+					"id_str": "1015821398365765632",
+					"indices": [
+						63,
+						78
+					]
+				},
+				{
+					"screen_name": "brand24",
+					"name": "Brand24",
+					"id": 168651283,
+					"id_str": "168651283",
+					"indices": [
+						115,
+						123
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1027839424816730100,
+		"in_reply_to_status_id_str": "1027839424816730112",
+		"in_reply_to_user_id": 24687291,
+		"in_reply_to_user_id_str": "24687291",
+		"in_reply_to_screen_name": "sadek",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, Twitter is my first love!",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56767,
+			"friends_count": 26243,
+			"listed_count": 1212,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 10 08:35:55 +0000 2018",
+		"id": 1027835923537387500,
+		"id_str": "1027835923537387521",
+		"text": "@brewer1_jane @Chatbots_Life @PwCUS @AIChatbotNews @ctricot @Ronald_vanLoon @jblefevre60 @andi_staub Ok! Done Retweeted 😊",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brewer1_jane",
+					"name": "Jane Brewer",
+					"id": 1652519822,
+					"id_str": "1652519822",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Chatbots_Life",
+					"name": "Chatbots Life",
+					"id": 2992525033,
+					"id_str": "2992525033",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "PwCUS",
+					"name": "PwC US",
+					"id": 24636272,
+					"id_str": "24636272",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"screen_name": "AIChatbotNews",
+					"name": "AI & Chatbot News",
+					"id": 858100283171233800,
+					"id_str": "858100283171233792",
+					"indices": [
+						36,
+						50
+					]
+				},
+				{
+					"screen_name": "ctricot",
+					"name": "Christophe Tricot",
+					"id": 16663249,
+					"id_str": "16663249",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"screen_name": "Ronald_vanLoon",
+					"name": "Ronald van Loon",
+					"id": 555031989,
+					"id_str": "555031989",
+					"indices": [
+						60,
+						75
+					]
+				},
+				{
+					"screen_name": "jblefevre60",
+					"name": "Jean-Baptiste Lefevre",
+					"id": 4374719908,
+					"id_str": "4374719908",
+					"indices": [
+						76,
+						88
+					]
+				},
+				{
+					"screen_name": "andi_staub",
+					"name": "Andreas Staub",
+					"id": 298704683,
+					"id_str": "298704683",
+					"indices": [
+						89,
+						100
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1027835655831806000,
+		"in_reply_to_status_id_str": "1027835655831805952",
+		"in_reply_to_user_id": 1652519822,
+		"in_reply_to_user_id_str": "1652519822",
+		"in_reply_to_screen_name": "brewer1_jane",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, Twitter is my first love!",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56767,
+			"friends_count": 26243,
+			"listed_count": 1212,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 10 08:35:13 +0000 2018",
+		"id": 1027835748911697900,
+		"id_str": "1027835748911697920",
+		"text": "RT @brewer1_jane: let’s understand the Cost and number of stages involved in chatbot application development. https://t.co/wAFuOp73wk\n#chat…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brewer1_jane",
+					"name": "Jane Brewer",
+					"id": 1652519822,
+					"id_str": "1652519822",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wAFuOp73wk",
+					"expanded_url": "https://goo.gl/8B37Wg",
+					"display_url": "goo.gl/8B37Wg",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, Twitter is my first love!",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56767,
+			"friends_count": 26243,
+			"listed_count": 1212,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 10 06:41:11 +0000 2018",
+			"id": 1027807050741440500,
+			"id_str": "1027807050741440512",
+			"text": "let’s understand the Cost and number of stages involved in chatbot application development. https://t.co/wAFuOp73wk… https://t.co/q0IpN7NnRl",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wAFuOp73wk",
+						"expanded_url": "https://goo.gl/8B37Wg",
+						"display_url": "goo.gl/8B37Wg",
+						"indices": [
+							92,
+							115
+						]
+					},
+					{
+						"url": "https://t.co/q0IpN7NnRl",
+						"expanded_url": "https://twitter.com/i/web/status/1027807050741440512",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1652519822,
+				"id_str": "1652519822",
+				"name": "Jane Brewer",
+				"screen_name": "brewer1_jane",
+				"location": "San Jose, CA, USA",
+				"description": "Digital Marketer in a leading IT company specializing in Web, Mobile and enterprise solution, #IoT, #Blockchain, ML, #AI, AR, VR, #BigData | Music Lover, Foodie",
+				"url": "https://t.co/WSH4icMaz4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WSH4icMaz4",
+								"expanded_url": "https://www.hiddenbrains.com",
+								"display_url": "hiddenbrains.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1851,
+				"friends_count": 4747,
+				"listed_count": 368,
+				"created_at": "Wed Aug 07 09:32:17 +0000 2013",
+				"favourites_count": 2342,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8973,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/834619439085674496/xO4nRQbG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/834619439085674496/xO4nRQbG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1652519822/1491996393",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 10 08:24:45 +0000 2018",
+		"id": 1027833114221932500,
+		"id_str": "1027833114221932544",
+		"text": "RT @debbiediscovers: @mateuszczech_ @basiaderkowska @CrazyRichMovie @bigdimsumdolly @brand24 On my blog as my essential daily habit. I use…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "mateuszczech_",
+					"name": "Mateusz Czech. Boty robię 🤖",
+					"id": 928192189,
+					"id_str": "928192189",
+					"indices": [
+						21,
+						35
+					]
+				},
+				{
+					"screen_name": "basiaderkowska",
+					"name": "Barbara Derkowska",
+					"id": 950296877542625300,
+					"id_str": "950296877542625280",
+					"indices": [
+						36,
+						51
+					]
+				},
+				{
+					"screen_name": "CrazyRichMovie",
+					"name": "Crazy Rich Asians",
+					"id": 874401319171178500,
+					"id_str": "874401319171178496",
+					"indices": [
+						52,
+						67
+					]
+				},
+				{
+					"screen_name": "bigdimsumdolly",
+					"name": "Selena Tan",
+					"id": 1015821398365765600,
+					"id_str": "1015821398365765632",
+					"indices": [
+						68,
+						83
+					]
+				},
+				{
+					"screen_name": "brand24",
+					"name": "Brand24",
+					"id": 168651283,
+					"id_str": "168651283",
+					"indices": [
+						84,
+						92
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, Twitter is my first love!",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56767,
+			"friends_count": 26243,
+			"listed_count": 1212,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 10 08:24:35 +0000 2018",
+			"id": 1027833075126825000,
+			"id_str": "1027833075126824960",
+			"text": "@mateuszczech_ @basiaderkowska @CrazyRichMovie @bigdimsumdolly @brand24 On my blog as my essential daily habit. I u… https://t.co/1pOlad7NB0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mateuszczech_",
+						"name": "Mateusz Czech. Boty robię 🤖",
+						"id": 928192189,
+						"id_str": "928192189",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "basiaderkowska",
+						"name": "Barbara Derkowska",
+						"id": 950296877542625300,
+						"id_str": "950296877542625280",
+						"indices": [
+							15,
+							30
+						]
+					},
+					{
+						"screen_name": "CrazyRichMovie",
+						"name": "Crazy Rich Asians",
+						"id": 874401319171178500,
+						"id_str": "874401319171178496",
+						"indices": [
+							31,
+							46
+						]
+					},
+					{
+						"screen_name": "bigdimsumdolly",
+						"name": "Selena Tan",
+						"id": 1015821398365765600,
+						"id_str": "1015821398365765632",
+						"indices": [
+							47,
+							62
+						]
+					},
+					{
+						"screen_name": "brand24",
+						"name": "Brand24",
+						"id": 168651283,
+						"id_str": "168651283",
+						"indices": [
+							63,
+							71
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1pOlad7NB0",
+						"expanded_url": "https://twitter.com/i/web/status/1027833075126824960",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1027831244971753500,
+			"in_reply_to_status_id_str": "1027831244971753472",
+			"in_reply_to_user_id": 928192189,
+			"in_reply_to_user_id_str": "928192189",
+			"in_reply_to_screen_name": "mateuszczech_",
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+				"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, Twitter is my first love!",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 56767,
+				"friends_count": 26243,
+				"listed_count": 1212,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 16719,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15269,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 10 08:24:35 +0000 2018",
+		"id": 1027833075126825000,
+		"id_str": "1027833075126824960",
+		"text": "@mateuszczech_ @basiaderkowska @CrazyRichMovie @bigdimsumdolly @brand24 On my blog as my essential daily habit. I u… https://t.co/1pOlad7NB0",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mateuszczech_",
+					"name": "Mateusz Czech. Boty robię 🤖",
+					"id": 928192189,
+					"id_str": "928192189",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "basiaderkowska",
+					"name": "Barbara Derkowska",
+					"id": 950296877542625300,
+					"id_str": "950296877542625280",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "CrazyRichMovie",
+					"name": "Crazy Rich Asians",
+					"id": 874401319171178500,
+					"id_str": "874401319171178496",
+					"indices": [
+						31,
+						46
+					]
+				},
+				{
+					"screen_name": "bigdimsumdolly",
+					"name": "Selena Tan",
+					"id": 1015821398365765600,
+					"id_str": "1015821398365765632",
+					"indices": [
+						47,
+						62
+					]
+				},
+				{
+					"screen_name": "brand24",
+					"name": "Brand24",
+					"id": 168651283,
+					"id_str": "168651283",
+					"indices": [
+						63,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1pOlad7NB0",
+					"expanded_url": "https://twitter.com/i/web/status/1027833075126824960",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1027831244971753500,
+		"in_reply_to_status_id_str": "1027831244971753472",
+		"in_reply_to_user_id": 928192189,
+		"in_reply_to_user_id_str": "928192189",
+		"in_reply_to_screen_name": "mateuszczech_",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, Twitter is my first love!",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56767,
+			"friends_count": 26243,
+			"listed_count": 1212,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 10 08:15:47 +0000 2018",
+		"id": 1027830858051346400,
+		"id_str": "1027830858051346433",
+		"text": "RT @debbiediscovers: @basiaderkowska @CrazyRichMovie @bigdimsumdolly @brand24 It's super helpful!!! We're tracking all of Selena's brand me…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "basiaderkowska",
+					"name": "Barbara Derkowska",
+					"id": 950296877542625300,
+					"id_str": "950296877542625280",
+					"indices": [
+						21,
+						36
+					]
+				},
+				{
+					"screen_name": "CrazyRichMovie",
+					"name": "Crazy Rich Asians",
+					"id": 874401319171178500,
+					"id_str": "874401319171178496",
+					"indices": [
+						37,
+						52
+					]
+				},
+				{
+					"screen_name": "bigdimsumdolly",
+					"name": "Selena Tan",
+					"id": 1015821398365765600,
+					"id_str": "1015821398365765632",
+					"indices": [
+						53,
+						68
+					]
+				},
+				{
+					"screen_name": "brand24",
+					"name": "Brand24",
+					"id": 168651283,
+					"id_str": "168651283",
+					"indices": [
+						69,
+						77
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, Twitter is my first love!",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56767,
+			"friends_count": 26243,
+			"listed_count": 1212,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 10 06:51:31 +0000 2018",
+			"id": 1027809654112284700,
+			"id_str": "1027809654112284672",
+			"text": "@basiaderkowska @CrazyRichMovie @bigdimsumdolly @brand24 It's super helpful!!! We're tracking all of Selena's brand… https://t.co/U3RYlw91UB",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "basiaderkowska",
+						"name": "Barbara Derkowska",
+						"id": 950296877542625300,
+						"id_str": "950296877542625280",
+						"indices": [
+							0,
+							15
+						]
+					},
+					{
+						"screen_name": "CrazyRichMovie",
+						"name": "Crazy Rich Asians",
+						"id": 874401319171178500,
+						"id_str": "874401319171178496",
+						"indices": [
+							16,
+							31
+						]
+					},
+					{
+						"screen_name": "bigdimsumdolly",
+						"name": "Selena Tan",
+						"id": 1015821398365765600,
+						"id_str": "1015821398365765632",
+						"indices": [
+							32,
+							47
+						]
+					},
+					{
+						"screen_name": "brand24",
+						"name": "Brand24",
+						"id": 168651283,
+						"id_str": "168651283",
+						"indices": [
+							48,
+							56
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/U3RYlw91UB",
+						"expanded_url": "https://twitter.com/i/web/status/1027809654112284672",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1027483135930511400,
+			"in_reply_to_status_id_str": "1027483135930511361",
+			"in_reply_to_user_id": 950296877542625300,
+			"in_reply_to_user_id_str": "950296877542625280",
+			"in_reply_to_screen_name": "basiaderkowska",
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+				"description": "💄Entrepreneur, 🤖 Chatbot Evangelist, #GlobalEducation advocate, School Builder, Twitter is my first love!",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 56767,
+				"friends_count": 26243,
+				"listed_count": 1212,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 16719,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15269,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 10 08:06:47 +0000 2018",
 		"id": 1027828594901303300,
 		"id_str": "1027828594901303297",
