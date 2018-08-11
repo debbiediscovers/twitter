@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sat Aug 11 19:11:14 +0000 2018",
+		"id": 1028358196862185500,
+		"id_str": "1028358196862185472",
+		"text": "#Bots and automation don’t automagically create a great customer experience #CX https://t.co/NygI09jO3d via… https://t.co/ShUmC4uyF9",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bots",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "CX",
+					"indices": [
+						76,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NygI09jO3d",
+					"expanded_url": "https://chiefmartec.com/2018/08/bots-automation-dont-automagically-create-great-customer-experience/",
+					"display_url": "chiefmartec.com/2018/08/bots-a…",
+					"indices": [
+						80,
+						103
+					]
+				},
+				{
+					"url": "https://t.co/ShUmC4uyF9",
+					"expanded_url": "https://twitter.com/i/web/status/1028358196862185472",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | 21 All Star Twitter | School Builder | Global Education advocate | Allergic to Trump and stupid tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57005,
+			"friends_count": 27115,
+			"listed_count": 1217,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16749,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15299,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 11 19:07:37 +0000 2018",
+		"id": 1028357287017103400,
+		"id_str": "1028357287017103360",
+		"text": "Inside Twitter’s Struggle Over What Gets Banned https://t.co/oQRLlbybVb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oQRLlbybVb",
+					"expanded_url": "https://buff.ly/2MbIE4k",
+					"display_url": "buff.ly/2MbIE4k",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Where 💨 ✳️ 💡 🛌😴 furiously",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | 21 All Star Twitter | School Builder | Global Education advocate | Allergic to Trump and stupid tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57005,
+			"friends_count": 27115,
+			"listed_count": 1217,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16749,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15299,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 11 18:01:51 +0000 2018",
 		"id": 1028340734909239300,
 		"id_str": "1028340734909239296",
