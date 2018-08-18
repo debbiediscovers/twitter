@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sat Aug 18 12:06:50 +0000 2018",
+		"id": 1030788105937272800,
+		"id_str": "1030788105937272832",
+		"text": "RT @debbiediscovers: If you do one thing today, smile 😊 \n\n#ThichNhatHanh #Quote https://t.co/YhQ2TNKw8z",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ThichNhatHanh",
+					"indices": [
+						58,
+						72
+					]
+				},
+				{
+					"text": "Quote",
+					"indices": [
+						73,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1030713311938015200,
+					"id_str": "1030713311938015233",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Dk3US9dU8AEF1Xq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dk3US9dU8AEF1Xq.jpg",
+					"url": "https://t.co/YhQ2TNKw8z",
+					"display_url": "pic.twitter.com/YhQ2TNKw8z",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1030713318212661248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1092,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 660,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1092,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1030713318212661200,
+					"source_status_id_str": "1030713318212661248",
+					"source_user_id": 3060836348,
+					"source_user_id_str": "3060836348"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1030713311938015200,
+					"id_str": "1030713311938015233",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Dk3US9dU8AEF1Xq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dk3US9dU8AEF1Xq.jpg",
+					"url": "https://t.co/YhQ2TNKw8z",
+					"display_url": "pic.twitter.com/YhQ2TNKw8z",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1030713318212661248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1092,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 660,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1092,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1030713318212661200,
+					"source_status_id_str": "1030713318212661248",
+					"source_user_id": 3060836348,
+					"source_user_id_str": "3060836348"
+				}
+			]
+		},
+		"source": "<a href=\"http://debbiediscovers.com\" rel=\"nofollow\">TWITTER LIST ADDER</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education advocate | Allergic to stupid tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57604,
+			"friends_count": 27450,
+			"listed_count": 1222,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15426,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 18 07:09:39 +0000 2018",
+			"id": 1030713318212661200,
+			"id_str": "1030713318212661248",
+			"text": "If you do one thing today, smile 😊 \n\n#ThichNhatHanh #Quote https://t.co/YhQ2TNKw8z",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ThichNhatHanh",
+						"indices": [
+							37,
+							51
+						]
+					},
+					{
+						"text": "Quote",
+						"indices": [
+							52,
+							58
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1030713311938015200,
+						"id_str": "1030713311938015233",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/Dk3US9dU8AEF1Xq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dk3US9dU8AEF1Xq.jpg",
+						"url": "https://t.co/YhQ2TNKw8z",
+						"display_url": "pic.twitter.com/YhQ2TNKw8z",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/1030713318212661248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 1092,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 660,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1092,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1030713311938015200,
+						"id_str": "1030713311938015233",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/Dk3US9dU8AEF1Xq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dk3US9dU8AEF1Xq.jpg",
+						"url": "https://t.co/YhQ2TNKw8z",
+						"display_url": "pic.twitter.com/YhQ2TNKw8z",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/1030713318212661248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 1092,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 660,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1092,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore, London, New York",
+				"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education advocate | Allergic to stupid tweets",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 57604,
+				"friends_count": 27450,
+				"listed_count": 1222,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 16854,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15426,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 18 10:44:19 +0000 2018",
 		"id": 1030767340969898000,
 		"id_str": "1030767340969897984",
