@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sun Aug 19 04:57:09 +0000 2018",
+		"id": 1031042362422648800,
+		"id_str": "1031042362422648832",
+		"text": "@SingaporeAir Your 2FA only kicks in AFTER I login with my 6 digit passcode on your site that is not 100% secure an… https://t.co/88MrTuJhZh",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SingaporeAir",
+					"name": "Singapore Airlines",
+					"id": 253340062,
+					"id_str": "253340062",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/88MrTuJhZh",
+					"expanded_url": "https://twitter.com/i/web/status/1031042362422648832",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1031040781975515100,
+		"in_reply_to_status_id_str": "1031040781975515137",
+		"in_reply_to_user_id": 253340062,
+		"in_reply_to_user_id_str": "253340062",
+		"in_reply_to_screen_name": "SingaporeAir",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education advocate | Allergic to stupid tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57666,
+			"friends_count": 28594,
+			"listed_count": 1227,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16857,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15438,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 19 04:27:19 +0000 2018",
+		"id": 1031034853519552500,
+		"id_str": "1031034853519552512",
+		"text": "@SingaporeAir Your site is not secure!!! You take credit card information for bookings! https://t.co/d8SkCQFqds",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SingaporeAir",
+					"name": "Singapore Airlines",
+					"id": 253340062,
+					"id_str": "253340062",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1031034028491567100,
+					"id_str": "1031034028491567105",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/Dk73_HuUcAE4evR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dk73_HuUcAE4evR.jpg",
+					"url": "https://t.co/d8SkCQFqds",
+					"display_url": "pic.twitter.com/d8SkCQFqds",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1031034853519552512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 624,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1102,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1102,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1031034028491567100,
+					"id_str": "1031034028491567105",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/Dk73_HuUcAE4evR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dk73_HuUcAE4evR.jpg",
+					"url": "https://t.co/d8SkCQFqds",
+					"display_url": "pic.twitter.com/d8SkCQFqds",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1031034853519552512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 624,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1102,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1102,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1031026572055195600,
+		"in_reply_to_status_id_str": "1031026572055195650",
+		"in_reply_to_user_id": 253340062,
+		"in_reply_to_user_id_str": "253340062",
+		"in_reply_to_screen_name": "SingaporeAir",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education advocate | Allergic to stupid tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57666,
+			"friends_count": 28594,
+			"listed_count": 1227,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16857,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15438,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 19 03:26:19 +0000 2018",
 		"id": 1031019502744555500,
 		"id_str": "1031019502744555520",
