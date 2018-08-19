@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sun Aug 19 21:21:15 +0000 2018",
+		"id": 1031290017925062700,
+		"id_str": "1031290017925062656",
+		"text": "RT @peterkay47: “Failure is simply the opportunity to begin again, this time more intelligently.”\n- #Henry_Ford\n\nThe key is #never_give_up…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Henry_Ford",
+					"indices": [
+						100,
+						111
+					]
+				},
+				{
+					"text": "never_give_up",
+					"indices": [
+						124,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peterkay47",
+					"name": "Peter Kay",
+					"id": 609940096,
+					"id_str": "609940096",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education advocate | Allergic to stupid tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57752,
+			"friends_count": 25591,
+			"listed_count": 1224,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15456,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 18 22:34:36 +0000 2018",
+			"id": 1030946089631772700,
+			"id_str": "1030946089631772672",
+			"text": "“Failure is simply the opportunity to begin again, this time more intelligently.”\n- #Henry_Ford\n\nThe key is… https://t.co/ZG7tEurwtl",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Henry_Ford",
+						"indices": [
+							84,
+							95
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZG7tEurwtl",
+						"expanded_url": "https://twitter.com/i/web/status/1030946089631772672",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 609940096,
+				"id_str": "609940096",
+				"name": "Peter Kay",
+				"screen_name": "peterkay47",
+				"location": "Singapore",
+				"description": "Mindfulness allows you not to miss out on your life. By focusing our minds in the present moment, we open ourselves to awareness, adaptation and transformation.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 60,
+				"friends_count": 152,
+				"listed_count": 2,
+				"created_at": "Sat Jun 16 12:05:23 +0000 2012",
+				"favourites_count": 163,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 133,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/993033070386204673/BJDpO0FG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/993033070386204673/BJDpO0FG_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 19 20:45:29 +0000 2018",
 		"id": 1031281018685157400,
 		"id_str": "1031281018685157376",
