@@ -1,6 +1,1322 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sun Aug 19 06:59:23 +0000 2018",
+		"id": 1031073123356078100,
+		"id_str": "1031073123356078081",
+		"text": "RT @chrismessina: tl:dr; \"get some sleep homeboy. oh and read my book.\" https://t.co/VOq30OrIGR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chrismessina",
+					"name": "Chris Messina™",
+					"id": 1186,
+					"id_str": "1186",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VOq30OrIGR",
+					"expanded_url": "https://twitter.com/Benioff/status/1030646272783409152",
+					"display_url": "twitter.com/Benioff/status…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education advocate | Allergic to stupid tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57681,
+			"friends_count": 28617,
+			"listed_count": 1226,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15443,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 18 17:53:04 +0000 2018",
+			"id": 1030875238840582100,
+			"id_str": "1030875238840582144",
+			"text": "tl:dr; \"get some sleep homeboy. oh and read my book.\" https://t.co/VOq30OrIGR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VOq30OrIGR",
+						"expanded_url": "https://twitter.com/Benioff/status/1030646272783409152",
+						"display_url": "twitter.com/Benioff/status…",
+						"indices": [
+							54,
+							77
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1186,
+				"id_str": "1186",
+				"name": "Chris Messina™",
+				"screen_name": "chrismessina",
+				"location": "San Francisco, CA",
+				"description": "Head of Hashtags. Crusher of Dreams.",
+				"url": "https://t.co/AAdgTTzkJk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AAdgTTzkJk",
+								"expanded_url": "http://Instagram.com/chris",
+								"display_url": "Instagram.com/chris",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 98623,
+				"friends_count": 5294,
+				"listed_count": 4771,
+				"created_at": "Sun Jul 16 06:53:48 +0000 2006",
+				"favourites_count": 16566,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 45273,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CF290C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027398612668407810/G6LnS-ok_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027398612668407810/G6LnS-ok_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1186/1533786502",
+				"profile_link_color": "017084",
+				"profile_sidebar_border_color": "868686",
+				"profile_sidebar_fill_color": "F1F1F1",
+				"profile_text_color": "444444",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1030646272783409200,
+			"quoted_status_id_str": "1030646272783409152",
+			"quoted_status": {
+				"created_at": "Sat Aug 18 02:43:14 +0000 2018",
+				"id": 1030646272783409200,
+				"id_str": "1030646272783409152",
+				"text": "Great open letter by ⁦@ariannahuff⁩ to ⁦@elonmusk⁩.  Worth reading. https://t.co/K7Rs0j5w9a",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "ariannahuff",
+							"name": "Arianna Huffington",
+							"id": 21982720,
+							"id_str": "21982720",
+							"indices": [
+								22,
+								34
+							]
+						},
+						{
+							"screen_name": "elonmusk",
+							"name": "Elon Musk",
+							"id": 44196397,
+							"id_str": "44196397",
+							"indices": [
+								40,
+								49
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/K7Rs0j5w9a",
+							"expanded_url": "https://www.thriveglobal.com/stories/40343-open-letter-elon-musk",
+							"display_url": "thriveglobal.com/stories/40343-…",
+							"indices": [
+								68,
+								91
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 22330739,
+					"id_str": "22330739",
+					"name": "Marc Benioff",
+					"screen_name": "Benioff",
+					"location": "Salesforce.com",
+					"description": "ceo@salesforce.com",
+					"url": "https://t.co/vF29RdaIpZ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/vF29RdaIpZ",
+									"expanded_url": "http://www.salesforce.com",
+									"display_url": "salesforce.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 986799,
+					"friends_count": 2338,
+					"listed_count": 6499,
+					"created_at": "Sun Mar 01 04:16:24 +0000 2009",
+					"favourites_count": 6570,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 19059,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/988262236299788288/8RSTZPjZ_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/988262236299788288/8RSTZPjZ_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/22330739/1528397992",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 493,
+				"favorite_count": 1406,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1030646272783409200,
+		"quoted_status_id_str": "1030646272783409152",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 19 06:54:51 +0000 2018",
+		"id": 1031071980638924800,
+		"id_str": "1031071980638924800",
+		"text": "RT @JaneLytv: Someone in London is paying good money to troll Facebook https://t.co/0hT8iTWscZ https://t.co/GDavsWRxIJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JaneLytv",
+					"name": "Jane Lytvynenko 🤦🏽‍♀️🤦🏽‍♀️🤦🏽‍♀️🤦🏽‍♀️",
+					"id": 65284273,
+					"id_str": "65284273",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0hT8iTWscZ",
+					"expanded_url": "https://metro.co.uk/2018/08/16/fake-facebook-adverts-are-making-people-double-take-all-over-london-7849358/",
+					"display_url": "metro.co.uk/2018/08/16/fak…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1030584679299260400,
+					"id_str": "1030584679299260416",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Dk1fTjiXoAAaBgg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dk1fTjiXoAAaBgg.jpg",
+					"url": "https://t.co/GDavsWRxIJ",
+					"display_url": "pic.twitter.com/GDavsWRxIJ",
+					"expanded_url": "https://twitter.com/JaneLytv/status/1030584759775383552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 532,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 532,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 532,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1030584759775383600,
+					"source_status_id_str": "1030584759775383552",
+					"source_user_id": 65284273,
+					"source_user_id_str": "65284273"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1030584679299260400,
+					"id_str": "1030584679299260416",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Dk1fTjiXoAAaBgg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dk1fTjiXoAAaBgg.jpg",
+					"url": "https://t.co/GDavsWRxIJ",
+					"display_url": "pic.twitter.com/GDavsWRxIJ",
+					"expanded_url": "https://twitter.com/JaneLytv/status/1030584759775383552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 532,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 532,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 532,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1030584759775383600,
+					"source_status_id_str": "1030584759775383552",
+					"source_user_id": 65284273,
+					"source_user_id_str": "65284273"
+				},
+				{
+					"id": 1030584698802716700,
+					"id_str": "1030584698802716672",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Dk1fUsMWwAAJ5pu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dk1fUsMWwAAJ5pu.jpg",
+					"url": "https://t.co/GDavsWRxIJ",
+					"display_url": "pic.twitter.com/GDavsWRxIJ",
+					"expanded_url": "https://twitter.com/JaneLytv/status/1030584759775383552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 393,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 393,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 393,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1030584759775383600,
+					"source_status_id_str": "1030584759775383552",
+					"source_user_id": 65284273,
+					"source_user_id_str": "65284273"
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education advocate | Allergic to stupid tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57681,
+			"friends_count": 28617,
+			"listed_count": 1226,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15443,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 17 22:38:48 +0000 2018",
+			"id": 1030584759775383600,
+			"id_str": "1030584759775383552",
+			"text": "Someone in London is paying good money to troll Facebook https://t.co/0hT8iTWscZ https://t.co/GDavsWRxIJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0hT8iTWscZ",
+						"expanded_url": "https://metro.co.uk/2018/08/16/fake-facebook-adverts-are-making-people-double-take-all-over-london-7849358/",
+						"display_url": "metro.co.uk/2018/08/16/fak…",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1030584679299260400,
+						"id_str": "1030584679299260416",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/Dk1fTjiXoAAaBgg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dk1fTjiXoAAaBgg.jpg",
+						"url": "https://t.co/GDavsWRxIJ",
+						"display_url": "pic.twitter.com/GDavsWRxIJ",
+						"expanded_url": "https://twitter.com/JaneLytv/status/1030584759775383552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 540,
+								"h": 532,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 540,
+								"h": 532,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 540,
+								"h": 532,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1030584679299260400,
+						"id_str": "1030584679299260416",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/Dk1fTjiXoAAaBgg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dk1fTjiXoAAaBgg.jpg",
+						"url": "https://t.co/GDavsWRxIJ",
+						"display_url": "pic.twitter.com/GDavsWRxIJ",
+						"expanded_url": "https://twitter.com/JaneLytv/status/1030584759775383552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 540,
+								"h": 532,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 540,
+								"h": 532,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 540,
+								"h": 532,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1030584698802716700,
+						"id_str": "1030584698802716672",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/Dk1fUsMWwAAJ5pu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dk1fUsMWwAAJ5pu.jpg",
+						"url": "https://t.co/GDavsWRxIJ",
+						"display_url": "pic.twitter.com/GDavsWRxIJ",
+						"expanded_url": "https://twitter.com/JaneLytv/status/1030584759775383552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 540,
+								"h": 393,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 540,
+								"h": 393,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 540,
+								"h": 393,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 65284273,
+				"id_str": "65284273",
+				"name": "Jane Lytvynenko 🤦🏽‍♀️🤦🏽‍♀️🤦🏽‍♀️🤦🏽‍♀️",
+				"screen_name": "JaneLytv",
+				"location": "Toronto, Ontario",
+				"description": "\"disgruntled blue check and noted spoil sport\" • send tips, hoaxes, and fake news: jane.lytvynenko@buzzfeed.com • DMs open • ask for Signal number",
+				"url": "https://t.co/CPFSa515wl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CPFSa515wl",
+								"expanded_url": "https://www.buzzfeed.com/janelytvynenko",
+								"display_url": "buzzfeed.com/janelytvynenko",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12438,
+				"friends_count": 3602,
+				"listed_count": 355,
+				"created_at": "Thu Aug 13 05:20:45 +0000 2009",
+				"favourites_count": 24823,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 37349,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "050505",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/981913571335507969/eOTTFdWk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/981913571335507969/eOTTFdWk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65284273/1501775483",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C2C2C2",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1768,
+			"favorite_count": 3904,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1768,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 19 06:52:37 +0000 2018",
+		"id": 1031071418572714000,
+		"id_str": "1031071418572713984",
+		"text": "@notessensei @SingaporeAir What's killing me is that the site is not 100% secure!!! This site takes credit card boo… https://t.co/UXeiwPTQeW",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "notessensei",
+					"name": "Stephan H. Wissel",
+					"id": 14242041,
+					"id_str": "14242041",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "SingaporeAir",
+					"name": "Singapore Airlines",
+					"id": 253340062,
+					"id_str": "253340062",
+					"indices": [
+						13,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UXeiwPTQeW",
+					"expanded_url": "https://twitter.com/i/web/status/1031071418572713984",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1031070150840078300,
+		"in_reply_to_status_id_str": "1031070150840078337",
+		"in_reply_to_user_id": 14242041,
+		"in_reply_to_user_id_str": "14242041",
+		"in_reply_to_screen_name": "notessensei",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education advocate | Allergic to stupid tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57681,
+			"friends_count": 28617,
+			"listed_count": 1226,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15443,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 19 06:41:24 +0000 2018",
+		"id": 1031068598444290000,
+		"id_str": "1031068598444290048",
+		"text": "This is a cool infographic. Really loving the stuff from @VisualCap #SocialMedia https://t.co/F5vkJxkt1h",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SocialMedia",
+					"indices": [
+						68,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VisualCap",
+					"name": "Visual Capitalist",
+					"id": 352515718,
+					"id_str": "352515718",
+					"indices": [
+						57,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/F5vkJxkt1h",
+					"expanded_url": "https://twitter.com/VisualCap/status/1030867982442872832",
+					"display_url": "twitter.com/VisualCap/stat…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education advocate | Allergic to stupid tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57681,
+			"friends_count": 28617,
+			"listed_count": 1226,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15443,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1030867982442872800,
+		"quoted_status_id_str": "1030867982442872832",
+		"quoted_status": {
+			"created_at": "Sat Aug 18 17:24:14 +0000 2018",
+			"id": 1030867982442872800,
+			"id_str": "1030867982442872832",
+			"text": "The Social Media Universe in 2018\n(Full graphic: https://t.co/dtSW9yx0nf) https://t.co/X2atduWl4g",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dtSW9yx0nf",
+						"expanded_url": "http://www.visualcapitalist.com/social-media-universe/",
+						"display_url": "visualcapitalist.com/social-media-u…",
+						"indices": [
+							49,
+							72
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1030867953095336000,
+						"id_str": "1030867953095335938",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/Dk5g8QqU4AIBxD7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dk5g8QqU4AIBxD7.jpg",
+						"url": "https://t.co/X2atduWl4g",
+						"display_url": "pic.twitter.com/X2atduWl4g",
+						"expanded_url": "https://twitter.com/VisualCap/status/1030867982442872832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1467,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 860,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 487,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1030867953095336000,
+						"id_str": "1030867953095335938",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/Dk5g8QqU4AIBxD7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dk5g8QqU4AIBxD7.jpg",
+						"url": "https://t.co/X2atduWl4g",
+						"display_url": "pic.twitter.com/X2atduWl4g",
+						"expanded_url": "https://twitter.com/VisualCap/status/1030867982442872832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1467,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 860,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 487,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 352515718,
+				"id_str": "352515718",
+				"name": "Visual Capitalist",
+				"screen_name": "VisualCap",
+				"location": "Vancouver, BC",
+				"description": "Data-driven visual content focused on global trends, investing, technology, and the economy",
+				"url": "https://t.co/MoayDQc6Pe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MoayDQc6Pe",
+								"expanded_url": "http://visualcapitalist.com",
+								"display_url": "visualcapitalist.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 42769,
+				"friends_count": 3562,
+				"listed_count": 1239,
+				"created_at": "Wed Aug 10 18:45:09 +0000 2011",
+				"favourites_count": 955,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5555,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "242A2A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/892871236216274944/x-2SgFXA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/892871236216274944/x-2SgFXA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/352515718/1533679339",
+				"profile_link_color": "8AB50B",
+				"profile_sidebar_border_color": "DEDEDE",
+				"profile_sidebar_fill_color": "FAFAFA",
+				"profile_text_color": "242A2A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 72,
+			"favorite_count": 107,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 19 05:25:21 +0000 2018",
+		"id": 1031049458413330400,
+		"id_str": "1031049458413330432",
+		"text": "@PatrickKadas heyo!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PatrickKadas",
+					"name": "Patrick Kadas",
+					"id": 616827065,
+					"id_str": "616827065",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1031047383105171500,
+		"in_reply_to_status_id_str": "1031047383105171456",
+		"in_reply_to_user_id": 616827065,
+		"in_reply_to_user_id_str": "616827065",
+		"in_reply_to_screen_name": "PatrickKadas",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education advocate | Allergic to stupid tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57681,
+			"friends_count": 28617,
+			"listed_count": 1226,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15443,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl"
+	},
+	{
 		"created_at": "Sun Aug 19 04:57:09 +0000 2018",
 		"id": 1031042362422648800,
 		"id_str": "1031042362422648832",
