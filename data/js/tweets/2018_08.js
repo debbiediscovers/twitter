@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Mon Aug 20 00:28:30 +0000 2018",
+		"id": 1031337140116893700,
+		"id_str": "1031337140116893696",
+		"text": "This is seriously awesome news - how amazing!!! Hope more universities can go down this route! Congrats to all the… https://t.co/QQ50fYIdcT",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QQ50fYIdcT",
+					"expanded_url": "https://twitter.com/i/web/status/1031337140116893696",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education advocate | Allergic to stupid tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57766,
+			"friends_count": 24932,
+			"listed_count": 1225,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15459,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1030952548776243200,
+		"quoted_status_id_str": "1030952548776243200",
+		"quoted_status": {
+			"created_at": "Sat Aug 18 23:00:16 +0000 2018",
+			"id": 1030952548776243200,
+			"id_str": "1030952548776243200",
+			"text": "NYU raised more than $450 million of its estimated $600 million needed to cover tuition in perpetuity for all medic… https://t.co/ak1N9WymWL",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ak1N9WymWL",
+						"expanded_url": "https://twitter.com/i/web/status/1030952548776243200",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3108351,
+				"id_str": "3108351",
+				"name": "The Wall Street Journal",
+				"screen_name": "WSJ",
+				"location": "New York, NY",
+				"description": "Breaking news and features from the WSJ.",
+				"url": "https://t.co/GhhR6PLfem",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GhhR6PLfem",
+								"expanded_url": "http://wsj.com",
+								"display_url": "wsj.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15852169,
+				"friends_count": 1117,
+				"listed_count": 109930,
+				"created_at": "Sun Apr 01 06:22:13 +0000 2007",
+				"favourites_count": 1268,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 251301,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "EDF2F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3108351/1533138007",
+				"profile_link_color": "1164B8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 213,
+			"favorite_count": 652,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 20 00:18:09 +0000 2018",
+		"id": 1031334536422936600,
+		"id_str": "1031334536422936576",
+		"text": "RT @BloggerSidekick: How To Get Followers on Twitter (with 3 Free Tools and a Bit of Javascript) via @debbiediscovers\n https://t.co/f1LKVlq…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BloggerSidekick",
+					"name": "Blogger Sidekick",
+					"id": 2801546377,
+					"id_str": "2801546377",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						101,
+						117
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education advocate | Allergic to stupid tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57766,
+			"friends_count": 24932,
+			"listed_count": 1225,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15459,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 20 00:00:04 +0000 2018",
+			"id": 1031329986362232800,
+			"id_str": "1031329986362232833",
+			"text": "How To Get Followers on Twitter (with 3 Free Tools and a Bit of Javascript) via @debbiediscovers… https://t.co/0rXvhQGWL8",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							80,
+							96
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/0rXvhQGWL8",
+						"expanded_url": "https://twitter.com/i/web/status/1031329986362232833",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							98,
+							121
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://flypchart.co\" rel=\"nofollow\">FlypChart</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2801546377,
+				"id_str": "2801546377",
+				"name": "Blogger Sidekick",
+				"screen_name": "BloggerSidekick",
+				"location": "Sydney, Australia",
+				"description": "Helping digital marketers rapidly grow traffic and authority with one-of-a-kind content.",
+				"url": "https://t.co/uOmcrMUD7M",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uOmcrMUD7M",
+								"expanded_url": "http://www.bloggersidekick.com/",
+								"display_url": "bloggersidekick.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21510,
+				"friends_count": 17719,
+				"listed_count": 1323,
+				"created_at": "Wed Sep 10 10:13:29 +0000 2014",
+				"favourites_count": 5518,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22347,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/514209796027727872/UQxGWXu5_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/514209796027727872/UQxGWXu5_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2801546377/1463723460",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 19 22:14:02 +0000 2018",
 		"id": 1031303300413567000,
 		"id_str": "1031303300413566977",
