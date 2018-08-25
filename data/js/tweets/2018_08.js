@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sat Aug 25 10:14:12 +0000 2018",
+		"id": 1033296478884773900,
+		"id_str": "1033296478884773889",
+		"text": "RT @jaybaer: For the first time in 3 years, #research shows that search is responsible for more website traffic than #socialmedia. \n\nhttps:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "research",
+					"indices": [
+						44,
+						53
+					]
+				},
+				{
+					"text": "socialmedia",
+					"indices": [
+						117,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaybaer",
+					"name": "Jay Baer",
+					"id": 14115587,
+					"id_str": "14115587",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58350,
+			"friends_count": 26210,
+			"listed_count": 1231,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15540,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 24 14:18:34 +0000 2018",
+			"id": 1032995584217624600,
+			"id_str": "1032995584217624576",
+			"text": "For the first time in 3 years, #research shows that search is responsible for more website traffic than… https://t.co/3WA3VCvX12",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "research",
+						"indices": [
+							31,
+							40
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3WA3VCvX12",
+						"expanded_url": "https://twitter.com/i/web/status/1032995584217624576",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://coschedule.com\" rel=\"nofollow\">CoSchedule</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14115587,
+				"id_str": "14115587",
+				"name": "Jay Baer",
+				"screen_name": "jaybaer",
+				"location": "Bloomington, Indiana",
+				"description": "Hall of Fame Keynote Speaker & Emcee. NY Times best-selling author of 6 books. Founder of digital marketing consultancy @Convince https://t.co/wtCcgBjQGa",
+				"url": "https://t.co/yTkLHRYuV5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yTkLHRYuV5",
+								"expanded_url": "http://www.JayBaer.com",
+								"display_url": "JayBaer.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wtCcgBjQGa",
+								"expanded_url": "http://convinceandconvert.com",
+								"display_url": "convinceandconvert.com",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 267711,
+				"friends_count": 30370,
+				"listed_count": 17081,
+				"created_at": "Mon Mar 10 17:22:27 +0000 2008",
+				"favourites_count": 10390,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 57861,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAF8F7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885952311243276289/tJIiu7fh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885952311243276289/tJIiu7fh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14115587/1500908001",
+				"profile_link_color": "5D5151",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDDDDD",
+				"profile_text_color": "302C2C",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 78,
+			"favorite_count": 122,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 25 09:32:10 +0000 2018",
 		"id": 1033285898534826000,
 		"id_str": "1033285898534825985",
