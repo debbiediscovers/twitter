@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sat Aug 25 04:06:44 +0000 2018",
+		"id": 1033204002236784600,
+		"id_str": "1033204002236784640",
+		"text": "@metric_dos @STcom @Samsung @SamsungMobile Yes its not it’s. Here’s one more. This time courtesy of @foodpandasg https://t.co/7gBDC69CwA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "metric_dos",
+					"name": "Meyrick D'Souza",
+					"id": 16402069,
+					"id_str": "16402069",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "STcom",
+					"name": "The Straits Times",
+					"id": 37874853,
+					"id_str": "37874853",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"screen_name": "Samsung",
+					"name": "Samsung Electronics",
+					"id": 2381578122,
+					"id_str": "2381578122",
+					"indices": [
+						19,
+						27
+					]
+				},
+				{
+					"screen_name": "SamsungMobile",
+					"name": "Samsung Mobile",
+					"id": 297169759,
+					"id_str": "297169759",
+					"indices": [
+						28,
+						42
+					]
+				},
+				{
+					"screen_name": "foodpandasg",
+					"name": "foodpanda Singapore",
+					"id": 1021163900,
+					"id_str": "1021163900",
+					"indices": [
+						100,
+						112
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1033203995328704500,
+					"id_str": "1033203995328704512",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Dlatj0IU8AATHWA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dlatj0IU8AATHWA.jpg",
+					"url": "https://t.co/7gBDC69CwA",
+					"display_url": "pic.twitter.com/7gBDC69CwA",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1033204002236784640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1033203995328704500,
+					"id_str": "1033203995328704512",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Dlatj0IU8AATHWA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dlatj0IU8AATHWA.jpg",
+					"url": "https://t.co/7gBDC69CwA",
+					"display_url": "pic.twitter.com/7gBDC69CwA",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1033204002236784640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1033054214581149700,
+		"in_reply_to_status_id_str": "1033054214581149696",
+		"in_reply_to_user_id": 16402069,
+		"in_reply_to_user_id_str": "16402069",
+		"in_reply_to_screen_name": "metric_dos",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58337,
+			"friends_count": 26129,
+			"listed_count": 1227,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 16925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15537,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 25 03:06:52 +0000 2018",
 		"id": 1033188933692280800,
 		"id_str": "1033188933692280832",
