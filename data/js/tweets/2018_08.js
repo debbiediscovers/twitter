@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Wed Aug 29 23:02:07 +0000 2018",
+		"id": 1034939281301819400,
+		"id_str": "1034939281301819399",
+		"text": "#INFOGRAPHIC! And great post by @Brian_G_Peters on the 6 Rules for Great Storytelling!  https://t.co/CE36QD83b0 https://t.co/9WRDcNE9Uq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "INFOGRAPHIC",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Brian_G_Peters",
+					"name": "Brian Peters 📲",
+					"id": 218393841,
+					"id_str": "218393841",
+					"indices": [
+						32,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CE36QD83b0",
+					"expanded_url": "https://buff.ly/2wEGXlp",
+					"display_url": "buff.ly/2wEGXlp",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1034939279502397400,
+					"id_str": "1034939279502397440",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DlzXypbW0AASxe4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlzXypbW0AASxe4.jpg",
+					"url": "https://t.co/9WRDcNE9Uq",
+					"display_url": "pic.twitter.com/9WRDcNE9Uq",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1034939281301819399/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 293,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 166,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1034939279502397400,
+					"id_str": "1034939279502397440",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DlzXypbW0AASxe4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlzXypbW0AASxe4.jpg",
+					"url": "https://t.co/9WRDcNE9Uq",
+					"display_url": "pic.twitter.com/9WRDcNE9Uq",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1034939281301819399/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 293,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 166,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59740,
+			"friends_count": 30515,
+			"listed_count": 1245,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 29 22:55:21 +0000 2018",
+		"id": 1034937578062049300,
+		"id_str": "1034937578062049283",
+		"text": "#Good #Read! Pinterest and Grubhub’s Former Growth Lead on Building Content Loops https://t.co/kzjMuXmF2G via @firstround",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Good",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Read",
+					"indices": [
+						6,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "firstround",
+					"name": "First Round",
+					"id": 15307727,
+					"id_str": "15307727",
+					"indices": [
+						110,
+						121
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kzjMuXmF2G",
+					"expanded_url": "https://buff.ly/2LFt4J0",
+					"display_url": "buff.ly/2LFt4J0",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59740,
+			"friends_count": 30515,
+			"listed_count": 1245,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 29 20:48:08 +0000 2018",
 		"id": 1034905561370959900,
 		"id_str": "1034905561370959872",
