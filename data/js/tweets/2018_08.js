@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Wed Aug 29 20:48:08 +0000 2018",
+		"id": 1034905561370959900,
+		"id_str": "1034905561370959872",
+		"text": "Thread!! 👇😹 https://t.co/I6AdvqN2WC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I6AdvqN2WC",
+					"expanded_url": "https://twitter.com/natalieweiner/status/1034533245839450113",
+					"display_url": "twitter.com/natalieweiner/…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59686,
+			"friends_count": 31487,
+			"listed_count": 1247,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15613,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1034533245839450100,
+		"quoted_status_id_str": "1034533245839450113",
+		"quoted_status": {
+			"created_at": "Tue Aug 28 20:08:41 +0000 2018",
+			"id": 1034533245839450100,
+			"id_str": "1034533245839450113",
+			"text": "this is without a doubt the best thing that's ever happened to me https://t.co/rnVkmhB2dy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1034533187354026000,
+						"id_str": "1034533187354025989",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/Dltmc-SW4AUjP3Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dltmc-SW4AUjP3Z.jpg",
+						"url": "https://t.co/rnVkmhB2dy",
+						"display_url": "pic.twitter.com/rnVkmhB2dy",
+						"expanded_url": "https://twitter.com/natalieweiner/status/1034533245839450113/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 387,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1310,
+								"h": 746,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 683,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1034533187354026000,
+						"id_str": "1034533187354025989",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/Dltmc-SW4AUjP3Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dltmc-SW4AUjP3Z.jpg",
+						"url": "https://t.co/rnVkmhB2dy",
+						"display_url": "pic.twitter.com/rnVkmhB2dy",
+						"expanded_url": "https://twitter.com/natalieweiner/status/1034533245839450113/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 387,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1310,
+								"h": 746,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 683,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23092359,
+				"id_str": "23092359",
+				"name": "A Woman Named \"Natalie Weiner\"",
+				"screen_name": "natalieweiner",
+				"location": "New York",
+				"description": "days: sports for @sbnation / nights: Seahawks games & jazz / previously: @billboard, @bleacherreport / natalie.weiner@sbnation.com",
+				"url": "https://t.co/8FYMbtkfX4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8FYMbtkfX4",
+								"expanded_url": "http://natalieweiner.com",
+								"display_url": "natalieweiner.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19607,
+				"friends_count": 2408,
+				"listed_count": 349,
+				"created_at": "Fri Mar 06 17:34:47 +0000 2009",
+				"favourites_count": 96188,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 65886,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1025498685642354688/HO8ZN02b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025498685642354688/HO8ZN02b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23092359/1492689452",
+				"profile_link_color": "00A4B3",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10733,
+			"favorite_count": 56453,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 29 20:07:16 +0000 2018",
 		"id": 1034895278988513300,
 		"id_str": "1034895278988513280",
