@@ -1,6 +1,1138 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Thu Sep 06 04:43:19 +0000 2018",
+		"id": 1037561863712661500,
+		"id_str": "1037561863712661504",
+		"text": "RT @RyanFSloane: Treason? https://t.co/8lWLtGgaBV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RyanFSloane",
+					"name": "Ryan Sloane",
+					"id": 22076537,
+					"id_str": "22076537",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1037470991126024200,
+					"id_str": "1037470991126024193",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DmXWXqLW0AEkLmd.png",
+					"media_url_https": "https://pbs.twimg.com/media/DmXWXqLW0AEkLmd.png",
+					"url": "https://t.co/8lWLtGgaBV",
+					"display_url": "pic.twitter.com/8lWLtGgaBV",
+					"expanded_url": "https://twitter.com/RyanFSloane/status/1037471010826661888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 300,
+							"h": 199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 199,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 199,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1037471010826661900,
+					"source_status_id_str": "1037471010826661888",
+					"source_user_id": 22076537,
+					"source_user_id_str": "22076537"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1037470991126024200,
+					"id_str": "1037470991126024193",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DmXWXqLW0AEkLmd.png",
+					"media_url_https": "https://pbs.twimg.com/media/DmXWXqLW0AEkLmd.png",
+					"url": "https://t.co/8lWLtGgaBV",
+					"display_url": "pic.twitter.com/8lWLtGgaBV",
+					"expanded_url": "https://twitter.com/RyanFSloane/status/1037471010826661888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 300,
+							"h": 199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 199,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 199,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1037471010826661900,
+					"source_status_id_str": "1037471010826661888",
+					"source_user_id": 22076537,
+					"source_user_id_str": "22076537"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61073,
+			"friends_count": 34179,
+			"listed_count": 1259,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15716,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 05 22:42:18 +0000 2018",
+			"id": 1037471010826661900,
+			"id_str": "1037471010826661888",
+			"text": "Treason? https://t.co/8lWLtGgaBV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1037470991126024200,
+						"id_str": "1037470991126024193",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/DmXWXqLW0AEkLmd.png",
+						"media_url_https": "https://pbs.twimg.com/media/DmXWXqLW0AEkLmd.png",
+						"url": "https://t.co/8lWLtGgaBV",
+						"display_url": "pic.twitter.com/8lWLtGgaBV",
+						"expanded_url": "https://twitter.com/RyanFSloane/status/1037471010826661888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 300,
+								"h": 199,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 300,
+								"h": 199,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 300,
+								"h": 199,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1037470991126024200,
+						"id_str": "1037470991126024193",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/DmXWXqLW0AEkLmd.png",
+						"media_url_https": "https://pbs.twimg.com/media/DmXWXqLW0AEkLmd.png",
+						"url": "https://t.co/8lWLtGgaBV",
+						"display_url": "pic.twitter.com/8lWLtGgaBV",
+						"expanded_url": "https://twitter.com/RyanFSloane/status/1037471010826661888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 300,
+								"h": 199,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 300,
+								"h": 199,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 300,
+								"h": 199,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22076537,
+				"id_str": "22076537",
+				"name": "Ryan Sloane",
+				"screen_name": "RyanFSloane",
+				"location": "At my wits' end",
+				"description": "Weather Channel assignment editor. I c̶o̶n̶t̶r̶o̶l̶ report on the weather. I produce news & carbon dioxide, often at the same time. Ryan.Sloane@weathergroup.com",
+				"url": "https://t.co/3epXYxvQvR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3epXYxvQvR",
+								"expanded_url": "http://weloveweather.tv",
+								"display_url": "weloveweather.tv",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5544,
+				"friends_count": 6564,
+				"listed_count": 263,
+				"created_at": "Thu Feb 26 23:05:05 +0000 2009",
+				"favourites_count": 10,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2227,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963231199773843456/-w40VLe1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963231199773843456/-w40VLe1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22076537/1484684983",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 10,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 06 04:42:48 +0000 2018",
+		"id": 1037561731369730000,
+		"id_str": "1037561731369730048",
+		"text": "RT @longwall26: TREASON? https://t.co/FjOI3OW5Wp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "longwall26",
+					"name": "Jason",
+					"id": 45869342,
+					"id_str": "45869342",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1037470412274376700,
+					"id_str": "1037470412274376705",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/DmXV19yXoAEZ15B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DmXV19yXoAEZ15B.jpg",
+					"url": "https://t.co/FjOI3OW5Wp",
+					"display_url": "pic.twitter.com/FjOI3OW5Wp",
+					"expanded_url": "https://twitter.com/longwall26/status/1037470416728678402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1037470416728678400,
+					"source_status_id_str": "1037470416728678402",
+					"source_user_id": 45869342,
+					"source_user_id_str": "45869342"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1037470412274376700,
+					"id_str": "1037470412274376705",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/DmXV19yXoAEZ15B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DmXV19yXoAEZ15B.jpg",
+					"url": "https://t.co/FjOI3OW5Wp",
+					"display_url": "pic.twitter.com/FjOI3OW5Wp",
+					"expanded_url": "https://twitter.com/longwall26/status/1037470416728678402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1037470416728678400,
+					"source_status_id_str": "1037470416728678402",
+					"source_user_id": 45869342,
+					"source_user_id_str": "45869342"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61073,
+			"friends_count": 34179,
+			"listed_count": 1259,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15716,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 05 22:39:57 +0000 2018",
+			"id": 1037470416728678400,
+			"id_str": "1037470416728678402",
+			"text": "TREASON? https://t.co/FjOI3OW5Wp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1037470412274376700,
+						"id_str": "1037470412274376705",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/DmXV19yXoAEZ15B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmXV19yXoAEZ15B.jpg",
+						"url": "https://t.co/FjOI3OW5Wp",
+						"display_url": "pic.twitter.com/FjOI3OW5Wp",
+						"expanded_url": "https://twitter.com/longwall26/status/1037470416728678402/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1037470412274376700,
+						"id_str": "1037470412274376705",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/DmXV19yXoAEZ15B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmXV19yXoAEZ15B.jpg",
+						"url": "https://t.co/FjOI3OW5Wp",
+						"display_url": "pic.twitter.com/FjOI3OW5Wp",
+						"expanded_url": "https://twitter.com/longwall26/status/1037470416728678402/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 45869342,
+				"id_str": "45869342",
+				"name": "Jason",
+				"screen_name": "longwall26",
+				"location": "Nashville, TN",
+				"description": "crime novelist (https://t.co/HvbheWqkIg), @rifftrax contributor, motorcycle person, more machine now than man",
+				"url": "https://t.co/MM4jCHi3OF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MM4jCHi3OF",
+								"expanded_url": "http://www.jasonmillerbooks.com",
+								"display_url": "jasonmillerbooks.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HvbheWqkIg",
+								"expanded_url": "https://m.harpercollins.com/cr-112352/jason-miller",
+								"display_url": "m.harpercollins.com/cr-112352/jaso…",
+								"indices": [
+									16,
+									39
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 41464,
+				"friends_count": 1411,
+				"listed_count": 982,
+				"created_at": "Tue Jun 09 16:03:53 +0000 2009",
+				"favourites_count": 281863,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 36411,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/903412530965512192/sJJ6aMZq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/903412530965512192/sJJ6aMZq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/45869342/1531947834",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 90,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 06 04:42:25 +0000 2018",
+		"id": 1037561637002080300,
+		"id_str": "1037561637002080257",
+		"text": "RT @maggieserota: *sees Instagram pics from a party i wasn't invited to* https://t.co/8dWN1l7cmw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maggieserota",
+					"name": "Maggie Serota",
+					"id": 88826456,
+					"id_str": "88826456",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8dWN1l7cmw",
+					"expanded_url": "https://twitter.com/realDonaldTrump/status/1037464177269514240",
+					"display_url": "twitter.com/realDonaldTrum…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61073,
+			"friends_count": 34179,
+			"listed_count": 1259,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15716,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 05 22:18:12 +0000 2018",
+			"id": 1037464945477279700,
+			"id_str": "1037464945477279744",
+			"text": "*sees Instagram pics from a party i wasn't invited to* https://t.co/8dWN1l7cmw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8dWN1l7cmw",
+						"expanded_url": "https://twitter.com/realDonaldTrump/status/1037464177269514240",
+						"display_url": "twitter.com/realDonaldTrum…",
+						"indices": [
+							55,
+							78
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 88826456,
+				"id_str": "88826456",
+				"name": "Maggie Serota",
+				"screen_name": "maggieserota",
+				"location": "Ridgewood, Queens",
+				"description": "Staff Writer @Spin Bylines: Paper, Glamour, Esquire, Observer, Rolling Stone, Village Voice, Pitchfork, etc. margaret.serota@spin.com",
+				"url": "https://t.co/0HsYPBe4ks",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0HsYPBe4ks",
+								"expanded_url": "https://maggieserota.contently.com/",
+								"display_url": "maggieserota.contently.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23136,
+				"friends_count": 3185,
+				"listed_count": 509,
+				"created_at": "Tue Nov 10 02:10:53 +0000 2009",
+				"favourites_count": 207493,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 80875,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/994361652811325440/ji_xdh0G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/994361652811325440/ji_xdh0G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/88826456/1428645062",
+				"profile_link_color": "000D99",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1037464177269514200,
+			"quoted_status_id_str": "1037464177269514240",
+			"quoted_status": {
+				"created_at": "Wed Sep 05 22:15:09 +0000 2018",
+				"id": 1037464177269514200,
+				"id_str": "1037464177269514240",
+				"text": "TREASON?",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 25073877,
+					"id_str": "25073877",
+					"name": "Donald J. Trump",
+					"screen_name": "realDonaldTrump",
+					"location": "Washington, DC",
+					"description": "45th President of the United States of America🇺🇸",
+					"url": "https://t.co/OMxB0x7xC5",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/OMxB0x7xC5",
+									"expanded_url": "http://www.Instagram.com/realDonaldTrump",
+									"display_url": "Instagram.com/realDonaldTrump",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 54229071,
+					"friends_count": 47,
+					"listed_count": 93201,
+					"created_at": "Wed Mar 18 13:46:38 +0000 2009",
+					"favourites_count": 25,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 38818,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "6D5C18",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1535689655",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "BDDCAD",
+					"profile_sidebar_fill_color": "C5CEC0",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 24153,
+				"favorite_count": 79139,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 19,
+			"favorite_count": 211,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1037464177269514200,
+		"quoted_status_id_str": "1037464177269514240",
+		"retweet_count": 19,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 06 04:35:25 +0000 2018",
+		"id": 1037559872387076100,
+		"id_str": "1037559872387076097",
+		"text": "I Am Part of the Resistance Inside the Trump Administration https://t.co/1vs9JCG5Eb 😱😱😱",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1vs9JCG5Eb",
+					"expanded_url": "https://nyti.ms/2CyF3Jh",
+					"display_url": "nyti.ms/2CyF3Jh",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61073,
+			"friends_count": 34179,
+			"listed_count": 1259,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15716,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 06 03:06:58 +0000 2018",
 		"id": 1037537615975788500,
 		"id_str": "1037537615975788544",
