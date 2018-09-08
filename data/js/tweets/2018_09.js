@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Sat Sep 08 13:06:49 +0000 2018",
+		"id": 1038413349552312300,
+		"id_str": "1038413349552312321",
+		"text": "RT @debbiediscovers: Treason! @realDonaldTrump https://t.co/tCZcyFY1gz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						30,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1038306173802315800,
+					"id_str": "1038306173802315776",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DmjN9sGVAAAIjTu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DmjN9sGVAAAIjTu.jpg",
+					"url": "https://t.co/tCZcyFY1gz",
+					"display_url": "pic.twitter.com/tCZcyFY1gz",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1038306180890734594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2030,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1189,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1038306180890734600,
+					"source_status_id_str": "1038306180890734594",
+					"source_user_id": 3060836348,
+					"source_user_id_str": "3060836348"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1038306173802315800,
+					"id_str": "1038306173802315776",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DmjN9sGVAAAIjTu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DmjN9sGVAAAIjTu.jpg",
+					"url": "https://t.co/tCZcyFY1gz",
+					"display_url": "pic.twitter.com/tCZcyFY1gz",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1038306180890734594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2030,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1189,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1038306180890734600,
+					"source_status_id_str": "1038306180890734594",
+					"source_user_id": 3060836348,
+					"source_user_id_str": "3060836348"
+				}
+			]
+		},
+		"source": "<a href=\"http://debbiediscovers.com\" rel=\"nofollow\">TWITTER LIST ADDER</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61540,
+			"friends_count": 34283,
+			"listed_count": 1257,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15734,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 08 06:00:58 +0000 2018",
+			"id": 1038306180890734600,
+			"id_str": "1038306180890734594",
+			"text": "Treason! @realDonaldTrump https://t.co/tCZcyFY1gz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							9,
+							25
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1038306173802315800,
+						"id_str": "1038306173802315776",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DmjN9sGVAAAIjTu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmjN9sGVAAAIjTu.jpg",
+						"url": "https://t.co/tCZcyFY1gz",
+						"display_url": "pic.twitter.com/tCZcyFY1gz",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/1038306180890734594/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 2030,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 674,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1189,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1038306173802315800,
+						"id_str": "1038306173802315776",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DmjN9sGVAAAIjTu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmjN9sGVAAAIjTu.jpg",
+						"url": "https://t.co/tCZcyFY1gz",
+						"display_url": "pic.twitter.com/tCZcyFY1gz",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/1038306180890734594/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 2030,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 674,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1189,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore, London, New York",
+				"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 61540,
+				"friends_count": 34283,
+				"listed_count": 1257,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 17182,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15734,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 08 11:38:52 +0000 2018",
 		"id": 1038391215475966000,
 		"id_str": "1038391215475965952",
