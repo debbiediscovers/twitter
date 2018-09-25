@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Tue Sep 25 16:50:56 +0000 2018",
+		"id": 1044630341414268900,
+		"id_str": "1044630341414268929",
+		"text": "Two of my favourite tools used in a clever way! https://t.co/az6XNijvMm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/az6XNijvMm",
+					"expanded_url": "https://twitter.com/richardbaxter/status/1044188711729221632",
+					"display_url": "twitter.com/richardbaxter/…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62803,
+			"friends_count": 30086,
+			"listed_count": 1274,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15925,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1044188711729221600,
+		"quoted_status_id_str": "1044188711729221632",
+		"quoted_status": {
+			"created_at": "Mon Sep 24 11:36:03 +0000 2018",
+			"id": 1044188711729221600,
+			"id_str": "1044188711729221632",
+			"text": "Competitive, intelligence driven keyword research for online retail sites using @semrush &amp; @screamingfrog\n\nhttps://t.co/r8Yc14X7hG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "semrush",
+						"name": "SEMrush",
+						"id": 21896072,
+						"id_str": "21896072",
+						"indices": [
+							80,
+							88
+						]
+					},
+					{
+						"screen_name": "screamingfrog",
+						"name": "Screaming Frog",
+						"id": 16516264,
+						"id_str": "16516264",
+						"indices": [
+							95,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/r8Yc14X7hG",
+						"expanded_url": "https://builtvisible.com/competitive-intelligence-driven-keyword-research-for-online-retail/",
+						"display_url": "builtvisible.com/competitive-in…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14385326,
+				"id_str": "14385326",
+				"name": "Richard Baxter 🇪🇺",
+				"screen_name": "richardbaxter",
+				"location": "London",
+				"description": "Dad, Digital Marketer, Multiple Founder with deep expertise in Organic Digital Marketing.",
+				"url": "https://t.co/sT8PWWyvbF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sT8PWWyvbF",
+								"expanded_url": "https://builtvisible.com/author/richardbaxterseo/",
+								"display_url": "builtvisible.com/author/richard…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27069,
+				"friends_count": 253,
+				"listed_count": 1597,
+				"created_at": "Mon Apr 14 14:04:27 +0000 2008",
+				"favourites_count": 9104,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25086,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/923536715238830081/4N6PdJu9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/923536715238830081/4N6PdJu9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14385326/1525504041",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 25 16:00:39 +0000 2018",
 		"id": 1044617689774391300,
 		"id_str": "1044617689774391297",
