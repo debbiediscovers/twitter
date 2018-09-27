@@ -1,10 +1,529 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Thu Sep 27 21:01:09 +0000 2018",
+		"id": 1045418086906703900,
+		"id_str": "1045418086906703878",
+		"text": "https://t.co/lWyx7nYGyJ: Free database diagrams designer for analysts &amp; developers 🛠 https://t.co/qxg0Nsgts4 via… https://t.co/ukED9d1SmJ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lWyx7nYGyJ",
+					"expanded_url": "http://dbdiagram.io",
+					"display_url": "dbdiagram.io",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/qxg0Nsgts4",
+					"expanded_url": "https://www.producthunt.com/posts/dbdiagram-io",
+					"display_url": "producthunt.com/posts/dbdiagra…",
+					"indices": [
+						89,
+						112
+					]
+				},
+				{
+					"url": "https://t.co/ukED9d1SmJ",
+					"expanded_url": "https://twitter.com/i/web/status/1045418086906703878",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.producthunt.com\" rel=\"nofollow\">Product Hunt</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62777,
+			"friends_count": 26271,
+			"listed_count": 1271,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15950,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 27 20:44:56 +0000 2018",
+		"id": 1045414004548489200,
+		"id_str": "1045414004548489216",
+		"text": "@franzen_simon @Dialogflow @PencilsOfPromis Thank you Simon for sharing!!!!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "franzen_simon",
+					"name": "Simon Franzen 🇪🇺",
+					"id": 955374073,
+					"id_str": "955374073",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Dialogflow",
+					"name": "Dialogflow",
+					"id": 2774598458,
+					"id_str": "2774598458",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "PencilsOfPromis",
+					"name": "Pencils of Promise",
+					"id": 18369852,
+					"id_str": "18369852",
+					"indices": [
+						27,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1045336656914583600,
+		"in_reply_to_status_id_str": "1045336656914583552",
+		"in_reply_to_user_id": 955374073,
+		"in_reply_to_user_id_str": "955374073",
+		"in_reply_to_screen_name": "franzen_simon",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62777,
+			"friends_count": 26271,
+			"listed_count": 1271,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15950,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 27 20:44:41 +0000 2018",
+		"id": 1045413941331914800,
+		"id_str": "1045413941331914752",
+		"text": "RT @franzen_simon: Fast Emoji Support for @Dialogflow. Nice idea @debbiediscovers 👍  Get it now for a #donation and help @PencilsOfPromis b…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "donation",
+					"indices": [
+						102,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "franzen_simon",
+					"name": "Simon Franzen 🇪🇺",
+					"id": 955374073,
+					"id_str": "955374073",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "Dialogflow",
+					"name": "Dialogflow",
+					"id": 2774598458,
+					"id_str": "2774598458",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						65,
+						81
+					]
+				},
+				{
+					"screen_name": "PencilsOfPromis",
+					"name": "Pencils of Promise",
+					"id": 18369852,
+					"id_str": "18369852",
+					"indices": [
+						121,
+						137
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62777,
+			"friends_count": 26271,
+			"listed_count": 1271,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15950,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 27 15:37:35 +0000 2018",
+			"id": 1045336656914583600,
+			"id_str": "1045336656914583552",
+			"text": "Fast Emoji Support for @Dialogflow. Nice idea @debbiediscovers 👍  Get it now for a #donation and help… https://t.co/WYnp0CVhri",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "donation",
+						"indices": [
+							83,
+							92
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Dialogflow",
+						"name": "Dialogflow",
+						"id": 2774598458,
+						"id_str": "2774598458",
+						"indices": [
+							23,
+							34
+						]
+					},
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							46,
+							62
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WYnp0CVhri",
+						"expanded_url": "https://twitter.com/i/web/status/1045336656914583552",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 955374073,
+				"id_str": "955374073",
+				"name": "Simon Franzen 🇪🇺",
+				"screen_name": "franzen_simon",
+				"location": "Germany",
+				"description": "co-founder / full-stack developer @zauberware | currently crafting https://t.co/hNA1l9q4Ua | supporter of the @ReflectaNetwork 🦉",
+				"url": "https://t.co/Pz0vD4AeYI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Pz0vD4AeYI",
+								"expanded_url": "http://www.zauberware.com",
+								"display_url": "zauberware.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/hNA1l9q4Ua",
+								"expanded_url": "https://lenzio.de",
+								"display_url": "lenzio.de",
+								"indices": [
+									67,
+									90
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 678,
+				"friends_count": 1155,
+				"listed_count": 63,
+				"created_at": "Sun Nov 18 12:05:56 +0000 2012",
+				"favourites_count": 551,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 650,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/943829087818321921/yQ_vV_mJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/943829087818321921/yQ_vV_mJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/955374073/1492975345",
+				"profile_link_color": "A06050",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 27 20:00:49 +0000 2018",
 		"id": 1045402902821580800,
 		"id_str": "1045402902821580801",
-		"text": "RT @debbiediscovers: Never stop #learning 👩‍🎓👨‍🎓\nVia @ThisIsSethsBlog https://t.co/EDmmTyPn6x",
+		"text": "RT @debbiediscovers: Never stop #learning 👩🎓👨🎓\nVia @ThisIsSethsBlog https://t.co/EDmmTyPn6x",
 		"truncated": false,
 		"entities": {
 			"hashtags": [
@@ -202,7 +721,7 @@ Grailbird.data.tweets_2018_09 =
 			"created_at": "Wed Sep 26 19:50:27 +0000 2018",
 			"id": 1045037908564955100,
 			"id_str": "1045037908564955136",
-			"text": "Never stop #learning 👩‍🎓👨‍🎓\nVia @ThisIsSethsBlog https://t.co/EDmmTyPn6x",
+			"text": "Never stop #learning 👩🎓👨🎓\nVia @ThisIsSethsBlog https://t.co/EDmmTyPn6x",
 			"truncated": false,
 			"entities": {
 				"hashtags": [
