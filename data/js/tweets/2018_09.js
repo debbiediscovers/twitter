@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Thu Sep 27 17:51:06 +0000 2018",
+		"id": 1045370261057548300,
+		"id_str": "1045370261057548288",
+		"text": "Who's gonna stop me? 👊\n\n#NoOne! #MadebyMe #debbiediscovers #quotes https://t.co/LmnZ3MsYex",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NoOne",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "MadebyMe",
+					"indices": [
+						32,
+						41
+					]
+				},
+				{
+					"text": "debbiediscovers",
+					"indices": [
+						42,
+						58
+					]
+				},
+				{
+					"text": "quotes",
+					"indices": [
+						59,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1045370255042695200,
+					"id_str": "1045370255042695168",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DoHmtVaUUAA4uMD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DoHmtVaUUAA4uMD.jpg",
+					"url": "https://t.co/LmnZ3MsYex",
+					"display_url": "pic.twitter.com/LmnZ3MsYex",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1045370261057548288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 530,
+							"h": 530,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 530,
+							"h": 530,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 530,
+							"h": 530,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1045370255042695200,
+					"id_str": "1045370255042695168",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DoHmtVaUUAA4uMD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DoHmtVaUUAA4uMD.jpg",
+					"url": "https://t.co/LmnZ3MsYex",
+					"display_url": "pic.twitter.com/LmnZ3MsYex",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1045370261057548288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 530,
+							"h": 530,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 530,
+							"h": 530,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 530,
+							"h": 530,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62781,
+			"friends_count": 26310,
+			"listed_count": 1271,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15945,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 27 07:07:38 +0000 2018",
 		"id": 1045208325208641500,
 		"id_str": "1045208325208641537",
