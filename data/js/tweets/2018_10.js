@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 03 18:52:27 +0000 2018",
+		"id": 1047560026775347200,
+		"id_str": "1047560026775347200",
+		"text": "Hopper raises $100M more for its AI-based travel app, now valued at $780M – TechCrunch https://t.co/SIhzw1DzB7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SIhzw1DzB7",
+					"expanded_url": "https://buff.ly/2ybKHLH",
+					"display_url": "buff.ly/2ybKHLH",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63491,
+			"friends_count": 30209,
+			"listed_count": 1281,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 03 18:13:39 +0000 2018",
+		"id": 1047550259419697200,
+		"id_str": "1047550259419697152",
+		"text": "RT @mrbromwich: A vicious, vile and soulless attack on Dr. Christine Blasey Ford.  Is it any wonder that she was terrified to come forward,…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrbromwich",
+					"name": "Michael R. Bromwich",
+					"id": 22310731,
+					"id_str": "22310731",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63491,
+			"friends_count": 30209,
+			"listed_count": 1281,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 03 01:31:20 +0000 2018",
+			"id": 1047298021292232700,
+			"id_str": "1047298021292232704",
+			"text": "A vicious, vile and soulless attack on Dr. Christine Blasey Ford.  Is it any wonder that she was terrified to come… https://t.co/JRtQBvQW78",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JRtQBvQW78",
+						"expanded_url": "https://twitter.com/i/web/status/1047298021292232704",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22310731,
+				"id_str": "22310731",
+				"name": "Michael R. Bromwich",
+				"screen_name": "mrbromwich",
+				"location": "Washington DC",
+				"description": "former DOJ IG; Asst US Attorney, SDNY; Assoc. Independent Counsel: Iran-Contra; independent monitor x 4; law enforcement consultant; lifelong Dodgers/Lakers fan",
+				"url": "https://t.co/lxq8jy8I3R",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lxq8jy8I3R",
+								"expanded_url": "http://www.bromwichgroup.com",
+								"display_url": "bromwichgroup.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 71179,
+				"friends_count": 96,
+				"listed_count": 456,
+				"created_at": "Sat Feb 28 23:55:25 +0000 2009",
+				"favourites_count": 99,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 123,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2275784901/krrl2u7wz4b10vd2gm4j_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2275784901/krrl2u7wz4b10vd2gm4j_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22310731/1535919601",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1047291530078277600,
+			"quoted_status_id_str": "1047291530078277633",
+			"quoted_status": {
+				"created_at": "Wed Oct 03 01:05:33 +0000 2018",
+				"id": 1047291530078277600,
+				"id_str": "1047291530078277633",
+				"text": "https://t.co/DTdCdjHkLY",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/DTdCdjHkLY",
+							"expanded_url": "https://www.nbcnews.com/politics/politics-news/trump-mocks-christine-blasey-ford-mississippi-campaign-rally-n916061",
+							"display_url": "nbcnews.com/politics/polit…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 89820928,
+					"id_str": "89820928",
+					"name": "Andrea Mitchell",
+					"screen_name": "mitchellreports",
+					"location": "Washington, DC",
+					"description": "NBC News Chief Foreign Affairs Correspondent/anchor, Andrea Mitchell Reports, weekdays at 12pm ET on @MSNBC.",
+					"url": "http://t.co/dYZhATgdBX",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/dYZhATgdBX",
+									"expanded_url": "http://andrea.msnbc.com",
+									"display_url": "andrea.msnbc.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1729614,
+					"friends_count": 1410,
+					"listed_count": 9147,
+					"created_at": "Fri Nov 13 23:28:11 +0000 2009",
+					"favourites_count": 2493,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 43896,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/2182502571/Andrea_Mitchell_Twitter_profile_headshot_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/2182502571/Andrea_Mitchell_Twitter_profile_headshot_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/89820928/1515021226",
+					"profile_link_color": "B3000F",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 851,
+				"favorite_count": 1027,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "und"
+			},
+			"retweet_count": 22121,
+			"favorite_count": 73686,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1047291530078277600,
+		"quoted_status_id_str": "1047291530078277633",
+		"retweet_count": 22121,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 03 18:10:16 +0000 2018",
 		"id": 1047549410832465900,
 		"id_str": "1047549410832465921",
