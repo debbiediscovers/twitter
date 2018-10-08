@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 08 16:49:47 +0000 2018",
+		"id": 1049341094553563100,
+		"id_str": "1049341094553563136",
+		"text": "@AskAaronLee @AgoraPulse Haha yes!! I got a call at 1am tho 😴",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AskAaronLee",
+					"name": "Aaron Lee",
+					"id": 25458378,
+					"id_str": "25458378",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "AgoraPulse",
+					"name": "AgoraPulse",
+					"id": 281546383,
+					"id_str": "281546383",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1049340881805828100,
+		"in_reply_to_status_id_str": "1049340881805828097",
+		"in_reply_to_user_id": 25458378,
+		"in_reply_to_user_id_str": "25458378",
+		"in_reply_to_screen_name": "AskAaronLee",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64143,
+			"friends_count": 32970,
+			"listed_count": 1279,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16038,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 08 16:45:13 +0000 2018",
+		"id": 1049339947189194800,
+		"id_str": "1049339947189194753",
+		"text": "The Value of a Tweet $174 per donor - by @debbiediscovers Using #Twitter for #Fundraising #Philanthrophy https://t.co/WDMptxqtLL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						64,
+						72
+					]
+				},
+				{
+					"text": "Fundraising",
+					"indices": [
+						77,
+						89
+					]
+				},
+				{
+					"text": "Philanthrophy",
+					"indices": [
+						90,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						41,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WDMptxqtLL",
+					"expanded_url": "https://digitaldiscovery.sg/blog/value-of-tweet/",
+					"display_url": "digitaldiscovery.sg/blog/value-of-…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64143,
+			"friends_count": 32970,
+			"listed_count": 1279,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16038,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 08 16:44:00 +0000 2018",
+		"id": 1049339639192944600,
+		"id_str": "1049339639192944640",
+		"text": "@AskAaronLee @AgoraPulse 😬I just woke up.  YOU need to sleep     🤣",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AskAaronLee",
+					"name": "Aaron Lee",
+					"id": 25458378,
+					"id_str": "25458378",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "AgoraPulse",
+					"name": "AgoraPulse",
+					"id": 281546383,
+					"id_str": "281546383",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1049339303367598100,
+		"in_reply_to_status_id_str": "1049339303367598082",
+		"in_reply_to_user_id": 25458378,
+		"in_reply_to_user_id_str": "25458378",
+		"in_reply_to_screen_name": "AskAaronLee",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64143,
+			"friends_count": 32970,
+			"listed_count": 1279,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16038,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 08 16:32:09 +0000 2018",
+		"id": 1049336658871562200,
+		"id_str": "1049336658871562240",
+		"text": "@AgoraPulse Yup sure!  Done! ❤️👌",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AgoraPulse",
+					"name": "AgoraPulse",
+					"id": 281546383,
+					"id_str": "281546383",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1049298076383555600,
+		"in_reply_to_status_id_str": "1049298076383555585",
+		"in_reply_to_user_id": 281546383,
+		"in_reply_to_user_id_str": "281546383",
+		"in_reply_to_screen_name": "AgoraPulse",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64143,
+			"friends_count": 32970,
+			"listed_count": 1279,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16038,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Oct 08 03:37:21 +0000 2018",
 		"id": 1049141672708169700,
 		"id_str": "1049141672708169728",
