@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 10 17:54:06 +0000 2018",
+		"id": 1050082058142408700,
+		"id_str": "1050082058142408709",
+		"text": "Check out my new #Dialogflow Agent that can respond to any Emoji! Available for a $35 donation to Pencils of Promis… https://t.co/6zJkRLtAsl",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dialogflow",
+					"indices": [
+						17,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6zJkRLtAsl",
+					"expanded_url": "https://twitter.com/i/web/status/1050082058142408709",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64004,
+			"friends_count": 33653,
+			"listed_count": 1288,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 964545580813967400,
+		"quoted_status_id_str": "964545580813967360",
+		"quoted_status": {
+			"created_at": "Fri Feb 16 17:02:41 +0000 2018",
+			"id": 964545580813967400,
+			"id_str": "964545580813967360",
+			"text": "EmojiBot2.0: A Dialogflow Agent that can respond to any Emoji by @debbiediscovers on @messenger… https://t.co/34hUmO78Lt",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							65,
+							81
+						]
+					},
+					{
+						"screen_name": "messenger",
+						"name": "Messenger",
+						"id": 2885229365,
+						"id_str": "2885229365",
+						"indices": [
+							85,
+							95
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/34hUmO78Lt",
+						"expanded_url": "https://twitter.com/i/web/status/964545580813967360",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4876850351,
+				"id_str": "4876850351",
+				"name": "BotList",
+				"screen_name": "botlistco",
+				"location": "Austin, TX",
+				"description": "Connecting Humans to Bots. Send stories to: hello@botlist.co :: #chatbots",
+				"url": "https://t.co/IOzsndhZyX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IOzsndhZyX",
+								"expanded_url": "https://botlist.co/",
+								"display_url": "botlist.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5351,
+				"friends_count": 4,
+				"listed_count": 235,
+				"created_at": "Thu Feb 04 17:15:09 +0000 2016",
+				"favourites_count": 6795,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 7274,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848872694833479680/bEzTC-gn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848872694833479680/bEzTC-gn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4876850351/1491856826",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 10 15:03:07 +0000 2018",
 		"id": 1050039026508546000,
 		"id_str": "1050039026508546048",
