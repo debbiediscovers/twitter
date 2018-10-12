@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 12 11:22:35 +0000 2018",
+		"id": 1050708302315675600,
+		"id_str": "1050708302315675648",
+		"full_text": "@jesselindsley 😂",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jesselindsley",
+					"name": "Jesse Lindsley🕹🐶",
+					"id": 15836180,
+					"id_str": "15836180",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1050707606753435600,
+		"in_reply_to_status_id_str": "1050707606753435648",
+		"in_reply_to_user_id": 15836180,
+		"in_reply_to_user_id_str": "15836180",
+		"in_reply_to_screen_name": "jesselindsley",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64595,
+			"friends_count": 36251,
+			"listed_count": 1292,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@jesselindsley 😂"
+	},
+	{
 		"created_at": "Fri Oct 12 10:56:07 +0000 2018",
 		"id": 1050701645225582600,
 		"id_str": "1050701645225582593",
@@ -1961,7 +2067,7 @@ Grailbird.data.tweets_2018_10 =
 		"created_at": "Thu Oct 11 04:21:37 +0000 2018",
 		"id": 1050239976128970800,
 		"id_str": "1050239976128970753",
-		"full_text": "Kids today ... weird AF 🤷‍♀️🤦‍♀️ https://t.co/HmpAnmw52m",
+		"full_text": "Kids today ... weird AF 🤷♀️🤦♀️ https://t.co/HmpAnmw52m",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -2061,7 +2167,7 @@ Grailbird.data.tweets_2018_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Kids today ... weird AF 🤷‍♀️🤦‍♀️ https://t.co/HmpAnmw52m"
+		"text": "Kids today ... weird AF 🤷♀️🤦♀️ https://t.co/HmpAnmw52m"
 	},
 	{
 		"created_at": "Thu Oct 11 13:10:50 +0000 2018",
