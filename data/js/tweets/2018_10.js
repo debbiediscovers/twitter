@@ -1,6 +1,562 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 12 18:53:28 +0000 2018",
+		"id": 1050821772772134900,
+		"id_str": "1050821772772134912",
+		"full_text": "@sandymaxey @quickmuse Shrew!! Not screw 😂",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sandymaxey",
+					"name": "sandymaxey",
+					"id": 18429289,
+					"id_str": "18429289",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "quickmuse",
+					"name": "Ken Gordon",
+					"id": 16603345,
+					"id_str": "16603345",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1050821190858797000,
+		"in_reply_to_status_id_str": "1050821190858797060",
+		"in_reply_to_user_id": 18429289,
+		"in_reply_to_user_id_str": "18429289",
+		"in_reply_to_screen_name": "sandymaxey",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64665,
+			"friends_count": 36553,
+			"listed_count": 1288,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16098,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sandymaxey @quickmuse Shrew!! Not screw 😂"
+	},
+	{
+		"created_at": "Fri Oct 12 18:53:18 +0000 2018",
+		"id": 1050821729319182300,
+		"id_str": "1050821729319182336",
+		"full_text": "@sandymaxey @quickmuse Bitch is good. We like bitch level. Sardonic screw works too.",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sandymaxey",
+					"name": "sandymaxey",
+					"id": 18429289,
+					"id_str": "18429289",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "quickmuse",
+					"name": "Ken Gordon",
+					"id": 16603345,
+					"id_str": "16603345",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1050821190858797000,
+		"in_reply_to_status_id_str": "1050821190858797060",
+		"in_reply_to_user_id": 18429289,
+		"in_reply_to_user_id_str": "18429289",
+		"in_reply_to_screen_name": "sandymaxey",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64665,
+			"friends_count": 36553,
+			"listed_count": 1288,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16098,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sandymaxey @quickmuse Bitch is good. We like bitch level. Sardonic screw works too."
+	},
+	{
+		"created_at": "Fri Oct 12 18:52:02 +0000 2018",
+		"id": 1050821412468871200,
+		"id_str": "1050821412468871168",
+		"full_text": "@quickmuse @sandymaxey Also muted words!! 🙈🙉🙊",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "quickmuse",
+					"name": "Ken Gordon",
+					"id": 16603345,
+					"id_str": "16603345",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "sandymaxey",
+					"name": "sandymaxey",
+					"id": 18429289,
+					"id_str": "18429289",
+					"indices": [
+						11,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1050820489571172400,
+		"in_reply_to_status_id_str": "1050820489571172353",
+		"in_reply_to_user_id": 16603345,
+		"in_reply_to_user_id_str": "16603345",
+		"in_reply_to_screen_name": "quickmuse",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64665,
+			"friends_count": 36553,
+			"listed_count": 1288,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16098,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@quickmuse @sandymaxey Also muted words!! 🙈🙉🙊"
+	},
+	{
+		"created_at": "Fri Oct 12 18:51:06 +0000 2018",
+		"id": 1050821178082779100,
+		"id_str": "1050821178082779137",
+		"full_text": "@quickmuse @sandymaxey I block a lot of people 😂 https://t.co/wK6n7PvrKL",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "quickmuse",
+					"name": "Ken Gordon",
+					"id": 16603345,
+					"id_str": "16603345",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "sandymaxey",
+					"name": "sandymaxey",
+					"id": 18429289,
+					"id_str": "18429289",
+					"indices": [
+						11,
+						22
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1050821163234906100,
+					"id_str": "1050821163234906113",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpVER80UUAENFP4.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpVER80UUAENFP4.jpg",
+					"url": "https://t.co/wK6n7PvrKL",
+					"display_url": "pic.twitter.com/wK6n7PvrKL",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1050821178082779137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 282,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 282,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 282,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050821163234906100,
+					"id_str": "1050821163234906113",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpVER80UUAENFP4.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpVER80UUAENFP4.jpg",
+					"url": "https://t.co/wK6n7PvrKL",
+					"display_url": "pic.twitter.com/wK6n7PvrKL",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1050821178082779137/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 282,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 282,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 282,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							47
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DpVER80UUAENFP4.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1050820489571172400,
+		"in_reply_to_status_id_str": "1050820489571172353",
+		"in_reply_to_user_id": 16603345,
+		"in_reply_to_user_id_str": "16603345",
+		"in_reply_to_screen_name": "quickmuse",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64665,
+			"friends_count": 36553,
+			"listed_count": 1288,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16098,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@quickmuse @sandymaxey I block a lot of people 😂 https://t.co/wK6n7PvrKL"
+	},
+	{
 		"created_at": "Fri Oct 12 18:05:45 +0000 2018",
 		"id": 1050809765498998800,
 		"id_str": "1050809765498998784",
@@ -2895,7 +3451,7 @@ Grailbird.data.tweets_2018_10 =
 		"created_at": "Thu Oct 11 04:21:37 +0000 2018",
 		"id": 1050239976128970800,
 		"id_str": "1050239976128970753",
-		"full_text": "Kids today ... weird AF 🤷‍♀️🤦‍♀️ https://t.co/HmpAnmw52m",
+		"full_text": "Kids today ... weird AF 🤷♀️🤦♀️ https://t.co/HmpAnmw52m",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -2995,7 +3551,7 @@ Grailbird.data.tweets_2018_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Kids today ... weird AF 🤷‍♀️🤦‍♀️ https://t.co/HmpAnmw52m"
+		"text": "Kids today ... weird AF 🤷♀️🤦♀️ https://t.co/HmpAnmw52m"
 	},
 	{
 		"created_at": "Thu Oct 11 10:37:39 +0000 2018",
@@ -3299,7 +3855,7 @@ Grailbird.data.tweets_2018_10 =
 		"created_at": "Thu Oct 11 04:21:37 +0000 2018",
 		"id": 1050239976128970800,
 		"id_str": "1050239976128970753",
-		"full_text": "Kids today ... weird AF 🤷‍♀️🤦‍♀️ https://t.co/HmpAnmw52m",
+		"full_text": "Kids today ... weird AF 🤷♀️🤦♀️ https://t.co/HmpAnmw52m",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -3399,7 +3955,7 @@ Grailbird.data.tweets_2018_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Kids today ... weird AF 🤷‍♀️🤦‍♀️ https://t.co/HmpAnmw52m"
+		"text": "Kids today ... weird AF 🤷♀️🤦♀️ https://t.co/HmpAnmw52m"
 	},
 	{
 		"created_at": "Thu Oct 11 00:10:20 +0000 2018",
