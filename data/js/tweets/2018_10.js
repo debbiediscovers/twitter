@@ -1,6 +1,682 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 12 20:59:54 +0000 2018",
+		"id": 1050853591450144800,
+		"id_str": "1050853591450144768",
+		"full_text": "Simple tutorial on how to train your bot to deliver knock knock jokes (using context in @Dialogflow) 😆 by  @debbiediscovers by https://t.co/ZSkzSaj22u #Chatbot #Tutorial \n\nFREE Dialogflow example files available for download! Link in article https://t.co/jUoTC5U1Vh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Chatbot",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "Tutorial",
+					"indices": [
+						160,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dialogflow",
+					"name": "Dialogflow",
+					"id": 2774598458,
+					"id_str": "2774598458",
+					"indices": [
+						88,
+						99
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						107,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZSkzSaj22u",
+					"expanded_url": "https://chatbotslife.com/how-to-handle-context-with-dialogflow-part-1-knock-knock-jokes-4659b346d83b",
+					"display_url": "chatbotslife.com/how-to-handle-…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1050853464031424500,
+					"id_str": "1050853464031424512",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpVhqGqU8AASEIO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpVhqGqU8AASEIO.jpg",
+					"url": "https://t.co/jUoTC5U1Vh",
+					"display_url": "pic.twitter.com/jUoTC5U1Vh",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1050853591450144768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 528,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 528,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 528,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050853464031424500,
+					"id_str": "1050853464031424512",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpVhqGqU8AASEIO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpVhqGqU8AASEIO.jpg",
+					"url": "https://t.co/jUoTC5U1Vh",
+					"display_url": "pic.twitter.com/jUoTC5U1Vh",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1050853591450144768/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 528,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 528,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 528,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							11,
+							10
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DpVhqGqU8AASEIO.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64681,
+			"friends_count": 36672,
+			"listed_count": 1288,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16103,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Simple tutorial on how to train your bot to deliver knock knock jokes (using context in @Dialogflow) 😆 by  @debbiediscovers by https://t.co/ZSkzSaj22u #Chatbot #Tutorial \n\nFREE Dialogflow example files available for download! Link in article https://t.co/jUoTC5U1Vh"
+	},
+	{
+		"created_at": "Fri Oct 12 20:53:41 +0000 2018",
+		"id": 1050852026676998100,
+		"id_str": "1050852026676998144",
+		"full_text": "@botsdotmy yup!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "botsdotmy",
+					"name": "Bots.MY",
+					"id": 978292362928517100,
+					"id_str": "978292362928517120",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1041159748853395500,
+		"in_reply_to_status_id_str": "1041159748853395456",
+		"in_reply_to_user_id": 978292362928517100,
+		"in_reply_to_user_id_str": "978292362928517120",
+		"in_reply_to_screen_name": "botsdotmy",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64681,
+			"friends_count": 36672,
+			"listed_count": 1288,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16103,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@botsdotmy yup!"
+	},
+	{
+		"created_at": "Sun Sep 16 03:00:02 +0000 2018",
+		"id": 1041159748853395500,
+		"id_str": "1041159748853395456",
+		"full_text": "If humanity was wiped out today there would still be bots posting on reddit. 🤖",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://socialbee.io/\" rel=\"nofollow\">SocialBee.io</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 978292362928517100,
+			"id_str": "978292362928517120",
+			"name": "Bots.MY",
+			"screen_name": "botsdotmy",
+			"location": "worldwide 🌐",
+			"description": "Media and Digital Agency 🤖 // #automation #bot #artificialintelligence",
+			"url": "https://t.co/tQRKGS18OY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tQRKGS18OY",
+							"expanded_url": "http://fb.com/botsdotmy",
+							"display_url": "fb.com/botsdotmy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27,
+			"friends_count": 454,
+			"listed_count": 0,
+			"created_at": "Mon Mar 26 15:27:29 +0000 2018",
+			"favourites_count": 740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 172,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032836072177201152/od4J6Y1C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032836072177201152/od4J6Y1C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978292362928517120/1535083301",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If humanity was wiped out today there would still be bots posting on reddit. 🤖"
+	},
+	{
+		"created_at": "Fri Oct 12 20:29:29 +0000 2018",
+		"id": 1050845936480469000,
+		"id_str": "1050845936480468992",
+		"full_text": "@WebsterCharly @Namecheap Do it!",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WebsterCharly",
+					"name": "Charly Webster",
+					"id": 588465802,
+					"id_str": "588465802",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Namecheap",
+					"name": "Namecheap.com",
+					"id": 15351161,
+					"id_str": "15351161",
+					"indices": [
+						15,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1050845858319753200,
+		"in_reply_to_status_id_str": "1050845858319753217",
+		"in_reply_to_user_id": 588465802,
+		"in_reply_to_user_id_str": "588465802",
+		"in_reply_to_screen_name": "WebsterCharly",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64681,
+			"friends_count": 36672,
+			"listed_count": 1288,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16103,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WebsterCharly @Namecheap Do it!"
+	},
+	{
+		"created_at": "Fri Oct 12 20:12:07 +0000 2018",
+		"id": 1050841566699577300,
+		"id_str": "1050841566699577345",
+		"full_text": "If you're a university student from a UK, US, Canadian or Australian University, @namecheap is giving a way free .me domains! Check this post out for details, and my top tips on how to build a website! https://t.co/1hLBIsy6L4 https://t.co/mjiy7JjAT5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Namecheap",
+					"name": "Namecheap.com",
+					"id": 15351161,
+					"id_str": "15351161",
+					"indices": [
+						81,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1hLBIsy6L4",
+					"expanded_url": "https://digitaldiscovery.sg/blog/free-domain-for-students/",
+					"display_url": "digitaldiscovery.sg/blog/free-doma…",
+					"indices": [
+						202,
+						225
+					]
+				},
+				{
+					"url": "https://t.co/mjiy7JjAT5",
+					"expanded_url": "https://digitaldiscovery.sg/blog/free-domain-for-students/?utm_source=agorapulse&utm_medium=social&utm_campaign=free-domain",
+					"display_url": "digitaldiscovery.sg/blog/free-doma…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64681,
+			"friends_count": 36672,
+			"listed_count": 1288,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16103,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you're a university student from a UK, US, Canadian or Australian University, @namecheap is giving a way free .me domains! Check this post out for details, and my top tips on how to build a website! https://t.co/1hLBIsy6L4 https://t.co/mjiy7JjAT5"
+	},
+	{
 		"created_at": "Fri Oct 12 18:53:28 +0000 2018",
 		"id": 1050821772772134900,
 		"id_str": "1050821772772134912",
