@@ -1,6 +1,699 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sat Oct 13 20:14:51 +0000 2018",
+		"id": 1051204639561928700,
+		"id_str": "1051204639561928704",
+		"full_text": "@DanielRufde @Dialogflow Haha thank you!",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DanielRufde",
+					"name": "Daniel Ruf",
+					"id": 1151291137,
+					"id_str": "1151291137",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Dialogflow",
+					"name": "Dialogflow",
+					"id": 2774598458,
+					"id_str": "2774598458",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1051202642758836200,
+		"in_reply_to_status_id_str": "1051202642758836229",
+		"in_reply_to_user_id": 1151291137,
+		"in_reply_to_user_id_str": "1151291137",
+		"in_reply_to_screen_name": "DanielRufde",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64807,
+			"friends_count": 37765,
+			"listed_count": 1288,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DanielRufde @Dialogflow Haha thank you!"
+	},
+	{
+		"created_at": "Sat Oct 13 20:14:27 +0000 2018",
+		"id": 1051204540299534300,
+		"id_str": "1051204540299534336",
+		"full_text": "@cjm_eledecks @canva @LastPass @ProductHunt Yaaaas 🙌",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cjm_eledecks",
+					"name": "Carolyn Mumby",
+					"id": 147537916,
+					"id_str": "147537916",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "canva",
+					"name": "Canva",
+					"id": 36542528,
+					"id_str": "36542528",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"screen_name": "LastPass",
+					"name": "LastPass",
+					"id": 17800533,
+					"id_str": "17800533",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"screen_name": "ProductHunt",
+					"name": "Product Haunt 👻",
+					"id": 2208027565,
+					"id_str": "2208027565",
+					"indices": [
+						31,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1051157937274671100,
+		"in_reply_to_status_id_str": "1051157937274671109",
+		"in_reply_to_user_id": 147537916,
+		"in_reply_to_user_id_str": "147537916",
+		"in_reply_to_screen_name": "cjm_eledecks",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64807,
+			"friends_count": 37765,
+			"listed_count": 1288,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@cjm_eledecks @canva @LastPass @ProductHunt Yaaaas 🙌"
+	},
+	{
+		"created_at": "Fri Oct 12 20:59:54 +0000 2018",
+		"id": 1050853591450144800,
+		"id_str": "1050853591450144768",
+		"full_text": "Simple tutorial on how to train your bot to deliver knock knock jokes (using context in @Dialogflow) 😆 by  @debbiediscovers by https://t.co/ZSkzSaj22u #Chatbot #Tutorial \n\nFREE Dialogflow example files available for download! Link in article https://t.co/jUoTC5U1Vh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Chatbot",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "Tutorial",
+					"indices": [
+						160,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dialogflow",
+					"name": "Dialogflow",
+					"id": 2774598458,
+					"id_str": "2774598458",
+					"indices": [
+						88,
+						99
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						107,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZSkzSaj22u",
+					"expanded_url": "https://chatbotslife.com/how-to-handle-context-with-dialogflow-part-1-knock-knock-jokes-4659b346d83b",
+					"display_url": "chatbotslife.com/how-to-handle-…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1050853464031424500,
+					"id_str": "1050853464031424512",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpVhqGqU8AASEIO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpVhqGqU8AASEIO.jpg",
+					"url": "https://t.co/jUoTC5U1Vh",
+					"display_url": "pic.twitter.com/jUoTC5U1Vh",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1050853591450144768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 528,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 528,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 528,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050853464031424500,
+					"id_str": "1050853464031424512",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpVhqGqU8AASEIO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpVhqGqU8AASEIO.jpg",
+					"url": "https://t.co/jUoTC5U1Vh",
+					"display_url": "pic.twitter.com/jUoTC5U1Vh",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1050853591450144768/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 528,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 528,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 528,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							11,
+							10
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DpVhqGqU8AASEIO.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64807,
+			"friends_count": 37765,
+			"listed_count": 1288,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Simple tutorial on how to train your bot to deliver knock knock jokes (using context in @Dialogflow) 😆 by  @debbiediscovers by https://t.co/ZSkzSaj22u #Chatbot #Tutorial \n\nFREE Dialogflow example files available for download! Link in article https://t.co/jUoTC5U1Vh"
+	},
+	{
+		"created_at": "Fri Oct 12 21:14:26 +0000 2018",
+		"id": 1050857248879046700,
+		"id_str": "1050857248879046656",
+		"full_text": "@MitsukuChatbot @Dialogflow Of course!!! That would be great! https://t.co/kQqEc1sN3z",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MitsukuChatbot",
+					"name": "Mitsuku 🏅🏅🏅🏅",
+					"id": 578224522,
+					"id_str": "578224522",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Dialogflow",
+					"name": "Dialogflow",
+					"id": 2774598458,
+					"id_str": "2774598458",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1050857236333912000,
+					"id_str": "1050857236333912064",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpVlFrlU4AAr6M2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpVlFrlU4AAr6M2.jpg",
+					"url": "https://t.co/kQqEc1sN3z",
+					"display_url": "pic.twitter.com/kQqEc1sN3z",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1050857248879046656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 162,
+							"h": 166,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 162,
+							"h": 166,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 162,
+							"h": 166,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050857236333912000,
+					"id_str": "1050857236333912064",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpVlFrlU4AAr6M2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpVlFrlU4AAr6M2.jpg",
+					"url": "https://t.co/kQqEc1sN3z",
+					"display_url": "pic.twitter.com/kQqEc1sN3z",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1050857248879046656/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 162,
+							"h": 166,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 162,
+							"h": 166,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 162,
+							"h": 166,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							81,
+							83
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DpVlFrlU4AAr6M2.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1050855366257508400,
+		"in_reply_to_status_id_str": "1050855366257508358",
+		"in_reply_to_user_id": 578224522,
+		"in_reply_to_user_id_str": "578224522",
+		"in_reply_to_screen_name": "MitsukuChatbot",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64807,
+			"friends_count": 37765,
+			"listed_count": 1288,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MitsukuChatbot @Dialogflow Of course!!! That would be great! https://t.co/kQqEc1sN3z"
+	},
+	{
 		"created_at": "Fri Oct 12 20:59:54 +0000 2018",
 		"id": 1050853591450144800,
 		"id_str": "1050853591450144768",
