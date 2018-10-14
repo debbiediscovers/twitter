@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 14 05:39:13 +0000 2018",
+		"id": 1051346666706501600,
+		"id_str": "1051346666706501633",
+		"full_text": "@jorgebarba Awesome, thanks for sharing! 🤖👍",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jorgebarba",
+					"name": "Jorge Barba",
+					"id": 8883702,
+					"id_str": "8883702",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1051345500991938600,
+		"in_reply_to_status_id_str": "1051345500991938560",
+		"in_reply_to_user_id": 8883702,
+		"in_reply_to_user_id_str": "8883702",
+		"in_reply_to_screen_name": "jorgebarba",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64862,
+			"friends_count": 38183,
+			"listed_count": 1298,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17545,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16116,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jorgebarba Awesome, thanks for sharing! 🤖👍"
+	},
+	{
+		"created_at": "Sun Oct 14 05:34:35 +0000 2018",
+		"id": 1051345500991938600,
+		"id_str": "1051345500991938560",
+		"full_text": "“Honey, I built a chatbot, but no one will click on my buttons 😭” @debbiediscovers https://t.co/8pUPfyOA4E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						66,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8pUPfyOA4E",
+					"expanded_url": "https://medium.com/@debbiediscovers/honey-i-built-a-chatbot-but-no-one-will-click-on-my-buttons-b713290c0029",
+					"display_url": "medium.com/@debbiediscove…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8883702,
+			"id_str": "8883702",
+			"name": "Jorge Barba",
+			"screen_name": "jorgebarba",
+			"location": "MX / USA / Global",
+			"description": "Innovation Insurgent. Maverick. Entrepreneur. Puzzle Builder. Generalist. Mentor. Advisor. @Disney Fanatic. Film Producer. Hungry Mind. - #IfItIsntBrokeBreakIt",
+			"url": "https://t.co/XRBj16KztX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XRBj16KztX",
+							"expanded_url": "http://www.game-changer.net",
+							"display_url": "game-changer.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11419,
+			"friends_count": 11634,
+			"listed_count": 1633,
+			"created_at": "Fri Sep 14 19:49:14 +0000 2007",
+			"favourites_count": 103562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 111052,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F1F1F1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/604407489539399681/VIvALZUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/604407489539399681/VIvALZUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8883702/1416283223",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "171717",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "2400156d6de057e3",
+			"url": "https://api.twitter.com/1.1/geo/id/2400156d6de057e3.json",
+			"place_type": "city",
+			"name": "Tijuana",
+			"full_name": "Tijuana, Baja California",
+			"country_code": "MX",
+			"country": "Mexico",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-117.2984211,
+							32.0982919
+						],
+						[
+							-116.5597831,
+							32.0982919
+						],
+						[
+							-116.5597831,
+							32.567461
+						],
+						[
+							-117.2984211,
+							32.567461
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Honey, I built a chatbot, but no one will click on my buttons 😭” @debbiediscovers https://t.co/8pUPfyOA4E"
+	},
+	{
 		"created_at": "Sun Oct 14 03:21:56 +0000 2018",
 		"id": 1051312120132821000,
 		"id_str": "1051312120132820992",
