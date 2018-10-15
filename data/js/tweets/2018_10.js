@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 15 08:33:22 +0000 2018",
+		"id": 1051752880749858800,
+		"id_str": "1051752880749858816",
+		"full_text": "We have called out 8 experts to debunk 8 common #chatbot myths, like \"Chatbot is a new technology\" or \"Building a chatbot is easy\"! https://t.co/85Wr4neebz https://t.co/O1RlnS7xpA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "chatbot",
+					"indices": [
+						48,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/85Wr4neebz",
+					"expanded_url": "https://www.dimelo.com/en/blog-post/8-chatbot-myths-debunked",
+					"display_url": "dimelo.com/en/blog-post/8…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1051752050906845200,
+					"id_str": "1051752050906845184",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/DpiS6voXUAAMKe-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpiS6voXUAAMKe-.jpg",
+					"url": "https://t.co/O1RlnS7xpA",
+					"display_url": "pic.twitter.com/O1RlnS7xpA",
+					"expanded_url": "https://twitter.com/Dimelo/status/1051752880749858816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051752050906845200,
+					"id_str": "1051752050906845184",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/DpiS6voXUAAMKe-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpiS6voXUAAMKe-.jpg",
+					"url": "https://t.co/O1RlnS7xpA",
+					"display_url": "pic.twitter.com/O1RlnS7xpA",
+					"expanded_url": "https://twitter.com/Dimelo/status/1051752880749858816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 922472513405321200,
+			"id_str": "922472513405321216",
+			"name": "Dimelo",
+			"screen_name": "Dimelo",
+			"location": "Paris, France",
+			"description": "#OmniDigital Customer Care Platform\n#CustomerExperience #CustomerService #CustomerCare",
+			"url": "https://t.co/EfI9M76qFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EfI9M76qFs",
+							"expanded_url": "http://dimelo.com",
+							"display_url": "dimelo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2886,
+			"friends_count": 3514,
+			"listed_count": 36,
+			"created_at": "Mon Oct 23 14:39:20 +0000 2017",
+			"favourites_count": 586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 490,
+			"lang": "fr",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/922475071104528384/Z5V8z1Sc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/922475071104528384/Z5V8z1Sc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/922472513405321216/1535646142",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have called out 8 experts to debunk 8 common #chatbot myths, like \"Chatbot is a new technology\" or \"Building a chatbot is easy\"! https://t.co/85Wr4neebz https://t.co/O1RlnS7xpA"
+	},
+	{
 		"created_at": "Mon Oct 15 11:49:42 +0000 2018",
 		"id": 1051802292075167700,
 		"id_str": "1051802292075167744",
