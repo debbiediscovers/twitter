@@ -145,6 +145,1661 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
+			"followers_count": 2887,
+			"friends_count": 3522,
+			"listed_count": 36,
+			"created_at": "Mon Oct 23 14:39:20 +0000 2017",
+			"favourites_count": 586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 492,
+			"lang": "fr",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/922475071104528384/Z5V8z1Sc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/922475071104528384/Z5V8z1Sc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/922472513405321216/1535646142",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have called out 8 experts to debunk 8 common #chatbot myths, like \"Chatbot is a new technology\" or \"Building a chatbot is easy\"! https://t.co/85Wr4neebz https://t.co/O1RlnS7xpA"
+	},
+	{
+		"created_at": "Mon Oct 15 11:49:42 +0000 2018",
+		"id": 1051802292075167700,
+		"id_str": "1051802292075167744",
+		"full_text": "Ong omg omg!!! Yaaaay!! 😍❤️ https://t.co/cyMo08wO7O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cyMo08wO7O",
+					"expanded_url": "https://twitter.com/kensingtonroyal/status/1051739344887848960",
+					"display_url": "twitter.com/kensingtonroya…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65058,
+			"friends_count": 39191,
+			"listed_count": 1294,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16126,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1051739344887849000,
+		"quoted_status_id_str": "1051739344887848960",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cyMo08wO7O",
+			"expanded": "https://twitter.com/kensingtonroyal/status/1051739344887848960",
+			"display": "twitter.com/kensingtonroya…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 15 07:39:34 +0000 2018",
+			"id": 1051739344887849000,
+			"id_str": "1051739344887848960",
+			"full_text": "Their Royal Highnesses The Duke and Duchess of Sussex are very pleased to announce that The Duchess of Sussex is expecting a baby in the Spring of 2019. https://t.co/Ut9C0RagLk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				152
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1051739340274044900,
+						"id_str": "1051739340274044928",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/DpiHW41WkAAZC7O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpiHW41WkAAZC7O.jpg",
+						"url": "https://t.co/Ut9C0RagLk",
+						"display_url": "pic.twitter.com/Ut9C0RagLk",
+						"expanded_url": "https://twitter.com/KensingtonRoyal/status/1051739344887848960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 909,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 909,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1051739340274044900,
+						"id_str": "1051739340274044928",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/DpiHW41WkAAZC7O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpiHW41WkAAZC7O.jpg",
+						"url": "https://t.co/Ut9C0RagLk",
+						"display_url": "pic.twitter.com/Ut9C0RagLk",
+						"expanded_url": "https://twitter.com/KensingtonRoyal/status/1051739344887848960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 909,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 909,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2812768561,
+				"id_str": "2812768561",
+				"name": "Kensington Palace",
+				"screen_name": "KensingtonRoyal",
+				"location": "London, UK",
+				"description": "The official account of The Duke and Duchess of Cambridge, The Duke and Duchess of Sussex and their Royal Foundation, based at Kensington Palace.",
+				"url": "https://t.co/u87QMImjnO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/u87QMImjnO",
+								"expanded_url": "http://www.royal.uk",
+								"display_url": "royal.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1630963,
+				"friends_count": 469,
+				"listed_count": 3587,
+				"created_at": "Tue Sep 16 08:49:03 +0000 2014",
+				"favourites_count": 270,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8464,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/997841577035927552/2R5pQ9-r_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/997841577035927552/2R5pQ9-r_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2812768561/1510567127",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43862,
+			"favorite_count": 152905,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ong omg omg!!! Yaaaay!! 😍❤️ https://t.co/cyMo08wO7O"
+	},
+	{
+		"created_at": "Mon Oct 15 11:46:52 +0000 2018",
+		"id": 1051801579605635100,
+		"id_str": "1051801579605635073",
+		"full_text": "Adapt or die: How to cope when the bots take your job - BBC News https://t.co/ol22uAWjc9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ol22uAWjc9",
+					"expanded_url": "https://buff.ly/2EnBiqH",
+					"display_url": "buff.ly/2EnBiqH",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65058,
+			"friends_count": 39191,
+			"listed_count": 1294,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16126,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Adapt or die: How to cope when the bots take your job - BBC News https://t.co/ol22uAWjc9"
+	},
+	{
+		"created_at": "Mon Oct 15 10:06:13 +0000 2018",
+		"id": 1051776248085499900,
+		"id_str": "1051776248085499905",
+		"full_text": "https://t.co/E71EWoNQZT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1051776234231717900,
+					"id_str": "1051776234231717889",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Dpio6ZiUYAEqIaJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dpio6ZiUYAEqIaJ.jpg",
+					"url": "https://t.co/E71EWoNQZT",
+					"display_url": "pic.twitter.com/E71EWoNQZT",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1051776248085499905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 605,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051776234231717900,
+					"id_str": "1051776234231717889",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Dpio6ZiUYAEqIaJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dpio6ZiUYAEqIaJ.jpg",
+					"url": "https://t.co/E71EWoNQZT",
+					"display_url": "pic.twitter.com/E71EWoNQZT",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1051776248085499905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 605,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65058,
+			"friends_count": 39191,
+			"listed_count": 1294,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16126,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/E71EWoNQZT"
+	},
+	{
+		"created_at": "Mon Oct 15 09:59:23 +0000 2018",
+		"id": 1051774529658187800,
+		"id_str": "1051774529658187777",
+		"full_text": "@W0nderWomen @bigdimsumdolly @dimsumdollies @crazyrichasians https://t.co/vv20jQ9qfh",
+		"truncated": false,
+		"display_text_range": [
+			60,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "W0nderWomen",
+					"name": "⚡🌟Trinity🌟⚡",
+					"id": 898423354813587500,
+					"id_str": "898423354813587456",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "bigdimsumdolly",
+					"name": "Selena Tan",
+					"id": 1015821398365765600,
+					"id_str": "1015821398365765632",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"screen_name": "dimsumdollies",
+					"name": "Dim Sum Dollies",
+					"id": 2451750523,
+					"id_str": "2451750523",
+					"indices": [
+						29,
+						43
+					]
+				},
+				{
+					"screen_name": "crazyrichasians",
+					"name": "женя зятиков",
+					"id": 2374417314,
+					"id_str": "2374417314",
+					"indices": [
+						44,
+						60
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1051774518249680900,
+					"id_str": "1051774518249680902",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpinWhAUcAY0ToY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpinWhAUcAY0ToY.jpg",
+					"url": "https://t.co/vv20jQ9qfh",
+					"display_url": "pic.twitter.com/vv20jQ9qfh",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1051774529658187777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 244,
+							"h": 244,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 244,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051774518249680900,
+					"id_str": "1051774518249680902",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpinWhAUcAY0ToY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpinWhAUcAY0ToY.jpg",
+					"url": "https://t.co/vv20jQ9qfh",
+					"display_url": "pic.twitter.com/vv20jQ9qfh",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1051774529658187777/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 244,
+							"h": 244,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 244,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 244,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DpinWhAUcAY0ToY.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1051482334040490000,
+		"in_reply_to_status_id_str": "1051482334040489984",
+		"in_reply_to_user_id": 898423354813587500,
+		"in_reply_to_user_id_str": "898423354813587456",
+		"in_reply_to_screen_name": "W0nderWomen",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65058,
+			"friends_count": 39191,
+			"listed_count": 1294,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16126,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@W0nderWomen @bigdimsumdolly @dimsumdollies @crazyrichasians https://t.co/vv20jQ9qfh"
+	},
+	{
+		"created_at": "Mon Oct 15 09:58:56 +0000 2018",
+		"id": 1051774417993326600,
+		"id_str": "1051774417993326592",
+		"full_text": "@realArzCena @bigdimsumdolly https://t.co/VNZ4rESWia",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realArzCena",
+					"name": "Ducks: Woohoo!",
+					"id": 868638660551245800,
+					"id_str": "868638660551245824",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "bigdimsumdolly",
+					"name": "Selena Tan",
+					"id": 1015821398365765600,
+					"id_str": "1015821398365765632",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1051774405884305400,
+					"id_str": "1051774405884305409",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpinP-aU4AEBpbB.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpinP-aU4AEBpbB.jpg",
+					"url": "https://t.co/VNZ4rESWia",
+					"display_url": "pic.twitter.com/VNZ4rESWia",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1051774417993326592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051774405884305400,
+					"id_str": "1051774405884305409",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpinP-aU4AEBpbB.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpinP-aU4AEBpbB.jpg",
+					"url": "https://t.co/VNZ4rESWia",
+					"display_url": "pic.twitter.com/VNZ4rESWia",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1051774417993326592/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DpinP-aU4AEBpbB.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1051454175005925400,
+		"in_reply_to_status_id_str": "1051454175005925376",
+		"in_reply_to_user_id": 868638660551245800,
+		"in_reply_to_user_id_str": "868638660551245824",
+		"in_reply_to_screen_name": "realArzCena",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65058,
+			"friends_count": 39191,
+			"listed_count": 1294,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16126,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@realArzCena @bigdimsumdolly https://t.co/VNZ4rESWia"
+	},
+	{
+		"created_at": "Mon Oct 15 09:58:27 +0000 2018",
+		"id": 1051774295980920800,
+		"id_str": "1051774295980920833",
+		"full_text": "@bigdimsumdolly @dimsumdollies @crazyrichasians Thank you!!! 😍😘",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bigdimsumdolly",
+					"name": "Selena Tan",
+					"id": 1015821398365765600,
+					"id_str": "1015821398365765632",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "dimsumdollies",
+					"name": "Dim Sum Dollies",
+					"id": 2451750523,
+					"id_str": "2451750523",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "crazyrichasians",
+					"name": "женя зятиков",
+					"id": 2374417314,
+					"id_str": "2374417314",
+					"indices": [
+						31,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1051398618991743000,
+		"in_reply_to_status_id_str": "1051398618991742976",
+		"in_reply_to_user_id": 1015821398365765600,
+		"in_reply_to_user_id_str": "1015821398365765632",
+		"in_reply_to_screen_name": "bigdimsumdolly",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65058,
+			"friends_count": 39191,
+			"listed_count": 1294,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16126,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bigdimsumdolly @dimsumdollies @crazyrichasians Thank you!!! 😍😘"
+	},
+	{
+		"created_at": "Mon Oct 15 09:58:12 +0000 2018",
+		"id": 1051774232944922600,
+		"id_str": "1051774232944922624",
+		"full_text": "Thanks Selena!!  😬🙏 https://t.co/qApDoHEox0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qApDoHEox0",
+					"expanded_url": "https://twitter.com/bigdimsumdolly/status/1051398618991742976",
+					"display_url": "twitter.com/bigdimsumdolly…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65058,
+			"friends_count": 39191,
+			"listed_count": 1294,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16126,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1051398618991743000,
+		"quoted_status_id_str": "1051398618991742976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qApDoHEox0",
+			"expanded": "https://twitter.com/bigdimsumdolly/status/1051398618991742976",
+			"display": "twitter.com/bigdimsumdolly…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 14 09:05:39 +0000 2018",
+			"id": 1051398618991743000,
+			"id_str": "1051398618991742976",
+			"full_text": "Happy Birthday Debbie!  Yummy food with the girls @jessicalouisetan @dreamacademysg @dimsumdollies #girlpower @crazyrichasians @dimsumdollies https://t.co/GIKgSPgsyH https://t.co/znj0QjRCik",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "girlpower",
+						"indices": [
+							99,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dimsumdollies",
+						"name": "Dim Sum Dollies",
+						"id": 2451750523,
+						"id_str": "2451750523",
+						"indices": [
+							84,
+							98
+						]
+					},
+					{
+						"screen_name": "crazyrichasians",
+						"name": "женя зятиков",
+						"id": 2374417314,
+						"id_str": "2374417314",
+						"indices": [
+							110,
+							126
+						]
+					},
+					{
+						"screen_name": "dimsumdollies",
+						"name": "Dim Sum Dollies",
+						"id": 2451750523,
+						"id_str": "2451750523",
+						"indices": [
+							127,
+							141
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/GIKgSPgsyH",
+						"expanded_url": "https://www.instagram.com/p/Bo6Fc_rH5VJ/",
+						"display_url": "instagram.com/p/Bo6Fc_rH5VJ/",
+						"indices": [
+							142,
+							165
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1051398617951551500,
+						"id_str": "1051398617951551488",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/DpdRePRWwAA-YXg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpdRePRWwAA-YXg.jpg",
+						"url": "https://t.co/znj0QjRCik",
+						"display_url": "pic.twitter.com/znj0QjRCik",
+						"expanded_url": "https://twitter.com/bigdimsumdolly/status/1051398618991742976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1051398617951551500,
+						"id_str": "1051398617951551488",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/DpdRePRWwAA-YXg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpdRePRWwAA-YXg.jpg",
+						"url": "https://t.co/znj0QjRCik",
+						"display_url": "pic.twitter.com/znj0QjRCik",
+						"expanded_url": "https://twitter.com/bigdimsumdolly/status/1051398618991742976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1015821398365765600,
+				"id_str": "1015821398365765632",
+				"name": "Selena Tan",
+				"screen_name": "bigdimsumdolly",
+				"location": "Singapore",
+				"description": "Singapore's Funniest Actress, Dim Sum Dolly, Founder @DreamAcademy, - I play Alix Young @CrazyRichMovie #CrazyRichAsians. No DMs",
+				"url": "https://t.co/kQEQCw4iOW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kQEQCw4iOW",
+								"expanded_url": "https://instagram.com/bigdimsumdolly",
+								"display_url": "instagram.com/bigdimsumdolly",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13062,
+				"friends_count": 7066,
+				"listed_count": 36,
+				"created_at": "Sun Jul 08 04:54:29 +0000 2018",
+				"favourites_count": 1500,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 594,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1022365517753933824/sUzYmOwL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022365517753933824/sUzYmOwL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1015821398365765632/1531044534",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 122,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks Selena!!  😬🙏 https://t.co/qApDoHEox0"
+	},
+	{
+		"created_at": "Mon Oct 15 08:33:22 +0000 2018",
+		"id": 1051752880749858800,
+		"id_str": "1051752880749858816",
+		"full_text": "We have called out 8 experts to debunk 8 common #chatbot myths, like \"Chatbot is a new technology\" or \"Building a chatbot is easy\"! https://t.co/85Wr4neebz https://t.co/O1RlnS7xpA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "chatbot",
+					"indices": [
+						48,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/85Wr4neebz",
+					"expanded_url": "https://www.dimelo.com/en/blog-post/8-chatbot-myths-debunked",
+					"display_url": "dimelo.com/en/blog-post/8…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1051752050906845200,
+					"id_str": "1051752050906845184",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/DpiS6voXUAAMKe-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpiS6voXUAAMKe-.jpg",
+					"url": "https://t.co/O1RlnS7xpA",
+					"display_url": "pic.twitter.com/O1RlnS7xpA",
+					"expanded_url": "https://twitter.com/Dimelo/status/1051752880749858816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051752050906845200,
+					"id_str": "1051752050906845184",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/DpiS6voXUAAMKe-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpiS6voXUAAMKe-.jpg",
+					"url": "https://t.co/O1RlnS7xpA",
+					"display_url": "pic.twitter.com/O1RlnS7xpA",
+					"expanded_url": "https://twitter.com/Dimelo/status/1051752880749858816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 922472513405321200,
+			"id_str": "922472513405321216",
+			"name": "Dimelo",
+			"screen_name": "Dimelo",
+			"location": "Paris, France",
+			"description": "#OmniDigital Customer Care Platform\n#CustomerExperience #CustomerService #CustomerCare",
+			"url": "https://t.co/EfI9M76qFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EfI9M76qFs",
+							"expanded_url": "http://dimelo.com",
+							"display_url": "dimelo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 2886,
 			"friends_count": 3514,
 			"listed_count": 36,
