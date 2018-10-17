@@ -1,6 +1,457 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 17 10:10:02 +0000 2018",
+		"id": 1052501983892918300,
+		"id_str": "1052501983892918272",
+		"full_text": "Nice gym at @HubSpot Singapore #BeAmazing https://t.co/6qavdgQ8OU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BeAmazing",
+					"indices": [
+						31,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HubSpot",
+					"name": "HubSpot",
+					"id": 14458280,
+					"id_str": "14458280",
+					"indices": [
+						12,
+						20
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1052501869879160800,
+					"id_str": "1052501869879160832",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1052501869879160832/pu/img/OpR3K5-SZarI3jau.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1052501869879160832/pu/img/OpR3K5-SZarI3jau.jpg",
+					"url": "https://t.co/6qavdgQ8OU",
+					"display_url": "pic.twitter.com/6qavdgQ8OU",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1052501983892918272/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052501869879160800,
+					"id_str": "1052501869879160832",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1052501869879160832/pu/img/OpR3K5-SZarI3jau.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1052501869879160832/pu/img/OpR3K5-SZarI3jau.jpg",
+					"url": "https://t.co/6qavdgQ8OU",
+					"display_url": "pic.twitter.com/6qavdgQ8OU",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1052501983892918272/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 12367,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1052501869879160832/pu/vid/180x320/1xhfh69lXt_OlK_Q.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1052501869879160832/pu/pl/ASbrZsot7Eg3SqQF.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1052501869879160832/pu/vid/360x640/l4UlAicalnPx80X6.mp4?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1052501869879160832/pu/vid/720x1280/Rd-4dPhpwgjqWG8E.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65126,
+			"friends_count": 39307,
+			"listed_count": 1298,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16159,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nice gym at @HubSpot Singapore #BeAmazing https://t.co/6qavdgQ8OU"
+	},
+	{
+		"created_at": "Wed Oct 17 03:47:02 +0000 2018",
+		"id": 1052405602155159600,
+		"id_str": "1052405602155159552",
+		"full_text": "Honey, I built a #chatbot, but no one will click on my buttons 😭\n https://t.co/RgFoH5M7qu by @debbiediscovers via @uxdesigncc\n\n#UserExperience #ArtificialIntelligence https://t.co/ICK1RhgH4W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "chatbot",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"text": "UserExperience",
+					"indices": [
+						127,
+						142
+					]
+				},
+				{
+					"text": "ArtificialIntelligence",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						93,
+						109
+					]
+				},
+				{
+					"screen_name": "uxdesigncc",
+					"name": "UX Collective",
+					"id": 16814473,
+					"id_str": "16814473",
+					"indices": [
+						114,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RgFoH5M7qu",
+					"expanded_url": "https://buff.ly/2CPZRuW",
+					"display_url": "buff.ly/2CPZRuW",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1052405599126851600,
+					"id_str": "1052405599126851584",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/DprlUQeWkAAn9NR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DprlUQeWkAAn9NR.jpg",
+					"url": "https://t.co/ICK1RhgH4W",
+					"display_url": "pic.twitter.com/ICK1RhgH4W",
+					"expanded_url": "https://twitter.com/icons_8/status/1052405602155159552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052405599126851600,
+					"id_str": "1052405599126851584",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/DprlUQeWkAAn9NR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DprlUQeWkAAn9NR.jpg",
+					"url": "https://t.co/ICK1RhgH4W",
+					"display_url": "pic.twitter.com/ICK1RhgH4W",
+					"expanded_url": "https://twitter.com/icons_8/status/1052405602155159552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 481832921,
+			"id_str": "481832921",
+			"name": "Icons8",
+			"screen_name": "icons_8",
+			"location": "New York",
+			"description": "Get any of 80,000+ #icons in the preferred format, size and color in 20 seconds",
+			"url": "https://t.co/52clZlJkzH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/52clZlJkzH",
+							"expanded_url": "http://icons8.com",
+							"display_url": "icons8.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10291,
+			"friends_count": 6549,
+			"listed_count": 747,
+			"created_at": "Fri Feb 03 07:01:24 +0000 2012",
+			"favourites_count": 6479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9142,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EEEEEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/837777358883065857/YCw6bjtl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/837777358883065857/YCw6bjtl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/481832921/1436983367",
+			"profile_link_color": "32C24D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Honey, I built a #chatbot, but no one will click on my buttons 😭\n https://t.co/RgFoH5M7qu by @debbiediscovers via @uxdesigncc\n\n#UserExperience #ArtificialIntelligence https://t.co/ICK1RhgH4W"
+	},
+	{
 		"created_at": "Wed Oct 17 04:24:17 +0000 2018",
 		"id": 1052414974713364500,
 		"id_str": "1052414974713364480",
