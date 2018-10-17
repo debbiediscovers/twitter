@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Jul 06 18:30:12 +0000 2018",
+		"id": 1015301907550736400,
+		"id_str": "1015301907550736385",
+		"full_text": "Please RT...\n@net2van is looking for inspiring e.g.'s of Canadian #botsforgood sharpish.\n\n@debbiediscovers @botsociety @ashevat  @MitsukuChatbot @chrismessina @drwoebot @talk2spot @ElphickCamilla @julianharris @cognition_x \n\nPlease RT: you know everyone in the world between you!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "botsforgood",
+					"indices": [
+						66,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "net2van",
+					"name": "NetSquared Vancouver",
+					"id": 165606379,
+					"id_str": "165606379",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						90,
+						106
+					]
+				},
+				{
+					"screen_name": "botsociety",
+					"name": "Botsociety",
+					"id": 753016614983962600,
+					"id_str": "753016614983962624",
+					"indices": [
+						107,
+						118
+					]
+				},
+				{
+					"screen_name": "ashevat",
+					"name": "Amir Shevat",
+					"id": 108209516,
+					"id_str": "108209516",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"screen_name": "MitsukuChatbot",
+					"name": "Mitsuku 🏅🏅🏅🏅",
+					"id": 578224522,
+					"id_str": "578224522",
+					"indices": [
+						129,
+						144
+					]
+				},
+				{
+					"screen_name": "chrismessina",
+					"name": "🅲🅷🆁🅸🆂 🅼🅴🆂🆂🅸🅽🅰︎",
+					"id": 1186,
+					"id_str": "1186",
+					"indices": [
+						145,
+						158
+					]
+				},
+				{
+					"screen_name": "talk2spot",
+					"name": "Spot",
+					"id": 959248957988782100,
+					"id_str": "959248957988782080",
+					"indices": [
+						169,
+						179
+					]
+				},
+				{
+					"screen_name": "ElphickCamilla",
+					"name": "Dr Camilla Elphick",
+					"id": 735394713981886500,
+					"id_str": "735394713981886465",
+					"indices": [
+						180,
+						195
+					]
+				},
+				{
+					"screen_name": "julianharris",
+					"name": "Julian Harris",
+					"id": 790614,
+					"id_str": "790614",
+					"indices": [
+						196,
+						209
+					]
+				},
+				{
+					"screen_name": "cognition_x",
+					"name": "CognitionX",
+					"id": 4784640996,
+					"id_str": "4784640996",
+					"indices": [
+						210,
+						222
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1011233513369202700,
+			"id_str": "1011233513369202688",
+			"name": "Botsforgood",
+			"screen_name": "botsforgood",
+			"location": "London, England",
+			"description": "June 25 2018: We're a group of writers, techies, conversation designers and botsters looking to build a better world 😇 #bots4good #botsforgood #bots #chatbots",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90,
+			"friends_count": 273,
+			"listed_count": 1,
+			"created_at": "Mon Jun 25 13:03:52 +0000 2018",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 137,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1011932217084383232/BfkFJpoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011932217084383232/BfkFJpoF_normal.jpg",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Please RT...\n@net2van is looking for inspiring e.g.'s of Canadian #botsforgood sharpish.\n\n@debbiediscovers @botsociety @ashevat  @MitsukuChatbot @chrismessina @drwoebot @talk2spot @ElphickCamilla @julianharris @cognition_x \n\nPlease RT: you know everyone in the world between you!"
+	},
+	{
 		"created_at": "Wed Oct 17 10:17:04 +0000 2018",
 		"id": 1052503756019982300,
 		"id_str": "1052503756019982337",
