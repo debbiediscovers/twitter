@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 17 02:17:48 +0000 2018",
+		"id": 1052383145406779400,
+		"id_str": "1052383145406779392",
+		"full_text": "@OrangeBubblez @YouTube Madness. What’s going on??",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OrangeBubblez",
+					"name": "Claudine🍯🍀",
+					"id": 83354377,
+					"id_str": "83354377",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1052382985360531500,
+		"in_reply_to_status_id_str": "1052382985360531457",
+		"in_reply_to_user_id": 83354377,
+		"in_reply_to_user_id_str": "83354377",
+		"in_reply_to_screen_name": "OrangeBubblez",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65096,
+			"friends_count": 39731,
+			"listed_count": 1291,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16155,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@OrangeBubblez @YouTube Madness. What’s going on??"
+	},
+	{
+		"created_at": "Wed Oct 17 02:15:11 +0000 2018",
+		"id": 1052382484984283100,
+		"id_str": "1052382484984283137",
+		"full_text": "Omg @YouTube is down 😱😱 https://t.co/NKm1H6d0BQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						4,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1052382474561511400,
+					"id_str": "1052382474561511425",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DprQSOwV4AEO9Iq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DprQSOwV4AEO9Iq.jpg",
+					"url": "https://t.co/NKm1H6d0BQ",
+					"display_url": "pic.twitter.com/NKm1H6d0BQ",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1052382484984283137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 643,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1190,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1190,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052382474561511400,
+					"id_str": "1052382474561511425",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DprQSOwV4AEO9Iq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DprQSOwV4AEO9Iq.jpg",
+					"url": "https://t.co/NKm1H6d0BQ",
+					"display_url": "pic.twitter.com/NKm1H6d0BQ",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1052382484984283137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 643,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1190,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1190,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65096,
+			"friends_count": 39731,
+			"listed_count": 1291,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16155,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Omg @YouTube is down 😱😱 https://t.co/NKm1H6d0BQ"
+	},
+	{
 		"created_at": "Wed Oct 17 00:54:42 +0000 2018",
 		"id": 1052362232158347300,
 		"id_str": "1052362232158347264",
