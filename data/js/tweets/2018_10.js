@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 17 07:57:02 +0000 2018",
+		"id": 1052468514576052200,
+		"id_str": "1052468514576052224",
+		"full_text": "Honey, I built a #chatbot, but no one will click on my buttons 😭 What to do when users refuse to use your buttons or quick replies | by @debbiediscovers \nhttps://t.co/SpcgDQt5zP #ai #ux #usability https://t.co/qdyumkQB8L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "chatbot",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"text": "ai",
+					"indices": [
+						178,
+						181
+					]
+				},
+				{
+					"text": "ux",
+					"indices": [
+						182,
+						185
+					]
+				},
+				{
+					"text": "usability",
+					"indices": [
+						186,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						136,
+						152
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SpcgDQt5zP",
+					"expanded_url": "https://buff.ly/2CPZRuW",
+					"display_url": "buff.ly/2CPZRuW",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1052468513036734500,
+					"id_str": "1052468513036734464",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/DpseiVDWkAAU8Kv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpseiVDWkAAU8Kv.jpg",
+					"url": "https://t.co/qdyumkQB8L",
+					"display_url": "pic.twitter.com/qdyumkQB8L",
+					"expanded_url": "https://twitter.com/people4research/status/1052468514576052224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052468513036734500,
+					"id_str": "1052468513036734464",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/DpseiVDWkAAU8Kv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpseiVDWkAAU8Kv.jpg",
+					"url": "https://t.co/qdyumkQB8L",
+					"display_url": "pic.twitter.com/qdyumkQB8L",
+					"expanded_url": "https://twitter.com/people4research/status/1052468514576052224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 868031833,
+			"id_str": "868031833",
+			"name": "People for Research",
+			"screen_name": "people4research",
+			"location": "UK",
+			"description": "Participant recruitment experts for UX, user research & more. Tweets by Jess or Maria. Email us for more information at info@peopleforresearch.co.uk.",
+			"url": "http://t.co/MZE7W5dQTq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MZE7W5dQTq",
+							"expanded_url": "http://peopleforresearch.co.uk/",
+							"display_url": "peopleforresearch.co.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2958,
+			"friends_count": 2545,
+			"listed_count": 778,
+			"created_at": "Mon Oct 08 13:51:51 +0000 2012",
+			"favourites_count": 5837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9464,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2F2935",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/816585910104064000/RmwTVZQB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/816585910104064000/RmwTVZQB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/868031833/1483524220",
+			"profile_link_color": "00B7E5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Honey, I built a #chatbot, but no one will click on my buttons 😭 What to do when users refuse to use your buttons or quick replies | by @debbiediscovers \nhttps://t.co/SpcgDQt5zP #ai #ux #usability https://t.co/qdyumkQB8L"
+	},
+	{
 		"created_at": "Thu Oct 18 08:34:13 +0000 2018",
 		"id": 1052840261204828200,
 		"id_str": "1052840261204828160",
