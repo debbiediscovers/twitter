@@ -1,6 +1,565 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 21 10:17:10 +0000 2018",
+		"id": 1053953331352096800,
+		"id_str": "1053953331352096768",
+		"full_text": "In a paper published by the Google Brain and the Deep Mind units of Google, researchers address shortcomings of the field and offer some techniques they hope will bring machine learning farther along the path.  https://t.co/NqhttDTTGf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NqhttDTTGf",
+					"expanded_url": "https://www.zdnet.com/article/google-ponders-the-shortcomings-of-machine-learning/",
+					"display_url": "zdnet.com/article/google…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65086,
+			"friends_count": 37612,
+			"listed_count": 1304,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16229,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In a paper published by the Google Brain and the Deep Mind units of Google, researchers address shortcomings of the field and offer some techniques they hope will bring machine learning farther along the path.  https://t.co/NqhttDTTGf"
+	},
+	{
+		"created_at": "Sun Oct 21 09:08:01 +0000 2018",
+		"id": 1053935931395317800,
+		"id_str": "1053935931395317760",
+		"full_text": "Nice read @debbiediscovers ! Honey, I built a chatbot, but no one will click on my buttons 😭 https://t.co/tsqZI2IqU2 #Bots #Chatbots #UserExperience #UX #ArtificialIntelligence #AI #ux https://t.co/I66VY1kxyG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bots",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "Chatbots",
+					"indices": [
+						123,
+						132
+					]
+				},
+				{
+					"text": "UserExperience",
+					"indices": [
+						133,
+						148
+					]
+				},
+				{
+					"text": "UX",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "ArtificialIntelligence",
+					"indices": [
+						153,
+						176
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						177,
+						180
+					]
+				},
+				{
+					"text": "ux",
+					"indices": [
+						181,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tsqZI2IqU2",
+					"expanded_url": "https://buff.ly/2OCFgR9",
+					"display_url": "buff.ly/2OCFgR9",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1053935929444962300,
+					"id_str": "1053935929444962304",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/DqBVJNKWkAAWuLQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqBVJNKWkAAWuLQ.jpg",
+					"url": "https://t.co/I66VY1kxyG",
+					"display_url": "pic.twitter.com/I66VY1kxyG",
+					"expanded_url": "https://twitter.com/hatzisKOstas/status/1053935931395317760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053935929444962300,
+					"id_str": "1053935929444962304",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/DqBVJNKWkAAWuLQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqBVJNKWkAAWuLQ.jpg",
+					"url": "https://t.co/I66VY1kxyG",
+					"display_url": "pic.twitter.com/I66VY1kxyG",
+					"expanded_url": "https://twitter.com/hatzisKOstas/status/1053935931395317760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 438243111,
+			"id_str": "438243111",
+			"name": "KOstas",
+			"screen_name": "hatzisKOstas",
+			"location": "SoHo NYC - Athens, Greece",
+			"description": "#webdesign #graphicdesign and #UX - comics and tennis issues in updates. Founder of @monospacelabs @awebthatmatters\n Nice stuff: https://t.co/94YCiAINn8",
+			"url": "https://t.co/v2bVsWyEsF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v2bVsWyEsF",
+							"expanded_url": "http://monospacelabs.com",
+							"display_url": "monospacelabs.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/94YCiAINn8",
+							"expanded_url": "http://pub.monospacelabs.com",
+							"display_url": "pub.monospacelabs.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16597,
+			"friends_count": 9551,
+			"listed_count": 880,
+			"created_at": "Fri Dec 16 10:47:36 +0000 2011",
+			"favourites_count": 2177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8682,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/440047011291602944/JScw8n3L_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/440047011291602944/JScw8n3L_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/438243111/1411895728",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C26270",
+			"profile_text_color": "C6A299",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nice read @debbiediscovers ! Honey, I built a chatbot, but no one will click on my buttons 😭 https://t.co/tsqZI2IqU2 #Bots #Chatbots #UserExperience #UX #ArtificialIntelligence #AI #ux https://t.co/I66VY1kxyG"
+	},
+	{
+		"created_at": "Sun Oct 21 09:09:04 +0000 2018",
+		"id": 1053936195141427200,
+		"id_str": "1053936195141427200",
+		"full_text": "@hatzisKOstas https://t.co/hxhrzGLtHm",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hatzisKOstas",
+					"name": "KOstas",
+					"id": 438243111,
+					"id_str": "438243111",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053936183737167900,
+					"id_str": "1053936183737167872",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DqBVYAeVsAAU9ju.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DqBVYAeVsAAU9ju.jpg",
+					"url": "https://t.co/hxhrzGLtHm",
+					"display_url": "pic.twitter.com/hxhrzGLtHm",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1053936195141427200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 262,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 262,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 262,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053936183737167900,
+					"id_str": "1053936183737167872",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DqBVYAeVsAAU9ju.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DqBVYAeVsAAU9ju.jpg",
+					"url": "https://t.co/hxhrzGLtHm",
+					"display_url": "pic.twitter.com/hxhrzGLtHm",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1053936195141427200/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 262,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 262,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 262,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							131,
+							100
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DqBVYAeVsAAU9ju.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1053935931395317800,
+		"in_reply_to_status_id_str": "1053935931395317760",
+		"in_reply_to_user_id": 438243111,
+		"in_reply_to_user_id_str": "438243111",
+		"in_reply_to_screen_name": "hatzisKOstas",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | Global Education Advocate | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65086,
+			"friends_count": 37612,
+			"listed_count": 1304,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16229,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@hatzisKOstas https://t.co/hxhrzGLtHm"
+	},
+	{
 		"created_at": "Sun Oct 21 09:08:01 +0000 2018",
 		"id": 1053935931395317800,
 		"id_str": "1053935931395317760",
