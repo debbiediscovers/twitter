@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 03 10:58:12 +0000 2018",
+		"id": 1058674701025796100,
+		"id_str": "1058674701025796098",
+		"full_text": "@ApparitionK Thanks for sharing!!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ApparitionK",
+					"name": "アパくん",
+					"id": 245285345,
+					"id_str": "245285345",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1058670941318737900,
+		"in_reply_to_status_id_str": "1058670941318737920",
+		"in_reply_to_user_id": 245285345,
+		"in_reply_to_user_id_str": "245285345",
+		"in_reply_to_screen_name": "ApparitionK",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57993,
+			"friends_count": 30350,
+			"listed_count": 1278,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16357,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ApparitionK Thanks for sharing!!"
+	},
+	{
+		"created_at": "Sat Nov 03 10:43:16 +0000 2018",
+		"id": 1058670941318737900,
+		"id_str": "1058670941318737920",
+		"full_text": "Using Context and Entities in Dialogflow to respond to users jokes (Part 4: Knock Knock Jokes) by @debbiediscovers https://t.co/ERVC8YHfnk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						98,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ERVC8YHfnk",
+					"expanded_url": "https://chatbotslife.com/using-context-and-entities-in-dialogflow-to-respond-to-users-jokes-part-4-knock-knock-jokes-97b2727cfbad",
+					"display_url": "chatbotslife.com/using-context-…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245285345,
+			"id_str": "245285345",
+			"name": "アパくん",
+			"screen_name": "ApparitionK",
+			"location": "SW-3593-2129-1805",
+			"description": "I.Qが２",
+			"url": "https://t.co/J3Q7s3dG3d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J3Q7s3dG3d",
+							"expanded_url": "http://appachan.github.io",
+							"display_url": "appachan.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 982,
+			"listed_count": 28,
+			"created_at": "Mon Jan 31 09:53:16 +0000 2011",
+			"favourites_count": 34589,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59782,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/827724598078693376/SHqG80Oa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/827724598078693376/SHqG80Oa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245285345/1498832057",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Using Context and Entities in Dialogflow to respond to users jokes (Part 4: Knock Knock Jokes) by @debbiediscovers https://t.co/ERVC8YHfnk"
+	},
+	{
 		"created_at": "Sat Nov 03 08:32:52 +0000 2018",
 		"id": 1058638128259379200,
 		"id_str": "1058638128259379200",
