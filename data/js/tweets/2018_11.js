@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 02 19:27:22 +0000 2018",
+		"id": 1058440448753221600,
+		"id_str": "1058440448753221632",
+		"full_text": "Brad Pitt and @LeoDiCaprio are urging all Americans to go beyond just voting on November 6th. Here's how you can make a difference and change the future of our country. https://t.co/r2gANn2zwm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeoDiCaprio",
+					"name": "Leonardo DiCaprio",
+					"id": 133880286,
+					"id_str": "133880286",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1058432556159430700,
+					"id_str": "1058432556159430656",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/DrBPnmSXQAEGYlX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrBPnmSXQAEGYlX.jpg",
+					"url": "https://t.co/r2gANn2zwm",
+					"display_url": "pic.twitter.com/r2gANn2zwm",
+					"expanded_url": "https://twitter.com/nowthisnews/status/1058440448753221632/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1058432556159430700,
+					"id_str": "1058432556159430656",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/DrBPnmSXQAEGYlX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrBPnmSXQAEGYlX.jpg",
+					"url": "https://t.co/r2gANn2zwm",
+					"display_url": "pic.twitter.com/r2gANn2zwm",
+					"expanded_url": "https://twitter.com/nowthisnews/status/1058440448753221632/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 251785,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1058432556159430656/vid/480x480/O0wsLxY3VfM9sDgR.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1058432556159430656/pl/Gb1TPPMfwvGsv7w4.m3u8?tag=8"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1058432556159430656/vid/240x240/seGEHksTlSai3MEm.mp4?tag=8"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1058432556159430656/vid/720x720/USOBGFPC6di2f1i-.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Leonardo DiCaprio, Brad Pitt on What's at Stake in the 2018 Midterms",
+						"description": "Leonardo DiCaprio and Brad Pitt are urging all Americans to go beyond just voting on November 6th. Here's how you can make a difference and change the future of our country.",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 701725963,
+			"id_str": "701725963",
+			"name": "NowThis",
+			"screen_name": "nowthisnews",
+			"location": "The Internet & NYC",
+			"description": "Stories that move.",
+			"url": "http://t.co/1NLX7sJ52o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1NLX7sJ52o",
+							"expanded_url": "http://nowthisnews.com/",
+							"display_url": "nowthisnews.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2113805,
+			"friends_count": 12315,
+			"listed_count": 7718,
+			"created_at": "Tue Jul 17 20:31:08 +0000 2012",
+			"favourites_count": 12103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 107521,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7FDBB6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013778236734504966/HWM6Dh-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013778236734504966/HWM6Dh-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/701725963/1528239770",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9538,
+		"favorite_count": 19969,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brad Pitt and @LeoDiCaprio are urging all Americans to go beyond just voting on November 6th. Here's how you can make a difference and change the future of our country. https://t.co/r2gANn2zwm"
+	},
+	{
+		"created_at": "Mon Nov 05 20:18:14 +0000 2018",
+		"id": 1059540414984708100,
+		"id_str": "1059540414984708096",
+		"full_text": "Please #vote 🇺🇸 https://t.co/nXHZ1EjfhT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "vote",
+					"indices": [
+						7,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nXHZ1EjfhT",
+					"expanded_url": "https://twitter.com/barackobama/status/1059517317011398656",
+					"display_url": "twitter.com/barackobama/st…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57067,
+			"friends_count": 32184,
+			"listed_count": 1276,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16380,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1059517317011398700,
+		"quoted_status_id_str": "1059517317011398656",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nXHZ1EjfhT",
+			"expanded": "https://twitter.com/barackobama/status/1059517317011398656",
+			"display": "twitter.com/barackobama/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 05 18:46:27 +0000 2018",
+			"id": 1059517317011398700,
+			"id_str": "1059517317011398656",
+			"full_text": "Tomorrow’s elections might be the most important of our lifetimes. The health care of millions is on the ballot. Making sure working families get a fair shake is on the ballot. The character of our country is on the ballot.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				223
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 813286,
+				"id_str": "813286",
+				"name": "Barack Obama",
+				"screen_name": "BarackObama",
+				"location": "Washington, DC",
+				"description": "Dad, husband, President, citizen.",
+				"url": "https://t.co/93Y27HEnnX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/93Y27HEnnX",
+								"expanded_url": "https://www.obama.org/",
+								"display_url": "obama.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 103573775,
+				"friends_count": 618139,
+				"listed_count": 229385,
+				"created_at": "Mon Mar 05 22:08:25 +0000 2007",
+				"favourites_count": 11,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 15543,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "77B0DC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+				"profile_link_color": "2574AD",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C2E0F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33650,
+			"favorite_count": 102870,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please #vote 🇺🇸 https://t.co/nXHZ1EjfhT"
+	},
+	{
 		"created_at": "Mon Nov 05 20:01:01 +0000 2018",
 		"id": 1059536078841860100,
 		"id_str": "1059536078841860096",
