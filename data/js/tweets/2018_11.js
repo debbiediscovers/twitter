@@ -1,6 +1,972 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 05 20:01:01 +0000 2018",
+		"id": 1059536078841860100,
+		"id_str": "1059536078841860096",
+		"full_text": "#Agree!!! 🙌 https://t.co/34ZHbw9N8J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Agree",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/34ZHbw9N8J",
+					"expanded_url": "https://twitter.com/ungeneva/status/1059529281376673792",
+					"display_url": "twitter.com/ungeneva/statu…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57075,
+			"friends_count": 32156,
+			"listed_count": 1282,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16378,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1059529281376673800,
+		"quoted_status_id_str": "1059529281376673792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/34ZHbw9N8J",
+			"expanded": "https://twitter.com/ungeneva/status/1059529281376673792",
+			"display": "twitter.com/ungeneva/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 05 19:34:00 +0000 2018",
+			"id": 1059529281376673800,
+			"id_str": "1059529281376673792",
+			"full_text": "750 million youth and adults globally are still illiterate. \n\nEveryone must have access to literacy and skills development throughout life to live and work decently 👩💼👨🏭. \n\nDo you agree? https://t.co/AOTGZPnMXr #RightToEducation #Standup4HumanRights https://t.co/PU9FpZHl7G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				249
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RightToEducation",
+						"indices": [
+							211,
+							228
+						]
+					},
+					{
+						"text": "Standup4HumanRights",
+						"indices": [
+							229,
+							249
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AOTGZPnMXr",
+						"expanded_url": "https://on.unesco.org/righttoeducation",
+						"display_url": "on.unesco.org/righttoeducati…",
+						"indices": [
+							187,
+							210
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1055802204811079700,
+						"id_str": "1055802204811079681",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/Dqb2gurWsAECE_b.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dqb2gurWsAECE_b.jpg",
+						"url": "https://t.co/PU9FpZHl7G",
+						"display_url": "pic.twitter.com/PU9FpZHl7G",
+						"expanded_url": "https://twitter.com/UNGeneva/status/1059529281376673792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 863,
+								"h": 454,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 863,
+								"h": 454,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 358,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1055802204811079700,
+						"id_str": "1055802204811079681",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/Dqb2gurWsAECE_b.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dqb2gurWsAECE_b.jpg",
+						"url": "https://t.co/PU9FpZHl7G",
+						"display_url": "pic.twitter.com/PU9FpZHl7G",
+						"expanded_url": "https://twitter.com/UNGeneva/status/1059529281376673792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 863,
+								"h": 454,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 863,
+								"h": 454,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 358,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 164263382,
+				"id_str": "164263382",
+				"name": "UN Geneva",
+				"screen_name": "UNGeneva",
+				"location": "Geneva, Switzerland",
+				"description": "Official account of the United Nations Office at Geneva (#UNOG). Also https://t.co/fRp4tb2Jvt, https://t.co/inf8Qc1HUH, Director-General @UNOG_DG",
+				"url": "https://t.co/0lAlslVJLC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0lAlslVJLC",
+								"expanded_url": "http://www.unog.ch",
+								"display_url": "unog.ch",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/fRp4tb2Jvt",
+								"expanded_url": "http://www.facebook.com/UNGeneva",
+								"display_url": "facebook.com/UNGeneva",
+								"indices": [
+									70,
+									93
+								]
+							},
+							{
+								"url": "https://t.co/inf8Qc1HUH",
+								"expanded_url": "http://Instagram.com/ungeneva",
+								"display_url": "Instagram.com/ungeneva",
+								"indices": [
+									95,
+									118
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 362778,
+				"friends_count": 1410,
+				"listed_count": 2539,
+				"created_at": "Thu Jul 08 12:55:16 +0000 2010",
+				"favourites_count": 15230,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 42823,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6DDF7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/946007309700026369/irHahUwS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/946007309700026369/irHahUwS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/164263382/1507918370",
+				"profile_link_color": "1E0DA1",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#Agree!!! 🙌 https://t.co/34ZHbw9N8J"
+	},
+	{
+		"created_at": "Mon Nov 05 20:00:30 +0000 2018",
+		"id": 1059535948659097600,
+		"id_str": "1059535948659097601",
+		"full_text": "@UNGeneva @TheMichiWay3 Agree!! 🙌",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UNGeneva",
+					"name": "UN Geneva",
+					"id": 164263382,
+					"id_str": "164263382",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "TheMichiWay3",
+					"name": "Michelle Basilio",
+					"id": 46511110,
+					"id_str": "46511110",
+					"indices": [
+						10,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1059529281376673800,
+		"in_reply_to_status_id_str": "1059529281376673792",
+		"in_reply_to_user_id": 164263382,
+		"in_reply_to_user_id_str": "164263382",
+		"in_reply_to_screen_name": "UNGeneva",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57075,
+			"friends_count": 32156,
+			"listed_count": 1282,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16378,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@UNGeneva @TheMichiWay3 Agree!! 🙌"
+	},
+	{
+		"created_at": "Mon Nov 05 06:38:53 +0000 2018",
+		"id": 1059334215609663500,
+		"id_str": "1059334215609663488",
+		"full_text": "#READTHIS! 14 #Confidence Quotes to Help You Beat Self-Doubt and Achieve Your Goals https://t.co/tOH4Rn1dyU by @kayoung",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "READTHIS",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "Confidence",
+					"indices": [
+						14,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kayoung",
+					"name": "Kyle Young",
+					"id": 775143919533391900,
+					"id_str": "775143919533391873",
+					"indices": [
+						111,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tOH4Rn1dyU",
+					"expanded_url": "https://buff.ly/2D28wcY",
+					"display_url": "buff.ly/2D28wcY",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57075,
+			"friends_count": 32156,
+			"listed_count": 1282,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16378,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#READTHIS! 14 #Confidence Quotes to Help You Beat Self-Doubt and Achieve Your Goals https://t.co/tOH4Rn1dyU by @kayoung"
+	},
+	{
+		"created_at": "Mon Nov 05 11:47:59 +0000 2018",
+		"id": 1059412004895522800,
+		"id_str": "1059412004895522816",
+		"full_text": "Some things never change 🙃 https://t.co/9AYJJR9yyU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1059411992396492800,
+					"id_str": "1059411992396492805",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/DrPJmBWU8AU9Gu4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrPJmBWU8AU9Gu4.jpg",
+					"url": "https://t.co/9AYJJR9yyU",
+					"display_url": "pic.twitter.com/9AYJJR9yyU",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1059412004895522816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1059411992396492800,
+					"id_str": "1059411992396492805",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/DrPJmBWU8AU9Gu4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrPJmBWU8AU9Gu4.jpg",
+					"url": "https://t.co/9AYJJR9yyU",
+					"display_url": "pic.twitter.com/9AYJJR9yyU",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1059412004895522816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1059407042866081800,
+		"in_reply_to_status_id_str": "1059407042866081792",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57075,
+			"friends_count": 32156,
+			"listed_count": 1282,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16378,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some things never change 🙃 https://t.co/9AYJJR9yyU"
+	},
+	{
+		"created_at": "Mon Nov 05 16:45:13 +0000 2018",
+		"id": 1059486806960414700,
+		"id_str": "1059486806960414720",
+		"full_text": "Many things can wait. Children cannot. \n#globaleducation #goal4 #donatenow\n\nDonate $35 and put a child through school for one whole year. Donate here 👇 https://t.co/rRaibJdNQq https://t.co/RCgjjQMuqd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "globaleducation",
+					"indices": [
+						40,
+						56
+					]
+				},
+				{
+					"text": "goal4",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "donatenow",
+					"indices": [
+						64,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rRaibJdNQq",
+					"expanded_url": "https://deb.bi/WantstoBuilda4thSchool-Donate",
+					"display_url": "deb.bi/WantstoBuilda4…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1059486802183184400,
+					"id_str": "1059486802183184385",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/DrQNohhX4AEqW3F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrQNohhX4AEqW3F.jpg",
+					"url": "https://t.co/RCgjjQMuqd",
+					"display_url": "pic.twitter.com/RCgjjQMuqd",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1059486806960414720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1059486802183184400,
+					"id_str": "1059486802183184385",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/DrQNohhX4AEqW3F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrQNohhX4AEqW3F.jpg",
+					"url": "https://t.co/RCgjjQMuqd",
+					"display_url": "pic.twitter.com/RCgjjQMuqd",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1059486806960414720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57075,
+			"friends_count": 32156,
+			"listed_count": 1282,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16378,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Many things can wait. Children cannot. \n#globaleducation #goal4 #donatenow\n\nDonate $35 and put a child through school for one whole year. Donate here 👇 https://t.co/rRaibJdNQq https://t.co/RCgjjQMuqd"
+	},
+	{
 		"created_at": "Mon Nov 05 11:47:59 +0000 2018",
 		"id": 1059412004895522800,
 		"id_str": "1059412004895522816",
