@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Oct 24 23:56:08 +0000 2018",
+		"id": 1055246596676378600,
+		"id_str": "1055246596676378624",
+		"full_text": "#NEWPOST by @GregKononenko Free Traffic Sources: Explode Your Website With High Quality Traffic – Fast!  \n\nCheck out my 2 tips for driving free traffic in this post! (p.s. one of the tips is I use @agorapulse.. )  \n\nhttps://t.co/3MaFZ5IHXj https://t.co/WbcFVkkRAH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWPOST",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GregKononenko",
+					"name": "Greg Kononenko",
+					"id": 202458216,
+					"id_str": "202458216",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "AgoraPulse",
+					"name": "AgoraPulse",
+					"id": 281546383,
+					"id_str": "281546383",
+					"indices": [
+						197,
+						208
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3MaFZ5IHXj",
+					"expanded_url": "https://www.caffeinatedblogger.com/free-traffic-sources/",
+					"display_url": "caffeinatedblogger.com/free-traffic-s…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1055246084669268000,
+					"id_str": "1055246084669267968",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/DqT8uRtVYAAjkXr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqT8uRtVYAAjkXr.jpg",
+					"url": "https://t.co/WbcFVkkRAH",
+					"display_url": "pic.twitter.com/WbcFVkkRAH",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1055246596676378624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 789,
+							"h": 421,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 363,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 789,
+							"h": 421,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1055246084669268000,
+					"id_str": "1055246084669267968",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/DqT8uRtVYAAjkXr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqT8uRtVYAAjkXr.jpg",
+					"url": "https://t.co/WbcFVkkRAH",
+					"display_url": "pic.twitter.com/WbcFVkkRAH",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1055246596676378624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 789,
+							"h": 421,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 363,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 789,
+							"h": 421,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57002,
+			"friends_count": 31868,
+			"listed_count": 1278,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16370,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#NEWPOST by @GregKononenko Free Traffic Sources: Explode Your Website With High Quality Traffic – Fast!  \n\nCheck out my 2 tips for driving free traffic in this post! (p.s. one of the tips is I use @agorapulse.. )  \n\nhttps://t.co/3MaFZ5IHXj https://t.co/WbcFVkkRAH"
+	},
+	{
+		"created_at": "Mon Oct 15 16:45:15 +0000 2018",
+		"id": 1051876670930604000,
+		"id_str": "1051876670930604032",
+		"full_text": "Here's how you can get followers on Twitter for free with only 15 minutes of effort each day! \n\nThis tutorial is simple. Just follow along and I guarantee you will see results in no time! #Twitter https://t.co/MnrION8UeO https://t.co/mygU786iX9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						188,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MnrION8UeO",
+					"expanded_url": "https://digitaldiscovery.sg/blog/get-followers-twitter/",
+					"display_url": "digitaldiscovery.sg/blog/get-follo…",
+					"indices": [
+						197,
+						220
+					]
+				},
+				{
+					"url": "https://t.co/mygU786iX9",
+					"expanded_url": "https://digitaldiscovery.sg/blog/get-followers-twitter/?utm_source=agorapulse&utm_medium=social&utm_campaign=gain-followers",
+					"display_url": "digitaldiscovery.sg/blog/get-follo…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57002,
+			"friends_count": 31868,
+			"listed_count": 1278,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16370,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's how you can get followers on Twitter for free with only 15 minutes of effort each day! \n\nThis tutorial is simple. Just follow along and I guarantee you will see results in no time! #Twitter https://t.co/MnrION8UeO https://t.co/mygU786iX9"
+	},
+	{
 		"created_at": "Sun Nov 04 17:01:06 +0000 2018",
 		"id": 1059128415259951100,
 		"id_str": "1059128415259951105",
