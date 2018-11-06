@@ -49,6 +49,101 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 42461,
+			"friends_count": 539,
+			"listed_count": 615,
+			"created_at": "Thu Dec 17 18:28:23 +0000 2009",
+			"favourites_count": 168708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15653,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1000650487425724416/ycfwX_Lz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000650487425724416/ycfwX_Lz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/97498167/1461857420",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 165,
+		"favorite_count": 560,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Tomorrow's horoscope:\nScorpio: VOTE\nSagittarius: VOTE\nCapricorn: VOTE\nAquarius: VOTE\nPieces: VOTE\nAries: VOTE\nTaurus: VOTE\nGemini: VOTE (both of you)\nCancer: VOTE\nLeo: VOTE \nVirgo: VOTE\nLibra: VOTE"
+	},
+	{
+		"created_at": "Mon Nov 05 20:54:43 +0000 2018",
+		"id": 1059549595884150800,
+		"id_str": "1059549595884150784",
+		"full_text": "Tomorrow's horoscope:\nScorpio: VOTE\nSagittarius: VOTE\nCapricorn: VOTE\nAquarius: VOTE\nPieces: VOTE\nAries: VOTE\nTaurus: VOTE\nGemini: VOTE (both of you)\nCancer: VOTE\nLeo: VOTE \nVirgo: VOTE\nLibra: VOTE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 97498167,
+			"id_str": "97498167",
+			"name": "Eden Dranger",
+			"screen_name": "Eden_Eats",
+			"location": "Los Angeles",
+			"description": "\"STRONG FEMALE CHARACTER\" (screenwriter and performer and hella tired)",
+			"url": "https://t.co/CLQMVpwW4R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CLQMVpwW4R",
+							"expanded_url": "http://www.edendranger.com/",
+							"display_url": "edendranger.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 42459,
 			"friends_count": 539,
 			"listed_count": 611,
