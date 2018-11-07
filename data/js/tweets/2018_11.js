@@ -1,6 +1,751 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 07 15:07:07 +0000 2018",
+		"id": 1060186892967174100,
+		"id_str": "1060186892967174144",
+		"full_text": "@aiaddysonzhang Yes will try! Thx for invite!!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aiaddysonzhang",
+					"name": "Ai Addyson-Zhang, Ph.D Digital Learning Consultant",
+					"id": 2154802629,
+					"id_str": "2154802629",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1060163404868907000,
+		"in_reply_to_status_id_str": "1060163404868907008",
+		"in_reply_to_user_id": 2154802629,
+		"in_reply_to_user_id_str": "2154802629",
+		"in_reply_to_screen_name": "aiaddysonzhang",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57208,
+			"friends_count": 33060,
+			"listed_count": 1277,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@aiaddysonzhang Yes will try! Thx for invite!!"
+	},
+	{
+		"created_at": "Wed Nov 07 13:33:47 +0000 2018",
+		"id": 1060163404868907000,
+		"id_str": "1060163404868907008",
+		"full_text": "Join if you are interested, @debbiediscovers. We will be discussing chatbots! https://t.co/CAE3fPRVha",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						28,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CAE3fPRVha",
+					"expanded_url": "https://twitter.com/aiaddysonzhang/status/1059561474165624834",
+					"display_url": "twitter.com/aiaddysonzhang…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2154802629,
+			"id_str": "2154802629",
+			"name": "Ai Addyson-Zhang, Ph.D Digital Learning Consultant",
+			"screen_name": "aiaddysonzhang",
+			"location": "South Korea & US",
+			"description": "Prof. Entrepreneur. Featured in @Forbes @InsideHigherEd. Contributor @Entrepreneur @Thrive. Digital Learning & Storytelling. @HubspotAcademy contributor",
+			"url": "https://t.co/vWBno8mc4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vWBno8mc4F",
+							"expanded_url": "https://linktr.ee/aiaddysonzhang",
+							"display_url": "linktr.ee/aiaddysonzhang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9593,
+			"friends_count": 7649,
+			"listed_count": 1359,
+			"created_at": "Sat Oct 26 20:35:52 +0000 2013",
+			"favourites_count": 33404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77111,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004621838868074496/tsCvEJgh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004621838868074496/tsCvEJgh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2154802629/1522832456",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1059561474165624800,
+		"quoted_status_id_str": "1059561474165624834",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CAE3fPRVha",
+			"expanded": "https://twitter.com/aiaddysonzhang/status/1059561474165624834",
+			"display": "twitter.com/aiaddysonzhang…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 05 21:41:55 +0000 2018",
+			"id": 1059561474165624800,
+			"id_str": "1059561474165624834",
+			"full_text": "With an open rate of 70 to 80%, #Facebook messenger chatbots is getting lots of attention. Do you know how to create one?\n\n📅 Join my Facebook live w/ @333socialmedia on Wed Nov 7, 5PM ET, to discuss tools &amp; how to use chatbots to grow businesses\n\nRSVP ➡️ https://t.co/astq6MR3PX https://t.co/waA8FBCong",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				282
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Facebook",
+						"indices": [
+							32,
+							41
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "333socialmedia",
+						"name": "@Crystal",
+						"id": 3279947430,
+						"id_str": "3279947430",
+						"indices": [
+							150,
+							165
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/astq6MR3PX",
+						"expanded_url": "http://bit.ly/2zsGowc",
+						"display_url": "bit.ly/2zsGowc",
+						"indices": [
+							259,
+							282
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1059561459326246900,
+						"id_str": "1059561459326246912",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/DrRRiJDV4AA9ebx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrRRiJDV4AA9ebx.jpg",
+						"url": "https://t.co/waA8FBCong",
+						"display_url": "pic.twitter.com/waA8FBCong",
+						"expanded_url": "https://twitter.com/aiaddysonzhang/status/1059561474165624834/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1059561459326246900,
+						"id_str": "1059561459326246912",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/DrRRiJDV4AA9ebx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrRRiJDV4AA9ebx.jpg",
+						"url": "https://t.co/waA8FBCong",
+						"display_url": "pic.twitter.com/waA8FBCong",
+						"expanded_url": "https://twitter.com/aiaddysonzhang/status/1059561474165624834/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2154802629,
+				"id_str": "2154802629",
+				"name": "Ai Addyson-Zhang, Ph.D Digital Learning Consultant",
+				"screen_name": "aiaddysonzhang",
+				"location": "South Korea & US",
+				"description": "Prof. Entrepreneur. Featured in @Forbes @InsideHigherEd. Contributor @Entrepreneur @Thrive. Digital Learning & Storytelling. @HubspotAcademy contributor",
+				"url": "https://t.co/vWBno8mc4F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vWBno8mc4F",
+								"expanded_url": "https://linktr.ee/aiaddysonzhang",
+								"display_url": "linktr.ee/aiaddysonzhang",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9593,
+				"friends_count": 7649,
+				"listed_count": 1359,
+				"created_at": "Sat Oct 26 20:35:52 +0000 2013",
+				"favourites_count": 33404,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 77111,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004621838868074496/tsCvEJgh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004621838868074496/tsCvEJgh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2154802629/1522832456",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join if you are interested, @debbiediscovers. We will be discussing chatbots! https://t.co/CAE3fPRVha"
+	},
+	{
+		"created_at": "Tue Nov 06 15:53:49 +0000 2018",
+		"id": 1059836257738678300,
+		"id_str": "1059836257738678272",
+		"full_text": "Habits of Highly Successful Digitally Transformed CMOs https://t.co/CaXrY73222",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CaXrY73222",
+					"expanded_url": "https://buff.ly/2PGAkdO",
+					"display_url": "buff.ly/2PGAkdO",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 746360730920718300,
+			"id_str": "746360730920718336",
+			"name": "Digital Futurist",
+			"screen_name": "digitalfuturist",
+			"location": "In the Digital Future",
+			"description": "Serving #AI content on #DigitalDisruption, #DigitalTransformation. In the digital future, we are all dead. The future of digital is now.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6697,
+			"friends_count": 4807,
+			"listed_count": 71,
+			"created_at": "Fri Jun 24 15:14:00 +0000 2016",
+			"favourites_count": 388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1969,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/751328844389376000/nRhNMn0W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/751328844389376000/nRhNMn0W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/746360730920718336/1467951506",
+			"profile_link_color": "36E2BE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Habits of Highly Successful Digitally Transformed CMOs https://t.co/CaXrY73222"
+	},
+	{
+		"created_at": "Wed Nov 07 00:08:00 +0000 2018",
+		"id": 1059960622346092500,
+		"id_str": "1059960622346092544",
+		"full_text": "Startup like a girl: why investors should pay more attention to female entrepreneurs https://t.co/LuirSTQpwl #entrepreneurs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "entrepreneurs",
+					"indices": [
+						109,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LuirSTQpwl",
+					"expanded_url": "https://www.theguardian.com/sustainable-business/2017/apr/03/startup-like-a-girl-why-investors-should-pay-more-attention-to-female-entrepreneurs",
+					"display_url": "theguardian.com/sustainable-bu…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 721241974880120800,
+			"id_str": "721241974880120832",
+			"name": "Steph L Lee",
+			"screen_name": "hipsterkidster",
+			"location": "",
+			"description": "Professional and Commercial Model. Social Media Concierge.",
+			"url": "https://t.co/oZVDvIEirc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oZVDvIEirc",
+							"expanded_url": "http://hipsterkidster.com",
+							"display_url": "hipsterkidster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3384,
+			"friends_count": 2611,
+			"listed_count": 35,
+			"created_at": "Sat Apr 16 07:41:01 +0000 2016",
+			"favourites_count": 494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2884,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958178636313477120/5cfr6OYe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958178636313477120/5cfr6OYe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/721241974880120832/1517282599",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Startup like a girl: why investors should pay more attention to female entrepreneurs https://t.co/LuirSTQpwl #entrepreneurs"
+	},
+	{
+		"created_at": "Tue Nov 06 22:28:47 +0000 2018",
+		"id": 1059935653813776400,
+		"id_str": "1059935653813776384",
+		"full_text": "\"The biggest takeaway from Sephora as a case study is to understand that your customers have pain points in their journey, and you need to solve those specific pain points\" https://t.co/gIe1xU8PEw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gIe1xU8PEw",
+					"expanded_url": "https://www.techrepublic.com/article/how-sephora-is-leveraging-ar-and-ai-to-transform-retail-and-help-customers-buy-cosmetics/",
+					"display_url": "techrepublic.com/article/how-se…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57208,
+			"friends_count": 33060,
+			"listed_count": 1277,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 17990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The biggest takeaway from Sephora as a case study is to understand that your customers have pain points in their journey, and you need to solve those specific pain points\" https://t.co/gIe1xU8PEw"
+	},
+	{
 		"created_at": "Wed Nov 07 00:08:00 +0000 2018",
 		"id": 1059960622346092500,
 		"id_str": "1059960622346092544",
