@@ -81,6 +81,373 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 56481,
+			"friends_count": 33030,
+			"listed_count": 1283,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16395,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hackers infect nearly 700,000 sites with Bitcoin-stealing malware #cryptocurrency #brc #bitcoin https://t.co/I1rapQDATx"
+	},
+	{
+		"created_at": "Thu Nov 08 06:30:14 +0000 2018",
+		"id": 1060419202031349800,
+		"id_str": "1060419202031349760",
+		"full_text": "💰💰💰 Money post. A roundup of all @buffer’s social media guides by @alfred_lua  Bookmark now! 📌 https://t.co/TNPpu9wwZE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "buffer",
+					"name": "Buffer",
+					"id": 197962366,
+					"id_str": "197962366",
+					"indices": [
+						33,
+						40
+					]
+				},
+				{
+					"screen_name": "alfred_lua",
+					"name": "Alfred Lua 🏊🏻‍♂️🚴🏻‍♂️🏃🏻‍♂️",
+					"id": 1303155157,
+					"id_str": "1303155157",
+					"indices": [
+						66,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TNPpu9wwZE",
+					"expanded_url": "https://twitter.com/alfred_lua/status/1059834545921576961",
+					"display_url": "twitter.com/alfred_lua/sta…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56481,
+			"friends_count": 33030,
+			"listed_count": 1283,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16395,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1059834545921577000,
+		"quoted_status_id_str": "1059834545921576961",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TNPpu9wwZE",
+			"expanded": "https://twitter.com/alfred_lua/status/1059834545921576961",
+			"display": "twitter.com/alfred_lua/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 06 15:47:01 +0000 2018",
+			"id": 1059834545921577000,
+			"id_str": "1059834545921576961",
+			"full_text": "Last week, at a digital marketing event, I mentioned our blog and someone asked me what to do on our blog (read everything or what?) - great question! So I quickly put together this index of our top guides and link it from the navigation (\"Start Here\"). https://t.co/psddWLydHb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/psddWLydHb",
+						"expanded_url": "https://blog.bufferapp.com/guides-and-resources",
+						"display_url": "blog.bufferapp.com/guides-and-res…",
+						"indices": [
+							254,
+							277
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1303155157,
+				"id_str": "1303155157",
+				"name": "Alfred Lua 🏊🏻‍♂️🚴🏻‍♂️🏃🏻‍♂️",
+				"screen_name": "alfred_lua",
+				"location": "Singapore",
+				"description": "Growth Editor @buffer | 🏊🏻🚴🏻🏃🏻",
+				"url": "https://t.co/Z3morbRxph",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Z3morbRxph",
+								"expanded_url": "http://alfredlua.com",
+								"display_url": "alfredlua.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3463,
+				"friends_count": 439,
+				"listed_count": 392,
+				"created_at": "Tue Mar 26 09:08:27 +0000 2013",
+				"favourites_count": 21609,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13742,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1014806122882973701/Ap1mtl0V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1014806122882973701/Ap1mtl0V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1303155157/1539005977",
+				"profile_link_color": "34495E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💰💰💰 Money post. A roundup of all @buffer’s social media guides by @alfred_lua  Bookmark now! 📌 https://t.co/TNPpu9wwZE"
+	},
+	{
+		"created_at": "Thu Nov 08 10:49:43 +0000 2018",
+		"id": 1060484506640154600,
+		"id_str": "1060484506640154624",
+		"full_text": "Hackers infect nearly 700,000 sites with Bitcoin-stealing malware #cryptocurrency #brc #bitcoin https://t.co/I1rapQDATx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cryptocurrency",
+					"indices": [
+						66,
+						81
+					]
+				},
+				{
+					"text": "brc",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "bitcoin",
+					"indices": [
+						87,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I1rapQDATx",
+					"expanded_url": "https://buff.ly/2PMiNkp",
+					"display_url": "buff.ly/2PMiNkp",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 56479,
 			"friends_count": 33038,
 			"listed_count": 1281,
@@ -154,7 +521,7 @@ Grailbird.data.tweets_2018_11 =
 				},
 				{
 					"screen_name": "alfred_lua",
-					"name": "Alfred Lua 🏊🏻‍♂️🚴🏻‍♂️🏃🏻‍♂️",
+					"name": "Alfred Lua 🏊🏻♂️🚴🏻♂️🏃🏻♂️",
 					"id": 1303155157,
 					"id_str": "1303155157",
 					"indices": [
@@ -289,7 +656,7 @@ Grailbird.data.tweets_2018_11 =
 			"user": {
 				"id": 1303155157,
 				"id_str": "1303155157",
-				"name": "Alfred Lua 🏊🏻‍♂️🚴🏻‍♂️🏃🏻‍♂️",
+				"name": "Alfred Lua 🏊🏻♂️🚴🏻♂️🏃🏻♂️",
 				"screen_name": "alfred_lua",
 				"location": "Singapore",
 				"description": "Growth Editor @buffer | 🏊🏻🚴🏻🏃🏻",
