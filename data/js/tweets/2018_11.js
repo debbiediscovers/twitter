@@ -1,6 +1,676 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 08 00:47:44 +0000 2018",
+		"id": 1060333010673750000,
+		"id_str": "1060333010673750017",
+		"full_text": "If you are NOT following this smart and awesome lady, you have to!!!!!!\n\nShe created her own chatbots! Look at how cute her bot is! Wow. https://t.co/Kr25ZbfV2A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kr25ZbfV2A",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1060327727603957761",
+					"display_url": "twitter.com/debbiediscover…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2154802629,
+			"id_str": "2154802629",
+			"name": "Ai Addyson-Zhang, Ph.D Digital Learning Consultant",
+			"screen_name": "aiaddysonzhang",
+			"location": "South Korea & US",
+			"description": "Prof. Entrepreneur. Featured in @Forbes @InsideHigherEd. Contributor @Entrepreneur @Thrive. Digital Learning & Storytelling. @HubspotAcademy contributor",
+			"url": "https://t.co/vWBno8mc4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vWBno8mc4F",
+							"expanded_url": "https://linktr.ee/aiaddysonzhang",
+							"display_url": "linktr.ee/aiaddysonzhang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9597,
+			"friends_count": 7653,
+			"listed_count": 1359,
+			"created_at": "Sat Oct 26 20:35:52 +0000 2013",
+			"favourites_count": 33418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77163,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004621838868074496/tsCvEJgh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004621838868074496/tsCvEJgh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2154802629/1522832456",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1060327727603957800,
+		"quoted_status_id_str": "1060327727603957761",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Kr25ZbfV2A",
+			"expanded": "https://twitter.com/debbiediscovers/status/1060327727603957761",
+			"display": "twitter.com/debbiediscover…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 08 00:26:44 +0000 2018",
+			"id": 1060327727603957800,
+			"id_str": "1060327727603957761",
+			"full_text": "@aiaddysonzhang Yes! Love them!! Have built 5! One for my lipstick startup and for the sailing federation too (see attached avatar!! Her name is sammy and my sailors love her! I write about chatbots on https://t.co/GYAGD84DOq and https://t.co/QRO0pEEzsv Check it out https://t.co/FxyT4U4F30 https://t.co/EesdPCX5dr",
+			"truncated": false,
+			"display_text_range": [
+				16,
+				290
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "aiaddysonzhang",
+						"name": "Ai Addyson-Zhang, Ph.D Digital Learning Consultant",
+						"id": 2154802629,
+						"id_str": "2154802629",
+						"indices": [
+							0,
+							15
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/GYAGD84DOq",
+						"expanded_url": "http://chatbotslife.com",
+						"display_url": "chatbotslife.com",
+						"indices": [
+							202,
+							225
+						]
+					},
+					{
+						"url": "https://t.co/QRO0pEEzsv",
+						"expanded_url": "http://uxdesign.cc",
+						"display_url": "uxdesign.cc",
+						"indices": [
+							230,
+							253
+						]
+					},
+					{
+						"url": "https://t.co/FxyT4U4F30",
+						"expanded_url": "https://medium.com/@debbiediscovers",
+						"display_url": "medium.com/@debbiediscove…",
+						"indices": [
+							267,
+							290
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1060327533818728400,
+						"id_str": "1060327533818728453",
+						"indices": [
+							291,
+							314
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DrcKRi7U0AUEI_L.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrcKRi7U0AUEI_L.jpg",
+						"url": "https://t.co/EesdPCX5dr",
+						"display_url": "pic.twitter.com/EesdPCX5dr",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/1060327727603957761/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1060327533818728400,
+						"id_str": "1060327533818728453",
+						"indices": [
+							291,
+							314
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DrcKRi7U0AUEI_L.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrcKRi7U0AUEI_L.jpg",
+						"url": "https://t.co/EesdPCX5dr",
+						"display_url": "pic.twitter.com/EesdPCX5dr",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/1060327727603957761/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DrcKRi7U0AUEI_L.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1060326094031573000,
+			"in_reply_to_status_id_str": "1060326094031572992",
+			"in_reply_to_user_id": 2154802629,
+			"in_reply_to_user_id_str": "2154802629",
+			"in_reply_to_screen_name": "aiaddysonzhang",
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore, London, New York",
+				"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 56433,
+				"friends_count": 33554,
+				"listed_count": 1282,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 18013,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16390,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you are NOT following this smart and awesome lady, you have to!!!!!!\n\nShe created her own chatbots! Look at how cute her bot is! Wow. https://t.co/Kr25ZbfV2A"
+	},
+	{
+		"created_at": "Thu Nov 08 01:04:29 +0000 2018",
+		"id": 1060337224292548600,
+		"id_str": "1060337224292548608",
+		"full_text": "@aiaddysonzhang Haha thanks for shoutout! 😊 I can recommend the artist who did this, for your own chatbot. I'll PM you.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aiaddysonzhang",
+					"name": "Ai Addyson-Zhang, Ph.D Digital Learning Consultant",
+					"id": 2154802629,
+					"id_str": "2154802629",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1060333010673750000,
+		"in_reply_to_status_id_str": "1060333010673750017",
+		"in_reply_to_user_id": 2154802629,
+		"in_reply_to_user_id_str": "2154802629",
+		"in_reply_to_screen_name": "aiaddysonzhang",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56433,
+			"friends_count": 33554,
+			"listed_count": 1282,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16390,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@aiaddysonzhang Haha thanks for shoutout! 😊 I can recommend the artist who did this, for your own chatbot. I'll PM you."
+	},
+	{
+		"created_at": "Thu Nov 08 00:26:44 +0000 2018",
+		"id": 1060327727603957800,
+		"id_str": "1060327727603957761",
+		"full_text": "@aiaddysonzhang Yes! Love them!! Have built 5! One for my lipstick startup and for the sailing federation too (see attached avatar!! Her name is sammy and my sailors love her! I write about chatbots on https://t.co/GYAGD84DOq and https://t.co/QRO0pEEzsv Check it out https://t.co/FxyT4U4F30 https://t.co/EesdPCX5dr",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			290
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aiaddysonzhang",
+					"name": "Ai Addyson-Zhang, Ph.D Digital Learning Consultant",
+					"id": 2154802629,
+					"id_str": "2154802629",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GYAGD84DOq",
+					"expanded_url": "http://chatbotslife.com",
+					"display_url": "chatbotslife.com",
+					"indices": [
+						202,
+						225
+					]
+				},
+				{
+					"url": "https://t.co/QRO0pEEzsv",
+					"expanded_url": "http://uxdesign.cc",
+					"display_url": "uxdesign.cc",
+					"indices": [
+						230,
+						253
+					]
+				},
+				{
+					"url": "https://t.co/FxyT4U4F30",
+					"expanded_url": "https://medium.com/@debbiediscovers",
+					"display_url": "medium.com/@debbiediscove…",
+					"indices": [
+						267,
+						290
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1060327533818728400,
+					"id_str": "1060327533818728453",
+					"indices": [
+						291,
+						314
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DrcKRi7U0AUEI_L.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrcKRi7U0AUEI_L.jpg",
+					"url": "https://t.co/EesdPCX5dr",
+					"display_url": "pic.twitter.com/EesdPCX5dr",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1060327727603957761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060327533818728400,
+					"id_str": "1060327533818728453",
+					"indices": [
+						291,
+						314
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DrcKRi7U0AUEI_L.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrcKRi7U0AUEI_L.jpg",
+					"url": "https://t.co/EesdPCX5dr",
+					"display_url": "pic.twitter.com/EesdPCX5dr",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1060327727603957761/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DrcKRi7U0AUEI_L.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1060326094031573000,
+		"in_reply_to_status_id_str": "1060326094031572992",
+		"in_reply_to_user_id": 2154802629,
+		"in_reply_to_user_id_str": "2154802629",
+		"in_reply_to_screen_name": "aiaddysonzhang",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56433,
+			"friends_count": 33554,
+			"listed_count": 1282,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16390,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@aiaddysonzhang Yes! Love them!! Have built 5! One for my lipstick startup and for the sailing federation too (see attached avatar!! Her name is sammy and my sailors love her! I write about chatbots on https://t.co/GYAGD84DOq and https://t.co/QRO0pEEzsv Check it out https://t.co/FxyT4U4F30 https://t.co/EesdPCX5dr"
+	},
+	{
 		"created_at": "Wed Nov 07 18:43:19 +0000 2018",
 		"id": 1060241304087486500,
 		"id_str": "1060241304087486464",
