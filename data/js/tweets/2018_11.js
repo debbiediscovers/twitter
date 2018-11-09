@@ -36,6 +36,1637 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 171,
+			"friends_count": 305,
+			"listed_count": 0,
+			"created_at": "Sat Jun 16 12:05:23 +0000 2012",
+			"favourites_count": 244,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 216,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993033070386204673/BJDpO0FG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993033070386204673/BJDpO0FG_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Don't over-plan and under-act!\n\nThinking and planning in advance is important, vital in fact, to your success, but acting is even more crucial to long-term achievement.\n\nActions you take beat life-changing intentions."
+	},
+	{
+		"created_at": "Fri Nov 09 06:35:54 +0000 2018",
+		"id": 1060783019848458200,
+		"id_str": "1060783019848458240",
+		"full_text": "THIS IS WHAT REALLY HAPPENED WITH ACOSTA!!!!! https://t.co/o003IyOYjy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o003IyOYjy",
+					"expanded_url": "https://twitter.com/imthesongbirdy/status/1060756512023420928",
+					"display_url": "twitter.com/imthesongbirdy…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56100,
+			"friends_count": 31834,
+			"listed_count": 1282,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1060756512023420900,
+		"quoted_status_id_str": "1060756512023420928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/o003IyOYjy",
+			"expanded": "https://twitter.com/imthesongbirdy/status/1060756512023420928",
+			"display": "twitter.com/imthesongbirdy…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 09 04:50:35 +0000 2018",
+			"id": 1060756512023420900,
+			"id_str": "1060756512023420928",
+			"full_text": "@PressSec https://t.co/PARREsX9Jt",
+			"truncated": false,
+			"display_text_range": [
+				9,
+				9
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PressSec",
+						"name": "Sarah Sanders",
+						"id": 818927131883356200,
+						"id_str": "818927131883356161",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1060756268552319000,
+						"id_str": "1060756268552318976",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060756268552318976/pu/img/5XvMGWkaGD5sbtMY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060756268552318976/pu/img/5XvMGWkaGD5sbtMY.jpg",
+						"url": "https://t.co/PARREsX9Jt",
+						"display_url": "pic.twitter.com/PARREsX9Jt",
+						"expanded_url": "https://twitter.com/imthesongbirdy/status/1060756512023420928/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1060756268552319000,
+						"id_str": "1060756268552318976",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060756268552318976/pu/img/5XvMGWkaGD5sbtMY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060756268552318976/pu/img/5XvMGWkaGD5sbtMY.jpg",
+						"url": "https://t.co/PARREsX9Jt",
+						"display_url": "pic.twitter.com/PARREsX9Jt",
+						"expanded_url": "https://twitter.com/imthesongbirdy/status/1060756512023420928/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 38060,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1060756268552318976/pu/pl/fbM_5btkNSWG05QN.m3u8?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1060756268552318976/pu/vid/360x640/xTLr7GGhCZFz9GK0.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1060756268552318976/pu/vid/180x320/8uXXJpRMXox6Jin0.mp4?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1060756268552318976/pu/vid/720x1280/xUcBtCiJoXJgolKd.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1060374680991883300,
+			"in_reply_to_status_id_str": "1060374680991883265",
+			"in_reply_to_user_id": 818927131883356200,
+			"in_reply_to_user_id_str": "818927131883356161",
+			"in_reply_to_screen_name": "PressSec",
+			"user": {
+				"id": 793896905315004400,
+				"id_str": "793896905315004417",
+				"name": "Patti Herndon",
+				"screen_name": "imthesongbirdy",
+				"location": "",
+				"description": "Wife, mom, Grammy nominated vocalist, mental health advocate, counseling student trained in Motivational Interviewing. Love animals and peeps. Despise a bully.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2137,
+				"friends_count": 2448,
+				"listed_count": 13,
+				"created_at": "Wed Nov 02 19:25:47 +0000 2016",
+				"favourites_count": 25151,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21939,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1002741830063181824/hzRs2wQT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002741830063181824/hzRs2wQT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/793896905315004417/1496967562",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 266,
+			"favorite_count": 998,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "THIS IS WHAT REALLY HAPPENED WITH ACOSTA!!!!! https://t.co/o003IyOYjy"
+	},
+	{
+		"created_at": "Fri Nov 09 06:35:54 +0000 2018",
+		"id": 1060783019848458200,
+		"id_str": "1060783019848458240",
+		"full_text": "THIS IS WHAT REALLY HAPPENED WITH ACOSTA!!!!! https://t.co/o003IyOYjy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o003IyOYjy",
+					"expanded_url": "https://twitter.com/imthesongbirdy/status/1060756512023420928",
+					"display_url": "twitter.com/imthesongbirdy…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56100,
+			"friends_count": 31834,
+			"listed_count": 1282,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1060756512023420900,
+		"quoted_status_id_str": "1060756512023420928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/o003IyOYjy",
+			"expanded": "https://twitter.com/imthesongbirdy/status/1060756512023420928",
+			"display": "twitter.com/imthesongbirdy…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 09 04:50:35 +0000 2018",
+			"id": 1060756512023420900,
+			"id_str": "1060756512023420928",
+			"full_text": "@PressSec https://t.co/PARREsX9Jt",
+			"truncated": false,
+			"display_text_range": [
+				9,
+				9
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PressSec",
+						"name": "Sarah Sanders",
+						"id": 818927131883356200,
+						"id_str": "818927131883356161",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1060756268552319000,
+						"id_str": "1060756268552318976",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060756268552318976/pu/img/5XvMGWkaGD5sbtMY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060756268552318976/pu/img/5XvMGWkaGD5sbtMY.jpg",
+						"url": "https://t.co/PARREsX9Jt",
+						"display_url": "pic.twitter.com/PARREsX9Jt",
+						"expanded_url": "https://twitter.com/imthesongbirdy/status/1060756512023420928/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1060756268552319000,
+						"id_str": "1060756268552318976",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060756268552318976/pu/img/5XvMGWkaGD5sbtMY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060756268552318976/pu/img/5XvMGWkaGD5sbtMY.jpg",
+						"url": "https://t.co/PARREsX9Jt",
+						"display_url": "pic.twitter.com/PARREsX9Jt",
+						"expanded_url": "https://twitter.com/imthesongbirdy/status/1060756512023420928/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 38060,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1060756268552318976/pu/pl/fbM_5btkNSWG05QN.m3u8?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1060756268552318976/pu/vid/360x640/xTLr7GGhCZFz9GK0.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1060756268552318976/pu/vid/180x320/8uXXJpRMXox6Jin0.mp4?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1060756268552318976/pu/vid/720x1280/xUcBtCiJoXJgolKd.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1060374680991883300,
+			"in_reply_to_status_id_str": "1060374680991883265",
+			"in_reply_to_user_id": 818927131883356200,
+			"in_reply_to_user_id_str": "818927131883356161",
+			"in_reply_to_screen_name": "PressSec",
+			"user": {
+				"id": 793896905315004400,
+				"id_str": "793896905315004417",
+				"name": "Patti Herndon",
+				"screen_name": "imthesongbirdy",
+				"location": "",
+				"description": "Wife, mom, Grammy nominated vocalist, mental health advocate, counseling student trained in Motivational Interviewing. Love animals and peeps. Despise a bully.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2137,
+				"friends_count": 2448,
+				"listed_count": 13,
+				"created_at": "Wed Nov 02 19:25:47 +0000 2016",
+				"favourites_count": 25151,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21939,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1002741830063181824/hzRs2wQT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002741830063181824/hzRs2wQT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/793896905315004417/1496967562",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 266,
+			"favorite_count": 998,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "THIS IS WHAT REALLY HAPPENED WITH ACOSTA!!!!! https://t.co/o003IyOYjy"
+	},
+	{
+		"created_at": "Fri Nov 09 04:31:41 +0000 2018",
+		"id": 1060751756831813600,
+		"id_str": "1060751756831813632",
+		"full_text": "@MFdez81 @IsaacTeapish Absolutely agree!",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MFdez81",
+					"name": "Marcelo Fdez",
+					"id": 1014302212342845400,
+					"id_str": "1014302212342845446",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "IsaacTeapish",
+					"name": "Isaac Teapish",
+					"id": 945180873355296800,
+					"id_str": "945180873355296768",
+					"indices": [
+						9,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1060745985478086700,
+		"in_reply_to_status_id_str": "1060745985478086657",
+		"in_reply_to_user_id": 1014302212342845400,
+		"in_reply_to_user_id_str": "1014302212342845446",
+		"in_reply_to_screen_name": "MFdez81",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56100,
+			"friends_count": 31834,
+			"listed_count": 1282,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MFdez81 @IsaacTeapish Absolutely agree!"
+	},
+	{
+		"created_at": "Fri Nov 09 01:54:56 +0000 2018",
+		"id": 1060712309616599000,
+		"id_str": "1060712309616599040",
+		"full_text": "@BruKn0ws @sopanx @mashable Woohoo!!",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BruKn0ws",
+					"name": "Bruno Henriques",
+					"id": 81966182,
+					"id_str": "81966182",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "sopanx",
+					"name": "Sopan Patil",
+					"id": 68402966,
+					"id_str": "68402966",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"screen_name": "mashable",
+					"name": "Mashable",
+					"id": 972651,
+					"id_str": "972651",
+					"indices": [
+						18,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1060692611835551700,
+		"in_reply_to_status_id_str": "1060692611835551744",
+		"in_reply_to_user_id": 81966182,
+		"in_reply_to_user_id_str": "81966182",
+		"in_reply_to_screen_name": "BruKn0ws",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56100,
+			"friends_count": 31834,
+			"listed_count": 1282,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BruKn0ws @sopanx @mashable Woohoo!!"
+	},
+	{
+		"created_at": "Fri Nov 09 01:52:09 +0000 2018",
+		"id": 1060711608056463400,
+		"id_str": "1060711608056463361",
+		"full_text": "#Quote \"The real problem is not whether machines think but whether men do.\" #ArtificialIntelligence #AI https://t.co/aAh5c3mdJY https://t.co/jS4yqlp12j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Quote",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "ArtificialIntelligence",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						100,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aAh5c3mdJY",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/964160630210158592",
+					"display_url": "twitter.com/debbiediscover…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1060711603417636900,
+					"id_str": "1060711603417636864",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/DrhnlVrX4AAX5q1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrhnlVrX4AAX5q1.jpg",
+					"url": "https://t.co/jS4yqlp12j",
+					"display_url": "pic.twitter.com/jS4yqlp12j",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1060711608056463361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060711603417636900,
+					"id_str": "1060711603417636864",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/DrhnlVrX4AAX5q1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrhnlVrX4AAX5q1.jpg",
+					"url": "https://t.co/jS4yqlp12j",
+					"display_url": "pic.twitter.com/jS4yqlp12j",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1060711608056463361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56100,
+			"friends_count": 31834,
+			"listed_count": 1282,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 964160630210158600,
+		"quoted_status_id_str": "964160630210158592",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aAh5c3mdJY",
+			"expanded": "https://twitter.com/debbiediscovers/status/964160630210158592",
+			"display": "twitter.com/debbiediscover…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 15 15:33:02 +0000 2018",
+			"id": 964160630210158600,
+			"id_str": "964160630210158592",
+			"full_text": "#Quote \"The real problem is not whether machines think but whether men do.\" #ArtificialIntelligence #AI #ThursdayThoughts https://t.co/QJPGcjhYvi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				121
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Quote",
+						"indices": [
+							0,
+							6
+						]
+					},
+					{
+						"text": "ArtificialIntelligence",
+						"indices": [
+							76,
+							99
+						]
+					},
+					{
+						"text": "AI",
+						"indices": [
+							100,
+							103
+						]
+					},
+					{
+						"text": "ThursdayThoughts",
+						"indices": [
+							104,
+							121
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 964160627756470300,
+						"id_str": "964160627756470273",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/DWFi-4vXkAE1_7y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWFi-4vXkAE1_7y.jpg",
+						"url": "https://t.co/QJPGcjhYvi",
+						"display_url": "pic.twitter.com/QJPGcjhYvi",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/964160630210158592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 964160627756470300,
+						"id_str": "964160627756470273",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/DWFi-4vXkAE1_7y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWFi-4vXkAE1_7y.jpg",
+						"url": "https://t.co/QJPGcjhYvi",
+						"display_url": "pic.twitter.com/QJPGcjhYvi",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/964160630210158592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore, London, New York",
+				"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 56100,
+				"friends_count": 31834,
+				"listed_count": 1282,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 18046,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16400,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 13,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Quote \"The real problem is not whether machines think but whether men do.\" #ArtificialIntelligence #AI https://t.co/aAh5c3mdJY https://t.co/jS4yqlp12j"
+	},
+	{
+		"created_at": "Fri Nov 09 00:34:53 +0000 2018",
+		"id": 1060692165314076700,
+		"id_str": "1060692165314076672",
+		"full_text": "@BruKn0ws @sopanx @mashable Lol i got one last invite. https://t.co/SmdfByMf9L",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BruKn0ws",
+					"name": "Bruno Henriques",
+					"id": 81966182,
+					"id_str": "81966182",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "sopanx",
+					"name": "Sopan Patil",
+					"id": 68402966,
+					"id_str": "68402966",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"screen_name": "mashable",
+					"name": "Mashable",
+					"id": 972651,
+					"id_str": "972651",
+					"indices": [
+						18,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SmdfByMf9L",
+					"expanded_url": "https://initiativeq.com/invite/BVn1F2127",
+					"display_url": "initiativeq.com/invite/BVn1F21…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1060685906535964700,
+		"in_reply_to_status_id_str": "1060685906535964672",
+		"in_reply_to_user_id": 81966182,
+		"in_reply_to_user_id_str": "81966182",
+		"in_reply_to_screen_name": "BruKn0ws",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56100,
+			"friends_count": 31834,
+			"listed_count": 1282,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BruKn0ws @sopanx @mashable Lol i got one last invite. https://t.co/SmdfByMf9L"
+	},
+	{
+		"created_at": "Fri Nov 09 00:34:21 +0000 2018",
+		"id": 1060692032463618000,
+		"id_str": "1060692032463618048",
+		"full_text": "@BruKn0ws @sopanx @mashable Agree!",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BruKn0ws",
+					"name": "Bruno Henriques",
+					"id": 81966182,
+					"id_str": "81966182",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "sopanx",
+					"name": "Sopan Patil",
+					"id": 68402966,
+					"id_str": "68402966",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"screen_name": "mashable",
+					"name": "Mashable",
+					"id": 972651,
+					"id_str": "972651",
+					"indices": [
+						18,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1060685906535964700,
+		"in_reply_to_status_id_str": "1060685906535964672",
+		"in_reply_to_user_id": 81966182,
+		"in_reply_to_user_id_str": "81966182",
+		"in_reply_to_screen_name": "BruKn0ws",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56100,
+			"friends_count": 31834,
+			"listed_count": 1282,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BruKn0ws @sopanx @mashable Agree!"
+	},
+	{
+		"created_at": "Thu Nov 08 22:29:38 +0000 2018",
+		"id": 1060660644347752400,
+		"id_str": "1060660644347752448",
+		"full_text": "Don't over-plan and under-act!\n\nThinking and planning in advance is important, vital in fact, to your success, but acting is even more crucial to long-term achievement.\n\nActions you take beat life-changing intentions.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 609940096,
+			"id_str": "609940096",
+			"name": "Peter Kay",
+			"screen_name": "peterkay47",
+			"location": "Singapore",
+			"description": "Mindfulness allows you not to miss out on your life. By focusing our minds in the present moment, we open ourselves to awareness, adaptation and transformation.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 170,
 			"friends_count": 299,
 			"listed_count": 0,
