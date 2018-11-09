@@ -1,6 +1,547 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 09 20:12:07 +0000 2018",
+		"id": 1060988425996828700,
+		"id_str": "1060988425996828672",
+		"full_text": "How to host your @Twitter Archive on @Github - by @debbiediscovers #TwitterTips\n https://t.co/ubW6wJBP2I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TwitterTips",
+					"indices": [
+						67,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"screen_name": "github",
+					"name": "GitHub",
+					"id": 13334762,
+					"id_str": "13334762",
+					"indices": [
+						37,
+						44
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						50,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ubW6wJBP2I",
+					"expanded_url": "https://digitaldiscovery.sg/blog/host-twitter-archive/?utm_source=agorapulse&utm_medium=social&utm_campaign=tw-github",
+					"display_url": "digitaldiscovery.sg/blog/host-twit…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56105,
+			"friends_count": 31800,
+			"listed_count": 1281,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18048,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16401,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How to host your @Twitter Archive on @Github - by @debbiediscovers #TwitterTips\n https://t.co/ubW6wJBP2I"
+	},
+	{
+		"created_at": "Fri Nov 09 06:35:54 +0000 2018",
+		"id": 1060783019848458200,
+		"id_str": "1060783019848458240",
+		"full_text": "THIS IS WHAT REALLY HAPPENED WITH ACOSTA!!!!! https://t.co/o003IyOYjy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o003IyOYjy",
+					"expanded_url": "https://twitter.com/imthesongbirdy/status/1060756512023420928",
+					"display_url": "twitter.com/imthesongbirdy…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56105,
+			"friends_count": 31800,
+			"listed_count": 1281,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18048,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16401,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1060756512023420900,
+		"quoted_status_id_str": "1060756512023420928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/o003IyOYjy",
+			"expanded": "https://twitter.com/imthesongbirdy/status/1060756512023420928",
+			"display": "twitter.com/imthesongbirdy…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 09 04:50:35 +0000 2018",
+			"id": 1060756512023420900,
+			"id_str": "1060756512023420928",
+			"full_text": "@PressSec https://t.co/PARREsX9Jt",
+			"truncated": false,
+			"display_text_range": [
+				9,
+				9
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PressSec",
+						"name": "Sarah Sanders",
+						"id": 818927131883356200,
+						"id_str": "818927131883356161",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1060756268552319000,
+						"id_str": "1060756268552318976",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060756268552318976/pu/img/5XvMGWkaGD5sbtMY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060756268552318976/pu/img/5XvMGWkaGD5sbtMY.jpg",
+						"url": "https://t.co/PARREsX9Jt",
+						"display_url": "pic.twitter.com/PARREsX9Jt",
+						"expanded_url": "https://twitter.com/imthesongbirdy/status/1060756512023420928/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1060756268552319000,
+						"id_str": "1060756268552318976",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060756268552318976/pu/img/5XvMGWkaGD5sbtMY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060756268552318976/pu/img/5XvMGWkaGD5sbtMY.jpg",
+						"url": "https://t.co/PARREsX9Jt",
+						"display_url": "pic.twitter.com/PARREsX9Jt",
+						"expanded_url": "https://twitter.com/imthesongbirdy/status/1060756512023420928/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 38060,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1060756268552318976/pu/pl/fbM_5btkNSWG05QN.m3u8?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1060756268552318976/pu/vid/360x640/xTLr7GGhCZFz9GK0.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1060756268552318976/pu/vid/180x320/8uXXJpRMXox6Jin0.mp4?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1060756268552318976/pu/vid/720x1280/xUcBtCiJoXJgolKd.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1060374680991883300,
+			"in_reply_to_status_id_str": "1060374680991883265",
+			"in_reply_to_user_id": 818927131883356200,
+			"in_reply_to_user_id_str": "818927131883356161",
+			"in_reply_to_screen_name": "PressSec",
+			"user": {
+				"id": 793896905315004400,
+				"id_str": "793896905315004417",
+				"name": "Patti Herndon",
+				"screen_name": "imthesongbirdy",
+				"location": "",
+				"description": "Wife, mom, Grammy nominated vocalist, mental health advocate, counseling student trained in Motivational Interviewing. Love animals and peeps. Despise a bully.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2143,
+				"friends_count": 2466,
+				"listed_count": 13,
+				"created_at": "Wed Nov 02 19:25:47 +0000 2016",
+				"favourites_count": 25191,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21967,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1002741830063181824/hzRs2wQT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002741830063181824/hzRs2wQT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/793896905315004417/1496967562",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 275,
+			"favorite_count": 1010,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 2,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "THIS IS WHAT REALLY HAPPENED WITH ACOSTA!!!!! https://t.co/o003IyOYjy"
+	},
+	{
+		"created_at": "Thu Nov 08 22:29:38 +0000 2018",
+		"id": 1060660644347752400,
+		"id_str": "1060660644347752448",
+		"full_text": "Don't over-plan and under-act!\n\nThinking and planning in advance is important, vital in fact, to your success, but acting is even more crucial to long-term achievement.\n\nActions you take beat life-changing intentions.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 609940096,
+			"id_str": "609940096",
+			"name": "Peter Kay",
+			"screen_name": "peterkay47",
+			"location": "Singapore",
+			"description": "Mindfulness allows you not to miss out on your life. By focusing our minds in the present moment, we open ourselves to awareness, adaptation and transformation.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 176,
+			"friends_count": 305,
+			"listed_count": 0,
+			"created_at": "Sat Jun 16 12:05:23 +0000 2012",
+			"favourites_count": 244,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 216,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993033070386204673/BJDpO0FG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993033070386204673/BJDpO0FG_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Don't over-plan and under-act!\n\nThinking and planning in advance is important, vital in fact, to your success, but acting is even more crucial to long-term achievement.\n\nActions you take beat life-changing intentions."
+	},
+	{
 		"created_at": "Fri Nov 09 06:35:54 +0000 2018",
 		"id": 1060783019848458200,
 		"id_str": "1060783019848458240",
