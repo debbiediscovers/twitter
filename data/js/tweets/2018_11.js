@@ -198,6 +198,251 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 56118,
+			"friends_count": 31103,
+			"listed_count": 1287,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18071,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16415,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Most Twitter users are not aware of the amount of data that Twitter collects in each tweet. Even social media marketers are not all aware of the “meta-data” that Twitter makes freely available via its APIs. #Twitter #Analytics #SMM https://t.co/QjalPXz3fY"
+	},
+	{
+		"created_at": "Mon Nov 12 04:09:10 +0000 2018",
+		"id": 1061833255362605000,
+		"id_str": "1061833255362605056",
+		"full_text": "How to Get Followers on Twitter (With 3 Free Tools and a bit of Javascript) I think that it's time to start using this! https://t.co/JN9lsW5t6S via @debbiediscovers",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						148,
+						164
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JN9lsW5t6S",
+					"expanded_url": "https://www.digitaldiscovery.sg/blog/get-followers-twitter/",
+					"display_url": "digitaldiscovery.sg/blog/get-follo…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 966990458495930400,
+			"id_str": "966990458495930369",
+			"name": "SEOElixir",
+			"screen_name": "theSEOElixir",
+			"location": "Kolkata, India",
+			"description": "Simplify your online branding exercise with SEOElixir. We do Web Design, Content Marketing, Mobile App Development, Digital Marketing, SEO, SMO, SMM and more!",
+			"url": "https://t.co/S98rr0jdzz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S98rr0jdzz",
+							"expanded_url": "https://www.seoelixir.com/",
+							"display_url": "seoelixir.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78,
+			"friends_count": 122,
+			"listed_count": 0,
+			"created_at": "Fri Feb 23 10:57:45 +0000 2018",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966993289047048192/kiGnub3F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966993289047048192/kiGnub3F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/966990458495930369/1519384166",
+			"profile_link_color": "F16976",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How to Get Followers on Twitter (With 3 Free Tools and a bit of Javascript) I think that it's time to start using this! https://t.co/JN9lsW5t6S via @debbiediscovers"
+	},
+	{
+		"created_at": "Mon Nov 12 16:45:09 +0000 2018",
+		"id": 1062023505829679100,
+		"id_str": "1062023505829679104",
+		"full_text": "Most Twitter users are not aware of the amount of data that Twitter collects in each tweet. Even social media marketers are not all aware of the “meta-data” that Twitter makes freely available via its APIs. #Twitter #Analytics #SMM https://t.co/QjalPXz3fY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						207,
+						215
+					]
+				},
+				{
+					"text": "Analytics",
+					"indices": [
+						216,
+						226
+					]
+				},
+				{
+					"text": "SMM",
+					"indices": [
+						227,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QjalPXz3fY",
+					"expanded_url": "https://digitaldiscovery.sg/blog/what-analytics-do-you-get-from-twitter-api/?utm_source=agorapulse&utm_medium=social&utm_campaign=tw-analytics",
+					"display_url": "digitaldiscovery.sg/blog/what-anal…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 56119,
 			"friends_count": 31093,
 			"listed_count": 1285,
