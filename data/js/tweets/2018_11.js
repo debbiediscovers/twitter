@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 13 21:23:18 +0000 2018",
+		"id": 1062455891151077400,
+		"id_str": "1062455891151077376",
+		"full_text": "@MattAndersonUT @ergolefevre Thanks for sharing!!",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MattAndersonUT",
+					"name": "Matt Anderson",
+					"id": 290001796,
+					"id_str": "290001796",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "ergolefevre",
+					"name": "Maxime Lefevre",
+					"id": 1211683226,
+					"id_str": "1211683226",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1062450045029703700,
+		"in_reply_to_status_id_str": "1062450045029703680",
+		"in_reply_to_user_id": 290001796,
+		"in_reply_to_user_id_str": "290001796",
+		"in_reply_to_screen_name": "MattAndersonUT",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56119,
+			"friends_count": 31035,
+			"listed_count": 1281,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16428,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MattAndersonUT @ergolefevre Thanks for sharing!!"
+	},
+	{
+		"created_at": "Tue Nov 13 21:00:04 +0000 2018",
+		"id": 1062450045029703700,
+		"id_str": "1062450045029703680",
+		"full_text": "Honey, I built a chatbot, but no one will click on my buttons 😭 by @debbiediscovers https://t.co/hBhGWsTZVq via @ergolefevre #ux #design #ai",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ux",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "design",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "ai",
+					"indices": [
+						137,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						67,
+						83
+					]
+				},
+				{
+					"screen_name": "ergolefevre",
+					"name": "Maxime Lefevre",
+					"id": 1211683226,
+					"id_str": "1211683226",
+					"indices": [
+						112,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hBhGWsTZVq",
+					"expanded_url": "https://uxdesign.cc/honey-i-built-a-chatbot-but-no-one-will-click-on-my-buttons-b713290c0029",
+					"display_url": "uxdesign.cc/honey-i-built-…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twuffer.com\" rel=\"nofollow\">Twuffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 290001796,
+			"id_str": "290001796",
+			"name": "Matt Anderson",
+			"screen_name": "MattAndersonUT",
+			"location": "Draper, UT",
+			"description": "software product manager in Utah, derailed academic librarian ... interested in #prodmgmt, #prodmktg, #ux, #mobile, libraries, privacy",
+			"url": "https://t.co/CpOA6cosF7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CpOA6cosF7",
+							"expanded_url": "http://www.mattanderson.org/blog",
+							"display_url": "mattanderson.org/blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4032,
+			"friends_count": 4153,
+			"listed_count": 576,
+			"created_at": "Fri Apr 29 15:50:22 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25355,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "282D29",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/749445969104605184/OFuvZRRk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/749445969104605184/OFuvZRRk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/290001796/1467517624",
+			"profile_link_color": "238998",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Honey, I built a chatbot, but no one will click on my buttons 😭 by @debbiediscovers https://t.co/hBhGWsTZVq via @ergolefevre #ux #design #ai"
+	},
+	{
 		"created_at": "Tue Nov 13 20:05:19 +0000 2018",
 		"id": 1062436267697164300,
 		"id_str": "1062436267697164288",
@@ -781,7 +1046,7 @@ Grailbird.data.tweets_2018_11 =
 				},
 				{
 					"screen_name": "akwyz",
-					"name": "Antonio Vieira Santos 🙋🏽‍♂️ #WebSummit",
+					"name": "Antonio Vieira Santos 🙋🏽♂️ #WebSummit",
 					"id": 19485870,
 					"id_str": "19485870",
 					"indices": [
