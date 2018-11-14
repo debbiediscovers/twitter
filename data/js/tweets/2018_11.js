@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 14 22:31:56 +0000 2018",
+		"id": 1062835549059203100,
+		"id_str": "1062835549059203073",
+		"full_text": "Instagram is down!! Anyone else?? https://t.co/0menCFxFpm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1062835533355728900,
+					"id_str": "1062835533355728896",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr_zSVRUwAA5GNK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr_zSVRUwAA5GNK.jpg",
+					"url": "https://t.co/0menCFxFpm",
+					"display_url": "pic.twitter.com/0menCFxFpm",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1062835549059203073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 447,
+							"h": 192,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 447,
+							"h": 192,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 447,
+							"h": 192,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062835533355728900,
+					"id_str": "1062835533355728896",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr_zSVRUwAA5GNK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr_zSVRUwAA5GNK.jpg",
+					"url": "https://t.co/0menCFxFpm",
+					"display_url": "pic.twitter.com/0menCFxFpm",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1062835549059203073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 447,
+							"h": 192,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 447,
+							"h": 192,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 447,
+							"h": 192,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56125,
+			"friends_count": 30217,
+			"listed_count": 1279,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16436,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Instagram is down!! Anyone else?? https://t.co/0menCFxFpm"
+	},
+	{
+		"created_at": "Wed Nov 14 19:03:45 +0000 2018",
+		"id": 1062783160881168400,
+		"id_str": "1062783160881168384",
+		"full_text": "Shout out to @debbiediscovers for this neat piece! Check out the anatomy of a single tweet and the information available via @TwitterAPI. https://t.co/EB5Xj2U5HS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "TwitterAPI",
+					"name": "Twitter API",
+					"id": 6253282,
+					"id_str": "6253282",
+					"indices": [
+						125,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EB5Xj2U5HS",
+					"expanded_url": "https://www.digitaldiscovery.sg/blog/what-analytics-do-you-get-from-twitter-api/?utm_source=agorapulse&utm_medium=social&utm_campaign=tw-analytics",
+					"display_url": "digitaldiscovery.sg/blog/what-anal…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1030503065898639400,
+			"id_str": "1030503065898639364",
+			"name": "Devin",
+			"screen_name": "Devin_Pickell",
+			"location": "Chicago, IL",
+			"description": "Chicago tech 💻 Content marketing @G2Crowd 📈 Data and analytics enthusiast 📊 Lover of baseball and the Chicago Cubs 🐻 #EverybodyIn",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43,
+			"friends_count": 48,
+			"listed_count": 3,
+			"created_at": "Fri Aug 17 17:14:11 +0000 2018",
+			"favourites_count": 179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 133,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039652996735533057/VNi2XV9u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039652996735533057/VNi2XV9u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1030503065898639364/1534526599",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Shout out to @debbiediscovers for this neat piece! Check out the anatomy of a single tweet and the information available via @TwitterAPI. https://t.co/EB5Xj2U5HS"
+	},
+	{
+		"created_at": "Wed Nov 14 22:19:00 +0000 2018",
+		"id": 1062832297383157800,
+		"id_str": "1062832297383157761",
+		"full_text": "@Devin_Pickell @TwitterAPI Thanks for sharing!",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Devin_Pickell",
+					"name": "Devin",
+					"id": 1030503065898639400,
+					"id_str": "1030503065898639364",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "TwitterAPI",
+					"name": "Twitter API",
+					"id": 6253282,
+					"id_str": "6253282",
+					"indices": [
+						15,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1062783160881168400,
+		"in_reply_to_status_id_str": "1062783160881168384",
+		"in_reply_to_user_id": 1030503065898639400,
+		"in_reply_to_user_id_str": "1030503065898639364",
+		"in_reply_to_screen_name": "Devin_Pickell",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56125,
+			"friends_count": 30217,
+			"listed_count": 1279,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16436,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Devin_Pickell @TwitterAPI Thanks for sharing!"
+	},
+	{
 		"created_at": "Wed Nov 14 18:50:39 +0000 2018",
 		"id": 1062779861855432700,
 		"id_str": "1062779861855432704",
