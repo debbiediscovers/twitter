@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 21 10:38:22 +0000 2018",
+		"id": 1065192691636494300,
+		"id_str": "1065192691636494336",
+		"full_text": "Doing SEO research on dementia and guess what comes up as a commonly asked question? Does @realdonaldtrump have dementia? Anyone anyone?🤔 https://t.co/8uMKEjCg9v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						90,
+						106
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1065192679808544800,
+					"id_str": "1065192679808544770",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/DshTGUFVsAINrYB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DshTGUFVsAINrYB.jpg",
+					"url": "https://t.co/8uMKEjCg9v",
+					"display_url": "pic.twitter.com/8uMKEjCg9v",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1065192691636494336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1036,
+							"h": 599,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1036,
+							"h": 599,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 393,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1065192679808544800,
+					"id_str": "1065192679808544770",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/DshTGUFVsAINrYB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DshTGUFVsAINrYB.jpg",
+					"url": "https://t.co/8uMKEjCg9v",
+					"display_url": "pic.twitter.com/8uMKEjCg9v",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1065192691636494336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1036,
+							"h": 599,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1036,
+							"h": 599,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 393,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56507,
+			"friends_count": 28273,
+			"listed_count": 1281,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18221,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16485,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Doing SEO research on dementia and guess what comes up as a commonly asked question? Does @realdonaldtrump have dementia? Anyone anyone?🤔 https://t.co/8uMKEjCg9v"
+	},
+	{
 		"created_at": "Wed Nov 21 09:38:18 +0000 2018",
 		"id": 1065177572936302600,
 		"id_str": "1065177572936302592",
@@ -915,7 +1100,7 @@ Grailbird.data.tweets_2018_11 =
 			"user_mentions": [
 				{
 					"screen_name": "fajarsiddiqFS",
-					"name": "Fajar Siddiq👨🏻‍💻",
+					"name": "Fajar Siddiq👨🏻💻",
 					"id": 206773396,
 					"id_str": "206773396",
 					"indices": [
@@ -1021,7 +1206,7 @@ Grailbird.data.tweets_2018_11 =
 			"user_mentions": [
 				{
 					"screen_name": "fajarsiddiqFS",
-					"name": "Fajar Siddiq👨🏻‍💻",
+					"name": "Fajar Siddiq👨🏻💻",
 					"id": 206773396,
 					"id_str": "206773396",
 					"indices": [
@@ -1659,7 +1844,7 @@ Grailbird.data.tweets_2018_11 =
 		"created_at": "Tue Nov 20 09:46:39 +0000 2018",
 		"id": 1064817288098963500,
 		"id_str": "1064817288098963456",
-		"full_text": "@JJ_Angelus 🙋🏻‍♀️ me too",
+		"full_text": "@JJ_Angelus 🙋🏻♀️ me too",
 		"truncated": false,
 		"display_text_range": [
 			12,
@@ -1759,7 +1944,7 @@ Grailbird.data.tweets_2018_11 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@JJ_Angelus 🙋🏻‍♀️ me too"
+		"text": "@JJ_Angelus 🙋🏻♀️ me too"
 	},
 	{
 		"created_at": "Tue Nov 20 09:45:26 +0000 2018",
