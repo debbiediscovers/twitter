@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 22 18:12:41 +0000 2018",
+		"id": 1065669413423083500,
+		"id_str": "1065669413423083521",
+		"full_text": "Cryptocurrency’s economic delusions are unravelling. None of Bitcoin’s utopian promises have come to pass https://t.co/buNLv0yKSE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/buNLv0yKSE",
+					"expanded_url": "https://www.bloomberg.com/opinion/articles/2018-11-21/dimon-and-buffett-have-the-last-laugh-on-bitcoin",
+					"display_url": "bloomberg.com/opinion/articl…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56621,
+			"friends_count": 28662,
+			"listed_count": 1284,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16499,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cryptocurrency’s economic delusions are unravelling. None of Bitcoin’s utopian promises have come to pass https://t.co/buNLv0yKSE"
+	},
+	{
 		"created_at": "Thu Nov 22 07:44:04 +0000 2018",
 		"id": 1065511215663726600,
 		"id_str": "1065511215663726593",
@@ -575,7 +681,7 @@ Grailbird.data.tweets_2018_11 =
 		"created_at": "Wed Nov 21 21:38:43 +0000 2018",
 		"id": 1065358875229007900,
 		"id_str": "1065358875229007877",
-		"full_text": "Whoa @dolcegabbana just butchered the chopstick 🤦🏻‍♀️ and now claim their Instagram has been hacked https://t.co/GHemzwHybo",
+		"full_text": "Whoa @dolcegabbana just butchered the chopstick 🤦🏻♀️ and now claim their Instagram has been hacked https://t.co/GHemzwHybo",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -785,7 +891,7 @@ Grailbird.data.tweets_2018_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Whoa @dolcegabbana just butchered the chopstick 🤦🏻‍♀️ and now claim their Instagram has been hacked https://t.co/GHemzwHybo"
+		"text": "Whoa @dolcegabbana just butchered the chopstick 🤦🏻♀️ and now claim their Instagram has been hacked https://t.co/GHemzwHybo"
 	},
 	{
 		"created_at": "Thu Nov 22 03:43:30 +0000 2018",
