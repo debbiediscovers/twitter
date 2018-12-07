@@ -59,6 +59,477 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 57553,
+			"friends_count": 25969,
+			"listed_count": 1300,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16557,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1070376190156906500,
+		"quoted_status_id_str": "1070376190156906496",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zcgNLCERVO",
+			"expanded": "https://twitter.com/mobilityxchange/status/1070376190156906496",
+			"display": "twitter.com/mobilityxchang…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 05 17:55:45 +0000 2018",
+			"id": 1070376190156906500,
+			"id_str": "1070376190156906496",
+			"full_text": "21 #DigitalTransformation experts you should absolutely follow on Twitter, including @TamaraMcCleary, @PeterBordes, @kanter, &amp; @debbiediscovers: https://t.co/ycjaiCIFgI https://t.co/bFdLhMzCjL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				172
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DigitalTransformation",
+						"indices": [
+							3,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TamaraMcCleary",
+						"name": "Tamara McCleary",
+						"id": 2307675307,
+						"id_str": "2307675307",
+						"indices": [
+							85,
+							100
+						]
+					},
+					{
+						"screen_name": "PeterBordes",
+						"name": "Peter Bordes",
+						"id": 14199104,
+						"id_str": "14199104",
+						"indices": [
+							102,
+							114
+						]
+					},
+					{
+						"screen_name": "kanter",
+						"name": "Beth Kanter",
+						"id": 10297,
+						"id_str": "10297",
+						"indices": [
+							116,
+							123
+						]
+					},
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							131,
+							147
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ycjaiCIFgI",
+						"expanded_url": "http://ow.ly/KKlh30mSuFx",
+						"display_url": "ow.ly/KKlh30mSuFx",
+						"indices": [
+							149,
+							172
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1070376188407881700,
+						"id_str": "1070376188407881729",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/Dtq9eOYWoAE0eTo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dtq9eOYWoAE0eTo.jpg",
+						"url": "https://t.co/bFdLhMzCjL",
+						"display_url": "pic.twitter.com/bFdLhMzCjL",
+						"expanded_url": "https://twitter.com/mobilityxchange/status/1070376190156906496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1070376188407881700,
+						"id_str": "1070376188407881729",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/Dtq9eOYWoAE0eTo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dtq9eOYWoAE0eTo.jpg",
+						"url": "https://t.co/bFdLhMzCjL",
+						"display_url": "pic.twitter.com/bFdLhMzCjL",
+						"expanded_url": "https://twitter.com/mobilityxchange/status/1070376190156906496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 275552247,
+				"id_str": "275552247",
+				"name": "Enterprise Mobility",
+				"screen_name": "mobilityxchange",
+				"location": "Morristown, NJ, USA",
+				"description": "Join the leading online community for #ITleaders, #enterprisemobility #CIO solution providers & analysts. https://t.co/va98Xj34Jg",
+				"url": "https://t.co/5mgaxyDJWh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5mgaxyDJWh",
+								"expanded_url": "http://www.enterprisemobilityexchange.com",
+								"display_url": "enterprisemobilityexchange.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/va98Xj34Jg",
+								"expanded_url": "http://enterprisemobilityexchange.com",
+								"display_url": "enterprisemobilityexchange.com",
+								"indices": [
+									106,
+									129
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4311,
+				"friends_count": 4441,
+				"listed_count": 386,
+				"created_at": "Fri Apr 01 14:19:25 +0000 2011",
+				"favourites_count": 1519,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10613,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/938803354813177856/DzzH-JkI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/938803354813177856/DzzH-JkI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/275552247/1512664026",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks for including me in your list!! https://t.co/zcgNLCERVO"
+	},
+	{
+		"created_at": "Thu Dec 06 19:47:48 +0000 2018",
+		"id": 1070766777854976000,
+		"id_str": "1070766777854976000",
+		"full_text": "@AlinitiCincy @noamwass Thank you!!",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlinitiCincy",
+					"name": "Aliniti",
+					"id": 763497401181204500,
+					"id_str": "763497401181204482",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "noamwass",
+					"name": "Noam Wasserman",
+					"id": 23323149,
+					"id_str": "23323149",
+					"indices": [
+						14,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1069978385932263400,
+		"in_reply_to_status_id_str": "1069978385932263425",
+		"in_reply_to_user_id": 763497401181204500,
+		"in_reply_to_user_id_str": "763497401181204482",
+		"in_reply_to_screen_name": "AlinitiCincy",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57553,
+			"friends_count": 25969,
+			"listed_count": 1300,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16557,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AlinitiCincy @noamwass Thank you!!"
+	},
+	{
+		"created_at": "Thu Dec 06 19:46:49 +0000 2018",
+		"id": 1070766529677951000,
+		"id_str": "1070766529677950976",
+		"full_text": "Thanks for including me in your list!! https://t.co/zcgNLCERVO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zcgNLCERVO",
+					"expanded_url": "https://twitter.com/mobilityxchange/status/1070376190156906496",
+					"display_url": "twitter.com/mobilityxchang…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 57551,
 			"friends_count": 26025,
 			"listed_count": 1293,
