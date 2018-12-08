@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 08 23:01:05 +0000 2018",
+		"id": 1071540194241859600,
+		"id_str": "1071540194241859588",
+		"full_text": "How to use #Dialogflow Small Talk agent (with or without @Chatfuel)#FREE spreadsheet download! by @debbiediscovers #Chatbots #NLP #AI https://t.co/NyM9jJTAuM 🤖#BotSmarter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dialogflow",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"text": "FREE",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "Chatbots",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "NLP",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "BotSmarter",
+					"indices": [
+						159,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chatfuel",
+					"name": "Chatfuel",
+					"id": 3355773219,
+					"id_str": "3355773219",
+					"indices": [
+						57,
+						66
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						98,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NyM9jJTAuM",
+					"expanded_url": "https://chatbotslife.com/how-to-use-dialogflows-prebuilt-small-talk-agent-with-chatfuel-8054379e5848",
+					"display_url": "chatbotslife.com/how-to-use-dia…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57597,
+			"friends_count": 25968,
+			"listed_count": 1294,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16560,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How to use #Dialogflow Small Talk agent (with or without @Chatfuel)#FREE spreadsheet download! by @debbiediscovers #Chatbots #NLP #AI https://t.co/NyM9jJTAuM 🤖#BotSmarter"
+	},
+	{
+		"created_at": "Sat Dec 08 13:50:43 +0000 2018",
+		"id": 1071401690161733600,
+		"id_str": "1071401690161733635",
+		"full_text": "You Have to Stop Canceling and Rescheduling Things. Really. https://t.co/80WwYKjzb9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/80WwYKjzb9",
+					"expanded_url": "https://hbr.org/2018/09/you-have-to-stop-canceling-and-rescheduling-things-really",
+					"display_url": "hbr.org/2018/09/you-ha…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 746360730920718300,
+			"id_str": "746360730920718336",
+			"name": "Digital Futurist",
+			"screen_name": "digitalfuturist",
+			"location": "In the Digital Future",
+			"description": "Serving #AI content on #DigitalDisruption, #DigitalTransformation. In the digital future, we are all dead. The future of digital is now. By @debbiediscovers",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7254,
+			"friends_count": 5561,
+			"listed_count": 77,
+			"created_at": "Fri Jun 24 15:14:00 +0000 2016",
+			"favourites_count": 388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2156,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/751328844389376000/nRhNMn0W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/751328844389376000/nRhNMn0W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/746360730920718336/1467951506",
+			"profile_link_color": "36E2BE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You Have to Stop Canceling and Rescheduling Things. Really. https://t.co/80WwYKjzb9"
+	},
+	{
 		"created_at": "Fri Dec 07 20:12:05 +0000 2018",
 		"id": 1071135275873681400,
 		"id_str": "1071135275873681409",
