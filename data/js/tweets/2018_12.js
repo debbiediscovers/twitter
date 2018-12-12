@@ -143,6 +143,195 @@ Grailbird.data.tweets_2018_12 =
 			},
 			"protected": false,
 			"followers_count": 57543,
+			"friends_count": 25748,
+			"listed_count": 1304,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16579,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#Bots #Hahaha https://t.co/X7z7UGEMU3"
+	},
+	{
+		"created_at": "Wed Dec 12 06:37:57 +0000 2018",
+		"id": 1072742334704414700,
+		"id_str": "1072742334704414720",
+		"full_text": "#Bots #Hahaha https://t.co/X7z7UGEMU3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bots",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Hahaha",
+					"indices": [
+						6,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1072742315591053300,
+					"id_str": "1072742315591053312",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DuMlc9BVsAAHh9f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuMlc9BVsAAHh9f.jpg",
+					"url": "https://t.co/X7z7UGEMU3",
+					"display_url": "pic.twitter.com/X7z7UGEMU3",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1072742334704414720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 697,
+							"h": 762,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 622,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 697,
+							"h": 762,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072742315591053300,
+					"id_str": "1072742315591053312",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DuMlc9BVsAAHh9f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuMlc9BVsAAHh9f.jpg",
+					"url": "https://t.co/X7z7UGEMU3",
+					"display_url": "pic.twitter.com/X7z7UGEMU3",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1072742334704414720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 697,
+							"h": 762,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 622,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 697,
+							"h": 762,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1033337850010337300,
+		"in_reply_to_status_id_str": "1033337850010337282",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57543,
 			"friends_count": 25812,
 			"listed_count": 1295,
 			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
