@@ -157,6 +157,525 @@ Grailbird.data.tweets_2018_12 =
 			},
 			"protected": false,
 			"followers_count": 57637,
+			"friends_count": 26371,
+			"listed_count": 1299,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16581,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Register for @Econsultancy’s Digital Outlook 2019! I’ll be speaking about #AI In marketing! https://t.co/RrxJMaaNty https://t.co/6lnEVPMIyr"
+	},
+	{
+		"created_at": "Thu Dec 13 04:02:06 +0000 2018",
+		"id": 1073065501889159200,
+		"id_str": "1073065501889159168",
+		"full_text": "@jm_alexia @MILAMontreal Congrats!!",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jm_alexia",
+					"name": "Alexia JM",
+					"id": 839820726777544700,
+					"id_str": "839820726777544705",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "MILAMontreal",
+					"name": "Mila - Quebec AI Institute",
+					"id": 999823638932189200,
+					"id_str": "999823638932189184",
+					"indices": [
+						11,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1072903300859813900,
+		"in_reply_to_status_id_str": "1072903300859813889",
+		"in_reply_to_user_id": 839820726777544700,
+		"in_reply_to_user_id_str": "839820726777544705",
+		"in_reply_to_screen_name": "jm_alexia",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57637,
+			"friends_count": 26371,
+			"listed_count": 1299,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16581,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jm_alexia @MILAMontreal Congrats!!"
+	},
+	{
+		"created_at": "Sun Dec 02 23:16:53 +0000 2018",
+		"id": 1069369842841587700,
+		"id_str": "1069369842841587712",
+		"full_text": "What To Expect For AI (Artificial Intelligence) In 2019 https://t.co/XJwsnzxzsX #ai",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ai",
+					"indices": [
+						80,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XJwsnzxzsX",
+					"expanded_url": "https://www.forbes.com/sites/tomtaulli/2018/11/24/what-to-expect-for-ai-artificial-intelligence-in-2019/",
+					"display_url": "forbes.com/sites/tomtaull…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 745943596126216200,
+			"id_str": "745943596126216192",
+			"name": "Diligent Deviants",
+			"screen_name": "diligent_li",
+			"location": "",
+			"description": "Sharing latest in #AI in #Marketing. Allergic to water and stupid tweets.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4965,
+			"friends_count": 4193,
+			"listed_count": 93,
+			"created_at": "Thu Jun 23 11:36:27 +0000 2016",
+			"favourites_count": 424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 788,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781228905529085952/aj7x40ZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781228905529085952/aj7x40ZH_normal.jpg",
+			"profile_link_color": "0008FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What To Expect For AI (Artificial Intelligence) In 2019 https://t.co/XJwsnzxzsX #ai"
+	},
+	{
+		"created_at": "Mon Dec 10 23:16:57 +0000 2018",
+		"id": 1072268965756461000,
+		"id_str": "1072268965756461059",
+		"full_text": "Artificial intelligence is about the people, not the machines https://t.co/KBYIGtELbX #artificialintelligence",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "artificialintelligence",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KBYIGtELbX",
+					"expanded_url": "https://techcrunch.com/2017/09/30/artificial-intelligence-is-about-the-people-not-the-machines/",
+					"display_url": "techcrunch.com/2017/09/30/art…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 745943596126216200,
+			"id_str": "745943596126216192",
+			"name": "Diligent Deviants",
+			"screen_name": "diligent_li",
+			"location": "",
+			"description": "Sharing latest in #AI in #Marketing. Allergic to water and stupid tweets.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4965,
+			"friends_count": 4193,
+			"listed_count": 93,
+			"created_at": "Thu Jun 23 11:36:27 +0000 2016",
+			"favourites_count": 424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 788,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781228905529085952/aj7x40ZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781228905529085952/aj7x40ZH_normal.jpg",
+			"profile_link_color": "0008FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Artificial intelligence is about the people, not the machines https://t.co/KBYIGtELbX #artificialintelligence"
+	},
+	{
+		"created_at": "Wed Dec 12 21:38:14 +0000 2018",
+		"id": 1072968897077243900,
+		"id_str": "1072968897077243909",
+		"full_text": "Register for @Econsultancy’s Digital Outlook 2019! I’ll be speaking about #AI In marketing! https://t.co/RrxJMaaNty https://t.co/6lnEVPMIyr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						74,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Econsultancy",
+					"name": "Econsultancy",
+					"id": 11833202,
+					"id_str": "11833202",
+					"indices": [
+						13,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RrxJMaaNty",
+					"expanded_url": "https://hello.econsultancy.com/digitaloutlook2019/",
+					"display_url": "hello.econsultancy.com/digitaloutlook…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072968877510774800,
+					"id_str": "1072968877510774785",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DuPzgl8UUAEUP6U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuPzgl8UUAEUP6U.jpg",
+					"url": "https://t.co/6lnEVPMIyr",
+					"display_url": "pic.twitter.com/6lnEVPMIyr",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1072968897077243909/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072968877510774800,
+					"id_str": "1072968877510774785",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DuPzgl8UUAEUP6U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuPzgl8UUAEUP6U.jpg",
+					"url": "https://t.co/6lnEVPMIyr",
+					"display_url": "pic.twitter.com/6lnEVPMIyr",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1072968897077243909/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57637,
 			"friends_count": 26348,
 			"listed_count": 1306,
 			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
