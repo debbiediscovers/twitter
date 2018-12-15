@@ -44,6 +44,3038 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 188,
+			"friends_count": 325,
+			"listed_count": 0,
+			"created_at": "Sat Jun 16 12:05:23 +0000 2012",
+			"favourites_count": 247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 252,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993033070386204673/BJDpO0FG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993033070386204673/BJDpO0FG_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Benefits of #Silence_and_Solitude\n\n- increase empathy\n- increase productivity\n- Spark creativity\n- Build mental strength\n- Help know who you are\n- Lower blood pressure\n- Boost the body's immune system"
+	},
+	{
+		"created_at": "Fri Dec 14 16:00:54 +0000 2018",
+		"id": 1073608779474894800,
+		"id_str": "1073608779474894848",
+		"full_text": "More than a fifth of the global labour force - 800 million workers - might lose their jobs because of automation (according to McKinsey) https://t.co/a71KKiCJZ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a71KKiCJZ6",
+					"expanded_url": "https://buff.ly/2LhauIq",
+					"display_url": "buff.ly/2LhauIq",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57698,
+			"friends_count": 25908,
+			"listed_count": 1305,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More than a fifth of the global labour force - 800 million workers - might lose their jobs because of automation (according to McKinsey) https://t.co/a71KKiCJZ6"
+	},
+	{
+		"created_at": "Fri Dec 14 15:30:07 +0000 2018",
+		"id": 1073601034122117100,
+		"id_str": "1073601034122117120",
+		"full_text": "Until regulations catch up, AI-oriented companies must establish their own ethical frameworks. https://t.co/9rnayj7lBb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9rnayj7lBb",
+					"expanded_url": "https://buff.ly/2Ca2Hth",
+					"display_url": "buff.ly/2Ca2Hth",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57698,
+			"friends_count": 25908,
+			"listed_count": 1305,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Until regulations catch up, AI-oriented companies must establish their own ethical frameworks. https://t.co/9rnayj7lBb"
+	},
+	{
+		"created_at": "Fri Dec 14 17:23:17 +0000 2018",
+		"id": 1073629513509089300,
+		"id_str": "1073629513509089280",
+		"full_text": "Creepy AF!! 🤦🏻‍♀️ https://t.co/OgnZtrlRXF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OgnZtrlRXF",
+					"expanded_url": "https://techcrunch.com/2018/12/14/facebook-photo-bug/",
+					"display_url": "techcrunch.com/2018/12/14/fac…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57698,
+			"friends_count": 25908,
+			"listed_count": 1305,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Creepy AF!! 🤦🏻‍♀️ https://t.co/OgnZtrlRXF"
+	},
+	{
+		"created_at": "Fri Dec 14 17:21:42 +0000 2018",
+		"id": 1073629113712177200,
+		"id_str": "1073629113712177152",
+		"full_text": "Here are 24 cognitive biases that are warping your perception of reality | World Economic Forum https://t.co/Bqcmfq3eHH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bqcmfq3eHH",
+					"expanded_url": "https://www.visualcapitalist.com/24-cognitive-biases-warping-reality/",
+					"display_url": "visualcapitalist.com/24-cognitive-b…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57698,
+			"friends_count": 25908,
+			"listed_count": 1305,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here are 24 cognitive biases that are warping your perception of reality | World Economic Forum https://t.co/Bqcmfq3eHH"
+	},
+	{
+		"created_at": "Fri Dec 14 23:14:35 +0000 2018",
+		"id": 1073717920084123600,
+		"id_str": "1073717920084123648",
+		"full_text": "@AditRahim 😱😱😱",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AditRahim",
+					"name": "Adit Rahim",
+					"id": 15361652,
+					"id_str": "15361652",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1073708478827397100,
+		"in_reply_to_status_id_str": "1073708478827397123",
+		"in_reply_to_user_id": 15361652,
+		"in_reply_to_user_id_str": "15361652",
+		"in_reply_to_screen_name": "AditRahim",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57698,
+			"friends_count": 25908,
+			"listed_count": 1305,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@AditRahim 😱😱😱"
+	},
+	{
+		"created_at": "Fri Dec 14 22:36:10 +0000 2018",
+		"id": 1073708250439200800,
+		"id_str": "1073708250439200768",
+		"full_text": "@AditRahim Wow first time I’ve heard about this. And yes it’s prevailent on Asian culture. 😱",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AditRahim",
+					"name": "Adit Rahim",
+					"id": 15361652,
+					"id_str": "15361652",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1073703565074419700,
+		"in_reply_to_status_id_str": "1073703565074419712",
+		"in_reply_to_user_id": 15361652,
+		"in_reply_to_user_id_str": "15361652",
+		"in_reply_to_screen_name": "AditRahim",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57698,
+			"friends_count": 25908,
+			"listed_count": 1305,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AditRahim Wow first time I’ve heard about this. And yes it’s prevailent on Asian culture. 😱"
+	},
+	{
+		"created_at": "Fri Dec 14 22:12:05 +0000 2018",
+		"id": 1073702189304959000,
+		"id_str": "1073702189304958976",
+		"full_text": "😱😱😱 don’t use talcum powder. J&amp;J loses $40B in market cap after this Reuter’s report is released.  https://t.co/NiM8Rrs2ZV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NiM8Rrs2ZV",
+					"expanded_url": "https://www.reuters.com/investigates/special-report/johnsonandjohnson-cancer/",
+					"display_url": "reuters.com/investigates/s…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57698,
+			"friends_count": 25908,
+			"listed_count": 1305,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "😱😱😱 don’t use talcum powder. J&amp;J loses $40B in market cap after this Reuter’s report is released.  https://t.co/NiM8Rrs2ZV"
+	},
+	{
+		"created_at": "Fri Dec 14 17:23:17 +0000 2018",
+		"id": 1073629513509089300,
+		"id_str": "1073629513509089280",
+		"full_text": "Creepy AF!! 🤦🏻‍♀️ https://t.co/OgnZtrlRXF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OgnZtrlRXF",
+					"expanded_url": "https://techcrunch.com/2018/12/14/facebook-photo-bug/",
+					"display_url": "techcrunch.com/2018/12/14/fac…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57698,
+			"friends_count": 25908,
+			"listed_count": 1305,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Creepy AF!! 🤦🏻‍♀️ https://t.co/OgnZtrlRXF"
+	},
+	{
+		"created_at": "Fri Dec 14 17:21:42 +0000 2018",
+		"id": 1073629113712177200,
+		"id_str": "1073629113712177152",
+		"full_text": "Here are 24 cognitive biases that are warping your perception of reality | World Economic Forum https://t.co/Bqcmfq3eHH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bqcmfq3eHH",
+					"expanded_url": "https://www.visualcapitalist.com/24-cognitive-biases-warping-reality/",
+					"display_url": "visualcapitalist.com/24-cognitive-b…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57698,
+			"friends_count": 25908,
+			"listed_count": 1305,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here are 24 cognitive biases that are warping your perception of reality | World Economic Forum https://t.co/Bqcmfq3eHH"
+	},
+	{
+		"created_at": "Fri Dec 14 00:55:23 +0000 2018",
+		"id": 1073380899528441900,
+		"id_str": "1073380899528441856",
+		"full_text": "This made me laugh so hard... @realDonaldTrump https://t.co/TenXtgmaUp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						30,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1073380894105161700,
+					"id_str": "1073380894105161728",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DuVqPHXUUAA8TPa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuVqPHXUUAA8TPa.jpg",
+					"url": "https://t.co/TenXtgmaUp",
+					"display_url": "pic.twitter.com/TenXtgmaUp",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1073380899528441856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073380894105161700,
+					"id_str": "1073380894105161728",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DuVqPHXUUAA8TPa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuVqPHXUUAA8TPa.jpg",
+					"url": "https://t.co/TenXtgmaUp",
+					"display_url": "pic.twitter.com/TenXtgmaUp",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1073380899528441856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57698,
+			"friends_count": 25908,
+			"listed_count": 1305,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "58a4c3a0d54e1400",
+			"url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json",
+			"place_type": "admin",
+			"name": "Central Region",
+			"full_name": "Central Region, Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.749959507073,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.36874499902569
+						],
+						[
+							103.749959507073,
+							1.36874499902569
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This made me laugh so hard... @realDonaldTrump https://t.co/TenXtgmaUp"
+	},
+	{
+		"created_at": "Fri Dec 14 17:17:26 +0000 2018",
+		"id": 1073628040691834900,
+		"id_str": "1073628040691834880",
+		"full_text": "@_almin Who will regulate though? Governments barely understand how the internet works....",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_almin",
+					"name": "Almin Ibrahimovic",
+					"id": 326105421,
+					"id_str": "326105421",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1073602042462199800,
+		"in_reply_to_status_id_str": "1073602042462199813",
+		"in_reply_to_user_id": 326105421,
+		"in_reply_to_user_id_str": "326105421",
+		"in_reply_to_screen_name": "_almin",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57698,
+			"friends_count": 25908,
+			"listed_count": 1305,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@_almin Who will regulate though? Governments barely understand how the internet works...."
+	},
+	{
+		"created_at": "Fri Dec 14 16:00:54 +0000 2018",
+		"id": 1073608779474894800,
+		"id_str": "1073608779474894848",
+		"full_text": "More than a fifth of the global labour force - 800 million workers - might lose their jobs because of automation (according to McKinsey) https://t.co/a71KKiCJZ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a71KKiCJZ6",
+					"expanded_url": "https://buff.ly/2LhauIq",
+					"display_url": "buff.ly/2LhauIq",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57698,
+			"friends_count": 25908,
+			"listed_count": 1305,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More than a fifth of the global labour force - 800 million workers - might lose their jobs because of automation (according to McKinsey) https://t.co/a71KKiCJZ6"
+	},
+	{
+		"created_at": "Fri Dec 14 15:30:07 +0000 2018",
+		"id": 1073601034122117100,
+		"id_str": "1073601034122117120",
+		"full_text": "Until regulations catch up, AI-oriented companies must establish their own ethical frameworks. https://t.co/9rnayj7lBb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9rnayj7lBb",
+					"expanded_url": "https://buff.ly/2Ca2Hth",
+					"display_url": "buff.ly/2Ca2Hth",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57698,
+			"friends_count": 25908,
+			"listed_count": 1305,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Until regulations catch up, AI-oriented companies must establish their own ethical frameworks. https://t.co/9rnayj7lBb"
+	},
+	{
+		"created_at": "Fri Dec 14 12:17:20 +0000 2018",
+		"id": 1073552518406262800,
+		"id_str": "1073552518406262785",
+		"full_text": "@QuassarianViper 😆",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "QuassarianViper",
+					"name": "🐍Viper🐍",
+					"id": 3739389615,
+					"id_str": "3739389615",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1073552410327613400,
+		"in_reply_to_status_id_str": "1073552410327613440",
+		"in_reply_to_user_id": 3739389615,
+		"in_reply_to_user_id_str": "3739389615",
+		"in_reply_to_screen_name": "QuassarianViper",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57698,
+			"friends_count": 25908,
+			"listed_count": 1305,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@QuassarianViper 😆"
+	},
+	{
+		"created_at": "Fri Dec 14 10:26:08 +0000 2018",
+		"id": 1073524532915269600,
+		"id_str": "1073524532915269632",
+		"full_text": "Jason Momoa! Who agrees? #aquaman⁠ ⁠ 😂😂😂 https://t.co/P5oMlNeucq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aquaman",
+					"indices": [
+						25,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1073524522920243200,
+					"id_str": "1073524522920243200",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/DuXs3aZU8AAS03y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuXs3aZU8AAS03y.jpg",
+					"url": "https://t.co/P5oMlNeucq",
+					"display_url": "pic.twitter.com/P5oMlNeucq",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1073524532915269632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1022,
+							"h": 1279,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073524522920243200,
+					"id_str": "1073524522920243200",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/DuXs3aZU8AAS03y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuXs3aZU8AAS03y.jpg",
+					"url": "https://t.co/P5oMlNeucq",
+					"display_url": "pic.twitter.com/P5oMlNeucq",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1073524532915269632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1022,
+							"h": 1279,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57698,
+			"friends_count": 25908,
+			"listed_count": 1305,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jason Momoa! Who agrees? #aquaman⁠ ⁠ 😂😂😂 https://t.co/P5oMlNeucq"
+	},
+	{
+		"created_at": "Wed Dec 12 21:38:14 +0000 2018",
+		"id": 1072968897077243900,
+		"id_str": "1072968897077243909",
+		"full_text": "Register for @Econsultancy’s Digital Outlook 2019! I’ll be speaking about #AI In marketing! https://t.co/RrxJMaaNty https://t.co/6lnEVPMIyr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						74,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Econsultancy",
+					"name": "Econsultancy",
+					"id": 11833202,
+					"id_str": "11833202",
+					"indices": [
+						13,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RrxJMaaNty",
+					"expanded_url": "https://hello.econsultancy.com/digitaloutlook2019/",
+					"display_url": "hello.econsultancy.com/digitaloutlook…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072968877510774800,
+					"id_str": "1072968877510774785",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DuPzgl8UUAEUP6U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuPzgl8UUAEUP6U.jpg",
+					"url": "https://t.co/6lnEVPMIyr",
+					"display_url": "pic.twitter.com/6lnEVPMIyr",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1072968897077243909/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072968877510774800,
+					"id_str": "1072968877510774785",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DuPzgl8UUAEUP6U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuPzgl8UUAEUP6U.jpg",
+					"url": "https://t.co/6lnEVPMIyr",
+					"display_url": "pic.twitter.com/6lnEVPMIyr",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1072968897077243909/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57698,
+			"friends_count": 25908,
+			"listed_count": 1305,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Register for @Econsultancy’s Digital Outlook 2019! I’ll be speaking about #AI In marketing! https://t.co/RrxJMaaNty https://t.co/6lnEVPMIyr"
+	},
+	{
+		"created_at": "Fri Dec 14 07:04:48 +0000 2018",
+		"id": 1073473866599563300,
+		"id_str": "1073473866599563266",
+		"full_text": "@bybarrappls It did! Thank you!!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bybarrappls",
+					"name": "BEY Enterprises",
+					"id": 51931858,
+					"id_str": "51931858",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1073473505872748500,
+		"in_reply_to_status_id_str": "1073473505872748544",
+		"in_reply_to_user_id": 51931858,
+		"in_reply_to_user_id_str": "51931858",
+		"in_reply_to_screen_name": "bybarrappls",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57698,
+			"friends_count": 25908,
+			"listed_count": 1305,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bybarrappls It did! Thank you!!"
+	},
+	{
+		"created_at": "Fri Dec 14 03:00:00 +0000 2018",
+		"id": 1073412261115506700,
+		"id_str": "1073412261115506694",
+		"full_text": "Register for Digital Outlook 2019 for insight into the trends shaking up our industry, and how you can leverage them to accelerate your competitive advantage and business growth!  \n\n📆 Wednesday 23 January 2019\n📍 NTUC Centre, One Marina Boulevard, Singapore\n\nSign up 👇 https://t.co/Gd7jVbSh2s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gd7jVbSh2s",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1072968897077243909",
+					"display_url": "twitter.com/debbiediscover…",
+					"indices": [
+						268,
+						291
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11833202,
+			"id_str": "11833202",
+			"name": "Econsultancy",
+			"screen_name": "Econsultancy",
+			"location": "London | New York | Singapore",
+			"description": "Research, training and advisory services in marketing, ecommerce  and digital business.",
+			"url": "https://t.co/eMddEHjsPw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eMddEHjsPw",
+							"expanded_url": "http://Econsultancy.com",
+							"display_url": "Econsultancy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 234142,
+			"friends_count": 1150,
+			"listed_count": 12122,
+			"created_at": "Fri Jan 04 09:40:55 +0000 2008",
+			"favourites_count": 13816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 53510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/783569217123717121/AWBOtHLr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/783569217123717121/AWBOtHLr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11833202/1479396863",
+			"profile_link_color": "ED002B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F0FFFF",
+			"profile_text_color": "525252",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1072968897077243900,
+		"quoted_status_id_str": "1072968897077243909",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Gd7jVbSh2s",
+			"expanded": "https://twitter.com/debbiediscovers/status/1072968897077243909",
+			"display": "twitter.com/debbiediscover…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 12 21:38:14 +0000 2018",
+			"id": 1072968897077243900,
+			"id_str": "1072968897077243909",
+			"full_text": "Register for @Econsultancy’s Digital Outlook 2019! I’ll be speaking about #AI In marketing! https://t.co/RrxJMaaNty https://t.co/6lnEVPMIyr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AI",
+						"indices": [
+							74,
+							77
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Econsultancy",
+						"name": "Econsultancy",
+						"id": 11833202,
+						"id_str": "11833202",
+						"indices": [
+							13,
+							26
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/RrxJMaaNty",
+						"expanded_url": "https://hello.econsultancy.com/digitaloutlook2019/",
+						"display_url": "hello.econsultancy.com/digitaloutlook…",
+						"indices": [
+							92,
+							115
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1072968877510774800,
+						"id_str": "1072968877510774785",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/DuPzgl8UUAEUP6U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuPzgl8UUAEUP6U.jpg",
+						"url": "https://t.co/6lnEVPMIyr",
+						"display_url": "pic.twitter.com/6lnEVPMIyr",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/1072968897077243909/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1364,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 799,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1072968877510774800,
+						"id_str": "1072968877510774785",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/DuPzgl8UUAEUP6U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuPzgl8UUAEUP6U.jpg",
+						"url": "https://t.co/6lnEVPMIyr",
+						"display_url": "pic.twitter.com/6lnEVPMIyr",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/1072968897077243909/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1364,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 799,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore, London, New York",
+				"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 57698,
+				"friends_count": 25908,
+				"listed_count": 1305,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 18500,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16601,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Register for Digital Outlook 2019 for insight into the trends shaking up our industry, and how you can leverage them to accelerate your competitive advantage and business growth!  \n\n📆 Wednesday 23 January 2019\n📍 NTUC Centre, One Marina Boulevard, Singapore\n\nSign up 👇 https://t.co/Gd7jVbSh2s"
+	},
+	{
+		"created_at": "Fri Dec 14 00:55:23 +0000 2018",
+		"id": 1073380899528441900,
+		"id_str": "1073380899528441856",
+		"full_text": "This made me laugh so hard... @realDonaldTrump https://t.co/TenXtgmaUp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						30,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1073380894105161700,
+					"id_str": "1073380894105161728",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DuVqPHXUUAA8TPa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuVqPHXUUAA8TPa.jpg",
+					"url": "https://t.co/TenXtgmaUp",
+					"display_url": "pic.twitter.com/TenXtgmaUp",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1073380899528441856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073380894105161700,
+					"id_str": "1073380894105161728",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DuVqPHXUUAA8TPa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuVqPHXUUAA8TPa.jpg",
+					"url": "https://t.co/TenXtgmaUp",
+					"display_url": "pic.twitter.com/TenXtgmaUp",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1073380899528441856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57698,
+			"friends_count": 25908,
+			"listed_count": 1305,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "58a4c3a0d54e1400",
+			"url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json",
+			"place_type": "admin",
+			"name": "Central Region",
+			"full_name": "Central Region, Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.749959507073,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.36874499902569
+						],
+						[
+							103.749959507073,
+							1.36874499902569
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This made me laugh so hard... @realDonaldTrump https://t.co/TenXtgmaUp"
+	},
+	{
+		"created_at": "Fri Dec 14 00:27:04 +0000 2018",
+		"id": 1073373771526893600,
+		"id_str": "1073373771526893568",
+		"full_text": "7am walk with Jessica! https://t.co/l8td8sDE5I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1073373762723037200,
+					"id_str": "1073373762723037184",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/DuVjwA5UwAAd5HZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuVjwA5UwAAd5HZ.jpg",
+					"url": "https://t.co/l8td8sDE5I",
+					"display_url": "pic.twitter.com/l8td8sDE5I",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1073373771526893568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073373762723037200,
+					"id_str": "1073373762723037184",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/DuVjwA5UwAAd5HZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuVjwA5UwAAd5HZ.jpg",
+					"url": "https://t.co/l8td8sDE5I",
+					"display_url": "pic.twitter.com/l8td8sDE5I",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1073373771526893568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57698,
+			"friends_count": 25908,
+			"listed_count": 1305,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0a6401b567167000",
+			"url": "https://api.twitter.com/1.1/geo/id/0a6401b567167000.json",
+			"place_type": "poi",
+			"name": "Bukit Timah Gate | Singapore Botanic Gardens",
+			"full_name": "Bukit Timah Gate | Singapore Botanic Gardens",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.81462143370307,
+							1.322421695789229
+						],
+						[
+							103.81462143370307,
+							1.322421695789229
+						],
+						[
+							103.81462143370307,
+							1.322421695789229
+						],
+						[
+							103.81462143370307,
+							1.322421695789229
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "7am walk with Jessica! https://t.co/l8td8sDE5I"
+	},
+	{
+		"created_at": "Thu Dec 13 04:02:06 +0000 2018",
+		"id": 1073065501889159200,
+		"id_str": "1073065501889159168",
+		"full_text": "@jm_alexia @MILAMontreal Congrats!!",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jm_alexia",
+					"name": "Alexia JM",
+					"id": 839820726777544700,
+					"id_str": "839820726777544705",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "MILAMontreal",
+					"name": "Mila - Quebec AI Institute",
+					"id": 999823638932189200,
+					"id_str": "999823638932189184",
+					"indices": [
+						11,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1072903300859813900,
+		"in_reply_to_status_id_str": "1072903300859813889",
+		"in_reply_to_user_id": 839820726777544700,
+		"in_reply_to_user_id_str": "839820726777544705",
+		"in_reply_to_screen_name": "jm_alexia",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57698,
+			"friends_count": 25908,
+			"listed_count": 1305,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jm_alexia @MILAMontreal Congrats!!"
+	},
+	{
+		"created_at": "Wed Dec 12 22:59:18 +0000 2018",
+		"id": 1072989296917798900,
+		"id_str": "1072989296917798913",
+		"full_text": "Benefits of #Silence_and_Solitude\n\n- increase empathy\n- increase productivity\n- Spark creativity\n- Build mental strength\n- Help know who you are\n- Lower blood pressure\n- Boost the body's immune system",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Silence_and_Solitude",
+					"indices": [
+						12,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 609940096,
+			"id_str": "609940096",
+			"name": "Peter Kay",
+			"screen_name": "peterkay47",
+			"location": "Singapore",
+			"description": "Mindfulness allows you not to miss out on your life. By focusing our minds in the present moment, we open ourselves to awareness, adaptation and transformation.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 187,
 			"friends_count": 324,
 			"listed_count": 0,
@@ -305,7 +3337,7 @@ Grailbird.data.tweets_2018_12 =
 		"created_at": "Fri Dec 14 17:23:17 +0000 2018",
 		"id": 1073629513509089300,
 		"id_str": "1073629513509089280",
-		"full_text": "Creepy AF!! 🤦🏻‍♀️ https://t.co/OgnZtrlRXF",
+		"full_text": "Creepy AF!! 🤦🏻♀️ https://t.co/OgnZtrlRXF",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -405,7 +3437,7 @@ Grailbird.data.tweets_2018_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Creepy AF!! 🤦🏻‍♀️ https://t.co/OgnZtrlRXF"
+		"text": "Creepy AF!! 🤦🏻♀️ https://t.co/OgnZtrlRXF"
 	},
 	{
 		"created_at": "Fri Dec 14 17:21:42 +0000 2018",
@@ -835,7 +3867,7 @@ Grailbird.data.tweets_2018_12 =
 		"created_at": "Fri Dec 14 17:23:17 +0000 2018",
 		"id": 1073629513509089300,
 		"id_str": "1073629513509089280",
-		"full_text": "Creepy AF!! 🤦🏻‍♀️ https://t.co/OgnZtrlRXF",
+		"full_text": "Creepy AF!! 🤦🏻♀️ https://t.co/OgnZtrlRXF",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -935,7 +3967,7 @@ Grailbird.data.tweets_2018_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Creepy AF!! 🤦🏻‍♀️ https://t.co/OgnZtrlRXF"
+		"text": "Creepy AF!! 🤦🏻♀️ https://t.co/OgnZtrlRXF"
 	},
 	{
 		"created_at": "Fri Dec 14 17:21:42 +0000 2018",
@@ -1689,7 +4721,7 @@ Grailbird.data.tweets_2018_12 =
 		"created_at": "Fri Dec 14 10:26:08 +0000 2018",
 		"id": 1073524532915269600,
 		"id_str": "1073524532915269632",
-		"full_text": "Jason Momoa! Who agrees? #aquaman⁠ ⁠ 😂😂😂 https://t.co/P5oMlNeucq",
+		"full_text": "Jason Momoa! Who agrees? #aquaman  😂😂😂 https://t.co/P5oMlNeucq",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1865,7 +4897,7 @@ Grailbird.data.tweets_2018_12 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Jason Momoa! Who agrees? #aquaman⁠ ⁠ 😂😂😂 https://t.co/P5oMlNeucq"
+		"text": "Jason Momoa! Who agrees? #aquaman  😂😂😂 https://t.co/P5oMlNeucq"
 	},
 	{
 		"created_at": "Wed Dec 12 21:38:14 +0000 2018",
