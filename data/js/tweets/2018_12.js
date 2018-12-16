@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 15 04:26:00 +0000 2018",
+		"id": 1073796292638376000,
+		"id_str": "1073796292638375937",
+		"full_text": "How China became an Artificial Intelligence leader https://t.co/VPYOJ89vll via @wef",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wef",
+					"name": "World Economic Forum",
+					"id": 5120691,
+					"id_str": "5120691",
+					"indices": [
+						79,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VPYOJ89vll",
+					"expanded_url": "https://buff.ly/2PmNo4P",
+					"display_url": "buff.ly/2PmNo4P",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 746360730920718300,
+			"id_str": "746360730920718336",
+			"name": "Digital Futurist",
+			"screen_name": "digitalfuturist",
+			"location": "In the Digital Future",
+			"description": "Serving #AI content on #DigitalDisruption, #DigitalTransformation. In the digital future, we are all dead. The future of digital is now. By @debbiediscovers",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7407,
+			"friends_count": 5757,
+			"listed_count": 80,
+			"created_at": "Fri Jun 24 15:14:00 +0000 2016",
+			"favourites_count": 388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2195,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/751328844389376000/nRhNMn0W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/751328844389376000/nRhNMn0W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/746360730920718336/1467951506",
+			"profile_link_color": "36E2BE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How China became an Artificial Intelligence leader https://t.co/VPYOJ89vll via @wef"
+	},
+	{
 		"created_at": "Sun Dec 16 03:54:45 +0000 2018",
 		"id": 1074150812635418600,
 		"id_str": "1074150812635418624",
