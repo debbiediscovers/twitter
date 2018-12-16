@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 16 03:54:45 +0000 2018",
+		"id": 1074150812635418600,
+		"id_str": "1074150812635418624",
+		"full_text": "@ickacangmachine HAHA! 😆",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ickacangmachine",
+					"name": "Neo Swee Lin",
+					"id": 301864974,
+					"id_str": "301864974",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1074150157367816200,
+		"in_reply_to_status_id_str": "1074150157367816197",
+		"in_reply_to_user_id": 301864974,
+		"in_reply_to_user_id_str": "301864974",
+		"in_reply_to_screen_name": "ickacangmachine",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57713,
+			"friends_count": 26023,
+			"listed_count": 1297,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18504,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "@ickacangmachine HAHA! 😆"
+	},
+	{
 		"created_at": "Sat Dec 15 23:01:05 +0000 2018",
 		"id": 1074076908831297500,
 		"id_str": "1074076908831297536",
@@ -221,7 +327,7 @@ Grailbird.data.tweets_2018_12 =
 		"created_at": "Fri Dec 14 17:23:17 +0000 2018",
 		"id": 1073629513509089300,
 		"id_str": "1073629513509089280",
-		"full_text": "Creepy AF!! 🤦🏻‍♀️ https://t.co/OgnZtrlRXF",
+		"full_text": "Creepy AF!! 🤦🏻♀️ https://t.co/OgnZtrlRXF",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -321,7 +427,7 @@ Grailbird.data.tweets_2018_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Creepy AF!! 🤦🏻‍♀️ https://t.co/OgnZtrlRXF"
+		"text": "Creepy AF!! 🤦🏻♀️ https://t.co/OgnZtrlRXF"
 	},
 	{
 		"created_at": "Fri Dec 14 17:21:42 +0000 2018",
@@ -751,7 +857,7 @@ Grailbird.data.tweets_2018_12 =
 		"created_at": "Fri Dec 14 17:23:17 +0000 2018",
 		"id": 1073629513509089300,
 		"id_str": "1073629513509089280",
-		"full_text": "Creepy AF!! 🤦🏻‍♀️ https://t.co/OgnZtrlRXF",
+		"full_text": "Creepy AF!! 🤦🏻♀️ https://t.co/OgnZtrlRXF",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -851,7 +957,7 @@ Grailbird.data.tweets_2018_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Creepy AF!! 🤦🏻‍♀️ https://t.co/OgnZtrlRXF"
+		"text": "Creepy AF!! 🤦🏻♀️ https://t.co/OgnZtrlRXF"
 	},
 	{
 		"created_at": "Fri Dec 14 17:21:42 +0000 2018",
@@ -1605,7 +1711,7 @@ Grailbird.data.tweets_2018_12 =
 		"created_at": "Fri Dec 14 10:26:08 +0000 2018",
 		"id": 1073524532915269600,
 		"id_str": "1073524532915269632",
-		"full_text": "Jason Momoa! Who agrees? #aquaman⁠ ⁠ 😂😂😂 https://t.co/P5oMlNeucq",
+		"full_text": "Jason Momoa! Who agrees? #aquaman  😂😂😂 https://t.co/P5oMlNeucq",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1781,7 +1887,7 @@ Grailbird.data.tweets_2018_12 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Jason Momoa! Who agrees? #aquaman⁠ ⁠ 😂😂😂 https://t.co/P5oMlNeucq"
+		"text": "Jason Momoa! Who agrees? #aquaman  😂😂😂 https://t.co/P5oMlNeucq"
 	},
 	{
 		"created_at": "Wed Dec 12 21:38:14 +0000 2018",
