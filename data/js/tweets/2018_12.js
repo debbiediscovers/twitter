@@ -290,6 +290,456 @@ Grailbird.data.tweets_2018_12 =
 					}
 				},
 				"protected": false,
+				"followers_count": 57852,
+				"friends_count": 26827,
+				"listed_count": 1302,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 18519,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16613,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can #AI lead to better #marketing? Find out in #January at #Singapore. https://t.co/LER5NFEWr0"
+	},
+	{
+		"created_at": "Mon Dec 17 10:20:34 +0000 2018",
+		"id": 1074610294628835300,
+		"id_str": "1074610294628835328",
+		"full_text": "@enterindia Thanks for sharing! Hope to see you at the conf!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "enterindia",
+					"name": "Hopeful Indian",
+					"id": 88427365,
+					"id_str": "88427365",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1074601064601714700,
+		"in_reply_to_status_id_str": "1074601064601714688",
+		"in_reply_to_user_id": 88427365,
+		"in_reply_to_user_id_str": "88427365",
+		"in_reply_to_screen_name": "enterindia",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57852,
+			"friends_count": 26827,
+			"listed_count": 1302,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16613,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@enterindia Thanks for sharing! Hope to see you at the conf!"
+	},
+	{
+		"created_at": "Mon Dec 17 09:43:53 +0000 2018",
+		"id": 1074601064601714700,
+		"id_str": "1074601064601714688",
+		"full_text": "Can #AI lead to better #marketing? Find out in #January at #Singapore. https://t.co/LER5NFEWr0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						4,
+						7
+					]
+				},
+				{
+					"text": "marketing",
+					"indices": [
+						23,
+						33
+					]
+				},
+				{
+					"text": "January",
+					"indices": [
+						47,
+						55
+					]
+				},
+				{
+					"text": "Singapore",
+					"indices": [
+						59,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LER5NFEWr0",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1072968897077243909",
+					"display_url": "twitter.com/debbiediscover…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 88427365,
+			"id_str": "88427365",
+			"name": "Hopeful Indian",
+			"screen_name": "enterindia",
+			"location": "India",
+			"description": "Discuss #News and #Advertising, #Startup and #Policies for a better #India and world. Get more #Tech at @vijayreports and @sillygloop Human or AI, you decide :)",
+			"url": "https://t.co/wO9ysdW66r",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wO9ysdW66r",
+							"expanded_url": "https://www.expertsutra.com/",
+							"display_url": "expertsutra.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 845,
+			"friends_count": 747,
+			"listed_count": 100,
+			"created_at": "Sun Nov 08 14:18:53 +0000 2009",
+			"favourites_count": 200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2714,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025654064309100544/Jx02Mpij_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025654064309100544/Jx02Mpij_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/88427365/1533369786",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1072968897077243900,
+		"quoted_status_id_str": "1072968897077243909",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LER5NFEWr0",
+			"expanded": "https://twitter.com/debbiediscovers/status/1072968897077243909",
+			"display": "twitter.com/debbiediscover…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 12 21:38:14 +0000 2018",
+			"id": 1072968897077243900,
+			"id_str": "1072968897077243909",
+			"full_text": "Register for @Econsultancy’s Digital Outlook 2019! I’ll be speaking about #AI In marketing! https://t.co/RrxJMaaNty https://t.co/6lnEVPMIyr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AI",
+						"indices": [
+							74,
+							77
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Econsultancy",
+						"name": "Econsultancy",
+						"id": 11833202,
+						"id_str": "11833202",
+						"indices": [
+							13,
+							26
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/RrxJMaaNty",
+						"expanded_url": "https://hello.econsultancy.com/digitaloutlook2019/",
+						"display_url": "hello.econsultancy.com/digitaloutlook…",
+						"indices": [
+							92,
+							115
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1072968877510774800,
+						"id_str": "1072968877510774785",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/DuPzgl8UUAEUP6U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuPzgl8UUAEUP6U.jpg",
+						"url": "https://t.co/6lnEVPMIyr",
+						"display_url": "pic.twitter.com/6lnEVPMIyr",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/1072968897077243909/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1364,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 799,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1072968877510774800,
+						"id_str": "1072968877510774785",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/DuPzgl8UUAEUP6U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuPzgl8UUAEUP6U.jpg",
+						"url": "https://t.co/6lnEVPMIyr",
+						"display_url": "pic.twitter.com/6lnEVPMIyr",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/1072968897077243909/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1364,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 799,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore, London, New York",
+				"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
 				"followers_count": 57845,
 				"friends_count": 26788,
 				"listed_count": 1310,
