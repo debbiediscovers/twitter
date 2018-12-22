@@ -59,6 +59,744 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 58227,
+			"friends_count": 29135,
+			"listed_count": 1306,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16626,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Boost SEO rankings by building your Twitter presence https://t.co/CCHySM27Kn"
+	},
+	{
+		"created_at": "Fri Nov 30 14:51:01 +0000 2018",
+		"id": 1068517764657164300,
+		"id_str": "1068517764657164288",
+		"full_text": "Marriott says 500 million Starwood guest records stolen in massive data breach | TechCrunch 😱😱😱 https://t.co/bg2c3mGSEl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bg2c3mGSEl",
+					"expanded_url": "https://techcrunch.com/2018/11/30/starwood-hotels-says-500-million-guest-records-stolen-in-massive-data-breach/",
+					"display_url": "techcrunch.com/2018/11/30/sta…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58227,
+			"friends_count": 29135,
+			"listed_count": 1306,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16626,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Marriott says 500 million Starwood guest records stolen in massive data breach | TechCrunch 😱😱😱 https://t.co/bg2c3mGSEl"
+	},
+	{
+		"created_at": "Fri Nov 30 21:54:55 +0000 2018",
+		"id": 1068624442262089700,
+		"id_str": "1068624442262089728",
+		"full_text": "@theSEOElixir ooooh nice will certainly check it out, thanks for sharing!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theSEOElixir",
+					"name": "SEOElixir",
+					"id": 966990458495930400,
+					"id_str": "966990458495930369",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1068507720821555200,
+		"in_reply_to_status_id_str": "1068507720821555200",
+		"in_reply_to_user_id": 966990458495930400,
+		"in_reply_to_user_id_str": "966990458495930369",
+		"in_reply_to_screen_name": "theSEOElixir",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58227,
+			"friends_count": 29135,
+			"listed_count": 1306,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16626,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@theSEOElixir ooooh nice will certainly check it out, thanks for sharing!"
+	},
+	{
+		"created_at": "Fri Nov 30 21:54:15 +0000 2018",
+		"id": 1068624275228123100,
+		"id_str": "1068624275228123136",
+		"full_text": "@soundmgroup @IsaacTeapish https://t.co/MM8djJMjFB",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soundmgroup",
+					"name": "Sound Marketing",
+					"id": 123517397,
+					"id_str": "123517397",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "IsaacTeapish",
+					"name": "Isaac Teapish",
+					"id": 945180873355296800,
+					"id_str": "945180873355296768",
+					"indices": [
+						13,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1068624262087401500,
+					"id_str": "1068624262087401472",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DtSEGsQVYAAZRf5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DtSEGsQVYAAZRf5.jpg",
+					"url": "https://t.co/MM8djJMjFB",
+					"display_url": "pic.twitter.com/MM8djJMjFB",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1068624275228123136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 520,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 520,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 520,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1068624262087401500,
+					"id_str": "1068624262087401472",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DtSEGsQVYAAZRf5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DtSEGsQVYAAZRf5.jpg",
+					"url": "https://t.co/MM8djJMjFB",
+					"display_url": "pic.twitter.com/MM8djJMjFB",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1068624275228123136/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 520,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 520,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 520,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							26,
+							17
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DtSEGsQVYAAZRf5.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1068510314763825200,
+		"in_reply_to_status_id_str": "1068510314763825152",
+		"in_reply_to_user_id": 123517397,
+		"in_reply_to_user_id_str": "123517397",
+		"in_reply_to_screen_name": "soundmgroup",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58227,
+			"friends_count": 29135,
+			"listed_count": 1306,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16626,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@soundmgroup @IsaacTeapish https://t.co/MM8djJMjFB"
+	},
+	{
+		"created_at": "Fri Nov 30 14:51:01 +0000 2018",
+		"id": 1068517764657164300,
+		"id_str": "1068517764657164288",
+		"full_text": "Marriott says 500 million Starwood guest records stolen in massive data breach | TechCrunch 😱😱😱 https://t.co/bg2c3mGSEl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bg2c3mGSEl",
+					"expanded_url": "https://techcrunch.com/2018/11/30/starwood-hotels-says-500-million-guest-records-stolen-in-massive-data-breach/",
+					"display_url": "techcrunch.com/2018/11/30/sta…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58227,
+			"friends_count": 29135,
+			"listed_count": 1306,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16626,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Marriott says 500 million Starwood guest records stolen in massive data breach | TechCrunch 😱😱😱 https://t.co/bg2c3mGSEl"
+	},
+	{
+		"created_at": "Fri Nov 30 14:32:55 +0000 2018",
+		"id": 1068513207428382700,
+		"id_str": "1068513207428382721",
+		"full_text": "@baltaruiz 😬😬😬",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "baltaruiz",
+					"name": "Bᴀʟᴛᴀ Rᴜɪᴢ",
+					"id": 40026343,
+					"id_str": "40026343",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1068505489158234100,
+		"in_reply_to_status_id_str": "1068505489158234112",
+		"in_reply_to_user_id": 40026343,
+		"in_reply_to_user_id_str": "40026343",
+		"in_reply_to_screen_name": "baltaruiz",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58227,
+			"friends_count": 29135,
+			"listed_count": 1306,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16626,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@baltaruiz 😬😬😬"
+	},
+	{
+		"created_at": "Fri Nov 30 10:34:32 +0000 2018",
+		"id": 1068453216214376400,
+		"id_str": "1068453216214376449",
+		"full_text": "Boost SEO rankings by building your Twitter presence https://t.co/CCHySM27Kn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CCHySM27Kn",
+					"expanded_url": "https://blog.quuu.co/boost-seo-rankings-by-building-your-twitter-presence/?utm_source=Facebook%20group",
+					"display_url": "blog.quuu.co/boost-seo-rank…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 58226,
 			"friends_count": 29114,
 			"listed_count": 1308,
@@ -3413,7 +4151,7 @@ Grailbird.data.tweets_2018_11 =
 		"created_at": "Mon Nov 26 23:20:23 +0000 2018",
 		"id": 1067196397584183300,
 		"id_str": "1067196397584183296",
-		"full_text": "@realColinMac Right?? Unreal. 🤦🏻‍♀️",
+		"full_text": "@realColinMac Right?? Unreal. 🤦🏻♀️",
 		"truncated": false,
 		"display_text_range": [
 			14,
@@ -3513,7 +4251,7 @@ Grailbird.data.tweets_2018_11 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@realColinMac Right?? Unreal. 🤦🏻‍♀️"
+		"text": "@realColinMac Right?? Unreal. 🤦🏻♀️"
 	},
 	{
 		"created_at": "Mon Nov 26 22:50:37 +0000 2018",
@@ -3625,7 +4363,7 @@ Grailbird.data.tweets_2018_11 =
 		"created_at": "Mon Nov 26 22:47:04 +0000 2018",
 		"id": 1067188011945709600,
 		"id_str": "1067188011945709569",
-		"full_text": "@LeadGenSocial 🤦🏻‍♀️🤦🏻‍♀️🤦🏻‍♀️",
+		"full_text": "@LeadGenSocial 🤦🏻♀️🤦🏻♀️🤦🏻♀️",
 		"truncated": false,
 		"display_text_range": [
 			15,
@@ -3725,7 +4463,7 @@ Grailbird.data.tweets_2018_11 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "und",
-		"text": "@LeadGenSocial 🤦🏻‍♀️🤦🏻‍♀️🤦🏻‍♀️"
+		"text": "@LeadGenSocial 🤦🏻♀️🤦🏻♀️🤦🏻♀️"
 	},
 	{
 		"created_at": "Mon Nov 26 22:46:27 +0000 2018",
@@ -6589,7 +7327,7 @@ Grailbird.data.tweets_2018_11 =
 		"created_at": "Wed Nov 21 21:38:43 +0000 2018",
 		"id": 1065358875229007900,
 		"id_str": "1065358875229007877",
-		"full_text": "Whoa @dolcegabbana just butchered the chopstick 🤦🏻‍♀️ and now claim their Instagram has been hacked https://t.co/GHemzwHybo",
+		"full_text": "Whoa @dolcegabbana just butchered the chopstick 🤦🏻♀️ and now claim their Instagram has been hacked https://t.co/GHemzwHybo",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -6799,7 +7537,7 @@ Grailbird.data.tweets_2018_11 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Whoa @dolcegabbana just butchered the chopstick 🤦🏻‍♀️ and now claim their Instagram has been hacked https://t.co/GHemzwHybo"
+		"text": "Whoa @dolcegabbana just butchered the chopstick 🤦🏻♀️ and now claim their Instagram has been hacked https://t.co/GHemzwHybo"
 	},
 	{
 		"created_at": "Wed Nov 21 20:44:08 +0000 2018",
@@ -8296,7 +9034,7 @@ Grailbird.data.tweets_2018_11 =
 		"created_at": "Tue Nov 20 09:46:39 +0000 2018",
 		"id": 1064817288098963500,
 		"id_str": "1064817288098963456",
-		"full_text": "@JJ_Angelus 🙋🏻‍♀️ me too",
+		"full_text": "@JJ_Angelus 🙋🏻♀️ me too",
 		"truncated": false,
 		"display_text_range": [
 			12,
@@ -8396,7 +9134,7 @@ Grailbird.data.tweets_2018_11 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@JJ_Angelus 🙋🏻‍♀️ me too"
+		"text": "@JJ_Angelus 🙋🏻♀️ me too"
 	},
 	{
 		"created_at": "Tue Nov 20 09:45:26 +0000 2018",
@@ -14084,7 +14822,7 @@ Grailbird.data.tweets_2018_11 =
 				},
 				{
 					"screen_name": "akwyz",
-					"name": "Antonio Vieira Santos 🙋🏽‍♂️ #Journey2022",
+					"name": "Antonio Vieira Santos 🙋🏽♂️ #Journey2022",
 					"id": 19485870,
 					"id_str": "19485870",
 					"indices": [
@@ -18077,7 +18815,7 @@ Grailbird.data.tweets_2018_11 =
 				},
 				{
 					"screen_name": "alfred_lua",
-					"name": "Alfred Lua 🏊🏻‍♂️🚴🏻‍♂️🏃🏻‍♂️",
+					"name": "Alfred Lua 🏊🏻♂️🚴🏻♂️🏃🏻♂️",
 					"id": 1303155157,
 					"id_str": "1303155157",
 					"indices": [
@@ -18212,7 +18950,7 @@ Grailbird.data.tweets_2018_11 =
 			"user": {
 				"id": 1303155157,
 				"id_str": "1303155157",
-				"name": "Alfred Lua 🏊🏻‍♂️🚴🏻‍♂️🏃🏻‍♂️",
+				"name": "Alfred Lua 🏊🏻♂️🚴🏻♂️🏃🏻♂️",
 				"screen_name": "alfred_lua",
 				"location": "Singapore",
 				"description": "Growth Editor @buffer | 🏊🏻🚴🏻🏃🏻",
@@ -18306,7 +19044,7 @@ Grailbird.data.tweets_2018_11 =
 			"user_mentions": [
 				{
 					"screen_name": "alfred_lua",
-					"name": "Alfred Lua 🏊🏻‍♂️🚴🏻‍♂️🏃🏻‍♂️",
+					"name": "Alfred Lua 🏊🏻♂️🚴🏻♂️🏃🏻♂️",
 					"id": 1303155157,
 					"id_str": "1303155157",
 					"indices": [
@@ -18412,7 +19150,7 @@ Grailbird.data.tweets_2018_11 =
 			"user_mentions": [
 				{
 					"screen_name": "alfred_lua",
-					"name": "Alfred Lua 🏊🏻‍♂️🚴🏻‍♂️🏃🏻‍♂️",
+					"name": "Alfred Lua 🏊🏻♂️🚴🏻♂️🏃🏻♂️",
 					"id": 1303155157,
 					"id_str": "1303155157",
 					"indices": [
