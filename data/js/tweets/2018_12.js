@@ -1,6 +1,455 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 22 02:05:20 +0000 2018",
+		"id": 1076297605443813400,
+		"id_str": "1076297605443813376",
+		"full_text": "Interesting Indeed, Thanks @debbiediscovers https://t.co/ThGz5RCv29",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						27,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ThGz5RCv29",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1046803225201061888",
+					"display_url": "twitter.com/debbiediscover…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 281675813,
+			"id_str": "281675813",
+			"name": "artedge",
+			"screen_name": "Art_EdgeDotCom",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 5000,
+			"listed_count": 10,
+			"created_at": "Wed Apr 13 19:02:03 +0000 2011",
+			"favourites_count": 562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 679,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E5DAB2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368735499/ArtRazor_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368735499/ArtRazor_normal.jpg",
+			"profile_link_color": "8FC7B8",
+			"profile_sidebar_border_color": "1E1F27",
+			"profile_sidebar_fill_color": "464757",
+			"profile_text_color": "F2DECE",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1046803225201061900,
+		"quoted_status_id_str": "1046803225201061888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ThGz5RCv29",
+			"expanded": "https://twitter.com/debbiediscovers/status/1046803225201061888",
+			"display": "twitter.com/debbiediscover…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 01 16:45:12 +0000 2018",
+			"id": 1046803225201061900,
+			"id_str": "1046803225201061888",
+			"full_text": "Most Twitter users are not aware of the amount of data that Twitter collects in each tweet. Even social media marketers are not all aware of the “meta-data” that Twitter makes freely available via its APIs. #Twitter #Analytics #SMM https://t.co/HYpgUtbRbQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				255
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Twitter",
+						"indices": [
+							207,
+							215
+						]
+					},
+					{
+						"text": "Analytics",
+						"indices": [
+							216,
+							226
+						]
+					},
+					{
+						"text": "SMM",
+						"indices": [
+							227,
+							231
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HYpgUtbRbQ",
+						"expanded_url": "https://digitaldiscovery.sg/blog/what-analytics-do-you-get-from-twitter-api/",
+						"display_url": "digitaldiscovery.sg/blog/what-anal…",
+						"indices": [
+							232,
+							255
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore, London, New York",
+				"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 58234,
+				"friends_count": 29216,
+				"listed_count": 1310,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 18550,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16630,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 57,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interesting Indeed, Thanks @debbiediscovers https://t.co/ThGz5RCv29"
+	},
+	{
+		"created_at": "Sat Dec 22 03:56:43 +0000 2018",
+		"id": 1076325637382561800,
+		"id_str": "1076325637382561794",
+		"full_text": "@TechNurseJon Hah!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TechNurseJon",
+					"name": "Jon",
+					"id": 1267191636,
+					"id_str": "1267191636",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1076251668432543700,
+		"in_reply_to_status_id_str": "1076251668432543744",
+		"in_reply_to_user_id": 1267191636,
+		"in_reply_to_user_id_str": "1267191636",
+		"in_reply_to_screen_name": "TechNurseJon",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58234,
+			"friends_count": 29216,
+			"listed_count": 1310,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16630,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@TechNurseJon Hah!"
+	},
+	{
+		"created_at": "Sat Dec 22 03:56:27 +0000 2018",
+		"id": 1076325570605080600,
+		"id_str": "1076325570605080576",
+		"full_text": "@NewThor I smell a bad pun coming...",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewThor",
+					"name": "The King of America",
+					"id": 42721534,
+					"id_str": "42721534",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1076287675638956000,
+		"in_reply_to_status_id_str": "1076287675638956032",
+		"in_reply_to_user_id": 42721534,
+		"in_reply_to_user_id_str": "42721534",
+		"in_reply_to_screen_name": "NewThor",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58234,
+			"friends_count": 29216,
+			"listed_count": 1310,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16630,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NewThor I smell a bad pun coming..."
+	},
+	{
 		"created_at": "Sat Dec 22 01:24:25 +0000 2018",
 		"id": 1076287308700082200,
 		"id_str": "1076287308700082176",
@@ -3054,7 +3503,7 @@ Grailbird.data.tweets_2018_12 =
 		"created_at": "Sun Dec 16 22:20:14 +0000 2018",
 		"id": 1074429017225191400,
 		"id_str": "1074429017225191425",
-		"full_text": "@realjoet @realDonaldTrump 🤦🏻‍♀️ Pure insanity!",
+		"full_text": "@realjoet @realDonaldTrump 🤦🏻♀️ Pure insanity!",
 		"truncated": false,
 		"display_text_range": [
 			27,
@@ -3164,7 +3613,7 @@ Grailbird.data.tweets_2018_12 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "it",
-		"text": "@realjoet @realDonaldTrump 🤦🏻‍♀️ Pure insanity!"
+		"text": "@realjoet @realDonaldTrump 🤦🏻♀️ Pure insanity!"
 	},
 	{
 		"created_at": "Sun Dec 16 22:14:25 +0000 2018",
@@ -4293,7 +4742,7 @@ Grailbird.data.tweets_2018_12 =
 		"created_at": "Fri Dec 14 17:23:17 +0000 2018",
 		"id": 1073629513509089300,
 		"id_str": "1073629513509089280",
-		"full_text": "Creepy AF!! 🤦🏻‍♀️ https://t.co/OgnZtrlRXF",
+		"full_text": "Creepy AF!! 🤦🏻♀️ https://t.co/OgnZtrlRXF",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -4393,7 +4842,7 @@ Grailbird.data.tweets_2018_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Creepy AF!! 🤦🏻‍♀️ https://t.co/OgnZtrlRXF"
+		"text": "Creepy AF!! 🤦🏻♀️ https://t.co/OgnZtrlRXF"
 	},
 	{
 		"created_at": "Fri Dec 14 17:21:42 +0000 2018",
@@ -4823,7 +5272,7 @@ Grailbird.data.tweets_2018_12 =
 		"created_at": "Fri Dec 14 17:23:17 +0000 2018",
 		"id": 1073629513509089300,
 		"id_str": "1073629513509089280",
-		"full_text": "Creepy AF!! 🤦🏻‍♀️ https://t.co/OgnZtrlRXF",
+		"full_text": "Creepy AF!! 🤦🏻♀️ https://t.co/OgnZtrlRXF",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -4923,7 +5372,7 @@ Grailbird.data.tweets_2018_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Creepy AF!! 🤦🏻‍♀️ https://t.co/OgnZtrlRXF"
+		"text": "Creepy AF!! 🤦🏻♀️ https://t.co/OgnZtrlRXF"
 	},
 	{
 		"created_at": "Fri Dec 14 17:21:42 +0000 2018",
@@ -5677,7 +6126,7 @@ Grailbird.data.tweets_2018_12 =
 		"created_at": "Fri Dec 14 10:26:08 +0000 2018",
 		"id": 1073524532915269600,
 		"id_str": "1073524532915269632",
-		"full_text": "Jason Momoa! Who agrees? #aquaman⁠ ⁠ 😂😂😂 https://t.co/P5oMlNeucq",
+		"full_text": "Jason Momoa! Who agrees? #aquaman  😂😂😂 https://t.co/P5oMlNeucq",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -5853,7 +6302,7 @@ Grailbird.data.tweets_2018_12 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Jason Momoa! Who agrees? #aquaman⁠ ⁠ 😂😂😂 https://t.co/P5oMlNeucq"
+		"text": "Jason Momoa! Who agrees? #aquaman  😂😂😂 https://t.co/P5oMlNeucq"
 	},
 	{
 		"created_at": "Wed Dec 12 21:38:14 +0000 2018",
@@ -8871,7 +9320,7 @@ Grailbird.data.tweets_2018_12 =
 		"created_at": "Tue Dec 11 22:48:49 +0000 2018",
 		"id": 1072624270205956100,
 		"id_str": "1072624270205956096",
-		"full_text": "Good lord 🤦🏻‍♀️ https://t.co/7OEfmbr8I3",
+		"full_text": "Good lord 🤦🏻♀️ https://t.co/7OEfmbr8I3",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -8971,7 +9420,7 @@ Grailbird.data.tweets_2018_12 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Good lord 🤦🏻‍♀️ https://t.co/7OEfmbr8I3"
+		"text": "Good lord 🤦🏻♀️ https://t.co/7OEfmbr8I3"
 	},
 	{
 		"created_at": "Tue Dec 11 11:53:42 +0000 2018",
