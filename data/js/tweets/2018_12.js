@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 27 22:14:45 +0000 2018",
+		"id": 1078413903883694100,
+		"id_str": "1078413903883694081",
+		"full_text": "Never look down on people unless you are helping them up\n- #Jesse_Jackson\n\n#Humility and knowledge in poor clothes excel pride and ignorance in costly attire\n- #William_Penn\n\nPride is about our glory; humility is about God’s glory",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Jesse_Jackson",
+					"indices": [
+						59,
+						73
+					]
+				},
+				{
+					"text": "Humility",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"text": "William_Penn",
+					"indices": [
+						160,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 609940096,
+			"id_str": "609940096",
+			"name": "Peter Kay",
+			"screen_name": "peterkay47",
+			"location": "Singapore",
+			"description": "Mindfulness allows you not to miss out on your life. By focusing our minds in the present moment, we open ourselves to awareness, adaptation and transformation.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 206,
+			"friends_count": 348,
+			"listed_count": 0,
+			"created_at": "Sat Jun 16 12:05:23 +0000 2012",
+			"favourites_count": 243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 266,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993033070386204673/BJDpO0FG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993033070386204673/BJDpO0FG_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Never look down on people unless you are helping them up\n- #Jesse_Jackson\n\n#Humility and knowledge in poor clothes excel pride and ignorance in costly attire\n- #William_Penn\n\nPride is about our glory; humility is about God’s glory"
+	},
+	{
+		"created_at": "Fri Dec 28 08:31:26 +0000 2018",
+		"id": 1078569096067706900,
+		"id_str": "1078569096067706881",
+		"full_text": "\"It was Bruce Lee who had coined the famous quote stating you should take what’s useful, dismiss what’s not, and add your own secret sauce to the mix—but that’s what I did.\" - The Leangains Method: The Art of Getting Ripped. Researched, Practiced, Perfected by @Martinberkhan",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Martinberkhan",
+					"name": "Martin Berkhan",
+					"id": 105285304,
+					"id_str": "105285304",
+					"indices": [
+						261,
+						275
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1078474927429234700,
+			"id_str": "1078474927429234688",
+			"name": "Improve your Healthspan",
+			"screen_name": "HHealthspan",
+			"location": "Global",
+			"description": "#AI news on health and wellness, for a better healthspan",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2,
+			"friends_count": 11,
+			"listed_count": 0,
+			"created_at": "Fri Dec 28 02:17:14 +0000 2018",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1078564183652745217/rLYpwZp6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078564183652745217/rLYpwZp6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1078474927429234688/1545984700",
+			"profile_link_color": "26E2DA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "\"It was Bruce Lee who had coined the famous quote stating you should take what’s useful, dismiss what’s not, and add your own secret sauce to the mix—but that’s what I did.\" - The Leangains Method: The Art of Getting Ripped. Researched, Practiced, Perfected by @Martinberkhan"
+	},
+	{
 		"created_at": "Fri Dec 28 08:31:26 +0000 2018",
 		"id": 1078569096067706900,
 		"id_str": "1078569096067706881",
