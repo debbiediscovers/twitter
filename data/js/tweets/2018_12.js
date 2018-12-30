@@ -1,6 +1,554 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 30 03:10:18 +0000 2018",
+		"id": 1079213056339501000,
+		"id_str": "1079213056339501056",
+		"full_text": "@cartooninperson @Devin_Pickell It uses AI to classify your doodles, then matches it to an existing database of art made by artists, but does not redraw it. It correctly guessed my scribble was an attempt at a saxophone but couldn’t reproduce it in the right orientation. https://t.co/1dK4GLO0Li",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cartooninperson",
+					"name": "Ashley Ashbee",
+					"id": 109728248,
+					"id_str": "109728248",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Devin_Pickell",
+					"name": "Devin",
+					"id": 1030503065898639400,
+					"id_str": "1030503065898639364",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1079213043546910700,
+					"id_str": "1079213043546910725",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/Dvoii5GU8AUhh_A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dvoii5GU8AUhh_A.jpg",
+					"url": "https://t.co/1dK4GLO0Li",
+					"display_url": "pic.twitter.com/1dK4GLO0Li",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1079213056339501056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1079213043546910700,
+					"id_str": "1079213043546910725",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/Dvoii5GU8AUhh_A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dvoii5GU8AUhh_A.jpg",
+					"url": "https://t.co/1dK4GLO0Li",
+					"display_url": "pic.twitter.com/1dK4GLO0Li",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1079213056339501056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1079211071787987000,
+		"in_reply_to_status_id_str": "1079211071787986944",
+		"in_reply_to_user_id": 109728248,
+		"in_reply_to_user_id_str": "109728248",
+		"in_reply_to_screen_name": "cartooninperson",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58602,
+			"friends_count": 26714,
+			"listed_count": 1310,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16686,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@cartooninperson @Devin_Pickell It uses AI to classify your doodles, then matches it to an existing database of art made by artists, but does not redraw it. It correctly guessed my scribble was an attempt at a saxophone but couldn’t reproduce it in the right orientation. https://t.co/1dK4GLO0Li"
+	},
+	{
+		"created_at": "Sun Dec 30 02:57:21 +0000 2018",
+		"id": 1079209797034041300,
+		"id_str": "1079209797034041345",
+		"full_text": "@cartooninperson @Devin_Pickell And of course you’ll have people testing the tool... 😂  https://t.co/2EW2OnnmBi",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cartooninperson",
+					"name": "Ashley Ashbee",
+					"id": 109728248,
+					"id_str": "109728248",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Devin_Pickell",
+					"name": "Devin",
+					"id": 1030503065898639400,
+					"id_str": "1030503065898639364",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2EW2OnnmBi",
+					"expanded_url": "https://www.instagram.com/p/Bihoyv8gdOE/?utm_source=ig_share_sheet&igshid=fhmu3oko8lk4",
+					"display_url": "instagram.com/p/Bihoyv8gdOE/…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1079189965727326200,
+		"in_reply_to_status_id_str": "1079189965727326208",
+		"in_reply_to_user_id": 109728248,
+		"in_reply_to_user_id_str": "109728248",
+		"in_reply_to_screen_name": "cartooninperson",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58602,
+			"friends_count": 26714,
+			"listed_count": 1310,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16686,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@cartooninperson @Devin_Pickell And of course you’ll have people testing the tool... 😂  https://t.co/2EW2OnnmBi"
+	},
+	{
+		"created_at": "Sun Dec 30 02:54:07 +0000 2018",
+		"id": 1079208985431990300,
+		"id_str": "1079208985431990272",
+		"full_text": "@cartooninperson @Devin_Pickell Tried it! And yes all our drawing will turn out identical haha. https://t.co/gUPThXPhdt",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cartooninperson",
+					"name": "Ashley Ashbee",
+					"id": 109728248,
+					"id_str": "109728248",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Devin_Pickell",
+					"name": "Devin",
+					"id": 1030503065898639400,
+					"id_str": "1030503065898639364",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1079208779785224200,
+					"id_str": "1079208779785224192",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1079208779785224192/pu/img/6wfLOV4vE0xn26oD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1079208779785224192/pu/img/6wfLOV4vE0xn26oD.jpg",
+					"url": "https://t.co/gUPThXPhdt",
+					"display_url": "pic.twitter.com/gUPThXPhdt",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1079208985431990272/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 315,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1079208779785224200,
+					"id_str": "1079208779785224192",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1079208779785224192/pu/img/6wfLOV4vE0xn26oD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1079208779785224192/pu/img/6wfLOV4vE0xn26oD.jpg",
+					"url": "https://t.co/gUPThXPhdt",
+					"display_url": "pic.twitter.com/gUPThXPhdt",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1079208985431990272/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 315,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							37,
+							80
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1079208779785224192/pu/pl/4USmttG2kwO_5IYV.m3u8?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1079208779785224192/pu/vid/592x1280/6FI9ME5NPiVrQdeW.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1079208779785224192/pu/vid/360x778/erT2qdyHOwGmy7dS.mp4?tag=6"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1079208779785224192/pu/vid/320x690/8mewZnWAGYJZdYWS.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1079189965727326200,
+		"in_reply_to_status_id_str": "1079189965727326208",
+		"in_reply_to_user_id": 109728248,
+		"in_reply_to_user_id_str": "109728248",
+		"in_reply_to_screen_name": "cartooninperson",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58602,
+			"friends_count": 26714,
+			"listed_count": 1310,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16686,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@cartooninperson @Devin_Pickell Tried it! And yes all our drawing will turn out identical haha. https://t.co/gUPThXPhdt"
+	},
+	{
 		"created_at": "Sun Dec 30 01:36:37 +0000 2018",
 		"id": 1079189481398235100,
 		"id_str": "1079189481398235137",
