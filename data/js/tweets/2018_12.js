@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 31 07:41:08 +0000 2018",
+		"id": 1079643603180359700,
+		"id_str": "1079643603180359681",
+		"full_text": "\"How to Develop Better Habits in 2019\" - @RyanHoliday https://t.co/A2U5RpV6Q9 https://t.co/LwXAMMMfIu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RyanHoliday",
+					"name": "Ryan Holiday",
+					"id": 3764301,
+					"id_str": "3764301",
+					"indices": [
+						41,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/A2U5RpV6Q9",
+					"expanded_url": "https://link.medium.com/zsQaOLeG5S",
+					"display_url": "link.medium.com/zsQaOLeG5S",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1079643601158762500,
+					"id_str": "1079643601158762498",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/DvuqIpMXcAIXxjv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvuqIpMXcAIXxjv.jpg",
+					"url": "https://t.co/LwXAMMMfIu",
+					"display_url": "pic.twitter.com/LwXAMMMfIu",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1079643603180359681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 345,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1079643601158762500,
+					"id_str": "1079643601158762498",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/DvuqIpMXcAIXxjv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvuqIpMXcAIXxjv.jpg",
+					"url": "https://t.co/LwXAMMMfIu",
+					"display_url": "pic.twitter.com/LwXAMMMfIu",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1079643603180359681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 345,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://medium.com\" rel=\"nofollow\">Medium</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58602,
+			"friends_count": 27016,
+			"listed_count": 1312,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18696,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"How to Develop Better Habits in 2019\" - @RyanHoliday https://t.co/A2U5RpV6Q9 https://t.co/LwXAMMMfIu"
+	},
+	{
 		"created_at": "Sun Dec 30 23:19:01 +0000 2018",
 		"id": 1079517240444108800,
 		"id_str": "1079517240444108800",
