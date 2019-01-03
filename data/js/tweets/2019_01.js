@@ -60,6 +60,112 @@ Grailbird.data.tweets_2019_01 =
 			},
 			"protected": false,
 			"followers_count": 3631,
+			"friends_count": 2913,
+			"listed_count": 112,
+			"created_at": "Wed May 06 04:18:04 +0000 2015",
+			"favourites_count": 1414,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3253,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695419153637777408/ZymUqD7w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695419153637777408/ZymUqD7w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238023407/1454618597",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Digital footprints can be an asset or a liability for children. Building on their knowledge by giving them guidance in curating a positive online presence could go a long way to help children shape their own future. https://t.co/rmruJ5KDhK"
+	},
+	{
+		"created_at": "Thu Jan 03 21:04:39 +0000 2019",
+		"id": 1080932980007333900,
+		"id_str": "1080932980007333888",
+		"full_text": "Digital footprints can be an asset or a liability for children. Building on their knowledge by giving them guidance in curating a positive online presence could go a long way to help children shape their own future. https://t.co/rmruJ5KDhK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rmruJ5KDhK",
+					"expanded_url": "https://buff.ly/2VoWQb0",
+					"display_url": "buff.ly/2VoWQb0",
+					"indices": [
+						216,
+						239
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3238023407,
+			"id_str": "3238023407",
+			"name": "TheGiftedSingaporean",
+			"screen_name": "giftedsgp",
+			"location": "Singapore",
+			"description": "Ex-Gifted Ed Singaporeans, active advocates and supporters of Gifted children. #AI powered content. 💕📕✏️",
+			"url": "https://t.co/Cpez6FoqaX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Cpez6FoqaX",
+							"expanded_url": "https://www.facebook.com/giftedsgp",
+							"display_url": "facebook.com/giftedsgp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3631,
 			"friends_count": 2916,
 			"listed_count": 110,
 			"created_at": "Wed May 06 04:18:04 +0000 2015",
