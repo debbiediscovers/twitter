@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 07 16:00:02 +0000 2019",
+		"id": 1082305869537144800,
+		"id_str": "1082305869537144833",
+		"full_text": "Human: What do we want!?\nComputer: Natural language processing!\nHuman: When do we want it!?\nComputer: When do we want what?\n@debbiediscovers : I think you'll enjoy this one.\n\n#AI #algorithms #funny",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "algorithms",
+					"indices": [
+						179,
+						190
+					]
+				},
+				{
+					"text": "funny",
+					"indices": [
+						191,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						124,
+						140
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 966990458495930400,
+			"id_str": "966990458495930369",
+			"name": "SEOElixir",
+			"screen_name": "theSEOElixir",
+			"location": "Kolkata, India",
+			"description": "Simplify your online branding exercise with SEOElixir. We do Web Design, Content Marketing, Mobile App Development, Digital Marketing, SEO, SMO, SMM and more!",
+			"url": "https://t.co/S98rr0jdzz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S98rr0jdzz",
+							"expanded_url": "https://www.seoelixir.com/",
+							"display_url": "seoelixir.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 249,
+			"friends_count": 362,
+			"listed_count": 0,
+			"created_at": "Fri Feb 23 10:57:45 +0000 2018",
+			"favourites_count": 718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 575,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966993289047048192/kiGnub3F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966993289047048192/kiGnub3F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/966990458495930369/1519384166",
+			"profile_link_color": "F16976",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Human: What do we want!?\nComputer: Natural language processing!\nHuman: When do we want it!?\nComputer: When do we want what?\n@debbiediscovers : I think you'll enjoy this one.\n\n#AI #algorithms #funny"
+	},
+	{
 		"created_at": "Mon Jan 07 21:41:52 +0000 2019",
 		"id": 1082391897870487600,
 		"id_str": "1082391897870487552",
