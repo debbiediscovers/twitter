@@ -1,6 +1,800 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 11 18:52:57 +0000 2019",
+		"id": 1083798937155170300,
+		"id_str": "1083798937155170304",
+		"full_text": "Interesting article. Cooler design / layout. Check it out!  https://t.co/2OScgBk4pb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2OScgBk4pb",
+					"expanded_url": "https://www.theguardian.com/technology/ng-interactive/2019/jan/11/the-internet-but-not-as-we-know-it-life-online-in-china-russia-cuba-and-india?utm_source=instagramstories&utm_campaign=internetaroundtheworld",
+					"display_url": "theguardian.com/technology/ng-…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59803,
+			"friends_count": 31284,
+			"listed_count": 1322,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16806,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interesting article. Cooler design / layout. Check it out!  https://t.co/2OScgBk4pb"
+	},
+	{
+		"created_at": "Fri Jan 11 18:48:03 +0000 2019",
+		"id": 1083797706340876300,
+		"id_str": "1083797706340876288",
+		"full_text": "Creepy AF. https://t.co/YGaJFdMnJu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YGaJFdMnJu",
+					"expanded_url": "https://twitter.com/realjoet/status/1083731967194075136",
+					"display_url": "twitter.com/realjoet/statu…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59803,
+			"friends_count": 31284,
+			"listed_count": 1322,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16806,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "58a4c3a0d54e1400",
+			"url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json",
+			"place_type": "admin",
+			"name": "Central Region",
+			"full_name": "Central Region, Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.749959507073,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.36874499902569
+						],
+						[
+							103.749959507073,
+							1.36874499902569
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083731967194075100,
+		"quoted_status_id_str": "1083731967194075136",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YGaJFdMnJu",
+			"expanded": "https://twitter.com/realjoet/status/1083731967194075136",
+			"display": "twitter.com/realjoet/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 11 14:26:50 +0000 2019",
+			"id": 1083731967194075100,
+			"id_str": "1083731967194075136",
+			"full_text": "For owners of Amazon's Ring security cameras, strangers may have been watching https://t.co/SFsjARjbql by @samfbiddle #data #bigdata #tech #bigtech #privacy #security #surveillance #ethics #regulation",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				200
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "data",
+						"indices": [
+							118,
+							123
+						]
+					},
+					{
+						"text": "bigdata",
+						"indices": [
+							124,
+							132
+						]
+					},
+					{
+						"text": "tech",
+						"indices": [
+							133,
+							138
+						]
+					},
+					{
+						"text": "bigtech",
+						"indices": [
+							139,
+							147
+						]
+					},
+					{
+						"text": "privacy",
+						"indices": [
+							148,
+							156
+						]
+					},
+					{
+						"text": "security",
+						"indices": [
+							157,
+							166
+						]
+					},
+					{
+						"text": "surveillance",
+						"indices": [
+							167,
+							180
+						]
+					},
+					{
+						"text": "ethics",
+						"indices": [
+							181,
+							188
+						]
+					},
+					{
+						"text": "regulation",
+						"indices": [
+							189,
+							200
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "samfbiddle",
+						"name": "Sam Biddle",
+						"id": 44123487,
+						"id_str": "44123487",
+						"indices": [
+							106,
+							117
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SFsjARjbql",
+						"expanded_url": "https://interc.pt/2Rp2E6d",
+						"display_url": "interc.pt/2Rp2E6d",
+						"indices": [
+							79,
+							102
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 65144656,
+				"id_str": "65144656",
+				"name": "Joe Toscano ⚡️",
+				"screen_name": "realjoet",
+				"location": "The clouds",
+				"description": "Founder, https://t.co/Js3YlTRqKq // Contributor, @smashingmag @adweek @invisionapp // prev XD, @rga @google. Changing the world w/ a smile, design & some code.",
+				"url": "https://t.co/gf59SLunGe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gf59SLunGe",
+								"expanded_url": "http://realjoet.me",
+								"display_url": "realjoet.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Js3YlTRqKq",
+								"expanded_url": "http://designgood.tech",
+								"display_url": "designgood.tech",
+								"indices": [
+									9,
+									32
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2341,
+				"friends_count": 614,
+				"listed_count": 449,
+				"created_at": "Wed Aug 12 20:07:58 +0000 2009",
+				"favourites_count": 6018,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16387,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/986075183600586752/z6r-EtLB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/986075183600586752/z6r-EtLB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65144656/1509936392",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "121212",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Creepy AF. https://t.co/YGaJFdMnJu"
+	},
+	{
+		"created_at": "Fri Jan 11 12:33:26 +0000 2019",
+		"id": 1083703431326425100,
+		"id_str": "1083703431326425088",
+		"full_text": "Who you gonna unfriend today? #sparkjoy Via @ApolloHelios 😆 https://t.co/QlV9IKrQWS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sparkjoy",
+					"indices": [
+						30,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ApolloHelios",
+					"name": "Roy Lai",
+					"id": 43672906,
+					"id_str": "43672906",
+					"indices": [
+						44,
+						57
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083703423504007200,
+					"id_str": "1083703423504007169",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DwoWhZ_UwAEy1Ji.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwoWhZ_UwAEy1Ji.jpg",
+					"url": "https://t.co/QlV9IKrQWS",
+					"display_url": "pic.twitter.com/QlV9IKrQWS",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1083703431326425088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 647,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 391,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 647,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083703423504007200,
+					"id_str": "1083703423504007169",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DwoWhZ_UwAEy1Ji.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwoWhZ_UwAEy1Ji.jpg",
+					"url": "https://t.co/QlV9IKrQWS",
+					"display_url": "pic.twitter.com/QlV9IKrQWS",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1083703431326425088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 647,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 391,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 647,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59803,
+			"friends_count": 31284,
+			"listed_count": 1322,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16806,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "58a4c3a0d54e1400",
+			"url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json",
+			"place_type": "admin",
+			"name": "Central Region",
+			"full_name": "Central Region, Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.749959507073,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.36874499902569
+						],
+						[
+							103.749959507073,
+							1.36874499902569
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who you gonna unfriend today? #sparkjoy Via @ApolloHelios 😆 https://t.co/QlV9IKrQWS"
+	},
+	{
+		"created_at": "Fri Jan 11 18:40:04 +0000 2019",
+		"id": 1083795696875036700,
+		"id_str": "1083795696875036672",
+		"full_text": "@ManningHutson @ApolloHelios @GongGasGirl Haha love the hashtag 😂",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ManningHutson",
+					"name": "Michelle Manning Hutson",
+					"id": 985476774560546800,
+					"id_str": "985476774560546816",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "ApolloHelios",
+					"name": "Roy Lai",
+					"id": 43672906,
+					"id_str": "43672906",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"screen_name": "GongGasGirl",
+					"name": "Tanya",
+					"id": 1552074888,
+					"id_str": "1552074888",
+					"indices": [
+						29,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1083708953022754800,
+		"in_reply_to_status_id_str": "1083708953022754816",
+		"in_reply_to_user_id": 985476774560546800,
+		"in_reply_to_user_id_str": "985476774560546816",
+		"in_reply_to_screen_name": "ManningHutson",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59803,
+			"friends_count": 31284,
+			"listed_count": 1322,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16806,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ManningHutson @ApolloHelios @GongGasGirl Haha love the hashtag 😂"
+	},
+	{
 		"created_at": "Fri Jan 11 12:52:15 +0000 2019",
 		"id": 1083708166116827100,
 		"id_str": "1083708166116827136",
