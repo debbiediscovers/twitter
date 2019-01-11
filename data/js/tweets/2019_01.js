@@ -97,6 +97,455 @@ Grailbird.data.tweets_2019_01 =
 			"protected": false,
 			"followers_count": 1983,
 			"friends_count": 5001,
+			"listed_count": 617,
+			"created_at": "Fri May 15 18:03:13 +0000 2009",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/661669866265448448/bCobRaD8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/661669866265448448/bCobRaD8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40295027/1525751927",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083260989695352800,
+		"quoted_status_id_str": "1083260989695352832",
+		"quoted_status_permalink": {
+			"url": "https://t.co/k1JRijigUH",
+			"expanded": "https://twitter.com/debbiediscovers/status/1083260989695352832",
+			"display": "twitter.com/debbiediscover…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 10 07:15:20 +0000 2019",
+			"id": 1083260989695352800,
+			"id_str": "1083260989695352832",
+			"full_text": "My dad is the best ❤️ Follow him for daily wisdom 👉 @peterkay47 https://t.co/pVQBCV1HaI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "peterkay47",
+						"name": "Peter Kay",
+						"id": 609940096,
+						"id_str": "609940096",
+						"indices": [
+							52,
+							63
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1083260983332692000,
+						"id_str": "1083260983332691968",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/DwiEH_6V4AAkPR3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwiEH_6V4AAkPR3.jpg",
+						"url": "https://t.co/pVQBCV1HaI",
+						"display_url": "pic.twitter.com/pVQBCV1HaI",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/1083260989695352832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1083260983332692000,
+						"id_str": "1083260983332691968",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/DwiEH_6V4AAkPR3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwiEH_6V4AAkPR3.jpg",
+						"url": "https://t.co/pVQBCV1HaI",
+						"display_url": "pic.twitter.com/pVQBCV1HaI",
+						"expanded_url": "https://twitter.com/debbiediscovers/status/1083260989695352832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore, London, New York",
+				"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 59675,
+				"friends_count": 30964,
+				"listed_count": 1325,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 18916,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16795,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow @debbiediscovers, very cool to see your dad @peterkay47 on Twitter being a champion for #mindfulness! #ThursdayMotivation 🧠💪 https://t.co/k1JRijigUH"
+	},
+	{
+		"created_at": "Fri Jan 11 02:57:00 +0000 2019",
+		"id": 1083558365546987500,
+		"id_str": "1083558365546987520",
+		"full_text": "@ryanlouie @peterkay47 Yes yes he’s great!!! ❤️😍❤️😍",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryanlouie",
+					"name": "Ryan K. Louie, MD, PhD",
+					"id": 40295027,
+					"id_str": "40295027",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "peterkay47",
+					"name": "Peter Kay",
+					"id": 609940096,
+					"id_str": "609940096",
+					"indices": [
+						11,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1083557556000157700,
+		"in_reply_to_status_id_str": "1083557556000157696",
+		"in_reply_to_user_id": 40295027,
+		"in_reply_to_user_id_str": "40295027",
+		"in_reply_to_screen_name": "ryanlouie",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59675,
+			"friends_count": 30964,
+			"listed_count": 1325,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16795,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ryanlouie @peterkay47 Yes yes he’s great!!! ❤️😍❤️😍"
+	},
+	{
+		"created_at": "Fri Jan 11 02:53:47 +0000 2019",
+		"id": 1083557556000157700,
+		"id_str": "1083557556000157696",
+		"full_text": "Wow @debbiediscovers, very cool to see your dad @peterkay47 on Twitter being a champion for #mindfulness! #ThursdayMotivation 🧠💪 https://t.co/k1JRijigUH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mindfulness",
+					"indices": [
+						92,
+						104
+					]
+				},
+				{
+					"text": "ThursdayMotivation",
+					"indices": [
+						106,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						4,
+						20
+					]
+				},
+				{
+					"screen_name": "peterkay47",
+					"name": "Peter Kay",
+					"id": 609940096,
+					"id_str": "609940096",
+					"indices": [
+						48,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/k1JRijigUH",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1083260989695352832",
+					"display_url": "twitter.com/debbiediscover…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40295027,
+			"id_str": "40295027",
+			"name": "Ryan K. Louie, MD, PhD",
+			"screen_name": "ryanlouie",
+			"location": "SFO | HNL | NRT",
+			"description": "Board-Certified Psychiatrist @SaintFrancis_SF @DignityHealth. #Entrepreneurs #MentalHealth. Prev: @UHPsych @StateDept @StanfordMed @FulbrightPrgrm. Views=My Own",
+			"url": "https://t.co/a5h26kWpmd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a5h26kWpmd",
+							"expanded_url": "http://ryanklouie.com",
+							"display_url": "ryanklouie.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1983,
+			"friends_count": 5001,
 			"listed_count": 616,
 			"created_at": "Fri May 15 18:03:13 +0000 2009",
 			"favourites_count": 0,
