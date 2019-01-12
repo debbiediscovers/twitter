@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 12 01:09:09 +0000 2019",
+		"id": 1083893612297957400,
+		"id_str": "1083893612297957378",
+		"full_text": "@JorgeBlancasM Yes I’ve written about this and other things Twitter can track before. https://t.co/WVVE94HEQ4",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JorgeBlancasM",
+					"name": "Jorge Blancas-Moreno",
+					"id": 745440296427655200,
+					"id_str": "745440296427655168",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WVVE94HEQ4",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1046803225201061888?s=21",
+					"display_url": "twitter.com/debbiediscover…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1083834636663427100,
+		"in_reply_to_status_id_str": "1083834636663427072",
+		"in_reply_to_user_id": 745440296427655200,
+		"in_reply_to_user_id_str": "745440296427655168",
+		"in_reply_to_screen_name": "JorgeBlancasM",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59833,
+			"friends_count": 31455,
+			"listed_count": 1323,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16815,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1046803225201061900,
+		"quoted_status_id_str": "1046803225201061888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WVVE94HEQ4",
+			"expanded": "https://twitter.com/debbiediscovers/status/1046803225201061888?s=21",
+			"display": "twitter.com/debbiediscover…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 01 16:45:12 +0000 2018",
+			"id": 1046803225201061900,
+			"id_str": "1046803225201061888",
+			"full_text": "Most Twitter users are not aware of the amount of data that Twitter collects in each tweet. Even social media marketers are not all aware of the “meta-data” that Twitter makes freely available via its APIs. #Twitter #Analytics #SMM https://t.co/HYpgUtbRbQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				255
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Twitter",
+						"indices": [
+							207,
+							215
+						]
+					},
+					{
+						"text": "Analytics",
+						"indices": [
+							216,
+							226
+						]
+					},
+					{
+						"text": "SMM",
+						"indices": [
+							227,
+							231
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HYpgUtbRbQ",
+						"expanded_url": "https://digitaldiscovery.sg/blog/what-analytics-do-you-get-from-twitter-api/",
+						"display_url": "digitaldiscovery.sg/blog/what-anal…",
+						"indices": [
+							232,
+							255
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060836348,
+				"id_str": "3060836348",
+				"name": "Deborah Kay",
+				"screen_name": "debbiediscovers",
+				"location": "Singapore, London, New York",
+				"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+				"url": "https://t.co/1ZPsVnM33e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ZPsVnM33e",
+								"expanded_url": "https://linktr.ee/debbiediscovers",
+								"display_url": "linktr.ee/debbiediscovers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 59833,
+				"friends_count": 31455,
+				"listed_count": 1323,
+				"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+				"favourites_count": 18948,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16815,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+				"profile_link_color": "D50252",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JorgeBlancasM Yes I’ve written about this and other things Twitter can track before. https://t.co/WVVE94HEQ4"
+	},
+	{
 		"created_at": "Fri Jan 11 21:56:44 +0000 2019",
 		"id": 1083845188219367400,
 		"id_str": "1083845188219367425",
