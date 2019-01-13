@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 13 06:58:20 +0000 2019",
+		"id": 1084343872862343200,
+		"id_str": "1084343872862343168",
+		"full_text": "This just made my Sunday. No this just made my freaking week!!! https://t.co/PY9vXVEDYm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PY9vXVEDYm",
+					"expanded_url": "https://twitter.com/kid_chrissy/status/1082472189725687808",
+					"display_url": "twitter.com/kid_chrissy/st…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | @Medium Top writer in #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60057,
+			"friends_count": 32320,
+			"listed_count": 1319,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 18965,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16816,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "58a4c3a0d54e1400",
+			"url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json",
+			"place_type": "admin",
+			"name": "Central Region",
+			"full_name": "Central Region, Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.749959507073,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.36874499902569
+						],
+						[
+							103.749959507073,
+							1.36874499902569
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1082472189725687800,
+		"quoted_status_id_str": "1082472189725687808",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PY9vXVEDYm",
+			"expanded": "https://twitter.com/kid_chrissy/status/1082472189725687808",
+			"display": "twitter.com/kid_chrissy/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 08 03:00:56 +0000 2019",
+			"id": 1082472189725687800,
+			"id_str": "1082472189725687808",
+			"full_text": "“Siri what 1 trillion to the tenth power” https://t.co/ufcSexrqWZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				41
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1082472122184884200,
+						"id_str": "1082472122184884226",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1082472122184884226/pu/img/LBqhEql_w0nHyG43.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1082472122184884226/pu/img/LBqhEql_w0nHyG43.jpg",
+						"url": "https://t.co/ufcSexrqWZ",
+						"display_url": "pic.twitter.com/ufcSexrqWZ",
+						"expanded_url": "https://twitter.com/kid_chrissy/status/1082472189725687808/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1082472122184884200,
+						"id_str": "1082472122184884226",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1082472122184884226/pu/img/LBqhEql_w0nHyG43.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1082472122184884226/pu/img/LBqhEql_w0nHyG43.jpg",
+						"url": "https://t.co/ufcSexrqWZ",
+						"display_url": "pic.twitter.com/ufcSexrqWZ",
+						"expanded_url": "https://twitter.com/kid_chrissy/status/1082472189725687808/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 43505,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1082472122184884226/pu/vid/360x640/dahMF5xm4RQHr_Tj.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1082472122184884226/pu/pl/BHMtMVJApkl5tqBw.m3u8?tag=8"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1082472122184884226/pu/vid/320x568/7khGXmepM-kjq-hP.mp4?tag=8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1082472122184884226/pu/vid/720x1280/OlQJCVmKlJFQKmaB.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 448562216,
+				"id_str": "448562216",
+				"name": "Christine 🇬🇾",
+				"screen_name": "kid_chrissy",
+				"location": "",
+				"description": "⭕️SU Alum 🎓 ig: _chrissylashey_",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 740,
+				"friends_count": 515,
+				"listed_count": 6,
+				"created_at": "Wed Dec 28 04:11:10 +0000 2011",
+				"favourites_count": 3181,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17465,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1083131711288946688/bpHceVWM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083131711288946688/bpHceVWM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/448562216/1504632023",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 72128,
+			"favorite_count": 219343,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This just made my Sunday. No this just made my freaking week!!! https://t.co/PY9vXVEDYm"
+	},
+	{
 		"created_at": "Sun Jan 13 03:33:52 +0000 2019",
 		"id": 1084292418575380500,
 		"id_str": "1084292418575380480",
