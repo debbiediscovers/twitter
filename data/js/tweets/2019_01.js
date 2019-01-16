@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 16 11:47:35 +0000 2019",
+		"id": 1085503830119206900,
+		"id_str": "1085503830119206912",
+		"full_text": "@theSEOElixir @BRAVOMedia1 @CyrusShepard @AdventureGlass @Carol_Stephen @DhruboMukherje @AskKristie @jorjevio @randyclarktko @socialhoox https://t.co/MAW7rkst6h",
+		"truncated": false,
+		"display_text_range": [
+			136,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theSEOElixir",
+					"name": "SEOElixir",
+					"id": 966990458495930400,
+					"id_str": "966990458495930369",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "BRAVOMedia1",
+					"name": "Debi Norton",
+					"id": 1283019085,
+					"id_str": "1283019085",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "CyrusShepard",
+					"name": "Cyrus",
+					"id": 218620803,
+					"id_str": "218620803",
+					"indices": [
+						27,
+						40
+					]
+				},
+				{
+					"screen_name": "AdventureGlass",
+					"name": "Beth Staub",
+					"id": 111363812,
+					"id_str": "111363812",
+					"indices": [
+						41,
+						56
+					]
+				},
+				{
+					"screen_name": "Carol_Stephen",
+					"name": "Carol Stephen",
+					"id": 84253390,
+					"id_str": "84253390",
+					"indices": [
+						57,
+						71
+					]
+				},
+				{
+					"screen_name": "DhruboMukherje",
+					"name": "Dhrubo Mukherjee",
+					"id": 1033614859349315600,
+					"id_str": "1033614859349315586",
+					"indices": [
+						72,
+						87
+					]
+				},
+				{
+					"screen_name": "AskKristie",
+					"name": "Kristie Mathews 🎯💰",
+					"id": 3220890774,
+					"id_str": "3220890774",
+					"indices": [
+						88,
+						99
+					]
+				},
+				{
+					"screen_name": "jorjevio",
+					"name": "George Sklavounos",
+					"id": 12820232,
+					"id_str": "12820232",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"screen_name": "randyclarktko",
+					"name": "randy clark",
+					"id": 167508932,
+					"id_str": "167508932",
+					"indices": [
+						110,
+						124
+					]
+				},
+				{
+					"screen_name": "socialhoox",
+					"name": "socialhoox",
+					"id": 956972964750200800,
+					"id_str": "956972964750200832",
+					"indices": [
+						125,
+						136
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1085503820069666800,
+					"id_str": "1085503820069666819",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DxB7-R2VAAMvF-q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DxB7-R2VAAMvF-q.jpg",
+					"url": "https://t.co/MAW7rkst6h",
+					"display_url": "pic.twitter.com/MAW7rkst6h",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1085503830119206912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085503820069666800,
+					"id_str": "1085503820069666819",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DxB7-R2VAAMvF-q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DxB7-R2VAAMvF-q.jpg",
+					"url": "https://t.co/MAW7rkst6h",
+					"display_url": "pic.twitter.com/MAW7rkst6h",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1085503830119206912/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DxB7-R2VAAMvF-q.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1085501855537328100,
+		"in_reply_to_status_id_str": "1085501855537328128",
+		"in_reply_to_user_id": 966990458495930400,
+		"in_reply_to_user_id_str": "966990458495930369",
+		"in_reply_to_screen_name": "theSEOElixir",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60367,
+			"friends_count": 30498,
+			"listed_count": 1333,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16856,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@theSEOElixir @BRAVOMedia1 @CyrusShepard @AdventureGlass @Carol_Stephen @DhruboMukherje @AskKristie @jorjevio @randyclarktko @socialhoox https://t.co/MAW7rkst6h"
+	},
+	{
+		"created_at": "Wed Jan 16 11:36:04 +0000 2019",
+		"id": 1085500932450771000,
+		"id_str": "1085500987530346496",
+		"full_text": "“How a Business Leader Can Think Like a Futurist” by @carinecarmy https://t.co/ptppcXJEo8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "carinecarmy",
+					"name": "Carine Carmy",
+					"id": 42744366,
+					"id_str": "42744366",
+					"indices": [
+						53,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ptppcXJEo8",
+					"expanded_url": "https://link.medium.com/P9iRkKuvwT",
+					"display_url": "link.medium.com/P9iRkKuvwT",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 746360730920718300,
+			"id_str": "746360730920718336",
+			"name": "Digital Futurist",
+			"screen_name": "digitalfuturist",
+			"location": "In the Digital Future",
+			"description": "Serving #AI content on #DigitalDisruption, #DigitalTransformation. In the digital future, we are all dead. The future of digital is now. By @debbiediscovers",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8206,
+			"friends_count": 6348,
+			"listed_count": 99,
+			"created_at": "Fri Jun 24 15:14:00 +0000 2016",
+			"favourites_count": 389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2251,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/751328844389376000/nRhNMn0W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/751328844389376000/nRhNMn0W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/746360730920718336/1467951506",
+			"profile_link_color": "36E2BE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“How a Business Leader Can Think Like a Futurist” by @carinecarmy https://t.co/ptppcXJEo8"
+	},
+	{
 		"created_at": "Tue Jan 15 03:52:50 +0000 2019",
 		"id": 1085021967785345000,
 		"id_str": "1085492877373784064",
