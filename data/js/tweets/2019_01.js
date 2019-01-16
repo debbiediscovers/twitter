@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 16 19:11:24 +0000 2019",
+		"id": 1085615520794185700,
+		"id_str": "1085625310911946752",
+		"full_text": "@debbiediscovers  Congrats! You are ranked #3 on the 16 Jan 2019 update of Twitter Followers Club. https://t.co/rXlNdzCZTo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rXlNdzCZTo",
+					"expanded_url": "https://www.rise.global/twitter-followers-club/r/2601125",
+					"display_url": "rise.global/twitter-follow…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.rise.global\" rel=\"nofollow\">rise.global</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 1502357995,
+			"id_str": "1502357995",
+			"name": "Rise Social Media",
+			"screen_name": "rise_sm",
+			"location": "London UK",
+			"description": "SMART Social scorecards are the best way to improve your social presence over time. Find out more at https://t.co/aioYo1pEoU",
+			"url": "http://t.co/QbPj8fPiCQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/QbPj8fPiCQ",
+							"expanded_url": "http://www.rise.global",
+							"display_url": "rise.global",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aioYo1pEoU",
+							"expanded_url": "http://www.rise.global",
+							"display_url": "rise.global",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 471,
+			"friends_count": 184,
+			"listed_count": 58,
+			"created_at": "Tue Jun 11 11:47:57 +0000 2013",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29214,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451029755827998722/jJn3q_ic_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451029755827998722/jJn3q_ic_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1502357995/1435250578",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@debbiediscovers  Congrats! You are ranked #3 on the 16 Jan 2019 update of Twitter Followers Club. https://t.co/rXlNdzCZTo"
+	},
+	{
 		"created_at": "Wed Jan 16 11:47:35 +0000 2019",
 		"id": 1085503830119206900,
 		"id_str": "1085503830119206912",
