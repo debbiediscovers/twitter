@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 18 10:08:42 +0000 2019",
+		"id": 1086203723053842400,
+		"id_str": "1086203723053842432",
+		"full_text": "@sandrinea @christianrenard @jbonnel @fadouce @jblefevre60 @jhagel @Siecledigital @SpirosMargaris @kalydeoo @ArnaultChatel @frocq @FGraillot @dr_l_alexandre @rossdawson @raconteur @dhinchcliffe Hello from Singapore! Happy Friday!! 😊😉 https://t.co/LFT1Mx7qj4",
+		"truncated": false,
+		"display_text_range": [
+			194,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sandrinea",
+					"name": "Sandrine",
+					"id": 26217954,
+					"id_str": "26217954",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "christianrenard",
+					"name": "Christian Renard",
+					"id": 20417089,
+					"id_str": "20417089",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "jbonnel",
+					"name": "Julien Bonnel",
+					"id": 14171812,
+					"id_str": "14171812",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"screen_name": "fadouce",
+					"name": "fabienne billat",
+					"id": 123298601,
+					"id_str": "123298601",
+					"indices": [
+						37,
+						45
+					]
+				},
+				{
+					"screen_name": "jblefevre60",
+					"name": "Jean-Baptiste Lefevre",
+					"id": 4374719908,
+					"id_str": "4374719908",
+					"indices": [
+						46,
+						58
+					]
+				},
+				{
+					"screen_name": "jhagel",
+					"name": "John Hagel",
+					"id": 14076943,
+					"id_str": "14076943",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"screen_name": "Siecledigital",
+					"name": "Siècle Digital",
+					"id": 1637793782,
+					"id_str": "1637793782",
+					"indices": [
+						67,
+						81
+					]
+				},
+				{
+					"screen_name": "SpirosMargaris",
+					"name": "Spiros Margaris",
+					"id": 2711212681,
+					"id_str": "2711212681",
+					"indices": [
+						82,
+						97
+					]
+				},
+				{
+					"screen_name": "kalydeoo",
+					"name": "Eric Gaubert",
+					"id": 380487157,
+					"id_str": "380487157",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"screen_name": "ArnaultChatel",
+					"name": "Arnault Chatel",
+					"id": 278408122,
+					"id_str": "278408122",
+					"indices": [
+						108,
+						122
+					]
+				},
+				{
+					"screen_name": "frocq",
+					"name": "Florence Rocq",
+					"id": 1515432913,
+					"id_str": "1515432913",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"screen_name": "FGraillot",
+					"name": "Florian Graillot",
+					"id": 386169875,
+					"id_str": "386169875",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"screen_name": "dr_l_alexandre",
+					"name": "Laurent Alexandre",
+					"id": 945473418,
+					"id_str": "945473418",
+					"indices": [
+						141,
+						156
+					]
+				},
+				{
+					"screen_name": "rossdawson",
+					"name": "Ross Dawson",
+					"id": 15184929,
+					"id_str": "15184929",
+					"indices": [
+						157,
+						168
+					]
+				},
+				{
+					"screen_name": "raconteur",
+					"name": "Raconteur",
+					"id": 44664072,
+					"id_str": "44664072",
+					"indices": [
+						169,
+						179
+					]
+				},
+				{
+					"screen_name": "dhinchcliffe",
+					"name": "Dion Hinchcliffe",
+					"id": 1585,
+					"id_str": "1585",
+					"indices": [
+						180,
+						193
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086203708281544700,
+					"id_str": "1086203708281544704",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DxL4hInVYAAb071.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DxL4hInVYAAb071.jpg",
+					"url": "https://t.co/LFT1Mx7qj4",
+					"display_url": "pic.twitter.com/LFT1Mx7qj4",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1086203723053842432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 208,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 208,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 208,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086203708281544700,
+					"id_str": "1086203708281544704",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DxL4hInVYAAb071.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DxL4hInVYAAb071.jpg",
+					"url": "https://t.co/LFT1Mx7qj4",
+					"display_url": "pic.twitter.com/LFT1Mx7qj4",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1086203723053842432/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 208,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 208,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 208,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							52
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DxL4hInVYAAb071.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1086158579676168200,
+		"in_reply_to_status_id_str": "1086158579676168192",
+		"in_reply_to_user_id": 26217954,
+		"in_reply_to_user_id_str": "26217954",
+		"in_reply_to_screen_name": "sandrinea",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60460,
+			"friends_count": 28437,
+			"listed_count": 1331,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16860,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@sandrinea @christianrenard @jbonnel @fadouce @jblefevre60 @jhagel @Siecledigital @SpirosMargaris @kalydeoo @ArnaultChatel @frocq @FGraillot @dr_l_alexandre @rossdawson @raconteur @dhinchcliffe Hello from Singapore! Happy Friday!! 😊😉 https://t.co/LFT1Mx7qj4"
+	},
+	{
 		"created_at": "Fri Jan 18 02:08:22 +0000 2019",
 		"id": 1086082840268132400,
 		"id_str": "1086082840268132352",
