@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 19 19:00:02 +0000 2019",
+		"id": 1086699825603756000,
+		"id_str": "1086728623409704962",
+		"full_text": "Don’t Reply to Your Emails by @TaylorLorenz https://t.co/d2QyJEWGGs via @debbiediscovers + @Gearheadgal",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TaylorLorenz",
+					"name": "Taylor Lorenz",
+					"id": 208725869,
+					"id_str": "208725869",
+					"indices": [
+						30,
+						43
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						72,
+						88
+					]
+				},
+				{
+					"screen_name": "Gearheadgal",
+					"name": "Leslie Grandy",
+					"id": 5403622,
+					"id_str": "5403622",
+					"indices": [
+						91,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d2QyJEWGGs",
+					"expanded_url": "https://www.theatlantic.com/technology/archive/2019/01/case-inbox-infinity/579673",
+					"display_url": "theatlantic.com/technology/arc…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twuffer.com\" rel=\"nofollow\">Twuffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 290001796,
+			"id_str": "290001796",
+			"name": "Matt Anderson",
+			"screen_name": "MattAndersonUT",
+			"location": "Draper, UT",
+			"description": "senior product manager in Utah, derailed academic librarian ... interested in #prodmgmt, #prodmktg, #ux, #mobile, libraries, privacy",
+			"url": "https://t.co/CpOA6cosF7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CpOA6cosF7",
+							"expanded_url": "http://www.mattanderson.org/blog",
+							"display_url": "mattanderson.org/blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4070,
+			"friends_count": 4174,
+			"listed_count": 583,
+			"created_at": "Fri Apr 29 15:50:22 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26083,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "282D29",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/749445969104605184/OFuvZRRk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/749445969104605184/OFuvZRRk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/290001796/1467517624",
+			"profile_link_color": "238998",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don’t Reply to Your Emails by @TaylorLorenz https://t.co/d2QyJEWGGs via @debbiediscovers + @Gearheadgal"
+	},
+	{
 		"created_at": "Tue Jan 15 22:33:00 +0000 2019",
 		"id": 1085303867661676500,
 		"id_str": "1086572752117555200",
