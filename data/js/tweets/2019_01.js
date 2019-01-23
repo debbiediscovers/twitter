@@ -1,6 +1,834 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 23 06:42:16 +0000 2019",
+		"id": 1087963708079394800,
+		"id_str": "1087966263815667717",
+		"full_text": "Key Takeaways for 2019 on A.I. by @debbiediscovers.\n\nIf you’re interested in learning more about this, Deborah will be conducting a 2-day training - Econsultancy’s AI Chatbots for Marketers on 26-27Feb \n\nMore details can be found here - https://t.co/fobufn4bfK\n\n#DO2019 https://t.co/3OjdmcQJIC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DO2019",
+					"indices": [
+						262,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						34,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fobufn4bfK",
+					"expanded_url": "https://www.clickacademyasia.com/classgroup/econsultancys-a-i-chatbot-for-marketers-workshop-sg/?id_class=3564",
+					"display_url": "clickacademyasia.com/classgroup/eco…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1087963685891522600,
+					"id_str": "1087963685891522561",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxk5NUIWwAE9gnb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxk5NUIWwAE9gnb.jpg",
+					"url": "https://t.co/3OjdmcQJIC",
+					"display_url": "pic.twitter.com/3OjdmcQJIC",
+					"expanded_url": "https://twitter.com/PerlieMX/status/1087963708079394817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087963685891522600,
+					"id_str": "1087963685891522561",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxk5NUIWwAE9gnb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxk5NUIWwAE9gnb.jpg",
+					"url": "https://t.co/3OjdmcQJIC",
+					"display_url": "pic.twitter.com/3OjdmcQJIC",
+					"expanded_url": "https://twitter.com/PerlieMX/status/1087963708079394817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3343683972,
+			"id_str": "3343683972",
+			"name": "Perlie Lee",
+			"screen_name": "PerlieMX",
+			"location": "Singapore",
+			"description": "Lead Generation Exec @ Econsultancy / Art & Design lover / Foodie / Seeking out what's trending in the Digital Marketing Space and Internet of Things",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 378,
+			"friends_count": 1592,
+			"listed_count": 54,
+			"created_at": "Wed Aug 26 02:30:57 +0000 2015",
+			"favourites_count": 2107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1681,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E81C4F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085391141363695617/jritOLtQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085391141363695617/jritOLtQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3343683972/1546413598",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Key Takeaways for 2019 on A.I. by @debbiediscovers.\n\nIf you’re interested in learning more about this, Deborah will be conducting a 2-day training - Econsultancy’s AI Chatbots for Marketers on 26-27Feb \n\nMore details can be found here - https://t.co/fobufn4bfK\n\n#DO2019 https://t.co/3OjdmcQJIC"
+	},
+	{
+		"created_at": "Wed Jan 23 06:52:18 +0000 2019",
+		"id": 1087966233184620500,
+		"id_str": "1087966233184620544",
+		"full_text": "@Damon13Khan Hahaha thanks for coming ❤️😍",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Damon13Khan",
+					"name": "Damon",
+					"id": 952972002,
+					"id_str": "952972002",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1087962707582730200,
+		"in_reply_to_status_id_str": "1087962707582730241",
+		"in_reply_to_user_id": 952972002,
+		"in_reply_to_user_id_str": "952972002",
+		"in_reply_to_screen_name": "Damon13Khan",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60871,
+			"friends_count": 29416,
+			"listed_count": 1328,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16871,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Damon13Khan Hahaha thanks for coming ❤️😍"
+	},
+	{
+		"created_at": "Wed Jan 23 06:38:17 +0000 2019",
+		"id": 1087962707582730200,
+		"id_str": "1087966202721378304",
+		"full_text": "Discovering @debbiediscovers and her love for AI in person! Awesome preso! https://t.co/5gXb2J40N9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						12,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087962679338303500,
+					"id_str": "1087962679338303488",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxk4SubXgAAsN15.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxk4SubXgAAsN15.jpg",
+					"url": "https://t.co/5gXb2J40N9",
+					"display_url": "pic.twitter.com/5gXb2J40N9",
+					"expanded_url": "https://twitter.com/Damon13Khan/status/1087962707582730241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087962679338303500,
+					"id_str": "1087962679338303488",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxk4SubXgAAsN15.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxk4SubXgAAsN15.jpg",
+					"url": "https://t.co/5gXb2J40N9",
+					"display_url": "pic.twitter.com/5gXb2J40N9",
+					"expanded_url": "https://twitter.com/Damon13Khan/status/1087962707582730241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 952972002,
+			"id_str": "952972002",
+			"name": "Damon",
+			"screen_name": "Damon13Khan",
+			"location": "",
+			"description": "Carpe diem",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23,
+			"friends_count": 197,
+			"listed_count": 2,
+			"created_at": "Sat Nov 17 05:27:02 +0000 2012",
+			"favourites_count": 45,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/488213091612512256/xvc9_E4q_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/488213091612512256/xvc9_E4q_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/952972002/1405234099",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Discovering @debbiediscovers and her love for AI in person! Awesome preso! https://t.co/5gXb2J40N9"
+	},
+	{
+		"created_at": "Wed Jan 23 06:23:56 +0000 2019",
+		"id": 1087959094651248600,
+		"id_str": "1087966085910024198",
+		"full_text": "Singapore Bus Uncle chatbot! @debbiediscovers #DO2019 https://t.co/GeXiAlgy0S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DO2019",
+					"indices": [
+						46,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						29,
+						45
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087959079908266000,
+					"id_str": "1087959079908265986",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxk1BNgX0AI12z8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxk1BNgX0AI12z8.jpg",
+					"url": "https://t.co/GeXiAlgy0S",
+					"display_url": "pic.twitter.com/GeXiAlgy0S",
+					"expanded_url": "https://twitter.com/PerlieMX/status/1087959094651248640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087959079908266000,
+					"id_str": "1087959079908265986",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxk1BNgX0AI12z8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxk1BNgX0AI12z8.jpg",
+					"url": "https://t.co/GeXiAlgy0S",
+					"display_url": "pic.twitter.com/GeXiAlgy0S",
+					"expanded_url": "https://twitter.com/PerlieMX/status/1087959094651248640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1087959079891411000,
+					"id_str": "1087959079891410944",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxk1BNcWoAAm_YY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxk1BNcWoAAm_YY.jpg",
+					"url": "https://t.co/GeXiAlgy0S",
+					"display_url": "pic.twitter.com/GeXiAlgy0S",
+					"expanded_url": "https://twitter.com/PerlieMX/status/1087959094651248640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1156,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 633,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1118,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3343683972,
+			"id_str": "3343683972",
+			"name": "Perlie Lee",
+			"screen_name": "PerlieMX",
+			"location": "Singapore",
+			"description": "Lead Generation Exec @ Econsultancy / Art & Design lover / Foodie / Seeking out what's trending in the Digital Marketing Space and Internet of Things",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 378,
+			"friends_count": 1592,
+			"listed_count": 54,
+			"created_at": "Wed Aug 26 02:30:57 +0000 2015",
+			"favourites_count": 2107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1681,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E81C4F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085391141363695617/jritOLtQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085391141363695617/jritOLtQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3343683972/1546413598",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Singapore Bus Uncle chatbot! @debbiediscovers #DO2019 https://t.co/GeXiAlgy0S"
+	},
+	{
+		"created_at": "Wed Jan 23 06:00:19 +0000 2019",
+		"id": 1087953151641174000,
+		"id_str": "1087966076082765826",
+		"full_text": "Based on a quick survey at @Econsultancy’s Digital Outlook, there are more people who are concerned about budget to build artificial intelligence #DO2019 - @debbiediscovers",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DO2019",
+					"indices": [
+						146,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Econsultancy",
+					"name": "Econsultancy",
+					"id": 11833202,
+					"id_str": "11833202",
+					"indices": [
+						27,
+						40
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						156,
+						172
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3343683972,
+			"id_str": "3343683972",
+			"name": "Perlie Lee",
+			"screen_name": "PerlieMX",
+			"location": "Singapore",
+			"description": "Lead Generation Exec @ Econsultancy / Art & Design lover / Foodie / Seeking out what's trending in the Digital Marketing Space and Internet of Things",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 378,
+			"friends_count": 1592,
+			"listed_count": 54,
+			"created_at": "Wed Aug 26 02:30:57 +0000 2015",
+			"favourites_count": 2107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1681,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E81C4F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085391141363695617/jritOLtQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085391141363695617/jritOLtQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3343683972/1546413598",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "58a4c3a0d54e1400",
+			"url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json",
+			"place_type": "admin",
+			"name": "Central Region",
+			"full_name": "Central Region, Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.749959507073,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.36874499902569
+						],
+						[
+							103.749959507073,
+							1.36874499902569
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Based on a quick survey at @Econsultancy’s Digital Outlook, there are more people who are concerned about budget to build artificial intelligence #DO2019 - @debbiediscovers"
+	},
+	{
 		"created_at": "Tue Jan 22 22:00:57 +0000 2019",
 		"id": 1087832517955149800,
 		"id_str": "1087900240383037440",
