@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 02 03:18:14 +0000 2019",
+		"id": 1091536242104098800,
+		"id_str": "1091536242104098817",
+		"full_text": "@aiaddysonzhang @mashable @natxwang @imDicksonT https://t.co/ohgc7GxUre",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aiaddysonzhang",
+					"name": "Ai Addyson-Zhang, Ph.D",
+					"id": 2154802629,
+					"id_str": "2154802629",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "mashable",
+					"name": "Mashable",
+					"id": 972651,
+					"id_str": "972651",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "natxwang",
+					"name": "Natx Wang",
+					"id": 183258821,
+					"id_str": "183258821",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"screen_name": "imDicksonT",
+					"name": "Dickson Tang",
+					"id": 708953754230333400,
+					"id_str": "708953754230333440",
+					"indices": [
+						36,
+						47
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1091536233187045400,
+					"id_str": "1091536233187045376",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DyXqa76U8AAyk1V.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DyXqa76U8AAyk1V.jpg",
+					"url": "https://t.co/ohgc7GxUre",
+					"display_url": "pic.twitter.com/ohgc7GxUre",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1091536242104098817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 356,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 356,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 356,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091536233187045400,
+					"id_str": "1091536233187045376",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DyXqa76U8AAyk1V.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DyXqa76U8AAyk1V.jpg",
+					"url": "https://t.co/ohgc7GxUre",
+					"display_url": "pic.twitter.com/ohgc7GxUre",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1091536242104098817/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 356,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 356,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 356,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							89,
+							50
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DyXqa76U8AAyk1V.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1091523499884073000,
+		"in_reply_to_status_id_str": "1091523499884072960",
+		"in_reply_to_user_id": 2154802629,
+		"in_reply_to_user_id_str": "2154802629",
+		"in_reply_to_screen_name": "aiaddysonzhang",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61363,
+			"friends_count": 29055,
+			"listed_count": 1333,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16895,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@aiaddysonzhang @mashable @natxwang @imDicksonT https://t.co/ohgc7GxUre"
+	},
+	{
 		"created_at": "Fri Feb 01 22:15:43 +0000 2019",
 		"id": 1091460110856011800,
 		"id_str": "1091460110856011776",
