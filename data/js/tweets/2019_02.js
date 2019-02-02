@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 01 14:30:46 +0000 2019",
+		"id": 1091343101791105000,
+		"id_str": "1091571657594986497",
+		"full_text": "@debbiediscovers May I send you a signed copy of this?? https://t.co/TlNIuuBYUT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TlNIuuBYUT",
+					"expanded_url": "https://www.amazon.com/gp/aw/d/153698440X/ref=dp_ob_neva_mobile",
+					"display_url": "amazon.com/gp/aw/d/153698…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 80239819,
+			"id_str": "80239819",
+			"name": "Joshua Medcalf",
+			"screen_name": "JoshuaMedcalf",
+			"location": "San Diego or 35k feet up",
+			"description": "Boldly and courageously chasing that which sets my soul on fire! I’m told this story has impacted a few lives... https://t.co/jDP8U85Upr",
+			"url": "https://t.co/9LEMKFCBSb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9LEMKFCBSb",
+							"expanded_url": "http://www.t2bc.com",
+							"display_url": "t2bc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jDP8U85Upr",
+							"expanded_url": "https://www.amazon.com/dp/153698440X",
+							"display_url": "amazon.com/dp/153698440X",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18424,
+			"friends_count": 22,
+			"listed_count": 188,
+			"created_at": "Tue Oct 06 07:04:47 +0000 2009",
+			"favourites_count": 1108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 103903,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988647566672875520/vEdtbZj4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988647566672875520/vEdtbZj4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/80239819/1522433178",
+			"profile_link_color": "3000B3",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@debbiediscovers May I send you a signed copy of this?? https://t.co/TlNIuuBYUT"
+	},
+	{
 		"created_at": "Sat Feb 02 03:18:14 +0000 2019",
 		"id": 1091536242104098800,
 		"id_str": "1091536242104098817",
