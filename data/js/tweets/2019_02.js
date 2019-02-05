@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 05 07:37:47 +0000 2019",
+		"id": 1092688724339630100,
+		"id_str": "1092774114312372225",
+		"full_text": "Happy Chinese New Year 🧧 🐷 wishing y’all good physical and mental health (and a tiny bit of wealth) in 2019. \nHair: @hairbyleong \nMakeup: @muasusan \n#happychinesenewyear #cny #cny2019 #egggang #eggsoldiers #wegotthis https://t.co/uzxAmvAwIB https://t.co/n6nnUERBBW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "happychinesenewyear",
+					"indices": [
+						149,
+						169
+					]
+				},
+				{
+					"text": "cny",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "cny2019",
+					"indices": [
+						175,
+						183
+					]
+				},
+				{
+					"text": "egggang",
+					"indices": [
+						184,
+						192
+					]
+				},
+				{
+					"text": "eggsoldiers",
+					"indices": [
+						193,
+						205
+					]
+				},
+				{
+					"text": "wegotthis",
+					"indices": [
+						206,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MuaSusan",
+					"name": "susan mua",
+					"id": 3323386594,
+					"id_str": "3323386594",
+					"indices": [
+						138,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uzxAmvAwIB",
+					"expanded_url": "https://www.instagram.com/debbiediscovers/p/Btfe16mhJsY/",
+					"display_url": "instagram.com/debbiediscover…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1092688723127533600,
+					"id_str": "1092688723127533568",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/DyoCmrgXgAA-hu3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyoCmrgXgAA-hu3.jpg",
+					"url": "https://t.co/n6nnUERBBW",
+					"display_url": "pic.twitter.com/n6nnUERBBW",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1092688724339630081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092688723127533600,
+					"id_str": "1092688723127533568",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/DyoCmrgXgAA-hu3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyoCmrgXgAA-hu3.jpg",
+					"url": "https://t.co/n6nnUERBBW",
+					"display_url": "pic.twitter.com/n6nnUERBBW",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1092688724339630081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61647,
+			"friends_count": 29275,
+			"listed_count": 1334,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16906,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy Chinese New Year 🧧 🐷 wishing y’all good physical and mental health (and a tiny bit of wealth) in 2019. \nHair: @hairbyleong \nMakeup: @muasusan \n#happychinesenewyear #cny #cny2019 #egggang #eggsoldiers #wegotthis https://t.co/uzxAmvAwIB https://t.co/n6nnUERBBW"
+	},
+	{
 		"created_at": "Tue Feb 05 07:23:37 +0000 2019",
 		"id": 1092685157339783200,
 		"id_str": "1092754243918778368",
