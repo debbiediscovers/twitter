@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 07 10:31:47 +0000 2019",
+		"id": 1093457287639818200,
+		"id_str": "1093476667220086784",
+		"full_text": "Many popular iPhone apps secretly record your screen without asking https://t.co/Pt6uTBvT46 via @techcrunch",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TechCrunch",
+					"name": "TechCrunch",
+					"id": 816653,
+					"id_str": "816653",
+					"indices": [
+						96,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Pt6uTBvT46",
+					"expanded_url": "https://tcrn.ch/2WMToYs",
+					"display_url": "tcrn.ch/2WMToYs",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61740,
+			"friends_count": 29163,
+			"listed_count": 1335,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16916,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Many popular iPhone apps secretly record your screen without asking https://t.co/Pt6uTBvT46 via @techcrunch"
+	},
+	{
+		"created_at": "Wed Feb 06 16:54:47 +0000 2019",
+		"id": 1093191286440378400,
+		"id_str": "1093476629966274560",
+		"full_text": "@debbiediscovers penned a delightful guide on how to \"ease users through your #chatbot without relying on button clicks\" and we love it!\n#chat #UX\nhttps://t.co/F2zkLbfsuC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "chatbot",
+					"indices": [
+						78,
+						86
+					]
+				},
+				{
+					"text": "chat",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "UX",
+					"indices": [
+						143,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/F2zkLbfsuC",
+					"expanded_url": "https://medium.com/p/honey-i-built-a-chatbot-but-no-one-will-click-on-my-buttons-b713290c0029",
+					"display_url": "medium.com/p/honey-i-buil…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 1030473051010293800,
+			"id_str": "1030473051010293760",
+			"name": "mitter.io",
+			"screen_name": "mitter_io",
+			"location": "",
+			"description": "Empowering developers to think outside the chat bubble and build customized messaging apps & services with a rule-based chat API and multi-platform SDKs.",
+			"url": "https://t.co/wjgGMHXeXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wjgGMHXeXb",
+							"expanded_url": "https://mitter.io",
+							"display_url": "mitter.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16,
+			"friends_count": 55,
+			"listed_count": 0,
+			"created_at": "Fri Aug 17 15:14:55 +0000 2018",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1044834310157742086/gL02HZs0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1044834310157742086/gL02HZs0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1030473051010293760/1537960452",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@debbiediscovers penned a delightful guide on how to \"ease users through your #chatbot without relying on button clicks\" and we love it!\n#chat #UX\nhttps://t.co/F2zkLbfsuC"
+	},
+	{
 		"created_at": "Thu Feb 07 11:09:53 +0000 2019",
 		"id": 1093466874547982300,
 		"id_str": "1093466874547982336",
