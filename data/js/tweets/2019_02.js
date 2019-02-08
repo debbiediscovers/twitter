@@ -1,6 +1,434 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 08 04:35:02 +0000 2019",
+		"id": 1093729897598672900,
+		"id_str": "1093818527666991105",
+		"full_text": "3/\n\n--Biggest winner: Evan Williams just became the rare breed that has birthed 2 Unicorns. Biggest day in Medium's history, now have more traction than any sub $1b media property. Bezos didn't post on FB, do press release or go on Johny, he posted on @Medium...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Medium",
+					"name": "Medium",
+					"id": 571202103,
+					"id_str": "571202103",
+					"indices": [
+						252,
+						259
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1093728791178940400,
+		"in_reply_to_status_id_str": "1093728791178940416",
+		"in_reply_to_user_id": 9273802,
+		"in_reply_to_user_id_str": "9273802",
+		"in_reply_to_screen_name": "profgalloway",
+		"user": {
+			"id": 9273802,
+			"id_str": "9273802",
+			"name": "Scott Galloway",
+			"screen_name": "profgalloway",
+			"location": "NYC",
+			"description": "Son of superhero (single mom) | Product of big government @ucla @berkeley | Prof Marketing @NYUStern | TED speaker | NYT bestseller https://t.co/FHQR2BnZqG",
+			"url": "https://t.co/ij5r6daiRN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ij5r6daiRN",
+							"expanded_url": "http://www.l2inc.com",
+							"display_url": "l2inc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FHQR2BnZqG",
+							"expanded_url": "http://thefourbook.com",
+							"display_url": "thefourbook.com",
+							"indices": [
+								132,
+								155
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 108517,
+			"friends_count": 2561,
+			"listed_count": 2343,
+			"created_at": "Sat Oct 06 02:08:16 +0000 2007",
+			"favourites_count": 10774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14485,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2340026837/e0whbyp1r1uy16o0vtz1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2340026837/e0whbyp1r1uy16o0vtz1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9273802/1507918741",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 143,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "3/\n\n--Biggest winner: Evan Williams just became the rare breed that has birthed 2 Unicorns. Biggest day in Medium's history, now have more traction than any sub $1b media property. Bezos didn't post on FB, do press release or go on Johny, he posted on @Medium..."
+	},
+	{
+		"created_at": "Fri Feb 08 10:22:25 +0000 2019",
+		"id": 1093817316985385000,
+		"id_str": "1093817316985384960",
+		"full_text": "Thread! https://t.co/yeWLYWCd69",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yeWLYWCd69",
+					"expanded_url": "https://twitter.com/profgalloway/status/1093728791178940416",
+					"display_url": "twitter.com/profgalloway/s…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61762,
+			"friends_count": 29118,
+			"listed_count": 1335,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16926,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093728791178940400,
+		"quoted_status_id_str": "1093728791178940416",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yeWLYWCd69",
+			"expanded": "https://twitter.com/profgalloway/status/1093728791178940416",
+			"display": "twitter.com/profgalloway/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 08 04:30:38 +0000 2019",
+			"id": 1093728791178940400,
+			"id_str": "1093728791178940416",
+			"full_text": "1/ Bezos/AMI: Reactions &amp; Predictions\n\n--Winner, Bezos.  Bullied.  Turned and kicked bully in nuts.  His status/cred/goodwill increases.  Media will be cavalry as there is (generally) goodwill toward him.  He has stood watch over national treasure--WaPo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				257
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9273802,
+				"id_str": "9273802",
+				"name": "Scott Galloway",
+				"screen_name": "profgalloway",
+				"location": "NYC",
+				"description": "Son of superhero (single mom) | Product of big government @ucla @berkeley | Prof Marketing @NYUStern | TED speaker | NYT bestseller https://t.co/FHQR2BnZqG",
+				"url": "https://t.co/ij5r6daiRN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ij5r6daiRN",
+								"expanded_url": "http://www.l2inc.com",
+								"display_url": "l2inc.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/FHQR2BnZqG",
+								"expanded_url": "http://thefourbook.com",
+								"display_url": "thefourbook.com",
+								"indices": [
+									132,
+									155
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 108517,
+				"friends_count": 2561,
+				"listed_count": 2343,
+				"created_at": "Sat Oct 06 02:08:16 +0000 2007",
+				"favourites_count": 10774,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14485,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2340026837/e0whbyp1r1uy16o0vtz1_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2340026837/e0whbyp1r1uy16o0vtz1_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9273802/1507918741",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 52,
+			"favorite_count": 209,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thread! https://t.co/yeWLYWCd69"
+	},
+	{
+		"created_at": "Fri Feb 08 04:15:30 +0000 2019",
+		"id": 1093724979848511500,
+		"id_str": "1093817198609481728",
+		"full_text": "Nobody will credit Twitter for this, but the reason we all knew the Bezos blog came from Bezos was because he tweeted it. It went from nowhere to everywhere because of that tweet.\n\nTwitter's the first line of verification and source of news for the people who write the news.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 75246510,
+			"id_str": "75246510",
+			"name": "Vlad Savov",
+			"screen_name": "vladsavov",
+			"location": "London",
+			"description": "@Verge Senior Editor. Reviewer of things. Contains multitudes of 🥑.",
+			"url": "https://t.co/W2SFxIXkC4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W2SFxIXkC4",
+							"expanded_url": "http://www.theverge.com",
+							"display_url": "theverge.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42571,
+			"friends_count": 709,
+			"listed_count": 1503,
+			"created_at": "Fri Sep 18 10:09:41 +0000 2009",
+			"favourites_count": 309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10599,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092392951492288512/AE0KWdEq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092392951492288512/AE0KWdEq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/75246510/1537479711",
+			"profile_link_color": "FF0447",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "434D5C",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 249,
+		"favorite_count": 1383,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Nobody will credit Twitter for this, but the reason we all knew the Bezos blog came from Bezos was because he tweeted it. It went from nowhere to everywhere because of that tweet.\n\nTwitter's the first line of verification and source of news for the people who write the news."
+	},
+	{
 		"created_at": "Fri Feb 08 01:29:56 +0000 2019",
 		"id": 1093683314328825900,
 		"id_str": "1093727500469919744",
