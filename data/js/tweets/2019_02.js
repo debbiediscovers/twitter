@@ -1,6 +1,498 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 08 04:01:38 +0000 2019",
+		"id": 1093721489658933200,
+		"id_str": "1093721489658933248",
+		"full_text": "Well done @JeffBezos don’t give in to their sleazy scumbag blackmail. 😡 https://t.co/lpHeOHtVO4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JeffBezos",
+					"name": "Jeff Bezos",
+					"id": 15506669,
+					"id_str": "15506669",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lpHeOHtVO4",
+					"expanded_url": "https://link.medium.com/SHT4cUL97T",
+					"display_url": "link.medium.com/SHT4cUL97T",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61737,
+			"friends_count": 29234,
+			"listed_count": 1335,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16927,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well done @JeffBezos don’t give in to their sleazy scumbag blackmail. 😡 https://t.co/lpHeOHtVO4"
+	},
+	{
+		"created_at": "Fri Feb 08 00:46:16 +0000 2019",
+		"id": 1093672323465515000,
+		"id_str": "1093721294476984320",
+		"full_text": "Seriously. @JeffBezos just demonstrated the power of courage and transparency in a way that's more valuable in this era than you know.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JeffBezos",
+					"name": "Jeff Bezos",
+					"id": 15506669,
+					"id_str": "15506669",
+					"indices": [
+						11,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19084896,
+			"id_str": "19084896",
+			"name": "Rick Wilson",
+			"screen_name": "TheRickWilson",
+			"location": "Florida and points beyond",
+			"description": "GOP Media Guy, Dad, Husband, Pilot, Hunter, Writer. #1 NYT best-selling author of Everything Trump Touches Dies. Pride of FL, Prince of Periscope.",
+			"url": "https://t.co/cSCI9Z3HNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cSCI9Z3HNh",
+							"expanded_url": "http://www.simonandschuster.com/books/Everything-Trump-Touches-Dies/Rick-Wilson/9781982103125",
+							"display_url": "simonandschuster.com/books/Everythi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 474171,
+			"friends_count": 4509,
+			"listed_count": 6159,
+			"created_at": "Fri Jan 16 20:50:17 +0000 2009",
+			"favourites_count": 66473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 288063,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998682468235468800/SSd1CBtm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998682468235468800/SSd1CBtm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19084896/1542821274",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2232,
+		"favorite_count": 11541,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Seriously. @JeffBezos just demonstrated the power of courage and transparency in a way that's more valuable in this era than you know."
+	},
+	{
+		"created_at": "Fri Feb 08 02:01:35 +0000 2019",
+		"id": 1093691278796226600,
+		"id_str": "1093721273476145152",
+		"full_text": "Right. Kudos to @JeffBezos for letting it all hang out rather than wilting in front of the Trump-backing Enquirer https://t.co/32hQwdY2Ad",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JeffBezos",
+					"name": "Jeff Bezos",
+					"id": 15506669,
+					"id_str": "15506669",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/32hQwdY2Ad",
+					"expanded_url": "https://twitter.com/lisabloom/status/1093689655508324352",
+					"display_url": "twitter.com/lisabloom/stat…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4091551984,
+			"id_str": "4091551984",
+			"name": "Laurence Tribe",
+			"screen_name": "tribelaw",
+			"location": "",
+			"description": "\"No matter what people tell you, words and ideas can change the world.\" -- Robin Williams",
+			"url": "https://t.co/5kDQlyrUkn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5kDQlyrUkn",
+							"expanded_url": "http://hls.harvard.edu/faculty/directory/10899/Tribe",
+							"display_url": "hls.harvard.edu/faculty/direct…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 471205,
+			"friends_count": 1806,
+			"listed_count": 3799,
+			"created_at": "Sun Nov 01 17:43:49 +0000 2015",
+			"favourites_count": 13369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25243,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/661228828941946880/5kuuC-pL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/661228828941946880/5kuuC-pL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4091551984/1525897638",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093689655508324400,
+		"quoted_status_id_str": "1093689655508324352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/32hQwdY2Ad",
+			"expanded": "https://twitter.com/lisabloom/status/1093689655508324352",
+			"display": "twitter.com/lisabloom/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 08 01:55:08 +0000 2019",
+			"id": 1093689655508324400,
+			"id_str": "1093689655508324352",
+			"full_text": "Even for the richest guy in the world, it takes courage to stand up to the sex shaming bullies at the Enquirer. And I’m sure Ms. Sanchez had to agree too. Kudos to you both. Private consensual adult sex is no one else’s business. And the Enquirer is vile. https://t.co/U9ig5sQogn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				255
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/U9ig5sQogn",
+						"expanded_url": "https://twitter.com/jeffbezos/status/1093643321732464646",
+						"display_url": "twitter.com/jeffbezos/stat…",
+						"indices": [
+							256,
+							279
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15996661,
+				"id_str": "15996661",
+				"name": "Lisa Bloom",
+				"screen_name": "LisaBloom",
+				"location": "Los Angeles",
+				"description": "Fighter for justice at my law firm, The Bloom Firm. NYT bestselling author. Mom, foster mom, wife. Vegan proselytizer. \n\"Vile attorney\" -- Bill O'Reilly.",
+				"url": "https://t.co/L8KRXIc7gs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L8KRXIc7gs",
+								"expanded_url": "http://www.TheBloomFirm.com",
+								"display_url": "TheBloomFirm.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 116787,
+				"friends_count": 648,
+				"listed_count": 2055,
+				"created_at": "Tue Aug 26 14:09:47 +0000 2008",
+				"favourites_count": 434,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29026,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839943618022404096/8Zb1DCf3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839943618022404096/8Zb1DCf3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15996661/1548042674",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0098b1cf21e79133",
+				"url": "https://api.twitter.com/1.1/geo/id/0098b1cf21e79133.json",
+				"place_type": "city",
+				"name": "Tweed Heads",
+				"full_name": "Tweed Heads, New South Wales",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								153.46348,
+								-28.344015361
+							],
+							[
+								153.586296,
+								-28.344015361
+							],
+							[
+								153.586296,
+								-28.163306732
+							],
+							[
+								153.46348,
+								-28.163306732
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1093643321732464600,
+			"quoted_status_id_str": "1093643321732464646",
+			"quoted_status_permalink": {
+				"url": "https://t.co/U9ig5sQogn",
+				"expanded": "https://twitter.com/jeffbezos/status/1093643321732464646",
+				"display": "twitter.com/jeffbezos/stat…"
+			},
+			"retweet_count": 125,
+			"favorite_count": 617,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 395,
+		"favorite_count": 1891,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Right. Kudos to @JeffBezos for letting it all hang out rather than wilting in front of the Trump-backing Enquirer https://t.co/32hQwdY2Ad"
+	},
+	{
 		"created_at": "Thu Feb 07 09:31:32 +0000 2019",
 		"id": 1093442126774382600,
 		"id_str": "1093583274595610624",
