@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 08 01:29:56 +0000 2019",
+		"id": 1093683314328825900,
+		"id_str": "1093727500469919744",
+		"full_text": "@TheRickWilson @JeffBezos David Pecker picked a pic of Bezos' pecker.\nA pic of Bezos' pecker David Pecker picked.\nIf David Pecker picked a pic of Bezos' pecker,\nWhere's the pic of Bezos' pecker David Pecker picked?",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheRickWilson",
+					"name": "Rick Wilson",
+					"id": 19084896,
+					"id_str": "19084896",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "JeffBezos",
+					"name": "Jeff Bezos",
+					"id": 15506669,
+					"id_str": "15506669",
+					"indices": [
+						15,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1093672323465515000,
+		"in_reply_to_status_id_str": "1093672323465515008",
+		"in_reply_to_user_id": 19084896,
+		"in_reply_to_user_id_str": "19084896",
+		"in_reply_to_screen_name": "TheRickWilson",
+		"user": {
+			"id": 32259450,
+			"id_str": "32259450",
+			"name": "Hayden Black",
+			"screen_name": "haydenblack",
+			"location": "Los Angeles",
+			"description": "Brit in LA. Writer/Producer/Actor - @Hulu, @BBCAmerica, @MTV, an upcoming movie and @GoodniteBurbank. I write satire so you can laugh through the tears. #Resist",
+			"url": "https://t.co/Esn0kRwQmJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Esn0kRwQmJ",
+							"expanded_url": "http://www.genzed.org",
+							"display_url": "genzed.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12907,
+			"friends_count": 6830,
+			"listed_count": 293,
+			"created_at": "Fri Apr 17 02:21:03 +0000 2009",
+			"favourites_count": 82708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67298,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8AB9A9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081420975277785088/Tqoa4oG9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081420975277785088/Tqoa4oG9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/32259450/1524698439",
+			"profile_link_color": "5B6D5F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "98AFC7",
+			"profile_text_color": "174087",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 88,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@TheRickWilson @JeffBezos David Pecker picked a pic of Bezos' pecker.\nA pic of Bezos' pecker David Pecker picked.\nIf David Pecker picked a pic of Bezos' pecker,\nWhere's the pic of Bezos' pecker David Pecker picked?"
+	},
+	{
 		"created_at": "Fri Feb 08 04:01:38 +0000 2019",
 		"id": 1093721489658933200,
 		"id_str": "1093721489658933248",
