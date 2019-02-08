@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 08 14:38:05 +0000 2019",
+		"id": 1093881658393182200,
+		"id_str": "1093881658393182209",
+		"full_text": "“No matter what people tell you, words and ideas can change the world” - Richard Branson @richardbranson\n⠀⠀\nSomething I’m pondering after listening to a chapter in the @dailystoic: ⠀⠀\n“What can we do today to make the world a better place?”\n⠀⠀\nRy… https://t.co/lRGPy4GlWc https://t.co/JTXjjmyDu4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "richardbranson",
+					"name": "Richard Branson",
+					"id": 8161232,
+					"id_str": "8161232",
+					"indices": [
+						89,
+						104
+					]
+				},
+				{
+					"screen_name": "dailystoic",
+					"name": "Daily Stoic",
+					"id": 4885277053,
+					"id_str": "4885277053",
+					"indices": [
+						168,
+						179
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lRGPy4GlWc",
+					"expanded_url": "https://www.instagram.com/debbiediscovers/p/Btn4_xhhE63/",
+					"display_url": "instagram.com/debbiediscover…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1093881657105571800,
+					"id_str": "1093881657105571845",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy4_kk4X4AU5pX3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy4_kk4X4AU5pX3.jpg",
+					"url": "https://t.co/JTXjjmyDu4",
+					"display_url": "pic.twitter.com/JTXjjmyDu4",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1093881658393182209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 423,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 423,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 423,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093881657105571800,
+					"id_str": "1093881657105571845",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy4_kk4X4AU5pX3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy4_kk4X4AU5pX3.jpg",
+					"url": "https://t.co/JTXjjmyDu4",
+					"display_url": "pic.twitter.com/JTXjjmyDu4",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1093881658393182209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 423,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 423,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 423,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61763,
+			"friends_count": 29123,
+			"listed_count": 1334,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16932,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“No matter what people tell you, words and ideas can change the world” - Richard Branson @richardbranson\n⠀⠀\nSomething I’m pondering after listening to a chapter in the @dailystoic: ⠀⠀\n“What can we do today to make the world a better place?”\n⠀⠀\nRy… https://t.co/lRGPy4GlWc https://t.co/JTXjjmyDu4"
+	},
+	{
 		"created_at": "Fri Feb 08 14:10:34 +0000 2019",
 		"id": 1093874735920832500,
 		"id_str": "1093874735920832513",
