@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 10 10:24:20 +0000 2019",
+		"id": 1094542577175429100,
+		"id_str": "1094542577175429120",
+		"full_text": "This is SO WRONG 😆😱 https://t.co/SuPnp9WUWs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SuPnp9WUWs",
+					"expanded_url": "https://twitter.com/evankirstel/status/1093553044036509697",
+					"display_url": "twitter.com/evankirstel/st…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61788,
+			"friends_count": 29425,
+			"listed_count": 1334,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16940,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "58a4c3a0d54e1400",
+			"url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json",
+			"place_type": "admin",
+			"name": "Central Region",
+			"full_name": "Central Region, Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.749959507073,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.36874499902569
+						],
+						[
+							103.749959507073,
+							1.36874499902569
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093553044036509700,
+		"quoted_status_id_str": "1093553044036509697",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SuPnp9WUWs",
+			"expanded": "https://twitter.com/evankirstel/status/1093553044036509697",
+			"display": "twitter.com/evankirstel/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 07 16:52:17 +0000 2019",
+			"id": 1093553044036509700,
+			"id_str": "1093553044036509697",
+			"full_text": "🖐 🤚 How a robot learns to touch #DeepLearning #robots #ai #robotics https://t.co/ZcFRb7wx3F",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				67
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DeepLearning",
+						"indices": [
+							32,
+							45
+						]
+					},
+					{
+						"text": "robots",
+						"indices": [
+							46,
+							53
+						]
+					},
+					{
+						"text": "ai",
+						"indices": [
+							54,
+							57
+						]
+					},
+					{
+						"text": "robotics",
+						"indices": [
+							58,
+							67
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1093552968501059600,
+						"id_str": "1093552968501059584",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1093552968501059584/pu/img/0XmM1ov2x-BdyWKT.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1093552968501059584/pu/img/0XmM1ov2x-BdyWKT.jpg",
+						"url": "https://t.co/ZcFRb7wx3F",
+						"display_url": "pic.twitter.com/ZcFRb7wx3F",
+						"expanded_url": "https://twitter.com/evankirstel/status/1093553044036509697/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1093552968501059600,
+						"id_str": "1093552968501059584",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1093552968501059584/pu/img/0XmM1ov2x-BdyWKT.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1093552968501059584/pu/img/0XmM1ov2x-BdyWKT.jpg",
+						"url": "https://t.co/ZcFRb7wx3F",
+						"display_url": "pic.twitter.com/ZcFRb7wx3F",
+						"expanded_url": "https://twitter.com/evankirstel/status/1093553044036509697/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 15034,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1093552968501059584/pu/vid/320x320/TXyB4fOefm-aoXi2.mp4?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1093552968501059584/pu/vid/480x480/wePwR7dayCCxbDhM.mp4?tag=6"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1093552968501059584/pu/vid/720x720/Vs0xV-B57lInTLgm.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1093552968501059584/pu/pl/FTAWbMnADqkFw1Eh.m3u8?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35203319,
+				"id_str": "35203319",
+				"name": "Evan Kirstel at #HIMSS19",
+				"screen_name": "evankirstel",
+				"location": "Boston, MA",
+				"description": "#B2B #Social #Digital #Influencer helping #Tech clients with #SocialMediaMarketing in #IT #Telecom #Cloud #AI #5G #IoT .. ➡️https://t.co/qEToVUzSTc",
+				"url": "https://t.co/OkISGUToK0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OkISGUToK0",
+								"expanded_url": "http://Evirahealth.com",
+								"display_url": "Evirahealth.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/qEToVUzSTc",
+								"expanded_url": "http://linkedin.com/in/evankirstel",
+								"display_url": "linkedin.com/in/evankirstel",
+								"indices": [
+									124,
+									147
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 233200,
+				"friends_count": 218275,
+				"listed_count": 13809,
+				"created_at": "Sat Apr 25 12:45:16 +0000 2009",
+				"favourites_count": 548966,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 775305,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1088397862176735232/divGvI-j_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088397862176735232/divGvI-j_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35203319/1548533490",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 145,
+			"favorite_count": 250,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is SO WRONG 😆😱 https://t.co/SuPnp9WUWs"
+	},
+	{
 		"created_at": "Wed Feb 06 22:22:51 +0000 2019",
 		"id": 1093273847476904000,
 		"id_str": "1094367501708713987",
