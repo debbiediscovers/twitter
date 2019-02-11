@@ -3,6 +3,327 @@ Grailbird.data.tweets_2019_02 =
 	{
 		"created_at": "Mon Feb 11 18:08:16 +0000 2019",
 		"id": 1095021715267059700,
+		"id_str": "1095079706586578946",
+		"full_text": "Google Docs gets an API for task automation – TechCrunch #SmartNews 😍😍😍 https://t.co/YSvhl3WdsP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SmartNews",
+					"indices": [
+						57,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YSvhl3WdsP",
+					"expanded_url": "https://techcrunch.com/2019/02/11/google-docs-gets-an-api-for-task-automation/",
+					"display_url": "techcrunch.com/2019/02/11/goo…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61812,
+			"friends_count": 30431,
+			"listed_count": 1335,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19291,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Google Docs gets an API for task automation – TechCrunch #SmartNews 😍😍😍 https://t.co/YSvhl3WdsP"
+	},
+	{
+		"created_at": "Mon Feb 11 11:04:39 +0000 2019",
+		"id": 1094915112354308100,
+		"id_str": "1095079694913830912",
+		"full_text": "Do something today that your future self will thank you for! \n\nToday, I did yoga, some writing and some coding. What did you do? 😊😊 https://t.co/bgvtRTFuM8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1094914973099122700,
+					"id_str": "1094914973099122688",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/DzHrXe7UYAARZki.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzHrXe7UYAARZki.jpg",
+					"url": "https://t.co/bgvtRTFuM8",
+					"display_url": "pic.twitter.com/bgvtRTFuM8",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1094915112354308096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 570,
+							"h": 619,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 570,
+							"h": 619,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 570,
+							"h": 619,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094914973099122700,
+					"id_str": "1094914973099122688",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/DzHrXe7UYAARZki.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzHrXe7UYAARZki.jpg",
+					"url": "https://t.co/bgvtRTFuM8",
+					"display_url": "pic.twitter.com/bgvtRTFuM8",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1094915112354308096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 570,
+							"h": 619,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 570,
+							"h": 619,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 570,
+							"h": 619,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61812,
+			"friends_count": 30431,
+			"listed_count": 1335,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19291,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "58a4c3a0d54e1400",
+			"url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json",
+			"place_type": "admin",
+			"name": "Central Region",
+			"full_name": "Central Region, Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.749959507073,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.36874499902569
+						],
+						[
+							103.749959507073,
+							1.36874499902569
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do something today that your future self will thank you for! \n\nToday, I did yoga, some writing and some coding. What did you do? 😊😊 https://t.co/bgvtRTFuM8"
+	},
+	{
+		"created_at": "Mon Feb 11 18:08:16 +0000 2019",
+		"id": 1095021715267059700,
 		"id_str": "1095021715267059713",
 		"full_text": "Google Docs gets an API for task automation – TechCrunch #SmartNews 😍😍😍 https://t.co/YSvhl3WdsP",
 		"truncated": false,
