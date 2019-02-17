@@ -1,6 +1,187 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 17 11:07:30 +0000 2019",
+		"id": 1097090152944623600,
+		"id_str": "1097095353365479425",
+		"full_text": "\"Honey, I built a chatbot, but no one will click on my buttons 😭\" - @debbiediscovers https://t.co/Ef58Clz4nC https://t.co/BgGTv1wXHk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						68,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ef58Clz4nC",
+					"expanded_url": "https://uxdesign.cc/honey-i-built-a-chatbot-but-no-one-will-click-on-my-buttons-b713290c0029#---5-78",
+					"display_url": "uxdesign.cc/honey-i-built-…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1097090150344077300,
+					"id_str": "1097090150344077312",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DzmlrdnWsAAdDjN.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzmlrdnWsAAdDjN.png",
+					"url": "https://t.co/BgGTv1wXHk",
+					"display_url": "pic.twitter.com/BgGTv1wXHk",
+					"expanded_url": "https://twitter.com/mittuled/status/1097090152944623617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 457,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 457,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 414,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097090150344077300,
+					"id_str": "1097090150344077312",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DzmlrdnWsAAdDjN.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzmlrdnWsAAdDjN.png",
+					"url": "https://t.co/BgGTv1wXHk",
+					"display_url": "pic.twitter.com/BgGTv1wXHk",
+					"expanded_url": "https://twitter.com/mittuled/status/1097090152944623617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 457,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 457,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 414,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://medium.com\" rel=\"nofollow\">Medium</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 506991827,
+			"id_str": "506991827",
+			"name": "Mittul Desai",
+			"screen_name": "mittuled",
+			"location": "Bengaluru, India",
+			"description": "Product Man @LiveHappay | Cofounder @uncvrgigs\n\nTrying to make people & processes efficient, one bit at a time.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 727,
+			"friends_count": 951,
+			"listed_count": 17,
+			"created_at": "Tue Feb 28 06:42:56 +0000 2012",
+			"favourites_count": 855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1817,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2B2816",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740544905945063425/BaUVZFkv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740544905945063425/BaUVZFkv_normal.jpg",
+			"profile_link_color": "2B2816",
+			"profile_sidebar_border_color": "89B5A2",
+			"profile_sidebar_fill_color": "24210E",
+			"profile_text_color": "89B5A2",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Honey, I built a chatbot, but no one will click on my buttons 😭\" - @debbiediscovers https://t.co/Ef58Clz4nC https://t.co/BgGTv1wXHk"
+	},
+	{
 		"created_at": "Sun Feb 17 10:19:15 +0000 2019",
 		"id": 1097078012187619300,
 		"id_str": "1097078012187619328",
