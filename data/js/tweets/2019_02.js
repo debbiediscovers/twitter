@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 18 08:11:36 +0000 2019",
+		"id": 1097408274968657900,
+		"id_str": "1097408274968657920",
+		"full_text": "@vivek_gkrishnan @Change @Neal_X @mgnirck @ayeshakhanna1 @paragkhanna @AnsonZeall @scottebales @richardturrin @bellywellyjelly @benjaminkheng @thejianhaotan LOL... ok i'll sign it. You tagged me twice, so this must be 2X as important. :)",
+		"truncated": false,
+		"display_text_range": [
+			157,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vivek_gkrishnan",
+					"name": "Vivek Gopalakrishnan",
+					"id": 307922714,
+					"id_str": "307922714",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Change",
+					"name": "Change.org",
+					"id": 15947602,
+					"id_str": "15947602",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"screen_name": "Neal_X",
+					"name": "Neal Cross",
+					"id": 349579272,
+					"id_str": "349579272",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"screen_name": "mgnirck",
+					"name": "Markus Gnirck",
+					"id": 498826872,
+					"id_str": "498826872",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"screen_name": "ayeshakhanna1",
+					"name": "Dr. Ayesha Khanna",
+					"id": 16111963,
+					"id_str": "16111963",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"screen_name": "paragkhanna",
+					"name": "Parag Khanna",
+					"id": 28403766,
+					"id_str": "28403766",
+					"indices": [
+						57,
+						69
+					]
+				},
+				{
+					"screen_name": "AnsonZeall",
+					"name": "Anson Zeall 萧逸汉",
+					"id": 15499924,
+					"id_str": "15499924",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"screen_name": "scottebales",
+					"name": "Scott Bales",
+					"id": 33851648,
+					"id_str": "33851648",
+					"indices": [
+						82,
+						94
+					]
+				},
+				{
+					"screen_name": "richardturrin",
+					"name": "Richard Turrin",
+					"id": 942963521905553400,
+					"id_str": "942963521905553408",
+					"indices": [
+						95,
+						109
+					]
+				},
+				{
+					"screen_name": "bellywellyjelly",
+					"name": "Christabel C.",
+					"id": 98287458,
+					"id_str": "98287458",
+					"indices": [
+						110,
+						126
+					]
+				},
+				{
+					"screen_name": "benjaminkheng",
+					"name": "Benjamin Kheng",
+					"id": 284075028,
+					"id_str": "284075028",
+					"indices": [
+						127,
+						141
+					]
+				},
+				{
+					"screen_name": "thejianhaotan",
+					"name": "JianHao F² Tan",
+					"id": 237093193,
+					"id_str": "237093193",
+					"indices": [
+						142,
+						156
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1097403224292655100,
+		"in_reply_to_status_id_str": "1097403224292655104",
+		"in_reply_to_user_id": 307922714,
+		"in_reply_to_user_id_str": "307922714",
+		"in_reply_to_screen_name": "vivek_gkrishnan",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62233,
+			"friends_count": 31587,
+			"listed_count": 1336,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16987,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@vivek_gkrishnan @Change @Neal_X @mgnirck @ayeshakhanna1 @paragkhanna @AnsonZeall @scottebales @richardturrin @bellywellyjelly @benjaminkheng @thejianhaotan LOL... ok i'll sign it. You tagged me twice, so this must be 2X as important. :)"
+	},
+	{
 		"created_at": "Mon Feb 18 00:41:40 +0000 2019",
 		"id": 1097295045093281800,
 		"id_str": "1097295045093281792",
