@@ -1,6 +1,959 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 21 02:00:01 +0000 2019",
+		"id": 1098401925559738400,
+		"id_str": "1098585676168146944",
+		"full_text": ".@debbiediscovers defines AI as \"the ability for computers to perform tasks that, in the past, only humans could do\" - but how exactly can AI be applied to marketing? https://t.co/68HwRixN1U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						1,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/68HwRixN1U",
+					"expanded_url": "http://goo.gl/58MGxd",
+					"display_url": "goo.gl/58MGxd",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11833202,
+			"id_str": "11833202",
+			"name": "Econsultancy",
+			"screen_name": "Econsultancy",
+			"location": "London | New York | Singapore",
+			"description": "Research, training and advisory services in marketing, ecommerce  and digital business.",
+			"url": "https://t.co/eMddEHjsPw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eMddEHjsPw",
+							"expanded_url": "http://Econsultancy.com",
+							"display_url": "Econsultancy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 233518,
+			"friends_count": 1150,
+			"listed_count": 12118,
+			"created_at": "Fri Jan 04 09:40:55 +0000 2008",
+			"favourites_count": 14341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54381,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/783569217123717121/AWBOtHLr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/783569217123717121/AWBOtHLr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11833202/1479396863",
+			"profile_link_color": "ED002B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F0FFFF",
+			"profile_text_color": "525252",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@debbiediscovers defines AI as \"the ability for computers to perform tasks that, in the past, only humans could do\" - but how exactly can AI be applied to marketing? https://t.co/68HwRixN1U"
+	},
+	{
+		"created_at": "Thu Feb 21 14:09:14 +0000 2019",
+		"id": 1098585440867672000,
+		"id_str": "1098585440867672064",
+		"full_text": "@jimmyevans702 Good morning!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jimmyevans702",
+					"name": "jimmy evans",
+					"id": 1050391162664546300,
+					"id_str": "1050391162664546304",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1098513867389337600,
+		"in_reply_to_status_id_str": "1098513867389337601",
+		"in_reply_to_user_id": 1050391162664546300,
+		"in_reply_to_user_id_str": "1050391162664546304",
+		"in_reply_to_screen_name": "jimmyevans702",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62382,
+			"friends_count": 30248,
+			"listed_count": 1336,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jimmyevans702 Good morning!"
+	},
+	{
+		"created_at": "Thu Feb 21 14:08:47 +0000 2019",
+		"id": 1098585325788586000,
+		"id_str": "1098585325788585985",
+		"full_text": "@JesperOutzen @benlcollins I also wrote one modified from ben’s https://t.co/BFHTj3U66h",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JesperOutzen",
+					"name": "Jesper Outzen",
+					"id": 27439607,
+					"id_str": "27439607",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BFHTj3U66h",
+					"expanded_url": "https://www.digitaldiscovery.sg/blog/alternative-socialblade-instagram-dashboard-google-sheets/amp/",
+					"display_url": "digitaldiscovery.sg/blog/alternati…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1098576920839622700,
+		"in_reply_to_status_id_str": "1098576920839622659",
+		"in_reply_to_user_id": 27439607,
+		"in_reply_to_user_id_str": "27439607",
+		"in_reply_to_screen_name": "JesperOutzen",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62382,
+			"friends_count": 30248,
+			"listed_count": 1336,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JesperOutzen @benlcollins I also wrote one modified from ben’s https://t.co/BFHTj3U66h"
+	},
+	{
+		"created_at": "Thu Feb 21 14:08:03 +0000 2019",
+		"id": 1098585144275816400,
+		"id_str": "1098585144275816448",
+		"full_text": "@JesperOutzen @benlcollins Built it based on the formulas on here! 👉https://t.co/yubwQOBtoU",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JesperOutzen",
+					"name": "Jesper Outzen",
+					"id": 27439607,
+					"id_str": "27439607",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yubwQOBtoU",
+					"expanded_url": "https://www.benlcollins.com/spreadsheets/import-social-media-statistics/",
+					"display_url": "benlcollins.com/spreadsheets/i…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1098576920839622700,
+		"in_reply_to_status_id_str": "1098576920839622659",
+		"in_reply_to_user_id": 27439607,
+		"in_reply_to_user_id_str": "27439607",
+		"in_reply_to_screen_name": "JesperOutzen",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62382,
+			"friends_count": 30248,
+			"listed_count": 1336,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JesperOutzen @benlcollins Built it based on the formulas on here! 👉https://t.co/yubwQOBtoU"
+	},
+	{
+		"created_at": "Thu Feb 21 06:32:11 +0000 2019",
+		"id": 1098470420229943300,
+		"id_str": "1098572010584662017",
+		"full_text": "“There’s Only One Thing To Do With Today: Seize It” by @RyanHoliday https://t.co/TnBCQmZhaP https://t.co/7mqUj62XHK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RyanHoliday",
+					"name": "Ryan Holiday",
+					"id": 3764301,
+					"id_str": "3764301",
+					"indices": [
+						55,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TnBCQmZhaP",
+					"expanded_url": "https://link.medium.com/3iVg4LjUtU",
+					"display_url": "link.medium.com/3iVg4LjUtU",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1098470412063727600,
+					"id_str": "1098470412063727617",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz6NBRNV4AEyCyb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz6NBRNV4AEyCyb.jpg",
+					"url": "https://t.co/7mqUj62XHK",
+					"display_url": "pic.twitter.com/7mqUj62XHK",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1098470420229943298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 629,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098470412063727600,
+					"id_str": "1098470412063727617",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz6NBRNV4AEyCyb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz6NBRNV4AEyCyb.jpg",
+					"url": "https://t.co/7mqUj62XHK",
+					"display_url": "pic.twitter.com/7mqUj62XHK",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1098470420229943298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 629,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62382,
+			"friends_count": 30248,
+			"listed_count": 1336,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“There’s Only One Thing To Do With Today: Seize It” by @RyanHoliday https://t.co/TnBCQmZhaP https://t.co/7mqUj62XHK"
+	},
+	{
+		"created_at": "Wed Feb 20 23:36:06 +0000 2019",
+		"id": 1098365710638575600,
+		"id_str": "1098571996114251776",
+		"full_text": "This 2019 #socialmedia benchmarking study is a must read! Thanks @rivalIQ https://t.co/sQ0RRv7vHW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "socialmedia",
+					"indices": [
+						10,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RivalIQ",
+					"name": "Rival IQ",
+					"id": 550492251,
+					"id_str": "550492251",
+					"indices": [
+						65,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sQ0RRv7vHW",
+					"expanded_url": "https://twitter.com/rivaliq/status/1098341883380563969",
+					"display_url": "twitter.com/rivaliq/status…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62382,
+			"friends_count": 30248,
+			"listed_count": 1336,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "58a4c3a0d54e1400",
+			"url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json",
+			"place_type": "admin",
+			"name": "Central Region",
+			"full_name": "Central Region, Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.749959507073,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.36874499902569
+						],
+						[
+							103.749959507073,
+							1.36874499902569
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098341883380564000,
+		"quoted_status_id_str": "1098341883380563969",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sQ0RRv7vHW",
+			"expanded": "https://twitter.com/rivaliq/status/1098341883380563969",
+			"display": "twitter.com/rivaliq/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 20 22:01:25 +0000 2019",
+			"id": 1098341883380564000,
+			"id_str": "1098341883380563969",
+			"full_text": "@debbiediscovers Hey Debbie! Have you seen this year's updated metrics? Plus 2 additional industries &gt;&gt; https://t.co/1zAKwssQev",
+			"truncated": false,
+			"display_text_range": [
+				17,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1zAKwssQev",
+						"expanded_url": "https://www.rivaliq.com/blog/2019-social-media-benchmark-report/",
+						"display_url": "rivaliq.com/blog/2019-soci…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 991558690552430600,
+			"in_reply_to_status_id_str": "991558690552430593",
+			"in_reply_to_user_id": 3060836348,
+			"in_reply_to_user_id_str": "3060836348",
+			"in_reply_to_screen_name": "debbiediscovers",
+			"user": {
+				"id": 550492251,
+				"id_str": "550492251",
+				"name": "Rival IQ",
+				"screen_name": "RivalIQ",
+				"location": "Seattle, WA",
+				"description": "Delivering you social media analytics & competitive benchmarking. Improve your social media results with data-driven decisions.\nNow with Instagram Insights! 🍾",
+				"url": "http://t.co/MXYs4ZbaPP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/MXYs4ZbaPP",
+								"expanded_url": "http://RivalIQ.com",
+								"display_url": "RivalIQ.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5130,
+				"friends_count": 2633,
+				"listed_count": 1299,
+				"created_at": "Tue Apr 10 20:12:31 +0000 2012",
+				"favourites_count": 5050,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14917,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/971633223104000000/0gRjtYqL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971633223104000000/0gRjtYqL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/550492251/1491934345",
+				"profile_link_color": "004599",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This 2019 #socialmedia benchmarking study is a must read! Thanks @rivalIQ https://t.co/sQ0RRv7vHW"
+	},
+	{
 		"created_at": "Thu Feb 21 06:32:11 +0000 2019",
 		"id": 1098470420229943300,
 		"id_str": "1098470420229943298",
