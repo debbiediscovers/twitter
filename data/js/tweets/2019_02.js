@@ -1,6 +1,568 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 20 23:36:06 +0000 2019",
+		"id": 1098365710638575600,
+		"id_str": "1098365710638575616",
+		"full_text": "This 2019 #socialmedia benchmarking study is a must read! Thanks @rivalIQ https://t.co/sQ0RRv7vHW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "socialmedia",
+					"indices": [
+						10,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RivalIQ",
+					"name": "Rival IQ",
+					"id": 550492251,
+					"id_str": "550492251",
+					"indices": [
+						65,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sQ0RRv7vHW",
+					"expanded_url": "https://twitter.com/rivaliq/status/1098341883380563969",
+					"display_url": "twitter.com/rivaliq/status…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62335,
+			"friends_count": 29995,
+			"listed_count": 1331,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17003,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "58a4c3a0d54e1400",
+			"url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json",
+			"place_type": "admin",
+			"name": "Central Region",
+			"full_name": "Central Region, Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.749959507073,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.36874499902569
+						],
+						[
+							103.749959507073,
+							1.36874499902569
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098341883380564000,
+		"quoted_status_id_str": "1098341883380563969",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sQ0RRv7vHW",
+			"expanded": "https://twitter.com/rivaliq/status/1098341883380563969",
+			"display": "twitter.com/rivaliq/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 20 22:01:25 +0000 2019",
+			"id": 1098341883380564000,
+			"id_str": "1098341883380563969",
+			"full_text": "@debbiediscovers Hey Debbie! Have you seen this year's updated metrics? Plus 2 additional industries &gt;&gt; https://t.co/1zAKwssQev",
+			"truncated": false,
+			"display_text_range": [
+				17,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1zAKwssQev",
+						"expanded_url": "https://www.rivaliq.com/blog/2019-social-media-benchmark-report/",
+						"display_url": "rivaliq.com/blog/2019-soci…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 991558690552430600,
+			"in_reply_to_status_id_str": "991558690552430593",
+			"in_reply_to_user_id": 3060836348,
+			"in_reply_to_user_id_str": "3060836348",
+			"in_reply_to_screen_name": "debbiediscovers",
+			"user": {
+				"id": 550492251,
+				"id_str": "550492251",
+				"name": "Rival IQ",
+				"screen_name": "RivalIQ",
+				"location": "Seattle, WA",
+				"description": "Delivering you social media analytics & competitive benchmarking. Improve your social media results with data-driven decisions.\nNow with Instagram Insights! 🍾",
+				"url": "http://t.co/MXYs4ZbaPP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/MXYs4ZbaPP",
+								"expanded_url": "http://RivalIQ.com",
+								"display_url": "RivalIQ.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5125,
+				"friends_count": 2633,
+				"listed_count": 1299,
+				"created_at": "Tue Apr 10 20:12:31 +0000 2012",
+				"favourites_count": 5050,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14917,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/971633223104000000/0gRjtYqL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971633223104000000/0gRjtYqL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/550492251/1491934345",
+				"profile_link_color": "004599",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This 2019 #socialmedia benchmarking study is a must read! Thanks @rivalIQ https://t.co/sQ0RRv7vHW"
+	},
+	{
+		"created_at": "Wed Feb 20 23:35:03 +0000 2019",
+		"id": 1098365445676007400,
+		"id_str": "1098365445676007424",
+		"full_text": "This annual #socialmedia benchmarking study is a must read!! Thanks @rivalIQ https://t.co/sQ0RRv7vHW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "socialmedia",
+					"indices": [
+						12,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RivalIQ",
+					"name": "Rival IQ",
+					"id": 550492251,
+					"id_str": "550492251",
+					"indices": [
+						68,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sQ0RRv7vHW",
+					"expanded_url": "https://twitter.com/rivaliq/status/1098341883380563969",
+					"display_url": "twitter.com/rivaliq/status…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62335,
+			"friends_count": 29995,
+			"listed_count": 1331,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17003,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "58a4c3a0d54e1400",
+			"url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json",
+			"place_type": "admin",
+			"name": "Central Region",
+			"full_name": "Central Region, Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.749959507073,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.36874499902569
+						],
+						[
+							103.749959507073,
+							1.36874499902569
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098341883380564000,
+		"quoted_status_id_str": "1098341883380563969",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sQ0RRv7vHW",
+			"expanded": "https://twitter.com/rivaliq/status/1098341883380563969",
+			"display": "twitter.com/rivaliq/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 20 22:01:25 +0000 2019",
+			"id": 1098341883380564000,
+			"id_str": "1098341883380563969",
+			"full_text": "@debbiediscovers Hey Debbie! Have you seen this year's updated metrics? Plus 2 additional industries &gt;&gt; https://t.co/1zAKwssQev",
+			"truncated": false,
+			"display_text_range": [
+				17,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1zAKwssQev",
+						"expanded_url": "https://www.rivaliq.com/blog/2019-social-media-benchmark-report/",
+						"display_url": "rivaliq.com/blog/2019-soci…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 991558690552430600,
+			"in_reply_to_status_id_str": "991558690552430593",
+			"in_reply_to_user_id": 3060836348,
+			"in_reply_to_user_id_str": "3060836348",
+			"in_reply_to_screen_name": "debbiediscovers",
+			"user": {
+				"id": 550492251,
+				"id_str": "550492251",
+				"name": "Rival IQ",
+				"screen_name": "RivalIQ",
+				"location": "Seattle, WA",
+				"description": "Delivering you social media analytics & competitive benchmarking. Improve your social media results with data-driven decisions.\nNow with Instagram Insights! 🍾",
+				"url": "http://t.co/MXYs4ZbaPP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/MXYs4ZbaPP",
+								"expanded_url": "http://RivalIQ.com",
+								"display_url": "RivalIQ.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5125,
+				"friends_count": 2633,
+				"listed_count": 1299,
+				"created_at": "Tue Apr 10 20:12:31 +0000 2012",
+				"favourites_count": 5050,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14917,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/971633223104000000/0gRjtYqL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971633223104000000/0gRjtYqL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/550492251/1491934345",
+				"profile_link_color": "004599",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This annual #socialmedia benchmarking study is a must read!! Thanks @rivalIQ https://t.co/sQ0RRv7vHW"
+	},
+	{
 		"created_at": "Wed Feb 20 11:30:39 +0000 2019",
 		"id": 1098183143310291000,
 		"id_str": "1098257102265495552",
