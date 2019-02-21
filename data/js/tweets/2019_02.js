@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 21 02:00:01 +0000 2019",
+		"id": 1098401925559738400,
+		"id_str": "1098683027515830272",
+		"full_text": ".@debbiediscovers defines AI as \"the ability for computers to perform tasks that, in the past, only humans could do\" - but how exactly can AI be applied to marketing? https://t.co/68HwRixN1U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						1,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/68HwRixN1U",
+					"expanded_url": "http://goo.gl/58MGxd",
+					"display_url": "goo.gl/58MGxd",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11833202,
+			"id_str": "11833202",
+			"name": "Econsultancy",
+			"screen_name": "Econsultancy",
+			"location": "London | New York | Singapore",
+			"description": "Research, training and advisory services in marketing, ecommerce  and digital business.",
+			"url": "https://t.co/eMddEHjsPw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eMddEHjsPw",
+							"expanded_url": "http://Econsultancy.com",
+							"display_url": "Econsultancy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 233515,
+			"friends_count": 1149,
+			"listed_count": 12116,
+			"created_at": "Fri Jan 04 09:40:55 +0000 2008",
+			"favourites_count": 14344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54384,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/783569217123717121/AWBOtHLr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/783569217123717121/AWBOtHLr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11833202/1479396863",
+			"profile_link_color": "ED002B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F0FFFF",
+			"profile_text_color": "525252",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@debbiediscovers defines AI as \"the ability for computers to perform tasks that, in the past, only humans could do\" - but how exactly can AI be applied to marketing? https://t.co/68HwRixN1U"
+	},
+	{
 		"created_at": "Thu Feb 21 14:37:48 +0000 2019",
 		"id": 1098592629208567800,
 		"id_str": "1098592629208567808",
