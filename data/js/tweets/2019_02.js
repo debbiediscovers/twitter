@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 22 02:09:18 +0000 2019",
+		"id": 1098766652898926600,
+		"id_str": "1099068974657036288",
+		"full_text": "Marketers, if you’re exploring on how to create AI Chatbots, do check out the upcoming course by @debbiediscovers here - https://t.co/EYHF31hCGO https://t.co/uF8K8LqitD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						97,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EYHF31hCGO",
+					"expanded_url": "http://bit.ly/AIChatbot_02",
+					"display_url": "bit.ly/AIChatbot_02",
+					"indices": [
+						121,
+						144
+					]
+				},
+				{
+					"url": "https://t.co/uF8K8LqitD",
+					"expanded_url": "https://twitter.com/econsultancy/status/1098401925559738368",
+					"display_url": "twitter.com/econsultancy/s…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3343683972,
+			"id_str": "3343683972",
+			"name": "Perlie Li",
+			"screen_name": "PerlieMX",
+			"location": "Singapore",
+			"description": "Design & Ops Lead / Art & Design lover / Foodie / Seeking out what's trending in Design, the Digital Marketing Space and Internet of Things",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 379,
+			"friends_count": 1596,
+			"listed_count": 54,
+			"created_at": "Wed Aug 26 02:30:57 +0000 2015",
+			"favourites_count": 2141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1709,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E81C4F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085391141363695617/jritOLtQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085391141363695617/jritOLtQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3343683972/1550112665",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098401925559738400,
+		"quoted_status_id_str": "1098401925559738368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uF8K8LqitD",
+			"expanded": "https://twitter.com/econsultancy/status/1098401925559738368",
+			"display": "twitter.com/econsultancy/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 21 02:00:01 +0000 2019",
+			"id": 1098401925559738400,
+			"id_str": "1098401925559738368",
+			"full_text": ".@debbiediscovers defines AI as \"the ability for computers to perform tasks that, in the past, only humans could do\" - but how exactly can AI be applied to marketing? https://t.co/68HwRixN1U",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				190
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							1,
+							17
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/68HwRixN1U",
+						"expanded_url": "http://goo.gl/58MGxd",
+						"display_url": "goo.gl/58MGxd",
+						"indices": [
+							167,
+							190
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11833202,
+				"id_str": "11833202",
+				"name": "Econsultancy",
+				"screen_name": "Econsultancy",
+				"location": "London | New York | Singapore",
+				"description": "Research, training and advisory services in marketing, ecommerce  and digital business.",
+				"url": "https://t.co/eMddEHjsPw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eMddEHjsPw",
+								"expanded_url": "http://Econsultancy.com",
+								"display_url": "Econsultancy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 233519,
+				"friends_count": 1150,
+				"listed_count": 12117,
+				"created_at": "Fri Jan 04 09:40:55 +0000 2008",
+				"favourites_count": 14364,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 54396,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAFAFA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783569217123717121/AWBOtHLr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783569217123717121/AWBOtHLr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11833202/1479396863",
+				"profile_link_color": "ED002B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F0FFFF",
+				"profile_text_color": "525252",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Marketers, if you’re exploring on how to create AI Chatbots, do check out the upcoming course by @debbiediscovers here - https://t.co/EYHF31hCGO https://t.co/uF8K8LqitD"
+	},
+	{
 		"created_at": "Fri Feb 22 05:36:50 +0000 2019",
 		"id": 1098818877071405000,
 		"id_str": "1099044057576173568",
