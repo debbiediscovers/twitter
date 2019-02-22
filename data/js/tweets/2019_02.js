@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 21 13:15:33 +0000 2019",
+		"id": 1098571931517775900,
+		"id_str": "1098804849464856577",
+		"full_text": "Total geek out moment but I can't believe I managed to write the correct regex formula to extract number of posts per hashtag on Instagram \nWOOHOO! 😂😂🙌🙌\n#WebScrapingFTW (thanks to @benlcollins's awesome tutorial and courses! check out his website yo!) https://t.co/shPvJm3hOb https://t.co/iVwWIqP5vZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WebScrapingFTW",
+					"indices": [
+						153,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						180,
+						192
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/shPvJm3hOb",
+					"expanded_url": "https://www.benlcollins.com",
+					"display_url": "benlcollins.com",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1098571674402734100,
+					"id_str": "1098571674402734081",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz7pHg0UwAE_6AX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz7pHg0UwAE_6AX.jpg",
+					"url": "https://t.co/iVwWIqP5vZ",
+					"display_url": "pic.twitter.com/iVwWIqP5vZ",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1098571931517775873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 922,
+							"h": 422,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 311,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 922,
+							"h": 422,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098571674402734100,
+					"id_str": "1098571674402734081",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz7pHg0UwAE_6AX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz7pHg0UwAE_6AX.jpg",
+					"url": "https://t.co/iVwWIqP5vZ",
+					"display_url": "pic.twitter.com/iVwWIqP5vZ",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1098571931517775873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 922,
+							"h": 422,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 311,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 922,
+							"h": 422,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62403,
+			"friends_count": 30102,
+			"listed_count": 1334,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17012,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Total geek out moment but I can't believe I managed to write the correct regex formula to extract number of posts per hashtag on Instagram \nWOOHOO! 😂😂🙌🙌\n#WebScrapingFTW (thanks to @benlcollins's awesome tutorial and courses! check out his website yo!) https://t.co/shPvJm3hOb https://t.co/iVwWIqP5vZ"
+	},
+	{
 		"created_at": "Fri Feb 22 04:04:59 +0000 2019",
 		"id": 1098795764342435800,
 		"id_str": "1098795764342435840",
