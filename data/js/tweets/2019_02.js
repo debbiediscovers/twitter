@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 23 14:37:52 +0000 2019",
+		"id": 1099317424254582800,
+		"id_str": "1099317424254582784",
+		"full_text": "Oh, y(h)ellow there! 💛 ⠀⠀ ⠀⠀\n#yellow #rainbowfeed #ipreview #debbiediscovers #agameoftones #colorcrush #colorlove #colorhunters #colorsplash #happycolors #hellocolor #howihue https://t.co/AtElQili7J https://t.co/7wluCjDEvg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "yellow",
+					"indices": [
+						29,
+						36
+					]
+				},
+				{
+					"text": "rainbowfeed",
+					"indices": [
+						37,
+						49
+					]
+				},
+				{
+					"text": "ipreview",
+					"indices": [
+						50,
+						59
+					]
+				},
+				{
+					"text": "debbiediscovers",
+					"indices": [
+						60,
+						76
+					]
+				},
+				{
+					"text": "agameoftones",
+					"indices": [
+						77,
+						90
+					]
+				},
+				{
+					"text": "colorcrush",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"text": "colorlove",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"text": "colorhunters",
+					"indices": [
+						114,
+						127
+					]
+				},
+				{
+					"text": "colorsplash",
+					"indices": [
+						128,
+						140
+					]
+				},
+				{
+					"text": "happycolors",
+					"indices": [
+						141,
+						153
+					]
+				},
+				{
+					"text": "hellocolor",
+					"indices": [
+						154,
+						165
+					]
+				},
+				{
+					"text": "howihue",
+					"indices": [
+						166,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AtElQili7J",
+					"expanded_url": "https://www.instagram.com/debbiediscovers/p/BuOi6l_Bf45/",
+					"display_url": "instagram.com/debbiediscover…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1099317423046561800,
+					"id_str": "1099317423046561793",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/D0GPXzAWkAEo87R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0GPXzAWkAEo87R.jpg",
+					"url": "https://t.co/7wluCjDEvg",
+					"display_url": "pic.twitter.com/7wluCjDEvg",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1099317424254582784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099317423046561800,
+					"id_str": "1099317423046561793",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/D0GPXzAWkAEo87R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0GPXzAWkAEo87R.jpg",
+					"url": "https://t.co/7wluCjDEvg",
+					"display_url": "pic.twitter.com/7wluCjDEvg",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1099317424254582784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62478,
+			"friends_count": 30130,
+			"listed_count": 1332,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17023,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh, y(h)ellow there! 💛 ⠀⠀ ⠀⠀\n#yellow #rainbowfeed #ipreview #debbiediscovers #agameoftones #colorcrush #colorlove #colorhunters #colorsplash #happycolors #hellocolor #howihue https://t.co/AtElQili7J https://t.co/7wluCjDEvg"
+	},
+	{
 		"created_at": "Wed Feb 20 22:12:48 +0000 2019",
 		"id": 1098344747389771800,
 		"id_str": "1099168361420775425",
