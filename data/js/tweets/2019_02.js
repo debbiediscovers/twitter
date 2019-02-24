@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 24 05:00:00 +0000 2019",
+		"id": 1099534384468643800,
+		"id_str": "1099779067010662400",
+		"full_text": "The four most exciting areas of AI for marketers in 2019 - expert insight from @debbiediscovers. https://t.co/ep1QXHT9w6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						79,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ep1QXHT9w6",
+					"expanded_url": "http://bit.ly/2EnlPVy",
+					"display_url": "bit.ly/2EnlPVy",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11833202,
+			"id_str": "11833202",
+			"name": "Econsultancy",
+			"screen_name": "Econsultancy",
+			"location": "London | New York | Singapore",
+			"description": "Research, training and advisory services in marketing, ecommerce  and digital business.",
+			"url": "https://t.co/eMddEHjsPw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eMddEHjsPw",
+							"expanded_url": "http://Econsultancy.com",
+							"display_url": "Econsultancy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 233547,
+			"friends_count": 1150,
+			"listed_count": 12113,
+			"created_at": "Fri Jan 04 09:40:55 +0000 2008",
+			"favourites_count": 14362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54412,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/783569217123717121/AWBOtHLr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/783569217123717121/AWBOtHLr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11833202/1479396863",
+			"profile_link_color": "ED002B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F0FFFF",
+			"profile_text_color": "525252",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The four most exciting areas of AI for marketers in 2019 - expert insight from @debbiediscovers. https://t.co/ep1QXHT9w6"
+	},
+	{
 		"created_at": "Sat Feb 23 14:37:52 +0000 2019",
 		"id": 1099317424254582800,
 		"id_str": "1099317424254582784",
