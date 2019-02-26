@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 26 12:07:13 +0000 2019",
+		"id": 1100366674262413300,
+		"id_str": "1100505093978443776",
+		"full_text": "It's that time again - #Influencer of the day!\n\nTake a look at @debbiediscovers - She is an all-round technical whizz with specialities in #AI, #DigitalTransformation and #chatbots! You will get some down-to-earth motivation and inspiration from Deborah's feed 🌟\n\n#WomenInSTEM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Influencer",
+					"indices": [
+						23,
+						34
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "DigitalTransformation",
+					"indices": [
+						144,
+						166
+					]
+				},
+				{
+					"text": "chatbots",
+					"indices": [
+						171,
+						180
+					]
+				},
+				{
+					"text": "WomenInSTEM",
+					"indices": [
+						264,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						63,
+						79
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1013810623426322400,
+			"id_str": "1013810623426322432",
+			"name": "hollerings",
+			"screen_name": "HolleringsUK",
+			"location": "UK",
+			"description": "Hosting expert advice, industry insights & informative commentary on the world of Technology 👀 By @SearchableLe @SearchableRosie @SearchableHeath @SearchableHaz",
+			"url": "https://t.co/9XZCqCrjUJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9XZCqCrjUJ",
+							"expanded_url": "http://hollerings.com",
+							"display_url": "hollerings.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 427,
+			"friends_count": 1591,
+			"listed_count": 5,
+			"created_at": "Mon Jul 02 15:44:23 +0000 2018",
+			"favourites_count": 283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089828971901014017/GYwKpmAB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089828971901014017/GYwKpmAB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1013810623426322432/1549387852",
+			"profile_link_color": "E91D8D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It's that time again - #Influencer of the day!\n\nTake a look at @debbiediscovers - She is an all-round technical whizz with specialities in #AI, #DigitalTransformation and #chatbots! You will get some down-to-earth motivation and inspiration from Deborah's feed 🌟\n\n#WomenInSTEM"
+	},
+	{
 		"created_at": "Tue Feb 26 10:14:42 +0000 2019",
 		"id": 1100338356221669400,
 		"id_str": "1100454700346892288",
