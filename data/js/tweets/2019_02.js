@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 26 18:38:43 +0000 2019",
+		"id": 1100465197284757500,
+		"id_str": "1100681827927285760",
+		"full_text": "Very important article by @CaseyNewton on the harmful working conditions for people working to remove content from platforms, something @ubiquity75 has been writing on for years. Casey is a bit of an Upton Sinclair here, exposing the seedy underbelly of content moderation 1/5 https://t.co/imv2X45Zea",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CaseyNewton",
+					"name": "Casey Newton",
+					"id": 69426451,
+					"id_str": "69426451",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "ubiquity75",
+					"name": "Sarah T. Roberts",
+					"id": 23451153,
+					"id_str": "23451153",
+					"indices": [
+						136,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/imv2X45Zea",
+					"expanded_url": "https://twitter.com/CaseyNewton/status/1100017966203240448",
+					"display_url": "twitter.com/CaseyNewton/st…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2805856351,
+			"id_str": "2805856351",
+			"name": "Kate Klonick",
+			"screen_name": "Klonick",
+			"location": "Brooklyn, NY",
+			"description": "Asst. Prof. @StJohnsLaw// PhD/JD // Fellow @YaleISP @newamerica // Interest & expertise: internet+(free speech^private governance^shaming); cog. psych^AI^robots",
+			"url": "https://t.co/7AVNMIHLNP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7AVNMIHLNP",
+							"expanded_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2937985",
+							"display_url": "papers.ssrn.com/sol3/papers.cf…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5274,
+			"friends_count": 479,
+			"listed_count": 109,
+			"created_at": "Fri Sep 12 16:18:21 +0000 2014",
+			"favourites_count": 3193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1517,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/510463020556767233/z1Hq9bmG_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/510463020556767233/z1Hq9bmG_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2805856351/1410539079",
+			"profile_link_color": "08298A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1100017966203240400,
+		"quoted_status_id_str": "1100017966203240448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/imv2X45Zea",
+			"expanded": "https://twitter.com/CaseyNewton/status/1100017966203240448",
+			"display": "twitter.com/CaseyNewton/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 25 13:01:35 +0000 2019",
+			"id": 1100017966203240400,
+			"id_str": "1100017966203240448",
+			"full_text": "Today I want to tell you what it's like to be a content moderator for Facebook at its site in Phoenix, Arizona. It's a job that pays just $28,800 a year — but can have lasting mental health consequences for those who do it. https://t.co/quieXG1Bm9 https://t.co/cwtHXIqgol",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/quieXG1Bm9",
+						"expanded_url": "https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona",
+						"display_url": "theverge.com/2019/2/25/1822…",
+						"indices": [
+							224,
+							247
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1100017931608621000,
+						"id_str": "1100017931608621056",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D0QMewwXgAAhD-c.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D0QMewwXgAAhD-c.jpg",
+						"url": "https://t.co/cwtHXIqgol",
+						"display_url": "pic.twitter.com/cwtHXIqgol",
+						"expanded_url": "https://twitter.com/CaseyNewton/status/1100017966203240448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 426,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 426,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 426,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1100017931608621000,
+						"id_str": "1100017931608621056",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D0QMewwXgAAhD-c.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D0QMewwXgAAhD-c.jpg",
+						"url": "https://t.co/cwtHXIqgol",
+						"display_url": "pic.twitter.com/cwtHXIqgol",
+						"expanded_url": "https://twitter.com/CaseyNewton/status/1100017966203240448/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 426,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 426,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 426,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								320,
+								213
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D0QMewwXgAAhD-c.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 69426451,
+				"id_str": "69426451",
+				"name": "Casey Newton",
+				"screen_name": "CaseyNewton",
+				"location": "San Francisco",
+				"description": "social networks + democracy @verge | sign up to get my daily column by email: https://t.co/0umDpRUfyZ | casey@theverge.com | instagram + snapchat: @crumbler",
+				"url": "https://t.co/384TCkf3TR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/384TCkf3TR",
+								"expanded_url": "https://www.theverge.com/theinterface",
+								"display_url": "theverge.com/theinterface",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0umDpRUfyZ",
+								"expanded_url": "http://bit.ly/2yTbZcK",
+								"display_url": "bit.ly/2yTbZcK",
+								"indices": [
+									78,
+									101
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 71147,
+				"friends_count": 735,
+				"listed_count": 2481,
+				"created_at": "Thu Aug 27 22:37:09 +0000 2009",
+				"favourites_count": 166034,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 23931,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1053792942966497280/BOEYtrXe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053792942966497280/BOEYtrXe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/69426451/1536691543",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6049,
+			"favorite_count": 9121,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 27,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very important article by @CaseyNewton on the harmful working conditions for people working to remove content from platforms, something @ubiquity75 has been writing on for years. Casey is a bit of an Upton Sinclair here, exposing the seedy underbelly of content moderation 1/5 https://t.co/imv2X45Zea"
+	},
+	{
 		"created_at": "Tue Feb 26 12:07:13 +0000 2019",
 		"id": 1100366674262413300,
 		"id_str": "1100570520938938368",
