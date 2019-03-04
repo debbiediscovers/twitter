@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 04 09:37:45 +0000 2019",
+		"id": 1102503388070273000,
+		"id_str": "1102503388070273026",
+		"full_text": "Peep through the keyhole and reach for the stars 👀🗝⭐️ ⠀⠀\n#green #rainbowfeed #ipreview #happycolors #dailydoseofcolor #hellocolor #ig_color #howihue #ihavethisthingwithcolor #crafttherainbow #colorcrush #cornersofmyworld https://t.co/RBmZcg3qtu https://t.co/vXHJXAvKWu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "green",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "rainbowfeed",
+					"indices": [
+						64,
+						76
+					]
+				},
+				{
+					"text": "ipreview",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"text": "happycolors",
+					"indices": [
+						87,
+						99
+					]
+				},
+				{
+					"text": "dailydoseofcolor",
+					"indices": [
+						100,
+						117
+					]
+				},
+				{
+					"text": "hellocolor",
+					"indices": [
+						118,
+						129
+					]
+				},
+				{
+					"text": "ig_color",
+					"indices": [
+						130,
+						139
+					]
+				},
+				{
+					"text": "howihue",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "ihavethisthingwithcolor",
+					"indices": [
+						149,
+						173
+					]
+				},
+				{
+					"text": "crafttherainbow",
+					"indices": [
+						174,
+						190
+					]
+				},
+				{
+					"text": "colorcrush",
+					"indices": [
+						191,
+						202
+					]
+				},
+				{
+					"text": "cornersofmyworld",
+					"indices": [
+						203,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RBmZcg3qtu",
+					"expanded_url": "https://www.instagram.com/p/BulMRVoBb2v/",
+					"display_url": "instagram.com/p/BulMRVoBb2v/",
+					"indices": [
+						221,
+						244
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102503386849726500,
+					"id_str": "1102503386849726469",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/D0zg_TDX0AUcWGp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0zg_TDX0AUcWGp.jpg",
+					"url": "https://t.co/vXHJXAvKWu",
+					"display_url": "pic.twitter.com/vXHJXAvKWu",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1102503388070273026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102503386849726500,
+					"id_str": "1102503386849726469",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/D0zg_TDX0AUcWGp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0zg_TDX0AUcWGp.jpg",
+					"url": "https://t.co/vXHJXAvKWu",
+					"display_url": "pic.twitter.com/vXHJXAvKWu",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1102503388070273026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62785,
+			"friends_count": 30246,
+			"listed_count": 1334,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17066,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Peep through the keyhole and reach for the stars 👀🗝⭐️ ⠀⠀\n#green #rainbowfeed #ipreview #happycolors #dailydoseofcolor #hellocolor #ig_color #howihue #ihavethisthingwithcolor #crafttherainbow #colorcrush #cornersofmyworld https://t.co/RBmZcg3qtu https://t.co/vXHJXAvKWu"
+	},
+	{
 		"created_at": "Mon Mar 04 08:15:01 +0000 2019",
 		"id": 1102482564764196900,
 		"id_str": "1102482564764196864",
