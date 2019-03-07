@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 07 12:00:56 +0000 2019",
+		"id": 1103626581912641500,
+		"id_str": "1103626581912641536",
+		"full_text": "#mindblown 🤯 https://t.co/bK4SaRrrzW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mindblown",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bK4SaRrrzW",
+					"expanded_url": "https://twitter.com/jeremyjkun/status/1103005049834229760",
+					"display_url": "twitter.com/jeremyjkun/sta…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62743,
+			"friends_count": 29929,
+			"listed_count": 1336,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17078,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1103005049834229800,
+		"quoted_status_id_str": "1103005049834229760",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bK4SaRrrzW",
+			"expanded": "https://twitter.com/jeremyjkun/status/1103005049834229760",
+			"display": "twitter.com/jeremyjkun/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 05 18:51:11 +0000 2019",
+			"id": 1103005049834229800,
+			"id_str": "1103005049834229760",
+			"full_text": "Basic arithmetic isn't a \"life hack\", but OK. Here's a proof. Just rearrange multiplication.\n\nx% of y = (0.01 * x) * y = x * (0.01 * y) = y% of x\n\nThe proof reveals another move: if x% of y is hard and y% of x is hard, try multiplying x*y and dividing by 100. E.g., 12% of 12. https://t.co/92uO899DxS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/92uO899DxS",
+						"expanded_url": "https://twitter.com/stephens_ben/status/1102167046115262466",
+						"display_url": "twitter.com/stephens_ben/s…",
+						"indices": [
+							277,
+							300
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2414683548,
+				"id_str": "2414683548",
+				"name": "Jeremy Kun",
+				"screen_name": "jeremyjkun",
+				"location": "Oakland, CA",
+				"description": "Math & Optimization @Google. Author of Math ∩ Programming @MathProgramming and \"A Programmer's Introduction to Mathematics\" https://t.co/LjatsKN2aF",
+				"url": "https://t.co/Ic2EfpmkiF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ic2EfpmkiF",
+								"expanded_url": "http://jeremykun.com",
+								"display_url": "jeremykun.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LjatsKN2aF",
+								"expanded_url": "http://pimbook.org",
+								"display_url": "pimbook.org",
+								"indices": [
+									124,
+									147
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8262,
+				"friends_count": 454,
+				"listed_count": 207,
+				"created_at": "Thu Mar 27 17:33:31 +0000 2014",
+				"favourites_count": 5449,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4020,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1015763806163628032/VnUcH2HR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015763806163628032/VnUcH2HR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2414683548/1402431714",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1102167046115262500,
+			"quoted_status_id_str": "1102167046115262466",
+			"quoted_status_permalink": {
+				"url": "https://t.co/92uO899DxS",
+				"expanded": "https://twitter.com/stephens_ben/status/1102167046115262466",
+				"display": "twitter.com/stephens_ben/s…"
+			},
+			"retweet_count": 51,
+			"favorite_count": 224,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#mindblown 🤯 https://t.co/bK4SaRrrzW"
+	},
+	{
 		"created_at": "Wed Mar 06 21:50:19 +0000 2019",
 		"id": 1103228797183123500,
 		"id_str": "1103412518448320512",
