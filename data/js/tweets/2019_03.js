@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 07 21:49:10 +0000 2019",
+		"id": 1103626337057595400,
+		"id_str": "1103774616223281152",
+		"full_text": "#mathsorcery https://t.co/hp4xWztfNC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mathsorcery",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hp4xWztfNC",
+					"expanded_url": "https://twitter.com/stephens_ben/status/1102167046115262466",
+					"display_url": "twitter.com/stephens_ben/s…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62728,
+			"friends_count": 29927,
+			"listed_count": 1335,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17081,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1102167046115262500,
+		"quoted_status_id_str": "1102167046115262466",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hp4xWztfNC",
+			"expanded": "https://twitter.com/stephens_ben/status/1102167046115262466",
+			"display": "twitter.com/stephens_ben/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 03 11:21:15 +0000 2019",
+			"id": 1102167046115262500,
+			"id_str": "1102167046115262466",
+			"full_text": "Fascinating little life hack, for doing percentages:\n\nx% of y = y% of x\n\nSo, for example, if you needed to work out 4% of 75 in your head, just flip it and and do 75% of 4, which is easier.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				189
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20544552,
+				"id_str": "20544552",
+				"name": "Ben Stephens",
+				"screen_name": "stephens_ben",
+				"location": "Brighton, UK",
+				"description": "Copywriter. Charity specialist. Improviser. Human being. Small Moments in Big Movies film blog. Dual US/UK citizen, equally pissed off about Trump and Brexit.",
+				"url": "https://t.co/aoKXp0KY85",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aoKXp0KY85",
+								"expanded_url": "http://writelikeahumanbeing.com",
+								"display_url": "writelikeahumanbeing.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3415,
+				"friends_count": 3928,
+				"listed_count": 44,
+				"created_at": "Tue Feb 10 20:50:39 +0000 2009",
+				"favourites_count": 10095,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 32910,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1067099333370290176/4yL6OEiP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067099333370290176/4yL6OEiP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20544552/1547571021",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4011,
+			"favorite_count": 11472,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#mathsorcery https://t.co/hp4xWztfNC"
+	},
+	{
+		"created_at": "Thu Mar 07 21:48:59 +0000 2019",
+		"id": 1103738691434897400,
+		"id_str": "1103774572342521856",
+		"full_text": "Tim  🍎is cool when others are morons. https://t.co/giAkbaoD4M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1103738684409491500,
+					"id_str": "1103738684409491456",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/D1FEfFEVsAAQ-BV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1FEfFEVsAAQ-BV.jpg",
+					"url": "https://t.co/giAkbaoD4M",
+					"display_url": "pic.twitter.com/giAkbaoD4M",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1103738691434897408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 662,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1095,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1095,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1103738684409491500,
+					"id_str": "1103738684409491456",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/D1FEfFEVsAAQ-BV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1FEfFEVsAAQ-BV.jpg",
+					"url": "https://t.co/giAkbaoD4M",
+					"display_url": "pic.twitter.com/giAkbaoD4M",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1103738691434897408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 662,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1095,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1095,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62728,
+			"friends_count": 29927,
+			"listed_count": 1335,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17081,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tim  🍎is cool when others are morons. https://t.co/giAkbaoD4M"
+	},
+	{
 		"created_at": "Thu Mar 07 19:34:48 +0000 2019",
 		"id": 1103740801949917200,
 		"id_str": "1103740801949917184",
