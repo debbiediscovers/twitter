@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 11 05:08:00 +0000 2019",
+		"id": 1104972215345283100,
+		"id_str": "1104972215345283072",
+		"full_text": "What I’m reading:\n\n“Smoking, drugs, alcohol and using an IBM PC are signs of stupidity. End of discussion.” - Wise Guy, @GuyKawasaki 🤓🤓🤓 \n\nhttps://t.co/SWjXF792lx https://t.co/cSsr93qajT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GuyKawasaki",
+					"name": "Guy Kawasaki",
+					"id": 8453452,
+					"id_str": "8453452",
+					"indices": [
+						120,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SWjXF792lx",
+					"expanded_url": "https://amzn.to/2EK6b5y",
+					"display_url": "amzn.to/2EK6b5y",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1104972181350506500,
+					"id_str": "1104972181350506496",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/D1WmWDQV4AAgHcI.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1WmWDQV4AAgHcI.png",
+					"url": "https://t.co/cSsr93qajT",
+					"display_url": "pic.twitter.com/cSsr93qajT",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1104972215345283072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 298,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 298,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 298,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104972181350506500,
+					"id_str": "1104972181350506496",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/D1WmWDQV4AAgHcI.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1WmWDQV4AAgHcI.png",
+					"url": "https://t.co/cSsr93qajT",
+					"display_url": "pic.twitter.com/cSsr93qajT",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1104972215345283072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 298,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 298,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 298,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62862,
+			"friends_count": 30108,
+			"listed_count": 1338,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17090,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What I’m reading:\n\n“Smoking, drugs, alcohol and using an IBM PC are signs of stupidity. End of discussion.” - Wise Guy, @GuyKawasaki 🤓🤓🤓 \n\nhttps://t.co/SWjXF792lx https://t.co/cSsr93qajT"
+	},
+	{
 		"created_at": "Mon Mar 11 00:55:47 +0000 2019",
 		"id": 1104680746277453800,
 		"id_str": "1104908745304289280",
