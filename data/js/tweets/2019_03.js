@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 15 09:48:08 +0000 2019",
+		"id": 1106319641402445800,
+		"id_str": "1106492266942619648",
+		"full_text": "Move fast and learn something.\n\nMove fast and take responsibility.\n\nMove fast and then do it again because now you’re smarter.\n\nThe alternative is to move slow. To move slow and to hide.\n\nDon’t hoard your work. Own it and share it.\n\nhttps://t.co/FfB5TFLLye",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FfB5TFLLye",
+					"expanded_url": "https://seths.blog/2019/03/move-fast-and-break-things-isnt-a-worthy-slogan/",
+					"display_url": "seths.blog/2019/03/move-f…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62814,
+			"friends_count": 28491,
+			"listed_count": 1335,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17119,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Move fast and learn something.\n\nMove fast and take responsibility.\n\nMove fast and then do it again because now you’re smarter.\n\nThe alternative is to move slow. To move slow and to hide.\n\nDon’t hoard your work. Own it and share it.\n\nhttps://t.co/FfB5TFLLye"
+	},
+	{
+		"created_at": "Fri Mar 15 09:48:00 +0000 2019",
+		"id": 1106396370712199200,
+		"id_str": "1106492233354637312",
+		"full_text": "Nice article by @sudhirnain This habitable zone for chatbots needs the right level of humanness, automation, conversation, interaction, visuals, and strategic intent to survive the hype. #Chatbots #AI\nhttps://t.co/G0DigBP1qt https://t.co/kySAPAyNLc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Chatbots",
+					"indices": [
+						187,
+						196
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						197,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sudhirnain",
+					"name": "Sudhir Nain",
+					"id": 61262502,
+					"id_str": "61262502",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/G0DigBP1qt",
+					"expanded_url": "https://www.linkedin.com/pulse/goldilocks-zone-chatbot-success-2019-sudhir-nain/",
+					"display_url": "linkedin.com/pulse/goldiloc…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1106396149609447400,
+					"id_str": "1106396149609447426",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/D1q1b6ZUwAIPoEy.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1q1b6ZUwAIPoEy.png",
+					"url": "https://t.co/kySAPAyNLc",
+					"display_url": "pic.twitter.com/kySAPAyNLc",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1106396370712199168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 810,
+							"h": 368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 309,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 810,
+							"h": 368,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106396149609447400,
+					"id_str": "1106396149609447426",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/D1q1b6ZUwAIPoEy.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1q1b6ZUwAIPoEy.png",
+					"url": "https://t.co/kySAPAyNLc",
+					"display_url": "pic.twitter.com/kySAPAyNLc",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1106396370712199168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 810,
+							"h": 368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 309,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 810,
+							"h": 368,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62814,
+			"friends_count": 28491,
+			"listed_count": 1335,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17119,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nice article by @sudhirnain This habitable zone for chatbots needs the right level of humanness, automation, conversation, interaction, visuals, and strategic intent to survive the hype. #Chatbots #AI\nhttps://t.co/G0DigBP1qt https://t.co/kySAPAyNLc"
+	},
+	{
 		"created_at": "Fri Mar 15 03:27:05 +0000 2019",
 		"id": 1106396370712199200,
 		"id_str": "1106396370712199168",
