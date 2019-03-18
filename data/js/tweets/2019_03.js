@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 18 10:38:00 +0000 2019",
+		"id": 1107591980496887800,
+		"id_str": "1107591980496887808",
+		"full_text": "Boys are whatever.\nFRIENDS ARE FOREVER. ⠀⠀\nDouble tap if you agree. ❤️❤️ ⠀⠀ #blue #rainbowfeed #agameoftones #coloraddict #colorhunters #ig_color #howihue #ihavethisthingwithcolor #livecolorfully #debbiediscovers #friends #friendship #bae #sky #beach… https://t.co/R0TXe47Rrs https://t.co/LpPD40GlEb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "blue",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "rainbowfeed",
+					"indices": [
+						82,
+						94
+					]
+				},
+				{
+					"text": "agameoftones",
+					"indices": [
+						95,
+						108
+					]
+				},
+				{
+					"text": "coloraddict",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"text": "colorhunters",
+					"indices": [
+						122,
+						135
+					]
+				},
+				{
+					"text": "ig_color",
+					"indices": [
+						136,
+						145
+					]
+				},
+				{
+					"text": "howihue",
+					"indices": [
+						146,
+						154
+					]
+				},
+				{
+					"text": "ihavethisthingwithcolor",
+					"indices": [
+						155,
+						179
+					]
+				},
+				{
+					"text": "livecolorfully",
+					"indices": [
+						180,
+						195
+					]
+				},
+				{
+					"text": "debbiediscovers",
+					"indices": [
+						196,
+						212
+					]
+				},
+				{
+					"text": "friends",
+					"indices": [
+						213,
+						221
+					]
+				},
+				{
+					"text": "friendship",
+					"indices": [
+						222,
+						233
+					]
+				},
+				{
+					"text": "bae",
+					"indices": [
+						234,
+						238
+					]
+				},
+				{
+					"text": "sky",
+					"indices": [
+						239,
+						243
+					]
+				},
+				{
+					"text": "beach",
+					"indices": [
+						244,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R0TXe47Rrs",
+					"expanded_url": "https://www.instagram.com/p/BvJVo7PBwzp/",
+					"display_url": "instagram.com/p/BvJVo7PBwzp/",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1107591979477680100,
+					"id_str": "1107591979477680128",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/D171CXzWwAASTo9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D171CXzWwAASTo9.jpg",
+					"url": "https://t.co/LpPD40GlEb",
+					"display_url": "pic.twitter.com/LpPD40GlEb",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1107591980496887808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107591979477680100,
+					"id_str": "1107591979477680128",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/D171CXzWwAASTo9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D171CXzWwAASTo9.jpg",
+					"url": "https://t.co/LpPD40GlEb",
+					"display_url": "pic.twitter.com/LpPD40GlEb",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1107591980496887808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63116,
+			"friends_count": 28552,
+			"listed_count": 1336,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Boys are whatever.\nFRIENDS ARE FOREVER. ⠀⠀\nDouble tap if you agree. ❤️❤️ ⠀⠀ #blue #rainbowfeed #agameoftones #coloraddict #colorhunters #ig_color #howihue #ihavethisthingwithcolor #livecolorfully #debbiediscovers #friends #friendship #bae #sky #beach… https://t.co/R0TXe47Rrs https://t.co/LpPD40GlEb"
+	},
+	{
 		"created_at": "Mon Mar 18 02:06:21 +0000 2019",
 		"id": 1107138550447792100,
 		"id_str": "1107463215942819841",
