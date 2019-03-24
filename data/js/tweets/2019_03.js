@@ -1,6 +1,504 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 24 02:41:10 +0000 2019",
+		"id": 1109646307650486300,
+		"id_str": "1109646307650486272",
+		"full_text": "@bentossell 😬 nocode #ftw!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			26
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ftw",
+					"indices": [
+						21,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bentossell",
+					"name": "Ben Tossell",
+					"id": 53175441,
+					"id_str": "53175441",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1109640532840448000,
+		"in_reply_to_status_id_str": "1109640532840448000",
+		"in_reply_to_user_id": 53175441,
+		"in_reply_to_user_id_str": "53175441",
+		"in_reply_to_screen_name": "bentossell",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/1ZPsVnM33e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZPsVnM33e",
+							"expanded_url": "https://linktr.ee/debbiediscovers",
+							"display_url": "linktr.ee/debbiediscovers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63535,
+			"friends_count": 28928,
+			"listed_count": 1339,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17135,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "es",
+		"text": "@bentossell 😬 nocode #ftw!"
+	},
+	{
+		"created_at": "Sun Mar 24 02:38:44 +0000 2019",
+		"id": 1108375275887358000,
+		"id_str": "1109645694078377986",
+		"full_text": "Nobody will remember your failures as vividly as you\n\n...... so get out there and try stuff, because even if you fail from time to time there's a good chance nobody will remember anyway :P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55303867,
+			"id_str": "55303867",
+			"name": "aj ⚡️ 🍜",
+			"screen_name": "ajlkn",
+			"location": "Nashville, TN",
+			"description": "Computers. https://t.co/hCHWnvKdIV + https://t.co/OR1wraM2zc + https://t.co/7Saf8L2X9G",
+			"url": "https://t.co/hOyVG2rAOy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hOyVG2rAOy",
+							"expanded_url": "https://aj.lkn.io",
+							"display_url": "aj.lkn.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hCHWnvKdIV",
+							"expanded_url": "http://carrd.co",
+							"display_url": "carrd.co",
+							"indices": [
+								11,
+								34
+							]
+						},
+						{
+							"url": "https://t.co/OR1wraM2zc",
+							"expanded_url": "http://html5up.net",
+							"display_url": "html5up.net",
+							"indices": [
+								37,
+								60
+							]
+						},
+						{
+							"url": "https://t.co/7Saf8L2X9G",
+							"expanded_url": "http://pixelarity.com",
+							"display_url": "pixelarity.com",
+							"indices": [
+								63,
+								86
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 49127,
+			"friends_count": 81,
+			"listed_count": 794,
+			"created_at": "Thu Jul 09 17:40:50 +0000 2009",
+			"favourites_count": 13092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F4F4F4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/738608465212366849/etPIzWeg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/738608465212366849/etPIzWeg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55303867/1464932971",
+			"profile_link_color": "CC5568",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D8D9C0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 321,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Nobody will remember your failures as vividly as you\n\n...... so get out there and try stuff, because even if you fail from time to time there's a good chance nobody will remember anyway :P"
+	},
+	{
+		"created_at": "Sun Mar 24 02:30:30 +0000 2019",
+		"id": 1109354579630514200,
+		"id_str": "1109643622687739904",
+		"full_text": "After 1+ year of 😅 hard work I finally launched:\n\n📗 Sheet2Site 2.0\n\nTurn your Google Sheet into a 🎨 Professional Website\n\n✨ New Templates:\n- Job Board\n- Tweets\n- Events\n- Products\n\n✨ New Features:\n- Map view\n- Table view\n- Search\n- Filters\n- HTML\n\n👉 https://t.co/MfDlyqjuCg https://t.co/IMHE8tG0qg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MfDlyqjuCg",
+					"expanded_url": "https://www.producthunt.com/posts/sheet2site-2-0",
+					"display_url": "producthunt.com/posts/sheet2si…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1109353060311031800,
+					"id_str": "1109353060311031808",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1109353060311031808/pu/img/Pccqhd8frK0h7qzM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1109353060311031808/pu/img/Pccqhd8frK0h7qzM.jpg",
+					"url": "https://t.co/IMHE8tG0qg",
+					"display_url": "pic.twitter.com/IMHE8tG0qg",
+					"expanded_url": "https://twitter.com/AndreyAzimov/status/1109354579630514177/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109353060311031800,
+					"id_str": "1109353060311031808",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1109353060311031808/pu/img/Pccqhd8frK0h7qzM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1109353060311031808/pu/img/Pccqhd8frK0h7qzM.jpg",
+					"url": "https://t.co/IMHE8tG0qg",
+					"display_url": "pic.twitter.com/IMHE8tG0qg",
+					"expanded_url": "https://twitter.com/AndreyAzimov/status/1109354579630514177/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 92659,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1109353060311031808/pu/vid/1280x720/XNLkl5XQV-9UWhKs.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1109353060311031808/pu/vid/640x360/IoH825W3ZrM-xDP7.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1109353060311031808/pu/vid/320x180/VjR9O6N0Gym-MJUw.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1109353060311031808/pu/pl/FDtUiPouz_Muin0_.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 261859794,
+			"id_str": "261859794",
+			"name": "Andrey  Azimov",
+			"screen_name": "AndreyAzimov",
+			"location": "Current progress 👇",
+			"description": "🏆 Maker of the Year: https://t.co/3HAosQGyo1 https://t.co/Zrqg6uz3dS https://t.co/TYzratnLtH https://t.co/zmRQvzXQcA https://t.co/PQheCxJ1rx",
+			"url": "https://t.co/w8X0nDleG3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w8X0nDleG3",
+							"expanded_url": "http://AndreyAzimov.com/open",
+							"display_url": "AndreyAzimov.com/open",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3HAosQGyo1",
+							"expanded_url": "http://Sheet2Site.com",
+							"display_url": "Sheet2Site.com",
+							"indices": [
+								21,
+								44
+							]
+						},
+						{
+							"url": "https://t.co/Zrqg6uz3dS",
+							"expanded_url": "http://ProgressBarOSX.com",
+							"display_url": "ProgressBarOSX.com",
+							"indices": [
+								45,
+								68
+							]
+						},
+						{
+							"url": "https://t.co/TYzratnLtH",
+							"expanded_url": "http://MacBookAlarm.com",
+							"display_url": "MacBookAlarm.com",
+							"indices": [
+								69,
+								92
+							]
+						},
+						{
+							"url": "https://t.co/zmRQvzXQcA",
+							"expanded_url": "http://DarkModeList.com",
+							"display_url": "DarkModeList.com",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/PQheCxJ1rx",
+							"expanded_url": "http://MakeOSXGreatAgain.com",
+							"display_url": "MakeOSXGreatAgain.com",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7409,
+			"friends_count": 218,
+			"listed_count": 158,
+			"created_at": "Sun Mar 06 21:17:27 +0000 2011",
+			"favourites_count": 6910,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4120,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/977008401883447296/WIAVtdk4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/977008401883447296/WIAVtdk4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/261859794/1520870761",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 667,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "After 1+ year of 😅 hard work I finally launched:\n\n📗 Sheet2Site 2.0\n\nTurn your Google Sheet into a 🎨 Professional Website\n\n✨ New Templates:\n- Job Board\n- Tweets\n- Events\n- Products\n\n✨ New Features:\n- Map view\n- Table view\n- Search\n- Filters\n- HTML\n\n👉 https://t.co/MfDlyqjuCg https://t.co/IMHE8tG0qg"
+	},
+	{
 		"created_at": "Sun Mar 24 01:20:53 +0000 2019",
 		"id": 1109591265358680000,
 		"id_str": "1109626104283693056",
