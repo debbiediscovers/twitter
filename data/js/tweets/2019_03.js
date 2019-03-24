@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 24 05:01:22 +0000 2019",
+		"id": 1108986164373913600,
+		"id_str": "1109681590945234944",
+		"full_text": "Do you love listening to podcasts, too? A growing repository of podcasts around the web.\n\n↬ Podcasts Repo\nhttps://t.co/LKmmwSqaXd https://t.co/fydtouu9lz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LKmmwSqaXd",
+					"expanded_url": "https://podcasts-repo.surge.sh/",
+					"display_url": "podcasts-repo.surge.sh",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1107222703780565000,
+					"id_str": "1107222703780564992",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/D12lLsoWkAAEwLF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D12lLsoWkAAEwLF.jpg",
+					"url": "https://t.co/fydtouu9lz",
+					"display_url": "pic.twitter.com/fydtouu9lz",
+					"expanded_url": "https://twitter.com/smashingmag/status/1108986164373913600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 927,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 525,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1994,
+							"h": 1540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107222703780565000,
+					"id_str": "1107222703780564992",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/D12lLsoWkAAEwLF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D12lLsoWkAAEwLF.jpg",
+					"url": "https://t.co/fydtouu9lz",
+					"display_url": "pic.twitter.com/fydtouu9lz",
+					"expanded_url": "https://twitter.com/smashingmag/status/1108986164373913600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 927,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 525,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1994,
+							"h": 1540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15736190,
+			"id_str": "15736190",
+			"name": "Smashing Magazine",
+			"screen_name": "smashingmag",
+			"location": "Freiburg, Germany",
+			"description": "An online magazine for professional Web designers and developers. Questions? We've got your back: @SmashingSupport, @SmashingConf. Curated by the Smashing Team.",
+			"url": "https://t.co/dqcHJ81kgS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqcHJ81kgS",
+							"expanded_url": "http://www.smashingmagazine.com",
+							"display_url": "smashingmagazine.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 987826,
+			"friends_count": 2147,
+			"listed_count": 38850,
+			"created_at": "Tue Aug 05 14:00:40 +0000 2008",
+			"favourites_count": 4058,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 73391,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FAAF40",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057746497884880898/lyruNAFp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057746497884880898/lyruNAFp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15736190/1539241134",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFEFD9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 106,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do you love listening to podcasts, too? A growing repository of podcasts around the web.\n\n↬ Podcasts Repo\nhttps://t.co/LKmmwSqaXd https://t.co/fydtouu9lz"
+	},
+	{
 		"created_at": "Sun Mar 24 02:41:10 +0000 2019",
 		"id": 1109646307650486300,
 		"id_str": "1109646307650486272",
