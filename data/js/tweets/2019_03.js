@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 27 10:37:39 +0000 2019",
+		"id": 1110853380774203400,
+		"id_str": "1110853380774203392",
+		"full_text": "Sometimes you just gotta lie on the grass and soak in the sky 💜🌌 #friends #friendship #timeout #purple  #rainbowfeed #agameoftones #coloraddict #colorhunters #ig_color #howihue #ihavethisthingwithcolor #livecolorfully https://t.co/OCzjtCjopH https://t.co/FfoiAbIZsZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "friends",
+					"indices": [
+						65,
+						73
+					]
+				},
+				{
+					"text": "friendship",
+					"indices": [
+						74,
+						85
+					]
+				},
+				{
+					"text": "timeout",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "purple",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "rainbowfeed",
+					"indices": [
+						104,
+						116
+					]
+				},
+				{
+					"text": "agameoftones",
+					"indices": [
+						117,
+						130
+					]
+				},
+				{
+					"text": "coloraddict",
+					"indices": [
+						131,
+						143
+					]
+				},
+				{
+					"text": "colorhunters",
+					"indices": [
+						144,
+						157
+					]
+				},
+				{
+					"text": "ig_color",
+					"indices": [
+						158,
+						167
+					]
+				},
+				{
+					"text": "howihue",
+					"indices": [
+						168,
+						176
+					]
+				},
+				{
+					"text": "ihavethisthingwithcolor",
+					"indices": [
+						177,
+						201
+					]
+				},
+				{
+					"text": "livecolorfully",
+					"indices": [
+						202,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OCzjtCjopH",
+					"expanded_url": "https://www.instagram.com/p/BvggD3sh1f1/",
+					"display_url": "instagram.com/p/BvggD3sh1f1/",
+					"indices": [
+						218,
+						241
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1110853379612442600,
+					"id_str": "1110853379612442624",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/D2qLQ2FXgAAKge3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2qLQ2FXgAAKge3.jpg",
+					"url": "https://t.co/FfoiAbIZsZ",
+					"display_url": "pic.twitter.com/FfoiAbIZsZ",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1110853380774203392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 478,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 478,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 478,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110853379612442600,
+					"id_str": "1110853379612442624",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/D2qLQ2FXgAAKge3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2qLQ2FXgAAKge3.jpg",
+					"url": "https://t.co/FfoiAbIZsZ",
+					"display_url": "pic.twitter.com/FfoiAbIZsZ",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1110853380774203392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 478,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 478,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 478,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63742,
+			"friends_count": 28779,
+			"listed_count": 1343,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17144,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sometimes you just gotta lie on the grass and soak in the sky 💜🌌 #friends #friendship #timeout #purple  #rainbowfeed #agameoftones #coloraddict #colorhunters #ig_color #howihue #ihavethisthingwithcolor #livecolorfully https://t.co/OCzjtCjopH https://t.co/FfoiAbIZsZ"
+	},
+	{
 		"created_at": "Wed Mar 27 08:00:13 +0000 2019",
 		"id": 1110492472000409600,
 		"id_str": "1110813760501874688",
@@ -118,7 +387,7 @@ Grailbird.data.tweets_2019_03 =
 		"created_at": "Wed Mar 27 08:00:10 +0000 2019",
 		"id": 1110622367489757200,
 		"id_str": "1110813750615891968",
-		"full_text": "🤦🏻‍♀️ WUUT??? Nasa cancels all-female spacewalk, citing lack of spacesuit in right size | Space | The Guardian https://t.co/6qYxllHBcL",
+		"full_text": "🤦🏻♀️ WUUT??? Nasa cancels all-female spacewalk, citing lack of spacesuit in right size | Space | The Guardian https://t.co/6qYxllHBcL",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -218,7 +487,7 @@ Grailbird.data.tweets_2019_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "🤦🏻‍♀️ WUUT??? Nasa cancels all-female spacewalk, citing lack of spacesuit in right size | Space | The Guardian https://t.co/6qYxllHBcL"
+		"text": "🤦🏻♀️ WUUT??? Nasa cancels all-female spacewalk, citing lack of spacesuit in right size | Space | The Guardian https://t.co/6qYxllHBcL"
 	},
 	{
 		"created_at": "Wed Mar 27 00:12:01 +0000 2019",
