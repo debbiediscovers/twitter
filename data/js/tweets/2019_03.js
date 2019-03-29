@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 29 09:53:13 +0000 2019",
+		"id": 1111566977036746800,
+		"id_str": "1111566977036746757",
+		"full_text": "@BillMew @alvinfoo @forrester @McKinsey @EYnews @PublicisSapient @Accenture @IBM @Deloitte @PwC @Capgemini @WiproDigital @helene_wpli @SpirosMargaris @evankirstel @JimMarous @MikeQuindazzi @TamaraMcCleary @sallyeaves @Ronald_vanLoon @debraruh @psb_dc @JPNicols @IanGertler @cgledhill @marc_smith @Marc_Meyer @mvollmer1 @antgrasso Yes leadership. Also organisational readiness. Digital Transformation when the company / culture are not ready for it, is very very VERY painful.",
+		"truncated": false,
+		"display_text_range": [
+			330,
+			475
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BillMew",
+					"name": "Bill Mew",
+					"id": 50636347,
+					"id_str": "50636347",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "alvinfoo",
+					"name": "Alvin Foo",
+					"id": 794815,
+					"id_str": "794815",
+					"indices": [
+						9,
+						18
+					]
+				},
+				{
+					"screen_name": "forrester",
+					"name": "Forrester",
+					"id": 7712452,
+					"id_str": "7712452",
+					"indices": [
+						19,
+						29
+					]
+				},
+				{
+					"screen_name": "McKinsey",
+					"name": "McKinsey & Company",
+					"id": 34042766,
+					"id_str": "34042766",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"screen_name": "EYnews",
+					"name": "EY",
+					"id": 70001932,
+					"id_str": "70001932",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"screen_name": "PublicisSapient",
+					"name": "Publicis Sapient",
+					"id": 19752773,
+					"id_str": "19752773",
+					"indices": [
+						48,
+						64
+					]
+				},
+				{
+					"screen_name": "Accenture",
+					"name": "Accenture",
+					"id": 10194682,
+					"id_str": "10194682",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"screen_name": "IBM",
+					"name": "IBM",
+					"id": 18994444,
+					"id_str": "18994444",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"screen_name": "Deloitte",
+					"name": "Deloitte",
+					"id": 8457092,
+					"id_str": "8457092",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"screen_name": "PwC",
+					"name": "PwC",
+					"id": 40937524,
+					"id_str": "40937524",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"screen_name": "Capgemini",
+					"name": "Capgemini",
+					"id": 14109159,
+					"id_str": "14109159",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"screen_name": "WiproDigital",
+					"name": "Wipro Digital",
+					"id": 2558633348,
+					"id_str": "2558633348",
+					"indices": [
+						107,
+						120
+					]
+				},
+				{
+					"screen_name": "helene_wpli",
+					"name": "Helene Li ✨🍀",
+					"id": 736185001457287200,
+					"id_str": "736185001457287169",
+					"indices": [
+						121,
+						133
+					]
+				},
+				{
+					"screen_name": "SpirosMargaris",
+					"name": "Spiros Margaris",
+					"id": 2711212681,
+					"id_str": "2711212681",
+					"indices": [
+						134,
+						149
+					]
+				},
+				{
+					"screen_name": "evankirstel",
+					"name": "Evan Kirstel at #IntelDCevent #SanFranciso",
+					"id": 35203319,
+					"id_str": "35203319",
+					"indices": [
+						150,
+						162
+					]
+				},
+				{
+					"screen_name": "JimMarous",
+					"name": "Jim Marous",
+					"id": 16137442,
+					"id_str": "16137442",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"screen_name": "MikeQuindazzi",
+					"name": "Mike Quindazzi ✨",
+					"id": 2344530218,
+					"id_str": "2344530218",
+					"indices": [
+						174,
+						188
+					]
+				},
+				{
+					"screen_name": "TamaraMcCleary",
+					"name": "Tamara McCleary",
+					"id": 2307675307,
+					"id_str": "2307675307",
+					"indices": [
+						189,
+						204
+					]
+				},
+				{
+					"screen_name": "sallyeaves",
+					"name": "Sally Eaves #UN #SXSW",
+					"id": 3131243261,
+					"id_str": "3131243261",
+					"indices": [
+						205,
+						216
+					]
+				},
+				{
+					"screen_name": "Ronald_vanLoon",
+					"name": "Ronald van Loon #HM19",
+					"id": 555031989,
+					"id_str": "555031989",
+					"indices": [
+						217,
+						232
+					]
+				},
+				{
+					"screen_name": "debraruh",
+					"name": "Debra Ruh",
+					"id": 17905508,
+					"id_str": "17905508",
+					"indices": [
+						233,
+						242
+					]
+				},
+				{
+					"screen_name": "psb_dc",
+					"name": "Theo",
+					"id": 2908107542,
+					"id_str": "2908107542",
+					"indices": [
+						243,
+						250
+					]
+				},
+				{
+					"screen_name": "JPNicols",
+					"name": "JP Nicols",
+					"id": 62432095,
+					"id_str": "62432095",
+					"indices": [
+						251,
+						260
+					]
+				},
+				{
+					"screen_name": "IanGertler",
+					"name": "𝘐𝘢𝘯 𝘎𝘦𝘳𝘵𝘭𝘦𝘳 ☕️📲 #𝔸𝕕𝕠𝕓𝕖𝕊𝕦𝕞𝕞𝕚𝕥",
+					"id": 18590697,
+					"id_str": "18590697",
+					"indices": [
+						261,
+						272
+					]
+				},
+				{
+					"screen_name": "cgledhill",
+					"name": "Chris Gledhill",
+					"id": 49311606,
+					"id_str": "49311606",
+					"indices": [
+						273,
+						283
+					]
+				},
+				{
+					"screen_name": "marc_smith",
+					"name": "Marc Smith",
+					"id": 12160482,
+					"id_str": "12160482",
+					"indices": [
+						284,
+						295
+					]
+				},
+				{
+					"screen_name": "Marc_Meyer",
+					"name": "Marc Meyer",
+					"id": 11347832,
+					"id_str": "11347832",
+					"indices": [
+						296,
+						307
+					]
+				},
+				{
+					"screen_name": "mvollmer1",
+					"name": "Dr. Marcell Vollmer",
+					"id": 99674560,
+					"id_str": "99674560",
+					"indices": [
+						308,
+						318
+					]
+				},
+				{
+					"screen_name": "antgrasso",
+					"name": "Antonio Grasso",
+					"id": 4338452835,
+					"id_str": "4338452835",
+					"indices": [
+						319,
+						329
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1111565341061247000,
+		"in_reply_to_status_id_str": "1111565341061246976",
+		"in_reply_to_user_id": 50636347,
+		"in_reply_to_user_id_str": "50636347",
+		"in_reply_to_screen_name": "BillMew",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63850,
+			"friends_count": 28914,
+			"listed_count": 1344,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17143,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BillMew @alvinfoo @forrester @McKinsey @EYnews @PublicisSapient @Accenture @IBM @Deloitte @PwC @Capgemini @WiproDigital @helene_wpli @SpirosMargaris @evankirstel @JimMarous @MikeQuindazzi @TamaraMcCleary @sallyeaves @Ronald_vanLoon @debraruh @psb_dc @JPNicols @IanGertler @cgledhill @marc_smith @Marc_Meyer @mvollmer1 @antgrasso Yes leadership. Also organisational readiness. Digital Transformation when the company / culture are not ready for it, is very very VERY painful."
+	},
+	{
 		"created_at": "Thu Mar 28 22:10:37 +0000 2019",
 		"id": 1111196748947451900,
 		"id_str": "1111390160279617536",
