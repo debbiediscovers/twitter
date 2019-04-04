@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 04 21:32:32 +0000 2019",
+		"id": 1113917289508696000,
+		"id_str": "1113917289508696064",
+		"full_text": "@canva @MelanieCanva Hey guys @thepreviewapp made these amazing Instagram Puzzle templates and are sharing it for free but people keep breaking the design with the share link. Is it possible to help them publish it as a template?? It used to be possible in Canva 1.0... 😘😘 https://t.co/T1UCpnFTn6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "canva",
+					"name": "Canva",
+					"id": 36542528,
+					"id_str": "36542528",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "MelanieCanva",
+					"name": "Melanie Perkins",
+					"id": 311340284,
+					"id_str": "311340284",
+					"indices": [
+						7,
+						20
+					]
+				},
+				{
+					"screen_name": "thepreviewapp",
+					"name": "Preview Instagram",
+					"id": 777410736792285200,
+					"id_str": "777410736792285184",
+					"indices": [
+						30,
+						44
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113916694987137000,
+					"id_str": "1113916694987137024",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/D3VtVRIV4AAEsul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3VtVRIV4AAEsul.jpg",
+					"url": "https://t.co/T1UCpnFTn6",
+					"display_url": "pic.twitter.com/T1UCpnFTn6",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1113917289508696064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113916694987137000,
+					"id_str": "1113916694987137024",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/D3VtVRIV4AAEsul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3VtVRIV4AAEsul.jpg",
+					"url": "https://t.co/T1UCpnFTn6",
+					"display_url": "pic.twitter.com/T1UCpnFTn6",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1113917289508696064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113916707066630100,
+					"id_str": "1113916707066630145",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/D3VtV-IUUAEHRSI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3VtV-IUUAEHRSI.jpg",
+					"url": "https://t.co/T1UCpnFTn6",
+					"display_url": "pic.twitter.com/T1UCpnFTn6",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1113917289508696064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113916702016696300,
+					"id_str": "1113916702016696320",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/D3VtVrUUcAAtDfp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3VtVrUUcAAtDfp.jpg",
+					"url": "https://t.co/T1UCpnFTn6",
+					"display_url": "pic.twitter.com/T1UCpnFTn6",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1113917289508696064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113916711814615000,
+					"id_str": "1113916711814615040",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/D3VtWP0U0AAJB2_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3VtWP0U0AAJB2_.jpg",
+					"url": "https://t.co/T1UCpnFTn6",
+					"display_url": "pic.twitter.com/T1UCpnFTn6",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1113917289508696064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 36542528,
+		"in_reply_to_user_id_str": "36542528",
+		"in_reply_to_screen_name": "canva",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Chatbot Evangelist | Speaker | 21 All Star Twitter | School Builder | 2018 @Medium Top writer #AI | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64183,
+			"friends_count": 29256,
+			"listed_count": 1347,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17166,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@canva @MelanieCanva Hey guys @thepreviewapp made these amazing Instagram Puzzle templates and are sharing it for free but people keep breaking the design with the share link. Is it possible to help them publish it as a template?? It used to be possible in Canva 1.0... 😘😘 https://t.co/T1UCpnFTn6"
+	},
+	{
 		"created_at": "Thu Apr 04 11:41:39 +0000 2019",
 		"id": 1113768592439300100,
 		"id_str": "1113768592439300097",
