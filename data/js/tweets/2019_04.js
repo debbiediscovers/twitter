@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 05 09:45:41 +0000 2019",
+		"id": 1113270904400666600,
+		"id_str": "1114101795205177344",
+		"full_text": "Oh look we are the laughing stock OF THE WORLD. https://t.co/LelZEQmSAB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LelZEQmSAB",
+					"expanded_url": "https://twitter.com/reuters/status/1112994602146062336",
+					"display_url": "twitter.com/reuters/status…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28776864,
+			"id_str": "28776864",
+			"name": "Hossan Leong",
+			"screen_name": "HossanLeong",
+			"location": "Worldwide",
+			"description": "Chevalier de l'Ordre des Arts et des Lettres, Actor, Host, Standup Comedian, Director, site: https://t.co/okGR384Wrl  Email: chope@doubleconfirm.sg Insta:@hossanleong",
+			"url": "https://t.co/6r2LPq0tt2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6r2LPq0tt2",
+							"expanded_url": "http://facebook.com/HossanLeongOfficial",
+							"display_url": "facebook.com/HossanLeongOff…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/okGR384Wrl",
+							"expanded_url": "http://doubleconfirm.my",
+							"display_url": "doubleconfirm.my",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 53831,
+			"friends_count": 63,
+			"listed_count": 315,
+			"created_at": "Sat Apr 04 11:21:04 +0000 2009",
+			"favourites_count": 3504,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20417,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993738215218544646/I39VY-Iy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993738215218544646/I39VY-Iy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28776864/1508985013",
+			"profile_link_color": "FF00D7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "262A2C",
+			"profile_text_color": "CC8DFC",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1112994602146062300,
+		"quoted_status_id_str": "1112994602146062336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LelZEQmSAB",
+			"expanded": "https://twitter.com/reuters/status/1112994602146062336",
+			"display": "twitter.com/reuters/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 02 08:26:06 +0000 2019",
+			"id": 1112994602146062300,
+			"id_str": "1112994602146062336",
+			"full_text": "Lady Gaga, Ariana Grande on Singapore parliament 'offensive' playlist https://t.co/NMLM43DBbJ https://t.co/H2xeTkeizk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NMLM43DBbJ",
+						"expanded_url": "https://reut.rs/2JY6aB2",
+						"display_url": "reut.rs/2JY6aB2",
+						"indices": [
+							70,
+							93
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1112994600900333600,
+						"id_str": "1112994600900333568",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/D3ImsU-XkAArxiw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3ImsU-XkAArxiw.jpg",
+						"url": "https://t.co/H2xeTkeizk",
+						"display_url": "pic.twitter.com/H2xeTkeizk",
+						"expanded_url": "https://twitter.com/Reuters/status/1112994602146062336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 744,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 494,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 744,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1112994600900333600,
+						"id_str": "1112994600900333568",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/D3ImsU-XkAArxiw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3ImsU-XkAArxiw.jpg",
+						"url": "https://t.co/H2xeTkeizk",
+						"display_url": "pic.twitter.com/H2xeTkeizk",
+						"expanded_url": "https://twitter.com/Reuters/status/1112994602146062336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 744,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 494,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 744,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://trueanthem.com/\" rel=\"nofollow\">trueAnthem</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1652541,
+				"id_str": "1652541",
+				"name": "Reuters Top News",
+				"screen_name": "Reuters",
+				"location": "Around the world",
+				"description": "Top and breaking news, pictures, and videos from Reuters.",
+				"url": "http://t.co/BmHxhkm3Mh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/BmHxhkm3Mh",
+								"expanded_url": "http://www.reuters.com",
+								"display_url": "reuters.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20344169,
+				"friends_count": 1083,
+				"listed_count": 117699,
+				"created_at": "Tue Mar 20 17:46:05 +0000 2007",
+				"favourites_count": 777,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 377079,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "444444",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1652541/1525365834",
+				"profile_link_color": "006F97",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F5F5F5",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 58,
+			"favorite_count": 102,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1636,
+		"favorite_count": 1153,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh look we are the laughing stock OF THE WORLD. https://t.co/LelZEQmSAB"
+	},
+	{
 		"created_at": "Thu Apr 04 21:32:32 +0000 2019",
 		"id": 1113917289508696000,
 		"id_str": "1113917289508696064",
