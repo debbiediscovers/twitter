@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 16 23:40:23 +0000 2019",
+		"id": 1118298120037625900,
+		"id_str": "1118298120037625856",
+		"full_text": "@NealSchaffer @alvinfoo @RebekahRadice @sujanpatel @WFSULLIVAN3 @simonlporter @SimonCocking @KaiGrunwitz @ingliguori @debraruh @JGrobicki @Harry_Robots @clark_robotics @Timothy_Hughes Thanks Alvin. Hi Neal 👋 have a great Wednesday y’all! #HumpDayHappiness",
+		"truncated": false,
+		"display_text_range": [
+			184,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HumpDayHappiness",
+					"indices": [
+						238,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NealSchaffer",
+					"name": "Neal Schaffer",
+					"id": 16438898,
+					"id_str": "16438898",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "alvinfoo",
+					"name": "Alvin Foo",
+					"id": 794815,
+					"id_str": "794815",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"screen_name": "RebekahRadice",
+					"name": "Rebekah Radice",
+					"id": 26554000,
+					"id_str": "26554000",
+					"indices": [
+						24,
+						38
+					]
+				},
+				{
+					"screen_name": "sujanpatel",
+					"name": "Sujan Patel",
+					"id": 82017168,
+					"id_str": "82017168",
+					"indices": [
+						39,
+						50
+					]
+				},
+				{
+					"screen_name": "WFSULLIVAN3",
+					"name": "Bill Sullivan",
+					"id": 1211825024,
+					"id_str": "1211825024",
+					"indices": [
+						51,
+						63
+					]
+				},
+				{
+					"screen_name": "simonlporter",
+					"name": "Simon Porter",
+					"id": 227423290,
+					"id_str": "227423290",
+					"indices": [
+						64,
+						77
+					]
+				},
+				{
+					"screen_name": "SimonCocking",
+					"name": "Simon Cocking",
+					"id": 2740147945,
+					"id_str": "2740147945",
+					"indices": [
+						78,
+						91
+					]
+				},
+				{
+					"screen_name": "KaiGrunwitz",
+					"name": "Kai Grunwitz",
+					"id": 908271475718869000,
+					"id_str": "908271475718868992",
+					"indices": [
+						92,
+						104
+					]
+				},
+				{
+					"screen_name": "ingliguori",
+					"name": "Giuliano Liguori",
+					"id": 836510570,
+					"id_str": "836510570",
+					"indices": [
+						105,
+						116
+					]
+				},
+				{
+					"screen_name": "debraruh",
+					"name": "Debra Ruh",
+					"id": 17905508,
+					"id_str": "17905508",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"screen_name": "JGrobicki",
+					"name": "Janusz Grobicki",
+					"id": 2269520654,
+					"id_str": "2269520654",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"screen_name": "Harry_Robots",
+					"name": "Harry Miller",
+					"id": 973892651522166800,
+					"id_str": "973892651522166785",
+					"indices": [
+						138,
+						151
+					]
+				},
+				{
+					"screen_name": "clark_robotics",
+					"name": "Chris Clarkson",
+					"id": 974142390507393000,
+					"id_str": "974142390507393024",
+					"indices": [
+						152,
+						167
+					]
+				},
+				{
+					"screen_name": "Timothy_Hughes",
+					"name": "Tim Hughes 提姆·休斯",
+					"id": 28207516,
+					"id_str": "28207516",
+					"indices": [
+						168,
+						183
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1118294787763908600,
+		"in_reply_to_status_id_str": "1118294787763908608",
+		"in_reply_to_user_id": 16438898,
+		"in_reply_to_user_id_str": "16438898",
+		"in_reply_to_screen_name": "NealSchaffer",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64667,
+			"friends_count": 29679,
+			"listed_count": 1348,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17198,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NealSchaffer @alvinfoo @RebekahRadice @sujanpatel @WFSULLIVAN3 @simonlporter @SimonCocking @KaiGrunwitz @ingliguori @debraruh @JGrobicki @Harry_Robots @clark_robotics @Timothy_Hughes Thanks Alvin. Hi Neal 👋 have a great Wednesday y’all! #HumpDayHappiness"
+	},
+	{
 		"created_at": "Tue Apr 16 20:18:16 +0000 2019",
 		"id": 1118042838325956600,
 		"id_str": "1118247257910833152",
