@@ -1,6 +1,119 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 19 04:08:23 +0000 2019",
+		"id": 1118897493402640400,
+		"id_str": "1119090340487548934",
+		"full_text": "note to self: if it costs you your peace, it’s too expensive.\n\n#thursdaythoughts",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "thursdaythoughts",
+					"indices": [
+						63,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25458378,
+			"id_str": "25458378",
+			"name": "Aaron Lee",
+			"screen_name": "AskAaronLee",
+			"location": "Malaysia",
+			"description": "Regional Manager @agorapulse. Trying to perfect the art of cappuccino. Introvert with awesome hair. https://t.co/PZNF06OlCy ✉️hi@askaaronlee.com",
+			"url": "https://t.co/dDATbxsRmm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dDATbxsRmm",
+							"expanded_url": "http://AskAaronLee.com",
+							"display_url": "AskAaronLee.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PZNF06OlCy",
+							"expanded_url": "http://Instagram.com/shortofheight",
+							"display_url": "Instagram.com/shortofheight",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1133168,
+			"friends_count": 943102,
+			"listed_count": 10254,
+			"created_at": "Fri Mar 20 04:15:51 +0000 2009",
+			"favourites_count": 1389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109568,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891913174324203520/7CdivJnf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891913174324203520/7CdivJnf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25458378/1482065374",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 249,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "note to self: if it costs you your peace, it’s too expensive.\n\n#thursdaythoughts"
+	},
+	{
 		"created_at": "Fri Apr 19 01:34:35 +0000 2019",
 		"id": 1119051636477849600,
 		"id_str": "1119051636477849601",
