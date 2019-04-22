@@ -1,6 +1,107 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 22 21:27:22 +0000 2019",
+		"id": 1120129742118645800,
+		"id_str": "1120438970888916992",
+		"full_text": "We’ve been warned about #AI and music for over 50 years, but no one’s prepared https://t.co/zwDboccdWd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						24,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zwDboccdWd",
+					"expanded_url": "https://buff.ly/2IDPKwn",
+					"display_url": "buff.ly/2IDPKwn",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 766292732126036000,
+			"id_str": "766292732126035969",
+			"name": "World Orchestras",
+			"screen_name": "0rchestras",
+			"location": "The World",
+			"description": "#AI powered Orchestra news by @debbiediscovers appreciating orchestras and classical music around the world!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3242,
+			"friends_count": 2634,
+			"listed_count": 221,
+			"created_at": "Thu Aug 18 15:16:39 +0000 2016",
+			"favourites_count": 1790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1104,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1012861913267486720/4YpdN25H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012861913267486720/4YpdN25H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/766292732126035969/1471538610",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’ve been warned about #AI and music for over 50 years, but no one’s prepared https://t.co/zwDboccdWd"
+	},
+	{
 		"created_at": "Mon Apr 22 10:49:28 +0000 2019",
 		"id": 1120129742118645800,
 		"id_str": "1120278440395980801",
