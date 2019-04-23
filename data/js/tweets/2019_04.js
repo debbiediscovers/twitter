@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 23 08:31:54 +0000 2019",
+		"id": 1110268345042042900,
+		"id_str": "1120606208753168385",
+		"full_text": "New piece in the @guardian about Gordon Neufeld's and my book \"Hold On To Your Kids\", recently released in the UK by @EburyPublishing . A parent's primary attention is best devoted to the quality of the relationship, not managing behaviour. https://t.co/JzNyJp2iFy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"screen_name": "EburyPublishing",
+					"name": "Ebury Publishing",
+					"id": 17994406,
+					"id_str": "17994406",
+					"indices": [
+						117,
+						133
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JzNyJp2iFy",
+					"expanded_url": "https://twitter.com/guardian/status/1109340624472469505",
+					"display_url": "twitter.com/guardian/statu…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90460579,
+			"id_str": "90460579",
+			"name": "Dr. Gabor Maté",
+			"screen_name": "DrGaborMate",
+			"location": "Vancouver, BC",
+			"description": "A renowned speaker, and bestselling author, Dr. Gabor Maté is highly sought after for his expertise on addiction, stress and childhood development.",
+			"url": "https://t.co/kpUIjS7nhJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kpUIjS7nhJ",
+							"expanded_url": "http://www.drgabormate.com",
+							"display_url": "drgabormate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28240,
+			"friends_count": 472,
+			"listed_count": 446,
+			"created_at": "Mon Nov 16 19:10:01 +0000 2009",
+			"favourites_count": 96,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 366,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039366741757911040/oR0kU6sl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039366741757911040/oR0kU6sl_normal.jpg",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1109340624472469500,
+		"quoted_status_id_str": "1109340624472469505",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JzNyJp2iFy",
+			"expanded": "https://twitter.com/guardian/status/1109340624472469505",
+			"display": "twitter.com/guardian/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 23 06:26:30 +0000 2019",
+			"id": 1109340624472469500,
+			"id_str": "1109340624472469505",
+			"full_text": "'If you focus on control, you have lost the battle': how to win back your kids https://t.co/OoJs6FXNsi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				102
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OoJs6FXNsi",
+						"expanded_url": "https://trib.al/hDMxnw1",
+						"display_url": "trib.al/hDMxnw1",
+						"indices": [
+							79,
+							102
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 87818409,
+				"id_str": "87818409",
+				"name": "The Guardian",
+				"screen_name": "guardian",
+				"location": "London",
+				"description": "The need for independent journalism has never been greater. Become a Guardian supporter: https://t.co/gWyuUVlObq",
+				"url": "https://t.co/c53pnmnuIT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c53pnmnuIT",
+								"expanded_url": "https://www.theguardian.com",
+								"display_url": "theguardian.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gWyuUVlObq",
+								"expanded_url": "https://support.theguardian.com",
+								"display_url": "support.theguardian.com",
+								"indices": [
+									89,
+									112
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7690591,
+				"friends_count": 1089,
+				"listed_count": 59356,
+				"created_at": "Thu Nov 05 23:49:19 +0000 2009",
+				"favourites_count": 144,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 521143,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1061907978633297921/aPuDuMXq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061907978633297921/aPuDuMXq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/87818409/1542013526",
+				"profile_link_color": "005789",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CAE3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 57,
+			"favorite_count": 113,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 122,
+		"favorite_count": 356,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New piece in the @guardian about Gordon Neufeld's and my book \"Hold On To Your Kids\", recently released in the UK by @EburyPublishing . A parent's primary attention is best devoted to the quality of the relationship, not managing behaviour. https://t.co/JzNyJp2iFy"
+	},
+	{
 		"created_at": "Tue Apr 23 03:42:15 +0000 2019",
 		"id": 1120129742118645800,
 		"id_str": "1120533315763822592",
