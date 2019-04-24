@@ -1,6 +1,138 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 24 20:57:19 +0000 2019",
+		"id": 1121100673490153500,
+		"id_str": "1121156185837543425",
+		"full_text": "I love this app. #wecroak #mementomori\n\nDeath reminder app WeCroak co-founder Hansa Bergwall @buzznature interviewed on Kara Swisher podcast Decode - Recode https://t.co/FEOnmXqp9X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wecroak",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"text": "mementomori",
+					"indices": [
+						26,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "buzznature",
+					"name": "Hansa Bergwall",
+					"id": 364396850,
+					"id_str": "364396850",
+					"indices": [
+						93,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FEOnmXqp9X",
+					"expanded_url": "https://www.recode.net/podcasts/2019/4/24/18512940/wecroak-hansa-bergwall-death-app-bhutan-reminder-kara-swisher-recode-decode-podcast-interview",
+					"display_url": "recode.net/podcasts/2019/…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64725,
+			"friends_count": 29371,
+			"listed_count": 1352,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17211,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I love this app. #wecroak #mementomori\n\nDeath reminder app WeCroak co-founder Hansa Bergwall @buzznature interviewed on Kara Swisher podcast Decode - Recode https://t.co/FEOnmXqp9X"
+	},
+	{
 		"created_at": "Wed Apr 24 18:13:46 +0000 2019",
 		"id": 1120981235491164200,
 		"id_str": "1121115029191806976",
