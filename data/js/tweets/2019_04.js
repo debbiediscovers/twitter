@@ -1,6 +1,949 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 26 06:52:48 +0000 2019",
+		"id": 1121668432804450300,
+		"id_str": "1121668432804450304",
+		"full_text": "@ickacangmachine Wow wow a US$799 course on blogging for business by @timsoulo of @ahrefs! Exactly what I need 🤩🙌",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ickacangmachine",
+					"name": "Neo Swee Lin",
+					"id": 301864974,
+					"id_str": "301864974",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "timsoulo",
+					"name": "Tim Soulo",
+					"id": 85286925,
+					"id_str": "85286925",
+					"indices": [
+						69,
+						78
+					]
+				},
+				{
+					"screen_name": "ahrefs",
+					"name": "Ahrefs",
+					"id": 256999501,
+					"id_str": "256999501",
+					"indices": [
+						82,
+						89
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1121664452384841700,
+		"in_reply_to_status_id_str": "1121664452384841728",
+		"in_reply_to_user_id": 301864974,
+		"in_reply_to_user_id_str": "301864974",
+		"in_reply_to_screen_name": "ickacangmachine",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64708,
+			"friends_count": 29364,
+			"listed_count": 1353,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17227,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ickacangmachine Wow wow a US$799 course on blogging for business by @timsoulo of @ahrefs! Exactly what I need 🤩🙌"
+	},
+	{
+		"created_at": "Fri Apr 26 06:45:14 +0000 2019",
+		"id": 1121666528305270800,
+		"id_str": "1121666528305270784",
+		"full_text": "@vinuatank @timsoulo @siquanong @ahrefs @gabrielchuan Thank u!! 🙌 https://t.co/QBC4oEVkBO",
+		"truncated": false,
+		"display_text_range": [
+			54,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vinuatank",
+					"name": "vinu vijay",
+					"id": 141857575,
+					"id_str": "141857575",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "timsoulo",
+					"name": "Tim Soulo",
+					"id": 85286925,
+					"id_str": "85286925",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "siquanong",
+					"name": "Si Quan Ong (SQ Ong)",
+					"id": 616401345,
+					"id_str": "616401345",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"screen_name": "ahrefs",
+					"name": "Ahrefs",
+					"id": 256999501,
+					"id_str": "256999501",
+					"indices": [
+						32,
+						39
+					]
+				},
+				{
+					"screen_name": "gabrielchuan",
+					"name": "Gabriel Chuan",
+					"id": 613050975,
+					"id_str": "613050975",
+					"indices": [
+						40,
+						53
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121666519639838700,
+					"id_str": "1121666519639838720",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5D1wbuU0AAprl9.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5D1wbuU0AAprl9.jpg",
+					"url": "https://t.co/QBC4oEVkBO",
+					"display_url": "pic.twitter.com/QBC4oEVkBO",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1121666528305270784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 126,
+							"h": 126,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 224,
+							"h": 126,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 224,
+							"h": 126,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 224,
+							"h": 126,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121666519639838700,
+					"id_str": "1121666519639838720",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5D1wbuU0AAprl9.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5D1wbuU0AAprl9.jpg",
+					"url": "https://t.co/QBC4oEVkBO",
+					"display_url": "pic.twitter.com/QBC4oEVkBO",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1121666528305270784/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 126,
+							"h": 126,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 224,
+							"h": 126,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 224,
+							"h": 126,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 224,
+							"h": 126,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D5D1wbuU0AAprl9.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1121664731377365000,
+		"in_reply_to_status_id_str": "1121664731377364992",
+		"in_reply_to_user_id": 141857575,
+		"in_reply_to_user_id_str": "141857575",
+		"in_reply_to_screen_name": "vinuatank",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64708,
+			"friends_count": 29364,
+			"listed_count": 1353,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17227,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@vinuatank @timsoulo @siquanong @ahrefs @gabrielchuan Thank u!! 🙌 https://t.co/QBC4oEVkBO"
+	},
+	{
+		"created_at": "Fri Apr 26 06:44:41 +0000 2019",
+		"id": 1121666389545144300,
+		"id_str": "1121666389545144321",
+		"full_text": "@denottione @timsoulo @siquanong @ahrefs @gabrielchuan Thanks Andrew!",
+		"truncated": false,
+		"display_text_range": [
+			55,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "denottione",
+					"name": "Andrew Tan",
+					"id": 1715876323,
+					"id_str": "1715876323",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "timsoulo",
+					"name": "Tim Soulo",
+					"id": 85286925,
+					"id_str": "85286925",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "siquanong",
+					"name": "Si Quan Ong (SQ Ong)",
+					"id": 616401345,
+					"id_str": "616401345",
+					"indices": [
+						22,
+						32
+					]
+				},
+				{
+					"screen_name": "ahrefs",
+					"name": "Ahrefs",
+					"id": 256999501,
+					"id_str": "256999501",
+					"indices": [
+						33,
+						40
+					]
+				},
+				{
+					"screen_name": "gabrielchuan",
+					"name": "Gabriel Chuan",
+					"id": 613050975,
+					"id_str": "613050975",
+					"indices": [
+						41,
+						54
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1121663412696543200,
+		"in_reply_to_status_id_str": "1121663412696543232",
+		"in_reply_to_user_id": 1715876323,
+		"in_reply_to_user_id_str": "1715876323",
+		"in_reply_to_screen_name": "denottione",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64708,
+			"friends_count": 29364,
+			"listed_count": 1353,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17227,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@denottione @timsoulo @siquanong @ahrefs @gabrielchuan Thanks Andrew!"
+	},
+	{
+		"created_at": "Fri Apr 26 06:44:27 +0000 2019",
+		"id": 1121666330992631800,
+		"id_str": "1121666330992631810",
+		"full_text": "@timsoulo @siquanong @ahrefs @gabrielchuan Done!!!",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timsoulo",
+					"name": "Tim Soulo",
+					"id": 85286925,
+					"id_str": "85286925",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "siquanong",
+					"name": "Si Quan Ong (SQ Ong)",
+					"id": 616401345,
+					"id_str": "616401345",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "ahrefs",
+					"name": "Ahrefs",
+					"id": 256999501,
+					"id_str": "256999501",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"screen_name": "gabrielchuan",
+					"name": "Gabriel Chuan",
+					"id": 613050975,
+					"id_str": "613050975",
+					"indices": [
+						29,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1121663346506207200,
+		"in_reply_to_status_id_str": "1121663346506207232",
+		"in_reply_to_user_id": 85286925,
+		"in_reply_to_user_id_str": "85286925",
+		"in_reply_to_screen_name": "timsoulo",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64708,
+			"friends_count": 29364,
+			"listed_count": 1353,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17227,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@timsoulo @siquanong @ahrefs @gabrielchuan Done!!!"
+	},
+	{
+		"created_at": "Fri Apr 26 06:31:11 +0000 2019",
+		"id": 1121662994339942400,
+		"id_str": "1121662994339942402",
+		"full_text": "First time I’ve ever won anything in a contest!!! Woohoo! Thanks @timsoulo @siquanong @ahrefs \n\nAnd big thanks to @gabrielchuan for alerting me to this! \n\n#fridayfeeling 🤩🙌 https://t.co/Ne7dcdGILT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fridayfeeling",
+					"indices": [
+						155,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timsoulo",
+					"name": "Tim Soulo",
+					"id": 85286925,
+					"id_str": "85286925",
+					"indices": [
+						65,
+						74
+					]
+				},
+				{
+					"screen_name": "siquanong",
+					"name": "Si Quan Ong (SQ Ong)",
+					"id": 616401345,
+					"id_str": "616401345",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"screen_name": "ahrefs",
+					"name": "Ahrefs",
+					"id": 256999501,
+					"id_str": "256999501",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"screen_name": "gabrielchuan",
+					"name": "Gabriel Chuan",
+					"id": 613050975,
+					"id_str": "613050975",
+					"indices": [
+						114,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ne7dcdGILT",
+					"expanded_url": "https://twitter.com/timsoulo/status/1121655240669839361",
+					"display_url": "twitter.com/timsoulo/statu…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64708,
+			"friends_count": 29364,
+			"listed_count": 1353,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17227,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121655240669839400,
+		"quoted_status_id_str": "1121655240669839361",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ne7dcdGILT",
+			"expanded": "https://twitter.com/timsoulo/status/1121655240669839361",
+			"display": "twitter.com/timsoulo/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 26 06:00:23 +0000 2019",
+			"id": 1121655240669839400,
+			"id_str": "1121655240669839361",
+			"full_text": "wow! 179 responses in 24 hours! \n\nGlad to know I have so many active bloggers among my Twitter following :)\n\nSo I asked a co-worker of mine @siquanong to pick 3 winners.\n\nAnd here they are:\n\n@debbiediscovers\n@paidinsights\n@MattSatell\n\nplease email me at timsoulo@ahrefs.com :)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "siquanong",
+						"name": "Si Quan Ong (SQ Ong)",
+						"id": 616401345,
+						"id_str": "616401345",
+						"indices": [
+							140,
+							150
+						]
+					},
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							191,
+							207
+						]
+					},
+					{
+						"screen_name": "paidinsights",
+						"name": "Ross Winn",
+						"id": 3121991754,
+						"id_str": "3121991754",
+						"indices": [
+							208,
+							221
+						]
+					},
+					{
+						"screen_name": "MattSatell",
+						"name": "Matt Satell",
+						"id": 780499761984143400,
+						"id_str": "780499761984143360",
+						"indices": [
+							222,
+							233
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1121256181912064000,
+			"in_reply_to_status_id_str": "1121256181912064001",
+			"in_reply_to_user_id": 85286925,
+			"in_reply_to_user_id_str": "85286925",
+			"in_reply_to_screen_name": "timsoulo",
+			"user": {
+				"id": 85286925,
+				"id_str": "85286925",
+				"name": "Tim Soulo",
+				"screen_name": "timsoulo",
+				"location": "Singapore",
+				"description": "CMO & Product advisor @Ahrefs (SEO toolset powered by seriously Big Data)",
+				"url": "https://t.co/8ZdblLXaU9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8ZdblLXaU9",
+								"expanded_url": "http://ahrefs.com/tim",
+								"display_url": "ahrefs.com/tim",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11531,
+				"friends_count": 134,
+				"listed_count": 544,
+				"created_at": "Mon Oct 26 10:46:53 +0000 2009",
+				"favourites_count": 6006,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10522,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004869120633032704/w_L5FCUX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004869120633032704/w_L5FCUX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/85286925/1510114658",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "First time I’ve ever won anything in a contest!!! Woohoo! Thanks @timsoulo @siquanong @ahrefs \n\nAnd big thanks to @gabrielchuan for alerting me to this! \n\n#fridayfeeling 🤩🙌 https://t.co/Ne7dcdGILT"
+	},
+	{
 		"created_at": "Fri Apr 26 05:40:24 +0000 2019",
 		"id": 1121650211556741100,
 		"id_str": "1121650211556741121",
@@ -26,7 +969,7 @@ Grailbird.data.tweets_2019_04 =
 				},
 				{
 					"screen_name": "physiqonomics",
-					"name": "Aadam 🤷🏻‍♂️",
+					"name": "Aadam 🤷🏻♂️",
 					"id": 3124686778,
 					"id_str": "3124686778",
 					"indices": [
@@ -152,7 +1095,7 @@ Grailbird.data.tweets_2019_04 =
 				},
 				{
 					"screen_name": "physiqonomics",
-					"name": "Aadam 🤷🏻‍♂️",
+					"name": "Aadam 🤷🏻♂️",
 					"id": 3124686778,
 					"id_str": "3124686778",
 					"indices": [
