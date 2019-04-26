@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 26 07:28:36 +0000 2019",
+		"id": 1121677440789516300,
+		"id_str": "1121677440789516288",
+		"full_text": "@JJ_Angelus @timsoulo @siquanong @ahrefs @gabrielchuan Thanks Jo jo! https://t.co/LQXBBD2fTo",
+		"truncated": false,
+		"display_text_range": [
+			55,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JJ_Angelus",
+					"name": "🍃 𝕁𝕠𝕁𝕠 𝔸𝕟𝕘𝕖𝕝𝕦𝕤 🇸🇬🌱",
+					"id": 30588028,
+					"id_str": "30588028",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "timsoulo",
+					"name": "Tim Soulo",
+					"id": 85286925,
+					"id_str": "85286925",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "siquanong",
+					"name": "Si Quan Ong (SQ Ong)",
+					"id": 616401345,
+					"id_str": "616401345",
+					"indices": [
+						22,
+						32
+					]
+				},
+				{
+					"screen_name": "ahrefs",
+					"name": "Ahrefs",
+					"id": 256999501,
+					"id_str": "256999501",
+					"indices": [
+						33,
+						40
+					]
+				},
+				{
+					"screen_name": "gabrielchuan",
+					"name": "Gabriel Chuan",
+					"id": 613050975,
+					"id_str": "613050975",
+					"indices": [
+						41,
+						54
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121677432417701900,
+					"id_str": "1121677432417701898",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5D_ro_UUAozyY0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5D_ro_UUAozyY0.jpg",
+					"url": "https://t.co/LQXBBD2fTo",
+					"display_url": "pic.twitter.com/LQXBBD2fTo",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1121677440789516288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 258,
+							"h": 258,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 258,
+							"h": 258,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 258,
+							"h": 258,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121677432417701900,
+					"id_str": "1121677432417701898",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5D_ro_UUAozyY0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5D_ro_UUAozyY0.jpg",
+					"url": "https://t.co/LQXBBD2fTo",
+					"display_url": "pic.twitter.com/LQXBBD2fTo",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1121677440789516288/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 258,
+							"h": 258,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 258,
+							"h": 258,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 258,
+							"h": 258,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D5D_ro_UUAozyY0.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1121675779916480500,
+		"in_reply_to_status_id_str": "1121675779916480512",
+		"in_reply_to_user_id": 30588028,
+		"in_reply_to_user_id_str": "30588028",
+		"in_reply_to_screen_name": "JJ_Angelus",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64708,
+			"friends_count": 29364,
+			"listed_count": 1352,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17228,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JJ_Angelus @timsoulo @siquanong @ahrefs @gabrielchuan Thanks Jo jo! https://t.co/LQXBBD2fTo"
+	},
+	{
 		"created_at": "Fri Apr 26 06:52:48 +0000 2019",
 		"id": 1121668432804450300,
 		"id_str": "1121668432804450304",
