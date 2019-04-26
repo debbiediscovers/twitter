@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 26 19:08:03 +0000 2019",
+		"id": 1121660839121936400,
+		"id_str": "1121853465712447488",
+		"full_text": "When we hit 30,000 followers we'll pick 30 creators who like this tweet at random and give them $100 each.\n\nJust make sure you're following us so we can DM 🤓",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 276271004,
+			"id_str": "276271004",
+			"name": "Gumroad",
+			"screen_name": "gumroad",
+			"location": "By your side",
+			"description": "We help creators and artists get paid so they can do more of what they love: 🎨🎥📝  Sell products, pre-orders, memberships, and more!",
+			"url": "https://t.co/kYFBrXrT4B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kYFBrXrT4B",
+							"expanded_url": "https://gumroad.com",
+							"display_url": "gumroad.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29263,
+			"friends_count": 817,
+			"listed_count": 600,
+			"created_at": "Sun Apr 03 01:08:03 +0000 2011",
+			"favourites_count": 1812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2569,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FDFBF1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091453452171919360/MOhXon35_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091453452171919360/MOhXon35_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/276271004/1398365948",
+			"profile_link_color": "36A8AE",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F0ECD8",
+			"profile_text_color": "797874",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 682,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "When we hit 30,000 followers we'll pick 30 creators who like this tweet at random and give them $100 each.\n\nJust make sure you're following us so we can DM 🤓"
+	},
+	{
 		"created_at": "Fri Apr 26 10:21:15 +0000 2019",
 		"id": 1121581002285928400,
 		"id_str": "1121720889530146816",
