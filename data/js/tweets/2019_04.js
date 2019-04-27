@@ -1,6 +1,417 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 27 05:21:15 +0000 2019",
+		"id": 1121662994339942400,
+		"id_str": "1122007780364152834",
+		"full_text": "First time I’ve ever won anything in a contest!!! Woohoo! Thanks @timsoulo @siquanong @ahrefs \n\nAnd big thanks to @gabrielchuan for alerting me to this! \n\n#fridayfeeling 🤩🙌 https://t.co/Ne7dcdGILT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fridayfeeling",
+					"indices": [
+						155,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timsoulo",
+					"name": "Tim Soulo",
+					"id": 85286925,
+					"id_str": "85286925",
+					"indices": [
+						65,
+						74
+					]
+				},
+				{
+					"screen_name": "siquanong",
+					"name": "Si Quan Ong (SQ Ong)",
+					"id": 616401345,
+					"id_str": "616401345",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"screen_name": "ahrefs",
+					"name": "Ahrefs",
+					"id": 256999501,
+					"id_str": "256999501",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"screen_name": "gabrielchuan",
+					"name": "Gabriel Chuan",
+					"id": 613050975,
+					"id_str": "613050975",
+					"indices": [
+						114,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ne7dcdGILT",
+					"expanded_url": "https://twitter.com/timsoulo/status/1121655240669839361",
+					"display_url": "twitter.com/timsoulo/statu…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64689,
+			"friends_count": 29369,
+			"listed_count": 1352,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121655240669839400,
+		"quoted_status_id_str": "1121655240669839361",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ne7dcdGILT",
+			"expanded": "https://twitter.com/timsoulo/status/1121655240669839361",
+			"display": "twitter.com/timsoulo/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 26 06:00:23 +0000 2019",
+			"id": 1121655240669839400,
+			"id_str": "1121655240669839361",
+			"full_text": "wow! 179 responses in 24 hours! \n\nGlad to know I have so many active bloggers among my Twitter following :)\n\nSo I asked a co-worker of mine @siquanong to pick 3 winners.\n\nAnd here they are:\n\n@debbiediscovers\n@paidinsights\n@MattSatell\n\nplease email me at timsoulo@ahrefs.com :)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "siquanong",
+						"name": "Si Quan Ong (SQ Ong)",
+						"id": 616401345,
+						"id_str": "616401345",
+						"indices": [
+							140,
+							150
+						]
+					},
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							191,
+							207
+						]
+					},
+					{
+						"screen_name": "paidinsights",
+						"name": "Ross Winn",
+						"id": 3121991754,
+						"id_str": "3121991754",
+						"indices": [
+							208,
+							221
+						]
+					},
+					{
+						"screen_name": "MattSatell",
+						"name": "Matt Satell",
+						"id": 780499761984143400,
+						"id_str": "780499761984143360",
+						"indices": [
+							222,
+							233
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1121256181912064000,
+			"in_reply_to_status_id_str": "1121256181912064001",
+			"in_reply_to_user_id": 85286925,
+			"in_reply_to_user_id_str": "85286925",
+			"in_reply_to_screen_name": "timsoulo",
+			"user": {
+				"id": 85286925,
+				"id_str": "85286925",
+				"name": "Tim Soulo",
+				"screen_name": "timsoulo",
+				"location": "Singapore",
+				"description": "CMO & Product advisor @Ahrefs (SEO toolset powered by seriously Big Data)",
+				"url": "https://t.co/8ZdblLXaU9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8ZdblLXaU9",
+								"expanded_url": "http://ahrefs.com/tim",
+								"display_url": "ahrefs.com/tim",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11554,
+				"friends_count": 134,
+				"listed_count": 544,
+				"created_at": "Mon Oct 26 10:46:53 +0000 2009",
+				"favourites_count": 6012,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10526,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004869120633032704/w_L5FCUX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004869120633032704/w_L5FCUX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/85286925/1510114658",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "First time I’ve ever won anything in a contest!!! Woohoo! Thanks @timsoulo @siquanong @ahrefs \n\nAnd big thanks to @gabrielchuan for alerting me to this! \n\n#fridayfeeling 🤩🙌 https://t.co/Ne7dcdGILT"
+	},
+	{
+		"created_at": "Sat Apr 27 05:21:08 +0000 2019",
+		"id": 1121451983548735500,
+		"id_str": "1122007749443772416",
+		"full_text": "Scientists Use #AI to Turn Brain Signals Into Speech - WSJ https://t.co/ECyCptlRYx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						15,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ECyCptlRYx",
+					"expanded_url": "https://www.wsj.com/articles/scientists-use-artificial-intelligence-to-turn-brain-signals-into-speech-11556125200",
+					"display_url": "wsj.com/articles/scien…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64689,
+			"friends_count": 29369,
+			"listed_count": 1352,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 19979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Scientists Use #AI to Turn Brain Signals Into Speech - WSJ https://t.co/ECyCptlRYx"
+	},
+	{
 		"created_at": "Fri Apr 26 22:28:12 +0000 2019",
 		"id": 1121581002285928400,
 		"id_str": "1121903832798076929",
