@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 28 03:47:24 +0000 2019",
+		"id": 1122123069814792200,
+		"id_str": "1122346548610736128",
+		"full_text": "@peterkay47 Happy Birthday to the sweetest gentleman on Twitter &amp; in life 💕 love from me &amp; @limkaysiu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peterkay47",
+					"name": "Peter Kay",
+					"id": 609940096,
+					"id_str": "609940096",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "limkaysiu",
+					"name": "Lim Kay Siu",
+					"id": 964192106,
+					"id_str": "964192106",
+					"indices": [
+						99,
+						109
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 609940096,
+		"in_reply_to_user_id_str": "609940096",
+		"in_reply_to_screen_name": "peterkay47",
+		"user": {
+			"id": 301864974,
+			"id_str": "301864974",
+			"name": "Neo Swee Lin",
+			"screen_name": "ickacangmachine",
+			"location": "Singapore",
+			"description": "Actor known on TV as Phua Chu Kang's Ahma. Photos from the movie YOU MEAN THE WORLD TO ME in Penang Hokkien. Next on stage in The Truth. neosweelin@gmail.com",
+			"url": "https://t.co/6ER23f8Vg3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6ER23f8Vg3",
+							"expanded_url": "http://www.pinkdot.sg",
+							"display_url": "pinkdot.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1190,
+			"friends_count": 985,
+			"listed_count": 38,
+			"created_at": "Fri May 20 06:07:56 +0000 2011",
+			"favourites_count": 8453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16178,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/911144354323980289/DbDW30Ea_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/911144354323980289/DbDW30Ea_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/301864974/1501475585",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@peterkay47 Happy Birthday to the sweetest gentleman on Twitter &amp; in life 💕 love from me &amp; @limkaysiu"
+	},
+	{
 		"created_at": "Sun Apr 28 00:48:43 +0000 2019",
 		"id": 1122301584988262400,
 		"id_str": "1122301584988262400",
