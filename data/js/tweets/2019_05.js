@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 01 09:03:54 +0000 2019",
+		"id": 1123513365068898300,
+		"id_str": "1123513365068898306",
+		"full_text": "@Mariebonilla4 @jockowillink Aftermath. Singapore https://t.co/X4QgMueueS",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mariebonilla4",
+					"name": "Marie B Elzarka",
+					"id": 2288441014,
+					"id_str": "2288441014",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "jockowillink",
+					"name": "Jocko Willink",
+					"id": 3320010078,
+					"id_str": "3320010078",
+					"indices": [
+						15,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123513358420865000,
+					"id_str": "1123513358420865024",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D5eFcmUU8AAK5wo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5eFcmUU8AAK5wo.jpg",
+					"url": "https://t.co/X4QgMueueS",
+					"display_url": "pic.twitter.com/X4QgMueueS",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1123513365068898306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123513358420865000,
+					"id_str": "1123513358420865024",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D5eFcmUU8AAK5wo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5eFcmUU8AAK5wo.jpg",
+					"url": "https://t.co/X4QgMueueS",
+					"display_url": "pic.twitter.com/X4QgMueueS",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1123513365068898306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1123230739804241900,
+		"in_reply_to_status_id_str": "1123230739804241920",
+		"in_reply_to_user_id": 2288441014,
+		"in_reply_to_user_id_str": "2288441014",
+		"in_reply_to_screen_name": "Mariebonilla4",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64768,
+			"friends_count": 30198,
+			"listed_count": 1353,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20035,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17284,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Mariebonilla4 @jockowillink Aftermath. Singapore https://t.co/X4QgMueueS"
+	},
+	{
+		"created_at": "Wed May 01 09:03:23 +0000 2019",
+		"id": 1123513232746926100,
+		"id_str": "1123513232746926081",
+		"full_text": "@jockowillink Roar! https://t.co/wyHdla9nTx",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jockowillink",
+					"name": "Jocko Willink",
+					"id": 3320010078,
+					"id_str": "3320010078",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123513222521184300,
+					"id_str": "1123513222521184256",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D5eFUsDUYAA0Mtn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5eFUsDUYAA0Mtn.jpg",
+					"url": "https://t.co/wyHdla9nTx",
+					"display_url": "pic.twitter.com/wyHdla9nTx",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1123513232746926081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123513222521184300,
+					"id_str": "1123513222521184256",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D5eFUsDUYAA0Mtn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5eFUsDUYAA0Mtn.jpg",
+					"url": "https://t.co/wyHdla9nTx",
+					"display_url": "pic.twitter.com/wyHdla9nTx",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1123513232746926081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1123190877961064400,
+		"in_reply_to_status_id_str": "1123190877961064448",
+		"in_reply_to_user_id": 3320010078,
+		"in_reply_to_user_id_str": "3320010078",
+		"in_reply_to_screen_name": "jockowillink",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64768,
+			"friends_count": 30198,
+			"listed_count": 1353,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20035,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17284,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jockowillink Roar! https://t.co/wyHdla9nTx"
+	},
+	{
 		"created_at": "Wed May 01 07:38:27 +0000 2019",
 		"id": 1123340810508914700,
 		"id_str": "1123491857747472384",
