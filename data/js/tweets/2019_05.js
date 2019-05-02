@@ -1,6 +1,563 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 02 07:05:01 +0000 2019",
+		"id": 1123845835060596700,
+		"id_str": "1123845835060596739",
+		"full_text": "@mangools_com @theSEOElixir Lol",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mangools_com",
+					"name": "Mangools",
+					"id": 615593853,
+					"id_str": "615593853",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "theSEOElixir",
+					"name": "SEO Elixir",
+					"id": 966990458495930400,
+					"id_str": "966990458495930369",
+					"indices": [
+						14,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1123618591729954800,
+		"in_reply_to_status_id_str": "1123618591729954817",
+		"in_reply_to_user_id": 615593853,
+		"in_reply_to_user_id_str": "615593853",
+		"in_reply_to_screen_name": "mangools_com",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64808,
+			"friends_count": 30092,
+			"listed_count": 1353,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17315,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@mangools_com @theSEOElixir Lol"
+	},
+	{
+		"created_at": "Thu May 02 06:55:02 +0000 2019",
+		"id": 1123810588168261600,
+		"id_str": "1123843321053483009",
+		"full_text": "Blogging for Business course with @timsoulo and @ahrefs!Nice takeaways from @debbiediscovers #Blogging #SEO #BloggingforBusiness https://t.co/oRrHC9f6yj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Blogging",
+					"indices": [
+						93,
+						102
+					]
+				},
+				{
+					"text": "SEO",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "BloggingforBusiness",
+					"indices": [
+						108,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timsoulo",
+					"name": "Tim Soulo",
+					"id": 85286925,
+					"id_str": "85286925",
+					"indices": [
+						34,
+						43
+					]
+				},
+				{
+					"screen_name": "ahrefs",
+					"name": "Ahrefs",
+					"id": 256999501,
+					"id_str": "256999501",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						76,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oRrHC9f6yj",
+					"expanded_url": "https://threadreaderapp.com/thread/1123340810508914688.html",
+					"display_url": "threadreaderapp.com/thread/1123340…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2429842333,
+			"id_str": "2429842333",
+			"name": "Justine Copenhagen 👩‍💻",
+			"screen_name": "juscopenhagen",
+			"location": "London, England",
+			"description": "#WomeninTech #GirlsinTech Female entrepreneur trying to crystalise the equity of being unique! Build a website in two hours! Link in bio",
+			"url": "https://t.co/a9FjaEwWuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a9FjaEwWuk",
+							"expanded_url": "https://bit.ly/JusLovesStrikingly",
+							"display_url": "bit.ly/JusLovesStriki…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16445,
+			"friends_count": 13284,
+			"listed_count": 866,
+			"created_at": "Sun Apr 06 03:50:26 +0000 2014",
+			"favourites_count": 413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4282,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFFFD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1018359311913795584/KTKEFXLv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1018359311913795584/KTKEFXLv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2429842333/1531630910",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Blogging for Business course with @timsoulo and @ahrefs!Nice takeaways from @debbiediscovers #Blogging #SEO #BloggingforBusiness https://t.co/oRrHC9f6yj"
+	},
+	{
+		"created_at": "Thu May 02 06:54:58 +0000 2019",
+		"id": 1123843306084032500,
+		"id_str": "1123843306084032512",
+		"full_text": "Thanks @juscopenhagen 🙌😀 https://t.co/nlytzAMKRg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "juscopenhagen",
+					"name": "Justine Copenhagen 👩‍💻",
+					"id": 2429842333,
+					"id_str": "2429842333",
+					"indices": [
+						7,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nlytzAMKRg",
+					"expanded_url": "https://twitter.com/juscopenhagen/status/1123810588168261632",
+					"display_url": "twitter.com/juscopenhagen/…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64808,
+			"friends_count": 30092,
+			"listed_count": 1353,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17315,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1123810588168261600,
+		"quoted_status_id_str": "1123810588168261632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nlytzAMKRg",
+			"expanded": "https://twitter.com/juscopenhagen/status/1123810588168261632",
+			"display": "twitter.com/juscopenhagen/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 02 04:44:58 +0000 2019",
+			"id": 1123810588168261600,
+			"id_str": "1123810588168261632",
+			"full_text": "Blogging for Business course with @timsoulo and @ahrefs!Nice takeaways from @debbiediscovers #Blogging #SEO #BloggingforBusiness https://t.co/oRrHC9f6yj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				152
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Blogging",
+						"indices": [
+							93,
+							102
+						]
+					},
+					{
+						"text": "SEO",
+						"indices": [
+							103,
+							107
+						]
+					},
+					{
+						"text": "BloggingforBusiness",
+						"indices": [
+							108,
+							128
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "timsoulo",
+						"name": "Tim Soulo",
+						"id": 85286925,
+						"id_str": "85286925",
+						"indices": [
+							34,
+							43
+						]
+					},
+					{
+						"screen_name": "ahrefs",
+						"name": "Ahrefs",
+						"id": 256999501,
+						"id_str": "256999501",
+						"indices": [
+							48,
+							55
+						]
+					},
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							76,
+							92
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/oRrHC9f6yj",
+						"expanded_url": "https://threadreaderapp.com/thread/1123340810508914688.html",
+						"display_url": "threadreaderapp.com/thread/1123340…",
+						"indices": [
+							129,
+							152
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2429842333,
+				"id_str": "2429842333",
+				"name": "Justine Copenhagen 👩‍💻",
+				"screen_name": "juscopenhagen",
+				"location": "London, England",
+				"description": "#WomeninTech #GirlsinTech Female entrepreneur trying to crystalise the equity of being unique! Build a website in two hours! Link in bio",
+				"url": "https://t.co/a9FjaEwWuk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/a9FjaEwWuk",
+								"expanded_url": "https://bit.ly/JusLovesStrikingly",
+								"display_url": "bit.ly/JusLovesStriki…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16445,
+				"friends_count": 13284,
+				"listed_count": 866,
+				"created_at": "Sun Apr 06 03:50:26 +0000 2014",
+				"favourites_count": 413,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4282,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAFFFD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1018359311913795584/KTKEFXLv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1018359311913795584/KTKEFXLv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2429842333/1531630910",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks @juscopenhagen 🙌😀 https://t.co/nlytzAMKRg"
+	},
+	{
 		"created_at": "Thu May 02 03:37:50 +0000 2019",
 		"id": 1123793694518382600,
 		"id_str": "1123793694518382593",
