@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 02 03:37:50 +0000 2019",
+		"id": 1123793694518382600,
+		"id_str": "1123793694518382593",
+		"full_text": "Exactly six years ago! Ahhh! Spring time in London, joy ride in Ros Goei's spanking new car and lunch at The Cow. Life does not get better than this... https://t.co/5xnkfxwS5J https://t.co/ji49ukvGBF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5xnkfxwS5J",
+					"expanded_url": "https://www.instagram.com/p/Bw8aFZxnSDE/",
+					"display_url": "instagram.com/p/Bw8aFZxnSDE/",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1123793693507489800,
+					"id_str": "1123793693507489799",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/D5iEaP5WkAcErPG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5iEaP5WkAcErPG.jpg",
+					"url": "https://t.co/ji49ukvGBF",
+					"display_url": "pic.twitter.com/ji49ukvGBF",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1123793694518382593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123793693507489800,
+					"id_str": "1123793693507489799",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/D5iEaP5WkAcErPG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5iEaP5WkAcErPG.jpg",
+					"url": "https://t.co/ji49ukvGBF",
+					"display_url": "pic.twitter.com/ji49ukvGBF",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1123793694518382593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64809,
+			"friends_count": 30107,
+			"listed_count": 1353,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17312,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Exactly six years ago! Ahhh! Spring time in London, joy ride in Ros Goei's spanking new car and lunch at The Cow. Life does not get better than this... https://t.co/5xnkfxwS5J https://t.co/ji49ukvGBF"
+	},
+	{
 		"created_at": "Thu May 02 01:34:34 +0000 2019",
 		"id": 1123434163770679300,
 		"id_str": "1123762673252958208",
