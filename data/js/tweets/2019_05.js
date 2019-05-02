@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 02 11:07:08 +0000 2019",
+		"id": 1123340810508914700,
+		"id_str": "1123906765240840193",
+		"full_text": "Up at 5am to start my Blogging for Business course with @timsoulo and @ahrefs! Will be tweeting my takeaways from this course! Excited to start!\n\n#GetAfterIt #Blogging #SEO https://t.co/jvMKxOhy9q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GetAfterIt",
+					"indices": [
+						146,
+						157
+					]
+				},
+				{
+					"text": "Blogging",
+					"indices": [
+						158,
+						167
+					]
+				},
+				{
+					"text": "SEO",
+					"indices": [
+						168,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timsoulo",
+					"name": "Tim Soulo",
+					"id": 85286925,
+					"id_str": "85286925",
+					"indices": [
+						56,
+						65
+					]
+				},
+				{
+					"screen_name": "ahrefs",
+					"name": "Ahrefs",
+					"id": 256999501,
+					"id_str": "256999501",
+					"indices": [
+						70,
+						77
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123339957702017000,
+					"id_str": "1123339957702017024",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/D5bnvWTUwAArH4u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5bnvWTUwAArH4u.jpg",
+					"url": "https://t.co/jvMKxOhy9q",
+					"display_url": "pic.twitter.com/jvMKxOhy9q",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1123340810508914688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 681,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 386,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1378,
+							"h": 782,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123339957702017000,
+					"id_str": "1123339957702017024",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/D5bnvWTUwAArH4u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5bnvWTUwAArH4u.jpg",
+					"url": "https://t.co/jvMKxOhy9q",
+					"display_url": "pic.twitter.com/jvMKxOhy9q",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1123340810508914688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 681,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 386,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1378,
+							"h": 782,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64822,
+			"friends_count": 30088,
+			"listed_count": 1354,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17315,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Up at 5am to start my Blogging for Business course with @timsoulo and @ahrefs! Will be tweeting my takeaways from this course! Excited to start!\n\n#GetAfterIt #Blogging #SEO https://t.co/jvMKxOhy9q"
+	},
+	{
 		"created_at": "Thu May 02 07:05:01 +0000 2019",
 		"id": 1123845835060596700,
 		"id_str": "1123845835060596739",
@@ -204,7 +421,7 @@ Grailbird.data.tweets_2019_05 =
 		"user": {
 			"id": 2429842333,
 			"id_str": "2429842333",
-			"name": "Justine Copenhagen 👩‍💻",
+			"name": "Justine Copenhagen 👩💻",
 			"screen_name": "juscopenhagen",
 			"location": "London, England",
 			"description": "#WomeninTech #GirlsinTech Female entrepreneur trying to crystalise the equity of being unique! Build a website in two hours! Link in bio",
@@ -291,7 +508,7 @@ Grailbird.data.tweets_2019_05 =
 			"user_mentions": [
 				{
 					"screen_name": "juscopenhagen",
-					"name": "Justine Copenhagen 👩‍💻",
+					"name": "Justine Copenhagen 👩💻",
 					"id": 2429842333,
 					"id_str": "2429842333",
 					"indices": [
@@ -479,7 +696,7 @@ Grailbird.data.tweets_2019_05 =
 			"user": {
 				"id": 2429842333,
 				"id_str": "2429842333",
-				"name": "Justine Copenhagen 👩‍💻",
+				"name": "Justine Copenhagen 👩💻",
 				"screen_name": "juscopenhagen",
 				"location": "London, England",
 				"description": "#WomeninTech #GirlsinTech Female entrepreneur trying to crystalise the equity of being unique! Build a website in two hours! Link in bio",
