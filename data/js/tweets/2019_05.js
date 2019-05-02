@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 02 01:10:43 +0000 2019",
+		"id": 1123756672588099600,
+		"id_str": "1123756672588099584",
+		"full_text": "#17. Craft unique content with your own data, insights and stories. \n\nDon't create new clones of existing content, bring something entirely new tot he table. https://t.co/CdLb6oNSOA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123756488827244500,
+					"id_str": "1123756488827244549",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/D5hikpqWkAUfZuU.png",
+					"media_url_https": "https://pbs.twimg.com/media/D5hikpqWkAUfZuU.png",
+					"url": "https://t.co/CdLb6oNSOA",
+					"display_url": "pic.twitter.com/CdLb6oNSOA",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1123756672588099584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 743,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 743,
+							"h": 416,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123756488827244500,
+					"id_str": "1123756488827244549",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/D5hikpqWkAUfZuU.png",
+					"media_url_https": "https://pbs.twimg.com/media/D5hikpqWkAUfZuU.png",
+					"url": "https://t.co/CdLb6oNSOA",
+					"display_url": "pic.twitter.com/CdLb6oNSOA",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1123756672588099584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 743,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 743,
+							"h": 416,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1123756396225417200,
+		"in_reply_to_status_id_str": "1123756396225417218",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64816,
+			"friends_count": 30237,
+			"listed_count": 1353,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17287,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#17. Craft unique content with your own data, insights and stories. \n\nDon't create new clones of existing content, bring something entirely new tot he table. https://t.co/CdLb6oNSOA"
+	},
+	{
+		"created_at": "Thu May 02 01:09:37 +0000 2019",
+		"id": 1123756396225417200,
+		"id_str": "1123756396225417218",
+		"full_text": "#16. A simple trick to \"hacking\" authority that writers have been using for ages... \n\n-&gt; Find the best person to interview and interview them. #hack #SEO #ContentMarketing #BloggingforBusiness https://t.co/anhD0qPAil",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hack",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "SEO",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "ContentMarketing",
+					"indices": [
+						157,
+						174
+					]
+				},
+				{
+					"text": "BloggingforBusiness",
+					"indices": [
+						175,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123756221373276200,
+					"id_str": "1123756221373276165",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/D5hiVFUW4AUDGCI.png",
+					"media_url_https": "https://pbs.twimg.com/media/D5hiVFUW4AUDGCI.png",
+					"url": "https://t.co/anhD0qPAil",
+					"display_url": "pic.twitter.com/anhD0qPAil",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1123756396225417218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 527,
+							"h": 296,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 527,
+							"h": 296,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 527,
+							"h": 296,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123756221373276200,
+					"id_str": "1123756221373276165",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/D5hiVFUW4AUDGCI.png",
+					"media_url_https": "https://pbs.twimg.com/media/D5hiVFUW4AUDGCI.png",
+					"url": "https://t.co/anhD0qPAil",
+					"display_url": "pic.twitter.com/anhD0qPAil",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1123756396225417218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 527,
+							"h": 296,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 527,
+							"h": 296,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 527,
+							"h": 296,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1123756083011567600,
+		"in_reply_to_status_id_str": "1123756083011567618",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64816,
+			"friends_count": 30237,
+			"listed_count": 1353,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17287,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#16. A simple trick to \"hacking\" authority that writers have been using for ages... \n\n-&gt; Find the best person to interview and interview them. #hack #SEO #ContentMarketing #BloggingforBusiness https://t.co/anhD0qPAil"
+	},
+	{
 		"created_at": "Wed May 01 20:20:50 +0000 2019",
 		"id": 1123340810508914700,
 		"id_str": "1123683718080737280",
