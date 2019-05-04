@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 04 20:49:35 +0000 2019",
+		"id": 1124778120278618100,
+		"id_str": "1124778120278618113",
+		"full_text": "@iJonniM @timsoulo @ahrefs @wordpressdotcom I use Wordpress self-hosted and @wordpressdotcom. I'm also a big fan of @strikingly. You can also try @ghost or @webflow!",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iJonniM",
+					"name": "Jonni Martinez ",
+					"id": 23916808,
+					"id_str": "23916808",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "timsoulo",
+					"name": "Tim Soulo",
+					"id": 85286925,
+					"id_str": "85286925",
+					"indices": [
+						9,
+						18
+					]
+				},
+				{
+					"screen_name": "ahrefs",
+					"name": "Ahrefs",
+					"id": 256999501,
+					"id_str": "256999501",
+					"indices": [
+						19,
+						26
+					]
+				},
+				{
+					"screen_name": "wordpressdotcom",
+					"name": "WordPress.com",
+					"id": 823905,
+					"id_str": "823905",
+					"indices": [
+						27,
+						43
+					]
+				},
+				{
+					"screen_name": "wordpressdotcom",
+					"name": "WordPress.com",
+					"id": 823905,
+					"id_str": "823905",
+					"indices": [
+						76,
+						92
+					]
+				},
+				{
+					"screen_name": "strikingly",
+					"name": "Strikingly",
+					"id": 264502655,
+					"id_str": "264502655",
+					"indices": [
+						116,
+						127
+					]
+				},
+				{
+					"screen_name": "Ghost",
+					"name": "Ghost",
+					"id": 767545134,
+					"id_str": "767545134",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"screen_name": "webflow",
+					"name": "Webflow",
+					"id": 403930194,
+					"id_str": "403930194",
+					"indices": [
+						156,
+						164
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": 1124742632469561300,
+		"in_reply_to_status_id_str": "1124742632469561344",
+		"in_reply_to_user_id": 23916808,
+		"in_reply_to_user_id_str": "23916808",
+		"in_reply_to_screen_name": "iJonniM",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64879,
+			"friends_count": 30166,
+			"listed_count": 1357,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17321,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@iJonniM @timsoulo @ahrefs @wordpressdotcom I use Wordpress self-hosted and @wordpressdotcom. I'm also a big fan of @strikingly. You can also try @ghost or @webflow!"
+	},
+	{
 		"created_at": "Sat May 04 18:26:21 +0000 2019",
 		"id": 1123340810508914700,
 		"id_str": "1124742070847950849",
