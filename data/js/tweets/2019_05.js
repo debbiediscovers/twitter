@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 06 22:04:17 +0000 2019",
+		"id": 1125521691512197100,
+		"id_str": "1125521691512197120",
+		"full_text": "@KaiGrunwitz @BadassBowden @StephandSec @marcusjcarey @SpeakerShinjini @bsdbandit @TweetLarisa @DrJDrooghaag @NevilleGaunt @kashthefuturist @BentleyAudrey @enricomolinari @digitalcloudgal @alvinfoo @JuliaHiltscher @YuHelenYu @SDGS4GOOD @MHiesboeck @psb_dc @archonsec Thank you! 😘❤️",
+		"truncated": false,
+		"display_text_range": [
+			267,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KaiGrunwitz",
+					"name": "Kai Grunwitz",
+					"id": 908271475718869000,
+					"id_str": "908271475718868992",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "BadassBowden",
+					"name": "Katelyn Bowden",
+					"id": 1049445999968743400,
+					"id_str": "1049445999968743426",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "StephandSec",
+					"name": "InfoSteph, first of her name.",
+					"id": 764143993923907600,
+					"id_str": "764143993923907584",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"screen_name": "marcusjcarey",
+					"name": "Marcus J. Carey",
+					"id": 15474914,
+					"id_str": "15474914",
+					"indices": [
+						40,
+						53
+					]
+				},
+				{
+					"screen_name": "SpeakerShinjini",
+					"name": "Shinjini Das",
+					"id": 1206780888,
+					"id_str": "1206780888",
+					"indices": [
+						54,
+						70
+					]
+				},
+				{
+					"screen_name": "bsdbandit",
+					"name": "Charles Shirer",
+					"id": 18647774,
+					"id_str": "18647774",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"screen_name": "TweetLarisa",
+					"name": "Larisa Breton",
+					"id": 46690823,
+					"id_str": "46690823",
+					"indices": [
+						82,
+						94
+					]
+				},
+				{
+					"screen_name": "DrJDrooghaag",
+					"name": "Johannes Drooghaag, Dr. ir MBA M.Sc. 🌞🇳🇱🇪🇺",
+					"id": 3429955204,
+					"id_str": "3429955204",
+					"indices": [
+						95,
+						108
+					]
+				},
+				{
+					"screen_name": "NevilleGaunt",
+					"name": "Neville Gaunt 💡💡💡",
+					"id": 351408233,
+					"id_str": "351408233",
+					"indices": [
+						109,
+						122
+					]
+				},
+				{
+					"screen_name": "kashthefuturist",
+					"name": "Dr. Kash Sirinanda",
+					"id": 925112851894865900,
+					"id_str": "925112851894865920",
+					"indices": [
+						123,
+						139
+					]
+				},
+				{
+					"screen_name": "BentleyAudrey",
+					"name": "Audrey Renée",
+					"id": 864045391,
+					"id_str": "864045391",
+					"indices": [
+						140,
+						154
+					]
+				},
+				{
+					"screen_name": "enricomolinari",
+					"name": "🔛 Enrico Molinari 🇮🇹 🇪🇺",
+					"id": 75673231,
+					"id_str": "75673231",
+					"indices": [
+						155,
+						170
+					]
+				},
+				{
+					"screen_name": "digitalcloudgal",
+					"name": "Jo Peterson #IoTWorld",
+					"id": 3497268500,
+					"id_str": "3497268500",
+					"indices": [
+						171,
+						187
+					]
+				},
+				{
+					"screen_name": "alvinfoo",
+					"name": "Alvin Foo",
+					"id": 794815,
+					"id_str": "794815",
+					"indices": [
+						188,
+						197
+					]
+				},
+				{
+					"screen_name": "JuliaHiltscher",
+					"name": "Julia Hiltscher",
+					"id": 10367702,
+					"id_str": "10367702",
+					"indices": [
+						198,
+						213
+					]
+				},
+				{
+					"screen_name": "YuHelenYu",
+					"name": "Helen Yu",
+					"id": 839338759330152400,
+					"id_str": "839338759330152453",
+					"indices": [
+						214,
+						224
+					]
+				},
+				{
+					"screen_name": "SDGS4GOOD",
+					"name": "Elle Bushfield ⭕️",
+					"id": 2438275574,
+					"id_str": "2438275574",
+					"indices": [
+						225,
+						235
+					]
+				},
+				{
+					"screen_name": "MHiesboeck",
+					"name": "Martin Hiesboeck 解聰文 🌐",
+					"id": 4711717992,
+					"id_str": "4711717992",
+					"indices": [
+						236,
+						247
+					]
+				},
+				{
+					"screen_name": "psb_dc",
+					"name": "Theo",
+					"id": 2908107542,
+					"id_str": "2908107542",
+					"indices": [
+						248,
+						255
+					]
+				},
+				{
+					"screen_name": "archonsec",
+					"name": "Archonsec",
+					"id": 3244504141,
+					"id_str": "3244504141",
+					"indices": [
+						256,
+						266
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1125440773036621800,
+		"in_reply_to_status_id_str": "1125440773036621826",
+		"in_reply_to_user_id": 908271475718869000,
+		"in_reply_to_user_id_str": "908271475718868992",
+		"in_reply_to_screen_name": "KaiGrunwitz",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64982,
+			"friends_count": 29305,
+			"listed_count": 1356,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17329,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KaiGrunwitz @BadassBowden @StephandSec @marcusjcarey @SpeakerShinjini @bsdbandit @TweetLarisa @DrJDrooghaag @NevilleGaunt @kashthefuturist @BentleyAudrey @enricomolinari @digitalcloudgal @alvinfoo @JuliaHiltscher @YuHelenYu @SDGS4GOOD @MHiesboeck @psb_dc @archonsec Thank you! 😘❤️"
+	},
+	{
 		"created_at": "Mon May 06 20:27:10 +0000 2019",
 		"id": 1125242742412496900,
 		"id_str": "1125497253051768832",
