@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 07 19:49:53 +0000 2019",
+		"id": 1125011434620866600,
+		"id_str": "1125850256120238080",
+		"full_text": "“Our Kids Are Losing Their Empathy &amp; Technology Has A Lot to Do With It” by @alonsh https://t.co/AvrQPFmi7S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alonsh",
+					"name": "Alon Shwartz",
+					"id": 8342592,
+					"id_str": "8342592",
+					"indices": [
+						80,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AvrQPFmi7S",
+					"expanded_url": "https://link.medium.com/d6O19cVsrW",
+					"display_url": "link.medium.com/d6O19cVsrW",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3188621004,
+			"id_str": "3188621004",
+			"name": "Little Coders SG",
+			"screen_name": "littlecoderssg",
+			"location": "Singapore",
+			"description": "Code ambassadors supporting the kids coding movement globally. #AI powered content. 🤖😻",
+			"url": "https://t.co/gVziiEL7vp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gVziiEL7vp",
+							"expanded_url": "https://www.facebook.com/littlecoderssg",
+							"display_url": "facebook.com/littlecoderssg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4389,
+			"friends_count": 3319,
+			"listed_count": 86,
+			"created_at": "Fri May 08 11:37:06 +0000 2015",
+			"favourites_count": 1248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2677,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/660828387716411392/vWWGDPJK_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/660828387716411392/vWWGDPJK_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3188621004/1431619481",
+			"profile_link_color": "7BD7C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Our Kids Are Losing Their Empathy &amp; Technology Has A Lot to Do With It” by @alonsh https://t.co/AvrQPFmi7S"
+	},
+	{
 		"created_at": "Tue May 07 10:18:47 +0000 2019",
 		"id": 1124436945898049500,
 		"id_str": "1125706535441584131",
