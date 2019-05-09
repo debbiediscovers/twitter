@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 18:41:13 +0000 2019",
+		"id": 1126439737336651800,
+		"id_str": "1126557753005068289",
+		"full_text": "Moral of the story: learn basic #javascript so you don’t get hoodwinked by #AI buzzwords. #machinelearning 😂😂😂\n\nVia @MitsukuChatbot https://t.co/hbuVqJP77V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "javascript",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "machinelearning",
+					"indices": [
+						90,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MitsukuChatbot",
+					"name": "Mitsuku 🏅🏅🏅🏅",
+					"id": 578224522,
+					"id_str": "578224522",
+					"indices": [
+						116,
+						131
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126439726557192200,
+					"id_str": "1126439726557192193",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Hq9pJUYAEoKg4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6Hq9pJUYAEoKg4.jpg",
+					"url": "https://t.co/hbuVqJP77V",
+					"display_url": "pic.twitter.com/hbuVqJP77V",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1126439737336651776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 501,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 841,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 841,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126439726557192200,
+					"id_str": "1126439726557192193",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Hq9pJUYAEoKg4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6Hq9pJUYAEoKg4.jpg",
+					"url": "https://t.co/hbuVqJP77V",
+					"display_url": "pic.twitter.com/hbuVqJP77V",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1126439737336651776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 501,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 841,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 841,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65106,
+			"friends_count": 29416,
+			"listed_count": 1356,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17342,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Moral of the story: learn basic #javascript so you don’t get hoodwinked by #AI buzzwords. #machinelearning 😂😂😂\n\nVia @MitsukuChatbot https://t.co/hbuVqJP77V"
+	},
+	{
 		"created_at": "Thu May 09 10:52:16 +0000 2019",
 		"id": 1126439737336651800,
 		"id_str": "1126439737336651776",
