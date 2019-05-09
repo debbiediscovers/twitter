@@ -1,6 +1,534 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 09:02:39 +0000 2019",
+		"id": 1125011434620866600,
+		"id_str": "1126412152892342273",
+		"full_text": "“Our Kids Are Losing Their Empathy &amp; Technology Has A Lot to Do With It” by @alonsh https://t.co/AvrQPFmi7S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alonsh",
+					"name": "Alon Shwartz",
+					"id": 8342592,
+					"id_str": "8342592",
+					"indices": [
+						80,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AvrQPFmi7S",
+					"expanded_url": "https://link.medium.com/d6O19cVsrW",
+					"display_url": "link.medium.com/d6O19cVsrW",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3188621004,
+			"id_str": "3188621004",
+			"name": "Little Coders SG",
+			"screen_name": "littlecoderssg",
+			"location": "Singapore",
+			"description": "Code ambassadors supporting the kids coding movement globally. #AI powered content. 🤖😻",
+			"url": "https://t.co/gVziiEL7vp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gVziiEL7vp",
+							"expanded_url": "https://www.facebook.com/littlecoderssg",
+							"display_url": "facebook.com/littlecoderssg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4391,
+			"friends_count": 3319,
+			"listed_count": 86,
+			"created_at": "Fri May 08 11:37:06 +0000 2015",
+			"favourites_count": 1248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2678,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/660828387716411392/vWWGDPJK_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/660828387716411392/vWWGDPJK_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3188621004/1431619481",
+			"profile_link_color": "7BD7C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Our Kids Are Losing Their Empathy &amp; Technology Has A Lot to Do With It” by @alonsh https://t.co/AvrQPFmi7S"
+	},
+	{
+		"created_at": "Thu May 09 09:02:20 +0000 2019",
+		"id": 1125915039909597200,
+		"id_str": "1126412073389309952",
+		"full_text": "\"Think about what you want to learn and make a commitment to learning it in front of others\" - @austinkleon Show Your Work. #LOVETHIS!! https://t.co/f1cKxahOwx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOVETHIS",
+					"indices": [
+						124,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "austinkleon",
+					"name": "Austin Kleon",
+					"id": 9698942,
+					"id_str": "9698942",
+					"indices": [
+						95,
+						107
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125914945076334600,
+					"id_str": "1125914945076334592",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D6ANrVyUEAAkggD.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6ANrVyUEAAkggD.png",
+					"url": "https://t.co/f1cKxahOwx",
+					"display_url": "pic.twitter.com/f1cKxahOwx",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1125915039909597186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 401,
+							"h": 242,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 401,
+							"h": 242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 401,
+							"h": 242,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125914945076334600,
+					"id_str": "1125914945076334592",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D6ANrVyUEAAkggD.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6ANrVyUEAAkggD.png",
+					"url": "https://t.co/f1cKxahOwx",
+					"display_url": "pic.twitter.com/f1cKxahOwx",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1125915039909597186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 401,
+							"h": 242,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 401,
+							"h": 242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 401,
+							"h": 242,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65082,
+			"friends_count": 29411,
+			"listed_count": 1356,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17340,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Think about what you want to learn and make a commitment to learning it in front of others\" - @austinkleon Show Your Work. #LOVETHIS!! https://t.co/f1cKxahOwx"
+	},
+	{
+		"created_at": "Thu May 09 08:30:18 +0000 2019",
+		"id": 1126404010410307600,
+		"id_str": "1126404010410307584",
+		"full_text": "@brothergoldtoe @chatbotsmag @MattPRD https://t.co/Z9MbFGsNJC",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brothergoldtoe",
+					"name": "Brother Gold Toe",
+					"id": 788224108819382300,
+					"id_str": "788224108819382273",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "chatbotsmag",
+					"name": "Chatbots Magazine",
+					"id": 742101822039412700,
+					"id_str": "742101822039412736",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "MattPRD",
+					"name": "Matt Schlicht",
+					"id": 9103922,
+					"id_str": "9103922",
+					"indices": [
+						29,
+						37
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126404001409323000,
+					"id_str": "1126404001409323013",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D6HKeKmU0AUDnPM.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6HKeKmU0AUDnPM.jpg",
+					"url": "https://t.co/Z9MbFGsNJC",
+					"display_url": "pic.twitter.com/Z9MbFGsNJC",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1126404010410307584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 370,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 370,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 370,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126404001409323000,
+					"id_str": "1126404001409323013",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D6HKeKmU0AUDnPM.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6HKeKmU0AUDnPM.jpg",
+					"url": "https://t.co/Z9MbFGsNJC",
+					"display_url": "pic.twitter.com/Z9MbFGsNJC",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1126404010410307584/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 370,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 370,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 370,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							37,
+							30
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D6HKeKmU0AUDnPM.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1126380015631859700,
+		"in_reply_to_status_id_str": "1126380015631859713",
+		"in_reply_to_user_id": 788224108819382300,
+		"in_reply_to_user_id_str": "788224108819382273",
+		"in_reply_to_screen_name": "brothergoldtoe",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65082,
+			"friends_count": 29411,
+			"listed_count": 1356,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17340,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@brothergoldtoe @chatbotsmag @MattPRD https://t.co/Z9MbFGsNJC"
+	},
+	{
 		"created_at": "Thu May 09 02:16:50 +0000 2019",
 		"id": 1126310026417565700,
 		"id_str": "1126310026417565696",
