@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 10 08:06:44 +0000 2019",
+		"id": 1126760469836906500,
+		"id_str": "1126760469836906497",
+		"full_text": "@labordeolivier @jbonnel @Nad_Alves @Sylswan @asourcival @FabriceFrossard @celiaimmo06 @FredericHinix @celine_forest @hillairepatrice @EuroTechWeek @emiliemarquois @Christo33Dumont @leandredacosta @FlashTweet @NathOllier @roiduecommerce Happy Friday! Right back at ya!! https://t.co/dcBwsAhHRa",
+		"truncated": false,
+		"display_text_range": [
+			237,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "labordeolivier",
+					"name": "Olivier Laborde 🏄‍♂️🏝",
+					"id": 409997594,
+					"id_str": "409997594",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "jbonnel",
+					"name": "Julien Bonnel",
+					"id": 14171812,
+					"id_str": "14171812",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"screen_name": "Nad_Alves",
+					"name": "⭐️⭐️ Nadia Bahhar-Alves ⚡️",
+					"id": 159064294,
+					"id_str": "159064294",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"screen_name": "Sylswan",
+					"name": "Sylvie Lachkar",
+					"id": 275515702,
+					"id_str": "275515702",
+					"indices": [
+						36,
+						44
+					]
+				},
+				{
+					"screen_name": "asourcival",
+					"name": "OURCIVAL Anne-Sophie",
+					"id": 141507783,
+					"id_str": "141507783",
+					"indices": [
+						45,
+						56
+					]
+				},
+				{
+					"screen_name": "FabriceFrossard",
+					"name": "Fabrice Frossard",
+					"id": 37660948,
+					"id_str": "37660948",
+					"indices": [
+						57,
+						73
+					]
+				},
+				{
+					"screen_name": "celiaimmo06",
+					"name": "Celia06",
+					"id": 1007068262,
+					"id_str": "1007068262",
+					"indices": [
+						74,
+						86
+					]
+				},
+				{
+					"screen_name": "FredericHinix",
+					"name": "Frédéric Hinix",
+					"id": 92318876,
+					"id_str": "92318876",
+					"indices": [
+						87,
+						101
+					]
+				},
+				{
+					"screen_name": "celine_forest",
+					"name": "Céline Forest",
+					"id": 866573684756156400,
+					"id_str": "866573684756156416",
+					"indices": [
+						102,
+						116
+					]
+				},
+				{
+					"screen_name": "hillairepatrice",
+					"name": "👁 Patrice Hillaire 👁",
+					"id": 157260156,
+					"id_str": "157260156",
+					"indices": [
+						117,
+						133
+					]
+				},
+				{
+					"screen_name": "EuroTechWeek",
+					"name": "Euro Tech Week",
+					"id": 773070785200136200,
+					"id_str": "773070785200136192",
+					"indices": [
+						134,
+						147
+					]
+				},
+				{
+					"screen_name": "emiliemarquois",
+					"name": "Emilie Marquois",
+					"id": 11716782,
+					"id_str": "11716782",
+					"indices": [
+						148,
+						163
+					]
+				},
+				{
+					"screen_name": "Christo33Dumont",
+					"name": "Christophe Dumont #Vivatech",
+					"id": 938529066914844700,
+					"id_str": "938529066914844673",
+					"indices": [
+						164,
+						180
+					]
+				},
+				{
+					"screen_name": "leandredacosta",
+					"name": "Léandre DA COSTA",
+					"id": 2363053516,
+					"id_str": "2363053516",
+					"indices": [
+						181,
+						196
+					]
+				},
+				{
+					"screen_name": "FlashTweet",
+					"name": "FlashTweet ⚡️",
+					"id": 115065053,
+					"id_str": "115065053",
+					"indices": [
+						197,
+						208
+					]
+				},
+				{
+					"screen_name": "NathOllier",
+					"name": "Nathalie Ollier",
+					"id": 48054141,
+					"id_str": "48054141",
+					"indices": [
+						209,
+						220
+					]
+				},
+				{
+					"screen_name": "roiduecommerce",
+					"name": "🎯 Roi du e-commerce #PME #ecommerce !",
+					"id": 326088488,
+					"id_str": "326088488",
+					"indices": [
+						221,
+						236
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126760457925042200,
+					"id_str": "1126760457925042176",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D6MOqqmUIAAp9OX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6MOqqmUIAAp9OX.jpg",
+					"url": "https://t.co/dcBwsAhHRa",
+					"display_url": "pic.twitter.com/dcBwsAhHRa",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1126760469836906497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 100,
+							"h": 100,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 100,
+							"h": 100,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 100,
+							"h": 100,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 100,
+							"h": 100,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126760457925042200,
+					"id_str": "1126760457925042176",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D6MOqqmUIAAp9OX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6MOqqmUIAAp9OX.jpg",
+					"url": "https://t.co/dcBwsAhHRa",
+					"display_url": "pic.twitter.com/dcBwsAhHRa",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1126760469836906497/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 100,
+							"h": 100,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 100,
+							"h": 100,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 100,
+							"h": 100,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 100,
+							"h": 100,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D6MOqqmUIAAp9OX.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1126725334508773400,
+		"in_reply_to_status_id_str": "1126725334508773381",
+		"in_reply_to_user_id": 409997594,
+		"in_reply_to_user_id_str": "409997594",
+		"in_reply_to_screen_name": "labordeolivier",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65144,
+			"friends_count": 29424,
+			"listed_count": 1355,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17344,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@labordeolivier @jbonnel @Nad_Alves @Sylswan @asourcival @FabriceFrossard @celiaimmo06 @FredericHinix @celine_forest @hillairepatrice @EuroTechWeek @emiliemarquois @Christo33Dumont @leandredacosta @FlashTweet @NathOllier @roiduecommerce Happy Friday! Right back at ya!! https://t.co/dcBwsAhHRa"
+	},
+	{
 		"created_at": "Fri May 10 05:16:21 +0000 2019",
 		"id": 1126717589676159000,
 		"id_str": "1126717589676158976",
