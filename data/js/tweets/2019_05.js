@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 17 17:33:38 +0000 2019",
+		"id": 1128873611274723300,
+		"id_str": "1129439849361027072",
+		"full_text": "The ultimate list of biohacks and smart drugs:\n\n-Drink more water\n-Get 8 hours of sleep\n-Walk outside in the sun\n-Leave your phone on silent\n-Read a few pages each day\n-Eat more vegetables and greens\n-Don’t hang out with toxic people\n-Work on projects you care about",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226428094,
+			"id_str": "226428094",
+			"name": "James Clear",
+			"screen_name": "JamesClear",
+			"location": "Columbus, OH",
+			"description": "Author of the NYT bestseller, Atomic Habits (https://t.co/S97QUDuBUa). I write about how to build good habits and break bad ones. Join 450,000+ and read my newsletter.",
+			"url": "https://t.co/lbVSKdQZFr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lbVSKdQZFr",
+							"expanded_url": "http://jamesclear.com/newsletter",
+							"display_url": "jamesclear.com/newsletter",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/S97QUDuBUa",
+							"expanded_url": "http://atomichabits.com",
+							"display_url": "atomichabits.com",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 153804,
+			"friends_count": 314,
+			"listed_count": 2866,
+			"created_at": "Tue Dec 14 03:58:09 +0000 2010",
+			"favourites_count": 5662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958932211973152769/FUpkmn4u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958932211973152769/FUpkmn4u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226428094/1557171326",
+			"profile_link_color": "0071BC",
+			"profile_sidebar_border_color": "E3E3E3",
+			"profile_sidebar_fill_color": "D1EDFF",
+			"profile_text_color": "222222",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6997,
+		"favorite_count": 26064,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The ultimate list of biohacks and smart drugs:\n\n-Drink more water\n-Get 8 hours of sleep\n-Walk outside in the sun\n-Leave your phone on silent\n-Read a few pages each day\n-Eat more vegetables and greens\n-Don’t hang out with toxic people\n-Work on projects you care about"
+	},
+	{
 		"created_at": "Fri May 17 16:44:09 +0000 2019",
 		"id": 1129357263603286000,
 		"id_str": "1129427396845694978",
