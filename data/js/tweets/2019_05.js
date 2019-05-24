@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 24 12:02:51 +0000 2019",
+		"id": 1131705360991961100,
+		"id_str": "1131893317161984000",
+		"full_text": "Thanks for feature @serpline_ and big shoutout to @agorapulse my favourite SMM tool! \n\n72 Experts Share Amazing SMM Tools That Rock The Web [2019] https://t.co/QkVtDvWTL7 … via @serpline_ https://t.co/IrTmajasHW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "serpline_",
+					"name": "Marko Velickovic",
+					"id": 816398713711104000,
+					"id_str": "816398713711104000",
+					"indices": [
+						19,
+						29
+					]
+				},
+				{
+					"screen_name": "Agorapulse",
+					"name": "Agorapulse",
+					"id": 281546383,
+					"id_str": "281546383",
+					"indices": [
+						50,
+						61
+					]
+				},
+				{
+					"screen_name": "serpline_",
+					"name": "Marko Velickovic",
+					"id": 816398713711104000,
+					"id_str": "816398713711104000",
+					"indices": [
+						177,
+						187
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QkVtDvWTL7",
+					"expanded_url": "https://serpline.com/social-media-marketing-tools/#deborah-kay",
+					"display_url": "serpline.com/social-media-m…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1131705331082518500,
+					"id_str": "1131705331082518529",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/D7SgAKmW4AEQfCO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7SgAKmW4AEQfCO.jpg",
+					"url": "https://t.co/IrTmajasHW",
+					"display_url": "pic.twitter.com/IrTmajasHW",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1131705360991961088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1007,
+							"h": 503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1007,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131705331082518500,
+					"id_str": "1131705331082518529",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/D7SgAKmW4AEQfCO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7SgAKmW4AEQfCO.jpg",
+					"url": "https://t.co/IrTmajasHW",
+					"display_url": "pic.twitter.com/IrTmajasHW",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1131705360991961088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1007,
+							"h": 503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1007,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65379,
+			"friends_count": 29938,
+			"listed_count": 1361,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks for feature @serpline_ and big shoutout to @agorapulse my favourite SMM tool! \n\n72 Experts Share Amazing SMM Tools That Rock The Web [2019] https://t.co/QkVtDvWTL7 … via @serpline_ https://t.co/IrTmajasHW"
+	},
+	{
 		"created_at": "Fri May 24 07:15:33 +0000 2019",
 		"id": 1131705360991961100,
 		"id_str": "1131821018937417729",
