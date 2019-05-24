@@ -1,6 +1,158 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 24 22:49:08 +0000 2019",
+		"id": 1131951238864490500,
+		"id_str": "1132055961823137792",
+		"full_text": "@debbiediscovers claims… my favorite #SMM tool is @Agorapulse... Read why and discover more #socialmedia marketing insights @ https://t.co/pW1T7V3mab",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMM",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "socialmedia",
+					"indices": [
+						92,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Agorapulse",
+					"name": "Agorapulse",
+					"id": 281546383,
+					"id_str": "281546383",
+					"indices": [
+						50,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pW1T7V3mab",
+					"expanded_url": "https://serpline.com/social-media-marketing-tools/#deborah-kay",
+					"display_url": "serpline.com/social-media-m…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 10236942,
+			"id_str": "10236942",
+			"name": "Codrut Turcanu 😘 Sharing Inspiration 😎",
+			"screen_name": "CodrutTurcanu",
+			"location": "Worldwide",
+			"description": "The go-to #B2B #Copywriter for pro #bloggers & companies. Do NOT hire me unless you're ready to save time, and get results! Let's TALK: https://t.co/jm8DfnhcVJ",
+			"url": "http://t.co/TecDVE1Mk6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/TecDVE1Mk6",
+							"expanded_url": "http://CodrutTurcanu.com",
+							"display_url": "CodrutTurcanu.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jm8DfnhcVJ",
+							"expanded_url": "http://bit.ly/2VJgJNa",
+							"display_url": "bit.ly/2VJgJNa",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1499,
+			"friends_count": 68,
+			"listed_count": 227,
+			"created_at": "Wed Nov 14 04:32:50 +0000 2007",
+			"favourites_count": 6523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076851915181428736/_Yi1BBaO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076851915181428736/_Yi1BBaO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10236942/1553110570",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "111111",
+			"profile_sidebar_fill_color": "DEE9DD",
+			"profile_text_color": "111111",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@debbiediscovers claims… my favorite #SMM tool is @Agorapulse... Read why and discover more #socialmedia marketing insights @ https://t.co/pW1T7V3mab"
+	},
+	{
 		"created_at": "Fri May 24 16:28:59 +0000 2019",
 		"id": 1131705360991961100,
 		"id_str": "1131960292798107648",
