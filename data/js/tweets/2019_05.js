@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 30 08:13:24 +0000 2019",
+		"id": 1134004776654516200,
+		"id_str": "1134009904518258688",
+		"full_text": "My thoughts on https://t.co/RmJgI6wcvs on @ProductHunt cc @debbiediscovers https://t.co/2cqiY9V9m8 https://t.co/AB4Lk40PGA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProductHunt",
+					"name": "Product Hunt",
+					"id": 2208027565,
+					"id_str": "2208027565",
+					"indices": [
+						42,
+						54
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						58,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RmJgI6wcvs",
+					"expanded_url": "http://Janis.ai",
+					"display_url": "Janis.ai",
+					"indices": [
+						15,
+						38
+					]
+				},
+				{
+					"url": "https://t.co/2cqiY9V9m8",
+					"expanded_url": "https://www.producthunt.com/posts/janis-ai#comment-776895",
+					"display_url": "producthunt.com/posts/janis-ai…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1134004775299760100,
+					"id_str": "1134004775299760129",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/D7zLVb1WwAELIwz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7zLVb1WwAELIwz.jpg",
+					"url": "https://t.co/AB4Lk40PGA",
+					"display_url": "pic.twitter.com/AB4Lk40PGA",
+					"expanded_url": "https://twitter.com/joshbarkin/status/1134004776654516224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 616,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 616,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 616,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134004775299760100,
+					"id_str": "1134004775299760129",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/D7zLVb1WwAELIwz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7zLVb1WwAELIwz.jpg",
+					"url": "https://t.co/AB4Lk40PGA",
+					"display_url": "pic.twitter.com/AB4Lk40PGA",
+					"expanded_url": "https://twitter.com/joshbarkin/status/1134004776654516224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 616,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 616,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 616,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.producthunt.com\" rel=\"nofollow\">Product Hunt</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112184669,
+			"id_str": "112184669",
+			"name": "Josh Barkin",
+			"screen_name": "joshbarkin",
+			"location": "",
+			"description": "Co-founder @GetJanis / Product Designer & UX Engineer / Musician",
+			"url": "https://t.co/8gUM9f1mTC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8gUM9f1mTC",
+							"expanded_url": "https://www.janis.ai",
+							"display_url": "janis.ai",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 217,
+			"listed_count": 27,
+			"created_at": "Sun Feb 07 14:54:49 +0000 2010",
+			"favourites_count": 203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/657077765959766016/wE_pH36L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/657077765959766016/wE_pH36L_normal.jpg",
+			"profile_link_color": "32A5E3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My thoughts on https://t.co/RmJgI6wcvs on @ProductHunt cc @debbiediscovers https://t.co/2cqiY9V9m8 https://t.co/AB4Lk40PGA"
+	},
+	{
 		"created_at": "Thu May 30 07:29:00 +0000 2019",
 		"id": 1133998728413614100,
 		"id_str": "1133998728413614081",
