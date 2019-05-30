@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 30 07:29:00 +0000 2019",
+		"id": 1133998728413614100,
+		"id_str": "1133998728413614081",
+		"full_text": "#UPVOTE NOW!! @getjanis - https://t.co/k44iLjlw1P: A Slack bot that helps businesses integrate #AI https://t.co/Kbtdymm9op via @debbiediscovers with makers @joshbarkin and @mnatha https://t.co/djnoXhPLRN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UPVOTE",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						95,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GetJanis",
+					"name": "Janis",
+					"id": 3298844350,
+					"id_str": "3298844350",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						127,
+						143
+					]
+				},
+				{
+					"screen_name": "joshbarkin",
+					"name": "Josh Barkin",
+					"id": 112184669,
+					"id_str": "112184669",
+					"indices": [
+						156,
+						167
+					]
+				},
+				{
+					"screen_name": "mnatha",
+					"name": "Michael",
+					"id": 1843051,
+					"id_str": "1843051",
+					"indices": [
+						172,
+						179
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/k44iLjlw1P",
+					"expanded_url": "http://Janis.ai",
+					"display_url": "Janis.ai",
+					"indices": [
+						26,
+						49
+					]
+				},
+				{
+					"url": "https://t.co/Kbtdymm9op",
+					"expanded_url": "https://www.producthunt.com/posts/janis-ai",
+					"display_url": "producthunt.com/posts/janis-ai",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1133998726840823800,
+					"id_str": "1133998726840823813",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D7zF1XkXsAUhlOa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7zF1XkXsAUhlOa.jpg",
+					"url": "https://t.co/djnoXhPLRN",
+					"display_url": "pic.twitter.com/djnoXhPLRN",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1133998728413614081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133998726840823800,
+					"id_str": "1133998726840823813",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D7zF1XkXsAUhlOa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7zF1XkXsAUhlOa.jpg",
+					"url": "https://t.co/djnoXhPLRN",
+					"display_url": "pic.twitter.com/djnoXhPLRN",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1133998728413614081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.producthunt.com\" rel=\"nofollow\">Product Hunt</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65358,
+			"friends_count": 30025,
+			"listed_count": 1363,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#UPVOTE NOW!! @getjanis - https://t.co/k44iLjlw1P: A Slack bot that helps businesses integrate #AI https://t.co/Kbtdymm9op via @debbiediscovers with makers @joshbarkin and @mnatha https://t.co/djnoXhPLRN"
+	},
+	{
 		"created_at": "Thu May 30 03:54:56 +0000 2019",
 		"id": 1133707753476640800,
 		"id_str": "1133944858039574529",
