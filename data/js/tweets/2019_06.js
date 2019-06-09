@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 09 13:37:51 +0000 2019",
+		"id": 1137509641309474800,
+		"id_str": "1137715430846427136",
+		"full_text": "It’s not a lack of money that we should we be pursuing, but a lack of angst, a lack of need, a lack of resentment, and a lack of insecurity.\n\nThat’s the simple truth of what wealth is. #dailystoic https://t.co/7PrE4gnoaR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dailystoic",
+					"indices": [
+						185,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1137509630735556600,
+					"id_str": "1137509630735556608",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/D8k--3yUIAAZxoD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8k--3yUIAAZxoD.jpg",
+					"url": "https://t.co/7PrE4gnoaR",
+					"display_url": "pic.twitter.com/7PrE4gnoaR",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1137509641309474816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 732,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 732,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 442,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137509630735556600,
+					"id_str": "1137509630735556608",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/D8k--3yUIAAZxoD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8k--3yUIAAZxoD.jpg",
+					"url": "https://t.co/7PrE4gnoaR",
+					"display_url": "pic.twitter.com/7PrE4gnoaR",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1137509641309474816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 732,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 732,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 442,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65431,
+			"friends_count": 30409,
+			"listed_count": 1362,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s not a lack of money that we should we be pursuing, but a lack of angst, a lack of need, a lack of resentment, and a lack of insecurity.\n\nThat’s the simple truth of what wealth is. #dailystoic https://t.co/7PrE4gnoaR"
+	},
+	{
 		"created_at": "Sun Jun 09 11:01:16 +0000 2019",
 		"id": 1137509641309474800,
 		"id_str": "1137676027885379585",
