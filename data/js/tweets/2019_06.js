@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 16 07:56:28 +0000 2019",
+		"id": 1140166235994247200,
+		"id_str": "1140166235994247168",
+		"full_text": "@MusicComposer1 @sarbjeetjohal @NevilleGaunt @alvinfoo @MotorcycleTwitt @TheRudinGroup @arlenenewbigg @IanLJones98 @IanKnowlson @IainLJBrown @Fisher85M @KirkDBorne @dez_blanchfield @DioFavatas @debraruh @JimMarous @jgodard2 @Xbond49 @psb_dc @JolaBurnett @Shirastweet @EliseQuevedo @ipfconline1 @AmandaRay02 😂😂😂",
+		"truncated": false,
+		"display_text_range": [
+			307,
+			310
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MusicComposer1",
+					"name": "Paul Colmer 🎸☁️🤖🚀🇦🇺",
+					"id": 34564752,
+					"id_str": "34564752",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "sarbjeetjohal",
+					"name": "Sarbjeet Johal",
+					"id": 22168349,
+					"id_str": "22168349",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "NevilleGaunt",
+					"name": "Neville Gaunt 💡💡💡",
+					"id": 351408233,
+					"id_str": "351408233",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"screen_name": "alvinfoo",
+					"name": "Alvin Foo",
+					"id": 794815,
+					"id_str": "794815",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"screen_name": "MotorcycleTwitt",
+					"name": "Dave Lerner",
+					"id": 2297381593,
+					"id_str": "2297381593",
+					"indices": [
+						55,
+						71
+					]
+				},
+				{
+					"screen_name": "TheRudinGroup",
+					"name": "🛫 April Rudin 🌏",
+					"id": 176184142,
+					"id_str": "176184142",
+					"indices": [
+						72,
+						86
+					]
+				},
+				{
+					"screen_name": "arlenenewbigg",
+					"name": "arlene newbigging",
+					"id": 546313843,
+					"id_str": "546313843",
+					"indices": [
+						87,
+						101
+					]
+				},
+				{
+					"screen_name": "IanLJones98",
+					"name": "Ian Jones",
+					"id": 55230288,
+					"id_str": "55230288",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"screen_name": "IanKnowlson",
+					"name": "Ian Knowlson 📈",
+					"id": 348923789,
+					"id_str": "348923789",
+					"indices": [
+						115,
+						127
+					]
+				},
+				{
+					"screen_name": "IainLJBrown",
+					"name": "Iain Brown, PhD",
+					"id": 467513287,
+					"id_str": "467513287",
+					"indices": [
+						128,
+						140
+					]
+				},
+				{
+					"screen_name": "Fisher85M",
+					"name": "Michael Fisher",
+					"id": 846014785246367700,
+					"id_str": "846014785246367745",
+					"indices": [
+						141,
+						151
+					]
+				},
+				{
+					"screen_name": "KirkDBorne",
+					"name": "Kirk Borne",
+					"id": 534563976,
+					"id_str": "534563976",
+					"indices": [
+						152,
+						163
+					]
+				},
+				{
+					"screen_name": "dez_blanchfield",
+					"name": "Dez Blanchfield",
+					"id": 34181507,
+					"id_str": "34181507",
+					"indices": [
+						164,
+						180
+					]
+				},
+				{
+					"screen_name": "DioFavatas",
+					"name": "Dionisios Favatas",
+					"id": 16186656,
+					"id_str": "16186656",
+					"indices": [
+						181,
+						192
+					]
+				},
+				{
+					"screen_name": "debraruh",
+					"name": "Debra Ruh",
+					"id": 17905508,
+					"id_str": "17905508",
+					"indices": [
+						193,
+						202
+					]
+				},
+				{
+					"screen_name": "JimMarous",
+					"name": "Jim Marous",
+					"id": 16137442,
+					"id_str": "16137442",
+					"indices": [
+						203,
+						213
+					]
+				},
+				{
+					"screen_name": "jgodard2",
+					"name": "Jimmy Godard",
+					"id": 55169358,
+					"id_str": "55169358",
+					"indices": [
+						214,
+						223
+					]
+				},
+				{
+					"screen_name": "Xbond49",
+					"name": "Xavier Gomez",
+					"id": 235684766,
+					"id_str": "235684766",
+					"indices": [
+						224,
+						232
+					]
+				},
+				{
+					"screen_name": "psb_dc",
+					"name": "Theo - 劉䂀曼",
+					"id": 2908107542,
+					"id_str": "2908107542",
+					"indices": [
+						233,
+						240
+					]
+				},
+				{
+					"screen_name": "JolaBurnett",
+					"name": "Jola Burnett 🌟",
+					"id": 4174252223,
+					"id_str": "4174252223",
+					"indices": [
+						241,
+						253
+					]
+				},
+				{
+					"screen_name": "Shirastweet",
+					"name": "Shira Rubinoff",
+					"id": 384916348,
+					"id_str": "384916348",
+					"indices": [
+						254,
+						266
+					]
+				},
+				{
+					"screen_name": "EliseQuevedo",
+					"name": "Elise Quevedo",
+					"id": 26311140,
+					"id_str": "26311140",
+					"indices": [
+						267,
+						280
+					]
+				},
+				{
+					"screen_name": "ipfconline1",
+					"name": "ipfconline #DA19eu",
+					"id": 705539763349164000,
+					"id_str": "705539763349164032",
+					"indices": [
+						281,
+						293
+					]
+				},
+				{
+					"screen_name": "AmandaRay02",
+					"name": "Amanda Ray",
+					"id": 2240373626,
+					"id_str": "2240373626",
+					"indices": [
+						294,
+						306
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1140105982061662200,
+		"in_reply_to_status_id_str": "1140105982061662211",
+		"in_reply_to_user_id": 34564752,
+		"in_reply_to_user_id_str": "34564752",
+		"in_reply_to_screen_name": "MusicComposer1",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65324,
+			"friends_count": 30036,
+			"listed_count": 1349,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@MusicComposer1 @sarbjeetjohal @NevilleGaunt @alvinfoo @MotorcycleTwitt @TheRudinGroup @arlenenewbigg @IanLJones98 @IanKnowlson @IainLJBrown @Fisher85M @KirkDBorne @dez_blanchfield @DioFavatas @debraruh @JimMarous @jgodard2 @Xbond49 @psb_dc @JolaBurnett @Shirastweet @EliseQuevedo @ipfconline1 @AmandaRay02 😂😂😂"
+	},
+	{
 		"created_at": "Fri Jun 14 08:45:48 +0000 2019",
 		"id": 1139193376761372700,
 		"id_str": "1139453875956535296",
