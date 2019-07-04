@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 04 10:44:46 +0000 2019",
+		"id": 1142068351855943700,
+		"id_str": "1146731571442905094",
+		"full_text": "If you keep your eyes on the cross the faces become weird. https://t.co/EdkEJwRbUc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077279108248293400,
+					"id_str": "1077279108248293379",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1077279108248293379/pu/img/xa5nHeBeH2P_Sc9u.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1077279108248293379/pu/img/xa5nHeBeH2P_Sc9u.jpg",
+					"url": "https://t.co/EdkEJwRbUc",
+					"display_url": "pic.twitter.com/EdkEJwRbUc",
+					"expanded_url": "https://twitter.com/DannyDutch/status/1142068351855943683/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077279108248293400,
+					"id_str": "1077279108248293379",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1077279108248293379/pu/img/xa5nHeBeH2P_Sc9u.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1077279108248293379/pu/img/xa5nHeBeH2P_Sc9u.jpg",
+					"url": "https://t.co/EdkEJwRbUc",
+					"display_url": "pic.twitter.com/EdkEJwRbUc",
+					"expanded_url": "https://twitter.com/DannyDutch/status/1142068351855943683/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 46100,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1077279108248293379/pu/pl/VSifG6vHU9Vrs1mA.m3u8?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1077279108248293379/pu/vid/640x360/pYmwxULYsFUUBhGL.mp4?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1077279108248293379/pu/vid/854x480/1AzIdQf4WLbTTtdh.mp4?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1077279108248293379/pu/vid/320x180/hQSXEQjRde4Re7_S.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20857273,
+			"id_str": "20857273",
+			"name": "Daniel",
+			"screen_name": "DannyDutch",
+			"location": "United Kingdom",
+			"description": "In love with art, nice words, design, history and imaginative heists. ▪️ https://t.co/gyNVnQ4nR2",
+			"url": "https://t.co/fWonM1NzZh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fWonM1NzZh",
+							"expanded_url": "https://www.etsy.com/uk/shop/DannyDutch",
+							"display_url": "etsy.com/uk/shop/DannyD…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gyNVnQ4nR2",
+							"expanded_url": "http://www.instagram.com/dannydutch/",
+							"display_url": "instagram.com/dannydutch/",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 31686,
+			"friends_count": 2642,
+			"listed_count": 725,
+			"created_at": "Sat Feb 14 16:52:47 +0000 2009",
+			"favourites_count": 33624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/825437968315871234/bkIEMEcs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/825437968315871234/bkIEMEcs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20857273/1537351272",
+			"profile_link_color": "11A0D4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2689,
+		"favorite_count": 6253,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you keep your eyes on the cross the faces become weird. https://t.co/EdkEJwRbUc"
+	},
+	{
 		"created_at": "Thu Jul 04 07:26:28 +0000 2019",
 		"id": 1146681668381446100,
 		"id_str": "1146681668381446144",
