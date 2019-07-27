@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 27 10:13:03 +0000 2019",
+		"id": 1154560943629561900,
+		"id_str": "1155058510893162496",
+		"full_text": "On deliberate practice. A good list by @tylercowen https://t.co/6cSJeFqREe https://t.co/3wVjzuVArE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tylercowen",
+					"name": "tylercowen",
+					"id": 8496762,
+					"id_str": "8496762",
+					"indices": [
+						39,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6cSJeFqREe",
+					"expanded_url": "https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html",
+					"display_url": "marginalrevolution.com/marginalrevolu…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1154560933542293500,
+					"id_str": "1154560933542293504",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EAXTDUtU8AABBDm.png",
+					"media_url_https": "https://pbs.twimg.com/media/EAXTDUtU8AABBDm.png",
+					"url": "https://t.co/3wVjzuVArE",
+					"display_url": "pic.twitter.com/3wVjzuVArE",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1154560943629561858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 490,
+							"h": 142,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 490,
+							"h": 142,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 142,
+							"h": 142,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 490,
+							"h": 142,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1154560933542293500,
+					"id_str": "1154560933542293504",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EAXTDUtU8AABBDm.png",
+					"media_url_https": "https://pbs.twimg.com/media/EAXTDUtU8AABBDm.png",
+					"url": "https://t.co/3wVjzuVArE",
+					"display_url": "pic.twitter.com/3wVjzuVArE",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1154560943629561858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 490,
+							"h": 142,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 490,
+							"h": 142,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 142,
+							"h": 142,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 490,
+							"h": 142,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65229,
+			"friends_count": 25515,
+			"listed_count": 1373,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On deliberate practice. A good list by @tylercowen https://t.co/6cSJeFqREe https://t.co/3wVjzuVArE"
+	},
+	{
 		"created_at": "Fri Jul 26 21:57:54 +0000 2019",
 		"id": 1154560943629561900,
 		"id_str": "1154873501968293888",
