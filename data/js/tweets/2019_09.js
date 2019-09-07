@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 07 02:58:11 +0000 2019",
+		"id": 1169843922002038800,
+		"id_str": "1170169362449412097",
+		"full_text": "Chasing sunrise 🤩 \n\nMore on my Instagram stories https://t.co/ObB9neiVbP https://t.co/UBJqDw2K9U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ObB9neiVbP",
+					"expanded_url": "https://Instagram.com/debbiediscovers",
+					"display_url": "Instagram.com/debbiediscovers",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1169843806222504000,
+					"id_str": "1169843806222503936",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1169843806222503936/pu/img/3zWFvl4dXVHg8kBa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1169843806222503936/pu/img/3zWFvl4dXVHg8kBa.jpg",
+					"url": "https://t.co/UBJqDw2K9U",
+					"display_url": "pic.twitter.com/UBJqDw2K9U",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1169843922002038784/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169843806222504000,
+					"id_str": "1169843806222503936",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1169843806222503936/pu/img/3zWFvl4dXVHg8kBa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1169843806222503936/pu/img/3zWFvl4dXVHg8kBa.jpg",
+					"url": "https://t.co/UBJqDw2K9U",
+					"display_url": "pic.twitter.com/UBJqDw2K9U",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1169843922002038784/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 15430,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1169843806222503936/pu/pl/uQoCX74NMvAR7j63.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1169843806222503936/pu/vid/720x1280/rwHrCOJ82adzFqUd.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1169843806222503936/pu/vid/360x640/vypkxPJkAy5P7KWe.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1169843806222503936/pu/vid/320x568/iqEbOGIRu8uzEqIc.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65883,
+			"friends_count": 28206,
+			"listed_count": 1377,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "dfcb0c2e558dd2bc",
+			"url": "https://api.twitter.com/1.1/geo/id/dfcb0c2e558dd2bc.json",
+			"place_type": "city",
+			"name": "Taormina",
+			"full_name": "Taormina, Sicily",
+			"country_code": "IT",
+			"country": "Italy",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							15.2235633,
+							37.8178279
+						],
+						[
+							15.3056273,
+							37.8178279
+						],
+						[
+							15.3056273,
+							37.8782561
+						],
+						[
+							15.2235633,
+							37.8782561
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Chasing sunrise 🤩 \n\nMore on my Instagram stories https://t.co/ObB9neiVbP https://t.co/UBJqDw2K9U"
+	},
+	{
 		"created_at": "Fri Sep 06 11:19:38 +0000 2019",
 		"id": 1169843922002038800,
 		"id_str": "1169933168897605638",
