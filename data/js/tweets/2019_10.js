@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 19 01:47:32 +0000 2019",
+		"id": 1185347994830430200,
+		"id_str": "1185371874714251265",
+		"full_text": "Good morning @WhatsApp  I recently did a dark mode design for your app adding some features too that could less user journey and improve Users Experience using @AdobeXD . https://t.co/8GgBSeJNeB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WhatsApp",
+					"name": "WhatsApp Inc.",
+					"id": 40148479,
+					"id_str": "40148479",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"screen_name": "AdobeXD",
+					"name": "Adobe XD",
+					"id": 3689838915,
+					"id_str": "3689838915",
+					"indices": [
+						160,
+						168
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1185347914480210000,
+					"id_str": "1185347914480209921",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EHMzpeHX0AEoJYW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHMzpeHX0AEoJYW.jpg",
+					"url": "https://t.co/8GgBSeJNeB",
+					"display_url": "pic.twitter.com/8GgBSeJNeB",
+					"expanded_url": "https://twitter.com/okoro__joshua/status/1185347994830430208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1185347914480210000,
+					"id_str": "1185347914480209921",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EHMzpeHX0AEoJYW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHMzpeHX0AEoJYW.jpg",
+					"url": "https://t.co/8GgBSeJNeB",
+					"display_url": "pic.twitter.com/8GgBSeJNeB",
+					"expanded_url": "https://twitter.com/okoro__joshua/status/1185347994830430208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1185347914480193500,
+					"id_str": "1185347914480193537",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EHMzpeHXkAEXT3P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHMzpeHXkAEXT3P.jpg",
+					"url": "https://t.co/8GgBSeJNeB",
+					"display_url": "pic.twitter.com/8GgBSeJNeB",
+					"expanded_url": "https://twitter.com/okoro__joshua/status/1185347994830430208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1185347914484408300,
+					"id_str": "1185347914484408322",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EHMzpeIX4AIdZb0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHMzpeIX4AIdZb0.jpg",
+					"url": "https://t.co/8GgBSeJNeB",
+					"display_url": "pic.twitter.com/8GgBSeJNeB",
+					"expanded_url": "https://twitter.com/okoro__joshua/status/1185347994830430208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1185347914488569900,
+					"id_str": "1185347914488569856",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EHMzpeJXYAAw9v_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHMzpeJXYAAw9v_.jpg",
+					"url": "https://t.co/8GgBSeJNeB",
+					"display_url": "pic.twitter.com/8GgBSeJNeB",
+					"expanded_url": "https://twitter.com/okoro__joshua/status/1185347994830430208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2922126825,
+			"id_str": "2922126825",
+			"name": "Joshua Okoro",
+			"screen_name": "okoro__joshua",
+			"location": "Nigeria",
+			"description": "UI/UX Designer//\nGraphic Designer\n//Ingressive Campus Ambassador//\nCommunity Builder//Believer.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 469,
+			"listed_count": 2,
+			"created_at": "Sun Dec 14 23:33:34 +0000 2014",
+			"favourites_count": 6452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172399891886170114/LplpoHp-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172399891886170114/LplpoHp-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2922126825/1546622329",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 88,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good morning @WhatsApp  I recently did a dark mode design for your app adding some features too that could less user journey and improve Users Experience using @AdobeXD . https://t.co/8GgBSeJNeB"
+	},
+	{
 		"created_at": "Mon Oct 07 21:52:36 +0000 2019",
 		"id": 1181025207403733000,
 		"id_str": "1181326485912612864",
