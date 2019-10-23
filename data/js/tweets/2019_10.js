@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 23 09:11:38 +0000 2019",
+		"id": 1185934821513711600,
+		"id_str": "1186933187898834944",
+		"full_text": "So me and Alyssa took our engagements pictures yesterday. She found a Pinterest picture that she wanted to try and recreate\n.\n.\n.\nI botched it https://t.co/oSSUCB4o6A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1185934815251632000,
+					"id_str": "1185934815251632128",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EHVJbl3XkAAWik9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHVJbl3XkAAWik9.jpg",
+					"url": "https://t.co/oSSUCB4o6A",
+					"display_url": "pic.twitter.com/oSSUCB4o6A",
+					"expanded_url": "https://twitter.com/collinhewett17/status/1185934821513711617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1242,
+							"h": 1674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 505,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 890,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1185934815251632000,
+					"id_str": "1185934815251632128",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EHVJbl3XkAAWik9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHVJbl3XkAAWik9.jpg",
+					"url": "https://t.co/oSSUCB4o6A",
+					"display_url": "pic.twitter.com/oSSUCB4o6A",
+					"expanded_url": "https://twitter.com/collinhewett17/status/1185934821513711617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1242,
+							"h": 1674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 505,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 890,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1185934815499079700,
+					"id_str": "1185934815499079680",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EHVJbmyXUAAhHRg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHVJbmyXUAAhHRg.jpg",
+					"url": "https://t.co/oSSUCB4o6A",
+					"display_url": "pic.twitter.com/oSSUCB4o6A",
+					"expanded_url": "https://twitter.com/collinhewett17/status/1185934821513711617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1185934817885589500,
+					"id_str": "1185934817885589504",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EHVJbvrWkAA1Qb9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHVJbvrWkAA1Qb9.jpg",
+					"url": "https://t.co/oSSUCB4o6A",
+					"display_url": "pic.twitter.com/oSSUCB4o6A",
+					"expanded_url": "https://twitter.com/collinhewett17/status/1185934821513711617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 271080532,
+			"id_str": "271080532",
+			"name": "Big Stack Dibbles Jr",
+			"screen_name": "collinhewett17",
+			"location": "Wherever doesnt get me hit",
+			"description": "I'm back. alyssa snodsmith. Aspiring slow-pitch softball extraordinaire. that's all.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1033,
+			"friends_count": 700,
+			"listed_count": 2,
+			"created_at": "Wed Mar 23 20:33:14 +0000 2011",
+			"favourites_count": 5547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10063,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184125529227743235/p7CiCyI5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184125529227743235/p7CiCyI5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/271080532/1560481622",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56135,
+		"favorite_count": 488733,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So me and Alyssa took our engagements pictures yesterday. She found a Pinterest picture that she wanted to try and recreate\n.\n.\n.\nI botched it https://t.co/oSSUCB4o6A"
+	},
+	{
 		"created_at": "Sun Oct 20 23:22:50 +0000 2019",
 		"id": 1186060233312854000,
 		"id_str": "1186060233312854017",
