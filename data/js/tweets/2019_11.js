@@ -1,6 +1,644 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 20 12:36:45 +0000 2019",
+		"id": 1197131666411536400,
+		"id_str": "1197131666411536385",
+		"full_text": "@lasamsid @PencilsOfPromis I’m in Laos right now checking the schools out! 🤩",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lasamsid",
+					"name": "masdnal",
+					"id": 3177099265,
+					"id_str": "3177099265",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "PencilsOfPromis",
+					"name": "Pencils of Promise",
+					"id": 18369852,
+					"id_str": "18369852",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1195569049263956000,
+		"in_reply_to_status_id_str": "1195569049263955968",
+		"in_reply_to_user_id": 3177099265,
+		"in_reply_to_user_id_str": "3177099265",
+		"in_reply_to_screen_name": "lasamsid",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66553,
+			"friends_count": 27963,
+			"listed_count": 1376,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@lasamsid @PencilsOfPromis I’m in Laos right now checking the schools out! 🤩"
+	},
+	{
+		"created_at": "Wed Nov 20 12:34:43 +0000 2019",
+		"id": 1197131153687269400,
+		"id_str": "1197131153687269376",
+		"full_text": "@realColinMac @alvinfoo @elonmusk @JeroenBartelse @Fabriziobustama @Julez_Norton @JoannMoretti @chboursin @pascal_bornet @ValaAfshar @kuriharan @larrykim @MarshaCollier @LoriMoreno @GlenGilmore @terence_mills @rtehrani @fogle_shane 😂😂😂",
+		"truncated": false,
+		"display_text_range": [
+			232,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realColinMac",
+					"name": "Colin McGuire",
+					"id": 892214142672683000,
+					"id_str": "892214142672683008",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "alvinfoo",
+					"name": "Alvin Foo",
+					"id": 794815,
+					"id_str": "794815",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"screen_name": "elonmusk",
+					"name": "Elon Musk",
+					"id": 44196397,
+					"id_str": "44196397",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"screen_name": "JeroenBartelse",
+					"name": "Jeroen Bartelse",
+					"id": 169089681,
+					"id_str": "169089681",
+					"indices": [
+						34,
+						49
+					]
+				},
+				{
+					"screen_name": "Fabriziobustama",
+					"name": "Fabrizio Bustamante",
+					"id": 326229600,
+					"id_str": "326229600",
+					"indices": [
+						50,
+						66
+					]
+				},
+				{
+					"screen_name": "Julez_Norton",
+					"name": "Julia Norton",
+					"id": 99807930,
+					"id_str": "99807930",
+					"indices": [
+						67,
+						80
+					]
+				},
+				{
+					"screen_name": "JoannMoretti",
+					"name": "Joanne Moretti",
+					"id": 61359492,
+					"id_str": "61359492",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"screen_name": "chboursin",
+					"name": "Christine Boursin 🌐",
+					"id": 3169916217,
+					"id_str": "3169916217",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"screen_name": "pascal_bornet",
+					"name": "Pascal Bornet",
+					"id": 51142785,
+					"id_str": "51142785",
+					"indices": [
+						106,
+						120
+					]
+				},
+				{
+					"screen_name": "ValaAfshar",
+					"name": "Vala Afshar",
+					"id": 259725229,
+					"id_str": "259725229",
+					"indices": [
+						121,
+						132
+					]
+				},
+				{
+					"screen_name": "kuriharan",
+					"name": "Kohei Kurihara   Blockchain CMO",
+					"id": 135922295,
+					"id_str": "135922295",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"screen_name": "larrykim",
+					"name": "Larry Kim",
+					"id": 17850785,
+					"id_str": "17850785",
+					"indices": [
+						144,
+						153
+					]
+				},
+				{
+					"screen_name": "MarshaCollier",
+					"name": "Marsha Collier",
+					"id": 14262772,
+					"id_str": "14262772",
+					"indices": [
+						154,
+						168
+					]
+				},
+				{
+					"screen_name": "LoriMoreno",
+					"name": "LoriMoreno Luxury Brands Voice TravelFoodiesTVcom",
+					"id": 15039436,
+					"id_str": "15039436",
+					"indices": [
+						169,
+						180
+					]
+				},
+				{
+					"screen_name": "GlenGilmore",
+					"name": "Glen Gilmore",
+					"id": 17463660,
+					"id_str": "17463660",
+					"indices": [
+						181,
+						193
+					]
+				},
+				{
+					"screen_name": "terence_mills",
+					"name": "Terence Mills 特伦斯米尔斯",
+					"id": 722592726,
+					"id_str": "722592726",
+					"indices": [
+						194,
+						208
+					]
+				},
+				{
+					"screen_name": "rtehrani",
+					"name": "Rich Tehrani",
+					"id": 5654932,
+					"id_str": "5654932",
+					"indices": [
+						209,
+						218
+					]
+				},
+				{
+					"screen_name": "fogle_shane",
+					"name": "Shane Fogle",
+					"id": 221370308,
+					"id_str": "221370308",
+					"indices": [
+						219,
+						231
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1196578875641188400,
+		"in_reply_to_status_id_str": "1196578875641188352",
+		"in_reply_to_user_id": 892214142672683000,
+		"in_reply_to_user_id_str": "892214142672683008",
+		"in_reply_to_screen_name": "realColinMac",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66553,
+			"friends_count": 27963,
+			"listed_count": 1376,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@realColinMac @alvinfoo @elonmusk @JeroenBartelse @Fabriziobustama @Julez_Norton @JoannMoretti @chboursin @pascal_bornet @ValaAfshar @kuriharan @larrykim @MarshaCollier @LoriMoreno @GlenGilmore @terence_mills @rtehrani @fogle_shane 😂😂😂"
+	},
+	{
+		"created_at": "Wed Nov 20 12:34:20 +0000 2019",
+		"id": 1197131057344086000,
+		"id_str": "1197131057344086016",
+		"full_text": "@TechLifeSteph Super creepy!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TechLifeSteph",
+					"name": "Stephanie Humphrey",
+					"id": 34772317,
+					"id_str": "34772317",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1196926245411442700,
+		"in_reply_to_status_id_str": "1196926245411442694",
+		"in_reply_to_user_id": 34772317,
+		"in_reply_to_user_id_str": "34772317",
+		"in_reply_to_screen_name": "TechLifeSteph",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66553,
+			"friends_count": 27963,
+			"listed_count": 1376,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TechLifeSteph Super creepy!"
+	},
+	{
+		"created_at": "Wed Nov 20 12:34:10 +0000 2019",
+		"id": 1196926245411442700,
+		"id_str": "1197131016256704512",
+		"full_text": "Great resources in this piece - it’s good to know this stuff! RT @debbiediscovers: Little-known companies are amassing your #data — like food orders and Airbnb messages &amp; selling the analysis. Here’s how to get a copy of what they have on you. #creepy  https://t.co/naKPUOeDi8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "data",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "creepy",
+					"indices": [
+						248,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						65,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/naKPUOeDi8",
+					"expanded_url": "https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html",
+					"display_url": "nytimes.com/2019/11/04/bus…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34772317,
+			"id_str": "34772317",
+			"name": "Stephanie Humphrey",
+			"screen_name": "TechLifeSteph",
+			"location": "United States",
+			"description": "Technology contributor @ABC @strahansarakeke | check out my #socialmedia seminar for #students #parents or #professionals!",
+			"url": "https://t.co/tHexUl4lby",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tHexUl4lby",
+							"expanded_url": "http://tildeathdoyoutweet.com",
+							"display_url": "tildeathdoyoutweet.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6034,
+			"friends_count": 2139,
+			"listed_count": 546,
+			"created_at": "Thu Apr 23 23:37:38 +0000 2009",
+			"favourites_count": 10038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853368052196540417/VNmiW-pf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853368052196540417/VNmiW-pf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34772317/1512578798",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great resources in this piece - it’s good to know this stuff! RT @debbiediscovers: Little-known companies are amassing your #data — like food orders and Airbnb messages &amp; selling the analysis. Here’s how to get a copy of what they have on you. #creepy  https://t.co/naKPUOeDi8"
+	},
+	{
 		"created_at": "Thu Nov 14 11:03:53 +0000 2019",
 		"id": 1194933967360680000,
 		"id_str": "1194933967360679936",
