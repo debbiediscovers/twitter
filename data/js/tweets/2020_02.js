@@ -1,6 +1,779 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 08 11:35:30 +0000 2020",
+		"id": 1224462831778594800,
+		"id_str": "1226107281747537921",
+		"full_text": "50 ways to be ridiculously generous — and feel ridiculously good. | Alexandra Franzen\n\n#Loved this! H/T ⁦@tferriss⁩  https://t.co/LNnu8IQixr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Loved",
+					"indices": [
+						87,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tferriss",
+					"name": "Tim Ferriss",
+					"id": 11740902,
+					"id_str": "11740902",
+					"indices": [
+						105,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LNnu8IQixr",
+					"expanded_url": "http://www.alexandrafranzen.com/2013/09/05/50-ways-to-be-ridiculously-generous/",
+					"display_url": "alexandrafranzen.com/2013/09/05/50-…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67671,
+			"friends_count": 31661,
+			"listed_count": 1383,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "50 ways to be ridiculously generous — and feel ridiculously good. | Alexandra Franzen\n\n#Loved this! H/T ⁦@tferriss⁩  https://t.co/LNnu8IQixr"
+	},
+	{
+		"created_at": "Sat Feb 08 11:35:05 +0000 2020",
+		"id": 1225372207393591300,
+		"id_str": "1226107175971348480",
+		"full_text": "In a rule-based #chatbot user often goes off the flow by ignoring the buttons and quick replies.\n\nHas that ever happened with your chatbot??\n\nIf yes, then check out this #awesome #blog by @debbiediscovers to avoid such situations - https://t.co/4QxxkxnaNr\n\n#botosynthesis #AI #ML",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "chatbot",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"text": "awesome",
+					"indices": [
+						170,
+						178
+					]
+				},
+				{
+					"text": "blog",
+					"indices": [
+						179,
+						184
+					]
+				},
+				{
+					"text": "botosynthesis",
+					"indices": [
+						257,
+						271
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						272,
+						275
+					]
+				},
+				{
+					"text": "ML",
+					"indices": [
+						276,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						188,
+						204
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4QxxkxnaNr",
+					"expanded_url": "https://uxdesign.cc/honey-i-built-a-chatbot-but-no-one-will-click-on-my-buttons-b713290c0029",
+					"display_url": "uxdesign.cc/honey-i-built-…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1203363413889450000,
+			"id_str": "1203363413889449984",
+			"name": "Botosynthesis",
+			"screen_name": "botosynthesis",
+			"location": "Sector 4, Hiran Magri, Udaipur",
+			"description": "At Botosynthesis, we aim to create automated solutions which can make peoples lives simpler.",
+			"url": "https://t.co/uw3K9VT8Cg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uw3K9VT8Cg",
+							"expanded_url": "http://www.botosynthesis.com",
+							"display_url": "botosynthesis.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 148,
+			"listed_count": 1,
+			"created_at": "Sat Dec 07 17:19:50 +0000 2019",
+			"favourites_count": 422,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212680524600242176/-88PCrRa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212680524600242176/-88PCrRa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1203363413889449984/1575739816",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In a rule-based #chatbot user often goes off the flow by ignoring the buttons and quick replies.\n\nHas that ever happened with your chatbot??\n\nIf yes, then check out this #awesome #blog by @debbiediscovers to avoid such situations - https://t.co/4QxxkxnaNr\n\n#botosynthesis #AI #ML"
+	},
+	{
+		"created_at": "Sat Feb 08 11:35:01 +0000 2020",
+		"id": 1226107161727524900,
+		"id_str": "1226107161727524864",
+		"full_text": "@botosynthesis Thanks for sharing!! 🙌🙌",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "botosynthesis",
+					"name": "Botosynthesis",
+					"id": 1203363413889450000,
+					"id_str": "1203363413889449984",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1225372207393591300,
+		"in_reply_to_status_id_str": "1225372207393591299",
+		"in_reply_to_user_id": 1203363413889450000,
+		"in_reply_to_user_id_str": "1203363413889449984",
+		"in_reply_to_screen_name": "botosynthesis",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67671,
+			"friends_count": 31661,
+			"listed_count": 1383,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "58a4c3a0d54e1400",
+			"url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json",
+			"place_type": "admin",
+			"name": "Central Region",
+			"full_name": "Central Region, Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.749959507073,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.36874499902569
+						],
+						[
+							103.749959507073,
+							1.36874499902569
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@botosynthesis Thanks for sharing!! 🙌🙌"
+	},
+	{
+		"created_at": "Sat Feb 08 11:34:40 +0000 2020",
+		"id": 1226107069914214400,
+		"id_str": "1226107069914214401",
+		"full_text": "@BrainyB3 @tferriss Me too!! ❤️❤️❤️",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrainyB3",
+					"name": "BrainyBridge3",
+					"id": 1952406606,
+					"id_str": "1952406606",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "tferriss",
+					"name": "Tim Ferriss",
+					"id": 11740902,
+					"id_str": "11740902",
+					"indices": [
+						10,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1225906154980724700,
+		"in_reply_to_status_id_str": "1225906154980724736",
+		"in_reply_to_user_id": 1952406606,
+		"in_reply_to_user_id_str": "1952406606",
+		"in_reply_to_screen_name": "BrainyB3",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67671,
+			"friends_count": 31661,
+			"listed_count": 1383,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BrainyB3 @tferriss Me too!! ❤️❤️❤️"
+	},
+	{
+		"created_at": "Sat Feb 08 11:34:12 +0000 2020",
+		"id": 1226106954340159500,
+		"id_str": "1226106954340159488",
+		"full_text": "@riyuhhhh @7_revealed @avast_antivirus #yanggang 🙌🙌 I even have @AndrewYang’s laugh as my ringtone thanks to @guykawasaki 😁 https://t.co/xf2DNcGxKo",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "yanggang",
+					"indices": [
+						39,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "riyuhhhh",
+					"name": "Daisy K.",
+					"id": 946197415496900600,
+					"id_str": "946197415496900613",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "7_revealed",
+					"name": "Denise",
+					"id": 3027965404,
+					"id_str": "3027965404",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "avast_antivirus",
+					"name": "Avast",
+					"id": 17509045,
+					"id_str": "17509045",
+					"indices": [
+						22,
+						38
+					]
+				},
+				{
+					"screen_name": "AndrewYang",
+					"name": "Andrew Yang🧢",
+					"id": 2228878592,
+					"id_str": "2228878592",
+					"indices": [
+						64,
+						75
+					]
+				},
+				{
+					"screen_name": "GuyKawasaki",
+					"name": "Guy Kawasaki",
+					"id": 8453452,
+					"id_str": "8453452",
+					"indices": [
+						109,
+						121
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226106949088841700,
+					"id_str": "1226106949088841732",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EQQBxiUUEAQjs86.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQQBxiUUEAQjs86.jpg",
+					"url": "https://t.co/xf2DNcGxKo",
+					"display_url": "pic.twitter.com/xf2DNcGxKo",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1226106954340159488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226106949088841700,
+					"id_str": "1226106949088841732",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EQQBxiUUEAQjs86.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQQBxiUUEAQjs86.jpg",
+					"url": "https://t.co/xf2DNcGxKo",
+					"display_url": "pic.twitter.com/xf2DNcGxKo",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1226106954340159488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1226034088097669000,
+		"in_reply_to_status_id_str": "1226034088097669122",
+		"in_reply_to_user_id": 946197415496900600,
+		"in_reply_to_user_id_str": "946197415496900613",
+		"in_reply_to_screen_name": "riyuhhhh",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67671,
+			"friends_count": 31661,
+			"listed_count": 1383,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@riyuhhhh @7_revealed @avast_antivirus #yanggang 🙌🙌 I even have @AndrewYang’s laugh as my ringtone thanks to @guykawasaki 😁 https://t.co/xf2DNcGxKo"
+	},
+	{
 		"created_at": "Wed Feb 05 11:59:11 +0000 2020",
 		"id": 1224462831778594800,
 		"id_str": "1225026078609068035",
