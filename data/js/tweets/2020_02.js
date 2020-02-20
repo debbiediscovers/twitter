@@ -1,6 +1,673 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 20 00:17:13 +0000 2020",
+		"id": 1229660051666718700,
+		"id_str": "1230285241136209920",
+		"full_text": "😃😄😁😂😍😜🤭😭🥺🥰🤣😇\nAn #awesome #Chatbot by @debbiediscovers  that can respond to all of #emojis - https://t.co/XfAMBTNVAV\n\nhttps://t.co/CohkcDHQdf\n\n#chatbots #ai #ml #machinelearning #dialogflow #deeplearning #automation #botosynthesis #technology #bots #emotions #cx #NLP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "awesome",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"text": "Chatbot",
+					"indices": [
+						25,
+						33
+					]
+				},
+				{
+					"text": "emojis",
+					"indices": [
+						82,
+						89
+					]
+				},
+				{
+					"text": "chatbots",
+					"indices": [
+						142,
+						151
+					]
+				},
+				{
+					"text": "ai",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "ml",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "machinelearning",
+					"indices": [
+						160,
+						176
+					]
+				},
+				{
+					"text": "dialogflow",
+					"indices": [
+						177,
+						188
+					]
+				},
+				{
+					"text": "deeplearning",
+					"indices": [
+						189,
+						202
+					]
+				},
+				{
+					"text": "automation",
+					"indices": [
+						203,
+						214
+					]
+				},
+				{
+					"text": "botosynthesis",
+					"indices": [
+						215,
+						229
+					]
+				},
+				{
+					"text": "technology",
+					"indices": [
+						230,
+						241
+					]
+				},
+				{
+					"text": "bots",
+					"indices": [
+						242,
+						247
+					]
+				},
+				{
+					"text": "emotions",
+					"indices": [
+						248,
+						257
+					]
+				},
+				{
+					"text": "cx",
+					"indices": [
+						258,
+						261
+					]
+				},
+				{
+					"text": "NLP",
+					"indices": [
+						262,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						37,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XfAMBTNVAV",
+					"expanded_url": "https://chatbotslife.com/what-if-your-chatbot-could-respond-to-any-emoji-emoji-support-for-dialogflow-bdc5e29967f3",
+					"display_url": "chatbotslife.com/what-if-your-c…",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/CohkcDHQdf",
+					"expanded_url": "http://botosynthesis.com",
+					"display_url": "botosynthesis.com",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1203363413889450000,
+			"id_str": "1203363413889449984",
+			"name": "Botosynthesis",
+			"screen_name": "botosynthesis",
+			"location": "Sector 4, Hiran Magri, Udaipur",
+			"description": "At Botosynthesis, we aim to create automated solutions which can make peoples lives simpler.",
+			"url": "https://t.co/uw3K9VT8Cg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uw3K9VT8Cg",
+							"expanded_url": "http://www.botosynthesis.com",
+							"display_url": "botosynthesis.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 124,
+			"friends_count": 401,
+			"listed_count": 1,
+			"created_at": "Sat Dec 07 17:19:50 +0000 2019",
+			"favourites_count": 634,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212680524600242176/-88PCrRa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212680524600242176/-88PCrRa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1203363413889449984/1575739816",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "😃😄😁😂😍😜🤭😭🥺🥰🤣😇\nAn #awesome #Chatbot by @debbiediscovers  that can respond to all of #emojis - https://t.co/XfAMBTNVAV\n\nhttps://t.co/CohkcDHQdf\n\n#chatbots #ai #ml #machinelearning #dialogflow #deeplearning #automation #botosynthesis #technology #bots #emotions #cx #NLP"
+	},
+	{
+		"created_at": "Thu Feb 20 00:17:00 +0000 2020",
+		"id": 1230285185804931000,
+		"id_str": "1230285185804931074",
+		"full_text": "@botosynthesis Emojibot is quite sassy too 😂😆 https://t.co/DxioouMGqH",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "botosynthesis",
+					"name": "Botosynthesis",
+					"id": 1203363413889450000,
+					"id_str": "1203363413889449984",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230285175377911800,
+					"id_str": "1230285175377911808",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/ERLZ2ULUYAAOrsF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERLZ2ULUYAAOrsF.jpg",
+					"url": "https://t.co/DxioouMGqH",
+					"display_url": "pic.twitter.com/DxioouMGqH",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1230285185804931074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1386,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 552,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 974,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230285175377911800,
+					"id_str": "1230285175377911808",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/ERLZ2ULUYAAOrsF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERLZ2ULUYAAOrsF.jpg",
+					"url": "https://t.co/DxioouMGqH",
+					"display_url": "pic.twitter.com/DxioouMGqH",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1230285185804931074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1386,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 552,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 974,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1229660051666718700,
+		"in_reply_to_status_id_str": "1229660051666718720",
+		"in_reply_to_user_id": 1203363413889450000,
+		"in_reply_to_user_id_str": "1203363413889449984",
+		"in_reply_to_screen_name": "botosynthesis",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68041,
+			"friends_count": 33585,
+			"listed_count": 1386,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@botosynthesis Emojibot is quite sassy too 😂😆 https://t.co/DxioouMGqH"
+	},
+	{
+		"created_at": "Thu Feb 20 00:16:38 +0000 2020",
+		"id": 1230285094557896700,
+		"id_str": "1230285094557896709",
+		"full_text": "@IndianGorkha11 @PencilsOfPromis Primary school!",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IndianGorkha11",
+					"name": "#Indian",
+					"id": 3168535010,
+					"id_str": "3168535010",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "PencilsOfPromis",
+					"name": "Pencils of Promise",
+					"id": 18369852,
+					"id_str": "18369852",
+					"indices": [
+						16,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1229932103598514200,
+		"in_reply_to_status_id_str": "1229932103598514176",
+		"in_reply_to_user_id": 3168535010,
+		"in_reply_to_user_id_str": "3168535010",
+		"in_reply_to_screen_name": "IndianGorkha11",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68041,
+			"friends_count": 33585,
+			"listed_count": 1386,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@IndianGorkha11 @PencilsOfPromis Primary school!"
+	},
+	{
+		"created_at": "Thu Feb 20 00:16:29 +0000 2020",
+		"id": 1230215337460805600,
+		"id_str": "1230285053936033793",
+		"full_text": "Honey, I built a chatbot, but no one will click on my buttons 😭 by @debbiediscovers in @uxdesigncc https://t.co/5yyVcuq2R0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						67,
+						83
+					]
+				},
+				{
+					"screen_name": "uxdesigncc",
+					"name": "UX Collective",
+					"id": 16814473,
+					"id_str": "16814473",
+					"indices": [
+						87,
+						98
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5yyVcuq2R0",
+					"expanded_url": "https://uxdesign.cc/honey-i-built-a-chatbot-but-no-one-will-click-on-my-buttons-b713290c0029",
+					"display_url": "uxdesign.cc/honey-i-built-…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 832238072905490400,
+			"id_str": "832238072905490433",
+			"name": "creativebros",
+			"screen_name": "creativebrosnet",
+			"location": "Sorocaba, Brasil",
+			"description": "Criatividade, arte e tecnologia. Como dizia Einstein: \" a criatividade é a inteligência se divertindo\".",
+			"url": "https://t.co/DWiHz9R2et",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DWiHz9R2et",
+							"expanded_url": "http://www.creativebros.net",
+							"display_url": "creativebros.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 95,
+			"friends_count": 282,
+			"listed_count": 5,
+			"created_at": "Thu Feb 16 14:39:53 +0000 2017",
+			"favourites_count": 213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/832239744985731072/VoOjZ9_R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/832239744985731072/VoOjZ9_R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/832238072905490433/1487256724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Honey, I built a chatbot, but no one will click on my buttons 😭 by @debbiediscovers in @uxdesigncc https://t.co/5yyVcuq2R0"
+	},
+	{
 		"created_at": "Sun Feb 09 01:26:06 +0000 2020",
 		"id": 1226143328288116700,
 		"id_str": "1226316306661511168",
