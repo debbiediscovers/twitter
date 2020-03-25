@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 25 12:20:26 +0000 2020",
+		"id": 1242788432037855200,
+		"id_str": "1242788432037855232",
+		"full_text": "This is amazing! Learn #SEO for free wit @Moz https://t.co/XWDSVwncqP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEO",
+					"indices": [
+						23,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Moz",
+					"name": "Moz",
+					"id": 15651700,
+					"id_str": "15651700",
+					"indices": [
+						41,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XWDSVwncqP",
+					"expanded_url": "https://twitter.com/moz/status/1242195742292357121",
+					"display_url": "twitter.com/moz/status/124…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67924,
+			"friends_count": 36783,
+			"listed_count": 1388,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "58a4c3a0d54e1400",
+			"url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json",
+			"place_type": "admin",
+			"name": "Central Region",
+			"full_name": "Central Region, Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.749959507073,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.36874499902569
+						],
+						[
+							103.749959507073,
+							1.36874499902569
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1242195742292357000,
+		"quoted_status_id_str": "1242195742292357121",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XWDSVwncqP",
+			"expanded": "https://twitter.com/moz/status/1242195742292357121",
+			"display": "twitter.com/moz/status/124…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 23 21:05:18 +0000 2020",
+			"id": 1242195742292357000,
+			"id_str": "1242195742292357121",
+			"full_text": "Easy-to-access #SEO education has always been dear to our mission. \n\nMoz Academy courses are now free for our community—just use the promo code 👉 wegotthis.\n\nhttps://t.co/nlNRqrMUjq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				181
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SEO",
+						"indices": [
+							15,
+							19
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nlNRqrMUjq",
+						"expanded_url": "http://ow.ly/Ilyr50yTBE9",
+						"display_url": "ow.ly/Ilyr50yTBE9",
+						"indices": [
+							158,
+							181
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15651700,
+				"id_str": "15651700",
+				"name": "Moz",
+				"screen_name": "Moz",
+				"location": "Seattle, Washington",
+				"description": "Helping SEOs build innovative organic search strategies with easy-to-use tools, reliable data, and accessible training since 2004.",
+				"url": "https://t.co/KzWVWbGS83",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KzWVWbGS83",
+								"expanded_url": "http://mz.cm/freetrialtwitter",
+								"display_url": "mz.cm/freetrialtwitt…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 550913,
+				"friends_count": 3325,
+				"listed_count": 17411,
+				"created_at": "Tue Jul 29 21:20:56 +0000 2008",
+				"favourites_count": 23140,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 69770,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1090715967183675392/svcHPQqp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090715967183675392/svcHPQqp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15651700/1585066774",
+				"profile_link_color": "1495FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CBDE50",
+				"profile_text_color": "2F6AD8",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 105,
+			"favorite_count": 232,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is amazing! Learn #SEO for free wit @Moz https://t.co/XWDSVwncqP"
+	},
+	{
 		"created_at": "Mon Mar 23 11:18:00 +0000 2020",
 		"id": 1240124881783660500,
 		"id_str": "1242047942321508352",
