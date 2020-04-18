@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 18 00:47:46 +0000 2020",
+		"id": 1251311422769787000,
+		"id_str": "1251311422769786886",
+		"full_text": "#quarantinehaikus  love this one @chris_rampey 🤣 https://t.co/73dqLJiOW9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "quarantinehaikus",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chris_rampey",
+					"name": "Chris Rampey",
+					"id": 22561238,
+					"id_str": "22561238",
+					"indices": [
+						33,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/73dqLJiOW9",
+					"expanded_url": "https://twitter.com/chris_rampey/status/1251284999409549312",
+					"display_url": "twitter.com/chris_rampey/s…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67649,
+			"friends_count": 35301,
+			"listed_count": 1369,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "58a4c3a0d54e1400",
+			"url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json",
+			"place_type": "admin",
+			"name": "Central Region",
+			"full_name": "Central Region, Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.749959507073,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.36874499902569
+						],
+						[
+							103.749959507073,
+							1.36874499902569
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1251284999409549300,
+		"quoted_status_id_str": "1251284999409549312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/73dqLJiOW9",
+			"expanded": "https://twitter.com/chris_rampey/status/1251284999409549312",
+			"display": "twitter.com/chris_rampey/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 17 23:02:46 +0000 2020",
+			"id": 1251284999409549300,
+			"id_str": "1251284999409549312",
+			"full_text": "@debbiediscovers LOL 😂 here goes nothing...\n\nHeard “I’m bored” 10 times\nAnd it’s only noon so far\n(That’s the wife, not kids!)",
+			"truncated": false,
+			"display_text_range": [
+				17,
+				126
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1250719971144904700,
+			"in_reply_to_status_id_str": "1250719971144904704",
+			"in_reply_to_user_id": 3060836348,
+			"in_reply_to_user_id_str": "3060836348",
+			"in_reply_to_screen_name": "debbiediscovers",
+			"user": {
+				"id": 22561238,
+				"id_str": "22561238",
+				"name": "Chris Rampey",
+				"screen_name": "chris_rampey",
+				"location": "Seattle, WA",
+				"description": "Product design + strategy at @axon_us // Passionate about users + what’s next // Former Amazon + Microsoft Research // #UX #HCD #IoT #AI #ML #AR #XR",
+				"url": "https://t.co/rhG3XVG9ts",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rhG3XVG9ts",
+								"expanded_url": "http://about.me/rampey",
+								"display_url": "about.me/rampey",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1114,
+				"friends_count": 2290,
+				"listed_count": 111,
+				"created_at": "Tue Mar 03 00:50:06 +0000 2009",
+				"favourites_count": 2434,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2533,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "928B90",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1143963030582988800/h-CVBluq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143963030582988800/h-CVBluq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22561238/1555452007",
+				"profile_link_color": "2E586E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DEDEDE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#quarantinehaikus  love this one @chris_rampey 🤣 https://t.co/73dqLJiOW9"
+	},
+	{
 		"created_at": "Fri Apr 17 22:55:40 +0000 2020",
 		"id": 1250719971144904700,
 		"id_str": "1251283213260951552",
