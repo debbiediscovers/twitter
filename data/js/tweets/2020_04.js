@@ -1,10 +1,358 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 27 13:46:36 +0000 2020",
+		"id": 1254768917064499200,
+		"id_str": "1254768917064499200",
+		"full_text": "@Kathryn_Cura @peterkay47 🥳❤️",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kathryn_Cura",
+					"name": "Kathryn Knowles, PhD",
+					"id": 1923539197,
+					"id_str": "1923539197",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "peterkay47",
+					"name": "Peter Kay",
+					"id": 609940096,
+					"id_str": "609940096",
+					"indices": [
+						14,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1254763223242297300,
+		"in_reply_to_status_id_str": "1254763223242297346",
+		"in_reply_to_user_id": 1923539197,
+		"in_reply_to_user_id_str": "1923539197",
+		"in_reply_to_screen_name": "Kathryn_Cura",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67470,
+			"friends_count": 35258,
+			"listed_count": 1365,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17608,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@Kathryn_Cura @peterkay47 🥳❤️"
+	},
+	{
+		"created_at": "Mon Apr 27 13:46:27 +0000 2020",
+		"id": 1254768876568539100,
+		"id_str": "1254768876568539140",
+		"full_text": "@OrangeBubblez @peterkay47 ❤️❤️",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OrangeBubblez",
+					"name": "Claudyne 📝",
+					"id": 83354377,
+					"id_str": "83354377",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "peterkay47",
+					"name": "Peter Kay",
+					"id": 609940096,
+					"id_str": "609940096",
+					"indices": [
+						15,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1254764015303028700,
+		"in_reply_to_status_id_str": "1254764015303028738",
+		"in_reply_to_user_id": 83354377,
+		"in_reply_to_user_id_str": "83354377",
+		"in_reply_to_screen_name": "OrangeBubblez",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67470,
+			"friends_count": 35258,
+			"listed_count": 1365,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17608,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@OrangeBubblez @peterkay47 ❤️❤️"
+	},
+	{
+		"created_at": "Mon Apr 27 13:46:20 +0000 2020",
+		"id": 1254768847078322200,
+		"id_str": "1254768847078322179",
+		"full_text": "@ZeemkayZia @peterkay47 😘😘",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ZeemkayZia",
+					"name": "Zia Mahmood Khan",
+					"id": 4578762437,
+					"id_str": "4578762437",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "peterkay47",
+					"name": "Peter Kay",
+					"id": 609940096,
+					"id_str": "609940096",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1254764835855724500,
+		"in_reply_to_status_id_str": "1254764835855724545",
+		"in_reply_to_user_id": 4578762437,
+		"in_reply_to_user_id_str": "4578762437",
+		"in_reply_to_screen_name": "ZeemkayZia",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67470,
+			"friends_count": 35258,
+			"listed_count": 1365,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17608,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@ZeemkayZia @peterkay47 😘😘"
+	},
+	{
 		"created_at": "Sat Apr 25 07:21:24 +0000 2020",
 		"id": 1253929242347348000,
 		"id_str": "1253947201375440896",
-		"full_text": "Hubby always here\nNow he knows I drink daily\nLockdown to end please\n.⁠\n.⁠\n.⁠\n⁠\n🥺 Write one, tag us #quarantinehaikus⁠\n⁠\nVisit https://t.co/qu65EWvGlV to 💗 your faves. https://t.co/O9PrQueEUx",
+		"full_text": "Hubby always here\nNow he knows I drink daily\nLockdown to end please\n.\n.\n.\n\n🥺 Write one, tag us #quarantinehaikus\n\nVisit https://t.co/qu65EWvGlV to 💗 your faves. https://t.co/O9PrQueEUx",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -190,7 +538,7 @@ Grailbird.data.tweets_2020_04 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Hubby always here\nNow he knows I drink daily\nLockdown to end please\n.⁠\n.⁠\n.⁠\n⁠\n🥺 Write one, tag us #quarantinehaikus⁠\n⁠\nVisit https://t.co/qu65EWvGlV to 💗 your faves. https://t.co/O9PrQueEUx"
+		"text": "Hubby always here\nNow he knows I drink daily\nLockdown to end please\n.\n.\n.\n\n🥺 Write one, tag us #quarantinehaikus\n\nVisit https://t.co/qu65EWvGlV to 💗 your faves. https://t.co/O9PrQueEUx"
 	},
 	{
 		"created_at": "Fri Apr 24 10:11:34 +0000 2020",
