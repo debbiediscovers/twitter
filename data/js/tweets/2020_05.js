@@ -1,6 +1,391 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 12:06:02 +0000 2020",
+		"id": 1259092260924227600,
+		"id_str": "1259092260924227586",
+		"full_text": "Thanks @MarcLittlemore for helping me get rid of a legacy welcome message in my DM box!!! That email has been invalid for 5 years!!! @twittersupport should get rid of those welcome messages. It’s just silly!! https://t.co/W9XddEWwjy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarcLittlemore",
+					"name": "marclittlemore",
+					"id": 14449910,
+					"id_str": "14449910",
+					"indices": [
+						7,
+						22
+					]
+				},
+				{
+					"screen_name": "TwitterSupport",
+					"name": "Twitter Support",
+					"id": 17874544,
+					"id_str": "17874544",
+					"indices": [
+						133,
+						148
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/W9XddEWwjy",
+					"expanded_url": "https://twitter.com/marclittlemore/status/1259074562450432000",
+					"display_url": "twitter.com/marclittlemore…",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67450,
+			"friends_count": 35674,
+			"listed_count": 1349,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027068089618198536/wIl1K2Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1259074562450432000,
+		"quoted_status_id_str": "1259074562450432000",
+		"quoted_status_permalink": {
+			"url": "https://t.co/W9XddEWwjy",
+			"expanded": "https://twitter.com/marclittlemore/status/1259074562450432000",
+			"display": "twitter.com/marclittlemore…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 09 10:55:42 +0000 2020",
+			"id": 1259074562450432000,
+			"id_str": "1259074562450432000",
+			"full_text": "Investigated the Twitter API this morning to help out @debbiediscovers. If you had an old Twitter business account, you could add a DM welcome message without being able to remove it. I used @getpostman with its OAuth1.0 signature generation to remove it. A fun challenge. 🙌🏻🎉",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							54,
+							70
+						]
+					},
+					{
+						"screen_name": "getpostman",
+						"name": "Postman",
+						"id": 517705687,
+						"id_str": "517705687",
+						"indices": [
+							191,
+							202
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14449910,
+				"id_str": "14449910",
+				"name": "marclittlemore",
+				"screen_name": "MarcLittlemore",
+				"location": "Warrington, UK",
+				"description": "Software Engineering Team Lead @ BBC, ex-game coder, DJ. Nearly died of #sepsis. Views IMHO. he/him #nodejs #js #tdd #bots #chatbots: https://t.co/gQblsVl424",
+				"url": "https://t.co/beV4sUISQH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/beV4sUISQH",
+								"expanded_url": "http://www.marclittlemore.com",
+								"display_url": "marclittlemore.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gQblsVl424",
+								"expanded_url": "http://bit.ly/botsignup",
+								"display_url": "bit.ly/botsignup",
+								"indices": [
+									134,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2403,
+				"friends_count": 4778,
+				"listed_count": 117,
+				"created_at": "Sun Apr 20 07:28:57 +0000 2008",
+				"favourites_count": 26244,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15982,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1180849596005851136/qfXWXmz4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180849596005851136/qfXWXmz4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14449910/1447756348",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks @MarcLittlemore for helping me get rid of a legacy welcome message in my DM box!!! That email has been invalid for 5 years!!! @twittersupport should get rid of those welcome messages. It’s just silly!! https://t.co/W9XddEWwjy"
+	},
+	{
+		"created_at": "Sat May 09 12:04:39 +0000 2020",
+		"id": 1259074562450432000,
+		"id_str": "1259091911614230529",
+		"full_text": "Investigated the Twitter API this morning to help out @debbiediscovers. If you had an old Twitter business account, you could add a DM welcome message without being able to remove it. I used @getpostman with its OAuth1.0 signature generation to remove it. A fun challenge. 🙌🏻🎉",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						54,
+						70
+					]
+				},
+				{
+					"screen_name": "getpostman",
+					"name": "Postman",
+					"id": 517705687,
+					"id_str": "517705687",
+					"indices": [
+						191,
+						202
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14449910,
+			"id_str": "14449910",
+			"name": "marclittlemore",
+			"screen_name": "MarcLittlemore",
+			"location": "Warrington, UK",
+			"description": "Software Engineering Team Lead @ BBC, ex-game coder, DJ. Nearly died of #sepsis. Views IMHO. he/him #nodejs #js #tdd #bots #chatbots: https://t.co/gQblsVl424",
+			"url": "https://t.co/beV4sUISQH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/beV4sUISQH",
+							"expanded_url": "http://www.marclittlemore.com",
+							"display_url": "marclittlemore.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gQblsVl424",
+							"expanded_url": "http://bit.ly/botsignup",
+							"display_url": "bit.ly/botsignup",
+							"indices": [
+								134,
+								157
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2403,
+			"friends_count": 4778,
+			"listed_count": 117,
+			"created_at": "Sun Apr 20 07:28:57 +0000 2008",
+			"favourites_count": 26244,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180849596005851136/qfXWXmz4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180849596005851136/qfXWXmz4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14449910/1447756348",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Investigated the Twitter API this morning to help out @debbiediscovers. If you had an old Twitter business account, you could add a DM welcome message without being able to remove it. I used @getpostman with its OAuth1.0 signature generation to remove it. A fun challenge. 🙌🏻🎉"
+	},
+	{
 		"created_at": "Thu May 07 05:51:32 +0000 2020",
 		"id": 1257532233398673400,
 		"id_str": "1258273240754950145",
