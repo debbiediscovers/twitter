@@ -1,6 +1,462 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 15 11:22:13 +0000 2020",
+		"id": 1260947724977033200,
+		"id_str": "1261255560705347585",
+		"full_text": "Top #DigitalTransformation Influencers on Twitter, as per our #socialmedia analysis.\n\n@kanter @AnthoniaOrji @antgrasso @VolodymyrAriev @CyrilCoste @Nicochan33 @debbiediscovers @hichamchraibi @MATrabado @marthagabriel \n\n#AI #IoT #IIoT #Blockchain #DataScience #CloudComputing #5G https://t.co/NlobhdZbnt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigitalTransformation",
+					"indices": [
+						4,
+						26
+					]
+				},
+				{
+					"text": "socialmedia",
+					"indices": [
+						62,
+						74
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						219,
+						222
+					]
+				},
+				{
+					"text": "IoT",
+					"indices": [
+						223,
+						227
+					]
+				},
+				{
+					"text": "IIoT",
+					"indices": [
+						228,
+						233
+					]
+				},
+				{
+					"text": "Blockchain",
+					"indices": [
+						234,
+						245
+					]
+				},
+				{
+					"text": "DataScience",
+					"indices": [
+						246,
+						258
+					]
+				},
+				{
+					"text": "CloudComputing",
+					"indices": [
+						259,
+						274
+					]
+				},
+				{
+					"text": "5G",
+					"indices": [
+						275,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kanter",
+					"name": "Beth Kanter",
+					"id": 10297,
+					"id_str": "10297",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"screen_name": "AnthoniaOrji",
+					"name": "Anthonia Orji",
+					"id": 346222084,
+					"id_str": "346222084",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "antgrasso",
+					"name": "Antonio Grasso",
+					"id": 4338452835,
+					"id_str": "4338452835",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"screen_name": "VolodymyrAriev",
+					"name": "Volodymyr Ariev",
+					"id": 365557199,
+					"id_str": "365557199",
+					"indices": [
+						119,
+						134
+					]
+				},
+				{
+					"screen_name": "CyrilCoste",
+					"name": "Cyril Coste #DigitalTransformation",
+					"id": 20582624,
+					"id_str": "20582624",
+					"indices": [
+						135,
+						146
+					]
+				},
+				{
+					"screen_name": "Nicochan33",
+					"name": "Nicolas Babin",
+					"id": 19284888,
+					"id_str": "19284888",
+					"indices": [
+						147,
+						158
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						159,
+						175
+					]
+				},
+				{
+					"screen_name": "hichamchraibi",
+					"name": "Hicham Chraibi",
+					"id": 110989773,
+					"id_str": "110989773",
+					"indices": [
+						176,
+						190
+					]
+				},
+				{
+					"screen_name": "MATrabado",
+					"name": "Miguel Angel Trabado",
+					"id": 303899506,
+					"id_str": "303899506",
+					"indices": [
+						191,
+						201
+					]
+				},
+				{
+					"screen_name": "marthagabriel",
+					"name": "Martha Gabriel",
+					"id": 16436464,
+					"id_str": "16436464",
+					"indices": [
+						202,
+						216
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260944978609606700,
+					"id_str": "1260944978609606657",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EX_GxvtWkAENt6l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX_GxvtWkAENt6l.jpg",
+					"url": "https://t.co/NlobhdZbnt",
+					"display_url": "pic.twitter.com/NlobhdZbnt",
+					"expanded_url": "https://twitter.com/Commetric/status/1260947724977033218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260944978609606700,
+					"id_str": "1260944978609606657",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EX_GxvtWkAENt6l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX_GxvtWkAENt6l.jpg",
+					"url": "https://t.co/NlobhdZbnt",
+					"display_url": "pic.twitter.com/NlobhdZbnt",
+					"expanded_url": "https://twitter.com/Commetric/status/1260947724977033218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45849641,
+			"id_str": "45849641",
+			"name": "Commetric",
+			"screen_name": "Commetric",
+			"location": "London | New York | Dubai",
+			"description": "Award-winning #MediaAnalytics for the world's biggest #brands. #InfluencerMarketing|#SocialMedia |#BrandManagement|#PR|#ContentMarketing|#MoreWithAnalytics",
+			"url": "https://t.co/uHOd8Cj4uo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uHOd8Cj4uo",
+							"expanded_url": "http://www.commetric.com/",
+							"display_url": "commetric.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1611,
+			"friends_count": 2216,
+			"listed_count": 168,
+			"created_at": "Tue Jun 09 14:37:15 +0000 2009",
+			"favourites_count": 585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756490948096495616/FlGtjvnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756490948096495616/FlGtjvnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45849641/1578920328",
+			"profile_link_color": "00ADEF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EBEFF9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Top #DigitalTransformation Influencers on Twitter, as per our #socialmedia analysis.\n\n@kanter @AnthoniaOrji @antgrasso @VolodymyrAriev @CyrilCoste @Nicochan33 @debbiediscovers @hichamchraibi @MATrabado @marthagabriel \n\n#AI #IoT #IIoT #Blockchain #DataScience #CloudComputing #5G https://t.co/NlobhdZbnt"
+	},
+	{
+		"created_at": "Fri May 15 11:21:33 +0000 2020",
+		"id": 1260381870967058400,
+		"id_str": "1261255395588227072",
+		"full_text": "Fantastic list by @kevin2kelly. One to read, bookmark and re-read. https://t.co/8phMp2KXqd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kevin2kelly",
+					"name": "Kevin Kelly",
+					"id": 1532061,
+					"id_str": "1532061",
+					"indices": [
+						18,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8phMp2KXqd",
+					"expanded_url": "https://kk.org/thetechnium/68-bits-of-unsolicited-advice/",
+					"display_url": "kk.org/thetechnium/68…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67363,
+			"friends_count": 34510,
+			"listed_count": 1329,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260353563605086208/lav5B7UT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260353563605086208/lav5B7UT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fantastic list by @kevin2kelly. One to read, bookmark and re-read. https://t.co/8phMp2KXqd"
+	},
+	{
 		"created_at": "Thu May 14 11:53:04 +0000 2020",
 		"id": 1260381870967058400,
 		"id_str": "1260900936223883264",
