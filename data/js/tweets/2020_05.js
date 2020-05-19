@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 19 06:49:46 +0000 2020",
+		"id": 1262509016992960500,
+		"id_str": "1262636546563256321",
+		"full_text": "Tobi Lutke (@tobi) is the CEO of Shopify \n\nHe's one of my favorite CLEAR thinkers\n\nI spent some time in lockdown going through his interviews\n\nHere are 6 mental models I got from it\n\nTHREAD...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tobi",
+					"name": "Tobi Lutke 🌳🌲🛒🕹",
+					"id": 676573,
+					"id_str": "676573",
+					"indices": [
+						12,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2166434343,
+			"id_str": "2166434343",
+			"name": "George Mack",
+			"screen_name": "george__mack",
+			"location": "London",
+			"description": "I'm a shaved chimp on a blue ball 🌍 that is spinning at 1000 miles per hour around a much larger and hotter (5,505 °C) orange ball🌞 /  @navalbot & @nntalebbot",
+			"url": "https://t.co/wROz06MwCa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wROz06MwCa",
+							"expanded_url": "https://www.youtube.com/watch?v=m_56L8EGLIk",
+							"display_url": "youtube.com/watch?v=m_56L8…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16649,
+			"friends_count": 536,
+			"listed_count": 293,
+			"created_at": "Sun Nov 03 14:33:49 +0000 2013",
+			"favourites_count": 4362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149805297369849859/dunfoGSZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149805297369849859/dunfoGSZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2166434343/1527152642",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 977,
+		"favorite_count": 4384,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Tobi Lutke (@tobi) is the CEO of Shopify \n\nHe's one of my favorite CLEAR thinkers\n\nI spent some time in lockdown going through his interviews\n\nHere are 6 mental models I got from it\n\nTHREAD..."
+	},
+	{
 		"created_at": "Fri May 15 11:22:13 +0000 2020",
 		"id": 1260947724977033200,
 		"id_str": "1261255560705347585",
