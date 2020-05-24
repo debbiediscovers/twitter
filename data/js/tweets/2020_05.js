@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 24 02:08:50 +0000 2020",
+		"id": 1263989044104454100,
+		"id_str": "1264377790024966144",
+		"full_text": "Keep going or die trying. Quitting is not an option! \nhttps://t.co/WIQs7V8yuh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WIQs7V8yuh",
+					"expanded_url": "https://twitter.com/musakulube/status/1263903044200206336?s=20",
+					"display_url": "twitter.com/musakulube/sta…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67440,
+			"friends_count": 35066,
+			"listed_count": 1326,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260353563605086208/lav5B7UT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260353563605086208/lav5B7UT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1263903044200206300,
+		"quoted_status_id_str": "1263903044200206336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WIQs7V8yuh",
+			"expanded": "https://twitter.com/musakulube/status/1263903044200206336?s=20",
+			"display": "twitter.com/musakulube/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 22 18:42:22 +0000 2020",
+			"id": 1263903044200206300,
+			"id_str": "1263903044200206336",
+			"full_text": "What's your best quote by @markminervini? Here's mine. https://t.co/Mk6RVmpy0s",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				54
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "markminervini",
+						"name": "Mark Minervini",
+						"id": 105353526,
+						"id_str": "105353526",
+						"indices": [
+							26,
+							40
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1263903016715006000,
+						"id_str": "1263903016715005953",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/EYpJGOXXsAEpjyK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYpJGOXXsAEpjyK.jpg",
+						"url": "https://t.co/Mk6RVmpy0s",
+						"display_url": "pic.twitter.com/Mk6RVmpy0s",
+						"expanded_url": "https://twitter.com/musakulube/status/1263903044200206336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 548,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 548,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 345,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1263903016715006000,
+						"id_str": "1263903016715005953",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/EYpJGOXXsAEpjyK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYpJGOXXsAEpjyK.jpg",
+						"url": "https://t.co/Mk6RVmpy0s",
+						"display_url": "pic.twitter.com/Mk6RVmpy0s",
+						"expanded_url": "https://twitter.com/musakulube/status/1263903044200206336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 548,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 548,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 345,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2350979441,
+				"id_str": "2350979441",
+				"name": "Alex",
+				"screen_name": "musakulube",
+				"location": "South Africa",
+				"description": "Pioneer|Wealth Manager|Investor-Never the greatest in the Room yet impossible to ignore|A man dedicated to difference.",
+				"url": "https://t.co/SMN9GbAK2T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SMN9GbAK2T",
+								"expanded_url": "http://www.empyreancapital.co.za",
+								"display_url": "empyreancapital.co.za",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 85,
+				"friends_count": 344,
+				"listed_count": 0,
+				"created_at": "Tue Feb 18 17:31:27 +0000 2014",
+				"favourites_count": 304,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 97,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1252287244729233409/JsJXgZ1i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252287244729233409/JsJXgZ1i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2350979441/1569023948",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 110,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Keep going or die trying. Quitting is not an option! \nhttps://t.co/WIQs7V8yuh"
+	},
+	{
 		"created_at": "Sat May 23 00:24:17 +0000 2020",
 		"id": 1263989088429830100,
 		"id_str": "1263989088429830149",
