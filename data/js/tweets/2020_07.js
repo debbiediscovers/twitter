@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 09 08:00:00 +0000 2020",
+		"id": 1280942036028403700,
+		"id_str": "1281136006226276354",
+		"full_text": "The more disciplined your environment is, the less disciplined you need to be. Don't swim upstream.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226428094,
+			"id_str": "226428094",
+			"name": "James Clear",
+			"screen_name": "JamesClear",
+			"location": "",
+			"description": "Author of the NYT bestseller: Atomic Habits (https://t.co/S97QUDuBUa). I write about building better habits. Over 800,000 people read my 3-2-1 newsletter (see link).",
+			"url": "https://t.co/9KfuKZ2MO1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9KfuKZ2MO1",
+							"expanded_url": "http://jamesclear.com/3-2-1",
+							"display_url": "jamesclear.com/3-2-1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/S97QUDuBUa",
+							"expanded_url": "http://atomichabits.com",
+							"display_url": "atomichabits.com",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 310999,
+			"friends_count": 445,
+			"listed_count": 4520,
+			"created_at": "Tue Dec 14 03:58:09 +0000 2010",
+			"favourites_count": 9967,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11363,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958932211973152769/FUpkmn4u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958932211973152769/FUpkmn4u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226428094/1557171326",
+			"profile_link_color": "0071BC",
+			"profile_sidebar_border_color": "E3E3E3",
+			"profile_sidebar_fill_color": "D1EDFF",
+			"profile_text_color": "222222",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 760,
+		"favorite_count": 4406,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The more disciplined your environment is, the less disciplined you need to be. Don't swim upstream."
+	},
+	{
 		"created_at": "Thu Jul 09 06:21:34 +0000 2020",
 		"id": 1279645983157088300,
 		"id_str": "1281111231546322944",
