@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 22 00:18:14 +0000 2020",
+		"id": 1285730840006340600,
+		"id_str": "1285730840006340608",
+		"full_text": "Made me laugh 👇 https://t.co/xhnULwzLPt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xhnULwzLPt",
+					"expanded_url": "https://twitter.com/eade_bengard/status/1283983502640214017",
+					"display_url": "twitter.com/eade_bengard/s…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67291,
+			"friends_count": 38705,
+			"listed_count": 1331,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17640,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267444428483948547/m78-Zyes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267444428483948547/m78-Zyes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1517291994",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1283983502640214000,
+		"quoted_status_id_str": "1283983502640214017",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xhnULwzLPt",
+			"expanded": "https://twitter.com/eade_bengard/status/1283983502640214017",
+			"display": "twitter.com/eade_bengard/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 17 04:34:56 +0000 2020",
+			"id": 1283983502640214000,
+			"id_str": "1283983502640214017",
+			"full_text": "Daddy said “it’s time to build” https://t.co/mQk4ffbDNQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				31
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1283982987818864600,
+						"id_str": "1283982987818864640",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1283982987818864640/pu/img/5b6uLQmBtL51SKkJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1283982987818864640/pu/img/5b6uLQmBtL51SKkJ.jpg",
+						"url": "https://t.co/mQk4ffbDNQ",
+						"display_url": "pic.twitter.com/mQk4ffbDNQ",
+						"expanded_url": "https://twitter.com/eade_bengard/status/1283983502640214017/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1283982987818864600,
+						"id_str": "1283982987818864640",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1283982987818864640/pu/img/5b6uLQmBtL51SKkJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1283982987818864640/pu/img/5b6uLQmBtL51SKkJ.jpg",
+						"url": "https://t.co/mQk4ffbDNQ",
+						"display_url": "pic.twitter.com/mQk4ffbDNQ",
+						"expanded_url": "https://twitter.com/eade_bengard/status/1283983502640214017/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 59067,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1283982987818864640/pu/vid/320x568/OT26ZRjpywkfOp3M.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1283982987818864640/pu/vid/720x1280/orpER3xejlNK8t-D.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1283982987818864640/pu/vid/360x640/xdkHbN9skAw5Kpze.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1283982987818864640/pu/pl/mkt0NrrxMV6GnYjT.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 334209605,
+				"id_str": "334209605",
+				"name": "Eade Bengard",
+				"screen_name": "eade_bengard",
+				"location": "San Francisco",
+				"description": "Views are not my own if you are reading this please send help",
+				"url": "https://t.co/RGuGuWWUAv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RGuGuWWUAv",
+								"expanded_url": "http://sarahbengard.com",
+								"display_url": "sarahbengard.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2376,
+				"friends_count": 689,
+				"listed_count": 9,
+				"created_at": "Tue Jul 12 18:58:04 +0000 2011",
+				"favourites_count": 3679,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 706,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/555437315229630465/f3VSO-BC_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/555437315229630465/f3VSO-BC_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/334209605/1457461094",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 87,
+			"favorite_count": 1397,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Made me laugh 👇 https://t.co/xhnULwzLPt"
+	},
+	{
 		"created_at": "Thu Jul 16 02:15:15 +0000 2020",
 		"id": 1283156218542870500,
 		"id_str": "1283585961184485376",
