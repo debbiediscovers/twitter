@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 26 22:45:38 +0000 2021",
+		"id": 1365237936304705500,
+		"id_str": "1365432864397955073",
+		"full_text": "This cracked me up 🤣😂 https://t.co/WWIdquNBk3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1365237928440463400,
+					"id_str": "1365237928440463362",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EvJMqZ6VgAIybJw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvJMqZ6VgAIybJw.jpg",
+					"url": "https://t.co/WWIdquNBk3",
+					"display_url": "pic.twitter.com/WWIdquNBk3",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1365237936304705536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 843,
+							"h": 843,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 843,
+							"h": 843,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1365237928440463400,
+					"id_str": "1365237928440463362",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EvJMqZ6VgAIybJw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvJMqZ6VgAIybJw.jpg",
+					"url": "https://t.co/WWIdquNBk3",
+					"display_url": "pic.twitter.com/WWIdquNBk3",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1365237936304705536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 843,
+							"h": 843,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 843,
+							"h": 843,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder | 2018 @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/wREC5x0iTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wREC5x0iTO",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64143,
+			"friends_count": 37404,
+			"listed_count": 1321,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318873337158717441/Vzw4RDqx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318873337158717441/Vzw4RDqx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1601181765",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 99,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This cracked me up 🤣😂 https://t.co/WWIdquNBk3"
+	},
+	{
 		"created_at": "Fri Feb 26 13:18:02 +0000 2021",
 		"id": 1365237936304705500,
 		"id_str": "1365290027115114496",
