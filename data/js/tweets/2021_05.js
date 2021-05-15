@@ -1,6 +1,146 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 15 08:13:44 +0000 2021",
+		"id": 1393219833139957800,
+		"id_str": "1393479698668154884",
+		"full_text": "Machine learning, explained https://t.co/BhVx0jC8uC #ai #machinelearning #artificialintelligence via @debbiediscovers",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ai",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "machinelearning",
+					"indices": [
+						56,
+						72
+					]
+				},
+				{
+					"text": "artificialintelligence",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						101,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BhVx0jC8uC",
+					"expanded_url": "https://buff.ly/2QmdH0s",
+					"display_url": "buff.ly/2QmdH0s",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 844615687528235000,
+			"id_str": "844615687528235012",
+			"name": "Future of AI",
+			"screen_name": "future_of_AI",
+			"location": "",
+			"description": "#AI Essentials publishes only the most insightful links shared by trusted #artificialintelligence, #machinelearning experts helping you focus on what matters.",
+			"url": "https://t.co/3Txhi93jti",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Txhi93jti",
+							"expanded_url": "http://essentials.news/future-of-ai",
+							"display_url": "essentials.news/future-of-ai",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3226,
+			"friends_count": 1348,
+			"listed_count": 143,
+			"created_at": "Wed Mar 22 18:24:06 +0000 2017",
+			"favourites_count": 3157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1047866034970140673/ZBhSks16_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047866034970140673/ZBhSks16_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/844615687528235012/1538665773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Machine learning, explained https://t.co/BhVx0jC8uC #ai #machinelearning #artificialintelligence via @debbiediscovers"
+	},
+	{
 		"created_at": "Fri May 14 11:21:19 +0000 2021",
 		"id": 1388464189442695200,
 		"id_str": "1393164516473511943",
