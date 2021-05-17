@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 17 07:12:24 +0000 2021",
+		"id": 1393727679208181800,
+		"id_str": "1394189039129952258",
+		"full_text": "“Instead of wondering when your next vacation is, maybe you should set up a life you don't need to escape from.” \n\nLove this quote from @ThisIsSethsBlog https://t.co/0I9idutyhL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ThisIsSethsBlog",
+					"name": "Seth Godin",
+					"id": 17825445,
+					"id_str": "17825445",
+					"indices": [
+						136,
+						152
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1393727544252199000,
+					"id_str": "1393727544252198914",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E1eD0TTUcAIKGxn.png",
+					"media_url_https": "https://pbs.twimg.com/media/E1eD0TTUcAIKGxn.png",
+					"url": "https://t.co/0I9idutyhL",
+					"display_url": "pic.twitter.com/0I9idutyhL",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1393727679208181760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 373,
+							"h": 201,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 373,
+							"h": 201,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 373,
+							"h": 201,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393727544252199000,
+					"id_str": "1393727544252198914",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E1eD0TTUcAIKGxn.png",
+					"media_url_https": "https://pbs.twimg.com/media/E1eD0TTUcAIKGxn.png",
+					"url": "https://t.co/0I9idutyhL",
+					"display_url": "pic.twitter.com/0I9idutyhL",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1393727679208181760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 373,
+							"h": 201,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 373,
+							"h": 201,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 373,
+							"h": 201,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder |  @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/WW6rfePvMp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WW6rfePvMp",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63560,
+			"friends_count": 37220,
+			"listed_count": 1306,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20720,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387244252267114497/MFT1cQPN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387244252267114497/MFT1cQPN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1601181765",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Instead of wondering when your next vacation is, maybe you should set up a life you don't need to escape from.” \n\nLove this quote from @ThisIsSethsBlog https://t.co/0I9idutyhL"
+	},
+	{
 		"created_at": "Sun May 16 13:32:14 +0000 2021",
 		"id": 1393922239758684200,
 		"id_str": "1393922239758684163",
