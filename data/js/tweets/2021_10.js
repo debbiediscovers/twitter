@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 05 23:00:27 +0000 2021",
+		"id": 1445524311452778500,
+		"id_str": "1445524311452778503",
+		"full_text": "Ouch. That hurts lol @financialsamura \n\nhttps://t.co/NQeuZcKRsw https://t.co/QkfgNjpcij",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "financialsamura",
+					"name": "Sam ⚔️ Financial Samurai",
+					"id": 65694678,
+					"id_str": "65694678",
+					"indices": [
+						21,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NQeuZcKRsw",
+					"expanded_url": "https://www.financialsamurai.com/why-the-smartest-countries-are-not-the-happiest/",
+					"display_url": "financialsamurai.com/why-the-smarte…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1445524132112728000,
+					"id_str": "1445524132112728071",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-IihjVgAcSi8A.png",
+					"media_url_https": "https://pbs.twimg.com/media/FA-IihjVgAcSi8A.png",
+					"url": "https://t.co/QkfgNjpcij",
+					"display_url": "pic.twitter.com/QkfgNjpcij",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1445524311452778503/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 759,
+							"h": 301,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 759,
+							"h": 301,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445524132112728000,
+					"id_str": "1445524132112728071",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-IihjVgAcSi8A.png",
+					"media_url_https": "https://pbs.twimg.com/media/FA-IihjVgAcSi8A.png",
+					"url": "https://t.co/QkfgNjpcij",
+					"display_url": "pic.twitter.com/QkfgNjpcij",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1445524311452778503/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 759,
+							"h": 301,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 759,
+							"h": 301,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder |  @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/WW6rfePvMp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WW6rfePvMp",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62580,
+			"friends_count": 36735,
+			"listed_count": 1292,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1601181765",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ouch. That hurts lol @financialsamura \n\nhttps://t.co/NQeuZcKRsw https://t.co/QkfgNjpcij"
+	},
+	{
 		"created_at": "Tue Oct 05 06:16:01 +0000 2021",
 		"id": 1445196175028539400,
 		"id_str": "1445271537444028416",
