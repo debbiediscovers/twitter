@@ -1,6 +1,595 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 06 12:08:02 +0000 2021",
+		"id": 1445722517105098800,
+		"id_str": "1445722517105098758",
+		"full_text": "@AditRahim 🤦🏻‍♀️🤦🏻‍♀️🤦🏻‍♀️",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AditRahim",
+					"name": "Adit",
+					"id": 15361652,
+					"id_str": "15361652",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1445719221539786800,
+		"in_reply_to_status_id_str": "1445719221539786753",
+		"in_reply_to_user_id": 15361652,
+		"in_reply_to_user_id_str": "15361652",
+		"in_reply_to_screen_name": "AditRahim",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder |  @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/WW6rfePvMp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WW6rfePvMp",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62574,
+			"friends_count": 36732,
+			"listed_count": 1292,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1601181765",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "58a4c3a0d54e1400",
+			"url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json",
+			"place_type": "admin",
+			"name": "Central Region",
+			"full_name": "Central Region, Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.749959507073,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.36874499902569
+						],
+						[
+							103.749959507073,
+							1.36874499902569
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@AditRahim 🤦🏻‍♀️🤦🏻‍♀️🤦🏻‍♀️"
+	},
+	{
+		"created_at": "Wed Oct 06 11:31:31 +0000 2021",
+		"id": 1445570429985300500,
+		"id_str": "1445713326856556552",
+		"full_text": "Not one made by me!! 🤣 https://t.co/Ng99ALNq7s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ng99ALNq7s",
+					"expanded_url": "https://twitter.com/111110100/status/1445569406499581956",
+					"display_url": "twitter.com/111110100/stat…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder |  @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/WW6rfePvMp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WW6rfePvMp",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62574,
+			"friends_count": 36732,
+			"listed_count": 1292,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1601181765",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "58a4c3a0d54e1400",
+			"url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json",
+			"place_type": "admin",
+			"name": "Central Region",
+			"full_name": "Central Region, Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.749959507073,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.2123138339349
+						],
+						[
+							103.918426999964,
+							1.36874499902569
+						],
+						[
+							103.749959507073,
+							1.36874499902569
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1445569406499582000,
+		"quoted_status_id_str": "1445569406499581956",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ng99ALNq7s",
+			"expanded": "https://twitter.com/111110100/status/1445569406499581956",
+			"display": "twitter.com/111110100/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 06 01:59:38 +0000 2021",
+			"id": 1445569406499582000,
+			"id_str": "1445569406499581956",
+			"full_text": "@debbiediscovers what kind of chatbot is this? 😂 https://t.co/xpxk1SPIaE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1445569274249040000,
+						"id_str": "1445569274249039873",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/FA-xmJHVUAEN5Iy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FA-xmJHVUAEN5Iy.jpg",
+						"url": "https://t.co/xpxk1SPIaE",
+						"display_url": "pic.twitter.com/xpxk1SPIaE",
+						"expanded_url": "https://twitter.com/111110100/status/1445569406499581956/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 526,
+								"h": 526,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 526,
+								"h": 526,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 526,
+								"h": 526,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1445569274249040000,
+						"id_str": "1445569274249039873",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/FA-xmJHVUAEN5Iy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FA-xmJHVUAEN5Iy.jpg",
+						"url": "https://t.co/xpxk1SPIaE",
+						"display_url": "pic.twitter.com/xpxk1SPIaE",
+						"expanded_url": "https://twitter.com/111110100/status/1445569406499581956/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 526,
+								"h": 526,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 526,
+								"h": 526,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 526,
+								"h": 526,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 3060836348,
+			"in_reply_to_user_id_str": "3060836348",
+			"in_reply_to_screen_name": "debbiediscovers",
+			"user": {
+				"id": 59719639,
+				"id_str": "59719639",
+				"name": "111110100",
+				"screen_name": "111110100",
+				"location": "Manila",
+				"description": "Machine Operator @inquirerdotnet",
+				"url": "https://t.co/l0rpVrqZMM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/l0rpVrqZMM",
+								"expanded_url": "http://www.bash.org/?latest",
+								"display_url": "bash.org/?latest",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 212,
+				"friends_count": 182,
+				"listed_count": 1,
+				"created_at": "Fri Jul 24 07:30:59 +0000 2009",
+				"favourites_count": 246,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3512,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0F0A02",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875194788596768768/XZb9Gz9U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875194788596768768/XZb9Gz9U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/59719639/1349241601",
+				"profile_link_color": "473623",
+				"profile_sidebar_border_color": "BCB302",
+				"profile_sidebar_fill_color": "171106",
+				"profile_text_color": "8A7302",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not one made by me!! 🤣 https://t.co/Ng99ALNq7s"
+	},
+	{
+		"created_at": "Wed Oct 06 11:31:02 +0000 2021",
+		"id": 1445713205762818000,
+		"id_str": "1445713205762818057",
+		"full_text": "@agenthunt @financialsamura Good to know! 😬",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "agenthunt",
+					"name": "Vijay",
+					"id": 15287283,
+					"id_str": "15287283",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "financialsamura",
+					"name": "Sam ⚔️ Financial Samurai",
+					"id": 65694678,
+					"id_str": "65694678",
+					"indices": [
+						11,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1445709950479523800,
+		"in_reply_to_status_id_str": "1445709950479523851",
+		"in_reply_to_user_id": 15287283,
+		"in_reply_to_user_id_str": "15287283",
+		"in_reply_to_screen_name": "agenthunt",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder |  @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/WW6rfePvMp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WW6rfePvMp",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62574,
+			"friends_count": 36732,
+			"listed_count": 1292,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1601181765",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@agenthunt @financialsamura Good to know! 😬"
+	},
+	{
 		"created_at": "Wed Oct 06 02:54:00 +0000 2021",
 		"id": 1445583086805155800,
 		"id_str": "1445583086805155846",
