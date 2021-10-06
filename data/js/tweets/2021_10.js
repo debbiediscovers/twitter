@@ -1,10 +1,117 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 06 22:45:00 +0000 2021",
+		"id": 1445882813450887200,
+		"id_str": "1445882813450887174",
+		"full_text": "@financialsamura Quite easy LAH! 😝 (Anyway, I jest - there is some truth to your statement!) \n\nEnjoying your blog and read your newsletter every day! Have a great day!",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "financialsamura",
+					"name": "Sam ⚔️ Financial Samurai",
+					"id": 65694678,
+					"id_str": "65694678",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1445741835687657500,
+		"in_reply_to_status_id_str": "1445741835687657478",
+		"in_reply_to_user_id": 65694678,
+		"in_reply_to_user_id_str": "65694678",
+		"in_reply_to_screen_name": "financialsamura",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder |  @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/WW6rfePvMp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WW6rfePvMp",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62577,
+			"friends_count": 36729,
+			"listed_count": 1292,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1601181765",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@financialsamura Quite easy LAH! 😝 (Anyway, I jest - there is some truth to your statement!) \n\nEnjoying your blog and read your newsletter every day! Have a great day!"
+	},
+	{
 		"created_at": "Wed Oct 06 12:08:02 +0000 2021",
 		"id": 1445722517105098800,
 		"id_str": "1445722517105098758",
-		"full_text": "@AditRahim 🤦🏻‍♀️🤦🏻‍♀️🤦🏻‍♀️",
+		"full_text": "@AditRahim 🤦🏻♀️🤦🏻♀️🤦🏻♀️",
 		"truncated": false,
 		"display_text_range": [
 			11,
@@ -138,7 +245,7 @@ Grailbird.data.tweets_2021_10 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "und",
-		"text": "@AditRahim 🤦🏻‍♀️🤦🏻‍♀️🤦🏻‍♀️"
+		"text": "@AditRahim 🤦🏻♀️🤦🏻♀️🤦🏻♀️"
 	},
 	{
 		"created_at": "Wed Oct 06 11:31:31 +0000 2021",
