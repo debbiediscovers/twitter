@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 10 16:17:00 +0000 2021",
+		"id": 1446648953374589000,
+		"id_str": "1447234719066722310",
+		"full_text": "Using #defi to lease a Tesla with $0 cash outlay. Interesting read! https://t.co/8v1RTV5QFx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "defi",
+					"indices": [
+						6,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8v1RTV5QFx",
+					"expanded_url": "https://twitter.com/localghost/status/1412465881561501697",
+					"display_url": "twitter.com/localghost/sta…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder |  @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/WW6rfePvMp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WW6rfePvMp",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62541,
+			"friends_count": 36483,
+			"listed_count": 1292,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20715,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1601181765",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1412465881561501700,
+		"quoted_status_id_str": "1412465881561501697",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8v1RTV5QFx",
+			"expanded": "https://twitter.com/localghost/status/1412465881561501697",
+			"display": "twitter.com/localghost/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 06 17:38:03 +0000 2021",
+			"id": 1412465881561501700,
+			"id_str": "1412465881561501697",
+			"full_text": "How I got a Tesla Model Y for $0:\n\n→ paid down payment via an ETH backed interest-free loan on @LiquityProtocol\n\n→ paying lease and loan with staking income via @ConvexFinance \n\n👇 $0 paid out of pocket. Free Tesla. Entirely financed by #defi. https://t.co/1jwFkdIZL9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				242
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "defi",
+						"indices": [
+							236,
+							241
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LiquityProtocol",
+						"name": "Liquity",
+						"id": 1247195506331332600,
+						"id_str": "1247195506331332609",
+						"indices": [
+							95,
+							111
+						]
+					},
+					{
+						"screen_name": "ConvexFinance",
+						"name": "Convex Finance",
+						"id": 1368226092050346000,
+						"id_str": "1368226092050345985",
+						"indices": [
+							161,
+							175
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1412465876217991200,
+						"id_str": "1412465876217991170",
+						"indices": [
+							243,
+							266
+						],
+						"media_url": "http://pbs.twimg.com/media/E5oWOxlVkAItuwU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5oWOxlVkAItuwU.jpg",
+						"url": "https://t.co/1jwFkdIZL9",
+						"display_url": "pic.twitter.com/1jwFkdIZL9",
+						"expanded_url": "https://twitter.com/localghost/status/1412465881561501697/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1412465876217991200,
+						"id_str": "1412465876217991170",
+						"indices": [
+							243,
+							266
+						],
+						"media_url": "http://pbs.twimg.com/media/E5oWOxlVkAItuwU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5oWOxlVkAItuwU.jpg",
+						"url": "https://t.co/1jwFkdIZL9",
+						"display_url": "pic.twitter.com/1jwFkdIZL9",
+						"expanded_url": "https://twitter.com/localghost/status/1412465881561501697/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23669044,
+				"id_str": "23669044",
+				"name": "Aaron Ng",
+				"screen_name": "localghost",
+				"location": "California, USA",
+				"description": "avatars and defi 📖 building @hyperonline_ (YCW21) worked at: @facebook, @cashapp. 📷 IG: localghostx",
+				"url": "https://t.co/L86SjgdRDD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L86SjgdRDD",
+								"expanded_url": "https://aaron.ng",
+								"display_url": "aaron.ng",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4801,
+				"friends_count": 645,
+				"listed_count": 187,
+				"created_at": "Tue Mar 10 22:15:34 +0000 2009",
+				"favourites_count": 69304,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10002,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1418683472126771200/8EfaZLFm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1418683472126771200/8EfaZLFm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23669044/1618173020",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 65,
+			"favorite_count": 538,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Using #defi to lease a Tesla with $0 cash outlay. Interesting read! https://t.co/8v1RTV5QFx"
+	},
+	{
 		"created_at": "Sat Oct 09 01:29:22 +0000 2021",
 		"id": 1446648953374589000,
 		"id_str": "1446648953374588929",
