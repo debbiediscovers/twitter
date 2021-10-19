@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 19 22:51:13 +0000 2021",
+		"id": 1450434384335499300,
+		"id_str": "1450595420766236673",
+		"full_text": "13 Rules that Colin Powell lived by. 👍👍\n\nGood rules. My favourites are #7 and #13\n\nhttps://t.co/n8hnxQPTnO https://t.co/h41vixKxxi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n8hnxQPTnO",
+					"expanded_url": "https://www.newsweek.com/colin-powell-said-he-lived-his-life-these-13-rules-memoir-1639894",
+					"display_url": "newsweek.com/colin-powell-s…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450434289225535500,
+					"id_str": "1450434289225535492",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FCD6TSNVkAQdDtN.png",
+					"media_url_https": "https://pbs.twimg.com/media/FCD6TSNVkAQdDtN.png",
+					"url": "https://t.co/h41vixKxxi",
+					"display_url": "pic.twitter.com/h41vixKxxi",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1450434384335499264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 822,
+							"h": 509,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 509,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450434289225535500,
+					"id_str": "1450434289225535492",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FCD6TSNVkAQdDtN.png",
+					"media_url_https": "https://pbs.twimg.com/media/FCD6TSNVkAQdDtN.png",
+					"url": "https://t.co/h41vixKxxi",
+					"display_url": "pic.twitter.com/h41vixKxxi",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1450434384335499264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 822,
+							"h": 509,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 509,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder |  @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/WW6rfePvMp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WW6rfePvMp",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62486,
+			"friends_count": 34905,
+			"listed_count": 1292,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1601181765",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "13 Rules that Colin Powell lived by. 👍👍\n\nGood rules. My favourites are #7 and #13\n\nhttps://t.co/n8hnxQPTnO https://t.co/h41vixKxxi"
+	},
+	{
 		"created_at": "Tue Oct 19 12:53:44 +0000 2021",
 		"id": 1450445058319143000,
 		"id_str": "1450445058319142913",
