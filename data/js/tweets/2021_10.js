@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 23 21:49:12 +0000 2021",
+		"id": 1451515365331124200,
+		"id_str": "1452029365450010628",
+		"full_text": "Fascinating to see how @Amazon robotics is transforming logistics and supply chain https://t.co/XwxQmpCTMt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amazon",
+					"name": "Amazon",
+					"id": 20793816,
+					"id_str": "20793816",
+					"indices": [
+						23,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XwxQmpCTMt",
+					"expanded_url": "https://twitter.com/davehclark/status/1451317081673195532",
+					"display_url": "twitter.com/davehclark/sta…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder |  @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/WW6rfePvMp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WW6rfePvMp",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62455,
+			"friends_count": 34893,
+			"listed_count": 1293,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20704,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1601181765",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1451317081673195500,
+		"quoted_status_id_str": "1451317081673195532",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XwxQmpCTMt",
+			"expanded": "https://twitter.com/davehclark/status/1451317081673195532",
+			"display": "twitter.com/davehclark/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 21 22:38:51 +0000 2021",
+			"id": 1451317081673195500,
+			"id_str": "1451317081673195532",
+			"full_text": "Also got to visit our robotic Air Hub sort center today which is very cool and the technical foundation for what we are installing in ground sort centers and the national air hub at CVG. https://t.co/Xet72Q757N",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				186
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1451317025549213700,
+						"id_str": "1451317025549213698",
+						"indices": [
+							187,
+							210
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451317025549213698/pu/img/qeP_f_dsRwJ1BWFs.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451317025549213698/pu/img/qeP_f_dsRwJ1BWFs.jpg",
+						"url": "https://t.co/Xet72Q757N",
+						"display_url": "pic.twitter.com/Xet72Q757N",
+						"expanded_url": "https://twitter.com/davehclark/status/1451317081673195532/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1451317025549213700,
+						"id_str": "1451317025549213698",
+						"indices": [
+							187,
+							210
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451317025549213698/pu/img/qeP_f_dsRwJ1BWFs.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451317025549213698/pu/img/qeP_f_dsRwJ1BWFs.jpg",
+						"url": "https://t.co/Xet72Q757N",
+						"display_url": "pic.twitter.com/Xet72Q757N",
+						"expanded_url": "https://twitter.com/davehclark/status/1451317081673195532/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 9540,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1451317025549213698/pu/vid/1280x720/EcMjiFh1MlQAixzc.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1451317025549213698/pu/vid/640x360/FIxcy7ZIIHyPvUW1.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1451317025549213698/pu/vid/480x270/1Wtc1fqr9m6PXaf-.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1451317025549213698/pu/pl/T5Mlp5EjdzbBDBYY.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 796662787346985000,
+				"id_str": "796662787346984960",
+				"name": "Dave Clark",
+				"screen_name": "davehclark",
+				"location": "Washington, USA",
+				"description": "Husband, Father, CEO @Amazon WW Consumer, UTK MBA Supply Chain Alum, Red Cross Board of Governors and Auburn Football Fan (Opinions are my own)",
+				"url": "https://t.co/4rwjfdidk3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4rwjfdidk3",
+								"expanded_url": "http://Amazon.com",
+								"display_url": "Amazon.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22783,
+				"friends_count": 422,
+				"listed_count": 160,
+				"created_at": "Thu Nov 10 10:36:24 +0000 2016",
+				"favourites_count": 1946,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 85,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1336773906128986112/nazCwPrP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336773906128986112/nazCwPrP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/796662787346984960/1607394195",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 374,
+			"favorite_count": 2334,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fascinating to see how @Amazon robotics is transforming logistics and supply chain https://t.co/XwxQmpCTMt"
+	},
+	{
 		"created_at": "Fri Oct 22 21:53:27 +0000 2021",
 		"id": 1450434384335499300,
 		"id_str": "1451668045579964416",
