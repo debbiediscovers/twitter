@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 27 00:39:38 +0000 2021",
+		"id": 1453159418590216200,
+		"id_str": "1453159418590216195",
+		"full_text": "Great thread by @ryantakesoff on decentralisation and the power of the individual! ⚡️ https://t.co/bPGWZT3nAF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryantakesoff",
+					"name": "Ryan Breslow 🕺",
+					"id": 369735258,
+					"id_str": "369735258",
+					"indices": [
+						16,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bPGWZT3nAF",
+					"expanded_url": "https://twitter.com/ryantakesoff/status/1453155336983130114",
+					"display_url": "twitter.com/ryantakesoff/s…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder |  @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/WW6rfePvMp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WW6rfePvMp",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62421,
+			"friends_count": 34885,
+			"listed_count": 1293,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1601181765",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1453155336983130000,
+		"quoted_status_id_str": "1453155336983130114",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bPGWZT3nAF",
+			"expanded": "https://twitter.com/ryantakesoff/status/1453155336983130114",
+			"display": "twitter.com/ryantakesoff/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 27 00:23:25 +0000 2021",
+			"id": 1453155336983130000,
+			"id_str": "1453155336983130114",
+			"full_text": "We're going through one of the biggest shifts in the history of the world:\n \nThe businesses of yesterday consolidated power.\n \nThe businesses of tomorrow distributes power.\n \nUnderstand this and the future is yours.\n \nNeed help? Let's dive in with examples 👇👇👇",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				260
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 369735258,
+				"id_str": "369735258",
+				"name": "Ryan Breslow 🕺",
+				"screen_name": "ryantakesoff",
+				"location": "See my work 👉",
+				"description": "I am 27 and have built 2 unicorns @bolt @eco. My mission is to get the world dancing https://t.co/iHUUvQcv9T & fix corporate culture https://t.co/bNFmbhb7ZO. Sharing the learnings ☀️",
+				"url": "https://t.co/J6BTJUQOC1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J6BTJUQOC1",
+								"expanded_url": "https://ryantakesoff.com/",
+								"display_url": "ryantakesoff.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iHUUvQcv9T",
+								"expanded_url": "http://themvmt.org",
+								"display_url": "themvmt.org",
+								"indices": [
+									85,
+									108
+								]
+							},
+							{
+								"url": "https://t.co/bNFmbhb7ZO",
+								"expanded_url": "http://conscious.org",
+								"display_url": "conscious.org",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 36241,
+				"friends_count": 542,
+				"listed_count": 431,
+				"created_at": "Wed Sep 07 21:18:44 +0000 2011",
+				"favourites_count": 4156,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 688,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "7DA8BD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1439602992710406151/1DiPBift_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439602992710406151/1DiPBift_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/369735258/1632063555",
+				"profile_link_color": "4285F4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 180,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great thread by @ryantakesoff on decentralisation and the power of the individual! ⚡️ https://t.co/bPGWZT3nAF"
+	},
+	{
 		"created_at": "Tue Oct 26 07:36:01 +0000 2021",
 		"id": 1452901818657247200,
 		"id_str": "1452901818657247233",
