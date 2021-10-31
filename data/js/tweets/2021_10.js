@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 31 03:26:58 +0000 2021",
+		"id": 1454611348600483800,
+		"id_str": "1454651079795220482",
+		"full_text": "Interesting take on the Metaverse, and I think I agree!! https://t.co/cnM5uIZCFW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cnM5uIZCFW",
+					"expanded_url": "https://twitter.com/ShaanVP/status/1454151237650112512",
+					"display_url": "twitter.com/ShaanVP/status…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder |  @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/WW6rfePvMp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WW6rfePvMp",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62414,
+			"friends_count": 34610,
+			"listed_count": 1293,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1601181765",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1454151237650112500,
+		"quoted_status_id_str": "1454151237650112512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cnM5uIZCFW",
+			"expanded": "https://twitter.com/ShaanVP/status/1454151237650112512",
+			"display": "twitter.com/ShaanVP/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 29 18:20:46 +0000 2021",
+			"id": 1454151237650112500,
+			"id_str": "1454151237650112512",
+			"full_text": "Hot take: Everyone is wrong about the Metaverse. \n\nhere's my 3 part theory..",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				76
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 101354595,
+				"id_str": "101354595",
+				"name": "Shaan Puri",
+				"screen_name": "ShaanVP",
+				"location": "San Francisco, CA",
+				"description": "i am the rain maker. the shot taker. the cookie baker. life is better than fair…If you see me in a fight with a bear, pray for the bear 🙏",
+				"url": "https://t.co/r1kxix0SUv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/r1kxix0SUv",
+								"expanded_url": "http://www.shaanpuri.com",
+								"display_url": "shaanpuri.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 182994,
+				"friends_count": 10448,
+				"listed_count": 2410,
+				"created_at": "Sun Jan 03 00:47:50 +0000 2010",
+				"favourites_count": 15228,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10564,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1433108361839472642/3d54PCqW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1433108361839472642/3d54PCqW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/101354595/1559284662",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2972,
+			"favorite_count": 10008,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interesting take on the Metaverse, and I think I agree!! https://t.co/cnM5uIZCFW"
+	},
+	{
 		"created_at": "Sun Oct 31 00:51:10 +0000 2021",
 		"id": 1454611872552931300,
 		"id_str": "1454611872552931333",
