@@ -1,0 +1,86 @@
+Grailbird.data.tweets_2022_03 = 
+[
+	{
+		"created_at": "Fri Mar 04 02:30:20 +0000 2022",
+		"id": 1498734254657785900,
+		"id_str": "1499572925199904769",
+		"full_text": "Nuclear physicist here: there's a lot to be worried about, but one thing you SHOULDN'T worry about, is Russia bombing Ukrainian nuclear power plants.\nIt's literally, physically impossible to make those explode.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1069975786864734200,
+			"id_str": "1069975786864734209",
+			"name": "Mårco Målvagio - poorly explained history stuff",
+			"screen_name": "MalvagioMarco",
+			"location": "Europe",
+			"description": "Physicist, wannabe SFF writer. No historian! But salty about VIth century politics. ADHD. He/they. Posting about old stuff, weird stuff, weird old stuff.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2755,
+			"friends_count": 340,
+			"listed_count": 25,
+			"created_at": "Tue Dec 04 15:24:41 +0000 2018",
+			"favourites_count": 24732,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1188493557126123520/69kuTLUI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188493557126123520/69kuTLUI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1069975786864734209/1603464733",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1052,
+		"favorite_count": 3050,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Nuclear physicist here: there's a lot to be worried about, but one thing you SHOULDN'T worry about, is Russia bombing Ukrainian nuclear power plants.\nIt's literally, physically impossible to make those explode."
+	}
+]
