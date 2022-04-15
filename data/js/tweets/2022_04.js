@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 14 23:33:26 +0000 2022",
+		"id": 1514748695643754500,
+		"id_str": "1514748695643754497",
+		"full_text": "This one is my favourite ... a bowl of soup that looks like a monster, knitted out of wool https://t.co/2LYZF8M1DJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1514748625292734500,
+					"id_str": "1514748625292734483",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FQV32WaVsBMIlZe.png",
+					"media_url_https": "https://pbs.twimg.com/media/FQV32WaVsBMIlZe.png",
+					"url": "https://t.co/2LYZF8M1DJ",
+					"display_url": "pic.twitter.com/2LYZF8M1DJ",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1514748695643754497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 683,
+							"h": 785,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 592,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 683,
+							"h": 785,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514748625292734500,
+					"id_str": "1514748625292734483",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FQV32WaVsBMIlZe.png",
+					"media_url_https": "https://pbs.twimg.com/media/FQV32WaVsBMIlZe.png",
+					"url": "https://t.co/2LYZF8M1DJ",
+					"display_url": "pic.twitter.com/2LYZF8M1DJ",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1514748695643754497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 683,
+							"h": 785,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 592,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 683,
+							"h": 785,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1514748446728630300,
+		"in_reply_to_status_id_str": "1514748446728630287",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder |  @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/WW6rfePvMp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WW6rfePvMp",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61494,
+			"friends_count": 33703,
+			"listed_count": 1275,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1601181765",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This one is my favourite ... a bowl of soup that looks like a monster, knitted out of wool https://t.co/2LYZF8M1DJ"
+	},
+	{
+		"created_at": "Thu Apr 14 23:32:52 +0000 2022",
+		"id": 1514748552018227200,
+		"id_str": "1514748552018227201",
+		"full_text": "A full thread of images generated using text by DALL-E \nhttps://t.co/2NOvKeugCJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2NOvKeugCJ",
+					"expanded_url": "https://twitter.com/BecomingCritter/status/1511808277490896903",
+					"display_url": "twitter.com/BecomingCritte…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1514748446728630300,
+		"in_reply_to_status_id_str": "1514748446728630287",
+		"in_reply_to_user_id": 3060836348,
+		"in_reply_to_user_id_str": "3060836348",
+		"in_reply_to_screen_name": "debbiediscovers",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Head of Digital Transformation | Speaker | 21 All Star Twitter | 3X School Builder |  @Medium Top writer #AI and chatbots | Allergic to Stupid Tweets",
+			"url": "https://t.co/WW6rfePvMp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WW6rfePvMp",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61494,
+			"friends_count": 33703,
+			"listed_count": 1275,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1601181765",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1511808277490897000,
+		"quoted_status_id_str": "1511808277490896903",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2NOvKeugCJ",
+			"expanded": "https://twitter.com/BecomingCritter/status/1511808277490896903",
+			"display": "twitter.com/BecomingCritte…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 06 20:49:16 +0000 2022",
+			"id": 1511808277490897000,
+			"id_str": "1511808277490896903",
+			"full_text": "Thread of DALL-E AI generated images and their prompts",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				54
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89266660,
+				"id_str": "89266660",
+				"name": "Critter",
+				"screen_name": "BecomingCritter",
+				"location": "pretty good thanks",
+				"description": "I interview the sexiest people alive: https://t.co/xwp0VhTnd2 \n\nTime isn't real",
+				"url": "https://t.co/uLbzsW9Nju",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uLbzsW9Nju",
+								"expanded_url": "https://becomingcreature.substack.com/",
+								"display_url": "becomingcreature.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xwp0VhTnd2",
+								"expanded_url": "http://becomingcreature.substack.com",
+								"display_url": "becomingcreature.substack.com",
+								"indices": [
+									38,
+									61
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5217,
+				"friends_count": 497,
+				"listed_count": 77,
+				"created_at": "Wed Nov 11 19:54:16 +0000 2009",
+				"favourites_count": 79023,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31825,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1500601521041465347/5XeMVlYy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500601521041465347/5XeMVlYy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/89266660/1629426837",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1025,
+			"favorite_count": 3693,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A full thread of images generated using text by DALL-E \nhttps://t.co/2NOvKeugCJ"
+	},
+	{
 		"created_at": "Wed Apr 13 13:40:06 +0000 2022",
 		"id": 1514111859783508000,
 		"id_str": "1514236989398159362",
