@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 15 04:06:11 +0000 2022",
+		"id": 1547794633089958000,
+		"id_str": "1547794633089957888",
+		"full_text": "Wow this UNCOPYRIGHT notice on Leo Babauta's @zen_habits blog is the coolest thing I've seen all week. \n\nVery cool.\n\nhttps://t.co/QjiuertHQm https://t.co/ibUfiQCzKU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zen_habits",
+					"name": "Leo Babauta",
+					"id": 15859268,
+					"id_str": "15859268",
+					"indices": [
+						45,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QjiuertHQm",
+					"expanded_url": "https://zenhabits.net/",
+					"display_url": "zenhabits.net",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547794275496145000,
+					"id_str": "1547794275496144896",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FXresWhUsAA3RJ-.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXresWhUsAA3RJ-.png",
+					"url": "https://t.co/ibUfiQCzKU",
+					"display_url": "pic.twitter.com/ibUfiQCzKU",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1547794633089957888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 811,
+							"h": 515,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 811,
+							"h": 515,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 432,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547794275496145000,
+					"id_str": "1547794275496144896",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FXresWhUsAA3RJ-.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXresWhUsAA3RJ-.png",
+					"url": "https://t.co/ibUfiQCzKU",
+					"display_url": "pic.twitter.com/ibUfiQCzKU",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1547794633089957888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 811,
+							"h": 515,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 811,
+							"h": 515,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 432,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Deborah Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "Ex Bain, private equity and family office investments, now into all things digital. I love anything tech, geeky and health related. Allergic to stupid tweets",
+			"url": "https://t.co/WW6rfePvMp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WW6rfePvMp",
+							"expanded_url": "https://debbiediscovers.me",
+							"display_url": "debbiediscovers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61029,
+			"friends_count": 33559,
+			"listed_count": 1265,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417300441021370368/Y915Frbb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1601181765",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow this UNCOPYRIGHT notice on Leo Babauta's @zen_habits blog is the coolest thing I've seen all week. \n\nVery cool.\n\nhttps://t.co/QjiuertHQm https://t.co/ibUfiQCzKU"
+	},
+	{
 		"created_at": "Wed Jul 06 07:57:07 +0000 2022",
 		"id": 1543725829099663400,
 		"id_str": "1544591257346850816",
