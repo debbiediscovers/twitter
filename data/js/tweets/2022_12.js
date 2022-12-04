@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sun Dec 04 22:31:01 +0000 2022",
+		"id": 1598955169576013800,
+		"id_str": "1599531748819619841",
+		"full_text": "Just released a really simple @OpenAI's ChatGPT Chrome Extension :)\nYou can access ChatGPT from anywhere on the web!\nIt's just a 20-30 lines of code haha 😆 \n\nPublic Repo: https://t.co/8Qvkg6uhEA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OpenAI",
+					"name": "OpenAI",
+					"id": 4398626122,
+					"id_str": "4398626122",
+					"indices": [
+						30,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8Qvkg6uhEA",
+					"expanded_url": "https://github.com/kazuki-sf/ChatGPT_Extension",
+					"display_url": "github.com/kazuki-sf/Chat…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 935034522524991500,
+			"id_str": "935034522524991488",
+			"name": "Kazuki Nakayashiki",
+			"screen_name": "kazuki_sf_",
+			"location": "San Francisco",
+			"description": "Building @_Glasp (social annotation x AI) 📚 | alum: #UTokyo, @beondeck, @SkyDeck_Cal, @launchhouse | ai: #dalledle",
+			"url": "https://t.co/c3jR8fHxPm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c3jR8fHxPm",
+							"expanded_url": "https://linktr.ee/_kazuki",
+							"display_url": "linktr.ee/_kazuki",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2763,
+			"friends_count": 1995,
+			"listed_count": 57,
+			"created_at": "Mon Nov 27 06:36:17 +0000 2017",
+			"favourites_count": 29987,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396345366346276868/KZZMtUOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396345366346276868/KZZMtUOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/935034522524991488/1582541515",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 120,
+		"favorite_count": 643,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just released a really simple @OpenAI's ChatGPT Chrome Extension :)\nYou can access ChatGPT from anywhere on the web!\nIt's just a 20-30 lines of code haha 😆 \n\nPublic Repo: https://t.co/8Qvkg6uhEA"
+	},
+	{
 		"created_at": "Sun Dec 04 19:11:47 +0000 2022",
 		"id": 1599379283784630300,
 		"id_str": "1599481612416126977",
