@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Tue Dec 06 18:18:53 +0000 2022",
+		"id": 1600012178999738400,
+		"id_str": "1600193075380654080",
+		"full_text": "This made me laugh! https://t.co/9Mt9ppjgdo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9Mt9ppjgdo",
+					"expanded_url": "https://twitter.com/daniel_eckler/status/1598690115819290626",
+					"display_url": "twitter.com/daniel_eckler/…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Debbi Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "I love anything tech, geeky and health related. Allergic to stupid tweets",
+			"url": "https://t.co/3Fk7Xrxa87",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Fk7Xrxa87",
+							"expanded_url": "https://deb.bi",
+							"display_url": "deb.bi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59724,
+			"friends_count": 33004,
+			"listed_count": 1245,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1599749985704103938/GuyCECl__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1599749985704103938/GuyCECl__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1601181765",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1598690115819290600,
+		"quoted_status_id_str": "1598690115819290626",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9Mt9ppjgdo",
+			"expanded": "https://twitter.com/daniel_eckler/status/1598690115819290626",
+			"display": "twitter.com/daniel_eckler/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 02 14:46:40 +0000 2022",
+			"id": 1598690115819290600,
+			"id_str": "1598690115819290626",
+			"full_text": "AI FAILS 🧵\n\n\"Man looking at himself in a mirror\" https://t.co/7OfAvDkV5N",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1598690111348146200,
+						"id_str": "1598690111348146176",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/Fi-wL6DWAAANbko.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fi-wL6DWAAANbko.jpg",
+						"url": "https://t.co/7OfAvDkV5N",
+						"display_url": "pic.twitter.com/7OfAvDkV5N",
+						"expanded_url": "https://twitter.com/daniel_eckler/status/1598690115819290626/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1040,
+								"h": 924,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1040,
+								"h": 924,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1598690111348146200,
+						"id_str": "1598690111348146176",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/Fi-wL6DWAAANbko.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fi-wL6DWAAANbko.jpg",
+						"url": "https://t.co/7OfAvDkV5N",
+						"display_url": "pic.twitter.com/7OfAvDkV5N",
+						"expanded_url": "https://twitter.com/daniel_eckler/status/1598690115819290626/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1040,
+								"h": 924,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1040,
+								"h": 924,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://tweethunter.io\" rel=\"nofollow\">Tweet Hunter Pro</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17391973,
+				"id_str": "17391973",
+				"name": "Daniel Eckler ✦",
+				"screen_name": "daniel_eckler",
+				"location": "Outerspace",
+				"description": "VC + Marketing  🧠 @nike @spotify @meta  👽 @spacecadet",
+				"url": "https://t.co/A1jTaP0wrS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/A1jTaP0wrS",
+								"expanded_url": "http://www.spacecadet.ventures",
+								"display_url": "spacecadet.ventures",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21817,
+				"friends_count": 634,
+				"listed_count": 861,
+				"created_at": "Fri Nov 14 17:53:17 +0000 2008",
+				"favourites_count": 5657,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13259,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1600020966263951360/WDZAo4L3_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1600020966263951360/WDZAo4L3_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17391973/1670352130",
+				"profile_link_color": "FF660E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FEF100",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 404,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This made me laugh! https://t.co/9Mt9ppjgdo"
+	},
+	{
 		"created_at": "Tue Dec 06 11:41:10 +0000 2022",
 		"id": 1599593369365524500,
 		"id_str": "1600092984019943425",
