@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 08 09:29:20 +0000 2022",
+		"id": 1600784581602336800,
+		"id_str": "1600784581602336768",
+		"full_text": "@SamRobe99358507 @ZombieZebrasNFT @Clardius1 @bocedi @pingguoabc @nftmagiak @Desertdealers @kengoldfarb @Robg2727 @timsavas @SquiffyBagshaw @Natou_eth @GabGrowth @doubleape @GERONIMOmoney scam",
+		"truncated": false,
+		"display_text_range": [
+			188,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SamRobe99358507",
+					"name": "Sam Roberts",
+					"id": 1598509102661243000,
+					"id_str": "1598509102661242880",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "ZombieZebrasNFT",
+					"name": "z0mby.eth",
+					"id": 1441104106282631200,
+					"id_str": "1441104106282631169",
+					"indices": [
+						17,
+						33
+					]
+				},
+				{
+					"screen_name": "Clardius1",
+					"name": "SNeakyClar",
+					"id": 1557631422856278000,
+					"id_str": "1557631422856278016",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"screen_name": "bocedi",
+					"name": "Simone Bocedi 🔥",
+					"id": 304892763,
+					"id_str": "304892763",
+					"indices": [
+						45,
+						52
+					]
+				},
+				{
+					"screen_name": "pingguoabc",
+					"name": "pingguo",
+					"id": 1582928422791417900,
+					"id_str": "1582928422791417856",
+					"indices": [
+						53,
+						64
+					]
+				},
+				{
+					"screen_name": "nftmagiak",
+					"name": "nftmagiak",
+					"id": 1490342670904004600,
+					"id_str": "1490342670904004609",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"screen_name": "Desertdealers",
+					"name": "Desert Auto Group",
+					"id": 132226232,
+					"id_str": "132226232",
+					"indices": [
+						76,
+						90
+					]
+				},
+				{
+					"screen_name": "kengoldfarb",
+					"name": "kencodes.eth/x",
+					"id": 109046364,
+					"id_str": "109046364",
+					"indices": [
+						91,
+						103
+					]
+				},
+				{
+					"screen_name": "Robg2727",
+					"name": "Rob",
+					"id": 884913966,
+					"id_str": "884913966",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"screen_name": "timsavas",
+					"name": "timsavas",
+					"id": 236449142,
+					"id_str": "236449142",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"screen_name": "SquiffyBagshaw",
+					"name": "Squiffy Bagshaw",
+					"id": 1511367310736511000,
+					"id_str": "1511367310736510983",
+					"indices": [
+						124,
+						139
+					]
+				},
+				{
+					"screen_name": "Natou_eth",
+					"name": "Natou.eth",
+					"id": 1208114669724061700,
+					"id_str": "1208114669724061696",
+					"indices": [
+						140,
+						150
+					]
+				},
+				{
+					"screen_name": "GabGrowth",
+					"name": "GabGrowth | DRFT | tD",
+					"id": 1030436381779157000,
+					"id_str": "1030436381779156993",
+					"indices": [
+						151,
+						161
+					]
+				},
+				{
+					"screen_name": "doubleape",
+					"name": "Double Ape",
+					"id": 1689113617,
+					"id_str": "1689113617",
+					"indices": [
+						162,
+						172
+					]
+				},
+				{
+					"screen_name": "GERONIMOmoney",
+					"name": "GERONIMOmoney",
+					"id": 1402379282345652200,
+					"id_str": "1402379282345652225",
+					"indices": [
+						173,
+						187
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1600744126223614000,
+		"in_reply_to_status_id_str": "1600744126223613952",
+		"in_reply_to_user_id": 1598509102661243000,
+		"in_reply_to_user_id_str": "1598509102661242880",
+		"in_reply_to_screen_name": "SamRobe99358507",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Debbi Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "I love anything tech, geeky and health related. Allergic to stupid tweets",
+			"url": "https://t.co/3Fk7Xrxa87",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Fk7Xrxa87",
+							"expanded_url": "https://deb.bi",
+							"display_url": "deb.bi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59719,
+			"friends_count": 33004,
+			"listed_count": 1245,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1599749985704103938/GuyCECl__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1599749985704103938/GuyCECl__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1601181765",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SamRobe99358507 @ZombieZebrasNFT @Clardius1 @bocedi @pingguoabc @nftmagiak @Desertdealers @kengoldfarb @Robg2727 @timsavas @SquiffyBagshaw @Natou_eth @GabGrowth @doubleape @GERONIMOmoney scam"
+	},
+	{
 		"created_at": "Thu Dec 08 04:47:16 +0000 2022",
 		"id": 1600713599810273300,
 		"id_str": "1600713599810273280",
