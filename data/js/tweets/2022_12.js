@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 08 04:47:16 +0000 2022",
+		"id": 1600713599810273300,
+		"id_str": "1600713599810273280",
+		"full_text": "@ts301230 @tferriss @cryptopunksnfts Me too, woke up at 3am too as I was on waitlist but didn't manage to mint one 🥲",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ts301230",
+					"name": "ts3012",
+					"id": 1573701611540680700,
+					"id_str": "1573701611540680710",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "tferriss",
+					"name": "Tim Ferriss",
+					"id": 11740902,
+					"id_str": "11740902",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"screen_name": "cryptopunksnfts",
+					"name": "CryptoPunks",
+					"id": 62418232,
+					"id_str": "62418232",
+					"indices": [
+						20,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1600569082470072300,
+		"in_reply_to_status_id_str": "1600569082470072320",
+		"in_reply_to_user_id": 1573701611540680700,
+		"in_reply_to_user_id_str": "1573701611540680710",
+		"in_reply_to_screen_name": "ts301230",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Debbi Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "I love anything tech, geeky and health related. Allergic to stupid tweets",
+			"url": "https://t.co/3Fk7Xrxa87",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Fk7Xrxa87",
+							"expanded_url": "https://deb.bi",
+							"display_url": "deb.bi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59721,
+			"friends_count": 33004,
+			"listed_count": 1245,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17729,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1599749985704103938/GuyCECl__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1599749985704103938/GuyCECl__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1601181765",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ts301230 @tferriss @cryptopunksnfts Me too, woke up at 3am too as I was on waitlist but didn't manage to mint one 🥲"
+	},
+	{
 		"created_at": "Wed Dec 07 05:50:58 +0000 2022",
 		"id": 1600367241375404000,
 		"id_str": "1600367241375404032",
