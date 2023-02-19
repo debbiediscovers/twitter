@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sun Feb 19 03:13:20 +0000 2023",
+		"id": 1627096961273974800,
+		"id_str": "1627144272821764096",
+		"full_text": "If you want to feel rich, count the things you have that money can’t buy. \n\nI’ll start.\n1. My health \n2. My family \n3. Love \n4. Best friends \n5. Peace of mind",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Debbi Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "I love anything tech, geeky and health related. Allergic to stupid tweets",
+			"url": "https://t.co/3Fk7XrPjmf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Fk7XrPjmf",
+							"expanded_url": "https://deb.bi",
+							"display_url": "deb.bi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59365,
+			"friends_count": 32901,
+			"listed_count": 1238,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1627097431946166272/LCU9byVM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1627097431946166272/LCU9byVM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1601181765",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If you want to feel rich, count the things you have that money can’t buy. \n\nI’ll start.\n1. My health \n2. My family \n3. Love \n4. Best friends \n5. Peace of mind"
+	},
+	{
 		"created_at": "Sun Feb 19 00:07:48 +0000 2023",
 		"id": 1626751460007633000,
 		"id_str": "1627097581372465155",
