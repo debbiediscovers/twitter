@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 20 01:19:32 +0000 2023",
+		"id": 1627478024160682000,
+		"id_str": "1627478024160681984",
+		"full_text": "@infonyourmark Yes with frozen strawberries and @drinkLMNT electrolytes and lots of rum ice and mint. Delicious!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "infonyourmark",
+					"name": "Mark J. Drenth",
+					"id": 438101286,
+					"id_str": "438101286",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "drinkLMNT",
+					"name": "LMNT",
+					"id": 1047163070299033600,
+					"id_str": "1047163070299033600",
+					"indices": [
+						48,
+						58
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1627473621248618500,
+		"in_reply_to_status_id_str": "1627473621248618498",
+		"in_reply_to_user_id": 438101286,
+		"in_reply_to_user_id_str": "438101286",
+		"in_reply_to_screen_name": "infonyourmark",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Debbi Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "I love anything tech, geeky and health related. Allergic to stupid tweets",
+			"url": "https://t.co/3Fk7XrPjmf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Fk7XrPjmf",
+							"expanded_url": "https://deb.bi",
+							"display_url": "deb.bi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59356,
+			"friends_count": 32904,
+			"listed_count": 1238,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1627425696888025088/IM1olF_c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1627425696888025088/IM1olF_c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1676843509",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@infonyourmark Yes with frozen strawberries and @drinkLMNT electrolytes and lots of rum ice and mint. Delicious!"
+	},
+	{
 		"created_at": "Sun Feb 19 23:37:02 +0000 2023",
 		"id": 1627425933165748200,
 		"id_str": "1627452227689512960",
