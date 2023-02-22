@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Wed Feb 22 14:44:45 +0000 2023",
+		"id": 1628405439338774500,
+		"id_str": "1628405439338774528",
+		"full_text": "@yorudan Heh works well right?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yorudan",
+					"name": "Jordan Davis 💚",
+					"id": 53448035,
+					"id_str": "53448035",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1628404843143643100,
+		"in_reply_to_status_id_str": "1628404843143643137",
+		"in_reply_to_user_id": 53448035,
+		"in_reply_to_user_id_str": "53448035",
+		"in_reply_to_screen_name": "yorudan",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Debbi Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "I love anything tech, geeky and health related. Allergic to stupid tweets",
+			"url": "https://t.co/3Fk7XrPjmf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Fk7XrPjmf",
+							"expanded_url": "https://deb.bi",
+							"display_url": "deb.bi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59330,
+			"friends_count": 32900,
+			"listed_count": 1238,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1627425696888025088/IM1olF_c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1627425696888025088/IM1olF_c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1676843509",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@yorudan Heh works well right?"
+	},
+	{
 		"created_at": "Wed Feb 22 11:43:00 +0000 2023",
 		"id": 1628359699082137600,
 		"id_str": "1628359699082137601",
