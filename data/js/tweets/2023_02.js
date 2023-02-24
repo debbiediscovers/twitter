@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Fri Feb 24 01:25:56 +0000 2023",
+		"id": 531530767323889660,
+		"id_str": "1628929183375298560",
+		"full_text": "“One day you will wake up and there won’t be any more time to do the things you’ve always wanted. Do it now.” http://t.co/p7PJt9u9Ry",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 531530763519680500,
+					"id_str": "531530763519680514",
+					"indices": [
+						110,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/B2BgacrIYAIbdrQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/B2BgacrIYAIbdrQ.jpg",
+					"url": "http://t.co/p7PJt9u9Ry",
+					"display_url": "pic.twitter.com/p7PJt9u9Ry",
+					"expanded_url": "https://twitter.com/paulocoelho/status/531530767323889664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 542,
+							"h": 636,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 542,
+							"h": 636,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 542,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 531530763519680500,
+					"id_str": "531530763519680514",
+					"indices": [
+						110,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/B2BgacrIYAIbdrQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/B2BgacrIYAIbdrQ.jpg",
+					"url": "http://t.co/p7PJt9u9Ry",
+					"display_url": "pic.twitter.com/p7PJt9u9Ry",
+					"expanded_url": "https://twitter.com/paulocoelho/status/531530767323889664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 542,
+							"h": 636,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 542,
+							"h": 636,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 542,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 531530764954132500,
+					"id_str": "531530764954132480",
+					"indices": [
+						110,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/B2BgaiBIYAAkHWi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/B2BgaiBIYAAkHWi.jpg",
+					"url": "http://t.co/p7PJt9u9Ry",
+					"display_url": "pic.twitter.com/p7PJt9u9Ry",
+					"expanded_url": "https://twitter.com/paulocoelho/status/531530767323889664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 531530766405345300,
+					"id_str": "531530766405345280",
+					"indices": [
+						110,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/B2BganbIIAAA_Ny.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/B2BganbIIAAA_Ny.jpg",
+					"url": "http://t.co/p7PJt9u9Ry",
+					"display_url": "pic.twitter.com/p7PJt9u9Ry",
+					"expanded_url": "https://twitter.com/paulocoelho/status/531530767323889664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 723,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 723,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 658,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 531530766359199740,
+					"id_str": "531530766359199744",
+					"indices": [
+						110,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/B2BganQIAAAFEDw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/B2BganQIAAAFEDw.jpg",
+					"url": "http://t.co/p7PJt9u9Ry",
+					"display_url": "pic.twitter.com/p7PJt9u9Ry",
+					"expanded_url": "https://twitter.com/paulocoelho/status/531530767323889664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5520952,
+			"id_str": "5520952",
+			"name": "Paulo Coelho",
+			"screen_name": "paulocoelho",
+			"location": "",
+			"description": "I delete tweets",
+			"url": "https://t.co/gCfGcJhU6c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gCfGcJhU6c",
+							"expanded_url": "https://santjordi-asociados.com/",
+							"display_url": "santjordi-asociados.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15304747,
+			"friends_count": 301,
+			"listed_count": 39297,
+			"created_at": "Thu Apr 26 07:32:00 +0000 2007",
+			"favourites_count": 73002,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 36377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1405585501256667136/n6qrOVGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1405585501256667136/n6qrOVGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5520952/1614009355",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFEE91",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 520,
+		"favorite_count": 526,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“One day you will wake up and there won’t be any more time to do the things you’ve always wanted. Do it now.” http://t.co/p7PJt9u9Ry"
+	},
+	{
 		"created_at": "Thu Feb 23 06:14:26 +0000 2023",
 		"id": 1628359526260052000,
 		"id_str": "1628639400702935040",
