@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 27 03:27:16 +0000 2023",
+		"id": 1630018252809306000,
+		"id_str": "1630046883120025602",
+		"full_text": "Ferment like wine in the barrel of your body #Rumi https://t.co/qYIpoTgzJg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Rumi",
+					"indices": [
+						45,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1630017950098006000,
+					"id_str": "1630017950098006017",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Fp78sH0aIAE0KCC.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fp78sH0aIAE0KCC.png",
+					"url": "https://t.co/qYIpoTgzJg",
+					"display_url": "pic.twitter.com/qYIpoTgzJg",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1630018252809306112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 831,
+							"h": 835,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 831,
+							"h": 835,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1630017950098006000,
+					"id_str": "1630017950098006017",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Fp78sH0aIAE0KCC.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fp78sH0aIAE0KCC.png",
+					"url": "https://t.co/qYIpoTgzJg",
+					"display_url": "pic.twitter.com/qYIpoTgzJg",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1630018252809306112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 831,
+							"h": 835,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 831,
+							"h": 835,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Debbi Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "I love anything tech, geeky and health related. Allergic to stupid tweets",
+			"url": "https://t.co/3Fk7XrPjmf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Fk7XrPjmf",
+							"expanded_url": "https://deb.bi",
+							"display_url": "deb.bi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59312,
+			"friends_count": 32891,
+			"listed_count": 1239,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20434,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1627425696888025088/IM1olF_c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1627425696888025088/IM1olF_c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1676843509",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ferment like wine in the barrel of your body #Rumi https://t.co/qYIpoTgzJg"
+	},
+	{
 		"created_at": "Mon Feb 27 01:33:30 +0000 2023",
 		"id": 1630018252809306000,
 		"id_str": "1630018252809306112",
