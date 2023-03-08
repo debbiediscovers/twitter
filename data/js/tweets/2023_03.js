@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Wed Mar 08 02:15:48 +0000 2023",
+		"id": 1633290390202892300,
+		"id_str": "1633290390202892289",
+		"full_text": "Been there https://t.co/7d5z9wnJXm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7d5z9wnJXm",
+					"expanded_url": "https://twitter.com/tferriss/status/1633142108197453824",
+					"display_url": "twitter.com/tferriss/statu…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Debbi Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "I love anything tech, geeky and health related. Allergic to stupid tweets",
+			"url": "https://t.co/3Fk7XrPjmf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Fk7XrPjmf",
+							"expanded_url": "https://deb.bi",
+							"display_url": "deb.bi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59270,
+			"friends_count": 32879,
+			"listed_count": 1238,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1631824546386034689/g3dC3_bl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1631824546386034689/g3dC3_bl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1676843509",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1633142108197453800,
+		"quoted_status_id_str": "1633142108197453824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7d5z9wnJXm",
+			"expanded": "https://twitter.com/tferriss/status/1633142108197453824",
+			"display": "twitter.com/tferriss/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 07 16:26:35 +0000 2023",
+			"id": 1633142108197453800,
+			"id_str": "1633142108197453824",
+			"full_text": "“There will come a time when you believe everything is finished. That will be the beginning.” ​— Louis L'Amour",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				110
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11740902,
+				"id_str": "11740902",
+				"name": "Tim Ferriss",
+				"screen_name": "tferriss",
+				"location": "Global",
+				"description": "Author of 5 #1 NYT/WSJ bestsellers, early-stage investor (https://t.co/cpVCd1q9Hk), Tim Ferriss Show podcast (900M+ downloads), founder of https://t.co/9bQjti0XgE",
+				"url": "https://t.co/wIdFrMI5gi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wIdFrMI5gi",
+								"expanded_url": "http://tim.blog/friday",
+								"display_url": "tim.blog/friday",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/cpVCd1q9Hk",
+								"expanded_url": "http://angel.co/tim",
+								"display_url": "angel.co/tim",
+								"indices": [
+									58,
+									81
+								]
+							},
+							{
+								"url": "https://t.co/9bQjti0XgE",
+								"expanded_url": "http://saiseifoundation.org",
+								"display_url": "saiseifoundation.org",
+								"indices": [
+									139,
+									162
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1910015,
+				"friends_count": 2840,
+				"listed_count": 23793,
+				"created_at": "Wed Jan 02 04:36:53 +0000 2008",
+				"favourites_count": 35408,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 37988,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1590221913128837121/SfucaJh8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1590221913128837121/SfucaJh8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11740902/1629114070",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 105,
+			"favorite_count": 503,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Been there https://t.co/7d5z9wnJXm"
+	},
+	{
 		"created_at": "Tue Mar 07 05:28:50 +0000 2023",
 		"id": 1632155207990927400,
 		"id_str": "1632976578631340033",
