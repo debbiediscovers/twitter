@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Thu Mar 09 03:05:12 +0000 2023",
+		"id": 1633665209905852400,
+		"id_str": "1633665209905852417",
+		"full_text": "@_johnsonator Right??? He’s only agreed to one Instagram post a day to let us know he’s still alive though…",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_johnsonator",
+					"name": "Nia is looking for a full-time VC job✨⚡️🌙",
+					"id": 729828147240284200,
+					"id_str": "729828147240284160",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1633654584844378000,
+		"in_reply_to_status_id_str": "1633654584844378112",
+		"in_reply_to_user_id": 729828147240284200,
+		"in_reply_to_user_id_str": "729828147240284160",
+		"in_reply_to_screen_name": "_johnsonator",
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Debbi Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "I love anything tech, geeky and health related. Allergic to stupid tweets",
+			"url": "https://t.co/3Fk7XrPjmf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Fk7XrPjmf",
+							"expanded_url": "https://deb.bi",
+							"display_url": "deb.bi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59266,
+			"friends_count": 32873,
+			"listed_count": 1238,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1631824546386034689/g3dC3_bl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1631824546386034689/g3dC3_bl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1676843509",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@_johnsonator Right??? He’s only agreed to one Instagram post a day to let us know he’s still alive though…"
+	},
+	{
 		"created_at": "Wed Mar 08 02:15:48 +0000 2023",
 		"id": 1633290390202892300,
 		"id_str": "1633290390202892289",
@@ -110,7 +217,7 @@ Grailbird.data.tweets_2023_03 =
 			"created_at": "Tue Mar 07 16:26:35 +0000 2023",
 			"id": 1633142108197453800,
 			"id_str": "1633142108197453824",
-			"full_text": "“There will come a time when you believe everything is finished. That will be the beginning.” ​— Louis L'Amour",
+			"full_text": "“There will come a time when you believe everything is finished. That will be the beginning.” — Louis L'Amour",
 			"truncated": false,
 			"display_text_range": [
 				0,
