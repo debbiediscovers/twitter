@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 19 04:02:19 +0000 2023",
+		"id": 1648537485067145200,
+		"id_str": "1648537485067145218",
+		"full_text": "Inspired by @PeterAttiaMD and @waitbutwhy, I created an automated Google Sheet that generates \"My Life in Weeks\" \n\nJust input your birthdate and how many years you expect to live :) https://t.co/BuNzCV4B96",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeterAttiaMD",
+					"name": "Peter Attia",
+					"id": 349347318,
+					"id_str": "349347318",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "waitbutwhy",
+					"name": "Tim Urban",
+					"id": 1282121312,
+					"id_str": "1282121312",
+					"indices": [
+						30,
+						41
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1648537157336977400,
+					"id_str": "1648537157336977408",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FuDHz24aUAA2Unq.png",
+					"media_url_https": "https://pbs.twimg.com/media/FuDHz24aUAA2Unq.png",
+					"url": "https://t.co/BuNzCV4B96",
+					"display_url": "pic.twitter.com/BuNzCV4B96",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1648537485067145218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 534,
+							"h": 764,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 534,
+							"h": 764,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1648537157336977400,
+					"id_str": "1648537157336977408",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FuDHz24aUAA2Unq.png",
+					"media_url_https": "https://pbs.twimg.com/media/FuDHz24aUAA2Unq.png",
+					"url": "https://t.co/BuNzCV4B96",
+					"display_url": "pic.twitter.com/BuNzCV4B96",
+					"expanded_url": "https://twitter.com/debbiediscovers/status/1648537485067145218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 534,
+							"h": 764,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 534,
+							"h": 764,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060836348,
+			"id_str": "3060836348",
+			"name": "Debbi Kay",
+			"screen_name": "debbiediscovers",
+			"location": "Singapore, London, New York",
+			"description": "I love anything tech, geeky and health related. Allergic to stupid tweets",
+			"url": "https://t.co/3Fk7XrPjmf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Fk7XrPjmf",
+							"expanded_url": "https://deb.bi",
+							"display_url": "deb.bi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59000,
+			"friends_count": 32799,
+			"listed_count": 1236,
+			"created_at": "Wed Mar 04 05:01:01 +0000 2015",
+			"favourites_count": 20438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1631824546386034689/g3dC3_bl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1631824546386034689/g3dC3_bl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060836348/1676843509",
+			"profile_link_color": "D50252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Inspired by @PeterAttiaMD and @waitbutwhy, I created an automated Google Sheet that generates \"My Life in Weeks\" \n\nJust input your birthdate and how many years you expect to live :) https://t.co/BuNzCV4B96"
+	},
+	{
 		"created_at": "Sun Apr 09 03:25:43 +0000 2023",
 		"id": 1644904394230734800,
 		"id_str": "1644904394230734848",
